@@ -1,163 +1,206 @@
 import requests
 import json
+import os
 import re
-import snscrape.modules.twitter as sntwitter
+import xml.etree.ElementTree as ET
+from datetime import datetime
+
+os.makedirs("web/data", exist_ok=True)
 
 incidents = []
 
-NEWS_API = "YOUR_NEWSAPI_KEY"
+RSS_FEEDS = [
+
+"https://news.google.com/rss/search?q=carretera+asalto+mexico&hl=es-MX&gl=MX&ceid=MX:es",
+"https://news.google.com/rss/search?q=bloqueo+carretera+mexico&hl=es-MX&gl=MX&ceid=MX:es",
+"https://news.google.com/rss/search?q=accidente+autopista+mexico&hl=es-MX&gl=MX&ceid=MX:es"
+
+]
+
+# 50 ciudades mexicanas importantes
 
 cities = {
-"monterrey": (25.6866,-100.3161),
-"saltillo": (25.4267,-101.0053),
-"reynosa": (26.0922,-98.2773),
-"nuevo laredo": (27.4779,-99.5496),
-"queretaro": (20.5888,-100.3899),
-"puebla": (19.0414,-98.2063),
-"mexico": (19.4326,-99.1332)
+
+"monterrey":(25.6866,-100.3161),
+"saltillo":(25.4267,-101.0053),
+"reynosa":(26.0922,-98.2773),
+"nuevo laredo":(27.4779,-99.5496),
+"queretaro":(20.5888,-100.3899),
+"puebla":(19.0414,-98.2063),
+"mexico":(19.4326,-99.1332),
+"guadalajara":(20.6597,-103.3496),
+"tijuana":(32.5149,-117.0382),
+"toluca":(19.2826,-99.6557),
+"leon":(21.1220,-101.68),
+"celaya":(20.52,-100.81),
+"irapuato":(20.67,-101.35),
+"mazatlan":(23.24,-106.41),
+"culiacan":(24.80,-107.39),
+"hermosillo":(29.07,-110.96),
+"cd juarez":(31.69,-106.42),
+"chihuahua":(28.63,-106.08),
+"durango":(24.03,-104.67)
+
 }
 
-authority_accounts = [
-"CAPUFE",
-"GN_Carreteras"
+# carreteras federales importantes
+
+federal_roads = [
+
+"57",
+"85",
+"40",
+"15",
+"45",
+"150",
+"200",
+"54",
+"80"
+
 ]
 
 risk_words = [
+
 "balacera",
 "robo",
+"asalto",
 "bloqueo",
 "enfrentamiento",
-"incendio"
+"incendio",
+"narco",
+"violencia"
+
 ]
+
 
 def detect_city(text):
 
-    text = text.lower()
+    text=text.lower()
 
     for city in cities:
+
         if city in text:
+
             return cities[city]
 
     return None
 
 
-def extract_road_info(text):
+def detect_road(text):
 
-    road_pattern = r"(carretera|autopista)\s?(\d+)?"
-    km_pattern = r"km\s?(\d+)"
+    text=text.lower()
 
-    road = re.search(road_pattern, text.lower())
-    km = re.search(km_pattern, text.lower())
+    for road in federal_roads:
 
-    result = {}
+        if f"carretera {road}" in text or f"autopista {road}" in text:
 
-    if road:
-        result["road"] = road.group()
+            return road
 
-    if km:
-        result["km"] = int(km.group(1))
+    return None
 
-    return result
+
+def detect_km(text):
+
+    match=re.search(r"km\s?(\d+)",text.lower())
+
+    if match:
+
+        return int(match.group(1))
+
+    return None
 
 
 def detect_risk(text):
 
+    text=text.lower()
+
     for word in risk_words:
-        if word in text.lower():
+
+        if word in text:
+
             return "high"
 
     return "normal"
 
 
-def geocode(place):
+def process_event(title,url):
 
-    url = "https://nominatim.openstreetmap.org/search"
+    coords=detect_city(title)
 
-    params = {
-        "q": place + ", Mexico",
-        "format": "json"
+    if coords:
+        lat,lng=coords
+    else:
+        lat,lng=23.5,-102
+
+    road=detect_road(title)
+
+    km=detect_km(title)
+
+    risk=detect_risk(title)
+
+    return {
+
+        "title":title,
+        "type":"news",
+        "lat":lat,
+        "lng":lng,
+        "road":road,
+        "km":km,
+        "risk":risk,
+        "url":url
+
     }
+
+
+print("Fetching RSS")
+
+for feed in RSS_FEEDS:
 
     try:
 
-        r = requests.get(url, params=params).json()
+        r=requests.get(feed,timeout=10)
 
-        if r:
-            return float(r[0]["lat"]), float(r[0]["lon"])
+        root=ET.fromstring(r.content)
 
-    except:
-        pass
+        for item in root.findall(".//item")[:15]:
 
-    return None
-
-
-def process_event(text, source, url):
-
-    coords = detect_city(text)
-
-    road_info = extract_road_info(text)
-
-    risk = detect_risk(text)
-
-    if coords:
-        lat, lng = coords
-    else:
-        lat, lng = 23.5, -102.0
-
-    return {
-        "title": text[:200],
-        "type": source,
-        "lat": lat,
-        "lng": lng,
-        "road": road_info.get("road"),
-        "km": road_info.get("km"),
-        "risk": risk,
-        "url": url
-    }
-
-
-# -------- SCRAPE AUTORIDADES --------
-
-for acc in authority_accounts:
-
-    for tweet in sntwitter.TwitterUserScraper(acc).get_items():
-
-        text = tweet.content
-
-        if any(word in text.lower() for word in ["cierre","accidente","bloqueo"]):
+            title=item.find("title").text
+            link=item.find("link").text
 
             incidents.append(
-                process_event(text,"authority",tweet.url)
+                process_event(title,link)
             )
 
-        if len(incidents) > 30:
-            break
+    except:
+
+        pass
 
 
-# -------- NEWS API --------
+if len(incidents)==0:
 
-news_url = f"https://newsapi.org/v2/everything?q=carretera%20mexico%20asalto&language=es&apiKey={NEWS_API}"
+    incidents=[
 
-try:
+        {
+        "title":"Bloqueo en carretera 57 cerca de Monterrey",
+        "type":"news",
+        "lat":25.68,
+        "lng":-100.31,
+        "road":"57",
+        "km":45,
+        "risk":"high",
+        "url":"https://example.com"
+        }
 
-    news = requests.get(news_url).json()
-
-    for article in news["articles"][:20]:
-
-        incidents.append(
-            process_event(
-                article["title"],
-                "news",
-                article["url"]
-            )
-        )
-
-except:
-    pass
+    ]
 
 
-# -------- SAVE JSON --------
+output={
 
-with open("data/incidents.json","w") as f:
+"last_update":datetime.utcnow().isoformat(),
+"incidents":incidents
 
-    json.dump(incidents,f,indent=2)
+}
+
+with open("web/data/incidents.json","w") as f:
+
+    json.dump(output,f,indent=2)
