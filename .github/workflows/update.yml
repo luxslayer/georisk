@@ -37,7 +37,7 @@ jobs:
           git config --global user.name bot
           git config --global user.email bot@github.com
 
-          git add data/incidents.json
+          git add .
 
           git commit -m "update incidents" || echo "no changes"
 

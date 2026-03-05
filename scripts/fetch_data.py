@@ -204,3 +204,18 @@ output={
 with open("web/data/incidents.json","w") as f:
 
     json.dump(output,f,indent=2)
+
+os.makedirs("data", exist_ok=True)
+
+if len(incidents) == 0:
+    print("No incidents found, creating empty dataset")
+
+data = {
+    "last_update": datetime.utcnow().isoformat(),
+    "incidents": incidents
+}
+
+with open("data/incidents.json","w") as f:
+    json.dump(data,f,indent=2)
+
+print("Saved", len(incidents), "incidents")
