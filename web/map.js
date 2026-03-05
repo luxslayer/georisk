@@ -63,3 +63,35 @@ markers.addLayer(marker)
 map.addLayer(markers)
 
 })
+
+function startCountdown(){
+
+function update(){
+
+const now = new Date()
+
+const nextHour = new Date()
+
+nextHour.setMinutes(0)
+nextHour.setSeconds(0)
+nextHour.setMilliseconds(0)
+
+nextHour.setHours(now.getHours()+1)
+
+const diff = nextHour - now
+
+const minutes = Math.floor(diff/60000)
+const seconds = Math.floor((diff%60000)/1000)
+
+document.getElementById("countdown").innerText =
+`${minutes}m ${seconds}s`
+
+}
+
+update()
+
+setInterval(update,1000)
+
+}
+
+startCountdown()
