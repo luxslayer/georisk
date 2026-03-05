@@ -5,6 +5,52 @@ import re
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
+from Scweet.scweet import scrape
+
+def scrape_twitter():
+
+    accounts = [
+        "CAPUFE",
+        "GN_Carreteras",
+        "SSeguridad_MX"
+    ]
+
+    tweets = scrape(
+        since="2026-03-01",
+        until=None,
+        from_account=accounts,
+        interval=1,
+        headless=True,
+        display_type="Latest"
+    )
+
+    return tweets
+
+
+def process_tweets(tweets):
+
+    for t in tweets:
+
+        text = str(t["Embedded_text"])
+
+        if any(k in text.lower() for k in [
+            "cierre",
+            "bloqueo",
+            "accidente",
+            "volcadura"
+        ]):
+
+            lat, lng = geocode(text)
+
+            incidents.append({
+                "title": text[:120],
+                "type": "twitter",
+                "lat": lat,
+                "lng": lng,
+                "url": t["Tweet URL"],
+                "risk": "normal"
+            })
+
 os.makedirs("web/data", exist_ok=True)
 
 incidents = []
@@ -71,6 +117,7 @@ risk_words = [
 "violencia"
 
 ]
+
 
 
 def detect_city(text):
@@ -152,6 +199,19 @@ def process_event(title,url):
     }
 
 
+try:
+
+    tweets = scrape_twitter()
+
+    process_tweets(tweets)
+
+    print("Twitter incidents:", len(tweets))
+
+except Exception as e:
+
+    print("Twitter scraping failed")
+    print(e)
+    
 print("Fetching RSS")
 
 for feed in RSS_FEEDS:
