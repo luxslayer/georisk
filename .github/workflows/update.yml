@@ -1,0 +1,44 @@
+name: update-data
+
+on:
+
+  schedule:
+    - cron: "0 * * * *"
+
+  workflow_dispatch:
+
+jobs:
+
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: install deps
+        run: |
+          pip install requests snscrape
+
+      - name: run script
+        run: |
+          python scripts/fetch_data.py
+
+      - name: commit
+
+        run: |
+
+          git config --global user.name bot
+          git config --global user.email bot@github.com
+
+          git add data/incidents.json
+
+          git commit -m "update incidents" || echo "no changes"
+
+          git push
