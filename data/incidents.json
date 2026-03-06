@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-06T09:54:46.516294",
+  "last_update": "2026-03-06T10:33:34.373099",
   "incidents": [
     {
       "title": "Asesinan a trailero durante intento de asalto en gasolinera de la M\u00e9xico- Pachuca - MILENIO",
@@ -82,6 +82,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkwzS19uVEZ1WnkxNEZqZlQ1MUc4blJDM3p1QXVydDVIajZ1d2h3OTdKbEVTdnFJQ1V3aFBiNmJqbFBDVU1hWUJLYXpLZ3JWY1gyZ2syOXNHdzNJWFEyNTd1VzZrdWI1Z3A1SlVwdXFtVFNXaFRkR0R5QThiNXk5NG56cGpEYm1XX3d2ako1RW5MMVdRcFVhY3Jn0gGfAUFVX3lxTE9yRFl0aUo0b0gyYW1Qa1NXR1NRY0NiRDI2bkNGRy14cDFYcVhBMGJlRDdWQjJkd2pOajVRVUJUQUk1SUdnTngtNUQ1UGVxY2o1TnRwcVNIaWNNZ29oUTliWklka0tfVlNUV250SEtfTDFBYU1zNjZkLWxXaFY2T25ZdGdLTHB5VDMtUWsxaGxuaTg0bHdFV3JzNmFaclNQbw?oc=5"
     },
     {
+      "title": "VIDEO: Automovilista Logra Evitar Intento de Asalto en la M\u00e9xico-Cuernavaca - N+",
+      "type": "news",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVVBbEt5N21lRGdLaG5OR2lmMHFEdVE0M2p1cGdzV1JVdHhTR1lJZFpiRHFOblEwZXJsT0NsVTREM1VaTmtVdzE2WWNqeXhjQ3ZFeDBWdlI1SjZUUVRZYURMSHU2MmhfOWxnVUM4SzEyRjN1eHY1bUpHb29kSzZaa3kyOW8zbHdsaWdoZWRLWTFHd3B4Rk84anNKNkFWOHA4aHhDR0FMN2FBR1NUejIxcVZ1dG9lQUZxM0djdVJXZHlXaHNkMVY0aXViX3dBNG1VeWRpR3R6eWFiQ0d2OGhTWQ?oc=5"
+    },
+    {
       "title": "Las fotos de una agresi\u00f3n en carretera no muestran un robo a funcionarios mexicanos en enero de 2026 - AFP Factual",
       "type": "news",
       "lat": 23.5,
@@ -100,16 +110,6 @@
       "km": null,
       "risk": "high",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNREowY01lWVh3ZkEybnFJYW5FMm9nTEg1UXJVVmh2ODhKWjRiOEgwc2VWQTEyZUpkTF93ZXk1NG1Hd3RNWklvQ0VkMnRkMHZZNi1vY2pmUzhOSTNjYWwwZ1dfQl9CekdNWjZoTUw3VXBlWWdFMG9VWnpFMUpmSENNTURyUWJ4MS1uZHR0dGJjOFluNTJlYkc3RjhvQnpNTVhhWU9xbzV2S1g3U3pwS0FneV9B?oc=5"
-    },
-    {
-      "title": "VIDEO: Automovilista Logra Evitar Intento de Asalto en la M\u00e9xico-Cuernavaca - N+",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVVBbEt5N21lRGdLaG5OR2lmMHFEdVE0M2p1cGdzV1JVdHhTR1lJZFpiRHFOblEwZXJsT0NsVTREM1VaTmtVdzE2WWNqeXhjQ3ZFeDBWdlI1SjZUUVRZYURMSHU2MmhfOWxnVUM4SzEyRjN1eHY1bUpHb29kSzZaa3kyOW8zbHdsaWdoZWRLWTFHd3B4Rk84anNKNkFWOHA4aHhDR0FMN2FBR1NUejIxcVZ1dG9lQUZxM0djdVJXZHlXaHNkMVY0aXViX3dBNG1VeWRpR3R6eWFiQ0d2OGhTWQ?oc=5"
     },
     {
       "title": "Refuerzan seguridad en carretera M\u00e9xico\u2013Cuernavaca ante aumento de asaltos - El Informador",
