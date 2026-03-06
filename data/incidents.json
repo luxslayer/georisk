@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-06T07:50:53.109706",
+  "last_update": "2026-03-06T08:35:53.022387",
   "incidents": [
     {
       "title": "Asesinan a trailero durante intento de asalto en gasolinera de la M\u00e9xico- Pachuca - MILENIO",
@@ -322,6 +322,16 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVZiLW1mNk1XRWZHQm1JX0J1SFdmaTRONUIyRmpvSEVtdXJIbUppU2x2Z1Y2SUhJRno4LVRnNTAySDJMcF9VNHF5VWNRSC1UbUNmTDNBTzNzSVV3V0lLeEtEQUM3dDFXN3RMNGl5WHROT2xfUXVUb2wtcjlzaWZjUXhwNUVRTzZtZTZvTXFLbmxBWlEwa0R6VTF4V3kxWExBeG13ay12WWQ3ZGhlVzdYR0VVcUhEZ9IBuwFBVV95cUxQSWNObUFrYzBTcTN4UjZnRjlkbFNKdmE1Y3ozcm1IUmJWZ3FzUDZjeFpTbXNGbFZKSU16OHhwWjdhT1d0cjlNWEJhUEdYcTFaLUNRbXdmVWc5VGhwbVdkREk5VWxaMGNET2lqNVFZdjBSZm5ac1lHQTN2X3phVm40ZzdqMm9mRndSbTNEXzJSbWE2UDF1OG0xNlJVdjE2MlJDdE00eU1PWVFvMnpWQ2JlaDNuNE1EeEhVbTk4?oc=5"
     },
     {
+      "title": "(VIDEO) Carambola en la M\u00e9xico-Quer\u00e9taro cierra carriles rumbo a CDMX: Choque fue entre un trailer y autos - El Financiero",
+      "type": "news",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWJwVF9KMGlubS1MalI5VDRUMktycDdGODlreGRtTUhBMl92Sm16c29uSDZPT0N3bzJOWmFjcWUzRDVtT0NlVVZnZVVVZXdyUWw4bGZMQW14Z3ZNZzlYNVcwaDRCUHZodVFYOWwzbWZjcGxZZkRmMUNlendXM0lFdGMySnZvR01QeGJxMDd2SnFnWUphRkVpaVNSZzZZYm9MdEJGQlVjemN3aHE5UDFzOVBVaEhQNGpSQjNNY28xWmd5YlRtV2xiSGZsaGluUTFXWkRGVGJ0ZUc?oc=5"
+    },
+    {
       "title": "Accidente en la M\u00e9xico-Quer\u00e9taro provoca reducci\u00f3n de carriles y tr\u00e1nsito lento - La Jornada",
       "type": "news",
       "lat": 23.5,
@@ -342,14 +352,14 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkJ4ZmQzOTRMOTY0b1NveWdJMUxIWEs4S3FveWtMQlE0VGpTMjVrRFhneFIxN2h3SHp5RmstLWxsZ3VNWUV4NTV2VXRYSUVlcndQMklDdjFRRlpMNGZQR1cyVHNQdlBxRm56MUlVU0FLRDI0VS1KMmoxczJTMW5uSGxtelcwbmhFSjJFZ0Q5SFMwSFV6S05YZEZCWkp0UVN6ZzFLdzJIZ3FWdnBBZzR6ajV5MDZIcnN6NmhCQ21B?oc=5"
     },
     {
-      "title": "(VIDEO) Carambola en la M\u00e9xico-Quer\u00e9taro cierra carriles rumbo a CDMX: Choque fue entre un trailer y autos - El Financiero",
+      "title": "IM\u00c1GENES FUERTES | As\u00ed fue el choque m\u00faltiple en la autopista M\u00e9xico\u2013Quer\u00e9taro HOY 5 de marzo - TV Azteca Jalisco",
       "type": "news",
       "lat": 23.5,
       "lng": -102,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWJwVF9KMGlubS1MalI5VDRUMktycDdGODlreGRtTUhBMl92Sm16c29uSDZPT0N3bzJOWmFjcWUzRDVtT0NlVVZnZVVVZXdyUWw4bGZMQW14Z3ZNZzlYNVcwaDRCUHZodVFYOWwzbWZjcGxZZkRmMUNlendXM0lFdGMySnZvR01QeGJxMDd2SnFnWUphRkVpaVNSZzZZYm9MdEJGQlVjemN3aHE5UDFzOVBVaEhQNGpSQjNNY28xWmd5YlRtV2xiSGZsaGluUTFXWkRGVGJ0ZUc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclRpeHRSOXFwLWVteHM4RlJkQnc3RzhuaWpVTVVhQXQxV0ZCanJmTjZXbGtWei1kQWRVeTNObUxDa0J1MUoxWldjdlQ0WjlCQ0xFVEVVTkxNNlFLZ2ZDYkZ5bkpBR1I1a3N5Y19MNklhM3BTeENCTXo1QjBRdWZsLXpQcERBUHBVLXFqc1lIQ0ozcUlWbkhDWGRzSWs1YXY5SmRqV3dPNHFyc0FneURCWWJFM2JUNFptUGstbHJB?oc=5"
     },
     {
       "title": "Megachoque HOY en la M\u00e9xico-Quer\u00e9taro: Cierre Total y Caos Vial a la Altura de Coyotepec - N+",
@@ -360,16 +370,6 @@
       "km": null,
       "risk": "normal",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY0hOeGJfM3ZfYmVJWTc2dGxzM2MtN3FtOEoxN3V2Y0NVN0lZbERCTVZGTGlyUUM3VWVxbjRvdFJvRGpFMjRtQ2UzUEtxcWZXTU95OWd5VHhKbkpZNTM3dHFUUDN3bW1LMHY5VE04bW1MM0JnUGlweDJBWUpYWnFMY2ZtanY2dW1BV3N6SGVlTjg4bzhFT3hDR0o5bUFGLUlITGlJMGNYUElaYnU4NlFsREVoZy1VaDBWVmtsODItZmc0UzJiUnhjcElvREhvaGtrM2RfN3BRZGY?oc=5"
-    },
-    {
-      "title": "IM\u00c1GENES FUERTES | As\u00ed fue el choque m\u00faltiple en la autopista M\u00e9xico\u2013Quer\u00e9taro HOY 5 de marzo - TV Azteca Jalisco",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclRpeHRSOXFwLWVteHM4RlJkQnc3RzhuaWpVTVVhQXQxV0ZCanJmTjZXbGtWei1kQWRVeTNObUxDa0J1MUoxWldjdlQ0WjlCQ0xFVEVVTkxNNlFLZ2ZDYkZ5bkpBR1I1a3N5Y19MNklhM3BTeENCTXo1QjBRdWZsLXpQcERBUHBVLXFqc1lIQ0ozcUlWbkhDWGRzSWs1YXY5SmRqV3dPNHFyc0FneURCWWJFM2JUNFptUGstbHJB?oc=5"
     },
     {
       "title": "Bloqueos carreteras HOY 3 de marzo: Autopistas cerradas en M\u00e9xico, cierres viales y rutas alternas seg\u00fan CAPUFE - Eje Central",
