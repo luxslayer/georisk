@@ -1,3 +1,4 @@
+//Map update based on incidents.json
 const map = L.map("map").setView([23.5,-102],5);
 
 L.tileLayer(
@@ -37,3 +38,32 @@ fetch("data/incidents.json")
 
     heat.addTo(map);
   });
+
+//CRON UPDATE ON SCREEN 
+const UPDATE_INTERVAL = 900; // 15 minutes = 900 seconds
+let timeLeft = UPDATE_INTERVAL;
+
+const countdownElement = document.getElementById("countdown");
+
+function updateCountdown() {
+
+    const minutes = Math.floor(timeLeft / 60);
+    const seconds = timeLeft % 60;
+
+    countdownElement.textContent =
+        `${minutes}:${seconds.toString().padStart(2,"0")}`;
+
+    if (timeLeft <= 0) {
+
+        location.reload(); // recargar mapa cuando llegue a 0
+
+    } else {
+
+        timeLeft--;
+
+    }
+}
+
+setInterval(updateCountdown, 1000);
+
+updateCountdown();
