@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-06T07:07:22.134600",
+  "last_update": "2026-03-06T07:50:53.109038",
   "incidents": [
     {
       "title": "Asesinan a trailero durante intento de asalto en gasolinera de la M\u00e9xico- Pachuca - MILENIO",
@@ -222,16 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNlQ3VTI3ZWItMFg0N0w4QnM5UUNLZ1RBYkpGREhFTEl5SXc1LXNUWUxudDJrN0oxNU1tLXBUbFdaN1RKN0J0eUh6RTc3bFQ0WHlEZEhtYVBlZUxRYUtTWkp0SWE4ZWNHQ1RaNk5oQ0hHSDB2UDRrTGN4OFZXckxaRzd3LWllWE1qYTJ4N0hYWGpFM0t1VG45d0FlVXI3cG13eVZ2dHZ6Zy1hdF80aklidXZxaTlKZS1GOVNjVWI1NGhRWmIwTGNBdnJPS1JwX1F1b0xmd09vamU?oc=5"
     },
     {
-      "title": "Marchas y bloqueos en CdMx HOY 5 de marzo: Prev\u00e9n cierres en reforma y otras avenidas afectadas este jueves | - MILENIO",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXhiRk5FbjM3MlkxM0VTaVh4VGxVU2lIOUc4QkpELW52WmNmZzFqR3ZNZTFjVHpDZ0ZVSWZmZXhybFVUaUMwQkRNV3AzdnYyMFlRLVVBZjVhVjdNZ1BLMTJ0UnVHN3A3S1BVRjNXT2tFRldaZkhBQlpXdW9RVktHOTU5QjhXdFVObzJMS1ZYWE1udHloOG95NVNRN2VvRXZQR1lr0gGjAUFVX3lxTFAwNXdzZW03RTZEVTM4eXZPTzQyQXZSWElsb2dEZlhzVV9uZGFHNEJUenVuUXJ2OU85c0pUZkhiSVA3YXpob0pvbEFtQU5DR2NQZmlhU1JaWWRYaENGaEF1eEd5U2czdV9nbnM2RFlvZ3pjM2FTYkpHbVM3VHhvTUw4Q2R1a2g1azJPLVlNZlR1UjNFNm9udXJnLUVmYzljUjVSeWM?oc=5"
-    },
-    {
       "title": "\u00bfHay Carreteras Bloqueadas Hoy? As\u00ed el Tr\u00e1fico en Autopistas de M\u00e9xico el 3 de Marzo 2026 - N+",
       "type": "news",
       "lat": 23.5,
@@ -302,6 +292,16 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ3lMM2ZEZFBJb2h0eU56U24xbDIxdjNGcGF6bTJsZldoOHY5VXB3RzJ2OF9HeTIzbDlsZ0FpLVdndDVNQ01yVVZLNlNyaUlmRENBa0FkSVFURkFFdkdaM0lCUDhrZHMzcHFsbENBV0JjRmQwUmhkaTlEUnI2Vmdmb1hnWTJfTlN1dXhlQzZfU1l2Z0hSLWcwX1h5MnZNaW04ZTlPZWIxUzF5dnpsZExNUUN3dkVXZmJUT3hoQ1ZENE5sRW5kQ0h5VEJwX09NU3FjWnlUNlk5QVVyRTVUYnRjeTdZRWNaQQ?oc=5"
     },
     {
+      "title": "Carreteras Bloqueadas en M\u00e9xico Hoy, Lunes 2 de Marzo de 2026 - N+",
+      "type": "news",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkFwOEl4N1ctQlN6RGJNUGZlLW1rWTNnQmxCM1lEZDYzak9OVDBGMWtjM1lJR3RGbmYtdEFlVlJ5N0R4Y1lRekVwNUotX3FaZVp0aE1OUnI4SjFmRzFhVUcxWmluaFNyemNtZGpuVkxuak5MYTNBOERQcVVSY2tjS1E0X0gtQTN4QVZYbml5dExZN1UyMDJDdkhJVmpiZ1JsUkF3dkF3?oc=5"
+    },
+    {
       "title": "Grave Accidente Hoy en la M\u00e9xico\u2013Quer\u00e9taro: Hay Varios Camiones y Tr\u00e1ileres Involucrados - N+",
       "type": "news",
       "lat": 23.5,
@@ -352,16 +352,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTWJwVF9KMGlubS1MalI5VDRUMktycDdGODlreGRtTUhBMl92Sm16c29uSDZPT0N3bzJOWmFjcWUzRDVtT0NlVVZnZVVVZXdyUWw4bGZMQW14Z3ZNZzlYNVcwaDRCUHZodVFYOWwzbWZjcGxZZkRmMUNlendXM0lFdGMySnZvR01QeGJxMDd2SnFnWUphRkVpaVNSZzZZYm9MdEJGQlVjemN3aHE5UDFzOVBVaEhQNGpSQjNNY28xWmd5YlRtV2xiSGZsaGluUTFXWkRGVGJ0ZUc?oc=5"
     },
     {
-      "title": "IM\u00c1GENES FUERTES | As\u00ed fue el choque m\u00faltiple en la autopista M\u00e9xico\u2013Quer\u00e9taro HOY 5 de marzo - TV Azteca Jalisco",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclRpeHRSOXFwLWVteHM4RlJkQnc3RzhuaWpVTVVhQXQxV0ZCanJmTjZXbGtWei1kQWRVeTNObUxDa0J1MUoxWldjdlQ0WjlCQ0xFVEVVTkxNNlFLZ2ZDYkZ5bkpBR1I1a3N5Y19MNklhM3BTeENCTXo1QjBRdWZsLXpQcERBUHBVLXFqc1lIQ0ozcUlWbkhDWGRzSWs1YXY5SmRqV3dPNHFyc0FneURCWWJFM2JUNFptUGstbHJB?oc=5"
-    },
-    {
       "title": "Megachoque HOY en la M\u00e9xico-Quer\u00e9taro: Cierre Total y Caos Vial a la Altura de Coyotepec - N+",
       "type": "news",
       "lat": 23.5,
@@ -370,6 +360,16 @@
       "km": null,
       "risk": "normal",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY0hOeGJfM3ZfYmVJWTc2dGxzM2MtN3FtOEoxN3V2Y0NVN0lZbERCTVZGTGlyUUM3VWVxbjRvdFJvRGpFMjRtQ2UzUEtxcWZXTU95OWd5VHhKbkpZNTM3dHFUUDN3bW1LMHY5VE04bW1MM0JnUGlweDJBWUpYWnFMY2ZtanY2dW1BV3N6SGVlTjg4bzhFT3hDR0o5bUFGLUlITGlJMGNYUElaYnU4NlFsREVoZy1VaDBWVmtsODItZmc0UzJiUnhjcElvREhvaGtrM2RfN3BRZGY?oc=5"
+    },
+    {
+      "title": "IM\u00c1GENES FUERTES | As\u00ed fue el choque m\u00faltiple en la autopista M\u00e9xico\u2013Quer\u00e9taro HOY 5 de marzo - TV Azteca Jalisco",
+      "type": "news",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclRpeHRSOXFwLWVteHM4RlJkQnc3RzhuaWpVTVVhQXQxV0ZCanJmTjZXbGtWei1kQWRVeTNObUxDa0J1MUoxWldjdlQ0WjlCQ0xFVEVVTkxNNlFLZ2ZDYkZ5bkpBR1I1a3N5Y19MNklhM3BTeENCTXo1QjBRdWZsLXpQcERBUHBVLXFqc1lIQ0ozcUlWbkhDWGRzSWs1YXY5SmRqV3dPNHFyc0FneURCWWJFM2JUNFptUGstbHJB?oc=5"
     },
     {
       "title": "Bloqueos carreteras HOY 3 de marzo: Autopistas cerradas en M\u00e9xico, cierres viales y rutas alternas seg\u00fan CAPUFE - Eje Central",
@@ -412,14 +412,14 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSUpQbHB2TElsN3VsQXM3dVZ2OWc0ZnJiQk55cTZ6Yk9jUHFBN2psS09xZkcwdFVRVGNCcXBvY0VkblFTcjlEM3I0NTBWcjYxaTZTblFRVnlwVzB2ejJrcDRRNm1fVjlScmZRN2tGM3Z6VnR2RTRBeGEtWkpyNTh4RV9FeVV1RHA4alpsR3d2MlFHOWQydU4zb2dUQ3V1TWw3YzVWQVo2N2hsLS1ZUGxUYVQ1REhRWWk5NmY3VjVMLTVZeU1odmQzckJpeHU0VjhjdktjSjZvbll6QThTaS1GZEFSbkdDZw?oc=5"
     },
     {
-      "title": "As\u00ed Se Ve Desde el Aire Caos por Megachoque Hoy en la M\u00e9xico-Quer\u00e9taro - N+",
+      "title": "\u00bfQu\u00e9 Pas\u00f3 en la M\u00e9xico-Puebla Hoy? Reabren Circulaci\u00f3n tras Choque M\u00faltiple - N+",
       "type": "news",
-      "lat": 23.5,
-      "lng": -102,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzZzSFNhSVFENmprWksyTlYzaGo3QTR2VFotWlp2STI2UHphck1TbTFnWGZPZHduamk3MVh5OFd3d3BTOWhNTG5JenhBRHl6YXlqcFVwZF9WNG5yeTI5dnRhRGFxZDFZRm5XMlFmMF9HSjVnMURWU05sMVBoOGpsamY2WXVyUWtJcENld1I1VUdoOTl6aWNJbFBUQjl2QU8wNlh1WU0wSmp0a1YwSndfVEZhTG11MGU5VUlibDFFclN1dHFzVkpz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTkzOG4zRWkwdy1xQ3RQVzlWVlk2VUx1MW81NmVrc2ItbjBwYlFYT2xrSnNETzk2YmYxOE5ocEh6b2Focm9XWWxOSnBpZXZJd056MFVCeHY5dUNNTmF4QV8xeHp6ZkZQQTdjYzdxclQycHJCN3UzYUpIc1ZmN09fTXJWb1lhRnp6d2thLUV0c2FaS3ctUzEwVWxSOEJiRklUMDZ4Zkd0eHBaNFRya1JldzFUZWcwREZkUUwyaA?oc=5"
     },
     {
       "title": "\u00bfHay Cierres en la Autopista M\u00e9xico-Quer\u00e9taro Hoy VIERNES 6 de Marzo de 2026? - N+",
@@ -432,14 +432,14 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGJFbVNlc1lHd3d4RS0xTFAtcnhXc21Ib1dfWFo4RDItX0xwNXkxSUhPRW9OWklabzJUV0dPZUYzVVg3b2NoWEFQcjJILTBiRWVwbkZaaXVHaVJiZmp4SlRYTnJSLUgxaGJwRlJkNVpxOE14RjZGcnNKODFUYnhoWXF4VDhGc0xMSl9UT0Iyd2pvN3hGS2ZrVlJWdEN0UlctY2hIRGtYS1diUnJNanlESlk1ZG9kNGlL?oc=5"
     },
     {
-      "title": "\u00bfQu\u00e9 Pas\u00f3 en la M\u00e9xico-Puebla Hoy? Reabren Circulaci\u00f3n tras Choque M\u00faltiple - N+",
+      "title": "As\u00ed Se Ve Desde el Aire Caos por Megachoque Hoy en la M\u00e9xico-Quer\u00e9taro - N+",
       "type": "news",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 23.5,
+      "lng": -102,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTkzOG4zRWkwdy1xQ3RQVzlWVlk2VUx1MW81NmVrc2ItbjBwYlFYT2xrSnNETzk2YmYxOE5ocEh6b2Focm9XWWxOSnBpZXZJd056MFVCeHY5dUNNTmF4QV8xeHp6ZkZQQTdjYzdxclQycHJCN3UzYUpIc1ZmN09fTXJWb1lhRnp6d2thLUV0c2FaS3ctUzEwVWxSOEJiRklUMDZ4Zkd0eHBaNFRya1JldzFUZWcwREZkUUwyaA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzZzSFNhSVFENmprWksyTlYzaGo3QTR2VFotWlp2STI2UHphck1TbTFnWGZPZHduamk3MVh5OFd3d3BTOWhNTG5JenhBRHl6YXlqcFVwZF9WNG5yeTI5dnRhRGFxZDFZRm5XMlFmMF9HSjVnMURWU05sMVBoOGpsamY2WXVyUWtJcENld1I1VUdoOTl6aWNJbFBUQjl2QU8wNlh1WU0wSmp0a1YwSndfVEZhTG11MGU5VUlibDFFclN1dHFzVkpz?oc=5"
     },
     {
       "title": "Trailero Sufre Fuerte Volcadura en la Autopista M\u00e9xico-Puebla \u00bfHay Paso? - N+",
