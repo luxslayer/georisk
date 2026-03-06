@@ -8,7 +8,7 @@ L.tileLayer(
 const markers = L.markerClusterGroup();
 let heatPoints = [];
 
-fetch("data/incidents.json")
+fetch("incidents.json?nocache=" + Date.now())
   .then(res => res.json())
   .then(data => {
 
