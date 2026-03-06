@@ -55,7 +55,7 @@ function updateCountdown() {
 
     if (timeLeft <= 0) {
 
-        location.reload(); // recargar mapa cuando llegue a 0
+        location.reload(); // reload when reaching 0
 
     } else {
 
