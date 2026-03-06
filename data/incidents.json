@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-06T11:40:24.756970",
+  "last_update": "2026-03-06T12:01:50.585463",
   "incidents": [
     {
       "title": "Asesinan a trailero durante intento de asalto en gasolinera de la M\u00e9xico- Pachuca - MILENIO",
@@ -82,16 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkwzS19uVEZ1WnkxNEZqZlQ1MUc4blJDM3p1QXVydDVIajZ1d2h3OTdKbEVTdnFJQ1V3aFBiNmJqbFBDVU1hWUJLYXpLZ3JWY1gyZ2syOXNHdzNJWFEyNTd1VzZrdWI1Z3A1SlVwdXFtVFNXaFRkR0R5QThiNXk5NG56cGpEYm1XX3d2ako1RW5MMVdRcFVhY3Jn0gGfAUFVX3lxTE9yRFl0aUo0b0gyYW1Qa1NXR1NRY0NiRDI2bkNGRy14cDFYcVhBMGJlRDdWQjJkd2pOajVRVUJUQUk1SUdnTngtNUQ1UGVxY2o1TnRwcVNIaWNNZ29oUTliWklka0tfVlNUV250SEtfTDFBYU1zNjZkLWxXaFY2T25ZdGdLTHB5VDMtUWsxaGxuaTg0bHdFV3JzNmFaclNQbw?oc=5"
     },
     {
-      "title": "Polic\u00eda de Hidalgo frustra asalto en carretera M\u00e9xico\u2013Pachuca - News Hidalgo",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2JsVXlUazUyQjhtNEhWbFBEaEhfbzR1WVk1Q3l0d0NVa1VrX2tlTmZXZlVaa0pfT2tOT25Bd1NnMGp3U3BqR0ZCYzBoVjA0M0RRZlRlRzd3UUVkVGxaSVBfR2dfX1FzSnc5VFZQZXBMMWMyOXRWNFA4Z05CRFVoWXFlY2ExOFJMeVZoMWlCYkh1UWdYR3FXOQ?oc=5"
-    },
-    {
       "title": "VIDEO: Automovilista Logra Evitar Intento de Asalto en la M\u00e9xico-Cuernavaca - N+",
       "type": "news",
       "lat": 23.5,
@@ -112,16 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xeXA0ZXl2STdNT1hMZE00R2djTEhjckNKdm5kNmlZamVxbVRjV2l6RUdNclBJX3hLQVl5bllxdmpNZnAtNElicWpVWTlCR0F5RG5VeUJ3?oc=5"
     },
     {
-      "title": "Refuerzan seguridad en carretera M\u00e9xico\u2013Cuernavaca ante aumento de asaltos - El Informador",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWFiSGp4bExmMnkxemhTN281Q3VlUFNoQk1BMkx1cU55WE4weTRqT1ZMd2I5QWs1b3pnQ3EwY3J2ekM1cC1ieWltVHJlZ1YwTktPaExpQWhkTGVtTWVvX0FLY3dvT0dZN29kQ1FDRGRXcEN4TlpwR2lJVERTV3pndVI0bE12T0gxWW16X3ItalM1endLc3I4YWdwaXcxRFdmT1dDTDBVZzI3cmJkWllBM1p1MEY4UUpsSFIzc0Y5d3g4azdMT2JV0gHMAUFVX3lxTE92M3E0dFlmN29RandNUXNnTk1nM0t3T08ya3RrdjB4YmhUbkUyS2lxNWVpazIzMXNhSllDMnpxUklGSEU0UDV5UFJreXAxSDA1QXNva19McVBHX05jYmt6YTd1Y0F6Q1kxWmhjMEk5SXBvX1F3ZVptOTJ3YU1mTVpoMGRzZVQ1UVl4WG1tckpJZUhXZ3JTc3dla0dQS1NVbENQMTBIc212Znd1M2tWRVRzV3pWZVFLSWpDNm9qX2E2NTlVRE13ZjZ1LWtkag?oc=5"
-    },
-    {
       "title": "Asalto a equipo de Presidencia reaviva alerta en carreteras: ve las m\u00e1s inseguras - UnoTV",
       "type": "news",
       "lat": 23.5,
@@ -130,6 +110,16 @@
       "km": null,
       "risk": "high",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNREowY01lWVh3ZkEybnFJYW5FMm9nTEg1UXJVVmh2ODhKWjRiOEgwc2VWQTEyZUpkTF93ZXk1NG1Hd3RNWklvQ0VkMnRkMHZZNi1vY2pmUzhOSTNjYWwwZ1dfQl9CekdNWjZoTUw3VXBlWWdFMG9VWnpFMUpmSENNTURyUWJ4MS1uZHR0dGJjOFluNTJlYkc3RjhvQnpNTVhhWU9xbzV2S1g3U3pwS0FneV9B?oc=5"
+    },
+    {
+      "title": "Refuerzan seguridad en carretera M\u00e9xico\u2013Cuernavaca ante aumento de asaltos - El Informador",
+      "type": "news",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWFiSGp4bExmMnkxemhTN281Q3VlUFNoQk1BMkx1cU55WE4weTRqT1ZMd2I5QWs1b3pnQ3EwY3J2ekM1cC1ieWltVHJlZ1YwTktPaExpQWhkTGVtTWVvX0FLY3dvT0dZN29kQ1FDRGRXcEN4TlpwR2lJVERTV3pndVI0bE12T0gxWW16X3ItalM1endLc3I4YWdwaXcxRFdmT1dDTDBVZzI3cmJkWllBM1p1MEY4UUpsSFIzc0Y5d3g4azdMT2JV0gHMAUFVX3lxTE92M3E0dFlmN29RandNUXNnTk1nM0t3T08ya3RrdjB4YmhUbkUyS2lxNWVpazIzMXNhSllDMnpxUklGSEU0UDV5UFJreXAxSDA1QXNva19McVBHX05jYmt6YTd1Y0F6Q1kxWmhjMEk5SXBvX1F3ZVptOTJ3YU1mTVpoMGRzZVQ1UVl4WG1tckpJZUhXZ3JTc3dla0dQS1NVbENQMTBIc212Znd1M2tWRVRzV3pWZVFLSWpDNm9qX2E2NTlVRE13ZjZ1LWtkag?oc=5"
     },
     {
       "title": "Polic\u00eda muere tras presunto asalto sobre la carretera Yuriria-Salvatierra en Guanajuato - Telediario M\u00e9xico",
@@ -142,14 +132,24 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkxtTmxLZEROR1VicEt5RndoclFhdXZrTnpxejltY1lOWDRqajQwakdsUVNOemRONTVpMndoUW1MME9LbTlSclJDMnVlSVZ1ZzVnaEt2ZmZsc21CbkdJbU50bHVKNUgwVV9SU1g4YmtzYm1vV2FYZTFYREJoNFh2VmI5OElKNzNEVGpEWTlMN05MN0NXcGY1SEJjZzjSAZwBQVVfeXFMTXRqUXhKbVRVUllHZTA0ajlra0w0MmNTSDFzM1NtakpTNU5XbFdFbWszdTYxSlBXOTMtTEtnbUVvTVJZeHdvMGFjWjJQdmdWQU9HWXJNbENjQXJUcTF0VlNVdmNhYXpyN2Q2cUQ0ZTA0SEVuOWpXcGJCY0JMMlBIaUk0RmZpSV9mMzNDdFY0UUZQVllmX2xCRDFSalpU?oc=5"
     },
     {
-      "title": "Rutas del miedo: Estos son los estados m\u00e1s peligrosos para los transportistas en M\u00e9xico (MAPA) - El Financiero",
+      "title": "Asalto en carretera federal 57; roban m\u00e1s de un mill\u00f3n de pesos en autob\u00fas rumbo a Matamoros - El Universal",
       "type": "news",
       "lat": 23.5,
       "lng": -102,
       "road": null,
       "km": null,
-      "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVXVIM3pHMWplTmJ6ZDc2QUxsdk9BaF9RWnlJb2F3QkpVbDJXZTNveXhqXzBnUHA3bVZhU0FWQkVramdoLVdlSnQ2UTNLUld6aFFkTUNVVk4xM3ZuaFRKTUdNS1dmdXBELWZiZWdqd1RwVnduT0FDTzhyaVdWRklXRm9OUmpUYWlfaXlOc1p6SzYwWE03U2NsZ0xkODgzUWlFVGZOcWI5cC1lX2hRUWk3aWRjWVFkWkdTVXVJSGxaVldudTU1eTRMWXZqdThBRUVocWpBbDhfTQ?oc=5"
+      "risk": "high",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQekowRGxOdml5enlGVGNuazY5ZE5KSE9xUElJaWdVWlUzVlVUc25UZWNHc3RldkxhcUI2MHVzaE4zeVhuM2tfZ2xnRHFBRXhYT3dvcHI2SFpobUM4VkNTTjFua3Y0M1l0NGRjQk5GODlrRUg4WkhIOFJUWndRNmhCN3RiaGRveWI4Nk9wWWdDSFZRUW9BSVlhclZaSEg5X2tDME9ZZ1lPUkZOYlVsb2R4dV9wb3E4WnVoR2IxUzN1bHMwaWdrZUxxcGhhZ9IB3wFBVV95cUxPdHFVdURnTHNHOXFJSEZwd1JHckxLek15WHNFUVBhYUxPRklDQmpRaGRILWtHTGJ1TWM3d2hIcFp3RWgteDJ4d1UydG9Fc1dXUUVUeW5IdWVndXF2clVfbko5eE1VMmtWNE5qMTM0Nm5jakVkbnR0dVg3R1VmWFZjaERLVHVTSXNRdDhZS1ctamNWWGxtblY3bm9EVml4aVZXWjJ4b3RZcDFGVF96bEdWRUJpR2xoeHYyeTZSN1A4S3pva2ppb0d3aVpYVEkxUGFjTDN0YVFQd0RWd0wyVEcw?oc=5"
+    },
+    {
+      "title": "Carretera M\u00e9xico-Puebla: video de intento de asalto a autob\u00fas ADO direcci\u00f3n CDMX - La Silla Rota",
+      "type": "news",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd2VVcVlHTmhkVlNkb01GZEVKZGs1NnhmdUc2ODdLMXllcWtobGNIUWU5VmR6aS16WGl1dmg3aG5RLW5jLWFZVE4ydC1kRzFlV1VGRllIZkR4VnliS0N4ZWN2blB1QnRQRUxJNUNqSGM3UUxVMEdISHkzbUZwMm1CZXozZUphZ2JkX29qRGtVVC1WcjNpM2VpR085UkUxZEdsN1U5VFVHeXZvUy1wcU9lMnZybG0xSnRDT185a2p1YTExWlp1QldLbzROQjLSAcwBQVVfeXFMTXdlVXFZR05oZFZTZG9NRmRFSmRrNTZ4ZnVHNjg3SzF5ZXFraGxjSFFlOVZkemktelhpdXZoN2huUS1uYy1hWVROMnQtZEcxZVdVRkZZSGZEeFZ5YktDeGVjdm5QdUJ0UEVMSTVDakhjN1FMVTBHSEh5M21GcDJtQmV6M2VKYWdiZF9vakRrVVQtVnIzaTNlaUdPOVJFMWRHbDdVOVRVR3l2b1MtcHFPZTJ2cmxtMUp0Q09fOWtqdWExMVpadUJXS280TkIy?oc=5"
     },
     {
       "title": "\u00bfHay Carreteras Bloqueadas Hoy? Lista de Autopistas con Afectaci\u00f3n el 4 de Marzo 2026 - N+",
@@ -212,6 +212,16 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR090NDFXNGdfdmxVWGx4ZkZmLUppYjlKN0dkbjFZbE05bWlDNlFHZkpZeUZQVFdqcDB3R2JsUVlNRkxtOS1OT3hnaE9qM2VvdmNGeXFBWElxekhUMFl2SWxjSUtpUzdIWjBrVWUwVVJmQ0I3UmM3dUJ1Rk1YM2pzTm1iWlBfRkhGUm04NnpoVTF6NDR40gGUAUFVX3lxTE5GVVRyajN0dml4TjA2M0wteWZXY3hmeVAwTG5Ydm1TU2lyVllkZGFtTjIyQ0VkQzhkUkVBaG4wbThGa2loZUJKMlllQzBrUkdXazdEdVRMUmNQMGdRQkJSYzVINzdmeF9GTE5WS19OUmppalFvRjg5TDBYa1N1OVhvWHlCNjJsdWlfRE1wMHFsdnI3ZEo?oc=5"
     },
     {
+      "title": "Marcha y bloqueos provocar\u00e1n tr\u00e1fico pesado en calles de 8 alcald\u00edas hoy - adn40.mx",
+      "type": "news",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU5rZk92UHplLXE1RFhTU1g1dldlMWxvQkd4clNzT25RR3FUcmxWUTc3UWZCemdfTlh1aTFtVG5iYUIyMlZ4SWxFMHNzc3UwRnRJU3ZDZ24ySFdpdUJKWXhZQ2htTy1FZjVTMGJwMHo0M1lrMG5jYUFmcVBWTjlzQy1fTmxIMk44?oc=5"
+    },
+    {
       "title": "\u00bfHay Carreteras Bloqueadas Hoy? As\u00ed el Tr\u00e1fico en Autopistas de M\u00e9xico el 3 de Marzo 2026 - N+",
       "type": "news",
       "lat": 23.5,
@@ -220,6 +230,16 @@
       "km": null,
       "risk": "normal",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa05tenZoUHVRakk4Mi1HbjgyMkVXUXFDUnhRVk9hX3NBdWwwWENESmtSZzgxS3U2TWJGemQyZVRJY1J1UFJ0bzFjSklINUxkazBlZVhBYlllbEZ6OUtEcTFjbXhzU25UV2hjQWxYbXNocGNrVURJUDh6ZzBoSXZ1REt1X2RNTVJteFdfVTRzbjlEMnZxTWNsdXh3STlCYWxac2pZdm4ySlNzUThnN3pOWHE2bWZCdG83aFZMYQ?oc=5"
+    },
+    {
+      "title": "Cierre total de la autopista M\u00e9xico-Puebla hoy, 4 de marzo: a qu\u00e9 hora bloquear\u00e1n los carriles y el motivo - Ambito",
+      "type": "news",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHVSVzdzeXVfU2E0blhWdjNHQnRMa0x1M1JRdmdZSXhsUExubjk2SEVZSjNrS1hLbzJpenFZSHZYeWFnWkJJWWNBRkMydVFnVldSaldSUm1ZTnNMejJyVWx6MDFvbDVkb3ZKbGN2QzIzLTlHek5heEN5NmFpV3JpeUdkRHRESFZXcWVLM1FsTFY1TXFEeEhoNXhMQmxQLVFOdUw1eVFkM3gwSndSdXhFNGZsNV9yWHFVWnJYcnZRaFpnZEc0UVBkempJMzVMNXpKRUppcHB0dWtMT2tBQkRfWlh0T3hzTTlrSGhj0gHwAUFVX3lxTE5rTV8xN05ib1MtV2xGZGZjODYxSWNaOHk2d2pzREJhN1JjNDhnYzluZ25hUlZ6N3RxQzU3R2lxb1dxa3loX3RHOEQybjU3amVkRW4wdjJpSHlXeG1QMXBFYW9YNXJISjdfTVU5ekI2dDMwenQyU0k0Z1ViMWtnemJmU2xtcUtSTTc5bVFpVkxfMDF5Vm8xb2FwU0ROMWlwdWdPQjhvM2RkUDhmLTRaX3dfVnpRWUNqbUJla1h4YlNDRHJPcUc1QVVzVWtiX2o1d05BNlN2NTVMeXZvRHVxTGFQSU9iMlN4LW5tLVU1c0dUQg?oc=5"
     },
     {
       "title": "Bloqueos carreteras HOY 4 de marzo: Autopistas cerradas en M\u00e9xico, cierres viales y rutas alternas seg\u00fan CAPUFE - Eje Central",
@@ -262,6 +282,16 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVNQaklSTWlGZFpBNnMydXdhcVVVUGRnU2YtNHpTaWM0dGJ0UkV4SWFaSGxCQjc4RVJxNGZPU1RhZFYySDVraUwyRkJjTlhBZUk3QVo3RE1hQ3dHVmhjQTNJYWkxODhsOXZKaWhFV3dMa0xZMWpEOE1RS1pkanZRbEs5X0VsMW9FUWNSa2VSVTBCXzFSM2s3QnpqN1ZjRTY3NW1xTXBYVzhWdkJGLXFpeXNONUhKV0VZbEk3cVNYSS1LYUxScWdXejFndl9pS3Fzd3RlMzB4Y054clEtRGJJamtmSXN5UQ?oc=5"
     },
     {
+      "title": "Liberan bloqueo la M\u00e9xico-Toluca por desabasto de agua - El Sol de M\u00e9xico",
+      "type": "news",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVNXTGtZUGlIa1NVajA0WGVfb29VMDk5NWw2Z2FyeWdHbWVpRlJkWlpaX21zVDd2ZGFDRjZCSUFpLXpuMGs0QVV5c0dSRDlOVmFJal9xME9MeEJFY3hMQmRxUnlMRVdydEI0NjB3cU45OWN0azJVNmtONjBvc2l5eEJqVFRxa3RVbjRtQ0tR?oc=5"
+    },
+    {
       "title": "Bloqueo en la Autopista Puebla-Orizaba por Manifestaci\u00f3n Provoca Caos Vial; Esto Se Sabe - N+",
       "type": "news",
       "lat": 19.0414,
@@ -270,36 +300,6 @@
       "km": null,
       "risk": "high",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFQ1Vjgwb01PVXhqdTlwdGo1eG1YM1pFS0JNTkpGQjhDZVVra3ZuNjAtbzQzY0RJcTF5bDZGMER1QjJSY2VwZXltcW9MZUk3bnZVbzF1OUlSSS1DR21xbmZjWnA3elhkemw3UE5qZmQxTExyWXcyS2FzRl9kaFVwUVhGWWgyMjZVX3JMeFBKUjlhaVc3ZUQ0WUQwMkQwUWdVbjVySW5CTWxYbVZ6TlhhTWVyc2s1Tm1KVVhRTXV0b3V6VGN3aTNEMDhvQXNvN1BtMjZGbw?oc=5"
-    },
-    {
-      "title": "Bloqueos carreteras HOY 2 de marzo: Autopistas cerradas en M\u00e9xico, cierres viales y rutas alternas seg\u00fan CAPUFE - Eje Central",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ3lMM2ZEZFBJb2h0eU56U24xbDIxdjNGcGF6bTJsZldoOHY5VXB3RzJ2OF9HeTIzbDlsZ0FpLVdndDVNQ01yVVZLNlNyaUlmRENBa0FkSVFURkFFdkdaM0lCUDhrZHMzcHFsbENBV0JjRmQwUmhkaTlEUnI2Vmdmb1hnWTJfTlN1dXhlQzZfU1l2Z0hSLWcwX1h5MnZNaW04ZTlPZWIxUzF5dnpsZExNUUN3dkVXZmJUT3hoQ1ZENE5sRW5kQ0h5VEJwX09NU3FjWnlUNlk5QVVyRTVUYnRjeTdZRWNaQQ?oc=5"
-    },
-    {
-      "title": "Carreteras Bloqueadas en M\u00e9xico Hoy, Lunes 2 de Marzo de 2026 - N+",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkFwOEl4N1ctQlN6RGJNUGZlLW1rWTNnQmxCM1lEZDYzak9OVDBGMWtjM1lJR3RGbmYtdEFlVlJ5N0R4Y1lRekVwNUotX3FaZVp0aE1OUnI4SjFmRzFhVUcxWmluaFNyemNtZGpuVkxuak5MYTNBOERQcVVSY2tjS1E0X0gtQTN4QVZYbml5dExZN1UyMDJDdkhJVmpiZ1JsUkF3dkF3?oc=5"
-    },
-    {
-      "title": "Bloqueos carreteras HOY 1 de marzo: Autopistas cerradas en M\u00e9xico, cierres viales y rutas alternas seg\u00fan CAPUFE - Eje Central",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQenM5bkpwdmdtUTE1OGtGU3lNb1FITVRWaWhreGxDZnRHUUp3YVE0R3BoOXRHdTNzMmhiVGF5Ti1RcXhnYm9YUGY4Unhmc1ZMLTc1ekVkcThvT0d2cnQyVUVBakdWbFFrakx4XzYtazZWVjhTS1JiVVJRQlRZU0RoaUJwSXg4R0Q1RjMtc3RYMjQyaGswaHd1ZUpCWU1jT1d6U01PLXRDRFZSYWVMdXpldTZIZXRSdG9lM0lMejZzU3k0bDlVamlmckRUZTRtQjhmaTY0YXlIcW5aOEJ6NzV5T2tmVzhKZw?oc=5"
     },
     {
       "title": "Grave Accidente Hoy en la M\u00e9xico\u2013Quer\u00e9taro: Hay Varios Camiones y Tr\u00e1ileres Involucrados - N+",
@@ -352,6 +352,16 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkJ4ZmQzOTRMOTY0b1NveWdJMUxIWEs4S3FveWtMQlE0VGpTMjVrRFhneFIxN2h3SHp5RmstLWxsZ3VNWUV4NTV2VXRYSUVlcndQMklDdjFRRlpMNGZQR1cyVHNQdlBxRm56MUlVU0FLRDI0VS1KMmoxczJTMW5uSGxtelcwbmhFSjJFZ0Q5SFMwSFV6S05YZEZCWkp0UVN6ZzFLdzJIZ3FWdnBBZzR6ajV5MDZIcnN6NmhCQ21B?oc=5"
     },
     {
+      "title": "Megachoque HOY en la M\u00e9xico-Quer\u00e9taro: Cierre Total y Caos Vial a la Altura de Coyotepec - N+",
+      "type": "news",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY0hOeGJfM3ZfYmVJWTc2dGxzM2MtN3FtOEoxN3V2Y0NVN0lZbERCTVZGTGlyUUM3VWVxbjRvdFJvRGpFMjRtQ2UzUEtxcWZXTU95OWd5VHhKbkpZNTM3dHFUUDN3bW1LMHY5VE04bW1MM0JnUGlweDJBWUpYWnFMY2ZtanY2dW1BV3N6SGVlTjg4bzhFT3hDR0o5bUFGLUlITGlJMGNYUElaYnU4NlFsREVoZy1VaDBWVmtsODItZmc0UzJiUnhjcElvREhvaGtrM2RfN3BRZGY?oc=5"
+    },
+    {
       "title": "Bloqueos carreteras HOY 3 de marzo: Autopistas cerradas en M\u00e9xico, cierres viales y rutas alternas seg\u00fan CAPUFE - Eje Central",
       "type": "news",
       "lat": 23.5,
@@ -372,14 +382,14 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclRpeHRSOXFwLWVteHM4RlJkQnc3RzhuaWpVTVVhQXQxV0ZCanJmTjZXbGtWei1kQWRVeTNObUxDa0J1MUoxWldjdlQ0WjlCQ0xFVEVVTkxNNlFLZ2ZDYkZ5bkpBR1I1a3N5Y19MNklhM3BTeENCTXo1QjBRdWZsLXpQcERBUHBVLXFqc1lIQ0ozcUlWbkhDWGRzSWs1YXY5SmRqV3dPNHFyc0FneURCWWJFM2JUNFptUGstbHJB?oc=5"
     },
     {
-      "title": "Megachoque HOY en la M\u00e9xico-Quer\u00e9taro: Cierre Total y Caos Vial a la Altura de Coyotepec - N+",
+      "title": "Accidente m\u00faltiple en el Arco Norte provoca cierre de circulaci\u00f3n en el tramo Quer\u00e9taro\u2013Tula | VIDEO - La Silla Rota",
       "type": "news",
       "lat": 23.5,
       "lng": -102,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY0hOeGJfM3ZfYmVJWTc2dGxzM2MtN3FtOEoxN3V2Y0NVN0lZbERCTVZGTGlyUUM3VWVxbjRvdFJvRGpFMjRtQ2UzUEtxcWZXTU95OWd5VHhKbkpZNTM3dHFUUDN3bW1LMHY5VE04bW1MM0JnUGlweDJBWUpYWnFMY2ZtanY2dW1BV3N6SGVlTjg4bzhFT3hDR0o5bUFGLUlITGlJMGNYUElaYnU4NlFsREVoZy1VaDBWVmtsODItZmc0UzJiUnhjcElvREhvaGtrM2RfN3BRZGY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2EwLUJKTTF2YnZUMTFhMzQ5dVozSE1iY0pCWHRjTTU2VTNKeVlkV3dwekZCRDZQZjJ6bVdHdjBiR2F6TUV1Q29FTkZXT1drNGhjUlFWWnhWMHcta3FZY3pUR0Qtb2x3U0k2MTZZd3RrZUJBdjVRRXFDYk1fSUZQMlJoZmNacTFQSTREUVltT2tjN01RUjJNOEw0X2tQYUVYNVF5N0V0ZTlnbEJlNEVYSGRtRXBRcHJ0b3hxOWZzWWMwU1kyVURld3BLZXctckNCMVZ2cWlFWk1mZ9IB2gFBVV95cUxOY2EwLUJKTTF2YnZUMTFhMzQ5dVozSE1iY0pCWHRjTTU2VTNKeVlkV3dwekZCRDZQZjJ6bVdHdjBiR2F6TUV1Q29FTkZXT1drNGhjUlFWWnhWMHcta3FZY3pUR0Qtb2x3U0k2MTZZd3RrZUJBdjVRRXFDYk1fSUZQMlJoZmNacTFQSTREUVltT2tjN01RUjJNOEw0X2tQYUVYNVF5N0V0ZTlnbEJlNEVYSGRtRXBRcHJ0b3hxOWZzWWMwU1kyVURld3BLZXctckNCMVZ2cWlFWk1mZw?oc=5"
     },
     {
       "title": "Choque de veh\u00edculos de carga provoca caos en la M\u00e9xico-Quer\u00e9taro - DigitalMex",
@@ -440,16 +450,6 @@
       "km": null,
       "risk": "normal",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYW13d1MxU2JubTcteUZROFFyb2plUjRiZU05TzFsTWhJVkJFa2ZEOVRHNHA4dWlUa0VtUmdCSE80R3Q4VnJqTk5JVDByeXNCMWdvX0x1Rk5CTnVJUlBUQ25lY2ZnbFFXRnM1Q0Q5QkRVZjRBam5fX3FIbXpYSlNPN1hsS3RCdmN1bndDQ0pGYTE2OVZYdzVnMmd1ZXJmZXBMalIzTHBYakdLVnc1c09PdVdBNFVsU2VoLXE4ZjkyaExNNUxfb1BpcEpKT2lQTEdSWlJzUHBSZHAzV0E5NVE?oc=5"
-    },
-    {
-      "title": "\u00bfHay Carreteras Bloqueadas Hoy? Lista de Autopistas con Afectaci\u00f3n el 4 de Marzo 2026 - N+",
-      "type": "news",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWNoMFFtbmxxOW43VFhkZk9WdnM4UFlCek9ZbUdyLTdOUDFWbHVfWXdDRnFOWnlLX2p3WEtvbjN6WDhoMncxd1VRQkIwWFpIU0RzazFVdVVpYlJUVEJGNF9ZZmdHQVVWM2tKckVZLVNWYXl6ZlFOTjBtSTlnNm9PeTNGX3FNSy1PRnRLcTR4RVhOM0NYdEh4Y3JrRTNueVpuRWw5V3pWVGJTQ1JVeThQdF9n?oc=5"
     }
   ]
 }
