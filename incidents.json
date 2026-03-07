@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-07T21:44:11.736115",
+  "last_update": "2026-03-07T21:45:29.843912",
   "incidents": [
     {
       "title": "#TomePrecauciones en #SanLuisPotos\u00ed se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 136+900, de la carretera  Cd. Valles-San Luis Potos\u00ed. Atienda indicaci\u00f3n vial.",
@@ -14,9 +14,9 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 259+200, de la carretera  Pinotepa Nacional-Salina Cruz. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.34,
+      "lng": -98.05,
+      "road": 200,
       "km": 259.2,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030388756360892425#m"
@@ -24,9 +24,9 @@
     {
       "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 130+400, de la carretera  Tapanatepec-Tuxtla Guti\u00e9rrez. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.37,
+      "lng": -94.19,
+      "road": 190,
       "km": 130.4,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030387802152521830#m"
@@ -144,9 +144,9 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulaci\u00f3n por presencia de personas cerca del km 138+500, de la carretera Pinotepa Nacional-Salina Cruz. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.34,
+      "lng": -98.05,
+      "road": 200,
       "km": 138.5,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030315310734000337#m"
@@ -154,9 +154,9 @@
     {
       "title": "#TomePrecauciones en #AeropuertoPuertoEscondido se registra cierre de circulaci\u00f3n por presencia de personas, cerca de la carretera Pinotepa Nacional-Salina Cruz, sobre el acceso principal a este aeropuerto, sin afectaci\u00f3n a las operaciones a\u00e9reas.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.34,
+      "lng": -98.05,
+      "road": 200,
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030313135735799928#m"
@@ -184,9 +184,9 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 368+000, de la carretera Pinotepa Nacional - Salina Cruz. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.34,
+      "lng": -98.05,
+      "road": 200,
       "km": 368.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030109290183131266#m"
