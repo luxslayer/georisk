@@ -35,7 +35,11 @@ cities = {
 "hermosillo":(29.07,-110.96),
 "juarez":(31.69,-106.42),
 "chihuahua":(28.63,-106.08),
-"durango":(24.03,-104.67)
+"durango":(24.03,-104.67),
+"pinotepa nacional": (16.34,-98.05),
+"salina cruz": (16.17,-95.20),
+"tapanatepec": (16.37,-94.19),
+"tuxtla gutierrez": (16.75,-93.12)
 }
 
 risk_words = [
