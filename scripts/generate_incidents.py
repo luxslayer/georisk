@@ -121,7 +121,14 @@ for feed in TWITTER_RSS:
 
     try:
 
-        r = requests.get(feed, timeout=10)
+        headers = {
+        "User-Agent":"Mozilla/5.0"
+        }
+
+        r = requests.get(feed, headers=headers, timeout=10)
+
+        print("Status:", r.status_code)
+        print("Response:", r.text[:200])
 
         root = ET.fromstring(r.content)
 
