@@ -205,6 +205,7 @@ def process_tweet(title, url):
     if road and km:
 
         p = locate_km(road, km, (ciudad_lat, ciudad_lng))
+        print("LOCATE RESULT:", p)
 
         if p:
 

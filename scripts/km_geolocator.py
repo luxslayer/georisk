@@ -7,6 +7,25 @@ roads = []
 
 folder = "roads"
 
+for file in os.listdir(folder):
+
+    if not file.endswith(".geojson"):
+        continue
+
+    path = os.path.join(folder, file)
+
+    with open(path) as f:
+
+        data = json.load(f)
+
+        if data["type"] == "FeatureCollection":
+
+            roads.extend(data["features"])
+
+        elif data["type"] == "Feature":
+
+            roads.append(data)
+
 def haversine(a,b):
 
     R = 6371
@@ -40,11 +59,19 @@ def locate_km(road_number,km,city_coords=None):
 
         if f"mex_{road_number}" in name:
 
-            coords=feature["geometry"]["coordinates"]
+            geom = feature["geometry"]
 
-            coords=[(c[1],c[0]) for c in coords]
+            if geom["type"] == "LineString":
 
-            segments.append(coords)
+                coords = [(c[1],c[0]) for c in geom["coordinates"]]
+                segments.append(coords)
+
+            elif geom["type"] == "MultiLineString":
+
+                for line in geom["coordinates"]:
+
+                    coords = [(c[1],c[0]) for c in line]
+                    segments.append(coords)
 
     if not segments:
         return None
@@ -82,5 +109,8 @@ def locate_km(road_number,km,city_coords=None):
                 return lat,lng
 
             total+=segment
+
+    print("SEARCH ROAD:", road_number)
+    print("SEGMENTS FOUND:", len(segments))
 
     return None
