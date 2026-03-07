@@ -36,9 +36,9 @@ def locate_km(road_number,km,city_coords=None):
 
     for feature in roads:
 
-        ref=str(feature["properties"].get("ref","")).lower()
+        name = feature["properties"].get("name","").lower()
 
-        if str(road_number)==ref:
+        if f"mex_{road_number}" in name:
 
             coords=feature["geometry"]["coordinates"]
 

@@ -39,7 +39,9 @@ cities = {
 "pinotepa nacional": (16.34,-98.05),
 "salina cruz": (16.17,-95.20),
 "tapanatepec": (16.37,-94.19),
-"tuxtla gutierrez": (16.75,-93.12)
+"tuxtla gutierrez": (16.75,-93.12),
+"nuevo teapa": (18.03,-94.25),
+"cosoleacaque": (18.00,-94.63)
 }
 
 risk_words = [
@@ -177,6 +179,9 @@ def process_tweet(title, url):
     if not title:
         return
 
+    lat = 23.5
+    lng = -102
+
     coords = detect_city(title)
 
     if coords:
@@ -216,6 +221,20 @@ def process_tweet(title, url):
         else:
 
             lat, lng = ciudad_lat, ciudad_lng
+
+
+    elif segment and km:
+
+        cityA, cityB = segment
+
+        lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
+
+        lat, lng = interpolate(lat1, lon1, lat2, lon2, km)
+
+
+    elif coords:
+
+        lat, lng = coords
 
     incidents.append({
         "title": title,
