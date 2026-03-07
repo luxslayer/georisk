@@ -121,7 +121,9 @@ def detect_road_from_cities(city_list):
         ("queretaro","san luis potosi"):57,
         ("monterrey","reynosa"):40,
         ("mexico","queretaro"):57,
-        ("queretaro","leon"):45
+        ("queretaro","leon"):45,
+        ("pinotepa nacional","salina cruz"):200,
+        ("tapanatepec","tuxtla gutierrez"):190,
     }
 
     for (a,b),road in routes.items():
