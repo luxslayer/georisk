@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-07T23:24:32.688764",
+  "last_update": "2026-03-07T23:43:10.629288",
   "incidents": [
     {
       "title": "#V\u00edaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precauci\u00f3n.",
@@ -202,6 +202,16 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030271713087234335#m"
     },
     {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nEnt. San Jos\u00e9 - Ent. Corral de Piedra, km 13, direcci\u00f3n San Lucas. Circulaci\u00f3n a contraflujo por atenci\u00f3n de accidente (choque por alcance y persona atropellada). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030427066479345745#m"
+    },
+    {
       "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, del km 194 al 207, direcci\u00f3n Quer\u00e9taro. Contin\u00faa reducci\u00f3n de carriles por labores de mantenimiento, sin reporte de incidente. En la zona se registra carga vehicular. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
@@ -322,6 +332,16 @@
       "url": "https://nitter.net/CAPUFE/status/2030390778518724768#m"
     },
     {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Reducci\u00f3n de carriles por atenci\u00f3n de choque contra estructura de la caseta. Maneja con precauci\u00f3n.\nConsulta la ubicaci\u00f3n aqu\u00ed:\nhttps://maps.app.goo.gl/j2w3EF9wJxD1wM1v7",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030348424692793640#m"
+    },
+    {
       "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles debido a que el personal se encuentra realizando las maniobras de gr\u00faa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
       "lat": 23.5,
@@ -390,16 +410,6 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030357816075067757#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, km 33, direcci\u00f3n CDMX. Carga vehicular por labores de mantenimiento en los carriles laterales (no a cargo de CAPUFE). Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 57,
-      "km": 33,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030356553002311977#m"
     }
   ]
 }
