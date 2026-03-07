@@ -7,15 +7,8 @@ roads = []
 
 folder = "roads"
 
-for file in os.listdir(folder):
-
-    if file.endswith(".json") or file.endswith(".geojson"):
-
-        with open(os.path.join(folder,file)) as f:
-
-            geo = json.load(f)
-
-            roads.extend(geo["features"])
+with open("data/road_index.json") as f:
+    road_index = json.load(f)
 
 
 def haversine(a,b):
@@ -32,6 +25,29 @@ def haversine(a,b):
 
     return 2*R*math.asin(math.sqrt(h))
 
+def road_near_cities(city1,city2):
+
+    best=None
+    best_score=999999
+
+    for road,segments in road_index.items():
+
+        for seg in segments:
+
+            lat=seg[0][1]
+            lon=seg[0][0]
+
+            d1=haversine((lat,lon),city1)
+            d2=haversine((lat,lon),city2)
+
+            score=d1+d2
+
+            if score<best_score:
+
+                best_score=score
+                best=road
+
+    return best
 
 def line_midpoint(coords):
 
