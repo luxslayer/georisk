@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import json
 import re
 from datetime import datetime
+from km_geolocator import locate_km
 
 incidents = []
 
@@ -95,13 +96,27 @@ def process_tweet(title, url):
     coords = detect_city(title)
 
     if coords:
-        lat, lng = coords
+        ciudad_lat, ciudad_lng = coords
     else:
-        lat, lng = 23.5, -102
+        ciudad_lat, ciudad_lng = 23.5, -102
 
     road = detect_road(title)
     km = detect_km(title)
     risk = detect_risk(title)
+
+    # intentar localizar km exacto en carretera
+    if road and km:
+
+        p = locate_km(road, km)
+
+        if p:
+            lat, lng = p
+        else:
+            lat, lng = ciudad_lat, ciudad_lng
+
+    else:
+        lat, lng = ciudad_lat, ciudad_lng
+
 
     incidents.append({
         "title": title,
