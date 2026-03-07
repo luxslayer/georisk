@@ -5,7 +5,7 @@ import os
 # cargar carreteras
 roads = []
 
-folder = "../roads"
+folder = "roads"
 
 for file in os.listdir(folder):
 
