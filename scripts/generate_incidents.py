@@ -58,29 +58,21 @@ def detect_city(text):
     return None
 
 
-def detect_road(text):
-
-    text = text.lower()
-
-    patterns = [
-        r"(carretera|autopista|mex)[\s\-]?(\d+)",
-        r"\b(\d{1,3})\b"
-    ]
-
-    for p in patterns:
-        m = re.search(p, text)
-        if m:
-            return m.group(2) if len(m.groups()) > 1 else m.group(1)
-
-    return None
-
 
 def detect_km(text):
 
-    match = re.search(r"km[\s]?(\d+)", text.lower())
+    text = text.lower()
 
-    if match:
-        return int(match.group(1))
+    m = re.search(r"km\s*(\d+)(?:\+(\d+))?", text)
+
+    if m:
+
+        km = int(m.group(1))
+
+        if m.group(2):
+            km += int(m.group(2)) / 1000
+
+        return km
 
     return None
 
@@ -94,6 +86,65 @@ def detect_risk(text):
             return "high"
 
     return "normal"
+
+def detect_cities(text):
+
+    text = text.lower()
+
+    found = []
+
+    for city in cities:
+        if city in text:
+            found.append(city)
+
+    return found
+
+def detect_road_from_cities(city_list):
+
+    if len(city_list) < 2:
+        return None
+
+    c1 = city_list[0]
+    c2 = city_list[1]
+
+    # heurísticas simples de carreteras federales
+    routes = {
+        ("chihuahua","juarez"):45,
+        ("monterrey","saltillo"):40,
+        ("saltillo","matehuala"):57,
+        ("matehuala","san luis potosi"):57,
+        ("queretaro","san luis potosi"):57,
+        ("monterrey","reynosa"):40,
+        ("mexico","queretaro"):57,
+        ("queretaro","leon"):45
+    }
+
+    for (a,b),road in routes.items():
+
+        if (a in c1 and b in c2) or (b in c1 and a in c2):
+            return road
+
+    return None
+
+def detect_road(text):
+
+    text = text.lower()
+
+    # 1 detectar numero directo
+    m = re.search(r"(carretera|autopista|mex)[\s\-]?(\d+)", text)
+
+    if m:
+        return int(m.group(2))
+
+    # 2 detectar ciudades
+    found_cities = detect_cities(text)
+
+    road = detect_road_from_cities(found_cities)
+
+    if road:
+        return road
+
+    return None
 
 
 def process_tweet(title, url):
