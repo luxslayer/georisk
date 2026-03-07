@@ -57,9 +57,11 @@ def point_along_line(coords, km):
 
 def locate_km(road_number, km):
 
+    print("Searching road:", road_number)
+
     for feature in roads["features"]:
 
-        ref = feature["properties"].get("ref", "")
+        ref = str(feature["properties"].get("ref","")).lower()
 
         if str(road_number) in str(ref):
 

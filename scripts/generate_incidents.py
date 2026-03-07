@@ -62,10 +62,15 @@ def detect_road(text):
 
     text = text.lower()
 
-    match = re.search(r"(carretera|autopista|mex)[\s\-]?(\d+)", text)
+    patterns = [
+        r"(carretera|autopista|mex)[\s\-]?(\d+)",
+        r"\b(\d{1,3})\b"
+    ]
 
-    if match:
-        return match.group(2)
+    for p in patterns:
+        m = re.search(p, text)
+        if m:
+            return m.group(2) if len(m.groups()) > 1 else m.group(1)
 
     return None
 
@@ -103,6 +108,9 @@ def process_tweet(title, url):
     road = detect_road(title)
     km = detect_km(title)
     risk = detect_risk(title)
+
+    print("TWEET:", title)
+    print("ROAD:", road, "KM:", km)
 
     # intentar localizar km exacto en carretera
     if road and km:
