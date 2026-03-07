@@ -1,6 +1,16 @@
 {
-  "last_update": "2026-03-07T21:22:33.697333",
+  "last_update": "2026-03-07T21:42:45.480244",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #SanLuisPotos\u00ed se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 136+900, de la carretera  Cd. Valles-San Luis Potos\u00ed. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 136.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030396390258483497#m"
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 259+200, de la carretera  Pinotepa Nacional-Salina Cruz. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
@@ -192,14 +202,34 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030099812121514292#m"
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 111+000, de la carretera Zacatecas- Saltillo. Atienda indicaci\u00f3n vial.",
+      "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Nuevo Teapa. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Direcci\u00f3n Cosoleacaque, contin\u00faa reducci\u00f3n de carriles. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
+      "lat": 23.5,
+      "lng": -102,
       "road": null,
-      "km": 111.0,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030398577374335342#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista Agua Dulce - C\u00e1rdenas, km 82, direcci\u00f3n Agua Dulce. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles. El personal contin\u00faa laborando en la atenci\u00f3n del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 82,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030092825212108910#m"
+      "url": "https://nitter.net/CAPUFE/status/2030398467336437997#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAut. Tehuac\u00e1n - Oaxaca, km 206. Contin\u00faa circulaci\u00f3n intermitente en ambos sentidos por labores de mantenimiento (no a cargo de CAPUFE). Atiende las indicaciones viales y maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 206,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030393743547810113#m"
     },
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
@@ -266,7 +296,7 @@
       "type": "twitter",
       "lat": 23.5,
       "lng": -102,
-      "road": null,
+      "road": 57,
       "km": 194,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030372325791604755#m"
@@ -296,7 +326,7 @@
       "type": "twitter",
       "lat": 19.4326,
       "lng": -99.1332,
-      "road": null,
+      "road": 57,
       "km": 33,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030356553002311977#m"
@@ -370,36 +400,6 @@
       "km": 97,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030322038183784773#m"
-    },
-    {
-      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\n#AutM\u00e9xicoPuebla, km 26, direcci\u00f3n CDMX. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 26,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030321381431201886#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\nAut. C\u00f3rdoba - Veracruz, Plaza de Cobro Cuitl\u00e1huac. Carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030317555613597922#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, Plaza de Cobro Tepotzotl\u00e1n. Registra carga vehicular en direcci\u00f3n CDMX, sin reporte de incidentes. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030316171405255117#m"
     }
   ]
 }
