@@ -24,7 +24,7 @@ jobs:
       run: pip install requests
 
     - name: run script
-      run: python generate_incidents.py
+      run: python scripts/generate_incidents.py
 
     - name: commit changes
       run: |
