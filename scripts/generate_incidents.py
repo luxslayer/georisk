@@ -4,6 +4,7 @@ import json
 import re
 from datetime import datetime
 from km_geolocator import locate_km
+from city_locator import detect_segment, segment_coords, interpolate
 
 incidents = []
 
@@ -43,7 +44,9 @@ risk_words = [
 "bloqueo",
 "enfrentamiento",
 "incendio",
-"violencia"
+"violencia",
+"accidente",
+"obras"
 ]
 
 
@@ -98,6 +101,8 @@ def detect_cities(text):
             found.append(city)
 
     return found
+
+
 
 def detect_road_from_cities(city_list):
 
@@ -156,6 +161,7 @@ def process_tweet(title, url):
     else:
         ciudad_lat, ciudad_lng = 23.5, -102
 
+    segment = detect_segment(title)
     road = detect_road(title)
     km = detect_km(title)
     risk = detect_risk(title)
@@ -173,8 +179,19 @@ def process_tweet(title, url):
         else:
             lat, lng = ciudad_lat, ciudad_lng
 
+    # si no hay número de carretera, usar tramo entre ciudades
+    elif segment and km:
+
+        cityA, cityB = segment
+
+        lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
+
+        lat, lng = interpolate(lat1, lon1, lat2, lon2, km)
+
     else:
-        lat, lng = ciudad_lat, ciudad_lng
+
+        lat = ciudad_lat
+        lng = ciudad_lng
 
 
     incidents.append({
