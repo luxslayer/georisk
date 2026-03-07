@@ -1,9 +1,21 @@
 import json
 import math
+import os
 
 # cargar carreteras
-with open("data/carreteras_mexico.geojson") as f:
-    roads = json.load(f)
+roads = []
+
+folder = "../roads"
+
+for file in os.listdir(folder):
+
+    if file.endswith(".json") or file.endswith(".geojson"):
+
+        with open(os.path.join(folder, file)) as f:
+
+            geo = json.load(f)
+
+            roads.extend(geo["features"])
 
 def haversine(a, b):
     R = 6371
