@@ -40,7 +40,7 @@ def interpolate(lat1, lon1, lat2, lon2, km):
     # distancia aproximada del tramo
     total_km = 300
 
-    ratio = km / total_km
+    ratio = min(km / total_km, 1)
 
     lat = lat1 + (lat2 - lat1) * ratio
     lon = lon1 + (lon2 - lon1) * ratio

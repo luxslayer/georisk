@@ -200,25 +200,22 @@ def process_tweet(title, url):
     if road and km:
 
         p = locate_km(road, km, (ciudad_lat, ciudad_lng))
-        print("LOCATE_KM RESULT:", p)
 
         if p:
+
             lat, lng = p
+
+        elif segment:
+
+            cityA, cityB = segment
+
+            lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
+
+            lat, lng = interpolate(lat1, lon1, lat2, lon2, km)
+
         else:
+
             lat, lng = ciudad_lat, ciudad_lng
-
-    elif segment and km:
-
-        cityA, cityB = segment
-
-        lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
-
-        lat, lng = interpolate(lat1, lon1, lat2, lon2, km)
-
-    else:
-
-        lat = ciudad_lat
-        lng = ciudad_lng
 
     incidents.append({
         "title": title,
