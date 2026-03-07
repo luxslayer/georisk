@@ -161,7 +161,10 @@ def process_tweet(title, url):
     else:
         ciudad_lat, ciudad_lng = 23.5, -102
 
-    segment = detect_segment(title)
+    try:
+        segment = detect_segment(title)
+    except:
+        segment = None
     road = detect_road(title)
     km = detect_km(title)
     risk = detect_risk(title)
