@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-07T04:29:20.059028",
+  "last_update": "2026-03-07T04:55:54.818575",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 368+000, de la carretera Pinotepa Nacional - Salina Cruz. Atienda indicaci\u00f3n vial.",
@@ -124,8 +124,8 @@
     {
       "title": "#TomePrecauciones en #NuevoLe\u00f3n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 001+000, de la carretera Saltillo - Monterrey. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 25.66395468405782,
-      "lng": -100.32302264794518,
+      "lat": 25.6866,
+      "lng": -100.3161,
       "road": 40,
       "km": 1.0,
       "risk": "normal",
@@ -200,6 +200,26 @@
       "km": 12.8,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2029842374176776303#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Acatzingo - Cd. Mendoza, km 184, direcci\u00f3n Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 184,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030143907812561093#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 52. Reducci\u00f3n de carriles en ambos sentidos por atenci\u00f3n de accidente (choque contra muro central). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030140948701720672#m"
     },
     {
       "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista C\u00f3rdoba - Veracruz, km 18, direcci\u00f3n C\u00f3rdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
@@ -380,26 +400,6 @@
       "km": 18,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030099297438421092#m"
-    },
-    {
-      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Tehuac\u00e1n - Oaxaca, km 207. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 207,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030098625259307506#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoCuernavaca, km 60, direcci\u00f3n Cuernavaca. Reducci\u00f3n de carriles por atenci\u00f3n de incidente (tracto cami\u00f3n con falla mec\u00e1nica). Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 60,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030097713463775620#m"
     }
   ]
 }
