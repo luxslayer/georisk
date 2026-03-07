@@ -154,6 +154,9 @@ def detect_road(text):
 
 def process_tweet(title, url):
 
+    if not title:
+        return
+
     coords = detect_city(title)
 
     if coords:
@@ -165,6 +168,7 @@ def process_tweet(title, url):
         segment = detect_segment(title)
     except:
         segment = None
+
     road = detect_road(title)
     km = detect_km(title)
     risk = detect_risk(title)
@@ -182,7 +186,6 @@ def process_tweet(title, url):
         else:
             lat, lng = ciudad_lat, ciudad_lng
 
-    # si no hay número de carretera, usar tramo entre ciudades
     elif segment and km:
 
         cityA, cityB = segment
@@ -195,7 +198,6 @@ def process_tweet(title, url):
 
         lat = ciudad_lat
         lng = ciudad_lng
-
 
     incidents.append({
         "title": title,
