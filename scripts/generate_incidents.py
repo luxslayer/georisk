@@ -125,7 +125,7 @@ for feed in TWITTER_RSS:
 
         root = ET.fromstring(r.content)
 
-        for item in root.findall(".//item")[:30]:
+        for item in root.findall(".//item")[:50]:
 
             title = item.find("title").text
             link = item.find("link").text
