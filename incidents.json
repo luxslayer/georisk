@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-07T21:21:15.017949",
+  "last_update": "2026-03-07T21:22:33.697333",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 259+200, de la carretera  Pinotepa Nacional-Salina Cruz. Atienda indicaci\u00f3n vial.",
@@ -202,6 +202,26 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030092825212108910#m"
     },
     {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030391622320406863#m"
+    },
+    {
+      "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAutopista Agua Dulce - C\u00e1rdenas, km 82, direcci\u00f3n Agua Dulce. Cierre a la circulaci\u00f3n por atenci\u00f3n de accidente (salida del camino de tracto cami\u00f3n). Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 82,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030390778518724768#m"
+    },
+    {
       "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles debido a que el personal se encuentra realizando las maniobras de gr\u00faa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
       "lat": 23.5,
@@ -380,26 +400,6 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030316171405255117#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\nAut. Nuevo Teapa - Cosoleacaque, km 16. Contin\u00faa reducci\u00f3n de carriles en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime, sin reporte de incidente. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030316039972499876#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0  \n#AutM\u00e9xicoQuer\u00e9taro, km 56, direcci\u00f3n Quer\u00e9taro. Contin\u00faa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030314129588953089#m"
     }
   ]
 }
