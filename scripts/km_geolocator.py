@@ -76,6 +76,8 @@ def locate_km(road_number,km,city_coords=None):
     if not segments:
         return None
 
+    print("SEARCH ROAD:", road_number)
+    print("SEGMENTS FOUND:", len(segments))
 
     # ordenar segmentos por cercanía a ciudad
     if city_coords:
@@ -86,7 +88,6 @@ def locate_km(road_number,km,city_coords=None):
                 line_midpoint(s)
             )
         )
-
 
     total=0
 
@@ -110,7 +111,5 @@ def locate_km(road_number,km,city_coords=None):
 
             total+=segment
 
-    print("SEARCH ROAD:", road_number)
-    print("SEGMENTS FOUND:", len(segments))
 
     return None
