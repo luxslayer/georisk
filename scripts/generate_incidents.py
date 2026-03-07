@@ -5,6 +5,7 @@ import re
 from datetime import datetime
 from km_geolocator import locate_km
 from city_locator import detect_segment, segment_coords, interpolate
+import unicodedata
 
 incidents = []
 
@@ -49,6 +50,18 @@ risk_words = [
 "obras"
 ]
 
+def normalize(text):
+
+    text = text.lower()
+
+    text = unicodedata.normalize("NFD", text)
+
+    text = "".join(
+        c for c in text
+        if unicodedata.category(c) != "Mn"
+    )
+
+    return text
 
 def detect_city(text):
 
@@ -92,16 +105,16 @@ def detect_risk(text):
 
 def detect_cities(text):
 
-    text = text.lower()
+    text = normalize(text)
 
     found = []
 
     for city in cities:
+
         if city in text:
             found.append(city)
 
     return found
-
 
 
 def detect_road_from_cities(city_list):
@@ -135,7 +148,7 @@ def detect_road_from_cities(city_list):
 
 def detect_road(text):
 
-    text = text.lower()
+    text = normalize(text)
 
     # 1 detectar numero directo
     m = re.search(r"(carretera|autopista|mex)[\s\-]?(\d+)", text)
@@ -145,6 +158,7 @@ def detect_road(text):
 
     # 2 detectar ciudades
     found_cities = detect_cities(text)
+    print("CITIES FOUND:", found_cities)
 
     road = detect_road_from_cities(found_cities)
 
