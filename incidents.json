@@ -1,12 +1,12 @@
 {
-  "last_update": "2026-03-08T10:45:11.396516",
+  "last_update": "2026-03-08T11:34:12.360450",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 21.080849999999998,
+      "lng": -104.1198,
+      "road": 15,
       "km": 126.4,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030536241653989745#m"
@@ -202,6 +202,26 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030385089029292186#m"
     },
     {
+      "title": "\u26a0\ufe0f AVISO IMPORTANTE\u26a0\ufe0f      \n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Contin\u00faa la carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para m\u00e1s informaci\u00f3n llama al 8003272666 de @arconorte. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030598737161052218#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista Cuernavaca - Acapulco, km 111, direcci\u00f3n Cuernavaca. Reducci\u00f3n de carriles por atenci\u00f3n de accidente (choque contra muro central). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 111,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030597786878488844#m"
+    },
+    {
       "title": "\ud83c\udf27\ufe0f\ud83c\udf29\ufe0f CONDICIONES CLIM\u00c1TICAS \ud83c\udf27\ufe0f\ud83c\udf29\ufe0f \nAut. La Tinaja - Isla, registra #neblina a la altura de la Plaza de Cobro Cosamaloapan. Disminuye tu velocidad y maneja con precauci\u00f3n.",
       "type": "twitter",
       "lat": 23.5,
@@ -380,26 +400,6 @@
       "km": 2,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030406448836960413#m"
-    },
-    {
-      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Agua Dulce - C\u00e1rdenas, km 82, direcci\u00f3n Agua Dulce. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030405393906631164#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en direcci\u00f3n Acatzingo, sin reporte de incidente. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030400490949746694#m"
     }
   ]
 }
