@@ -112,10 +112,11 @@ def locate_km(road_number, km, city_coords=None):
 
     segments = get_road_segments(road_number)
 
-    segments = corridor_filter(segments, city1, city2)
-
     if not segments:
         return None
+    
+    city1 = None
+    city2 = None
 
     # -------------------------
     # FILTRO POR TRAMO (NUEVO)
@@ -134,7 +135,6 @@ def locate_km(road_number, km, city_coords=None):
         )
 
         
-
     # -------------------------
     # DETECTAR SUBTRAMO AUTOMÁTICO
     # -------------------------
