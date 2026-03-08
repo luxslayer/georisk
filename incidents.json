@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T09:14:16.349698",
+  "last_update": "2026-03-08T09:21:26.037162",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
@@ -54,8 +54,8 @@
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulaci\u00f3n por #AccidenteVial cerca del km 004+500, de la carretera Irapuato-Zapotlanejo. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 20.62,
-      "lng": -102.3,
+      "lat": 20.33949386473595,
+      "lng": -101.98484224694589,
       "road": 90,
       "km": 4.5,
       "risk": "high",
@@ -74,8 +74,8 @@
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 011+900, de la carretera Paso del Toro-Acayucan. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 18.48,
-      "lng": -95.52,
+      "lat": 18.0404317284783,
+      "lng": -94.92935685963133,
       "road": 180,
       "km": 11.9,
       "risk": "high",
@@ -94,8 +94,8 @@
     {
       "title": "#TomePrecauciones en #Durango se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 013+000, de la carretera  Durango-Parral. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 24.129025965265225,
-      "lng": -104.71350191610469,
+      "lat": 24.01445668205719,
+      "lng": -104.48900144994805,
       "road": 45,
       "km": 13.0,
       "risk": "high",
@@ -334,8 +334,8 @@
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0 \nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
       "type": "twitter",
-      "lat": 18.015,
-      "lng": -94.44,
+      "lat": 18.014730687777853,
+      "lng": -94.45104789260417,
       "road": 180,
       "km": 16,
       "risk": "normal",
@@ -354,8 +354,8 @@
     {
       "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34   \nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Cosoleacaque. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Dir. Nuevo Teapa se restablece la vialidad con reducci\u00f3n de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 18.015,
-      "lng": -94.44,
+      "lat": 18.014730687777853,
+      "lng": -94.45104789260417,
       "road": 180,
       "km": 16,
       "risk": "normal",
@@ -394,8 +394,8 @@
     {
       "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Nuevo Teapa. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Direcci\u00f3n Cosoleacaque, contin\u00faa reducci\u00f3n de carriles. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 18.015,
-      "lng": -94.44,
+      "lat": 18.014730687777853,
+      "lng": -94.45104789260417,
       "road": 180,
       "km": 16,
       "risk": "normal",
