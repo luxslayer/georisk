@@ -1,6 +1,7 @@
 import json
 import math
 import os
+import re
 
 # cargar carreteras
 roads = []
@@ -55,29 +56,43 @@ def locate_km(road_number,km,city_coords=None):
 
     for feature in roads:
 
-        name = feature["properties"].get("name","").lower()
+        props = feature.get("properties", {})
 
-        if f"mex_{road_number}" in name:
+        name = (
+            str(props.get("name","")) + " " +
+            str(props.get("ref","")) + " " +
+            str(props.get("route",""))
+        ).lower()
 
-            geom = feature["geometry"]
+        m = re.search(r"mex[\s\-_]?(\d+)", name)
 
-            if geom["type"] == "LineString":
+        if not m:
+            continue
 
-                coords = [(c[1],c[0]) for c in geom["coordinates"]]
+        if int(m.group(1)) != road_number:
+            continue   
+
+        geom = feature["geometry"]
+
+        if geom["type"] == "LineString":
+
+            coords = [(c[1],c[0]) for c in geom["coordinates"]]
+            segments.append(coords)
+
+        elif geom["type"] == "MultiLineString":
+
+            for line in geom["coordinates"]:
+
+                coords = [(c[1],c[0]) for c in line]
                 segments.append(coords)
-
-            elif geom["type"] == "MultiLineString":
-
-                for line in geom["coordinates"]:
-
-                    coords = [(c[1],c[0]) for c in line]
-                    segments.append(coords)
+    
+    print("ROAD MATCH:", name)
+    print("SEARCH ROAD:", road_number)
+    print("SEGMENTS FOUND:", len(segments))
 
     if not segments:
         return None
 
-    print("SEARCH ROAD:", road_number)
-    print("SEGMENTS FOUND:", len(segments))
 
     # ordenar segmentos por cercanía a ciudad
     if city_coords:
