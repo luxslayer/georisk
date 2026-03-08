@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T10:39:58.849325",
+  "last_update": "2026-03-08T10:45:11.396516",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
@@ -134,9 +134,9 @@
     {
       "title": "#TomePrecauciones en #Quer\u00e9taro se registra cierre total de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 069+500, de la carretera San Miguel de Allende-Quer\u00e9taro. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": 111,
       "km": 69.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030412863060262934#m"
