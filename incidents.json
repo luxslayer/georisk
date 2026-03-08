@@ -1,6 +1,16 @@
 {
-  "last_update": "2026-03-08T22:50:13.161174",
+  "last_update": "2026-03-08T23:26:04.276785",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 028+100, de la carretera Las Choapas-Ocozocoautla. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 28.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030785459253629132#m"
+    },
     {
       "title": "#TomePrecauciones en #SanLuisPotos\u00ed  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 149+700, de la carretera   Quer\u00e9taro-San Luis Potos\u00ed. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
@@ -150,6 +160,26 @@
       "km": 70.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030512425985085667#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Tehuac\u00e1n - Oaxaca, km 58. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 58,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030784052358254641#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoCuernavaca, km 49, direcci\u00f3n CDMX. Reducci\u00f3n de carriles por atenci\u00f3n de accidente (ca\u00edda de motociclista). En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 49,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030783269847867879#m"
     },
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista Tehuac\u00e1n - Oaxaca, km 58. Circulaci\u00f3n intermitente en ambos sentidos por atenci\u00f3n de accidente (choque contra objeto e incendio de autom\u00f3vil). Maneja con precauci\u00f3n.",
@@ -310,26 +340,6 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030675318994854044#m"
-    },
-    {
-      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. El incidente fuera de la cobertura de CAPUFE ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 89,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030675227840045336#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista Tehuac\u00e1n - Oaxaca, km 206. Contin\u00faa circulaci\u00f3n intermitente en ambos sentidos por labores de mantenimiento (no a cargo de CAPUFE). Atiende las indicaciones viales y maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 206,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030664708559090089#m"
     }
   ]
 }
