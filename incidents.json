@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T23:26:04.276785",
+  "last_update": "2026-03-08T23:48:04.471445",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 028+100, de la carretera Las Choapas-Ocozocoautla. Atienda indicaci\u00f3n vial.",
@@ -162,6 +162,26 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030512425985085667#m"
     },
     {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoCuernavaca, km 49, direcci\u00f3n CDMX. Contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 49,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030791664516620423#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\n#AutM\u00e9xicoCuernavaca, km 25, direcci\u00f3n CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 25,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030789192234524870#m"
+    },
+    {
       "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Tehuac\u00e1n - Oaxaca, km 58. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
       "type": "twitter",
       "lat": 23.5,
@@ -320,26 +340,6 @@
       "km": 16,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030686208288776248#m"
-    },
-    {
-      "title": "\ud83d\udfe0CARGA VEHICULAR\ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Registra carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, sin reporte de incidentes. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 89,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030681707469533359#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, Plaza de Cobro Tepotzotl\u00e1n. Registra carga vehicular en direcci\u00f3n CDMX, sin reporte de incidentes. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030675318994854044#m"
     }
   ]
 }
