@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T06:05:30.689534",
+  "last_update": "2026-03-08T06:10:38.348738",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 004+010, de la carretera Tepic-San Blas. Atienda indicaci\u00f3n vial.",
@@ -24,9 +24,9 @@
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 255+300, de la carretera Pachuca-Tuxpan. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 20.54740402717493,
+      "lng": -97.4747095451628,
+      "road": 130,
       "km": 255.3,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030496197069463762#m"
@@ -34,9 +34,9 @@
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulaci\u00f3n por #AccidenteVial cerca del km 004+500, de la carretera Irapuato-Zapotlanejo. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 20.29676715385681,
+      "lng": -101.99842389307084,
+      "road": 90,
       "km": 4.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030484806681624852#m"
@@ -44,9 +44,9 @@
     {
       "title": "#TomePrecauciones en #Campeche se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 005+400, de la carretera Chencoll\u00ed-Uman. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 19.491158041425386,
+      "lng": -90.63371476809881,
+      "road": 188,
       "km": 5.4,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030469853023510856#m"
@@ -54,9 +54,9 @@
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 011+900, de la carretera Paso del Toro-Acayucan. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 17.97702789736883,
+      "lng": -93.09007196602599,
+      "road": 180,
       "km": 11.9,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030458971316756928#m"
@@ -64,9 +64,9 @@
     {
       "title": "#TomePrecauciones en #SanLuisPotos\u00ed se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 167+000, de la carretera Rio verde-San Luis Potos\u00ed. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 20.576117769102442,
+      "lng": -103.85484528066043,
+      "road": 70,
       "km": 167.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030457395848077666#m"
@@ -74,9 +74,9 @@
     {
       "title": "#TomePrecauciones en #Durango se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 013+000, de la carretera  Durango-Parral. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 23.422843352724144,
+      "lng": -103.04612120611091,
+      "road": 45,
       "km": 13.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030456396546777406#m"
@@ -84,9 +84,9 @@
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 001+000, de la carretera  M\u00e9xico-Cuernavaca. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.872911349588676,
+      "lng": -99.86689439261409,
+      "road": 95,
       "km": 1.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030436147000750552#m"
@@ -94,9 +94,9 @@
     {
       "title": "#TomePrecauciones en #Michoac\u00e1n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 222+222, de la carretera Maravat\u00edo-Zapotlanejo. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 19.40808109867685,
+      "lng": -100.03757351475615,
+      "road": 15,
       "km": 222.222,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030430080908796010#m"
@@ -104,9 +104,9 @@
     {
       "title": "#V\u00edaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precauci\u00f3n.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.430523631497778,
+      "lng": -95.8461267762427,
+      "road": 190,
       "km": 246.0,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030418979320115708#m"
@@ -114,9 +114,9 @@
     {
       "title": "#TomePrecauciones en #Quer\u00e9taro se registra cierre total de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 069+500, de la carretera San Miguel de Allende-Quer\u00e9taro. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": 111,
       "km": 69.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030412863060262934#m"
@@ -144,9 +144,9 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 259+200, de la carretera  Pinotepa Nacional-Salina Cruz. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 15.875553033374784,
-      "lng": -95.92915456642183,
-      "road": 200,
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
       "km": 259.2,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030388756360892425#m"
@@ -164,9 +164,9 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulaci\u00f3n por presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 16.430523631497778,
+      "lng": -95.8461267762427,
+      "road": 190,
       "km": 246.0,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030386232841085186#m"
@@ -174,9 +174,9 @@
     {
       "title": "#TomePrecauciones en #Colima se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 032+400, de la carretera  Colima-Ent. Tecom\u00e1n. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
+      "lat": 19.020519737386593,
+      "lng": -103.8207781976944,
+      "road": 110,
       "km": 32.4,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030385089029292186#m"
@@ -224,9 +224,9 @@
     {
       "title": "\u26a0\ufe0f AVISO IMPORTANTE\u26a0\ufe0f      \n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Registra carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para m\u00e1s informaci\u00f3n llama al 8003272666 de @arconorte. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 19.61388503350775,
-      "lng": -99.2276136386091,
-      "road": 57,
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
       "km": 89,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030465578259882248#m"
@@ -234,9 +234,9 @@
     {
       "title": "\ud83d\udfe0CARGA VEHICULAR\ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Registra carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, sin reporte de incidentes. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 19.61388503350775,
-      "lng": -99.2276136386091,
-      "road": 57,
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
       "km": 89,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030459241740611854#m"
