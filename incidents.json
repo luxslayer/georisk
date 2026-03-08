@@ -1,6 +1,16 @@
 {
-  "last_update": "2026-03-07T23:47:56.523503",
+  "last_update": "2026-03-08T00:03:42.336588",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoac\u00e1n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 222+222, de la carretera Maravat\u00edo-Zapotlanejo. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 222.222,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030430080908796010#m"
+    },
     {
       "title": "#V\u00edaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precauci\u00f3n.",
       "type": "twitter",
@@ -192,14 +202,14 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030313135735799928#m"
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 165+500, de la carretera Zacatecas- Saltillo. Atienda indicaci\u00f3n vial.",
+      "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n del accidente. El personal realiza las maniobras de gr\u00faa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
+      "lat": 23.5,
+      "lng": -102,
       "road": null,
-      "km": 165.5,
+      "km": null,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030271713087234335#m"
+      "url": "https://nitter.net/CAPUFE/status/2030429997672906905#m"
     },
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nEnt. San Jos\u00e9 - Ent. Corral de Piedra, km 13, direcci\u00f3n San Lucas. Circulaci\u00f3n a contraflujo por atenci\u00f3n de accidente (choque por alcance y persona atropellada). Maneja con precauci\u00f3n.",
@@ -332,16 +342,6 @@
       "url": "https://nitter.net/CAPUFE/status/2030390778518724768#m"
     },
     {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Reducci\u00f3n de carriles por atenci\u00f3n de choque contra estructura de la caseta. Maneja con precauci\u00f3n.\nConsulta la ubicaci\u00f3n aqu\u00ed:\nhttps://maps.app.goo.gl/j2w3EF9wJxD1wM1v7",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030348424692793640#m"
-    },
-    {
       "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles debido a que el personal se encuentra realizando las maniobras de gr\u00faa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
       "lat": 23.5,
@@ -400,16 +400,6 @@
       "km": 97,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030363957953757223#m"
-    },
-    {
-      "title": "Una falla puede ocurrir en cualquier momento, pero tu tranquilidad es lo m\u00e1s importante. \ud83d\ude97\nEstamos para acompa\u00f1arte y brindarte apoyo en el camino.\n\ud83d\udcde 074 | X @CAPUFE\n*Aplica en tramos operados por el organismo.\n#EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030357816075067757#m"
     }
   ]
 }
