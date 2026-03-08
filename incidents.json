@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T09:21:26.037162",
+  "last_update": "2026-03-08T09:44:57.524736",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
@@ -202,6 +202,16 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030385089029292186#m"
     },
     {
+      "title": "\ud83c\udf27\ufe0f\ud83c\udf29\ufe0f CONDICIONES CLIM\u00c1TICAS \ud83c\udf27\ufe0f\ud83c\udf29\ufe0f \nAut. La Tinaja - Isla, registra #neblina a la altura de la Plaza de Cobro Cosamaloapan. Disminuye tu velocidad y maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030578082466144706#m"
+    },
+    {
       "title": "\u26a0\ufe0f AVISO IMPORTANTE\u26a0\ufe0f      \n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Contin\u00faa la carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para m\u00e1s informaci\u00f3n llama al 8003272666 de @arconorte. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
@@ -390,16 +400,6 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030400490949746694#m"
-    },
-    {
-      "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Nuevo Teapa. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Direcci\u00f3n Cosoleacaque, contin\u00faa reducci\u00f3n de carriles. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 18.014730687777853,
-      "lng": -94.45104789260417,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030398577374335342#m"
     }
   ]
 }
