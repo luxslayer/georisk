@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T13:40:41.392387",
+  "last_update": "2026-03-08T14:01:11.007474",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
@@ -40,6 +40,26 @@
       "km": 70.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030512425985085667#m"
+    },
+    {
+      "title": "Este fin de semana #HazLoTuyo en la #M\u00e9xicoCuernavaca. \ud83d\udee3\ufe0f\nManeja con calma y disfruta el trayecto.\nBajar la velocidad tambi\u00e9n es proteger a quienes m\u00e1s quieres. \ud83d\ude99\ud83d\udc9b\nSi requieres apoyo, comun\u00edcate al 074.  M\u00e1s informaci\u00f3n en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030644710403162570#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Tinaja - Isla, km 76, direcci\u00f3n La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 76,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030643716315079099#m"
     },
     {
       "title": "\ud83c\udf27\ufe0f\ud83c\udf29\ufe0f CONDICIONES CLIM\u00c1TICAS \ud83c\udf27\ufe0f\ud83c\udf29\ufe0f \nAut. La Tinaja - Isla, contin\u00faa #neblina a la altura de la Plaza de Cobro Cosamaloapan. Disminuye tu velocidad y maneja con precauci\u00f3n.",
@@ -220,26 +240,6 @@
       "km": null,
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2030429997672906905#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nEnt. San Jos\u00e9 - Ent. Corral de Piedra, km 13, direcci\u00f3n San Lucas. Circulaci\u00f3n a contraflujo por atenci\u00f3n de accidente (choque por alcance y persona atropellada). Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030427066479345745#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, del km 194 al 207, direcci\u00f3n Quer\u00e9taro. Contin\u00faa reducci\u00f3n de carriles por labores de mantenimiento, sin reporte de incidente. En la zona se registra carga vehicular. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 194,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030413172209836327#m"
     }
   ]
 }
