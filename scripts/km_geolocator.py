@@ -100,6 +100,18 @@ def locate_km(road_number, km, city_coords=None):
             (lon1 + lon2) / 2
         )
 
+        filtered = []
+
+        for seg in segments:
+
+            mid = line_midpoint(seg)
+
+            if haversine(midpoint, mid) < 120:  # km de tolerancia
+                filtered.append(seg)
+
+        if filtered:
+            segments = filtered
+
         segments = sorted(
             segments,
             key=lambda s: haversine(midpoint, line_midpoint(s))
