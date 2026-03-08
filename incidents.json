@@ -1,6 +1,16 @@
 {
-  "last_update": "2026-03-08T00:03:42.336588",
+  "last_update": "2026-03-08T00:52:30.443639",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 001+000, de la carretera  M\u00e9xico-Cuernavaca. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 1.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030436147000750552#m"
+    },
     {
       "title": "#TomePrecauciones en #Michoac\u00e1n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 222+222, de la carretera Maravat\u00edo-Zapotlanejo. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
@@ -54,8 +64,8 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 259+200, de la carretera  Pinotepa Nacional-Salina Cruz. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
+      "lat": 15.94769729190428,
+      "lng": -97.29376698931424,
       "road": 200,
       "km": 259.2,
       "risk": "high",
@@ -64,8 +74,8 @@
     {
       "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 130+400, de la carretera  Tapanatepec-Tuxtla Guti\u00e9rrez. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 16.37,
-      "lng": -94.19,
+      "lat": 16.51693803994591,
+      "lng": -93.85270766826244,
       "road": 190,
       "km": 130.4,
       "risk": "high",
@@ -184,22 +194,42 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulaci\u00f3n por presencia de personas cerca del km 138+500, de la carretera Pinotepa Nacional-Salina Cruz. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
+      "lat": 16.607958987628756,
+      "lng": -98.47705949881961,
       "road": 200,
       "km": 138.5,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030315310734000337#m"
     },
     {
-      "title": "#TomePrecauciones en #AeropuertoPuertoEscondido se registra cierre de circulaci\u00f3n por presencia de personas, cerca de la carretera Pinotepa Nacional-Salina Cruz, sobre el acceso principal a este aeropuerto, sin afectaci\u00f3n a las operaciones a\u00e9reas.",
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Pera - Cuautla, km 2, direcci\u00f3n La Pera. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
       "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
-      "road": 200,
-      "km": null,
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 2,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2030313135735799928#m"
+      "url": "https://nitter.net/CAPUFE/status/2030445061423411390#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Pera - Cuautla, km 2, direcci\u00f3n La Pera. Contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n de incidente (cami\u00f3n de carga con falla mec\u00e1nica). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 2,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030443579215155486#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Carbonera - Puerto M\u00e9xico, km 207, direcci\u00f3n La Carbonera.. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 207,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030442144557584556#m"
     },
     {
       "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n del accidente. El personal realiza las maniobras de gr\u00faa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
@@ -224,8 +254,8 @@
     {
       "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, del km 194 al 207, direcci\u00f3n Quer\u00e9taro. Contin\u00faa reducci\u00f3n de carriles por labores de mantenimiento, sin reporte de incidente. En la zona se registra carga vehicular. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
+      "lat": 23.241125012108014,
+      "lng": -100.54595053723571,
       "road": 57,
       "km": 194,
       "risk": "normal",
@@ -370,36 +400,6 @@
       "km": 16,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030379922603073543#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Carbonera - Puerto M\u00e9xico, km 207, direcci\u00f3n La Carbonera. Reducci\u00f3n de carriles por atenci\u00f3n de incidente (tracto cami\u00f3n con falla mec\u00e1nica). Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 207,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030375116266205410#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, del km 194 al 207, direcci\u00f3n Quer\u00e9taro. Reducci\u00f3n de carriles por labores de mantenimiento, sin reporte de incidente. En la zona se registra carga vehicular. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": 57,
-      "km": 194,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030372325791604755#m"
-    },
-    {
-      "title": "\ud83d\udfe0  CIERRE PARCIAL DE CIRCULACI\u00d3N  \ud83d\udfe0  \nAutopista La Tinaja - Isla, km 97, direcci\u00f3n La Tinaja. Contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n de incidente (tracto cami\u00f3n con falla mec\u00e1nica). Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 97,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030363957953757223#m"
     }
   ]
 }
