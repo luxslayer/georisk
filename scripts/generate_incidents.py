@@ -86,11 +86,15 @@ def detect_cities(text):
 
     text = normalize(text)
 
+    words = set(text.split())
+
     found = []
 
     for city in cities:
 
-        if city in text:
+        city_words = city.split()
+
+        if all(w in words for w in city_words):
             found.append(city)
 
     return found
@@ -106,7 +110,7 @@ def detect_road_from_cities(city_list):
 
     for (a,b),road in routes.items():
 
-        if (a in c1 and b in c2) or (b in c1 and a in c2):
+        if (c1 == a and c2 == b) or (c1 == b and c2 == a):
             return road
 
     return None
@@ -153,7 +157,16 @@ def process_tweet(title, url):
     except:
         segment = None
 
-    road = detect_road(title)
+    segment = detect_segment(title)
+
+    road = None
+
+    if segment:
+        road = detect_road_from_cities(segment)
+
+    if not road:
+        road = detect_road(title)
+
     km = detect_km(title)
     risk = detect_risk(title)
 
@@ -180,7 +193,8 @@ def process_tweet(title, url):
 
         elif segment:
 
-            lat, lng = interpolate(lat1, lon1, lat2, lon2, km)
+            lat = (lat1 + lat2) / 2
+            lng = (lon1 + lon2) / 2
 
         else:
 
