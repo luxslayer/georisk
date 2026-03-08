@@ -8,6 +8,7 @@ from km_geolocator import locate_km
 from city_locator import detect_segment, segment_coords, interpolate
 from data.cities import cities
 from data.routes import routes
+from data.road_segments import road_segments
 
 incidents = []
 
@@ -154,6 +155,30 @@ def detect_road(text):
 
     return None
 
+def detect_known_segment(road, cities):
+
+    if road not in road_segments:
+        return None
+
+    for c1,c2,km1,km2 in road_segments[road]:
+
+        if c1 in cities and c2 in cities:
+            return (c1,c2,km1,km2)
+
+        if c2 in cities and c1 in cities:
+            return (c2,c1,km1,km2)
+
+    return None
+
+def km_relative(km, segment):
+
+    if not segment:
+        return km
+
+    cityA, cityB, km_start, km_end = segment
+
+    return km - km_start
+
 
 def process_tweet(title, url):
 
@@ -179,6 +204,8 @@ def process_tweet(title, url):
 
     road = None
 
+    cities_found = detect_cities(title)
+
     if segment:
         road = detect_road_from_cities(segment)
 
@@ -186,6 +213,15 @@ def process_tweet(title, url):
         road = detect_road(title)
 
     km = detect_km(title)
+
+    known_segment = detect_known_segment(road, cities_found)
+
+    if km and known_segment:
+
+        km = km_relative(km, known_segment)
+
+        print("RELATIVE KM:", km)
+
     risk = detect_risk(title)
 
     print("TWEET:", title)
