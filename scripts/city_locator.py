@@ -1,5 +1,9 @@
-from data.cities import cities
+import sys
+import os
 
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+
+from data.cities import cities
 
 def detect_cities(tweet):
 
