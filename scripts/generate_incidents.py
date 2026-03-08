@@ -161,7 +161,15 @@ def process_tweet(title, url):
     # intentar localizar km exacto en carretera
     if road and km:
 
-        p = locate_km(road, km, (lat1, lon1, lat2, lon2))
+        if segment:
+            cityA, cityB = segment
+            lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
+            city_coords = (lat1, lon1, lat2, lon2)
+        else:
+            city_coords = None
+
+        p = locate_km(road, km, city_coords)
+
         print("LOCATE RESULT:", p)
 
         if p:
@@ -170,29 +178,11 @@ def process_tweet(title, url):
 
         elif segment:
 
-            cityA, cityB = segment
-
-            lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
-
             lat, lng = interpolate(lat1, lon1, lat2, lon2, km)
 
         else:
 
             lat, lng = ciudad_lat, ciudad_lng
-
-
-    elif segment and km:
-
-        cityA, cityB = segment
-
-        lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
-
-        lat, lng = interpolate(lat1, lon1, lat2, lon2, km)
-
-
-    elif coords:
-
-        lat, lng = coords
 
     incidents.append({
         "title": title,
