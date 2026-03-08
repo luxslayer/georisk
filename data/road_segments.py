@@ -17,8 +17,12 @@ road_segments = {
 ],
 
 15: [
-("guadalajara","tepic",0,163),
-("tepic","guadalajara",163,0)
+{
+"cities":("guadalajara","tepic"),
+"km_start":0,
+"km_end":170,
+"start_coord":(20.7369,-103.5813)
+}
 ]
 
 }

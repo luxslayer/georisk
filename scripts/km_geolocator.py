@@ -108,9 +108,32 @@ def corridor_filter(segments, city1, city2):
 
     return filtered
 
-def locate_km(road_number, km, city_coords=None):
+def nearest_point_index(segments, coord):
+
+    best_i = None
+    best_j = None
+    best_dist = 999999
+
+    for i,seg in enumerate(segments):
+
+        for j,p in enumerate(seg):
+
+            d = haversine(coord,p)
+
+            if d < best_dist:
+                best_dist = d
+                best_i = i
+                best_j = j
+
+    return best_i, best_j
+
+def locate_km(road_number, km, city_coords=None, segment=None):
 
     segments = get_road_segments(road_number)
+    start_coord = None
+
+    if segment and "start_coord" in segment:
+        start_coord = segment["start_coord"]
 
     if not segments:
         return None
@@ -183,9 +206,24 @@ def locate_km(road_number, km, city_coords=None):
 
     total = 0
 
-    for seg in segments:
+    start_seg = 0
+    start_point = 0
 
-        for i in range(len(seg) - 1):
+    if start_coord:
+
+        si,sj = nearest_point_index(segments,start_coord)
+
+        if si is not None:
+
+            start_seg = si
+            start_point = sj
+
+    for seg_i in range(start_seg, len(segments)):
+
+        seg = segments[seg_i]
+        start_j = start_point if seg_i == start_seg else 0
+
+        for i in range(start_j, len(seg)-1):
 
             a = seg[i]
             b = seg[i + 1]

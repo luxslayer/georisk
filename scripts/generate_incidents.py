@@ -163,24 +163,23 @@ def detect_known_segment(road, cities):
     if road not in road_segments:
         return None
 
-    for c1,c2,km1,km2 in road_segments[road]:
+    for seg in road_segments[road]:
+
+        c1,c2 = seg["cities"]
 
         if c1 in cities and c2 in cities:
-            return (c1,c2,km1,km2)
+            return seg
 
         if c2 in cities and c1 in cities:
-            return (c2,c1,km1,km2)
+            return seg
 
     return None
 
 def km_relative(km, segment):
 
-    if not segment:
-        return km
+    km_start = segment["km_start"]
 
-    cityA, cityB, km_start, km_end = segment
-
-    return km - km_start
+    return max(km - km_start, 0)
 
 
 def process_tweet(title, url):
@@ -240,7 +239,7 @@ def process_tweet(title, url):
         else:
             city_coords = None
 
-        p = locate_km(road, km, city_coords)
+        p = locate_km(road, km, city_coords, known_segment)
 
         print("LOCATE RESULT:", p)
 
