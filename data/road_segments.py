@@ -14,6 +14,11 @@ road_segments = {
 90: [
 ("irapuato","la piedad",0,70),
 ("la piedad","zapotlanejo",70,230)
+],
+
+15: [
+("guadalajara","tepic",0,163),
+("tepic","guadalajara",163,0)
 ]
 
 }

@@ -48,5 +48,7 @@ routes = {
     ("nuevo teapa","cosoleacaque"):180,
     ("cosoleacaque","nuevo teapa"):180,
     ("la tinaja","cosoleacaque"):145,
-    ("cosoleacaque","la tinaja"):145
+    ("cosoleacaque","la tinaja"):145,
+    ("guadalajara","tepic"):15,
+    ("tepic","guadalajara"):15
 }
