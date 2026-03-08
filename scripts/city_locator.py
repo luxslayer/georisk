@@ -1,8 +1,4 @@
-import json
-import re
-
-with open("data/cities_mx.json") as f:
-    cities = json.load(f)
+from data.cities import cities
 
 
 def detect_cities(tweet):
