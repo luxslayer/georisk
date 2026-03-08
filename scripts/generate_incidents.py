@@ -2,10 +2,12 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 import re
+import unicodedata
 from datetime import datetime
 from km_geolocator import locate_km
 from city_locator import detect_segment, segment_coords, interpolate
-import unicodedata
+from data.cities import cities
+from data.routes import routes
 
 incidents = []
 
@@ -13,36 +15,6 @@ TWITTER_RSS = [
     "https://nitter.net/GN_Carreteras/rss",
     "https://nitter.net/CAPUFE/rss"
 ]
-
-# ciudades con coordenadas
-cities = {
-"monterrey":(25.6866,-100.3161),
-"saltillo":(25.4267,-101.0053),
-"reynosa":(26.0922,-98.2773),
-"nuevo laredo":(27.4779,-99.5496),
-"queretaro":(20.5888,-100.3899),
-"puebla":(19.0414,-98.2063),
-"mexico":(19.4326,-99.1332),
-"cdmx":(19.4326,-99.1332),
-"guadalajara":(20.6597,-103.3496),
-"tijuana":(32.5149,-117.0382),
-"toluca":(19.2826,-99.6557),
-"leon":(21.1220,-101.68),
-"celaya":(20.52,-100.81),
-"irapuato":(20.67,-101.35),
-"mazatlan":(23.24,-106.41),
-"culiacan":(24.80,-107.39),
-"hermosillo":(29.07,-110.96),
-"juarez":(31.69,-106.42),
-"chihuahua":(28.63,-106.08),
-"durango":(24.03,-104.67),
-"pinotepa nacional": (16.34,-98.05),
-"salina cruz": (16.17,-95.20),
-"tapanatepec": (16.37,-94.19),
-"tuxtla gutierrez": (16.75,-93.12),
-"nuevo teapa": (18.03,-94.25),
-"cosoleacaque": (18.00,-94.63)
-}
 
 risk_words = [
 "balacera",
@@ -78,7 +50,6 @@ def detect_city(text):
             return cities[city]
 
     return None
-
 
 
 def detect_km(text):
@@ -130,20 +101,6 @@ def detect_road_from_cities(city_list):
 
     c1 = city_list[0]
     c2 = city_list[1]
-
-    # heurísticas simples de carreteras federales
-    routes = {
-        ("chihuahua","juarez"):45,
-        ("monterrey","saltillo"):40,
-        ("saltillo","matehuala"):57,
-        ("matehuala","san luis potosi"):57,
-        ("queretaro","san luis potosi"):57,
-        ("monterrey","reynosa"):40,
-        ("mexico","queretaro"):57,
-        ("queretaro","leon"):45,
-        ("pinotepa nacional","salina cruz"):200,
-        ("tapanatepec","tuxtla gutierrez"):190,
-    }
 
     for (a,b),road in routes.items():
 
