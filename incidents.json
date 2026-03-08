@@ -1,6 +1,16 @@
 {
-  "last_update": "2026-03-08T14:01:11.007474",
+  "last_update": "2026-03-08T14:43:06.466796",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tabasco   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 122+350, de la carretera Raudales de Malpaso-El Bellote. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 122.35,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030654142994079764#m"
+    },
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
@@ -42,7 +52,17 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030512425985085667#m"
     },
     {
-      "title": "Este fin de semana #HazLoTuyo en la #M\u00e9xicoCuernavaca. \ud83d\udee3\ufe0f\nManeja con calma y disfruta el trayecto.\nBajar la velocidad tambi\u00e9n es proteger a quienes m\u00e1s quieres. \ud83d\ude99\ud83d\udc9b\nSi requieres apoyo, comun\u00edcate al 074.  M\u00e1s informaci\u00f3n en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "title": "\u26a0\ufe0f AVISO IMPORTANTE\u26a0\ufe0f\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Cierres intermitentes en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
+      "type": "twitter",
+      "lat": 18.014730687777853,
+      "lng": -94.45104789260417,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030648998332101038#m"
+    },
+    {
+      "title": "Pinned: Este fin de semana #HazLoTuyo en la #M\u00e9xicoCuernavaca. \ud83d\udee3\ufe0f\nManeja con calma y disfruta el trayecto.\nBajar la velocidad tambi\u00e9n es proteger a quienes m\u00e1s quieres. \ud83d\ude99\ud83d\udc9b\nSi requieres apoyo, comun\u00edcate al 074.  M\u00e1s informaci\u00f3n en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102,
@@ -230,16 +250,6 @@
       "km": 207,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030442144557584556#m"
-    },
-    {
-      "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n del accidente. El personal realiza las maniobras de gr\u00faa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030429997672906905#m"
     }
   ]
 }
