@@ -161,7 +161,7 @@ def process_tweet(title, url):
     # intentar localizar km exacto en carretera
     if road and km:
 
-        p = locate_km(road, km, (ciudad_lat, ciudad_lng))
+        p = locate_km(road, km, (lat1, lon1, lat2, lon2))
         print("LOCATE RESULT:", p)
 
         if p:

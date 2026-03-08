@@ -91,6 +91,26 @@ def locate_km(road_number,km,city_coords=None):
     if not segments:
         return None
 
+    # filtrar segmentos cercanos al tramo entre ciudades
+    if city_coords:
+
+        lat1, lon1, lat2, lon2 = city_coords
+
+        midpoint = (
+            (lat1 + lat2) / 2,
+            (lon1 + lon2) / 2
+        )
+
+        segments = sorted(
+            segments,
+            key=lambda s: haversine(midpoint, line_midpoint(s))
+        )
+
+        # quedarnos solo con los más cercanos al tramo
+        segments = segments[:300]
+
+        print("SEGMENTS AFTER FILTER:", len(segments))
+
 
     # ordenar segmentos por cercanía a ciudad
     if city_coords:
