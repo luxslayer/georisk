@@ -198,6 +198,12 @@ def locate_km(road_number, km, city_coords=None):
 
     segments = get_road_segments(road_number)
 
+    if not segments:
+        return None
+
+    # -------------------------
+    # FILTRO POR TRAMO (NUEVO)
+    # -------------------------
     if city_coords:
 
         lat1, lon1, lat2, lon2 = city_coords
@@ -205,59 +211,90 @@ def locate_km(road_number, km, city_coords=None):
         city1 = (lat1, lon1)
         city2 = (lat2, lon2)
 
-        segments = corridor_filter(
-            segments,
-            city1,
-            city2
-        )
+        dist_cities = haversine(city1, city2)
 
-        print("SEGMENTS AFTER CORRIDOR:", len(segments))
+        filtered = []
 
-    if not segments:
-        return None
+        for seg in segments:
 
-    graph = build_graph(segments)
+            mid = line_midpoint(seg)
 
+            d1 = haversine(city1, mid)
+            d2 = haversine(city2, mid)
 
+            # corredor geográfico
+            if d1 + d2 < dist_cities * 1.3:
+                filtered.append(seg)
 
-    if city_coords and len(city_coords) == 4:
+        if filtered:
+            segments = filtered
+
+    # -------------------------
+    # DETECTAR SUBTRAMO AUTOMÁTICO
+    # -------------------------
+
+    if city_coords:
 
         lat1, lon1, lat2, lon2 = city_coords
 
         city1 = (lat1, lon1)
         city2 = (lat2, lon2)
 
-        start = nearest_node(city1, graph)
-        end = nearest_node(city2, graph)
+        # calcular distancia de cada segmento a las ciudades
+        scored = []
 
-        path = shortest_path(graph, start, end)
+        for seg in segments:
 
-        if not path:
-            return None
+            mid = line_midpoint(seg)
 
-        return interpolate_on_path(path, km)
+            d = min(
+                haversine(city1, mid),
+                haversine(city2, mid)
+            )
 
-    # fallback si no hay ciudades
-    all_nodes = list(graph.keys())
+            scored.append((d, seg))
+
+        scored.sort(key=lambda x: x[0])
+
+        # quedarse con los más cercanos
+        segments = [s for _, s in scored[:200]]
+
+    # -------------------------
+    # ORDENAR SEGMENTOS
+    # -------------------------
+
+    segments = sorted(
+        segments,
+        key=lambda s: (
+            line_midpoint(s)[0],
+            line_midpoint(s)[1]
+        )
+    )
+
+    # -------------------------
+    # INTERPOLAR KM
+    # -------------------------
 
     total = 0
 
-    for i in range(len(all_nodes)-1):
+    for seg in segments:
 
-        a = all_nodes[i]
-        b = all_nodes[i+1]
+        for i in range(len(seg) - 1):
 
-        d = haversine(a,b)
+            a = seg[i]
+            b = seg[i + 1]
 
-        if total + d >= km:
+            d = haversine(a, b)
 
-            ratio = (km - total)/d
+            if total + d >= km:
 
-            lat = a[0] + ratio*(b[0]-a[0])
-            lon = a[1] + ratio*(b[1]-a[1])
+                ratio = (km - total) / d
 
-            return lat, lon
+                lat = a[0] + ratio * (b[0] - a[0])
+                lon = a[1] + ratio * (b[1] - a[1])
 
-        total += d
+                return lat, lon
+
+            total += d
 
     return None
