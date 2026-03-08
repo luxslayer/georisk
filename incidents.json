@@ -1,6 +1,26 @@
 {
-  "last_update": "2026-03-08T21:25:23.767189",
+  "last_update": "2026-03-08T21:47:16.867113",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Morelos  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 067+200, de la carretera M\u00e9xico-Cuernavaca. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 67.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030760892267126904#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 010+050, de la carretera C\u00f3rdoba-Yanga. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 10.05,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030759094311587919#m"
+    },
     {
       "title": "#TomePrecauciones en #EdoM\u00e9x.   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 040+000, de la carretera M\u00e9xico-Quer\u00e9taro. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
@@ -100,6 +120,16 @@
       "km": 70.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030512425985085667#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 53, direcci\u00f3n Puebla. Contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n de accidente (reacomodo de muro central). Direcci\u00f3n CDMX, opera de manera normal. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 53,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030757670068662570#m"
     },
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 53. Reducci\u00f3n de carriles en ambos sentidos por atenci\u00f3n de accidente (choque por alcance m\u00faltiple y contra muro central). En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
@@ -280,16 +310,6 @@
       "km": 76,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030643716315079099#m"
-    },
-    {
-      "title": "\ud83c\udf27\ufe0f\ud83c\udf29\ufe0f CONDICIONES CLIM\u00c1TICAS \ud83c\udf27\ufe0f\ud83c\udf29\ufe0f \nAut. La Tinaja - Isla, contin\u00faa #neblina a la altura de la Plaza de Cobro Cosamaloapan. Disminuye tu velocidad y maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030625699837386856#m"
     }
   ]
 }
