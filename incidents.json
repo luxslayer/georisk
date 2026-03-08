@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T06:10:38.348738",
+  "last_update": "2026-03-08T06:25:06.253912",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 004+010, de la carretera Tepic-San Blas. Atienda indicaci\u00f3n vial.",
@@ -34,8 +34,8 @@
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulaci\u00f3n por #AccidenteVial cerca del km 004+500, de la carretera Irapuato-Zapotlanejo. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 20.29676715385681,
-      "lng": -101.99842389307084,
+      "lat": 20.307609307596454,
+      "lng": -102.03323376677368,
       "road": 90,
       "km": 4.5,
       "risk": "high",
@@ -54,8 +54,8 @@
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 011+900, de la carretera Paso del Toro-Acayucan. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 17.97702789736883,
-      "lng": -93.09007196602599,
+      "lat": 18.004784801247627,
+      "lng": -94.5972498031878,
       "road": 180,
       "km": 11.9,
       "risk": "high",
@@ -74,8 +74,8 @@
     {
       "title": "#TomePrecauciones en #Durango se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 013+000, de la carretera  Durango-Parral. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 23.422843352724144,
-      "lng": -103.04612120611091,
+      "lat": 24.618077565126185,
+      "lng": -104.64017635401993,
       "road": 45,
       "km": 13.0,
       "risk": "high",
@@ -104,8 +104,8 @@
     {
       "title": "#V\u00edaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precauci\u00f3n.",
       "type": "twitter",
-      "lat": 16.430523631497778,
-      "lng": -95.8461267762427,
+      "lat": 16.69172940986016,
+      "lng": -95.63073836402486,
       "road": 190,
       "km": 246.0,
       "risk": "normal",
@@ -164,8 +164,8 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulaci\u00f3n por presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 16.430523631497778,
-      "lng": -95.8461267762427,
+      "lat": 16.69172940986016,
+      "lng": -95.63073836402486,
       "road": 190,
       "km": 246.0,
       "risk": "normal",
@@ -324,8 +324,8 @@
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0 \nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
       "type": "twitter",
-      "lat": 17.979657900891283,
-      "lng": -93.04659660276337,
+      "lat": 17.986706760621267,
+      "lng": -93.61264142753544,
       "road": 180,
       "km": 16,
       "risk": "normal",
@@ -344,8 +344,8 @@
     {
       "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34   \nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Cosoleacaque. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Dir. Nuevo Teapa se restablece la vialidad con reducci\u00f3n de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 17.979657900891283,
-      "lng": -93.04659660276337,
+      "lat": 17.986706760621267,
+      "lng": -93.61264142753544,
       "road": 180,
       "km": 16,
       "risk": "normal",
@@ -384,8 +384,8 @@
     {
       "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Nuevo Teapa. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Direcci\u00f3n Cosoleacaque, contin\u00faa reducci\u00f3n de carriles. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 17.979657900891283,
-      "lng": -93.04659660276337,
+      "lat": 17.986706760621267,
+      "lng": -93.61264142753544,
       "road": 180,
       "km": 16,
       "risk": "normal",
