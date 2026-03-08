@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T11:54:18.824577",
+  "last_update": "2026-03-08T12:52:06.244666",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
@@ -42,6 +42,46 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030512425985085667#m"
     },
     {
+      "title": "\ud83c\udf27\ufe0f\ud83c\udf29\ufe0f CONDICIONES CLIM\u00c1TICAS \ud83c\udf27\ufe0f\ud83c\udf29\ufe0f \nAut. La Tinaja - Isla, contin\u00faa #neblina a la altura de la Plaza de Cobro Cosamaloapan. Disminuye tu velocidad y maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030625699837386856#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. El incidente fuera de la cobertura de CAPUFE ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030624823278174370#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Cuernavaca - Acapulco, km 111, direcci\u00f3n Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 111,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030617339868127357#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, km 76, direcci\u00f3n La Tinaja. Reducci\u00f3n de carriles por atenci\u00f3n de incidente (ponchadura de neum\u00e1tico). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 76,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030615929151750359#m"
+    },
+    {
       "title": "\u26a0\ufe0f AVISO IMPORTANTE\u26a0\ufe0f      \n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Contin\u00faa la carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para m\u00e1s informaci\u00f3n llama al 8003272666 de @arconorte. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
@@ -80,6 +120,26 @@
       "km": 89,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030533170848731600#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Reducci\u00f3n de carriles por atenci\u00f3n de choque contra estructura de la caseta. Maneja con precauci\u00f3n.\nConsulta la ubicaci\u00f3n aqu\u00ed:\nhttps://maps.app.goo.gl/j2w3EF9wJxD1wM1v7",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030348424692793640#m"
+    },
+    {
+      "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030451743868457288#m"
     },
     {
       "title": "R to @CAPUFE: \ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulaci\u00f3n en ambos sentidos. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
@@ -122,26 +182,6 @@
       "url": "https://nitter.net/CAPUFE/status/2030459241740611854#m"
     },
     {
-      "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030451743868457288#m"
-    },
-    {
-      "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n del accidente. En la zona se registra carga vehicular intensa. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030448792424661021#m"
-    },
-    {
       "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Pera - Cuautla, km 2, direcci\u00f3n La Pera. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
       "type": "twitter",
       "lat": 23.5,
@@ -172,16 +212,6 @@
       "url": "https://nitter.net/CAPUFE/status/2030442144557584556#m"
     },
     {
-      "title": "R to @CAPUFE: \u2611\ufe0f ACTUALIZACI\u00d3N.\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n del accidente. El personal realiza las maniobras de gr\u00faa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precauci\u00f3n. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030429997672906905#m"
-    },
-    {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nEnt. San Jos\u00e9 - Ent. Corral de Piedra, km 13, direcci\u00f3n San Lucas. Circulaci\u00f3n a contraflujo por atenci\u00f3n de accidente (choque por alcance y persona atropellada). Maneja con precauci\u00f3n.",
       "type": "twitter",
       "lat": 23.5,
@@ -200,46 +230,6 @@
       "km": 194,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030413172209836327#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0 \nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 18.014730687777853,
-      "lng": -94.45104789260417,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030412345072054584#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Carbonera - Puerto M\u00e9xico, km 207, direcci\u00f3n La Carbonera. Contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n de incidente (tracto cami\u00f3n con falla mec\u00e1nica). Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 207,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030410899551367215#m"
-    },
-    {
-      "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34   \nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Cosoleacaque. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Dir. Nuevo Teapa se restablece la vialidad con reducci\u00f3n de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 18.014730687777853,
-      "lng": -94.45104789260417,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030406954057687433#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Pera - Cuautla, km 2, direcci\u00f3n La Pera. Reducci\u00f3n de carriles por atenci\u00f3n de incidente (cami\u00f3n de carga con falla mec\u00e1nica). Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030406448836960413#m"
     }
   ]
 }
