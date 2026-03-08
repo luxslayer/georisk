@@ -50,14 +50,14 @@ def line_midpoint(coords):
     return sum(lats)/len(lats),sum(lngs)/len(lngs)
 
 
-def locate_km(road_number,km,city_coords=None):
+def locate_km(road_number, km, city_coords=None):
 
-    segments=[]
+    segments = []
 
+    # recolectar segmentos de la carretera
     for feature in roads:
 
         props = feature.get("properties", {})
-
         ref = props.get("ref")
 
         if not ref:
@@ -75,24 +75,23 @@ def locate_km(road_number,km,city_coords=None):
 
         if geom["type"] == "LineString":
 
-            coords = [(c[1],c[0]) for c in geom["coordinates"]]
+            coords = [(c[1], c[0]) for c in geom["coordinates"]]
             segments.append(coords)
 
         elif geom["type"] == "MultiLineString":
 
             for line in geom["coordinates"]:
-
-                coords = [(c[1],c[0]) for c in line]
+                coords = [(c[1], c[0]) for c in line]
                 segments.append(coords)
-    
+
     print("SEARCH ROAD:", road_number)
     print("SEGMENTS FOUND:", len(segments))
 
     if not segments:
         return None
 
-    # filtrar segmentos cercanos al tramo entre ciudades
-    if city_coords:
+    # -------- FILTRO POR TRAMO ENTRE CIUDADES --------
+    if city_coords and len(city_coords) == 4:
 
         lat1, lon1, lat2, lon2 = city_coords
 
@@ -106,43 +105,37 @@ def locate_km(road_number,km,city_coords=None):
             key=lambda s: haversine(midpoint, line_midpoint(s))
         )
 
-        # quedarnos solo con los más cercanos al tramo
         segments = segments[:800]
 
         print("SEGMENTS AFTER FILTER:", len(segments))
 
+    # -------- ORDENAR SEGMENTOS GEOGRÁFICAMENTE --------
+    segments = sorted(
+        segments,
+        key=lambda s: (line_midpoint(s)[0], line_midpoint(s)[1])
+    )
 
-    # ordenar segmentos por cercanía a ciudad
-    if city_coords:
+    total = 0
 
-        segments.sort(
-            key=lambda s: haversine(
-                city_coords,
-                line_midpoint(s)
-            )
-        )
-
-    total=0
-
+    # -------- RECORRER SEGMENTOS --------
     for coords in segments:
 
-        for i in range(len(coords)-1):
+        for i in range(len(coords) - 1):
 
-            a=coords[i]
-            b=coords[i+1]
+            a = coords[i]
+            b = coords[i + 1]
 
-            segment=haversine(a,b)
+            segment_dist = haversine(a, b)
 
-            if total+segment>=km:
+            if total + segment_dist >= km:
 
-                ratio=(km-total)/segment
+                ratio = (km - total) / segment_dist
 
-                lat=a[0]+ratio*(b[0]-a[0])
-                lng=a[1]+ratio*(b[1]-a[1])
+                lat = a[0] + ratio * (b[0] - a[0])
+                lng = a[1] + ratio * (b[1] - a[1])
 
-                return lat,lng
+                return lat, lng
 
-            total+=segment
-
+            total += segment_dist
 
     return None
