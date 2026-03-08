@@ -41,13 +41,15 @@ def normalize(text):
 
     return text
 
-def detect_city(text):
+def detect_city(tweet):
 
-    text = text.lower()
+    cities_found = detect_cities(tweet)
 
-    for city in cities:
-        if city in text:
-            return cities[city]
+    if cities_found:
+
+        city = cities_found[0]
+
+        return cities[city]
 
     return None
 

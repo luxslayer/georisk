@@ -107,7 +107,7 @@ def locate_km(road_number,km,city_coords=None):
         )
 
         # quedarnos solo con los más cercanos al tramo
-        segments = segments[:300]
+        segments = segments[:800]
 
         print("SEGMENTS AFTER FILTER:", len(segments))
 
