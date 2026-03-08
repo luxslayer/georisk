@@ -1,6 +1,26 @@
 {
-  "last_update": "2026-03-08T02:50:53.634689",
+  "last_update": "2026-03-08T04:20:59.557756",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 255+300, de la carretera Pachuca-Tuxpan. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 255.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030496197069463762#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulaci\u00f3n por #AccidenteVial cerca del km 004+500, de la carretera Irapuato-Zapotlanejo. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 4.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030484806681624852#m"
+    },
     {
       "title": "#TomePrecauciones en #Campeche se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 005+400, de la carretera Chencoll\u00ed-Uman. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
@@ -100,6 +120,16 @@
       "km": 136.9,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030396390258483497#m"
+    },
+    {
+      "title": "R to @CAPUFE: \ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulaci\u00f3n en ambos sentidos. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030491246024708283#m"
     },
     {
       "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nEnt. San Jos\u00e9 - Ent. Corral de Piedra, km 13, direcci\u00f3n San Lucas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
