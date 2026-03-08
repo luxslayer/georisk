@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T19:55:15.666679",
+  "last_update": "2026-03-08T20:28:49.966267",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoM\u00e9x.   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 040+000, de la carretera M\u00e9xico-Quer\u00e9taro. Atienda indicaci\u00f3n vial.",
@@ -100,6 +100,16 @@
       "km": 70.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030512425985085667#m"
+    },
+    {
+      "title": "\ud83c\udf27\ufe0f\ud83c\udf29\ufe0f CONDICIONES CLIM\u00c1TICAS \ud83c\udf27\ufe0f\ud83c\udf29\ufe0f\u200b   \n#AutM\u00e9xicoPuebla, registra #lluvia a la altura del km 52. Disminuye tu velocidad y maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030736637312094274#m"
     },
     {
       "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\n#AutM\u00e9xicoCuernavaca, km 67, direcci\u00f3n CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
@@ -280,16 +290,6 @@
       "km": 111,
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2030617339868127357#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, km 76, direcci\u00f3n La Tinaja. Reducci\u00f3n de carriles por atenci\u00f3n de incidente (ponchadura de neum\u00e1tico). Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 76,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030615929151750359#m"
     }
   ]
 }
