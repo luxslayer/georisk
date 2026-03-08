@@ -176,14 +176,49 @@ def get_road_segments(road_number):
 
     return segments
 
+def corridor_filter(segments, city1, city2):
+
+    filtered = []
+
+    dist_cities = haversine(city1, city2)
+
+    for seg in segments:
+
+        mid = line_midpoint(seg)
+
+        d1 = haversine(city1, mid)
+        d2 = haversine(city2, mid)
+
+        if d1 + d2 < dist_cities * 1.3:
+            filtered.append(seg)
+
+    return filtered
+
 def locate_km(road_number, km, city_coords=None):
 
     segments = get_road_segments(road_number)
+
+    if city_coords:
+
+        lat1, lon1, lat2, lon2 = city_coords
+
+        city1 = (lat1, lon1)
+        city2 = (lat2, lon2)
+
+        segments = corridor_filter(
+            segments,
+            city1,
+            city2
+        )
+
+        print("SEGMENTS AFTER CORRIDOR:", len(segments))
 
     if not segments:
         return None
 
     graph = build_graph(segments)
+
+
 
     if city_coords and len(city_coords) == 4:
 
