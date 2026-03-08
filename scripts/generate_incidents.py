@@ -33,6 +33,9 @@ def normalize(text):
 
     text = text.lower()
 
+    text = text.replace("-", " ")
+    text = text.replace("#", " ")
+
     text = unicodedata.normalize("NFD", text)
 
     text = "".join(
