@@ -71,8 +71,6 @@ def locate_km(road_number,km,city_coords=None):
         if road_ref != road_number:
             continue
 
-        print("ROAD MATCH:", road_ref)
-
         geom = feature["geometry"]
 
         if geom["type"] == "LineString":
@@ -87,7 +85,6 @@ def locate_km(road_number,km,city_coords=None):
                 coords = [(c[1],c[0]) for c in line]
                 segments.append(coords)
     
-    print("ROAD MATCH:", road_number)
     print("SEARCH ROAD:", road_number)
     print("SEGMENTS FOUND:", len(segments))
 
