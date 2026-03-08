@@ -134,6 +134,7 @@ def locate_km(road_number, km, city_coords=None, segment=None):
 
     if segment and "start_coord" in segment:
         start_coord = segment["start_coord"]
+        print("USING START COORD:", start_coord)
 
     if not segments:
         return None

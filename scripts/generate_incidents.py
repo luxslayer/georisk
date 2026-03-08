@@ -149,9 +149,10 @@ def detect_road(text):
 
     # 2 detectar ciudades
     found_cities = detect_cities(text)
-    print("CITIES FOUND:", found_cities)
 
     road = detect_road_from_cities(found_cities)
+
+    print("CITIES FOUND:", found_cities)
 
     if road:
         return road
@@ -241,7 +242,6 @@ def process_tweet(title, url):
 
         p = locate_km(road, km, city_coords, known_segment)
 
-        print("LOCATE RESULT:", p)
 
         if p:
 
@@ -255,6 +255,8 @@ def process_tweet(title, url):
         else:
 
             lat, lng = ciudad_lat, ciudad_lng
+        
+        print("LOCATE RESULT:", p)
 
     incidents.append({
         "title": title,
