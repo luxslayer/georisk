@@ -37,6 +37,7 @@ cities = {
     "saltillo":(25.4267,-101.0053),
     "san miguel de allende":(20.91, -100.74),
     "tapanatepec": (16.37,-94.19),
+    "tepic":(21.502, -104.890),
     "tecoman":(18.912, -103.874),
     "tehuantepec":(16.32, -95.24),
     "tijuana":(32.5149,-117.0382),
