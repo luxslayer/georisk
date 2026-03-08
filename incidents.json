@@ -1,6 +1,26 @@
 {
-  "last_update": "2026-03-08T06:25:06.253912",
+  "last_update": "2026-03-08T07:01:41.327939",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 126.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030536241653989745#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 035+000, de la carretera Tepic-Mazatl\u00e1n. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 35.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030533461409198191#m"
+    },
     {
       "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 004+010, de la carretera Tepic-San Blas. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
@@ -24,8 +44,8 @@
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 255+300, de la carretera Pachuca-Tuxpan. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 20.54740402717493,
-      "lng": -97.4747095451628,
+      "lat": 20.84186,
+      "lng": -97.60668,
       "road": 130,
       "km": 255.3,
       "risk": "high",
@@ -34,8 +54,8 @@
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulaci\u00f3n por #AccidenteVial cerca del km 004+500, de la carretera Irapuato-Zapotlanejo. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 20.307609307596454,
-      "lng": -102.03323376677368,
+      "lat": 20.6685,
+      "lng": -101.37849999999999,
       "road": 90,
       "km": 4.5,
       "risk": "high",
@@ -44,8 +64,8 @@
     {
       "title": "#TomePrecauciones en #Campeche se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 005+400, de la carretera Chencoll\u00ed-Uman. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 19.491158041425386,
-      "lng": -90.63371476809881,
+      "lat": 19.69767951767143,
+      "lng": -90.1701325,
       "road": 188,
       "km": 5.4,
       "risk": "high",
@@ -54,8 +74,8 @@
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 011+900, de la carretera Paso del Toro-Acayucan. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 18.004784801247627,
-      "lng": -94.5972498031878,
+      "lat": 17.98284,
+      "lng": -94.95839333333333,
       "road": 180,
       "km": 11.9,
       "risk": "high",
@@ -64,8 +84,8 @@
     {
       "title": "#TomePrecauciones en #SanLuisPotos\u00ed se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 167+000, de la carretera Rio verde-San Luis Potos\u00ed. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 20.576117769102442,
-      "lng": -103.85484528066043,
+      "lat": 21.8826111089201,
+      "lng": -102.13449665240137,
       "road": 70,
       "km": 167.0,
       "risk": "high",
@@ -74,8 +94,8 @@
     {
       "title": "#TomePrecauciones en #Durango se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 013+000, de la carretera  Durango-Parral. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 24.618077565126185,
-      "lng": -104.64017635401993,
+      "lat": 24.129025965265225,
+      "lng": -104.71350191610469,
       "road": 45,
       "km": 13.0,
       "risk": "high",
@@ -84,8 +104,8 @@
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 001+000, de la carretera  M\u00e9xico-Cuernavaca. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 16.872911349588676,
-      "lng": -99.86689439261409,
+      "lat": 18.65573789069156,
+      "lng": -99.29525917112363,
       "road": 95,
       "km": 1.0,
       "risk": "high",
@@ -94,8 +114,8 @@
     {
       "title": "#TomePrecauciones en #Michoac\u00e1n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 222+222, de la carretera Maravat\u00edo-Zapotlanejo. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 19.40808109867685,
-      "lng": -100.03757351475615,
+      "lat": 19.80263100307334,
+      "lng": -100.63922472088716,
       "road": 15,
       "km": 222.222,
       "risk": "high",
@@ -104,8 +124,8 @@
     {
       "title": "#V\u00edaLibre en #Oaxaca tras presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Maneje con precauci\u00f3n.",
       "type": "twitter",
-      "lat": 16.69172940986016,
-      "lng": -95.63073836402486,
+      "lat": 16.45536,
+      "lng": -95.5064,
       "road": 190,
       "km": 246.0,
       "risk": "normal",
@@ -114,8 +134,8 @@
     {
       "title": "#TomePrecauciones en #Quer\u00e9taro se registra cierre total de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 069+500, de la carretera San Miguel de Allende-Quer\u00e9taro. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 20.84234653366854,
+      "lng": -100.50748626973866,
       "road": 111,
       "km": 69.5,
       "risk": "high",
@@ -154,8 +174,8 @@
     {
       "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 130+400, de la carretera  Tapanatepec-Tuxtla Guti\u00e9rrez. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 16.33276064489167,
-      "lng": -95.27825562072925,
+      "lat": 18.134133811299748,
+      "lng": -97.621433148476,
       "road": 190,
       "km": 130.4,
       "risk": "high",
@@ -164,8 +184,8 @@
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulaci\u00f3n por presencia de personas cerca del km 246+000, de la carretera Oaxaca-Tehuantepec. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 16.69172940986016,
-      "lng": -95.63073836402486,
+      "lat": 16.45536,
+      "lng": -95.5064,
       "road": 190,
       "km": 246.0,
       "risk": "normal",
@@ -174,32 +194,22 @@
     {
       "title": "#TomePrecauciones en #Colima se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 032+400, de la carretera  Colima-Ent. Tecom\u00e1n. Atienda indicaci\u00f3n vial.",
       "type": "twitter",
-      "lat": 19.020519737386593,
-      "lng": -103.8207781976944,
+      "lat": 21.06647453700984,
+      "lng": -101.13346957291317,
       "road": 110,
       "km": 32.4,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030385089029292186#m"
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 083+300, de la carretera  Ent. La Tinaja-Cosoleacaque. Atienda indicaci\u00f3n vial.",
+      "title": "\u26a0\ufe0f AVISO IMPORTANTE\u26a0\ufe0f      \n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Contin\u00faa la carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para m\u00e1s informaci\u00f3n llama al 8003272666 de @arconorte. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102,
       "road": null,
-      "km": 83.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030383327430009303#m"
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 009+500, de la carretera C\u00f3rdoba-Ent. Boticaria. Atienda indicaci\u00f3n vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 9.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030373295980200365#m"
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030533170848731600#m"
     },
     {
       "title": "R to @CAPUFE: \ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan, direcci\u00f3n Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulaci\u00f3n en ambos sentidos. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
@@ -314,8 +324,8 @@
     {
       "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, del km 194 al 207, direcci\u00f3n Quer\u00e9taro. Contin\u00faa reducci\u00f3n de carriles por labores de mantenimiento, sin reporte de incidente. En la zona se registra carga vehicular. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 19.950451457284643,
-      "lng": -99.402104501196,
+      "lat": 26.965599134706597,
+      "lng": -100.63819190551277,
       "road": 57,
       "km": 194,
       "risk": "normal",
@@ -324,8 +334,8 @@
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0 \nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
       "type": "twitter",
-      "lat": 17.986706760621267,
-      "lng": -93.61264142753544,
+      "lat": 18.0016,
+      "lng": -94.60973333333332,
       "road": 180,
       "km": 16,
       "risk": "normal",
@@ -344,8 +354,8 @@
     {
       "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34   \nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Cosoleacaque. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Dir. Nuevo Teapa se restablece la vialidad con reducci\u00f3n de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 17.986706760621267,
-      "lng": -93.61264142753544,
+      "lat": 18.0016,
+      "lng": -94.60973333333332,
       "road": 180,
       "km": 16,
       "risk": "normal",
@@ -384,22 +394,12 @@
     {
       "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAut. Nuevo Teapa - Cosoleacaque, km 16, direcci\u00f3n Nuevo Teapa. Cierre a la circulaci\u00f3n por labores de mantenimiento sobre el Puente Ing. Antonio Doval\u00ed Jaime. Direcci\u00f3n Cosoleacaque, contin\u00faa reducci\u00f3n de carriles. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
       "type": "twitter",
-      "lat": 17.986706760621267,
-      "lng": -93.61264142753544,
+      "lat": 18.0016,
+      "lng": -94.60973333333332,
       "road": 180,
       "km": 16,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030398577374335342#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista Agua Dulce - C\u00e1rdenas, km 82, direcci\u00f3n Agua Dulce. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles. El personal contin\u00faa laborando en la atenci\u00f3n del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030398467336437997#m"
     }
   ]
 }
