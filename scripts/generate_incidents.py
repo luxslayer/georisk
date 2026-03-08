@@ -82,6 +82,24 @@ def detect_risk(text):
 
     return "normal"
 
+def detect_segment_from_text(text):
+
+    text = normalize(text)
+
+    m = re.search(
+        r"carretera\s+([a-z\s]+?)-([a-z\s]+)",
+        text
+    )
+
+    if m:
+
+        c1 = m.group(1).strip()
+        c2 = m.group(2).strip()
+
+        return c1, c2
+
+    return None
+
 def detect_cities(text):
 
     text = normalize(text)
