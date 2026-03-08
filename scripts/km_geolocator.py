@@ -2,6 +2,8 @@ import json
 import math
 import os
 import re
+from collections import defaultdict
+import heapq
 
 # cargar carreteras
 roads = []
@@ -50,11 +52,99 @@ def line_midpoint(coords):
     return sum(lats)/len(lats),sum(lngs)/len(lngs)
 
 
-def locate_km(road_number, km, city_coords=None):
+
+def build_graph(segments):
+
+    graph = defaultdict(list)
+
+    for seg in segments:
+
+        for i in range(len(seg) - 1):
+
+            a = seg[i]
+            b = seg[i + 1]
+
+            dist = haversine(a, b)
+
+            graph[a].append((b, dist))
+            graph[b].append((a, dist))
+
+    return graph
+
+def nearest_node(city, graph):
+
+    best = None
+    best_dist = 999999
+
+    for node in graph.keys():
+
+        d = haversine(city, node)
+
+        if d < best_dist:
+            best = node
+            best_dist = d
+
+    return best
+
+
+def shortest_path(graph, start, end):
+
+    queue = [(0, start, [])]
+    visited = set()
+
+    while queue:
+
+        cost, node, path = heapq.heappop(queue)
+
+        if node in visited:
+            continue
+
+        path = path + [node]
+
+        if node == end:
+            return path
+
+        visited.add(node)
+
+        for neighbor, weight in graph[node]:
+
+            if neighbor not in visited:
+
+                heapq.heappush(
+                    queue,
+                    (cost + weight, neighbor, path)
+                )
+
+    return None
+
+def interpolate_on_path(path, km):
+
+    total = 0
+
+    for i in range(len(path) - 1):
+
+        a = path[i]
+        b = path[i+1]
+
+        d = haversine(a, b)
+
+        if total + d >= km:
+
+            ratio = (km - total) / d
+
+            lat = a[0] + ratio * (b[0] - a[0])
+            lon = a[1] + ratio * (b[1] - a[1])
+
+            return lat, lon
+
+        total += d
+
+    return None
+
+def get_road_segments(road_number):
 
     segments = []
 
-    # recolectar segmentos de la carretera
     for feature in roads:
 
         props = feature.get("properties", {})
@@ -84,70 +174,55 @@ def locate_km(road_number, km, city_coords=None):
                 coords = [(c[1], c[0]) for c in line]
                 segments.append(coords)
 
-    print("SEARCH ROAD:", road_number)
-    print("SEGMENTS FOUND:", len(segments))
+    return segments
+
+def locate_km(road_number, km, city_coords=None):
+
+    segments = get_road_segments(road_number)
 
     if not segments:
         return None
 
-    # -------- FILTRO POR TRAMO ENTRE CIUDADES --------
+    graph = build_graph(segments)
+
     if city_coords and len(city_coords) == 4:
 
         lat1, lon1, lat2, lon2 = city_coords
 
-        midpoint = (
-            (lat1 + lat2) / 2,
-            (lon1 + lon2) / 2
-        )
+        city1 = (lat1, lon1)
+        city2 = (lat2, lon2)
 
-        filtered = []
+        start = nearest_node(city1, graph)
+        end = nearest_node(city2, graph)
 
-        for seg in segments:
+        path = shortest_path(graph, start, end)
 
-            mid = line_midpoint(seg)
+        if not path:
+            return None
 
-            if haversine(midpoint, mid) < 120:  # km de tolerancia
-                filtered.append(seg)
+        return interpolate_on_path(path, km)
 
-        if filtered:
-            segments = filtered
-
-        segments = sorted(
-            segments,
-            key=lambda s: haversine(midpoint, line_midpoint(s))
-        )
-
-        segments = segments[:800]
-
-        print("SEGMENTS AFTER FILTER:", len(segments))
-
-    # -------- ORDENAR SEGMENTOS GEOGRÁFICAMENTE --------
-    segments = sorted(
-        segments,
-        key=lambda s: (line_midpoint(s)[0], line_midpoint(s)[1])
-    )
+    # fallback si no hay ciudades
+    all_nodes = list(graph.keys())
 
     total = 0
 
-    # -------- RECORRER SEGMENTOS --------
-    for coords in segments:
+    for i in range(len(all_nodes)-1):
 
-        for i in range(len(coords) - 1):
+        a = all_nodes[i]
+        b = all_nodes[i+1]
 
-            a = coords[i]
-            b = coords[i + 1]
+        d = haversine(a,b)
 
-            segment_dist = haversine(a, b)
+        if total + d >= km:
 
-            if total + segment_dist >= km:
+            ratio = (km - total)/d
 
-                ratio = (km - total) / segment_dist
+            lat = a[0] + ratio*(b[0]-a[0])
+            lon = a[1] + ratio*(b[1]-a[1])
 
-                lat = a[0] + ratio * (b[0] - a[0])
-                lng = a[1] + ratio * (b[1] - a[1])
+            return lat, lon
 
-                return lat, lng
-
-            total += segment_dist
+        total += d
 
     return None
