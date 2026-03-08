@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T01:53:59.430146",
+  "last_update": "2026-03-08T02:12:22.304102",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 011+900, de la carretera Paso del Toro-Acayucan. Atienda indicaci\u00f3n vial.",
@@ -202,6 +202,16 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030338514462601266#m"
     },
     {
+      "title": "\u26a0\ufe0f AVISO IMPORTANTE\u26a0\ufe0f      \n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Registra carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para m\u00e1s informaci\u00f3n llama al 8003272666 de @arconorte. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 19.62923575477764,
+      "lng": -99.19322113707084,
+      "road": 57,
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030465578259882248#m"
+    },
+    {
       "title": "\ud83d\udfe0CARGA VEHICULAR\ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, km 89, direcci\u00f3n CDMX. Registra carga vehicular a la altura de la gasa de incorporaci\u00f3n a la Autopista Arco Norte, sin reporte de incidentes. Toma tus precauciones.",
       "type": "twitter",
       "lat": 19.62923575477764,
@@ -390,16 +400,6 @@
       "km": 16,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030391622320406863#m"
-    },
-    {
-      "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAutopista Agua Dulce - C\u00e1rdenas, km 82, direcci\u00f3n Agua Dulce. Cierre a la circulaci\u00f3n por atenci\u00f3n de accidente (salida del camino de tracto cami\u00f3n). Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030390778518724768#m"
     }
   ]
 }
