@@ -58,19 +58,20 @@ def locate_km(road_number,km,city_coords=None):
 
         props = feature.get("properties", {})
 
-        name = (
-            str(props.get("name","")) + " " +
-            str(props.get("ref","")) + " " +
-            str(props.get("route",""))
-        ).lower()
+        ref = props.get("ref")
 
-        m = re.search(r"mex[\s\-_]?(\d+)", name)
-
-        if not m:
+        if not ref:
             continue
 
-        if int(m.group(1)) != road_number:
-            continue   
+        try:
+            road_ref = int(ref)
+        except:
+            continue
+
+        if road_ref != road_number:
+            continue
+
+        print("ROAD MATCH:", road_ref)
 
         geom = feature["geometry"]
 
@@ -86,7 +87,7 @@ def locate_km(road_number,km,city_coords=None):
                 coords = [(c[1],c[0]) for c in line]
                 segments.append(coords)
     
-    print("ROAD MATCH:", name)
+    print("ROAD MATCH:", road_number)
     print("SEARCH ROAD:", road_number)
     print("SEGMENTS FOUND:", len(segments))
 
