@@ -35,7 +35,7 @@ road_segments = {
     ],
 
     150: [
-        {"cities": ("mexico", "puebla"),            "km_start": 0,   "km_end": 286},
+        {"cities": ("mexico", "puebla"),            "km_start": 20,   "km_end": 286},
     ],
 
 }
