@@ -65,28 +65,44 @@ def _load_geojson(road: int) -> list[list[tuple[float, float]]]:
     return segments
 
 
-def _dist_endpoints(a: list, b: list) -> float:
-    """Distancia mínima entre los extremos de dos segmentos."""
-    return min(
-        haversine(a[-1][0], a[-1][1], b[0][0],  b[0][1]),
-        haversine(a[-1][0], a[-1][1], b[-1][0], b[-1][1]),
-        haversine(a[0][0],  a[0][1],  b[0][0],  b[0][1]),
-        haversine(a[0][0],  a[0][1],  b[-1][0], b[-1][1]),
-    )
+def _nearest_point_on_segment(
+    lat: float, lng: float,
+    seg: list[tuple[float, float]]
+) -> float:
+    """Distancia mínima en km desde (lat,lng) al segmento más cercano."""
+    return min(haversine(lat, lng, p[0], p[1]) for p in seg)
 
 
-def _chain_segments(segments: list) -> list[tuple[float, float]]:
+def _chain_segments_anchored(
+    segments: list[list[tuple[float, float]]],
+    anchor_lat: float,
+    anchor_lng: float,
+    max_dist_km: float = 80.0,
+) -> list[tuple[float, float]]:
     """
-    Une los segmentos en una sola polilínea ordenada conectando
-    cada segmento al extremo más cercano del anterior.
-    Invierte segmentos si es necesario para mantener continuidad.
+    Encadena solo los segmentos dentro de max_dist_km del punto ancla,
+    ordenándolos por proximidad al ancla primero y luego greedy entre sí.
     """
-    if not segments:
+    # Filtrar segmentos cercanos al ancla
+    nearby = [
+        s for s in segments
+        if _nearest_point_on_segment(anchor_lat, anchor_lng, s) <= max_dist_km
+    ]
+
+    if not nearby:
+        # Ampliar el radio si no hay nada cercano
+        nearby = sorted(segments, key=lambda s: _nearest_point_on_segment(anchor_lat, anchor_lng, s))
+        nearby = nearby[:min(20, len(nearby))]
+
+    if not nearby:
         return []
 
-    # Empezar con el segmento más largo como ancla
-    remaining = sorted(segments, key=len, reverse=True)
-    chain = list(remaining.pop(0))
+    # Ordenar por distancia al ancla
+    nearby.sort(key=lambda s: _nearest_point_on_segment(anchor_lat, anchor_lng, s))
+
+    # Encadenar greedy desde el más cercano al ancla
+    chain = list(nearby[0])
+    remaining = nearby[1:]
 
     while remaining:
         best_idx = 0
@@ -94,21 +110,22 @@ def _chain_segments(segments: list) -> list[tuple[float, float]]:
         best_flip = False
 
         for i, seg in enumerate(remaining):
-            # ¿conecta mejor al inicio o al final de la cadena actual?
-            d_end_start = haversine(chain[-1][0], chain[-1][1], seg[0][0],  seg[0][1])
-            d_end_end   = haversine(chain[-1][0], chain[-1][1], seg[-1][0], seg[-1][1])
-            d = min(d_end_start, d_end_end)
-            flip = d_end_end < d_end_start
+            d_start = haversine(chain[-1][0], chain[-1][1], seg[0][0],  seg[0][1])
+            d_end   = haversine(chain[-1][0], chain[-1][1], seg[-1][0], seg[-1][1])
+            d = min(d_start, d_end)
             if d < best_dist:
                 best_dist = d
                 best_idx = i
-                best_flip = flip
+                best_flip = d_end < d_start
+
+        # No encadenar si el salto es demasiado grande (> 5 km → probable ramal)
+        if best_dist > 5.0:
+            break
 
         seg = remaining.pop(best_idx)
         if best_flip:
             seg = list(reversed(seg))
 
-        # Evitar duplicar el punto de unión si están muy cerca (< 50 m)
         if haversine(chain[-1][0], chain[-1][1], seg[0][0], seg[0][1]) < 0.05:
             chain.extend(seg[1:])
         else:
@@ -118,10 +135,9 @@ def _chain_segments(segments: list) -> list[tuple[float, float]]:
 
 
 @lru_cache(maxsize=32)
-def _build_polyline(road: int) -> list[tuple[float, float]]:
-    """Carga y encadena la polilínea completa de una carretera (cacheada)."""
-    segments = _load_geojson(road)
-    return _chain_segments(segments)
+def _load_segments_cached(road: int) -> tuple:
+    """Carga los segmentos del GeoJSON (cacheado). Devuelve tuple para hashability."""
+    return tuple(_load_geojson(road))
 
 
 # ---------------------------------------------------------------------------
@@ -216,7 +232,7 @@ def _clip_polyline_to_segment(
 def locate_km(
     road: int,
     km: float,
-    city_coords: tuple | None = None,   # mantenido por compatibilidad, no usado
+    city_coords: tuple | None = None,
     known_segment: dict | None = None,
 ) -> tuple[float, float] | None:
     """
@@ -224,35 +240,71 @@ def locate_km(
 
     Args:
         road:          Número de carretera (ej. 57)
-        km:            Kilómetro a localizar
-        city_coords:   Ignorado (mantenido por compatibilidad con versión anterior)
-        known_segment: Dict con 'km_start' y 'km_end' si el KM es relativo al segmento
+        km:            Kilómetro a localizar (relativo al segmento si known_segment existe)
+        city_coords:   (lat1, lon1, lat2, lon2) de las ciudades del tramo — usado como ancla
+        known_segment: Dict con 'km_start', 'km_end' y 'cities' si el KM es relativo
 
     Returns:
         (lat, lng) o None si no se pudo localizar
     """
-    polyline = _build_polyline(road)
-    if not polyline:
+    from data.cities import cities as cities_dict
+
+    segments = list(_load_segments_cached(road))
+    if not segments:
         print(f"[km_geolocator] Sin GeoJSON para carretera {road}")
+        return None
+
+    # Determinar punto ancla para filtrar segmentos relevantes
+    anchor_lat, anchor_lng = None, None
+
+    if city_coords and len(city_coords) == 4:
+        # Promedio de las dos ciudades del tramo
+        anchor_lat = (city_coords[0] + city_coords[2]) / 2
+        anchor_lng = (city_coords[1] + city_coords[3]) / 2
+
+    elif known_segment:
+        # Usar coordenadas de las ciudades del segmento conocido
+        c1, c2 = known_segment["cities"]
+        coord1 = cities_dict.get(c1)
+        coord2 = cities_dict.get(c2)
+        if coord1 and coord2:
+            anchor_lat = (coord1[0] + coord2[0]) / 2
+            anchor_lng = (coord1[1] + coord2[1]) / 2
+        elif coord1:
+            anchor_lat, anchor_lng = coord1
+        elif coord2:
+            anchor_lat, anchor_lng = coord2
+
+    if anchor_lat is None:
+        # Sin ancla: usar centroide de México como fallback
+        anchor_lat, anchor_lng = 23.5, -102.0
+
+    # Construir polilínea anclada al tramo de interés
+    polyline = _chain_segments_anchored(segments, anchor_lat, anchor_lng)
+    if not polyline:
+        print(f"[km_geolocator] No se pudo construir polilínea para MEX-{road}")
         return None
 
     cum_dists = _cumulative_distances(polyline)
     total_km  = cum_dists[-1]
 
-    print(f"[km_geolocator] MEX-{road}: {len(polyline)} puntos, {total_km:.1f} km totales")
+    print(f"[km_geolocator] MEX-{road}: {len(polyline)} puntos, {total_km:.1f} km (tramo anclado)")
 
-    # Si hay segmento conocido y el KM es relativo, convertir a absoluto
+    # Convertir KM relativo a absoluto dentro de la polilínea anclada
+    # La polilínea ya está recortada al tramo → el KM relativo se usa directo
     if known_segment:
-        km_abs = known_segment["km_start"] + km
-        print(f"[km_geolocator] KM relativo {km} → absoluto {km_abs} (offset {known_segment['km_start']})")
+        # km ya viene relativo al km_start del segmento desde main.py
+        km_target = km
+        print(f"[km_geolocator] Buscando KM relativo {km_target:.1f} en tramo de {total_km:.1f} km")
     else:
-        km_abs = km
+        km_target = km
+        print(f"[km_geolocator] Buscando KM {km_target:.1f} en tramo de {total_km:.1f} km")
 
-    result = _find_km_on_polyline(polyline, cum_dists, km_abs)
+    result = _find_km_on_polyline(polyline, cum_dists, km_target)
 
     if result:
         print(f"[km_geolocator] Localizado: {result[0]:.5f}, {result[1]:.5f}")
     else:
-        print(f"[km_geolocator] KM {km_abs} fuera de rango (máx {total_km:.1f} km)")
+        print(f"[km_geolocator] KM {km_target} fuera de rango (máx {total_km:.1f} km)")
 
     return result
