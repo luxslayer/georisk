@@ -29,9 +29,7 @@ RISK_WORDS = [
     "bloqueo",
     "enfrentamiento",
     "incendio",
-    "violencia",
-    "accidente",
-    "obras",
+    "violencia"
 ]
 
 # ---------------------------------------------------------------------------
@@ -143,6 +141,7 @@ def detect_road(text: str) -> int | None:
 
     # 2. Par de ciudades
     pair = detect_city_pair(text_norm)
+    print("DETECTED CITY PAIR:", pair)
     if pair:
         road = detect_road_from_cities(pair)
         if road:
