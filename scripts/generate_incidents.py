@@ -240,6 +240,7 @@ def process_tweet(title, url):
         else:
             city_coords = None
 
+        print("KNOWN SEGMENT:", known_segment)
         p = locate_km(road, km, city_coords, known_segment)
 
 
