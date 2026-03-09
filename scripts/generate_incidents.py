@@ -10,321 +10,285 @@ from data.cities import cities
 from data.routes import routes
 from data.road_segments import road_segments
 
+# ---------------------------------------------------------------------------
+# Config
+# ---------------------------------------------------------------------------
+
 incidents = []
 
 TWITTER_RSS = [
     "https://nitter.net/GN_Carreteras/rss",
-    "https://nitter.net/CAPUFE/rss"
+    "https://nitter.net/CAPUFE/rss",
 ]
 
-risk_words = [
-"balacera",
-"robo",
-"asalto",
-"bloqueo",
-"enfrentamiento",
-"incendio",
-"violencia",
-"accidente",
-"obras"
+RISK_WORDS = [
+    "balacera",
+    "robo",
+    "asalto",
+    "bloqueo",
+    "enfrentamiento",
+    "incendio",
+    "violencia",
+    "accidente",
+    "obras",
 ]
 
-def normalize(text):
+# ---------------------------------------------------------------------------
+# Normalización
+# ---------------------------------------------------------------------------
 
+def normalize(text: str) -> str:
+    """Minúsculas, sin acentos, sin puntuación, espacios simples."""
     text = text.lower()
-
-    text = text.replace("-", " ")
-    text = text.replace("#", " ")
-
+    text = text.replace("-", " ").replace("#", " ")
     text = unicodedata.normalize("NFD", text)
-
-    text = "".join(
-        c for c in text
-        if unicodedata.category(c) != "Mn"
-    )
-
+    text = "".join(c for c in text if unicodedata.category(c) != "Mn")
     text = re.sub(r"[^a-z0-9\s]", " ", text)
-
     text = re.sub(r"\s+", " ", text)
-
     return text.strip()
 
-def detect_city(tweet):
+# ---------------------------------------------------------------------------
+# Detección de ciudades
+# ---------------------------------------------------------------------------
 
-    cities_found = detect_cities(tweet)
-
-    if cities_found:
-
-        city = cities_found[0]
-
-        return cities[city]
-
-    return None
-
-
-def detect_km(text):
-
-    text = text.lower()
-
-    m = re.search(r"km\s*(\d+)(?:\+(\d+))?", text)
-
-    if m:
-
-        km = int(m.group(1))
-
-        if m.group(2):
-            km += int(m.group(2)) / 1000
-
-        return km
-
-    return None
-
-
-def detect_risk(text):
-
-    text = text.lower()
-
-    for word in risk_words:
-        if word in text:
-            return "high"
-
-    return "normal"
-
-def detect_segment_from_text(text):
-
-    text = normalize(text)
-
-    m = re.search(
-        r"carretera\s+([a-z\s]+?)-([a-z\s]+)",
-        text
-    )
-
-    if m:
-
-        c1 = m.group(1).strip()
-        c2 = m.group(2).strip()
-
-        return c1, c2
-
-    return None
-
-def detect_cities(text):
-
-    text = normalize(text)
-
-    words = set(text.split())
-
-    found = []
-
-    for city in cities:
-
-        city_words = city.split()
-
-        if all(w in words for w in city_words):
-            found.append(city)
-
+def detect_cities(text: str) -> list[str]:
+    """
+    Busca cada clave del diccionario cities como subcadena normalizada.
+    Devuelve la lista ordenada de mayor a menor longitud para que
+    "san luis potosi" tenga precedencia sobre "san luis".
+    """
+    text_norm = normalize(text)
+    found = [city for city in cities if normalize(city) in text_norm]
+    found.sort(key=len, reverse=True)
     return found
 
-def detect_city_pair(text):
 
-    text = normalize(text)
+def detect_city(text: str) -> tuple[float, float] | None:
+    """Devuelve las coordenadas de la primera ciudad detectada, o None."""
+    found = detect_cities(text)
+    if found:
+        return cities[found[0]]
+    return None
 
-    m = re.search(
-        r"carretera\s+([a-z\s]+?)\s*[- ]\s*([a-z\s]+)",
-        text
-    )
+# ---------------------------------------------------------------------------
+# Detección de KM
+# ---------------------------------------------------------------------------
 
+def detect_km(text: str) -> float | None:
+    """
+    Detecta expresiones como 'km 45', 'km45', 'km 45+300'.
+    Devuelve el valor como float (ej. 45.3) o None.
+    """
+    m = re.search(r"km\s*(\d+)(?:[+\-](\d+))?", text.lower())
     if m:
+        km = int(m.group(1))
+        if m.group(2):
+            km += int(m.group(2)) / 1000
+        return km
+    return None
 
-        c1 = m.group(1).strip()
-        c2 = m.group(2).strip()
+# ---------------------------------------------------------------------------
+# Detección de riesgo
+# ---------------------------------------------------------------------------
 
-        return c1, c2
+def detect_risk(text: str) -> str:
+    text_norm = normalize(text)
+    for word in RISK_WORDS:
+        if word in text_norm:
+            return "high"
+    return "normal"
 
+# ---------------------------------------------------------------------------
+# Detección de carretera
+# ---------------------------------------------------------------------------
+
+def detect_city_pair(text: str) -> tuple[str, str] | None:
+    """Extrae el par de ciudades de expresiones como 'carretera Puebla-Oaxaca'."""
+    text_norm = normalize(text)
+    m = re.search(
+        r"carretera\s+([a-z\s]+?)\s*[-–]\s*([a-z\s]+?)(?:\s|$)",
+        text_norm,
+    )
+    if m:
+        return m.group(1).strip(), m.group(2).strip()
     return None
 
 
-def detect_road_from_cities(city_pair):
-
+def detect_road_from_cities(city_pair: tuple[str, str]) -> int | None:
+    """
+    Busca la carretera dado un par de ciudades.
+    Maneja ambas direcciones sin necesitar entradas duplicadas en routes.
+    """
     c1, c2 = city_pair
-
-    print("PAIR:", city_pair)
-
-    for (a,b),road in routes.items():
-
+    for (a, b), road in routes.items():
         if (c1 == a and c2 == b) or (c1 == b and c2 == a):
             return road
-
     return None
 
-def detect_road(text):
 
-    text = normalize(text)
+def detect_road(text: str) -> int | None:
+    """
+    Detecta número de carretera por:
+    1. Número explícito ('carretera 57', 'autopista 15', 'mex 130')
+    2. Par de ciudades mencionadas ('carretera Querétaro-SLP')
+    """
+    text_norm = normalize(text)
 
-    # 1 detectar numero directo
-    m = re.search(r"(carretera|autopista|mex)\s*(\d+)", text)
-
+    # 1. Número directo
+    m = re.search(r"(?:carretera|autopista|mex)\s*(\d+)", text_norm)
     if m:
-        return int(m.group(2))
+        return int(m.group(1))
 
-    # 2 detectar par de ciudades
-    pair = detect_city_pair(text)
-
+    # 2. Par de ciudades
+    pair = detect_city_pair(text_norm)
     if pair:
-
         road = detect_road_from_cities(pair)
-
         if road:
             return road
 
     return None
 
-def detect_known_segment(road, cities):
+# ---------------------------------------------------------------------------
+# Segmento conocido
+# ---------------------------------------------------------------------------
 
-    if road not in road_segments:
+def detect_known_segment(road: int | None, cities_found: list[str]) -> dict | None:
+    """
+    Dado un número de carretera y una lista de ciudades detectadas,
+    devuelve el segmento de road_segments que contenga ambas ciudades.
+    """
+    if road is None or road not in road_segments:
         return None
 
+    cities_set = set(cities_found)
     for seg in road_segments[road]:
-
-        c1,c2 = seg["cities"]
-
-        if c1 in cities and c2 in cities:
-            return seg
-
-        if c2 in cities and c1 in cities:
+        c1, c2 = seg["cities"]
+        if c1 in cities_set and c2 in cities_set:
             return seg
 
     return None
 
-def km_relative(km, segment):
 
-    km_start = segment["km_start"]
+def km_relative(km: float, segment: dict) -> float:
+    """Convierte un KM absoluto de la carretera a relativo dentro del segmento."""
+    return max(km - segment["km_start"], 0)
 
-    return max(km - km_start, 0)
+# ---------------------------------------------------------------------------
+# Procesamiento de tweet
+# ---------------------------------------------------------------------------
+
+DEFAULT_LAT, DEFAULT_LNG = 23.5, -102.0  # centro aproximado de México
 
 
-def process_tweet(title, url):
-
+def process_tweet(title: str, url: str) -> None:
     if not title:
         return
 
-    lat = 23.5
-    lng = -102
+    # Coordenadas por defecto
+    lat, lng = DEFAULT_LAT, DEFAULT_LNG
 
-    coords = detect_city(title)
+    # Ciudad más probable
+    city_coords = detect_city(title)
+    if city_coords:
+        lat, lng = city_coords
 
-    if coords:
-        ciudad_lat, ciudad_lng = coords
-    else:
-        ciudad_lat, ciudad_lng = 23.5, -102
-
+    # Segmento entre dos ciudades (de city_locator externo)
     try:
         segment = detect_segment(title)
-    except:
+    except Exception:
         segment = None
 
-    road = None
-
+    # Ciudades mencionadas
     cities_found = detect_cities(title)
 
+    # Carretera
+    road = None
     if segment:
         road = detect_road_from_cities(segment)
-
-    if not road:
+    if road is None:
         road = detect_road(title)
 
+    # KM
     km = detect_km(title)
 
+    # Segmento conocido en road_segments
     known_segment = detect_known_segment(road, cities_found)
-
-    if km and known_segment:
-
+    if km is not None and known_segment:
         km = km_relative(km, known_segment)
-
         print("RELATIVE KM:", km)
 
+    # Riesgo
     risk = detect_risk(title)
 
-    print("TWEET:", title)
-    print("ROAD:", road, "KM:", km)
+    print(f"TWEET : {title}")
+    print(f"ROAD  : {road}  |  KM: {km}")
 
-    # intentar localizar km exacto en carretera
-    if road and km:
-
+    # Geolocalización fina
+    if road is not None and km is not None:
+        seg_coords = None
         if segment:
             cityA, cityB = segment
             lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
-            city_coords = (lat1, lon1, lat2, lon2)
-        else:
-            city_coords = None
+            seg_coords = (lat1, lon1, lat2, lon2)
 
         print("KNOWN SEGMENT:", known_segment)
-        p = locate_km(road, km, city_coords, known_segment)
+        point = locate_km(road, km, seg_coords, known_segment)
 
-        if p:
-
-            lat, lng = p
-
+        if point:
+            lat, lng = point
         elif segment:
-
-            lat = (lat1 + lat2) / 2
+            lat  = (lat1 + lat2) / 2
             lng = (lon1 + lon2) / 2
+        # si no hay nada, lat/lng ya tiene la ciudad detectada o el default
 
-        else:
-
-            lat, lng = ciudad_lat, ciudad_lng
-        
-        print("LOCATE RESULT:", p)
+        print("LOCATE RESULT:", point)
 
     incidents.append({
         "title": title,
-        "type": "twitter",
-        "lat": lat,
-        "lng": lng,
-        "road": road,
-        "km": km,
-        "risk": risk,
-        "url": url
+        "type":  "twitter",
+        "lat":   lat,
+        "lng":   lng,
+        "road":  road,
+        "km":    km,
+        "risk":  risk,
+        "url":   url,
     })
 
+# ---------------------------------------------------------------------------
+# Ingesta RSS
+# ---------------------------------------------------------------------------
 
-print("Fetching Twitter RSS")
-
-for feed in TWITTER_RSS:
-
+def fetch_rss(feed_url: str) -> None:
+    headers = {"User-Agent": "Mozilla/5.0"}
     try:
-
-        headers = {
-        "User-Agent":"Mozilla/5.0"
-        }
-
-        r = requests.get(feed, headers=headers, timeout=10)
-
-        print("Status:", r.status_code)
-        print("Response:", r.text[:200])
+        r = requests.get(feed_url, headers=headers, timeout=10)
+        print(f"Status [{feed_url}]: {r.status_code}")
 
         root = ET.fromstring(r.content)
-
         for item in root.findall(".//item")[:50]:
-
-            title = item.find("title").text
-            link = item.find("link").text
-
+            title = item.findtext("title")
+            link  = item.findtext("link")
             process_tweet(title, link)
 
     except Exception as e:
-
-        print("RSS error:", e)
-
-
-data = {
-"last_update": datetime.utcnow().isoformat(),
-"incidents": incidents
-}
-
-with open("incidents.json","w") as f:
-
-    json.dump(data,f,indent=2)
+        print(f"RSS error ({feed_url}): {e}")
 
 
-print("Saved", len(incidents), "incidents")
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+if __name__ == "__main__":
+    print("Fetching Twitter RSS")
+    for feed in TWITTER_RSS:
+        fetch_rss(feed)
+
+    data = {
+        "last_update": datetime.utcnow().isoformat(),
+        "incidents":   incidents,
+    }
+
+    with open("incidents.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+    print(f"Saved {len(incidents)} incidents")
