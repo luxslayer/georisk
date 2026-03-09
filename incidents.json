@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T11:50:00.948545",
+  "last_update": "2026-03-09T12:47:20.760892",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 091+500, de la carretera Xalapa-Veracruz. Atienda indicaci\u00f3n vial.",
@@ -30,6 +30,36 @@
       "km": 28.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030915615116960217#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAut. Cd. Obreg\u00f3n - Guaymas, km 13, direcci\u00f3n Cd. Obreg\u00f3n. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030981503656615964#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 20, direcci\u00f3n CDMX. Reducci\u00f3n de carriles por atenci\u00f3n de accidente (choque contra muro central). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030979747275026712#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 42. Contin\u00faa reducci\u00f3n de carriles en ambos sentidos por atenci\u00f3n de accidente (choque contra muro central y volcadura de tracto cami\u00f3n). Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030979536452481103#m"
     },
     {
       "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 42. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos por atenci\u00f3n de accidente (choque contra muro central y volcadura de tracto cami\u00f3n). Toma tus precauciones.",
@@ -190,36 +220,6 @@
       "km": 137,
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2030851865475227826#m"
-    },
-    {
-      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Las Choapas - Ocozocoautla, km 28. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 28,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030850675718992226#m"
-    },
-    {
-      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Agua Dulce - C\u00e1rdenas, km 49, direcci\u00f3n C\u00e1rdenas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030850123207454816#m"
-    },
-    {
-      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, km 37, direcci\u00f3n Isla. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles. El personal contin\u00faa laborando en la atenci\u00f3n del accidente. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030849637288988780#m"
     }
   ]
 }
