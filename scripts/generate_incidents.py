@@ -129,22 +129,17 @@ def detect_city_pair(text):
 
     text = normalize(text)
 
-    words = text.split()
+    m = re.search(
+        r"carretera\s+([a-z\s]+?)\s*[- ]\s*([a-z\s]+)",
+        text
+    )
 
-    detected = detect_cities(text)
+    if m:
 
-    if len(detected) >= 2:
-        return detected[0], detected[1]
+        c1 = m.group(1).strip()
+        c2 = m.group(2).strip()
 
-    # búsqueda por ventana
-    for i in range(len(words)-4):
-
-        window = " ".join(words[i:i+5])
-
-        cities = detect_cities(window)
-
-        if len(cities) >= 2:
-            return cities[0], cities[1]
+        return c1, c2
 
     return None
 
@@ -166,10 +161,10 @@ def detect_road_from_cities(city_list):
 
 def detect_road(text):
 
-    text_norm = normalize(text)
+    text = normalize(text)
 
     # 1 detectar numero directo
-    m = re.search(r"(carretera|autopista|mex)\s*(\d+)", text_norm)
+    m = re.search(r"(carretera|autopista|mex)\s*(\d+)", text)
 
     if m:
         return int(m.group(2))
@@ -183,14 +178,6 @@ def detect_road(text):
 
         if road:
             return road
-
-    # 3 fallback ciudades
-    cities = detect_cities(text)
-
-    road = detect_road_from_cities(cities)
-
-    if road:
-        return road
 
     return None
 
