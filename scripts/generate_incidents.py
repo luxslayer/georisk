@@ -43,7 +43,11 @@ def normalize(text):
         if unicodedata.category(c) != "Mn"
     )
 
-    return text
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
 
 def detect_city(tweet):
 
@@ -121,6 +125,29 @@ def detect_cities(text):
 
     return found
 
+def detect_city_pair(text):
+
+    text = normalize(text)
+
+    words = text.split()
+
+    detected = detect_cities(text)
+
+    if len(detected) >= 2:
+        return detected[0], detected[1]
+
+    # búsqueda por ventana
+    for i in range(len(words)-4):
+
+        window = " ".join(words[i:i+5])
+
+        cities = detect_cities(window)
+
+        if len(cities) >= 2:
+            return cities[0], cities[1]
+
+    return None
+
 
 def detect_road_from_cities(city_list):
 
@@ -139,20 +166,28 @@ def detect_road_from_cities(city_list):
 
 def detect_road(text):
 
-    text = normalize(text)
+    text_norm = normalize(text)
 
     # 1 detectar numero directo
-    m = re.search(r"(carretera|autopista|mex)[\s\-]?(\d+)", text)
+    m = re.search(r"(carretera|autopista|mex)\s*(\d+)", text_norm)
 
     if m:
         return int(m.group(2))
 
-    # 2 detectar ciudades
-    found_cities = detect_cities(text)
+    # 2 detectar par de ciudades
+    pair = detect_city_pair(text)
 
-    road = detect_road_from_cities(found_cities)
+    if pair:
 
-    print("CITIES FOUND:", found_cities)
+        road = detect_road_from_cities(pair)
+
+        if road:
+            return road
+
+    # 3 fallback ciudades
+    cities = detect_cities(text)
+
+    road = detect_road_from_cities(cities)
 
     if road:
         return road
@@ -203,8 +238,6 @@ def process_tweet(title, url):
     except:
         segment = None
 
-    segment = detect_segment(title)
-
     road = None
 
     cities_found = detect_cities(title)
@@ -242,7 +275,6 @@ def process_tweet(title, url):
 
         print("KNOWN SEGMENT:", known_segment)
         p = locate_km(road, km, city_coords, known_segment)
-
 
         if p:
 
@@ -301,10 +333,8 @@ for feed in TWITTER_RSS:
 
 
 data = {
-
 "last_update": datetime.utcnow().isoformat(),
 "incidents": incidents
-
 }
 
 with open("incidents.json","w") as f:
