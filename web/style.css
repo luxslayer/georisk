@@ -266,6 +266,21 @@ body {
 .inc-risk.high   { color: var(--high); }
 .inc-risk.normal { color: var(--text-dim); }
 
+.inc-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 3px;
+  flex-wrap: wrap;
+}
+
+.inc-time {
+  font-family: var(--mono);
+  font-size: 9px;
+  color: var(--text-dim);
+  letter-spacing: 0.05em;
+}
+
 .road-clear-msg {
   font-family: var(--mono);
   font-size: 10px;

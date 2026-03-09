@@ -3,7 +3,8 @@ import xml.etree.ElementTree as ET
 import json
 import re
 import unicodedata
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from km_geolocator import locate_km
 from city_locator import detect_segment, segment_coords, interpolate
 from data.cities import cities
@@ -127,27 +128,24 @@ def detect_road_from_cities(city_pair: tuple[str, str]) -> int | None:
 
 
 def detect_road(text: str) -> int | None:
+    """
+    Detecta número de carretera por:
+    1. Número explícito ('carretera 57', 'autopista 15', 'mex 130')
+    2. Par de ciudades mencionadas ('carretera Querétaro-SLP')
+    """
     text_norm = normalize(text)
 
-    # 1. Número explícito
+    # 1. Número directo
     m = re.search(r"(?:carretera|autopista|mex)\s*(\d+)", text_norm)
     if m:
         return int(m.group(1))
 
-    # 2. Par explícito "carretera X-Y"
+    # 2. Par de ciudades
     pair = detect_city_pair(text_norm)
     if pair:
         road = detect_road_from_cities(pair)
         if road:
             return road
-
-    # 3. *** NUEVO *** Cruzar todas las ciudades detectadas contra routes
-    cities_found = detect_cities(text)
-    for i, c1 in enumerate(cities_found):
-        for c2 in cities_found[i+1:]:
-            road = detect_road_from_cities((c1, c2))
-            if road:
-                return road
 
     return None
 
@@ -183,9 +181,35 @@ def km_relative(km: float, segment: dict) -> float:
 DEFAULT_LAT, DEFAULT_LNG = 23.5, -102.0  # centro aproximado de México
 
 
-def process_tweet(title: str, url: str) -> None:
+def parse_pubdate(raw: str | None) -> datetime | None:
+    """
+    Parsea la fecha RSS (RFC 2822) y la devuelve como datetime UTC aware.
+    Ej: 'Mon, 09 Mar 2026 14:32:00 +0000' → datetime(2026, 3, 9, 14, 32, tzinfo=UTC)
+    """
+    if not raw:
+        return None
+    try:
+        dt = parsedate_to_datetime(raw)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
     if not title:
         return
+
+    # Fecha/hora del tweet
+    dt = parse_pubdate(pub_date)
+    now_utc = datetime.now(timezone.utc)
+
+    # Filtrar incidentes con más de 24 horas
+    if dt and (now_utc - dt) > timedelta(hours=24):
+        print(f"SKIP (>24h): {title}")
+        return
+
+    timestamp_iso = dt.isoformat() if dt else None
+    timestamp_display = dt.strftime("%d/%m/%Y %H:%M UTC") if dt else "Fecha desconocida"
 
     # Coordenadas por defecto
     lat, lng = DEFAULT_LAT, DEFAULT_LNG
@@ -247,14 +271,16 @@ def process_tweet(title: str, url: str) -> None:
         print("LOCATE RESULT:", point)
 
     incidents.append({
-        "title": title,
-        "type":  "twitter",
-        "lat":   lat,
-        "lng":   lng,
-        "road":  road,
-        "km":    km,
-        "risk":  risk,
-        "url":   url,
+        "title":             title,
+        "type":              "twitter",
+        "lat":               lat,
+        "lng":               lng,
+        "road":              road,
+        "km":                km,
+        "risk":              risk,
+        "url":               url,
+        "timestamp":         timestamp_iso,
+        "timestamp_display": timestamp_display,
     })
 
 # ---------------------------------------------------------------------------
@@ -269,9 +295,10 @@ def fetch_rss(feed_url: str) -> None:
 
         root = ET.fromstring(r.content)
         for item in root.findall(".//item")[:50]:
-            title = item.findtext("title")
-            link  = item.findtext("link")
-            process_tweet(title, link)
+            title    = item.findtext("title")
+            link     = item.findtext("link")
+            pub_date = item.findtext("pubDate")
+            process_tweet(title, link, pub_date)
 
     except Exception as e:
         print(f"RSS error ({feed_url}): {e}")
