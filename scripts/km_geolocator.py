@@ -291,92 +291,63 @@ def locate_km(
     """
     Devuelve (lat, lng) del KM dado en la carretera especificada.
 
-    Estrategia:
-    1. Carga todos los segmentos del GeoJSON y los concatena en una sola lista de puntos
-    2. Encuentra el punto más cercano a la ciudad ORIGEN del tramo
-    3. Determina la dirección hacia la ciudad DESTINO
-    4. Camina exactamente `km` kilómetros desde el origen en esa dirección
-
-    Args:
-        road:          Número de carretera (ej. 57)
-        km:            Kilómetro a localizar relativo a la ciudad origen del segmento
-        city_coords:   (lat1, lon1, lat2, lon2) de las ciudades del tramo
-        known_segment: Dict con 'km_start', 'km_end' y 'cities'
+    Requiere que known_segment tenga 'coord_start' y 'coord_end' —
+    coordenadas sobre la traza del GeoJSON que delimitan el tramo.
+    El KM se mide desde coord_start hacia coord_end.
     """
-    from data.cities import cities as cities_dict
-
     segments = list(_load_segments_cached(road))
     if not segments:
         print(f"[km_geolocator] Sin GeoJSON para carretera {road}")
         return None
 
-    # Aplanar todos los segmentos en una sola lista de puntos
     all_points = [p for seg in segments for p in seg]
     if not all_points:
         return None
 
-    # ── 1. Obtener coordenadas de ciudad origen y destino ─────────────────
-    origin_lat, origin_lng = None, None
-    dest_lat,   dest_lng   = None, None
-    origin_name = None
-
-    if known_segment:
-        c1, c2 = known_segment["cities"]
-        coord1 = cities_dict.get(c1)
-        coord2 = cities_dict.get(c2)
-        if coord1:
-            origin_lat, origin_lng = coord1
-            origin_name = c1
-        if coord2:
-            dest_lat, dest_lng = coord2
-        if not origin_lat and coord2:
-            origin_lat, origin_lng = coord2
-            origin_name = c2
-            dest_lat, dest_lng = coord1 if coord1 else (None, None)
-
+    # ── 1. Obtener coordenadas de inicio y fin del tramo ──────────────────
+    if known_segment and "coord_start" in known_segment and "coord_end" in known_segment:
+        origin_lat, origin_lng = known_segment["coord_start"]
+        dest_lat,   dest_lng   = known_segment["coord_end"]
+        origin_name = str(known_segment["cities"][0])
     elif city_coords and len(city_coords) == 4:
         origin_lat, origin_lng = city_coords[0], city_coords[1]
         dest_lat,   dest_lng   = city_coords[2], city_coords[3]
-
-    if origin_lat is None:
-        print(f"[km_geolocator] Sin coordenadas de ciudad origen")
+        origin_name = "city_coords"
+    else:
+        print(f"[km_geolocator] Sin coordenadas de tramo para MEX-{road}")
         return None
 
-    # ── 2. Encontrar el punto del GeoJSON más cercano a la ciudad origen ──
+    # ── 2. Punto del GeoJSON más cercano al inicio del tramo ──────────────
     origin_idx = _find_nearest_idx(all_points, origin_lat, origin_lng)
-    dist_to_origin = haversine(origin_lat, origin_lng,
-                               all_points[origin_idx][0], all_points[origin_idx][1])
-    print(f"[km_geolocator] Origen '{origin_name}' → punto idx {origin_idx}, "
-          f"distancia {dist_to_origin:.2f} km")
+    dist_snap = haversine(origin_lat, origin_lng,
+                          all_points[origin_idx][0], all_points[origin_idx][1])
+    print(f"[km_geolocator] Origen '{origin_name}' → idx {origin_idx}, "
+          f"snap {dist_snap:.2f} km")
 
-    # ── 3. Determinar dirección: ¿avanzar o retroceder en all_points? ─────
-    # Comparar distancia de los extremos de la polilínea local a la ciudad destino
-    forward = True
-    if dest_lat is not None:
-        # Tomar una muestra 50 puntos adelante y atrás del origen
-        sample_fwd  = all_points[min(origin_idx + 50, len(all_points) - 1)]
-        sample_back = all_points[max(origin_idx - 50, 0)]
-        d_fwd  = haversine(dest_lat, dest_lng, sample_fwd[0],  sample_fwd[1])
-        d_back = haversine(dest_lat, dest_lng, sample_back[0], sample_back[1])
-        forward = d_fwd < d_back
-        print(f"[km_geolocator] Dirección {'→ forward' if forward else '← backward'} "
-              f"(d_fwd={d_fwd:.1f} km, d_back={d_back:.1f} km)")
+    # ── 3. Dirección: comparar 50 puntos adelante vs atrás ────────────────
+    sample_fwd  = all_points[min(origin_idx + 50, len(all_points) - 1)]
+    sample_back = all_points[max(origin_idx - 50, 0)]
+    d_fwd  = haversine(dest_lat, dest_lng, sample_fwd[0],  sample_fwd[1])
+    d_back = haversine(dest_lat, dest_lng, sample_back[0], sample_back[1])
+    forward = d_fwd < d_back
+    print(f"[km_geolocator] Dirección {'→ forward' if forward else '← backward'} "
+          f"(d_fwd={d_fwd:.1f}, d_back={d_back:.1f})")
 
-    # ── 4. Construir polilínea desde origen en la dirección correcta ──────
+    # ── 4. Polilínea desde origen hacia destino ───────────────────────────
     if forward:
         polyline = all_points[origin_idx:]
     else:
         polyline = list(reversed(all_points[:origin_idx + 1]))
 
     if len(polyline) < 2:
-        print(f"[km_geolocator] Polilínea demasiado corta desde origen")
+        print(f"[km_geolocator] Polilínea demasiado corta")
         return None
 
     cum_dists = _cumulative_distances(polyline)
     total_km  = cum_dists[-1]
-    print(f"[km_geolocator] Polilínea desde origen: {len(polyline)} puntos, {total_km:.1f} km")
+    print(f"[km_geolocator] Polilínea: {len(polyline)} pts, {total_km:.1f} km desde origen")
 
-    # ── 5. Interpolar el KM exacto ────────────────────────────────────────
+    # ── 5. Interpolar KM exacto ───────────────────────────────────────────
     result = _find_km_on_polyline(polyline, cum_dists, km)
 
     if result:
