@@ -144,13 +144,11 @@ def detect_city_pair(text):
     return None
 
 
-def detect_road_from_cities(city_list):
+def detect_road_from_cities(city_pair):
 
-    if len(city_list) < 2:
-        return None
+    c1, c2 = city_pair
 
-    c1 = city_list[0]
-    c2 = city_list[1]
+    print("PAIR:", city_pair)
 
     for (a,b),road in routes.items():
 
