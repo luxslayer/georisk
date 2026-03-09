@@ -1,6 +1,30 @@
 {
-  "last_update": "2026-03-09T18:43:00.701141",
+  "last_update": "2026-03-09T19:10:44.575405",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 021+600, de la carretera Alazán-Canoas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 21.6,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031083327772307492#m",
+      "timestamp": "2026-03-09T19:02:55+00:00",
+      "timestamp_display": "09/03/2026 19:02 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Guanajuato  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 081+200, de la carretera Libramiento Norte La Piedad. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 81.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031083166623007192#m",
+      "timestamp": "2026-03-09T19:02:17+00:00",
+      "timestamp_display": "09/03/2026 19:02 UTC"
+    },
     {
       "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 101+000, de la carretera Aguascalientes- Zacatecas, con dirección al Aguascalientes. Atienda indicación vial.",
       "type": "twitter",
@@ -127,7 +151,7 @@
       "lat": 18.851912770653062,
       "lng": -97.28452828146155,
       "road": 150,
-      "km": 42.2,
+      "km": 22.200000000000003,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030991448103911641#m",
       "timestamp": "2026-03-09T12:57:49+00:00",
@@ -218,28 +242,52 @@
       "timestamp_display": "09/03/2026 07:11 UTC"
     },
     {
-      "title": "#TomePrecauciones en #Cuernavaca se registra cierre parcial de circulación por #AccidenteVíal cerca del km 095+500, de la Autopista Cuernavaca-Chilpancingo. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 55, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 55,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031085234226151811#m",
+      "timestamp": "2026-03-09T19:10:30+00:00",
+      "timestamp_display": "09/03/2026 19:10 UTC"
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 357, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
-      "km": 95.5,
+      "km": 357,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030869547620663407#m",
-      "timestamp": "2026-03-09T04:53:26+00:00",
-      "timestamp_display": "09/03/2026 04:53 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031081470257668332#m",
+      "timestamp": "2026-03-09T18:55:32+00:00",
+      "timestamp_display": "09/03/2026 18:55 UTC"
     },
     {
-      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del km 216+600, de la carretera Cd. Victoria-Monterrey. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 25.6866,
-      "lng": -100.3161,
+      "lat": 18.0,
+      "lng": -94.63,
       "road": null,
-      "km": 216.6,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031081117462499533#m",
+      "timestamp": "2026-03-09T18:54:08+00:00",
+      "timestamp_display": "09/03/2026 18:54 UTC"
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nAutopista Cd. Mendoza - Córdoba, km 284. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 284,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030862162718023777#m",
-      "timestamp": "2026-03-09T04:24:05+00:00",
-      "timestamp_display": "09/03/2026 04:24 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031078433434804410#m",
+      "timestamp": "2026-03-09T18:43:28+00:00",
+      "timestamp_display": "09/03/2026 18:43 UTC"
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 55, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
@@ -264,18 +312,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031077114166886751#m",
       "timestamp": "2026-03-09T18:38:14+00:00",
       "timestamp_display": "09/03/2026 18:38 UTC"
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/FbL4TJvLZjE4TuPd8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030999270690553951#m",
-      "timestamp": "2026-03-09T13:28:54+00:00",
-      "timestamp_display": "09/03/2026 13:28 UTC"
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴   \nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Cosoleacaque, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -444,54 +480,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031038321829327302#m",
       "timestamp": "2026-03-09T16:04:05+00:00",
       "timestamp_display": "09/03/2026 16:04 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista  Cuauhtémoc - Osiris, km 81. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 81,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031037690192269564#m",
-      "timestamp": "2026-03-09T16:01:34+00:00",
-      "timestamp_display": "09/03/2026 16:01 UTC"
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 206. Concluyen labores de mantenimiento (no a cargo de CAPUFE). Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 206,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031036645164585060#m",
-      "timestamp": "2026-03-09T15:57:25+00:00",
-      "timestamp_display": "09/03/2026 15:57 UTC"
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031036221862904207#m",
-      "timestamp": "2026-03-09T15:55:44+00:00",
-      "timestamp_display": "09/03/2026 15:55 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 42, dirección CDMX. Continúa reducción de carriles por atención del accidente (trasvase de carga). Dirección Puebla, opera de manera normal.\n\n➡️ Por seguridad se desvía el transito vehicular a carretera libre, a la altura del km 63 (Poblado de Río Frío). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": 42,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031029675045028184#m",
-      "timestamp": "2026-03-09T15:29:43+00:00",
-      "timestamp_display": "09/03/2026 15:29 UTC"
     }
   ]
 }
