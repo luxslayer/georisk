@@ -29,15 +29,30 @@ RISK_WORDS = [
     "bloqueo",
     "enfrentamiento",
     "incendio",
-    "violencia"
+    "violencia",
+    "accidente",
+    "obras",
 ]
 
 # ---------------------------------------------------------------------------
 # Normalización
 # ---------------------------------------------------------------------------
 
+def split_hashtags(text: str) -> str:
+    """
+    Convierte hashtags CamelCase en palabras separadas antes de normalizar.
+    '#AutMéxicoCuernavaca' → 'Aut México Cuernavaca'
+    '#EdoMéx'             → 'Edo Méx'
+    """
+    def expand(m):
+        tag = m.group(1)
+        return re.sub(r'(?<=[a-záéíóúüñ])(?=[A-ZÁÉÍÓÚÜÑ])', ' ', tag)
+    return re.sub(r'#([A-Za-záéíóúüñ][^\s]*)', expand, text)
+
+
 def normalize(text: str) -> str:
     """Minúsculas, sin acentos, sin puntuación, espacios simples."""
+    text = split_hashtags(text)
     text = text.lower()
     text = text.replace("-", " ").replace("#", " ")
     text = unicodedata.normalize("NFD", text)
@@ -59,7 +74,6 @@ def detect_cities(text: str) -> list[str]:
     text_norm = normalize(text)
     found = [city for city in cities if normalize(city) in text_norm]
     found.sort(key=len, reverse=True)
-    print("DETECTED CITIES:", found)
     return found
 
 
@@ -103,14 +117,31 @@ def detect_risk(text: str) -> str:
 # ---------------------------------------------------------------------------
 
 def detect_city_pair(text: str) -> tuple[str, str] | None:
-    """Extrae el par de ciudades de expresiones como 'carretera Puebla-Oaxaca'."""
-    text_norm = normalize(text)
+    """
+    Extrae el par de ciudades de expresiones como 'carretera Puebla-Oaxaca'.
+    Busca ANTES de normalizar para que el guión siga presente.
+    Fallback: detecta ciudades conocidas dentro del texto tras 'carretera'.
+    """
+    # 1. Buscar patrón "carretera X-Y" en texto solo lowercased (guión intacto)
     m = re.search(
-        r"carretera\s+([a-z\s]+?)\s*[-–]\s*([a-z\s]+?)(?:\s|$)",
-        text_norm,
+        r"carretera\s+([a-záéíóúüñ\s]+?)\s*[-–]\s*([a-záéíóúüñ\s]+?)(?:\s|,|\.|$)",
+        text.lower(),
     )
     if m:
-        return m.group(1).strip(), m.group(2).strip()
+        c1 = normalize(m.group(1).strip())
+        c2 = normalize(m.group(2).strip())
+        return c1, c2
+
+    # 2. Fallback: ciudades conocidas consecutivas tras "carretera"
+    text_norm = normalize(text)
+    m2 = re.search(r"carretera\s+([a-z\s]+)", text_norm)
+    if m2:
+        segment_text = m2.group(1)
+        cities_in_segment = [c for c in cities if normalize(c) in segment_text]
+        cities_in_segment.sort(key=len, reverse=True)
+        if len(cities_in_segment) >= 2:
+            return cities_in_segment[0], cities_in_segment[1]
+
     return None
 
 
@@ -141,7 +172,6 @@ def detect_road(text: str) -> int | None:
 
     # 2. Par de ciudades
     pair = detect_city_pair(text_norm)
-    print("DETECTED CITY PAIR:", pair)
     if pair:
         road = detect_road_from_cities(pair)
         if road:
