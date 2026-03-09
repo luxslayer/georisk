@@ -21,6 +21,7 @@ road_segments = {
     57: [
         {"cities": ("queretaro", "san luis potosi"), "km_start": 0,   "km_end": 200},
         {"cities": ("san luis potosi", "matehuala"), "km_start": 200, "km_end": 330},
+        [{"cities": ("matehuala", "saltillo"), "km_start": 0, "km_end": 235},]
     ],
 
     85: [
