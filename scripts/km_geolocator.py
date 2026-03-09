@@ -324,20 +324,8 @@ def locate_km(
     print(f"[km_geolocator] Origen '{origin_name}' → idx {origin_idx}, "
           f"snap {dist_snap:.2f} km")
 
-    # ── 3. Dirección: comparar 50 puntos adelante vs atrás ────────────────
-    sample_fwd  = all_points[min(origin_idx + 50, len(all_points) - 1)]
-    sample_back = all_points[max(origin_idx - 50, 0)]
-    d_fwd  = haversine(dest_lat, dest_lng, sample_fwd[0],  sample_fwd[1])
-    d_back = haversine(dest_lat, dest_lng, sample_back[0], sample_back[1])
-    forward = d_fwd < d_back
-    print(f"[km_geolocator] Dirección {'→ forward' if forward else '← backward'} "
-          f"(d_fwd={d_fwd:.1f}, d_back={d_back:.1f})")
-
-    # ── 4. Polilínea desde origen hacia destino ───────────────────────────
-    if forward:
-        polyline = all_points[origin_idx:]
-    else:
-        polyline = list(reversed(all_points[:origin_idx + 1]))
+    # ── 3. Polilínea desde origen hacia adelante (siempre forward) ───────
+    polyline = all_points[origin_idx:]
 
     if len(polyline) < 2:
         print(f"[km_geolocator] Polilínea demasiado corta")
@@ -347,7 +335,7 @@ def locate_km(
     total_km  = cum_dists[-1]
     print(f"[km_geolocator] Polilínea: {len(polyline)} pts, {total_km:.1f} km desde origen")
 
-    # ── 5. Interpolar KM exacto ───────────────────────────────────────────
+    # ── 4. Interpolar KM exacto ───────────────────────────────────────────
     result = _find_km_on_polyline(polyline, cum_dists, km)
 
     if result:
