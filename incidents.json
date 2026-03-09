@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T16:50:24.498897",
+  "last_update": "2026-03-09T17:12:20.950923",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 118+900, de la carretera Aguascalientes – Zacatecas. Atienda indicación vial.",
@@ -242,6 +242,30 @@
       "timestamp_display": "09/03/2026 02:30 UTC"
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 357, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 357,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031054788238983491#m",
+      "timestamp": "2026-03-09T17:09:31+00:00",
+      "timestamp_display": "09/03/2026 17:09 UTC"
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Agua Dulce - Cárdenas, km 59, dirección Cárdenas. Continúa cierre a la circulación por atención del accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 59,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031052352350789949#m",
+      "timestamp": "2026-03-09T16:59:50+00:00",
+      "timestamp_display": "09/03/2026 16:59 UTC"
+    },
+    {
       "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoCuernavaca, km 26, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -456,30 +480,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031006478161584527#m",
       "timestamp": "2026-03-09T13:57:33+00:00",
       "timestamp_display": "09/03/2026 13:57 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 23, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031004706600898890#m",
-      "timestamp": "2026-03-09T13:50:30+00:00",
-      "timestamp_display": "09/03/2026 13:50 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 96 al 100, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031002119512170889#m",
-      "timestamp": "2026-03-09T13:40:14+00:00",
-      "timestamp_display": "09/03/2026 13:40 UTC"
     }
   ]
 }
