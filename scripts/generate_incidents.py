@@ -127,24 +127,27 @@ def detect_road_from_cities(city_pair: tuple[str, str]) -> int | None:
 
 
 def detect_road(text: str) -> int | None:
-    """
-    Detecta número de carretera por:
-    1. Número explícito ('carretera 57', 'autopista 15', 'mex 130')
-    2. Par de ciudades mencionadas ('carretera Querétaro-SLP')
-    """
     text_norm = normalize(text)
 
-    # 1. Número directo
+    # 1. Número explícito
     m = re.search(r"(?:carretera|autopista|mex)\s*(\d+)", text_norm)
     if m:
         return int(m.group(1))
 
-    # 2. Par de ciudades
+    # 2. Par explícito "carretera X-Y"
     pair = detect_city_pair(text_norm)
     if pair:
         road = detect_road_from_cities(pair)
         if road:
             return road
+
+    # 3. *** NUEVO *** Cruzar todas las ciudades detectadas contra routes
+    cities_found = detect_cities(text)
+    for i, c1 in enumerate(cities_found):
+        for c2 in cities_found[i+1:]:
+            road = detect_road_from_cities((c1, c2))
+            if road:
+                return road
 
     return None
 

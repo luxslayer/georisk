@@ -45,5 +45,9 @@ cities = {
     "tuxpan": (20.97,-97.41),
     "tuxtla gutierrez": (16.75,-93.12), 
     "uman": (20.88,-89.62),
-    "zapotlanejo": (20.57,-103.25)
+    "zapotlanejo": (20.57,-103.25),
+    "xalapa":    (19.54, -96.92),
+    "patzcuaro": (19.51, -101.61),
+    "morelia":   (19.70, -101.18),
+    "matehuala": (23.65, -100.64)
 }
