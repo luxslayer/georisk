@@ -4,9 +4,19 @@ road_segments = {
         {"cities": ("maravatio", "zapotlanejo"), "km_start": 0,   "km_end": 290},
     ],
 
+    40: [
+        {"cities": ("saltillo", "monterrey"), "km_start": 14,   "km_end": 56},
+        {"cities": ("saltillo", "torreon"), "km_start": 10,   "km_end": 202},
+    ],
+
     45: [
         {"cities": ("chihuahua", "juarez"),      "km_start": 0,   "km_end": 370},
     ],
+
+    49: [
+        {"cities": ("gomez palacio", "jimenez"), "km_start": 10,   "km_end": 230},
+    ],
+
 
     57: [
         {"cities": ("queretaro", "san luis potosi"), "km_start": 0,   "km_end": 200},
@@ -15,6 +25,7 @@ road_segments = {
 
     85: [
         {"cities": ("cd victoria", "monterrey"), "km_start": 4,   "km_end": 265},
+        {"cities": ("monterrey", "nuevo laredo"), "km_start": 20,   "km_end": 220},
     ],
 
     130: [

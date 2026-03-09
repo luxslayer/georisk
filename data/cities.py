@@ -42,6 +42,7 @@ cities = {
     "tehuantepec":(16.32, -95.24),
     "tijuana":(32.5149,-117.0382),
     "toluca":(19.2826,-99.6557),
+    "torreón"
     "tuxpan": (20.97,-97.41),
     "tuxtla gutierrez": (16.75,-93.12), 
     "uman": (20.88,-89.62),
