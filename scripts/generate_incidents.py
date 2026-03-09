@@ -61,6 +61,7 @@ def detect_cities(text: str) -> list[str]:
     text_norm = normalize(text)
     found = [city for city in cities if normalize(city) in text_norm]
     found.sort(key=len, reverse=True)
+    print("DETECTED CITIES:", found)
     return found
 
 
