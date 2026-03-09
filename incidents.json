@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T20:18:55.649722",
+  "last_update": "2026-03-09T20:36:24.871800",
   "incidents": [
     {
       "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVíal cerca del km 104+100, de la carretera Rioverde - San Luis Potosí. Atienda indicación vial.",
@@ -148,8 +148,8 @@
     {
       "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del km 065+680, de la carretera Monterrey - Nuevo Laredo. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 25.52749111535993,
-      "lng": -100.21052723093243,
+      "lat": 25.60467379344445,
+      "lng": -100.28188801966586,
       "road": 85,
       "km": 45.68000000000001,
       "risk": "high",
@@ -208,8 +208,8 @@
     {
       "title": "#TomePrecauciones en #EdoMéx  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 042+200, de la carretera México-Puebla. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 19.31063067246356,
-      "lng": -98.82856835864887,
+      "lat": 19.3356332320978,
+      "lng": -98.79632310514721,
       "road": 150,
       "km": 22.200000000000003,
       "risk": "high",
@@ -228,6 +228,30 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030921809135030535#m",
       "timestamp": "2026-03-09T08:21:06+00:00",
       "timestamp_display": "09/03/2026 08:21 UTC"
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoCuernavaca, del km 24 al 26, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031105001443991966#m",
+      "timestamp": "2026-03-09T20:29:03+00:00",
+      "timestamp_display": "09/03/2026 20:29 UTC"
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 124. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 124,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031103420539515028#m",
+      "timestamp": "2026-03-09T20:22:46+00:00",
+      "timestamp_display": "09/03/2026 20:22 UTC"
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 42, dirección CDMX. Continúa reducción de carriles por atención del accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución.",
@@ -444,30 +468,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031071695981965646#m",
       "timestamp": "2026-03-09T18:16:42+00:00",
       "timestamp_display": "09/03/2026 18:16 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 55, dirección CDMX. Continúa reducción de carriles por atención de accidente (servicios periciales). Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031067548087701611#m",
-      "timestamp": "2026-03-09T18:00:13+00:00",
-      "timestamp_display": "09/03/2026 18:00 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 55, dirección CDMX. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de automóvil). Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031063720701415833#m",
-      "timestamp": "2026-03-09T17:45:01+00:00",
-      "timestamp_display": "09/03/2026 17:45 UTC"
     }
   ]
 }
