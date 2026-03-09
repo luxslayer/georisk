@@ -73,31 +73,90 @@ def _nearest_point_on_segment(
     return min(haversine(lat, lng, p[0], p[1]) for p in seg)
 
 
+def _point_to_segment_dist(
+    lat: float, lng: float,
+    p1: tuple[float, float],
+    p2: tuple[float, float],
+) -> float:
+    """Distancia aproximada de un punto al segmento de línea p1-p2 (en km)."""
+    # Proyección simple en coordenadas planas (válida para distancias cortas)
+    dx = p2[0] - p1[0]
+    dy = p2[1] - p1[1]
+    if dx == 0 and dy == 0:
+        return haversine(lat, lng, p1[0], p1[1])
+    t = max(0.0, min(1.0, ((lat - p1[0]) * dx + (lng - p1[1]) * dy) / (dx*dx + dy*dy)))
+    proj_lat = p1[0] + t * dx
+    proj_lng = p1[1] + t * dy
+    return haversine(lat, lng, proj_lat, proj_lng)
+
+
+def _segment_in_corridor(
+    seg: list[tuple[float, float]],
+    lat_a: float, lng_a: float,
+    lat_b: float, lng_b: float,
+    corridor_width_km: float = 25.0,
+) -> bool:
+    """
+    Devuelve True si algún punto del segmento está dentro del corredor
+    definido por la línea recta entre ciudad A y ciudad B.
+    También acepta segmentos cercanos a cualquiera de las dos ciudades.
+    """
+    # Cerca de ciudad A o B
+    for p in seg[::max(1, len(seg)//5)]:  # muestra ~5 puntos del segmento
+        if haversine(p[0], p[1], lat_a, lng_a) < corridor_width_km * 2:
+            return True
+        if haversine(p[0], p[1], lat_b, lng_b) < corridor_width_km * 2:
+            return True
+        if _point_to_segment_dist(p[0], p[1], (lat_a, lng_a), (lat_b, lng_b)) < corridor_width_km:
+            return True
+    return False
+
+
 def _chain_segments_anchored(
     segments: list[list[tuple[float, float]]],
     anchor_lat: float,
     anchor_lng: float,
+    end_lat: float | None = None,
+    end_lng: float | None = None,
     max_dist_km: float = 80.0,
 ) -> list[tuple[float, float]]:
     """
-    Encadena solo los segmentos dentro de max_dist_km del punto ancla,
-    ordenándolos por proximidad al ancla primero y luego greedy entre sí.
+    Encadena los segmentos relevantes para el tramo entre dos ciudades.
+    Si se proveen coordenadas de ciudad destino (end_lat/end_lng), usa
+    filtrado por corredor geográfico en lugar de radio fijo desde el ancla.
     """
-    # Filtrar segmentos cercanos al ancla
-    nearby = [
-        s for s in segments
-        if _nearest_point_on_segment(anchor_lat, anchor_lng, s) <= max_dist_km
-    ]
-
-    if not nearby:
-        # Ampliar el radio si no hay nada cercano
-        nearby = sorted(segments, key=lambda s: _nearest_point_on_segment(anchor_lat, anchor_lng, s))
-        nearby = nearby[:min(20, len(nearby))]
+    if end_lat is not None and end_lng is not None:
+        # Filtrado por corredor entre ciudad origen y ciudad destino
+        nearby = [
+            s for s in segments
+            if _segment_in_corridor(s, anchor_lat, anchor_lng, end_lat, end_lng)
+        ]
+        if not nearby:
+            # Fallback: radio amplio desde el punto medio
+            mid_lat = (anchor_lat + end_lat) / 2
+            mid_lng = (anchor_lng + end_lng) / 2
+            dist_cities = haversine(anchor_lat, anchor_lng, end_lat, end_lng)
+            radius = max(dist_cities, 50.0)
+            nearby = [
+                s for s in segments
+                if _nearest_point_on_segment(mid_lat, mid_lng, s) <= radius
+            ]
+    else:
+        # Sin ciudad destino: radio desde ancla
+        nearby = [
+            s for s in segments
+            if _nearest_point_on_segment(anchor_lat, anchor_lng, s) <= max_dist_km
+        ]
+        if not nearby:
+            nearby = sorted(
+                segments,
+                key=lambda s: _nearest_point_on_segment(anchor_lat, anchor_lng, s)
+            )[:min(20, len(segments))]
 
     if not nearby:
         return []
 
-    # Ordenar por distancia al ancla
+    # Ordenar por distancia a la ciudad ancla (origen del tramo)
     nearby.sort(key=lambda s: _nearest_point_on_segment(anchor_lat, anchor_lng, s))
 
     # Encadenar greedy desde el más cercano al ancla
@@ -118,8 +177,7 @@ def _chain_segments_anchored(
                 best_idx = i
                 best_flip = d_end < d_start
 
-        # No encadenar si el salto es demasiado grande (> 5 km → probable ramal)
-        if best_dist > 5.0:
+        if best_dist > 10.0:
             break
 
         seg = remaining.pop(best_idx)
@@ -201,28 +259,23 @@ def _find_km_on_polyline(
 
 
 # ---------------------------------------------------------------------------
-# Recorte por segmento conocido
+# Búsqueda del punto más cercano a una coordenada en la polilínea
 # ---------------------------------------------------------------------------
 
-def _clip_polyline_to_segment(
+def _find_nearest_idx(
     polyline: list[tuple[float, float]],
-    cum_dists: list[float],
-    km_start: float,
-    km_end: float,
-) -> tuple[list[tuple[float, float]], list[float]]:
-    """
-    Recorta la polilínea al rango [km_start, km_end].
-    Útil cuando el KM del tweet es relativo al segmento, no a la carretera completa.
-    """
-    clipped = []
-    clipped_dists = []
-
-    for i, (point, d) in enumerate(zip(polyline, cum_dists)):
-        if km_start <= d <= km_end:
-            clipped.append(point)
-            clipped_dists.append(d - km_start)  # relativo al inicio del segmento
-
-    return clipped, clipped_dists
+    lat: float,
+    lng: float,
+) -> int:
+    """Devuelve el índice del punto de la polilínea más cercano a (lat, lng)."""
+    best_idx = 0
+    best_dist = float("inf")
+    for i, (p_lat, p_lng) in enumerate(polyline):
+        d = haversine(lat, lng, p_lat, p_lng)
+        if d < best_dist:
+            best_dist = d
+            best_idx = i
+    return best_idx
 
 
 # ---------------------------------------------------------------------------
@@ -238,11 +291,15 @@ def locate_km(
     """
     Devuelve (lat, lng) del KM dado en la carretera especificada.
 
+    La búsqueda se hace relativa a la ciudad de inicio del segmento conocido,
+    no desde el inicio absoluto de la polilínea — esto corrige el desfase
+    cuando la carretera tiene cientos de km antes del tramo de interés.
+
     Args:
         road:          Número de carretera (ej. 57)
         km:            Kilómetro a localizar (relativo al segmento si known_segment existe)
-        city_coords:   (lat1, lon1, lat2, lon2) de las ciudades del tramo — usado como ancla
-        known_segment: Dict con 'km_start', 'km_end' y 'cities' si el KM es relativo
+        city_coords:   (lat1, lon1, lat2, lon2) de las ciudades del tramo
+        known_segment: Dict con 'km_start', 'km_end' y 'cities'
 
     Returns:
         (lat, lng) o None si no se pudo localizar
@@ -254,33 +311,42 @@ def locate_km(
         print(f"[km_geolocator] Sin GeoJSON para carretera {road}")
         return None
 
-    # Determinar punto ancla para filtrar segmentos relevantes
+    # ── 1. Determinar ciudades ancla origen y destino ─────────────────────
     anchor_lat, anchor_lng = None, None
+    end_lat,    end_lng    = None, None
+    anchor_city_name = None
 
-    if city_coords and len(city_coords) == 4:
-        # Promedio de las dos ciudades del tramo
-        anchor_lat = (city_coords[0] + city_coords[2]) / 2
-        anchor_lng = (city_coords[1] + city_coords[3]) / 2
-
-    elif known_segment:
-        # Usar coordenadas de las ciudades del segmento conocido
+    if known_segment:
         c1, c2 = known_segment["cities"]
         coord1 = cities_dict.get(c1)
         coord2 = cities_dict.get(c2)
-        if coord1 and coord2:
-            anchor_lat = (coord1[0] + coord2[0]) / 2
-            anchor_lng = (coord1[1] + coord2[1]) / 2
-        elif coord1:
+        if coord1:
             anchor_lat, anchor_lng = coord1
-        elif coord2:
+            anchor_city_name = c1
+        if coord2:
+            end_lat, end_lng = coord2
+        if not anchor_lat and coord2:
             anchor_lat, anchor_lng = coord2
+            anchor_city_name = c2
+            end_lat, end_lng = coord1 if coord1 else (None, None)
+        filter_lat = ((anchor_lat or 0) + (end_lat or anchor_lat or 0)) / 2
+        filter_lng = ((anchor_lng or 0) + (end_lng or anchor_lng or 0)) / 2
 
-    if anchor_lat is None:
-        # Sin ancla: usar centroide de México como fallback
+    elif city_coords and len(city_coords) == 4:
+        anchor_lat, anchor_lng = city_coords[0], city_coords[1]
+        end_lat,    end_lng    = city_coords[2], city_coords[3]
+        filter_lat = (anchor_lat + end_lat) / 2
+        filter_lng = (anchor_lng + end_lng) / 2
+    else:
         anchor_lat, anchor_lng = 23.5, -102.0
+        filter_lat, filter_lng = anchor_lat, anchor_lng
 
-    # Construir polilínea anclada al tramo de interés
-    polyline = _chain_segments_anchored(segments, anchor_lat, anchor_lng)
+    # ── 2. Construir polilínea usando corredor entre las dos ciudades ──────
+    polyline = _chain_segments_anchored(
+        segments,
+        anchor_lat, anchor_lng,
+        end_lat, end_lng,
+    )
     if not polyline:
         print(f"[km_geolocator] No se pudo construir polilínea para MEX-{road}")
         return None
@@ -290,21 +356,25 @@ def locate_km(
 
     print(f"[km_geolocator] MEX-{road}: {len(polyline)} puntos, {total_km:.1f} km (tramo anclado)")
 
-    # Convertir KM relativo a absoluto dentro de la polilínea anclada
-    # La polilínea ya está recortada al tramo → el KM relativo se usa directo
-    if known_segment:
-        # km ya viene relativo al km_start del segmento desde main.py
-        km_target = km
-        print(f"[km_geolocator] Buscando KM relativo {km_target:.1f} en tramo de {total_km:.1f} km")
-    else:
-        km_target = km
-        print(f"[km_geolocator] Buscando KM {km_target:.1f} en tramo de {total_km:.1f} km")
+    # ── 3. Encontrar posición de la ciudad ancla en la polilínea ──────────
+    # El KM del tweet es relativo a la ciudad de inicio del tramo,
+    # no desde el km 0 de la polilínea.
+    anchor_idx = _find_nearest_idx(polyline, anchor_lat, anchor_lng)
+    anchor_km_in_polyline = cum_dists[anchor_idx]
+
+    print(f"[km_geolocator] Ciudad ancla '{anchor_city_name}' → idx {anchor_idx}, "
+          f"km {anchor_km_in_polyline:.1f} en polilínea")
+
+    # ── 4. Buscar KM relativo a la ciudad ancla ───────────────────────────
+    km_target = anchor_km_in_polyline + km
+    print(f"[km_geolocator] Buscando KM {anchor_km_in_polyline:.1f} + {km:.1f} = {km_target:.1f} "
+          f"en polilínea de {total_km:.1f} km")
 
     result = _find_km_on_polyline(polyline, cum_dists, km_target)
 
     if result:
         print(f"[km_geolocator] Localizado: {result[0]:.5f}, {result[1]:.5f}")
     else:
-        print(f"[km_geolocator] KM {km_target} fuera de rango (máx {total_km:.1f} km)")
+        print(f"[km_geolocator] KM {km_target:.1f} fuera de rango (máx {total_km:.1f} km)")
 
     return result
