@@ -1,6 +1,30 @@
 {
-  "last_update": "2026-03-09T15:14:05.990732",
+  "last_update": "2026-03-09T15:33:32.770771",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 075+000, de la carretera Irapuato – Zapotlanejo con dirección a Zapotlanejo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": null,
+      "km": 75.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031029620762419255#m",
+      "timestamp": "2026-03-09T15:29:30+00:00",
+      "timestamp_display": "09/03/2026 15:29 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 068+000, de la carretera Zacatecas - Durango. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 68.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031028992023654800#m",
+      "timestamp": "2026-03-09T15:27:01+00:00",
+      "timestamp_display": "09/03/2026 15:27 UTC"
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla, a la altura de la Caseta de Cobro No. 226 \"Ventanilla\". Atienda indicación vial.",
       "type": "twitter",
@@ -218,28 +242,16 @@
       "timestamp_display": "09/03/2026 00:53 UTC"
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 028+100, de la carretera Las Choapas-Ocozocoautla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 42, dirección CDMX. Continúa reducción de carriles por atención del accidente (trasvase de carga). Dirección Puebla, opera de manera normal.\n\n➡️ Por seguridad se desvía el transito vehicular a carretera libre, a la altura del km 63 (Poblado de Río Frío). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 19.4326,
+      "lng": -99.1332,
       "road": null,
-      "km": 28.1,
+      "km": 42,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030785459253629132#m",
-      "timestamp": "2026-03-08T23:19:18+00:00",
-      "timestamp_display": "08/03/2026 23:19 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #SanLuisPotosí  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 149+700, de la carretera   Querétaro-San Luis Potosí. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": 149.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030776034774167716#m",
-      "timestamp": "2026-03-08T22:41:51+00:00",
-      "timestamp_display": "08/03/2026 22:41 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031029675045028184#m",
+      "timestamp": "2026-03-09T15:29:43+00:00",
+      "timestamp_display": "09/03/2026 15:29 UTC"
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Agua Dulce - Cárdenas, km 59, dirección Cárdenas. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
