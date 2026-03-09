@@ -1,4 +1,205 @@
 {
-  "last_update": "2026-03-09T02:13:18.907401",
-  "incidents": []
+  "last_update": "2026-03-09T04:24:35.147882",
+  "incidents": [
+    {
+      "title": "#TomePrecauciones en #NuevoLe\u00f3n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 216+600, de la carretera Cd. Victoria-Monterrey. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 216.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030862162718023777#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 049+000, de la carretera Coatzacoalcos-Villahermosa. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 49.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030857986399244625#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 030+800, de la carretera Matamoros-Reynosa. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 30.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030835306207793253#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 137+000, de la carretera Puebla-Cordoba. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 137.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030833458474295529#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 133+950, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 21.080849999999998,
+      "lng": -104.1198,
+      "road": 15,
+      "km": 133.95,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030829873640394785#m"
+    },
+    {
+      "title": "#TomePrecauciones en #NuevoLe\u00f3n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 108+000, de la carretera Matehuala-saltillo. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 108.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030824984092807288#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Michoac\u00e1n se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 047+100, de la carretera Morelia-P\u00e1tzcuaro. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 47.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030809070928585010#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 028+100, de la carretera Las Choapas-Ocozocoautla. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 28.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030785459253629132#m"
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotos\u00ed  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 149+700, de la carretera   Quer\u00e9taro-San Luis Potos\u00ed. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 149.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030776034774167716#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 042+000, de la carretera M\u00e9xico-Puebla. Atienda indicaci\u00f3n vial",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 42.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030773195725214109#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 014+500, de la carretera Teziutl\u00e1n-Perote. Atienda indicaci\u00f3n vial",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 14.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030769841942966378#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Morelos  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 067+200, de la carretera M\u00e9xico-Cuernavaca. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 67.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030760892267126904#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 010+050, de la carretera C\u00f3rdoba-Yanga. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 10.05,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030759094311587919#m"
+    },
+    {
+      "title": "#TomePrecauciones en #EdoM\u00e9x.   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 040+000, de la carretera M\u00e9xico-Quer\u00e9taro. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 40.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030716421508866239#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 193+500, de la carretera Coatzacoalcos-Salina Cruz. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 193.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030694005604843738#m"
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotos\u00ed   se registra cierre total de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 008+800, de la carretera Matehuala-Saltillo, con ruta alterna por Libramiento de Matehuala. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 8.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030682767843860648#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Yucat\u00e1n   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 071+400, de la carretera M\u00e9rida-Puerto Ju\u00e1rez. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 71.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030663208055324924#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 045+400, de la carretera  Cardel-Poza Rica. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 45.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030656898853212469#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Tabasco   se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 122+350, de la carretera Raudales de Malpaso-El Bellote. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 122.35,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030654142994079764#m"
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 126+400, de la carretera Guadalajara-Tepic. Atienda indicaci\u00f3n vial.",
+      "type": "twitter",
+      "lat": 21.080849999999998,
+      "lng": -104.1198,
+      "road": 15,
+      "km": 126.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2030536241653989745#m"
+    }
+  ]
 }
