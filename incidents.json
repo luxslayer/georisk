@@ -1,6 +1,42 @@
 {
-  "last_update": "2026-03-09T21:04:54.361891",
+  "last_update": "2026-03-09T21:47:34.596471",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVíal cerca del km 232+500, de la carretera Hermosillo - Nogales. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 232.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031124018246353184#m",
+      "timestamp": "2026-03-09T21:44:37+00:00",
+      "timestamp_display": "09/03/2026 21:44 UTC"
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 021+600, de la carretera Alazán-Canoas. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 21.6,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031116163254464991#m",
+      "timestamp": "2026-03-09T21:13:24+00:00",
+      "timestamp_display": "09/03/2026 21:13 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVíal cerca del km 060+130, de la carretera León-Aguascalientes. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.122,
+      "lng": -101.68,
+      "road": null,
+      "km": 60.13,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031115472163238147#m",
+      "timestamp": "2026-03-09T21:10:39+00:00",
+      "timestamp_display": "09/03/2026 21:10 UTC"
+    },
     {
       "title": "#VíaLibre en #Guerrero tras presencia de personas cerca del km 061+000, de la carretera Iguala- Ciudad Altamirano. Maneje con precaución.",
       "type": "twitter",
@@ -204,42 +240,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2031014783579836731#m",
       "timestamp": "2026-03-09T14:30:33+00:00",
       "timestamp_display": "09/03/2026 14:30 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Tamaulipas  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 034+100, de la carretera Cd. victoria-Monterrey. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.6866,
-      "lng": -100.3161,
-      "road": null,
-      "km": 34.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031002050293633147#m",
-      "timestamp": "2026-03-09T13:39:57+00:00",
-      "timestamp_display": "09/03/2026 13:39 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMéx  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 042+200, de la carretera México-Puebla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.3356332320978,
-      "lng": -98.79632310514721,
-      "road": 150,
-      "km": 22.200000000000003,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030991448103911641#m",
-      "timestamp": "2026-03-09T12:57:49+00:00",
-      "timestamp_display": "09/03/2026 12:57 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 091+500, de la carretera Xalapa-Veracruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.54,
-      "lng": -96.92,
-      "road": null,
-      "km": 91.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030921809135030535#m",
-      "timestamp": "2026-03-09T08:21:06+00:00",
-      "timestamp_display": "09/03/2026 08:21 UTC"
     }
   ]
 }
