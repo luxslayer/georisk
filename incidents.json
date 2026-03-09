@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T08:27:10.429505",
+  "last_update": "2026-03-09T09:10:28.327865",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 091+500, de la carretera Xalapa-Veracruz. Atienda indicaci\u00f3n vial.",
@@ -30,6 +30,16 @@
       "km": 28.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030915615116960217#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, km 9, direcci\u00f3n Isla. Contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n de accidente (persona atropellada). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030929367790944326#m"
     },
     {
       "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Cuernavaca - Acapulco, km 223, direcci\u00f3n Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
@@ -220,16 +230,6 @@
       "km": 279,
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030839350456431068#m"
-    },
-    {
-      "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\nAutopista Agua Dulce - C\u00e1rdenas, km 49, direcci\u00f3n C\u00e1rdenas. Cierre a la circulaci\u00f3n por atenci\u00f3n de accidente (salida del camino de camioneta). Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030838860494577935#m"
     }
   ]
 }
