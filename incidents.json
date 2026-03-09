@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T19:52:40.730589",
+  "last_update": "2026-03-09T20:03:31.097414",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre total de circulación por presencia de personas cerca del km 061+000, de la carretera Iguala- Ciudad Altamirano. Atienda indicación vial.",
@@ -180,66 +180,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2030921809135030535#m",
       "timestamp": "2026-03-09T08:21:06+00:00",
       "timestamp_display": "09/03/2026 08:21 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #NuevoLeón  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 130+500, de la carretera  Matehuala-saltillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 24.302259959341374,
-      "lng": -100.38571721744168,
-      "road": 57,
-      "km": 130.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030921046094688545#m",
-      "timestamp": "2026-03-09T08:18:04+00:00",
-      "timestamp_display": "09/03/2026 08:18 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 028+500, de la carretera Morelia-Pátzcuaro. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": 14,
-      "km": 28.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030915615116960217#m",
-      "timestamp": "2026-03-09T07:56:29+00:00",
-      "timestamp_display": "09/03/2026 07:56 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 250+700, de la carretera Pachuca-Tuxpan. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
-      "road": null,
-      "km": 250.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030912292422860884#m",
-      "timestamp": "2026-03-09T07:43:17+00:00",
-      "timestamp_display": "09/03/2026 07:43 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 005+556, de la carretera Tuxtla Gutiérrez-Ciudad Cuauhtémoc. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
-      "road": null,
-      "km": 5.556,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030907985120096429#m",
-      "timestamp": "2026-03-09T07:26:10+00:00",
-      "timestamp_display": "09/03/2026 07:26 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVíal cerca del km 176+000, de la carretera Pinotepa Nacional-Salina Cruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
-      "road": null,
-      "km": 176.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030905596342358392#m",
-      "timestamp": "2026-03-09T07:16:41+00:00",
-      "timestamp_display": "09/03/2026 07:16 UTC"
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 56, dirección CDMX. Continúa reducción de carriles por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
