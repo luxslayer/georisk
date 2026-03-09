@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T13:06:27.780302",
+  "last_update": "2026-03-09T13:11:10.349511",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoM\u00e9x  se registra cierre parcial de circulaci\u00f3n por #AccidenteV\u00edal cerca del km 042+200, de la carretera M\u00e9xico-Puebla. Atienda indicaci\u00f3n vial.",
@@ -40,6 +40,186 @@
       "km": 28.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030915615116960217#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 18. Reducci\u00f3n de carriles en ambos sentidos por atenci\u00f3n de accidente (choque por alcance m\u00faltiple). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 18,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030991147300950485#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAut. Cd. Obreg\u00f3n - Guaymas, km 13, direcci\u00f3n Cd. Obreg\u00f3n. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030981503656615964#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 42. Contin\u00faa reducci\u00f3n de carriles en ambos sentidos por atenci\u00f3n de accidente (choque contra muro central y volcadura de tracto cami\u00f3n). Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030979536452481103#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\n#AutM\u00e9xicoPuebla, km 42. Se restablece la circulaci\u00f3n con reducci\u00f3n de carriles en ambos sentidos por atenci\u00f3n de accidente (choque contra muro central y volcadura de tracto cami\u00f3n). Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030963539955830820#m"
+    },
+    {
+      "title": "\ud83d\udd34 CIERRE DE CIRCULACI\u00d3N \ud83d\udd34\n#AutM\u00e9xicoPuebla, km 42, direcci\u00f3n CDMX. Cierre a la circulaci\u00f3n por atenci\u00f3n de accidente (choque contra muro central y volcadura de tracto cami\u00f3n). En direcci\u00f3n Puebla se registra reducci\u00f3n de carriles. Toma tus precauciones. Para m\u00e1s informaci\u00f3n llama al 0\u20e37\u20e34\u20e3.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030949126444023952#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Tinaja - Isla, km 9, direcci\u00f3n Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030937190151151783#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, km 9, direcci\u00f3n Isla. Contin\u00faa reducci\u00f3n de carriles por atenci\u00f3n de accidente (persona atropellada). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030929367790944326#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Cuernavaca - Acapulco, km 223, direcci\u00f3n Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 223,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030906366966006155#m"
+    },
+    {
+      "title": "\ud83d\udfe0CIERRE PARCIAL DE CIRCULACI\u00d3N\ud83d\udfe0\nAut. Cd. Obreg\u00f3n - Guaymas, km 13, direcci\u00f3n Cd. Obreg\u00f3n. Reducci\u00f3n de carriles por atenci\u00f3n de accidente (choque lateral). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030903172370219160#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista Cuernavaca - Acapulco, km 223, direcci\u00f3n Cuernavaca. Reducci\u00f3n de carriles por atenci\u00f3n de accidente (choque contra semoviente). Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 223,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030893064969957604#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAut. Cuernavaca - Acapulco, km 95, direcci\u00f3n Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030883519791071264#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista La Tinaja - Isla, km 37, direcci\u00f3n Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 37,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030875092998111702#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\nAut. Cuernavaca - Acapulco, km 95, direcci\u00f3n Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030870740757626890#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAut. Cuernavaca - Acapulco, km 95, direcci\u00f3n Cuernavaca. Cierre a la circulaci\u00f3n en carril lateral por atenci\u00f3n de accidente (maniobras para el retiro de la unidad siniestrada). Circulaci\u00f3n por el Distribuidor vial Palmira. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030867086835110109#m"
+    },
+    {
+      "title": "\ud83d\udfe2 RESTABLECIMIENTO DE CIRCULACI\u00d3N \ud83d\udfe2\nAutopista Cd. Mendoza - C\u00f3rdoba, km 280, direcci\u00f3n C\u00f3rdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precauci\u00f3n. \ud83d\ude8c\ud83d\ude99\ud83d\ude97\ud83c\udfcd\ufe0f",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 280,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030863310246105239#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAut. Cuernavaca - Acapulco, km 95, direcci\u00f3n Cuernavaca. Cierre a la circulaci\u00f3n en carril lateral por atenci\u00f3n de accidente (salida del camino y volcadura de camioneta). Circulaci\u00f3n por el Distribuidor vial Palmira. En la zona se registra carga vehicular. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030862802848453022#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CARGA VEHICULAR \ud83d\udfe0\n#AutM\u00e9xicoQuer\u00e9taro, Plaza de Cobro Tepotzotl\u00e1n. Registra carga vehicular en direcci\u00f3n CDMX, sin reporte de incidentes. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2030858106192679275#m"
+    },
+    {
+      "title": "\ud83d\udfe0 CIERRE PARCIAL DE CIRCULACI\u00d3N \ud83d\udfe0\nAutopista La Tinaja - Isla, km 9, direcci\u00f3n Isla. Reducci\u00f3n de carriles por atenci\u00f3n de accidente (persona atropellada). Circulaci\u00f3n lenta en la zona. Maneja con precauci\u00f3n.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2030853722641691046#m"
     }
   ]
 }
