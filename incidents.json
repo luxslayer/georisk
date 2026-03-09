@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T15:33:32.770771",
+  "last_update": "2026-03-09T15:41:02.365113",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 075+000, de la carretera Irapuato – Zapotlanejo con dirección a Zapotlanejo. Atienda indicación vial.",
@@ -8,7 +8,7 @@
       "lng": -103.25,
       "road": null,
       "km": 75.0,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2031029620762419255#m",
       "timestamp": "2026-03-09T15:29:30+00:00",
       "timestamp_display": "09/03/2026 15:29 UTC"
@@ -20,7 +20,7 @@
       "lng": -104.67,
       "road": null,
       "km": 68.0,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2031028992023654800#m",
       "timestamp": "2026-03-09T15:27:01+00:00",
       "timestamp_display": "09/03/2026 15:27 UTC"
@@ -44,7 +44,7 @@
       "lng": -100.3161,
       "road": null,
       "km": 34.1,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2031002050293633147#m",
       "timestamp": "2026-03-09T13:39:57+00:00",
       "timestamp_display": "09/03/2026 13:39 UTC"
@@ -56,7 +56,7 @@
       "lng": -99.1332,
       "road": null,
       "km": 42.2,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030991448103911641#m",
       "timestamp": "2026-03-09T12:57:49+00:00",
       "timestamp_display": "09/03/2026 12:57 UTC"
@@ -68,7 +68,7 @@
       "lng": -96.92,
       "road": null,
       "km": 91.5,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030921809135030535#m",
       "timestamp": "2026-03-09T08:21:06+00:00",
       "timestamp_display": "09/03/2026 08:21 UTC"
@@ -80,7 +80,7 @@
       "lng": -101.00208877057378,
       "road": 57,
       "km": 130.5,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030921046094688545#m",
       "timestamp": "2026-03-09T08:18:04+00:00",
       "timestamp_display": "09/03/2026 08:18 UTC"
@@ -92,7 +92,7 @@
       "lng": -101.61,
       "road": null,
       "km": 28.5,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030915615116960217#m",
       "timestamp": "2026-03-09T07:56:29+00:00",
       "timestamp_display": "09/03/2026 07:56 UTC"
@@ -104,7 +104,7 @@
       "lng": -98.07,
       "road": 130,
       "km": 250.7,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030912292422860884#m",
       "timestamp": "2026-03-09T07:43:17+00:00",
       "timestamp_display": "09/03/2026 07:43 UTC"
@@ -116,7 +116,7 @@
       "lng": -93.12,
       "road": null,
       "km": 5.556,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030907985120096429#m",
       "timestamp": "2026-03-09T07:26:10+00:00",
       "timestamp_display": "09/03/2026 07:26 UTC"
@@ -128,7 +128,7 @@
       "lng": -98.05,
       "road": null,
       "km": 176.0,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030905596342358392#m",
       "timestamp": "2026-03-09T07:16:41+00:00",
       "timestamp_display": "09/03/2026 07:16 UTC"
@@ -140,7 +140,7 @@
       "lng": -94.63,
       "road": null,
       "km": 9.5,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030904336029540357#m",
       "timestamp": "2026-03-09T07:11:40+00:00",
       "timestamp_display": "09/03/2026 07:11 UTC"
@@ -152,7 +152,7 @@
       "lng": -99.22,
       "road": null,
       "km": 95.5,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030869547620663407#m",
       "timestamp": "2026-03-09T04:53:26+00:00",
       "timestamp_display": "09/03/2026 04:53 UTC"
@@ -164,7 +164,7 @@
       "lng": -100.3161,
       "road": null,
       "km": 216.6,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030862162718023777#m",
       "timestamp": "2026-03-09T04:24:05+00:00",
       "timestamp_display": "09/03/2026 04:24 UTC"
@@ -176,7 +176,7 @@
       "lng": -102.0,
       "road": null,
       "km": 49.0,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030857986399244625#m",
       "timestamp": "2026-03-09T04:07:30+00:00",
       "timestamp_display": "09/03/2026 04:07 UTC"
@@ -188,7 +188,7 @@
       "lng": -98.2773,
       "road": null,
       "km": 30.8,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030835306207793253#m",
       "timestamp": "2026-03-09T02:37:22+00:00",
       "timestamp_display": "09/03/2026 02:37 UTC"
@@ -200,7 +200,7 @@
       "lng": -98.2063,
       "road": null,
       "km": 137.0,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030833458474295529#m",
       "timestamp": "2026-03-09T02:30:02+00:00",
       "timestamp_display": "09/03/2026 02:30 UTC"
@@ -212,7 +212,7 @@
       "lng": -103.3496,
       "road": null,
       "km": 133.95,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030829873640394785#m",
       "timestamp": "2026-03-09T02:15:47+00:00",
       "timestamp_display": "09/03/2026 02:15 UTC"
@@ -224,7 +224,7 @@
       "lng": -100.91221412178096,
       "road": 57,
       "km": 108.0,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030824984092807288#m",
       "timestamp": "2026-03-09T01:56:21+00:00",
       "timestamp_display": "09/03/2026 01:56 UTC"
@@ -236,7 +236,7 @@
       "lng": -101.61,
       "road": null,
       "km": 47.1,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2030809070928585010#m",
       "timestamp": "2026-03-09T00:53:07+00:00",
       "timestamp_display": "09/03/2026 00:53 UTC"
@@ -248,7 +248,7 @@
       "lng": -99.1332,
       "road": null,
       "km": 42,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031029675045028184#m",
       "timestamp": "2026-03-09T15:29:43+00:00",
       "timestamp_display": "09/03/2026 15:29 UTC"
@@ -260,7 +260,7 @@
       "lng": -102.0,
       "road": null,
       "km": 59,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031024473789329419#m",
       "timestamp": "2026-03-09T15:09:03+00:00",
       "timestamp_display": "09/03/2026 15:09 UTC"
@@ -284,7 +284,7 @@
       "lng": -102.0,
       "road": null,
       "km": 81,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031022966805323783#m",
       "timestamp": "2026-03-09T15:03:04+00:00",
       "timestamp_display": "09/03/2026 15:03 UTC"
@@ -320,7 +320,7 @@
       "lng": -99.22,
       "road": null,
       "km": 74,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031021258385555894#m",
       "timestamp": "2026-03-09T14:56:17+00:00",
       "timestamp_display": "09/03/2026 14:56 UTC"
@@ -332,7 +332,7 @@
       "lng": -100.3899,
       "road": null,
       "km": 55,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031016663047348601#m",
       "timestamp": "2026-03-09T14:38:01+00:00",
       "timestamp_display": "09/03/2026 14:38 UTC"
@@ -344,7 +344,7 @@
       "lng": -99.1332,
       "road": null,
       "km": 18,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031011899874427009#m",
       "timestamp": "2026-03-09T14:19:05+00:00",
       "timestamp_display": "09/03/2026 14:19 UTC"
@@ -356,7 +356,7 @@
       "lng": -99.22,
       "road": null,
       "km": 74,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031010382433935495#m",
       "timestamp": "2026-03-09T14:13:04+00:00",
       "timestamp_display": "09/03/2026 14:13 UTC"
@@ -368,7 +368,7 @@
       "lng": -102.0,
       "road": null,
       "km": 81,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031007101900804269#m",
       "timestamp": "2026-03-09T14:00:02+00:00",
       "timestamp_display": "09/03/2026 14:00 UTC"
@@ -392,7 +392,7 @@
       "lng": -99.22,
       "road": null,
       "km": 23,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2031004706600898890#m",
       "timestamp": "2026-03-09T13:50:30+00:00",
       "timestamp_display": "09/03/2026 13:50 UTC"
@@ -428,7 +428,7 @@
       "lng": -99.22,
       "road": null,
       "km": 23,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030998466583728213#m",
       "timestamp": "2026-03-09T13:25:43+00:00",
       "timestamp_display": "09/03/2026 13:25 UTC"
@@ -440,7 +440,7 @@
       "lng": -99.1332,
       "road": null,
       "km": 18,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030996697053028534#m",
       "timestamp": "2026-03-09T13:18:41+00:00",
       "timestamp_display": "09/03/2026 13:18 UTC"
@@ -452,7 +452,7 @@
       "lng": -99.1332,
       "road": null,
       "km": 18,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030991147300950485#m",
       "timestamp": "2026-03-09T12:56:38+00:00",
       "timestamp_display": "09/03/2026 12:56 UTC"
@@ -464,7 +464,7 @@
       "lng": -102.0,
       "road": null,
       "km": 13,
-      "risk": "high",
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2030981503656615964#m",
       "timestamp": "2026-03-09T12:18:18+00:00",
       "timestamp_display": "09/03/2026 12:18 UTC"
