@@ -15,7 +15,7 @@ import math
 import os
 from functools import lru_cache
 
-ROADS_DIR = os.path.join(os.path.dirname(__file__), "roads")
+ROADS_DIR = os.path.join(os.path.dirname(__file__), "..", "roads")
 
 
 # ---------------------------------------------------------------------------
