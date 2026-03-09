@@ -291,52 +291,99 @@ def locate_km(
     """
     Devuelve (lat, lng) del KM dado en la carretera especificada.
 
-    Requiere que known_segment tenga 'coord_start' y 'coord_end' —
-    coordenadas sobre la traza del GeoJSON que delimitan el tramo.
-    El KM se mide desde coord_start hacia coord_end.
+    Estrategia:
+    1. Encuentra el segmento GeoJSON más cercano a coord_start
+    2. Encadena greedy solo segmentos contiguos (salto < 1 km) hacia coord_end
+    3. Interpola el KM exacto sobre esa polilínea limpia
     """
     segments = list(_load_segments_cached(road))
     if not segments:
         print(f"[km_geolocator] Sin GeoJSON para carretera {road}")
         return None
 
-    all_points = [p for seg in segments for p in seg]
-    if not all_points:
-        return None
-
-    # ── 1. Obtener coordenadas de inicio y fin del tramo ──────────────────
+    # ── 1. Coordenadas de inicio y fin del tramo ──────────────────────────
     if known_segment and "coord_start" in known_segment and "coord_end" in known_segment:
-        origin_lat, origin_lng = known_segment["coord_start"]
-        dest_lat,   dest_lng   = known_segment["coord_end"]
-        origin_name = str(known_segment["cities"][0])
+        origin = known_segment["coord_start"]
+        dest   = known_segment["coord_end"]
     elif city_coords and len(city_coords) == 4:
-        origin_lat, origin_lng = city_coords[0], city_coords[1]
-        dest_lat,   dest_lng   = city_coords[2], city_coords[3]
-        origin_name = "city_coords"
+        origin = (city_coords[0], city_coords[1])
+        dest   = (city_coords[2], city_coords[3])
     else:
-        print(f"[km_geolocator] Sin coordenadas de tramo para MEX-{road}")
+        print(f"[km_geolocator] Sin coord_start/coord_end para MEX-{road}")
         return None
 
-    # ── 2. Punto del GeoJSON más cercano al inicio del tramo ──────────────
-    origin_idx = _find_nearest_idx(all_points, origin_lat, origin_lng)
-    dist_snap = haversine(origin_lat, origin_lng,
-                          all_points[origin_idx][0], all_points[origin_idx][1])
-    print(f"[km_geolocator] Origen '{origin_name}' → idx {origin_idx}, "
-          f"snap {dist_snap:.2f} km")
+    # ── 2. Segmento GeoJSON más cercano a coord_start ─────────────────────
+    best_seg_idx = min(
+        range(len(segments)),
+        key=lambda i: _nearest_point_on_segment(origin[0], origin[1], segments[i])
+    )
+    snap_dist = _nearest_point_on_segment(origin[0], origin[1], segments[best_seg_idx])
+    print(f"[km_geolocator] Segmento origen: idx {best_seg_idx}, snap {snap_dist:.2f} km")
 
-    # ── 3. Polilínea desde origen hacia adelante (siempre forward) ───────
-    polyline = all_points[origin_idx:]
+    # Orientar el segmento origen: su primer punto debe ser el más cercano a origin
+    seg0 = list(segments[best_seg_idx])
+    if haversine(origin[0], origin[1], seg0[-1][0], seg0[-1][1]) < \
+       haversine(origin[0], origin[1], seg0[0][0],  seg0[0][1]):
+        seg0 = list(reversed(seg0))
 
-    if len(polyline) < 2:
-        print(f"[km_geolocator] Polilínea demasiado corta")
-        return None
+    # ── 3. Encadenar segmentos contiguos hacia coord_end ──────────────────
+    MAX_GAP_KM = 1.0   # máximo salto permitido entre segmentos contiguos
+    MAX_TOTAL_KM = (known_segment["km_end"] - known_segment["km_start"]) * 1.5 \
+                   if known_segment else 500.0
 
-    cum_dists = _cumulative_distances(polyline)
+    chain = seg0
+    used = {best_seg_idx}
+
+    for _ in range(len(segments)):
+        tail = chain[-1]
+        best_next = None
+        best_gap  = float("inf")
+
+        for i, seg in enumerate(segments):
+            if i in used:
+                continue
+            # Distancia del final de la cadena al inicio o fin del candidato
+            d_start = haversine(tail[0], tail[1], seg[0][0],  seg[0][1])
+            d_end   = haversine(tail[0], tail[1], seg[-1][0], seg[-1][1])
+            d = min(d_start, d_end)
+            if d < best_gap:
+                best_gap  = d
+                best_next = (i, d_end < d_start)  # flip si conecta por el final
+
+        if best_next is None or best_gap > MAX_GAP_KM:
+            break
+
+        next_idx, flip = best_next
+        seg = list(segments[next_idx])
+        if flip:
+            seg = list(reversed(seg))
+
+        # Evitar duplicar punto de unión
+        if haversine(chain[-1][0], chain[-1][1], seg[0][0], seg[0][1]) < 0.01:
+            chain = chain + seg[1:]
+        else:
+            chain = chain + seg
+
+        used.add(next_idx)
+
+        # Parar si ya llegamos cerca de coord_end
+        dist_to_dest = haversine(dest[0], dest[1], chain[-1][0], chain[-1][1])
+        cum_so_far   = sum(
+            haversine(chain[i-1][0], chain[i-1][1], chain[i][0], chain[i][1])
+            for i in range(1, min(len(chain), 10))  # estimación rápida
+        )
+        total_so_far = _cumulative_distances(chain)[-1]
+
+        if dist_to_dest < 5.0 or total_so_far > MAX_TOTAL_KM:
+            break
+
+    cum_dists = _cumulative_distances(chain)
     total_km  = cum_dists[-1]
-    print(f"[km_geolocator] Polilínea: {len(polyline)} pts, {total_km:.1f} km desde origen")
+    print(f"[km_geolocator] Polilínea: {len(chain)} pts, {total_km:.1f} km "
+          f"({len(used)} segmentos encadenados)")
 
     # ── 4. Interpolar KM exacto ───────────────────────────────────────────
-    result = _find_km_on_polyline(polyline, cum_dists, km)
+    result = _find_km_on_polyline(chain, cum_dists, km)
 
     if result:
         print(f"[km_geolocator] Localizado: {result[0]:.5f}, {result[1]:.5f}")
