@@ -1,6 +1,30 @@
 {
-  "last_update": "2026-03-09T16:14:51.540759",
+  "last_update": "2026-03-09T16:50:24.498897",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVíal cerca del km 118+900, de la carretera Aguascalientes – Zacatecas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 118.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031047007683387630#m",
+      "timestamp": "2026-03-09T16:38:36+00:00",
+      "timestamp_display": "09/03/2026 16:38 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 065+680, de la carretera Cordoba - Ent. Boticaria. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 65.68,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031045400300265618#m",
+      "timestamp": "2026-03-09T16:32:13+00:00",
+      "timestamp_display": "09/03/2026 16:32 UTC"
+    },
     {
       "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del km 065+680, de la carretera Monterrey - Nuevo Laredo. Atienda indicación vial.",
       "type": "twitter",
@@ -218,28 +242,28 @@
       "timestamp_display": "09/03/2026 02:30 UTC"
     },
     {
-      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVíal cerca del km 133+950, de la carretera Guadalajara-Tepic. Atienda indicación vial.",
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoCuernavaca, km 26, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 133.95,
+      "km": 26,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030829873640394785#m",
-      "timestamp": "2026-03-09T02:15:47+00:00",
-      "timestamp_display": "09/03/2026 02:15 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031049802209767557#m",
+      "timestamp": "2026-03-09T16:49:42+00:00",
+      "timestamp_display": "09/03/2026 16:49 UTC"
     },
     {
-      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del km 108+000, de la carretera Matehuala-saltillo. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista  Cuauhtémoc - Osiris, km 81. Se registra cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 25.435795908227195,
-      "lng": -100.91221412178096,
-      "road": 57,
-      "km": 108.0,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 81,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2030824984092807288#m",
-      "timestamp": "2026-03-09T01:56:21+00:00",
-      "timestamp_display": "09/03/2026 01:56 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031047102449471862#m",
+      "timestamp": "2026-03-09T16:38:58+00:00",
+      "timestamp_display": "09/03/2026 16:38 UTC"
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -456,30 +480,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031002119512170889#m",
       "timestamp": "2026-03-09T13:40:14+00:00",
       "timestamp_display": "09/03/2026 13:40 UTC"
-    },
-    {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/FbL4TJvLZjE4TuPd8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030999270690553951#m",
-      "timestamp": "2026-03-09T13:28:54+00:00",
-      "timestamp_display": "09/03/2026 13:28 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 23, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2030998466583728213#m",
-      "timestamp": "2026-03-09T13:25:43+00:00",
-      "timestamp_display": "09/03/2026 13:25 UTC"
     }
   ]
 }
