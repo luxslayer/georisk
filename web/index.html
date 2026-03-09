@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
-<meta charset="utf-8"/>
-
-<link
-rel="stylesheet"
-href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-/>
-
-<link
-rel="stylesheet"
-href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"
-/>
-
-<link rel="stylesheet" href="style.css"/>
-
+  <meta charset="utf-8"/>
+  <title>Mexico Road Risk Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"/>
+  <link rel="stylesheet" href="style.css"/>
 </head>
-
 <body>
 
-<h2>Mexico Road Risk Map</h2>
+  <div id="app">
 
-<div id="map"></div>
+    <header id="top-bar">
+      <div id="top-bar-left">
+        <span class="logo-icon">◈</span>
+        <span class="logo-text">GEORISK <span class="logo-sub">MX</span></span>
+      </div>
+      <h1 id="main-title">MONITOR DE CARRETERAS</h1>
+      <div id="update-info">
+        ACTUALIZACIÓN EN <span id="countdown">--:--</span>
+      </div>
+    </header>
 
-<div id="update-info">
-Próxima actualización en: <span id="countdown"></span>
-</div>
+    <div id="layout">
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
-<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+      <!-- Panel izquierdo: carreteras -->
+      <aside id="road-panel">
+        <div id="panel-header">
+          <span class="panel-label">ESTADO DE CARRETERAS</span>
+          <span id="incident-total">— incidentes</span>
+        </div>
+        <div id="road-list"></div>
+      </aside>
 
-<script src="map.js"></script>
+      <!-- Mapa -->
+      <div id="map"></div>
+
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+  <script src="map.js"></script>
 
 </body>
-
 </html>
