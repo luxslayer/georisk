@@ -13,6 +13,10 @@ road_segments = {
         {"cities": ("san luis potosi", "matehuala"), "km_start": 200, "km_end": 330},
     ],
 
+    85: [
+        {"cities": ("cd victoria", "monterrey"), "km_start": 4,   "km_end": 265},
+    ],
+
     130: [
         {"cities": ("pachuca", "tulancingo"),       "km_start": 0,   "km_end": 40},
         {"cities": ("tulancingo", "poza rica"),     "km_start": 40,  "km_end": 190},

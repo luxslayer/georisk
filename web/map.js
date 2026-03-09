@@ -10,7 +10,7 @@ const KNOWN_ROADS = [
   { id: 57,  name: "MEX-57  CDMX – Piedras Negras" },
   { id: 85,  name: "MEX-85  CDMX – Nuevo Laredo" },
   { id: 95,  name: "MEX-95  CDMX – Acapulco" },
-  { id: 130, name: "MEX-130  Pachuca – Tuxpan" },
+  { id: 130, name: "MEX-130  Pachuca – Puebla" },
   { id: 150, name: "MEX-150  CDMX – Veracruz" },
   { id: 180, name: "MEX-180  Tabasco – Cancún" },
   { id: 200, name: "MEX-200  Nayarit – Chiapas" },
