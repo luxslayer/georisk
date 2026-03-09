@@ -1,6 +1,18 @@
 {
-  "last_update": "2026-03-09T15:41:02.365113",
+  "last_update": "2026-03-09T16:06:16.511560",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del km 065+680, de la carretera Monterrey - Nuevo Laredo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 27.4779,
+      "lng": -99.5496,
+      "road": null,
+      "km": 65.68,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031033126969864654#m",
+      "timestamp": "2026-03-09T15:43:26+00:00",
+      "timestamp_display": "09/03/2026 15:43 UTC"
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 075+000, de la carretera Irapuato – Zapotlanejo con dirección a Zapotlanejo. Atienda indicación vial.",
       "type": "twitter",
@@ -8,7 +20,7 @@
       "lng": -103.25,
       "road": null,
       "km": 75.0,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031029620762419255#m",
       "timestamp": "2026-03-09T15:29:30+00:00",
       "timestamp_display": "09/03/2026 15:29 UTC"
@@ -20,7 +32,7 @@
       "lng": -104.67,
       "road": null,
       "km": 68.0,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031028992023654800#m",
       "timestamp": "2026-03-09T15:27:01+00:00",
       "timestamp_display": "09/03/2026 15:27 UTC"
@@ -44,7 +56,7 @@
       "lng": -100.3161,
       "road": null,
       "km": 34.1,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031002050293633147#m",
       "timestamp": "2026-03-09T13:39:57+00:00",
       "timestamp_display": "09/03/2026 13:39 UTC"
@@ -52,11 +64,11 @@
     {
       "title": "#TomePrecauciones en #EdoMéx  se registra cierre parcial de circulación por #AccidenteVíal cerca del km 042+200, de la carretera México-Puebla. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
+      "lat": 18.60219373736024,
+      "lng": -97.59739481441089,
+      "road": 150,
       "km": 42.2,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030991448103911641#m",
       "timestamp": "2026-03-09T12:57:49+00:00",
       "timestamp_display": "09/03/2026 12:57 UTC"
@@ -68,7 +80,7 @@
       "lng": -96.92,
       "road": null,
       "km": 91.5,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030921809135030535#m",
       "timestamp": "2026-03-09T08:21:06+00:00",
       "timestamp_display": "09/03/2026 08:21 UTC"
@@ -80,7 +92,7 @@
       "lng": -101.00208877057378,
       "road": 57,
       "km": 130.5,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030921046094688545#m",
       "timestamp": "2026-03-09T08:18:04+00:00",
       "timestamp_display": "09/03/2026 08:18 UTC"
@@ -88,11 +100,11 @@
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 028+500, de la carretera Morelia-Pátzcuaro. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
+      "lat": 19.425685595863403,
+      "lng": -99.33437397477148,
+      "road": 14,
       "km": 28.5,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030915615116960217#m",
       "timestamp": "2026-03-09T07:56:29+00:00",
       "timestamp_display": "09/03/2026 07:56 UTC"
@@ -104,7 +116,7 @@
       "lng": -98.07,
       "road": 130,
       "km": 250.7,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030912292422860884#m",
       "timestamp": "2026-03-09T07:43:17+00:00",
       "timestamp_display": "09/03/2026 07:43 UTC"
@@ -116,7 +128,7 @@
       "lng": -93.12,
       "road": null,
       "km": 5.556,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030907985120096429#m",
       "timestamp": "2026-03-09T07:26:10+00:00",
       "timestamp_display": "09/03/2026 07:26 UTC"
@@ -128,7 +140,7 @@
       "lng": -98.05,
       "road": null,
       "km": 176.0,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030905596342358392#m",
       "timestamp": "2026-03-09T07:16:41+00:00",
       "timestamp_display": "09/03/2026 07:16 UTC"
@@ -140,7 +152,7 @@
       "lng": -94.63,
       "road": null,
       "km": 9.5,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030904336029540357#m",
       "timestamp": "2026-03-09T07:11:40+00:00",
       "timestamp_display": "09/03/2026 07:11 UTC"
@@ -152,7 +164,7 @@
       "lng": -99.22,
       "road": null,
       "km": 95.5,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030869547620663407#m",
       "timestamp": "2026-03-09T04:53:26+00:00",
       "timestamp_display": "09/03/2026 04:53 UTC"
@@ -164,7 +176,7 @@
       "lng": -100.3161,
       "road": null,
       "km": 216.6,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030862162718023777#m",
       "timestamp": "2026-03-09T04:24:05+00:00",
       "timestamp_display": "09/03/2026 04:24 UTC"
@@ -176,7 +188,7 @@
       "lng": -102.0,
       "road": null,
       "km": 49.0,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030857986399244625#m",
       "timestamp": "2026-03-09T04:07:30+00:00",
       "timestamp_display": "09/03/2026 04:07 UTC"
@@ -188,7 +200,7 @@
       "lng": -98.2773,
       "road": null,
       "km": 30.8,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030835306207793253#m",
       "timestamp": "2026-03-09T02:37:22+00:00",
       "timestamp_display": "09/03/2026 02:37 UTC"
@@ -200,7 +212,7 @@
       "lng": -98.2063,
       "road": null,
       "km": 137.0,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030833458474295529#m",
       "timestamp": "2026-03-09T02:30:02+00:00",
       "timestamp_display": "09/03/2026 02:30 UTC"
@@ -212,7 +224,7 @@
       "lng": -103.3496,
       "road": null,
       "km": 133.95,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030829873640394785#m",
       "timestamp": "2026-03-09T02:15:47+00:00",
       "timestamp_display": "09/03/2026 02:15 UTC"
@@ -224,250 +236,10 @@
       "lng": -100.91221412178096,
       "road": 57,
       "km": 108.0,
-      "risk": "normal",
+      "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2030824984092807288#m",
       "timestamp": "2026-03-09T01:56:21+00:00",
       "timestamp_display": "09/03/2026 01:56 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 047+100, de la carretera Morelia-Pátzcuaro. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 47.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2030809070928585010#m",
-      "timestamp": "2026-03-09T00:53:07+00:00",
-      "timestamp_display": "09/03/2026 00:53 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 42, dirección CDMX. Continúa reducción de carriles por atención del accidente (trasvase de carga). Dirección Puebla, opera de manera normal.\n\n➡️ Por seguridad se desvía el transito vehicular a carretera libre, a la altura del km 63 (Poblado de Río Frío). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": 42,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031029675045028184#m",
-      "timestamp": "2026-03-09T15:29:43+00:00",
-      "timestamp_display": "09/03/2026 15:29 UTC"
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Agua Dulce - Cárdenas, km 59, dirección Cárdenas. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 59,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031024473789329419#m",
-      "timestamp": "2026-03-09T15:09:03+00:00",
-      "timestamp_display": "09/03/2026 15:09 UTC"
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴   \nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Cosoleacaque, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031024151377453434#m",
-      "timestamp": "2026-03-09T15:07:46+00:00",
-      "timestamp_display": "09/03/2026 15:07 UTC"
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista  Cuauhtémoc - Osiris, km 81. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 81,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031022966805323783#m",
-      "timestamp": "2026-03-09T15:03:04+00:00",
-      "timestamp_display": "09/03/2026 15:03 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, km 13, dirección Chamapa. Registra carga vehicular a la altura de la Plaza de Cobro Madín, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 13,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031022204557607408#m",
-      "timestamp": "2026-03-09T15:00:02+00:00",
-      "timestamp_display": "09/03/2026 15:00 UTC"
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nLa velocidad también es una decisión que protege vidas.\n👉 Modérala y continúa tu camino con tranquilidad. 🚗\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031022195863134516#m",
-      "timestamp": "2026-03-09T15:00:00+00:00",
-      "timestamp_display": "09/03/2026 15:00 UTC"
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 74, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 74,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031021258385555894#m",
-      "timestamp": "2026-03-09T14:56:17+00:00",
-      "timestamp_display": "09/03/2026 14:56 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 55, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y volcadura de automóvil). Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 55,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031016663047348601#m",
-      "timestamp": "2026-03-09T14:38:01+00:00",
-      "timestamp_display": "09/03/2026 14:38 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoPuebla, km 18, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": 18,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031011899874427009#m",
-      "timestamp": "2026-03-09T14:19:05+00:00",
-      "timestamp_display": "09/03/2026 14:19 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 74,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031010382433935495#m",
-      "timestamp": "2026-03-09T14:13:04+00:00",
-      "timestamp_display": "09/03/2026 14:13 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista  Cuauhtémoc - Osiris, km 81. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Tránsito lento en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 81,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031007101900804269#m",
-      "timestamp": "2026-03-09T14:00:02+00:00",
-      "timestamp_display": "09/03/2026 14:00 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoCuernavaca, km 19, dirección CDMX. Registra carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031006478161584527#m",
-      "timestamp": "2026-03-09T13:57:33+00:00",
-      "timestamp_display": "09/03/2026 13:57 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 23, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031004706600898890#m",
-      "timestamp": "2026-03-09T13:50:30+00:00",
-      "timestamp_display": "09/03/2026 13:50 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 96 al 100, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031002119512170889#m",
-      "timestamp": "2026-03-09T13:40:14+00:00",
-      "timestamp_display": "09/03/2026 13:40 UTC"
-    },
-    {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/FbL4TJvLZjE4TuPd8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030999270690553951#m",
-      "timestamp": "2026-03-09T13:28:54+00:00",
-      "timestamp_display": "09/03/2026 13:28 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 23, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030998466583728213#m",
-      "timestamp": "2026-03-09T13:25:43+00:00",
-      "timestamp_display": "09/03/2026 13:25 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 18, dirección CDMX. Continúa reducción de carriles por atención del accidente (reacomodo de muro central). Dirección Puebla, opera de manera normal. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": 18,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030996697053028534#m",
-      "timestamp": "2026-03-09T13:18:41+00:00",
-      "timestamp_display": "09/03/2026 13:18 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 18. Reducción de carriles en ambos sentidos por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": 18,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030991147300950485#m",
-      "timestamp": "2026-03-09T12:56:38+00:00",
-      "timestamp_display": "09/03/2026 12:56 UTC"
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cd. Obregón - Guaymas, km 13, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 13,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2030981503656615964#m",
-      "timestamp": "2026-03-09T12:18:18+00:00",
-      "timestamp_display": "09/03/2026 12:18 UTC"
     }
   ]
 }
