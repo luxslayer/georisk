@@ -1,5 +1,6 @@
 cities = {
     "acayucan": (17.94, -94.91),
+    "aguascalientes":(21.8841, -102.2918),
     "cosoleacaque": (18.00,-94.63),
     "cdmx":(19.4326,-99.1332),
     "celaya":(20.52,-100.81),
