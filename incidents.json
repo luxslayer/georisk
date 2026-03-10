@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T22:39:23.532834",
+  "last_update": "2026-03-10T23:01:14.817839",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerero continúa presencia de personas, provocando cierre total de circulación cerca del km 016+200, de la carretera Las Cruces-Pinotepa Nacional. Atienda indicación vial.",
@@ -240,6 +240,18 @@
       "url": "https://nitter.net/GN_Carreteras/status/2031264514285449252#m",
       "timestamp": "2026-03-10T07:02:53+00:00",
       "timestamp_display": "10/03/2026 07:02 UTC"
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 21, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031501662792331671#m",
+      "timestamp": "2026-03-10T22:45:14+00:00",
+      "timestamp_display": "10/03/2026 22:45 UTC"
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 165, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Toma tus precauciones.",
