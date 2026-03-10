@@ -6,6 +6,7 @@ const KNOWN_ROADS = [
   { id: 2,   name: "MEX-2  Tijuana – Matamoros" },
   { id: 15,  name: "MEX-15  Nogales – Guadalajara" },
   { id: 40,  name: "MEX-40  Mazatlán – Monterrey" },
+  {id: 45,  name: "MEX-45  León – Aguascalientes" },
   { id: 45,  name: "MEX-45  Juárez – Guadalajara" },
   { id: 57,  name: "MEX-57  CDMX – Piedras Negras" },
   { id: 85,  name: "MEX-85  CDMX – Nuevo Laredo" },
