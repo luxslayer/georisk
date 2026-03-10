@@ -4,7 +4,7 @@
 const KNOWN_ROADS = [
   { id: 1,   name: "MEX-1  Tijuana – Los Cabos" },
   { id: 2,   name: "MEX-2  Tijuana – Matamoros" },
-  { id: 15,  name: "MEX-15  Nogales – Guadalajara" },
+  { id: 15,  name: "MEX-15  Tepic – Mazatlan" },
   { id: 40,  name: "MEX-40  Mazatlán – Monterrey" },
   {id: 45,  name: "MEX-45  León – Aguascalientes" },
   { id: 45,  name: "MEX-45  Juárez – Guadalajara" },
@@ -12,6 +12,7 @@ const KNOWN_ROADS = [
   { id: 85,  name: "MEX-85  CDMX – Nuevo Laredo" },
   { id: 95,  name: "MEX-95  CDMX – Acapulco" },
   { id: 130, name: "MEX-130  Pachuca – Tuxpan" },
+  { id: 150, name: "MEX-150  Puebla – Cordoba" },
   { id: 150, name: "MEX-150  CDMX – Veracruz" },
   { id: 180, name: "MEX-180  Tabasco – Cancún" },
   { id: 200, name: "MEX-200  Nayarit – Chiapas" },
@@ -128,7 +129,7 @@ function buildRoadPanel(incidents) {
     card.innerHTML = `
       <div class="road-card-header">
         <span class="road-badge">???</span>
-        <span class="road-name">Sin carretera detectada</span>
+        <span class="road-name">No operativas</span>
         <span class="road-status-dot dot-warn"></span>
       </div>
       <div class="road-incidents">
