@@ -320,11 +320,14 @@ def locate_km(
     snap_dist = _nearest_point_on_segment(origin[0], origin[1], segments[best_seg_idx])
     print(f"[km_geolocator] Segmento origen: idx {best_seg_idx}, snap {snap_dist:.2f} km")
 
-    # Orientar el segmento origen: su primer punto debe ser el más cercano a origin
+    # Orientar el segmento origen: el final debe apuntar hacia coord_end
     seg0 = list(segments[best_seg_idx])
-    if haversine(origin[0], origin[1], seg0[-1][0], seg0[-1][1]) < \
-       haversine(origin[0], origin[1], seg0[0][0],  seg0[0][1]):
+    d_end_to_dest   = haversine(dest[0], dest[1], seg0[-1][0], seg0[-1][1])
+    d_start_to_dest = haversine(dest[0], dest[1], seg0[0][0],  seg0[0][1])
+    if d_start_to_dest < d_end_to_dest:
         seg0 = list(reversed(seg0))
+    print(f"[km_geolocator] Segmento origen orientado hacia dest "
+          f"(d_tail_to_dest={min(d_end_to_dest, d_start_to_dest):.1f} km)")
 
     # ── 3. Encadenar segmentos contiguos hacia coord_end ──────────────────
     MAX_GAP_KM = 1.0   # máximo salto permitido entre segmentos contiguos

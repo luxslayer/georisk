@@ -5,7 +5,7 @@ road_segments = {
             "cities": ("leon", "aguascalientes"),
             "km_start": 0,
             "km_end": 127,
-            "coord_start": (21.0053, -101.5776),
+            "coord_start": (21.0544, -101.5791),
             "coord_end": (21.8605, -102.2934),
         },
     ],
