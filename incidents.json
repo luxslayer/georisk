@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T13:14:47.305478",
+  "last_update": "2026-03-10T13:18:44.161553",
   "incidents": [
     {
       "title": "#VíaLibre en #Veracruz tras #AccidenteVíal cerca del km 258+500, de la carretera Pachuca-Tuxpan. Maneje con precaución.",
@@ -40,9 +40,9 @@
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVíal cerca del km 107+000, de la carretera León-Aguascalientes. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 21.122,
-      "lng": -101.68,
-      "road": null,
+      "lat": 20.785314247978814,
+      "lng": -101.41639518916168,
+      "road": 45,
       "km": 107.0,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031264514285449252#m",
