@@ -1,17 +1,17 @@
 {
-  "last_update": "2026-03-10T16:14:54.447117",
+  "last_update": "2026-03-10T17:11:01.584610",
   "incidents": [
     {
-      "title": "#TomePrecauciones en #MIchoacán se registra cierre total de circulación por #AccidenteVíal cerca del km 174+700, de la carretera Maravatío Zapotlanejo. Atienda indicación vial.",
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca, sin ruta alterna. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": 15,
-      "km": 174.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031401386144051653#m",
-      "timestamp": "2026-03-10T16:06:46+00:00",
-      "timestamp_display": "10/03/2026 16:06 UTC"
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 28.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031409578626396512#m",
+      "timestamp": "2026-03-10T16:39:19+00:00",
+      "timestamp_display": "10/03/2026 16:39 UTC"
     },
     {
       "title": "#TomePrecauciones en #MIchoacán se registra cierre total de circulación por #AccidenteVíal cerca del km 174+700, de la carretera Maravatío Zapotlanejo. Atienda indicación vial.",
@@ -242,6 +242,90 @@
       "timestamp_display": "10/03/2026 00:51 UTC"
     },
     {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoPuebla, km 51, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 51,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031412110505431283#m",
+      "timestamp": "2026-03-10T16:49:23+00:00",
+      "timestamp_display": "10/03/2026 16:49 UTC"
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nLibramiento Noreste de Querétaro (Chichimequillas), km 5, dirección San Luis Potosí. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 5,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031410051622330769#m",
+      "timestamp": "2026-03-10T16:41:12+00:00",
+      "timestamp_display": "10/03/2026 16:41 UTC"
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Champotón - Campeche, km 194, dirección Champotón. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 194,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031405548428792003#m",
+      "timestamp": "2026-03-10T16:23:19+00:00",
+      "timestamp_display": "10/03/2026 16:23 UTC"
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nAutopista Cd. Mendoza - Córdoba, del km 292 al 297, dirección Córdoba. Reducción de carriles por labores de mantenimiento. Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 292,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031403953767002473#m",
+      "timestamp": "2026-03-10T16:16:58+00:00",
+      "timestamp_display": "10/03/2026 16:16 UTC"
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nAutopista Cd. Mendoza - Córdoba, km 267, dirección Córdoba. Reducción de carriles por labores de mantenimiento. Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 267,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031403816785162263#m",
+      "timestamp": "2026-03-10T16:16:26+00:00",
+      "timestamp_display": "10/03/2026 16:16 UTC"
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031403566150328445#m",
+      "timestamp": "2026-03-10T16:15:26+00:00",
+      "timestamp_display": "10/03/2026 16:15 UTC"
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoCuernavaca, km 26, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 26,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031403508545839314#m",
+      "timestamp": "2026-03-10T16:15:12+00:00",
+      "timestamp_display": "10/03/2026 16:15 UTC"
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puente de Ixtla - Iguala, km 50. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -326,7 +410,7 @@
       "timestamp_display": "10/03/2026 15:53 UTC"
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nLibramiento Noreste de Querétaro (Chichimequillas), km 5, dirección San Luis Potosí. Se informa a las personas usuarias que continúa cierre a la circulación por atención del accidente. El personal realiza las maniobras de grúa para el retiro de las unidades siniestradas. Dirección CDMX, se restablece la vialidad con carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nLibramiento Noreste de Querétaro (Chichimequillas), km 5, dirección San Luis Potosí. Se informa a las personas usuarias que continúa cierre a la circulación por atención del accidente. El personal realiza las maniobras de grúa para el retiro de las unidades siniestradas. Dirección CDMX, se restablece la vialidad con carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 22.15,
       "lng": -100.98,
@@ -396,90 +480,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031389251053515094#m",
       "timestamp": "2026-03-10T15:18:33+00:00",
       "timestamp_display": "10/03/2026 15:18 UTC"
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nLibramiento Noreste de Querétaro (Chichimequillas), km 5. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos. El personal de CAPUFE, se encuentra en el lugar realizando las labores de atención del accidente. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 5,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031388038195019804#m",
-      "timestamp": "2026-03-10T15:13:44+00:00",
-      "timestamp_display": "10/03/2026 15:13 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Continúa reducción de carriles por presencia de manifestantes. Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031385928082604481#m",
-      "timestamp": "2026-03-10T15:05:21+00:00",
-      "timestamp_display": "10/03/2026 15:05 UTC"
-    },
-    {
-      "title": "🔴CIERRE DE CIRCULACIÓN🔴\nLibramiento Noreste de Querétaro (Chichimequillas), km 5, dirección San Luis Potosí. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/dnYfogvf9tGrosmN6",
-      "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": 5,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031381190159073639#m",
-      "timestamp": "2026-03-10T14:46:31+00:00",
-      "timestamp_display": "10/03/2026 14:46 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 20, dirección Chamapa. Continúa reducción de carriles por atención de incidente (servicios periciales). En la zona se registra carga vehicular intensa. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 20,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031380350170005818#m",
-      "timestamp": "2026-03-10T14:43:11+00:00",
-      "timestamp_display": "10/03/2026 14:43 UTC"
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Cuernavaca - Acapulco, km 110, dirección Acapulco. Cierre a la circulación en el retorno en dirección Cuernavaca por atención de incidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 110,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031379707329974368#m",
-      "timestamp": "2026-03-10T14:40:38+00:00",
-      "timestamp_display": "10/03/2026 14:40 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031378887981072609#m",
-      "timestamp": "2026-03-10T14:37:22+00:00",
-      "timestamp_display": "10/03/2026 14:37 UTC"
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Obregón - Guaymas, km 2, dirección Cd. Obregón. Se informa a las personas usuarias que continúa el cierre a la circulación, debido a que el personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Dirección Guaymas, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 2,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031376270919938377#m",
-      "timestamp": "2026-03-10T14:26:58+00:00",
-      "timestamp_display": "10/03/2026 14:26 UTC"
     }
   ]
 }
