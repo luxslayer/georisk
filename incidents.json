@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T13:18:44.161553",
+  "last_update": "2026-03-10T13:25:48.797330",
   "incidents": [
     {
       "title": "#VíaLibre en #Veracruz tras #AccidenteVíal cerca del km 258+500, de la carretera Pachuca-Tuxpan. Maneje con precaución.",
@@ -242,6 +242,30 @@
       "timestamp_display": "09/03/2026 22:12 UTC"
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Cuernavaca - Acapulco, km 110. Cierre a la circulación en el retorno en dirección Cuernavaca por atención de incidente. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 110,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031359419863212225#m",
+      "timestamp": "2026-03-10T13:20:01+00:00",
+      "timestamp_display": "10/03/2026 13:20 UTC"
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAut. Isla - Acayucan, km 170, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 170,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031358063756624370#m",
+      "timestamp": "2026-03-10T13:14:37+00:00",
+      "timestamp_display": "10/03/2026 13:14 UTC"
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Reducción de carriles por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -468,30 +492,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031241129220304911#m",
       "timestamp": "2026-03-10T05:29:58+00:00",
       "timestamp_display": "10/03/2026 05:29 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 189, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 189,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031239123034382401#m",
-      "timestamp": "2026-03-10T05:22:00+00:00",
-      "timestamp_display": "10/03/2026 05:22 UTC"
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 189, dirección Acatzingo. Cierre a la circulación por atención de accidente (choque de costado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 189,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031233099367874890#m",
-      "timestamp": "2026-03-10T04:58:04+00:00",
-      "timestamp_display": "10/03/2026 04:58 UTC"
     }
   ]
 }
