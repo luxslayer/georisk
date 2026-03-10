@@ -14,6 +14,7 @@ routes = {
     ("mexico","puebla"):150,
     ("mexico","puebla"):150,
     ("puebla","cordoba"):150,
-    ("xalapa","veracruz"):180
+    ("xalapa","veracruz"):180,
+    ("la ventosa","tapanatepec"):190
 
 }

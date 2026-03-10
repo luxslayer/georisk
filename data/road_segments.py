@@ -27,7 +27,14 @@ road_segments = {
             "km_end":    200,
             "coord_start": (20.5888, -100.3899),  
             "coord_end":   (22.15,   -100.98),
-        }, 
+        },
+        {
+            "cities":    ("puerto mexico", "ojo caliente"),
+            "km_start":  200,
+            "km_end":    235,
+            "coord_start": (25.1741, -100.7284),  
+            "coord_end":   (25.4267, -100.8048),
+        } 
     ],
 
     85: [
@@ -48,7 +55,16 @@ road_segments = {
             "coord_start": (19.1681, -98.3000),  
             "coord_end":   (18.8609, -96.8762),
         },
+    ],
 
+    190: [
+        {
+            "cities":    ("la ventosa", "tapanatepec"),
+            "km_start":  0,
+            "km_end":    89,
+            "coord_start": (16.5482, -94.9494),  
+            "coord_end":   (16.3920, -94.2057),
+        },
     ]
         
 }
