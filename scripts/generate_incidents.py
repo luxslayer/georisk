@@ -311,6 +311,7 @@ def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
         "url":               url,
         "timestamp":         timestamp_iso,
         "timestamp_display": timestamp_display,
+        "segment":           list(known_segment["cities"]) if known_segment else None,
     })
 
 # ---------------------------------------------------------------------------

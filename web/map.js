@@ -8,7 +8,8 @@ const KNOWN_ROADS = [
   { id: 40,  name: "MEX-40  Mazatlán – Monterrey" },
   {id: 45,  name: "MEX-45  León – Aguascalientes" },
   { id: 45,  name: "MEX-45  Juárez – Guadalajara" },
-  { id: 57,  name: "MEX-57  CDMX – Piedras Negras" },
+  { id: 57,  name: "MEX-57  Puerto México – Ojo Caliente"},
+  { id: 57,  name: "MEX-57  Querétaro – San Luis Potosí"},
   { id: 85,  name: "MEX-85  CDMX – Nuevo Laredo" },
   { id: 95,  name: "MEX-95  CDMX – Acapulco" },
   { id: 130, name: "MEX-130  Pachuca – Tuxpan" },
@@ -33,14 +34,21 @@ let heatPoints = [];
 const markerMap = new Map(); // incidente index → marker
 
 // ── Render del panel de carreteras ───────────────────────────────────────────
+function roadKey(roadId, segment) {
+  // Clave única: "57-queretaro-san luis potosi" o "57" si no hay segmento
+  return segment ? `${roadId}-${segment[0]}-${segment[1]}` : String(roadId);
+}
+
 function buildRoadPanel(incidents) {
-  // Agrupa incidentes por carretera
-  const byRoad = new Map();
+  // Agrupa incidentes por clave compuesta road+segment
+  const byKey = new Map();
 
   incidents.forEach((inc, idx) => {
-    const roadId = inc.road ?? "unknown";
-    if (!byRoad.has(roadId)) byRoad.set(roadId, []);
-    byRoad.get(roadId).push({ ...inc, _idx: idx });
+    const key = inc.road != null
+      ? roadKey(inc.road, inc.segment)
+      : "unknown";
+    if (!byKey.has(key)) byKey.set(key, []);
+    byKey.get(key).push({ ...inc, _idx: idx });
   });
 
   const totalEl = document.getElementById("incident-total");
@@ -49,116 +57,94 @@ function buildRoadPanel(incidents) {
   const listEl = document.getElementById("road-list");
   listEl.innerHTML = "";
 
-  // Carreteras con incidentes primero, luego las conocidas sin incidentes
-  const roadIdsWithIncidents = [...byRoad.keys()].filter(id => id !== "unknown");
-  const knownIds = KNOWN_ROADS.map(r => r.id);
-  const allIds = [
-    ...roadIdsWithIncidents,
-    ...knownIds.filter(id => !roadIdsWithIncidents.includes(id)),
-  ];
+  // Construir cards iterando KNOWN_ROADS directamente (permite duplicados de id)
+  const renderedKeys = new Set();
 
-  allIds.forEach(roadId => {
-    const roadInfo = KNOWN_ROADS.find(r => r.id === roadId);
-    const name = roadInfo ? roadInfo.name : `Carretera ${roadId}`;
-    const incidents = byRoad.get(roadId) || [];
-    const hasHigh = incidents.some(i => i.risk === "high");
-    const hasAny  = incidents.length > 0;
+  KNOWN_ROADS.forEach(roadInfo => {
+    const key = roadInfo.segment
+      ? roadKey(roadInfo.id, roadInfo.segment)
+      : String(roadInfo.id);
 
-    // ── Card ──
-    const card = document.createElement("div");
-    card.className = "road-card";
-    card.dataset.roadId = roadId;
+    // Recoger incidentes: los que matchean por clave exacta
+    // + los del mismo road sin segmento definido (compatibilidad)
+    const exact   = byKey.get(key) || [];
+    const generic = roadInfo.segment ? [] : (byKey.get(String(roadInfo.id)) || []);
+    const cardIncidents = [...new Map(
+      [...exact, ...generic].map(i => [i._idx, i])
+    ).values()];
 
-    // Determina clase del dot
-    const dotClass = hasHigh ? "dot-high" : hasAny ? "dot-warn" : "dot-clear";
-    const badgeExtra = hasHigh ? " has-high" : "";
-
-    card.innerHTML = `
-      <div class="road-card-header">
-        <span class="road-badge${badgeExtra}">MEX-${roadId}</span>
-        <span class="road-name">${roadInfo ? roadInfo.name.split("  ")[1] : name}</span>
-        <span class="road-status-dot ${dotClass}"></span>
-      </div>
-      <div class="road-incidents">
-        ${incidents.length === 0
-          ? `<div class="road-clear-msg">SIN AFECTACIONES</div>`
-          : incidents.map(inc => `
-              <div class="incident-row" data-idx="${inc._idx}">
-                <div class="inc-km">KM <span>${inc.km != null ? Math.round(inc.km) : "—"}</span></div>
-                <div class="inc-body">
-                  <div class="inc-title">${inc.title}</div>
-                  <div class="inc-meta">
-                    <span class="inc-risk ${inc.risk}">${inc.risk.toUpperCase()}</span>
-                    <span class="inc-time">${inc.timestamp_display || ""}</span>
-                  </div>
-                </div>
-              </div>`
-            ).join("")
-        }
-      </div>
-    `;
-
-    // Toggle expand
-    card.querySelector(".road-card-header").addEventListener("click", () => {
-      const isActive = card.classList.contains("active");
-      document.querySelectorAll(".road-card.active").forEach(c => c.classList.remove("active"));
-      if (!isActive) card.classList.add("active");
-    });
-
-    // Click en incidente → volar al marcador
-    card.querySelectorAll(".incident-row").forEach(row => {
-      row.addEventListener("click", e => {
-        e.stopPropagation();
-        const idx = parseInt(row.dataset.idx);
-        const marker = markerMap.get(idx);
-        if (marker) {
-          map.flyTo(marker.getLatLng(), 12, { duration: 1.2 });
-          setTimeout(() => marker.openPopup(), 1300);
-        }
-      });
-    });
-
-    listEl.appendChild(card);
+    renderedKeys.add(key);
+    renderRoadCard(listEl, roadInfo.id, roadInfo.name, cardIncidents);
   });
 
-  // Si hay incidentes sin carretera conocida, agrégalos al final
-  if (byRoad.has("unknown")) {
-    const unknownInc = byRoad.get("unknown");
-    const card = document.createElement("div");
-    card.className = "road-card";
-    card.innerHTML = `
-      <div class="road-card-header">
-        <span class="road-badge">???</span>
-        <span class="road-name">No operativas</span>
-        <span class="road-status-dot dot-warn"></span>
-      </div>
-      <div class="road-incidents">
-        ${unknownInc.map(inc => `
-          <div class="incident-row" data-idx="${inc._idx}">
-            <div class="inc-km">KM <span>—</span></div>
-            <div class="inc-body">
-              <div class="inc-title">${inc.title}</div>
-              <div class="inc-risk ${inc.risk}">${inc.risk.toUpperCase()}</div>
-            </div>
-          </div>`).join("")}
-      </div>
-    `;
-    card.querySelector(".road-card-header").addEventListener("click", () => {
-      card.classList.toggle("active");
-    });
-    card.querySelectorAll(".incident-row").forEach(row => {
-      row.addEventListener("click", e => {
-        e.stopPropagation();
-        const idx = parseInt(row.dataset.idx);
-        const marker = markerMap.get(idx);
-        if (marker) {
-          map.flyTo(marker.getLatLng(), 12, { duration: 1.2 });
-          setTimeout(() => marker.openPopup(), 1300);
-        }
-      });
-    });
-    listEl.appendChild(card);
+  // Incidentes de carreteras no listadas en KNOWN_ROADS
+  byKey.forEach((cardIncidents, key) => {
+    if (renderedKeys.has(key) || key === "unknown") return;
+    const roadId = cardIncidents[0]?.road;
+    renderRoadCard(listEl, roadId, `Carretera ${roadId}`, cardIncidents);
+  });
+
+  // Sin carretera detectada
+  if (byKey.has("unknown")) {
+    renderRoadCard(listEl, "???", "Sin carretera detectada", byKey.get("unknown"));
   }
+}
+function renderRoadCard(listEl, roadId, name, incidents) {
+  const hasHigh = incidents.some(i => i.risk === "high");
+  const hasAny  = incidents.length > 0;
+  const dotClass   = hasHigh ? "dot-high" : hasAny ? "dot-warn" : "dot-clear";
+  const badgeExtra = hasHigh ? " has-high" : "";
+  // Extraer subtítulo tras "MEX-XX  "
+  const subtitle = name.includes("  ") ? name.split("  ")[1] : name;
+
+  const card = document.createElement("div");
+  card.className = "road-card";
+  card.dataset.roadId = roadId;
+
+  card.innerHTML = `
+    <div class="road-card-header">
+      <span class="road-badge${badgeExtra}">MEX-${roadId}</span>
+      <span class="road-name">${subtitle}</span>
+      <span class="road-status-dot ${dotClass}"></span>
+    </div>
+    <div class="road-incidents">
+      ${incidents.length === 0
+        ? `<div class="road-clear-msg">SIN AFECTACIONES</div>`
+        : incidents.map(inc => `
+            <div class="incident-row" data-idx="${inc._idx}">
+              <div class="inc-km">KM <span>${inc.km != null ? Math.round(inc.km) : "—"}</span></div>
+              <div class="inc-body">
+                <div class="inc-title">${inc.title}</div>
+                <div class="inc-meta">
+                  <span class="inc-risk ${inc.risk}">${inc.risk.toUpperCase()}</span>
+                  <span class="inc-time">${inc.timestamp_display || ""}</span>
+                </div>
+              </div>
+            </div>`
+          ).join("")
+      }
+    </div>
+  `;
+
+  card.querySelector(".road-card-header").addEventListener("click", () => {
+    const isActive = card.classList.contains("active");
+    document.querySelectorAll(".road-card.active").forEach(c => c.classList.remove("active"));
+    if (!isActive) card.classList.add("active");
+  });
+
+  card.querySelectorAll(".incident-row").forEach(row => {
+    row.addEventListener("click", e => {
+      e.stopPropagation();
+      const idx = parseInt(row.dataset.idx);
+      const marker = markerMap.get(idx);
+      if (marker) {
+        map.flyTo(marker.getLatLng(), 12, { duration: 1.2 });
+        setTimeout(() => marker.openPopup(), 1300);
+      }
+    });
+  });
+
+  listEl.appendChild(card);
 }
 
 // ── Carga de datos ────────────────────────────────────────────────────────────
