@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T16:03:04.924534",
+  "last_update": "2026-03-11T16:26:25.550606",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre total tras #AccidenteVíal cerca del km 064+800, de la carretera Libramiento Norte. Atienda indicación vial.",
@@ -61,6 +61,58 @@
         "matehuala",
         "saltillo"
       ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 21, dirección La Tinaja. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031768700139803056#m",
+      "timestamp": "2026-03-11T16:26:21+00:00",
+      "timestamp_display": "11/03/2026 16:26 UTC",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 24, dirección Acayucan. Continúa reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031765277906501804#m",
+      "timestamp": "2026-03-11T16:12:45+00:00",
+      "timestamp_display": "11/03/2026 16:12 UTC",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAut. La Tinaja - Isla, km 112, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 112,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031764766117572658#m",
+      "timestamp": "2026-03-11T16:10:43+00:00",
+      "timestamp_display": "11/03/2026 16:10 UTC",
+      "segment": null
+    },
+    {
+      "title": "#AlertaAMBER\nCircunstancias: El 20 de noviembre de 2025, el niño OSCAR FRANCISCO CADENA CAZARES fue visto por última vez, en el municipio de Saltillo, Coahuila, sin que hasta el momento se tenga noticia de su paradero. Se considera que la integridad del niño se encuentra en riesgo toda vez que podría ser víctima de la comisión de un delito.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031764653819191445#m",
+      "timestamp": "2026-03-11T16:10:16+00:00",
+      "timestamp_display": "11/03/2026 16:10 UTC",
+      "segment": null
     },
     {
       "title": "El fentanilo puede cambiar tu vida para siempre.\nNo pongas en riesgo tu futuro.\nLas verdaderas amistades te cuidan y te apoyan para tomar mejores decisiones.\n#AléjateDeLasDrogas #ElFentaniloTeMata #EligeSerFeliz",
