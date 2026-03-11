@@ -138,22 +138,96 @@ body {
 #road-list::-webkit-scrollbar-track { background: transparent; }
 #road-list::-webkit-scrollbar-thumb { background: var(--border-hi); border-radius: 2px; }
 
-/* ── Road Card ─────────────────────────────────────────── */
-.road-card {
+/* ── Road Group (nivel carretera) ───────────────────────────────────────────── */
+.road-group {
   border-bottom: 1px solid var(--border);
-  cursor: pointer;
-  transition: background 0.15s;
 }
 
-.road-card:hover { background: rgba(0, 229, 255, 0.04); }
-.road-card.active { background: rgba(0, 229, 255, 0.07); }
-
-.road-card-header {
+.road-group-header {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   padding: 10px 16px;
+  cursor: pointer;
+  transition: background 0.15s;
+  user-select: none;
 }
+
+.road-group-header:hover  { background: rgba(0, 229, 255, 0.04); }
+.road-group.open .road-group-header { background: rgba(0, 229, 255, 0.07); }
+
+.road-chevron {
+  font-size: 8px;
+  color: var(--text-dim);
+  width: 10px;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+.road-group.open .road-chevron { color: var(--accent); }
+
+.road-inc-count {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--high);
+  margin-left: auto;
+  background: var(--high-glow);
+  padding: 1px 6px;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.road-group-body {
+  display: none;
+  border-top: 1px solid var(--border);
+}
+.road-group.open .road-group-body { display: block; }
+
+/* ── Road Segment (nivel tramo) ─────────────────────────────────────────────── */
+.road-segment { border-bottom: 1px solid var(--border); }
+.road-segment:last-child { border-bottom: none; }
+
+.seg-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px 8px 28px;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.seg-header:hover { background: rgba(255,255,255,0.03); }
+.road-segment.seg-open .seg-header { background: rgba(0,229,255,0.05); }
+
+.seg-line {
+  width: 1px;
+  height: 14px;
+  background: var(--border-hi);
+  flex-shrink: 0;
+  margin-right: 2px;
+}
+
+.seg-name {
+  font-size: 12px;
+  color: var(--text);
+  flex: 1;
+}
+
+.seg-count {
+  font-family: var(--mono);
+  font-size: 9px;
+  color: var(--warn);
+  background: rgba(255,184,0,0.12);
+  padding: 1px 5px;
+  border-radius: 8px;
+}
+
+.seg-incidents {
+  padding: 0 16px 6px 28px;
+  border-top: 1px solid var(--border);
+}
+
+/* ── Incidents list (legacy .road-incidents kept for fallback) ───────────────── */
+.road-incidents { padding: 0 16px 10px 16px; }
+
 
 .road-badge {
   font-family: var(--mono);

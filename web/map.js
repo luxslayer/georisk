@@ -1,24 +1,33 @@
 // ── Carreteras conocidas ──────────────────────────────────────────────────────
-// Agrega aquí todas las rutas que quieras monitorear.
-// "id" debe coincidir con el campo `road` en incidents.json
+// Estructura jerárquica: cada carretera tiene segmentos opcionales.
+// Si no hay segmentos, se trata como una sola unidad.
 const KNOWN_ROADS = [
-  { id: 1,   name: "MEX-1  Tijuana – Los Cabos" },
-  { id: 2,   name: "MEX-2  Tijuana – Matamoros" },
-  { id: 15, segment:["tepic", "mazatlan"],  name: "MEX-15  Tepic – Mazatlan" },
-  { id: 40,  name: "MEX-40  Mazatlán – Monterrey" },
-  { id: 45, segment:["leon", "aguascalientes"],  name: "MEX-45  León – Aguascalientes" },
-  { id: 45, segment:["juarez", "guadalajara"],  name: "MEX-45  Juárez – Guadalajara" },
-  { id: 57, segment:["puerto mexico", "ojo caliente"],  name: "MEX-57  Puerto México – Ojo Caliente"},
-  { id: 57, segment:["queretaro", "san luis potosi"],  name: "MEX-57  Querétaro – San Luis Potosí"},
-  { id: 57, segment:["matehuala", "saltillo"],  name: "MEX-57  Matehuala – Saltillo"},
-  { id: 57, segment:["monclova", "piedras negras"],  name: "MEX-57  Monclova – Piedras Negras"},
-  { id: 85,  name: "MEX-85  CDMX – Nuevo Laredo" },
-  { id: 95,  name: "MEX-95  CDMX – Acapulco" },
-  { id: 130, segment:["pachuca", "tuxpan"],  name: "MEX-130  Pachuca – Tuxpan" },
-  { id: 150, segment:["puebla", "cordoba"],  name: "MEX-150  Puebla – Cordoba" },
-  { id: 150, segment:["cdmx", "veracruz"],  name: "MEX-150  CDMX – Veracruz" },
-  { id: 180, segment:["tabasco", "cancun"],  name: "MEX-180  Tabasco – Cancún" },
-  { id: 200, segment:["nayarit", "chiapas"],  name: "MEX-200  Nayarit – Chiapas" },
+  { id: 1,   label: "MEX-1",  name: "Tijuana – Los Cabos" },
+  { id: 2,   label: "MEX-2",  name: "Tijuana – Matamoros" },
+  { id: 15,  label: "MEX-15", name: "Nogales – Guadalajara" },
+  { id: 40,  label: "MEX-40", name: "Mazatlán – Monterrey" },
+  { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara" },
+  { id: 57,  label: "MEX-57", name: "CDMX – Piedras Negras", segments: [
+    { cities: ["queretaro",    "san luis potosi"], name: "Querétaro – SLP"       },
+    { cities: ["san luis potosi", "matehuala"],   name: "SLP – Matehuala"        },
+    { cities: ["matehuala",    "saltillo"],        name: "Matehuala – Saltillo"   },
+    { cities: ["puerto mexico","ojo caliente"],    name: "Pto. México – Ojo Cal." },
+  ]},
+  { id: 85,  label: "MEX-85", name: "CDMX – Nuevo Laredo", segments: [
+    { cities: ["monterrey",    "nuevo laredo"],    name: "Monterrey – Nuevo Laredo" },
+  ]},
+  { id: 95,  label: "MEX-95",  name: "CDMX – Acapulco" },
+  { id: 130, label: "MEX-130", name: "Pachuca – Tuxpan", segments: [
+    { cities: ["pachuca",   "tulancingo"], name: "Pachuca – Tulancingo" },
+    { cities: ["tulancingo","poza rica"],  name: "Tulancingo – Poza Rica" },
+    { cities: ["poza rica", "tuxpan"],    name: "Poza Rica – Tuxpan" },
+  ]},
+  { id: 150, label: "MEX-150", name: "CDMX – Veracruz", segments: [
+    { cities: ["mexico", "puebla"],  name: "México – Puebla"  },
+    { cities: ["puebla", "veracruz"],name: "Puebla – Veracruz"},
+  ]},
+  { id: 180, label: "MEX-180", name: "Tabasco – Cancún" },
+  { id: 200, label: "MEX-200", name: "Nayarit – Chiapas" },
 ];
 
 // ── Mapa ──────────────────────────────────────────────────────────────────────
@@ -35,20 +44,36 @@ let heatPoints = [];
 // Guarda referencia a markers por incidente para hacer fly-to desde el panel
 const markerMap = new Map(); // incidente index → marker
 
-// ── Render del panel de carreteras ───────────────────────────────────────────
+// ── Helpers de agrupación ─────────────────────────────────────────────────────
 function roadKey(roadId, segment) {
-  // Clave única: "57-queretaro-san luis potosi" o "57" si no hay segmento
   return segment ? `${roadId}-${segment[0]}-${segment[1]}` : String(roadId);
 }
 
-function buildRoadPanel(incidents) {
-  // Agrupa incidentes por clave compuesta road+segment
-  const byKey = new Map();
+function incidentsForSegment(byKey, roadId, segCities) {
+  // Busca por clave exacta del segmento
+  const key = roadKey(roadId, segCities);
+  return byKey.get(key) || [];
+}
 
+function incidentsForRoad(byKey, roadId, segments) {
+  // Todos los incidentes de la carretera (con y sin segmento detectado)
+  const all = new Map();
+  // Incidentes sin segmento detectado
+  (byKey.get(String(roadId)) || []).forEach(i => all.set(i._idx, i));
+  // Incidentes de cada segmento conocido
+  if (segments) {
+    segments.forEach(seg => {
+      incidentsForSegment(byKey, roadId, seg.cities).forEach(i => all.set(i._idx, i));
+    });
+  }
+  return [...all.values()];
+}
+
+// ── Panel jerárquico ──────────────────────────────────────────────────────────
+function buildRoadPanel(incidents) {
+  const byKey = new Map();
   incidents.forEach((inc, idx) => {
-    const key = inc.road != null
-      ? roadKey(inc.road, inc.segment)
-      : "unknown";
+    const key = inc.road != null ? roadKey(inc.road, inc.segment) : "unknown";
     if (!byKey.has(key)) byKey.set(key, []);
     byKey.get(key).push({ ...inc, _idx: idx });
   });
@@ -59,82 +84,161 @@ function buildRoadPanel(incidents) {
   const listEl = document.getElementById("road-list");
   listEl.innerHTML = "";
 
-  // Construir cards iterando KNOWN_ROADS directamente (permite duplicados de id)
-  const renderedKeys = new Set();
+  const renderedRoads = new Set();
 
-  KNOWN_ROADS.forEach(roadInfo => {
-    const key = roadInfo.segment
-      ? roadKey(roadInfo.id, roadInfo.segment)
-      : String(roadInfo.id);
-
-    // Recoger incidentes: los que matchean por clave exacta
-    // + los del mismo road sin segmento definido (compatibilidad)
-    const exact   = byKey.get(key) || [];
-    const generic = roadInfo.segment ? [] : (byKey.get(String(roadInfo.id)) || []);
-    const cardIncidents = [...new Map(
-      [...exact, ...generic].map(i => [i._idx, i])
-    ).values()];
-
-    renderedKeys.add(key);
-    renderRoadCard(listEl, roadInfo.id, roadInfo.name, cardIncidents);
+  KNOWN_ROADS.forEach(road => {
+    renderedRoads.add(road.id);
+    const allInc = incidentsForRoad(byKey, road.id, road.segments);
+    renderRoadGroup(listEl, road, byKey, allInc);
   });
 
-  // Incidentes de carreteras no listadas en KNOWN_ROADS
-  byKey.forEach((cardIncidents, key) => {
-    if (renderedKeys.has(key) || key === "unknown") return;
-    const roadId = cardIncidents[0]?.road;
-    renderRoadCard(listEl, roadId, `Carretera ${roadId}`, cardIncidents);
+  // Carreteras con incidentes no listadas en KNOWN_ROADS
+  byKey.forEach((inc, key) => {
+    if (key === "unknown") return;
+    const roadId = inc[0]?.road;
+    if (roadId != null && !renderedRoads.has(roadId)) {
+      const syntheticRoad = { id: roadId, label: `MEX-${roadId}`, name: `Carretera ${roadId}` };
+      renderRoadGroup(listEl, syntheticRoad, byKey, inc);
+    }
   });
 
   // Sin carretera detectada
   if (byKey.has("unknown")) {
-    renderRoadCard(listEl, "???", "Sin carretera detectada", byKey.get("unknown"));
+    const syntheticRoad = { id: "???", label: "???", name: "Sin carretera detectada" };
+    renderRoadGroup(listEl, syntheticRoad, byKey, byKey.get("unknown"));
   }
 }
-function renderRoadCard(listEl, roadId, name, incidents) {
-  const hasHigh = incidents.some(i => i.risk === "high");
-  const hasAny  = incidents.length > 0;
+
+// ── Renderiza una carretera con sus segmentos ─────────────────────────────────
+function renderRoadGroup(listEl, road, byKey, allIncidents) {
+  const hasHigh = allIncidents.some(i => i.risk === "high");
+  const hasAny  = allIncidents.length > 0;
   const dotClass   = hasHigh ? "dot-high" : hasAny ? "dot-warn" : "dot-clear";
   const badgeExtra = hasHigh ? " has-high" : "";
-  // Extraer subtítulo tras "MEX-XX  "
-  const subtitle = name.includes("  ") ? name.split("  ")[1] : name;
+  const incCount   = hasAny ? `<span class="road-inc-count">${allIncidents.length}</span>` : "";
 
-  const card = document.createElement("div");
-  card.className = "road-card";
-  card.dataset.roadId = roadId;
+  const group = document.createElement("div");
+  group.className = "road-group";
 
-  card.innerHTML = `
-    <div class="road-card-header">
-      <span class="road-badge${badgeExtra}">MEX-${roadId}</span>
-      <span class="road-name">${subtitle}</span>
+  // ── Cabecera de la carretera ──
+  group.innerHTML = `
+    <div class="road-group-header">
+      <span class="road-chevron">▶</span>
+      <span class="road-badge${badgeExtra}">${road.label}</span>
+      <span class="road-name">${road.name}</span>
       <span class="road-status-dot ${dotClass}"></span>
+      ${incCount}
     </div>
-    <div class="road-incidents">
-      ${incidents.length === 0
-        ? `<div class="road-clear-msg">SIN AFECTACIONES</div>`
-        : incidents.map(inc => `
-            <div class="incident-row" data-idx="${inc._idx}">
-              <div class="inc-km">KM <span>${inc.km != null ? Math.round(inc.km) : "—"}</span></div>
-              <div class="inc-body">
-                <div class="inc-title">${inc.title}</div>
-                <div class="inc-meta">
-                  <span class="inc-risk ${inc.risk}">${inc.risk.toUpperCase()}</span>
-                  <span class="inc-time">${inc.timestamp_display || ""}</span>
-                </div>
-              </div>
-            </div>`
-          ).join("")
-      }
-    </div>
+    <div class="road-group-body"></div>
   `;
 
-  card.querySelector(".road-card-header").addEventListener("click", () => {
-    const isActive = card.classList.contains("active");
-    document.querySelectorAll(".road-card.active").forEach(c => c.classList.remove("active"));
-    if (!isActive) card.classList.add("active");
+  const header = group.querySelector(".road-group-header");
+  const body   = group.querySelector(".road-group-body");
+  const chevron = group.querySelector(".road-chevron");
+
+  // ── Segmentos (si los hay) ──
+  if (road.segments && road.segments.length > 0) {
+    road.segments.forEach(seg => {
+      const segInc = incidentsForSegment(byKey, road.id, seg.cities);
+      const segHasHigh = segInc.some(i => i.risk === "high");
+      const segHasAny  = segInc.length > 0;
+      const segDot     = segHasHigh ? "dot-high" : segHasAny ? "dot-warn" : "dot-clear";
+
+      const segEl = document.createElement("div");
+      segEl.className = "road-segment";
+      segEl.innerHTML = `
+        <div class="seg-header">
+          <span class="seg-line"></span>
+          <span class="road-status-dot ${segDot}" style="width:6px;height:6px"></span>
+          <span class="seg-name">${seg.name}</span>
+          ${segHasAny ? `<span class="seg-count">${segInc.length}</span>` : ""}
+        </div>
+        <div class="seg-incidents" style="display:none">
+          ${segInc.length === 0
+            ? `<div class="road-clear-msg">SIN AFECTACIONES</div>`
+            : segInc.map(inc => incidentRowHTML(inc)).join("")}
+        </div>
+      `;
+
+      // Toggle incidentes del segmento
+      segEl.querySelector(".seg-header").addEventListener("click", e => {
+        e.stopPropagation();
+        const panel = segEl.querySelector(".seg-incidents");
+        const isOpen = panel.style.display !== "none";
+        panel.style.display = isOpen ? "none" : "block";
+        segEl.classList.toggle("seg-open", !isOpen);
+      });
+
+      attachIncidentClicks(segEl);
+      body.appendChild(segEl);
+    });
+
+    // Incidentes sin segmento detectado (road genérico)
+    const generic = byKey.get(String(road.id)) || [];
+    if (generic.length > 0) {
+      const segEl = document.createElement("div");
+      segEl.className = "road-segment";
+      segEl.innerHTML = `
+        <div class="seg-header">
+          <span class="seg-line"></span>
+          <span class="road-status-dot dot-warn" style="width:6px;height:6px"></span>
+          <span class="seg-name" style="color:var(--text-dim)">Tramo sin detectar</span>
+          <span class="seg-count">${generic.length}</span>
+        </div>
+        <div class="seg-incidents" style="display:none">
+          ${generic.map(inc => incidentRowHTML(inc)).join("")}
+        </div>
+      `;
+      segEl.querySelector(".seg-header").addEventListener("click", e => {
+        e.stopPropagation();
+        const panel = segEl.querySelector(".seg-incidents");
+        panel.style.display = panel.style.display !== "none" ? "none" : "block";
+      });
+      attachIncidentClicks(segEl);
+      body.appendChild(segEl);
+    }
+
+  } else {
+    // Sin segmentos: mostrar incidentes directamente
+    body.innerHTML = allIncidents.length === 0
+      ? `<div class="road-clear-msg" style="padding:8px 16px">SIN AFECTACIONES</div>`
+      : allIncidents.map(inc => incidentRowHTML(inc)).join("");
+    body.querySelectorAll && attachIncidentClicks(body);
+  }
+
+  // Toggle apertura del grupo
+  header.addEventListener("click", () => {
+    const isOpen = group.classList.contains("open");
+    document.querySelectorAll(".road-group.open").forEach(g => {
+      g.classList.remove("open");
+      g.querySelector(".road-chevron").textContent = "▶";
+    });
+    if (!isOpen) {
+      group.classList.add("open");
+      chevron.textContent = "▼";
+    }
   });
 
-  card.querySelectorAll(".incident-row").forEach(row => {
+  listEl.appendChild(group);
+}
+
+// ── HTML de una fila de incidente ─────────────────────────────────────────────
+function incidentRowHTML(inc) {
+  return `
+    <div class="incident-row" data-idx="${inc._idx}">
+      <div class="inc-km">KM <span>${inc.km != null ? Math.round(inc.km) : "—"}</span></div>
+      <div class="inc-body">
+        <div class="inc-title">${inc.title}</div>
+        <div class="inc-meta">
+          <span class="inc-risk ${inc.risk}">${inc.risk.toUpperCase()}</span>
+          <span class="inc-time">${inc.timestamp_display || ""}</span>
+        </div>
+      </div>
+    </div>`;
+}
+
+function attachIncidentClicks(container) {
+  container.querySelectorAll(".incident-row").forEach(row => {
     row.addEventListener("click", e => {
       e.stopPropagation();
       const idx = parseInt(row.dataset.idx);
@@ -145,9 +249,8 @@ function renderRoadCard(listEl, roadId, name, incidents) {
       }
     });
   });
-
-  listEl.appendChild(card);
 }
+
 
 // ── Carga de datos ────────────────────────────────────────────────────────────
 fetch("/georisk/incidents.json?nocache=" + Date.now())
