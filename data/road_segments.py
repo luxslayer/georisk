@@ -28,6 +28,13 @@ road_segments = {
             "km_end": 250,
             "coord_start": (30.5575, -111.1620),  
             "coord_end":   (31.8371, -112.8646),
+        },
+        {
+            "cities": ("sonoyta", "san luis rio colorado"),
+            "km_start": 0,
+            "km_end": 250,
+            "coord_start": (31.8740, -112.8500 ),  
+            "coord_end":   (),
         }
     ],
     

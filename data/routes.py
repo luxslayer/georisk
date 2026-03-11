@@ -3,6 +3,7 @@ routes = {
     ("janos","agua prieta"):2,
     ("agua prieta","imuris"):2,
     ("santa ana","sonoyta"):2,
+    ("sonoyta","san luis rio colorado"):2,
     ("morelia","patzcuaro"):14, 
     ("maravatio","zapotlanejo"):15,
     ("tepic","mazatlan"):15,
