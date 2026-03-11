@@ -3,7 +3,8 @@
 // Si no hay segmentos, se trata como una sola unidad.
 const KNOWN_ROADS = [
   { id: 2,   label: "MEX-2",  name: "Ciudad Juárez – Tijuana", segments: [
-    { cities: ["ciudad juarez",    "janos"], name: "Ciudad Juárez – Janos"  },
+    { cities: ["ciudad juarez",    "janos"], name: "Ciudad Juárez – Janos"},
+    { cities: ["janos",    "agua prieta"], name: "Janos – Agua Prieta"},
   ]},
   { id: 15,  label: "MEX-15", name: "Nogales – Guadalajara" },
   { id: 40,  label: "MEX-40", name: "Mazatlán – Monterrey" },

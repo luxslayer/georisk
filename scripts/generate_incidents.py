@@ -20,6 +20,7 @@ incidents = []
 TWITTER_RSS = [
     "https://nitter.net/GN_Carreteras/rss",
     "https://nitter.net/CAPUFE/rss",
+    "https://nitter.net/arconorte/rss"
 ]
 
 RISK_WORDS = [

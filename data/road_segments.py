@@ -15,6 +15,13 @@ road_segments = {
             "coord_start": (30.8926, -108.2297),  
             "coord_end":   (31.3190, -109.5159),
         },
+        {
+            "cities": ("agua prieta", "agua imuris"),
+            "km_start": 4,
+            "km_end": 162,
+            "coord_start": (30.7863, -110.8469),  
+            "coord_end":   (),
+        }
     ],
     
     15:[
