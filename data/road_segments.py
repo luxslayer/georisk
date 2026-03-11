@@ -34,7 +34,14 @@ road_segments = {
             "km_end":    235,
             "coord_start": (25.1741, -100.7284),  
             "coord_end":   (25.4267, -100.8048),
-        } 
+        }, 
+        {
+            "cities":    ("Matehuala", "Saltillo"),
+            "km_start":  0,
+            "km_end":    200,
+            "coord_start": (23.5920, -100.6322),  
+            "coord_end":   (25.1674, -100.7193),
+        }
     ],
 
     85: [
