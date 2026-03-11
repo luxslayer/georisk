@@ -257,6 +257,7 @@ def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
 
     # Ciudades mencionadas
     cities_found = detect_cities(title)
+    print("DETECTED CITIES:", cities_found)
 
     # Carretera
     road = None

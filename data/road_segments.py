@@ -36,7 +36,7 @@ road_segments = {
             "coord_end":   (25.4267, -100.8048),
         }, 
         {
-            "cities":    ("Matehuala", "Saltillo"),
+            "cities":    ("matehuala", "saltillo"),
             "km_start":  0,
             "km_end":    200,
             "coord_start": (23.5920, -100.6322),  
