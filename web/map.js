@@ -8,7 +8,9 @@ const KNOWN_ROADS = [
   ]},
   { id: 15,  label: "MEX-15", name: "Nogales – Guadalajara" },
   { id: 40,  label: "MEX-40", name: "Mazatlán – Monterrey" },
-  { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara" },
+  { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara", segments: [ 
+    { cities: ["leon",    "aguascalientes"], name: "León – Aguascalientes" },
+  ] },
   { id: 57,  label: "MEX-57", name: "México – Piedras Negras", segments: [
     { cities: ["mexico",    "queretaro"], name: "CDMX – Querétaro"       },
     { cities: ["queretaro",    "san luis potosi"], name: "Querétaro – SLP"       },
