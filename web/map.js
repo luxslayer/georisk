@@ -5,6 +5,8 @@ const KNOWN_ROADS = [
   { id: 2,   label: "MEX-2",  name: "Ciudad Juárez – Tijuana", segments: [
     { cities: ["ciudad juarez",    "janos"], name: "Ciudad Juárez – Janos"},
     { cities: ["janos",    "agua prieta"], name: "Janos – Agua Prieta"},
+    { cities: ["agua prieta",    "imuris"], name: "Agua Prieta – Imuris"},
+    { cities: ["santa ana",    "sonoyta"], name: "Santa Ana – Sonoyta"},
   ]},
   { id: 15,  label: "MEX-15", name: "Nogales – Guadalajara" },
   { id: 40,  label: "MEX-40", name: "Mazatlán – Monterrey" },

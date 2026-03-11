@@ -50,6 +50,8 @@ cities = {
     "salina cruz": (16.17,-95.20),
     "saltillo":(25.4267,-101.0053),
     "san miguel de allende":(20.91, -100.74),
+    "santa ana":(30.5391, -111.1212),
+    "sonoyta":(),
     "tapanatepec": (16.3708, -94.1936),
     "tepic":(21.502, -104.890),
     "tecoman":(18.912, -103.874),
