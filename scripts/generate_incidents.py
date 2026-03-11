@@ -233,9 +233,9 @@ def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
     dt = parse_pubdate(pub_date)
     now_utc = datetime.now(timezone.utc)
 
-    # Filtrar incidentes con más de 24 horas
-    if dt and (now_utc - dt) > timedelta(hours=24):
-        print(f"SKIP (>24h): {title}")
+    # Filtrar incidentes con más de 3 horas
+    if dt and (now_utc - dt) > timedelta(hours=3):
+        print(f"SKIP (>3h): {title}")
         return
 
     timestamp_iso = dt.isoformat() if dt else None
