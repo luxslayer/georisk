@@ -1,6 +1,66 @@
 {
-  "last_update": "2026-03-11T02:44:32.863922",
+  "last_update": "2026-03-11T04:24:52.821020",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVíal cerca del km 074+000, de la carretera México-Hidalgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 74.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031580969262788897#m",
+      "timestamp": "2026-03-11T04:00:22+00:00",
+      "timestamp_display": "11/03/2026 04:00 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 287+500, de la carretera Coatzacoalcos-Salina Cruz, sin ruta alterna. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 287.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031577275368362466#m",
+      "timestamp": "2026-03-11T03:45:41+00:00",
+      "timestamp_display": "11/03/2026 03:45 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 159+700, de la carretera Tulancingo Tihuatlán-Ávila Camacho. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 159.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031568692753072495#m",
+      "timestamp": "2026-03-11T03:11:35+00:00",
+      "timestamp_display": "11/03/2026 03:11 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVíal cerca del km 126+700, de la carretera Gómez Palacio-Jiménez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 126.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031566457310749181#m",
+      "timestamp": "2026-03-11T03:02:42+00:00",
+      "timestamp_display": "11/03/2026 03:02 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Yucatán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 010+000, de la carretera Campeche-Mérida. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031563425281667483#m",
+      "timestamp": "2026-03-11T02:50:39+00:00",
+      "timestamp_display": "11/03/2026 02:50 UTC"
+    },
     {
       "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVíal cerca del km 079+900, de la carretera  Monterrey-Reynosa. Atienda indicación vial.",
       "type": "twitter",
@@ -182,64 +242,28 @@
       "timestamp_display": "10/03/2026 17:11 UTC"
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca, sin ruta alterna. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 62. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
       "road": null,
-      "km": 28.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031409578626396512#m",
-      "timestamp": "2026-03-10T16:39:19+00:00",
-      "timestamp_display": "10/03/2026 16:39 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #MIchoacán se registra cierre total de circulación por #AccidenteVíal cerca del km 174+700, de la carretera Maravatío Zapotlanejo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": 15,
-      "km": 174.7,
+      "km": 62,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031399610313498899#m",
-      "timestamp": "2026-03-10T15:59:43+00:00",
-      "timestamp_display": "10/03/2026 15:59 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031587121891520542#m",
+      "timestamp": "2026-03-11T04:24:49+00:00",
+      "timestamp_display": "11/03/2026 04:24 UTC"
     },
     {
-      "title": "#TomePrecauciones en #Querétaro se registra cierre total de circulación por presencia de personas cerca del km 026+950, de la carretera Libramiento sur poniente de Querétaro, sin ruta alterna. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gómez Palacio - Corralitos, km 127. Continúa circulación a contraflujo por atención de accidente (incendio de tracto camión). Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 26.95,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031393427804271103#m",
-      "timestamp": "2026-03-10T15:35:09+00:00",
-      "timestamp_display": "10/03/2026 15:35 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVíal cerca del km 002+500, de la carretera Hermosillo-Cd. Obregón. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 2.5,
+      "km": 127,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031386574961709559#m",
-      "timestamp": "2026-03-10T15:07:55+00:00",
-      "timestamp_display": "10/03/2026 15:07 UTC"
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por presencia de personas cerca del km 042+800, de la carretera México-Querétaro, a la altura de la caseta de cobro Tepotzotlán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 42.8,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031377089157341426#m",
-      "timestamp": "2026-03-10T14:30:13+00:00",
-      "timestamp_display": "10/03/2026 14:30 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031567102063047062#m",
+      "timestamp": "2026-03-11T03:05:16+00:00",
+      "timestamp_display": "11/03/2026 03:05 UTC"
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Continúa reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -456,30 +480,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031509335533080882#m",
       "timestamp": "2026-03-10T23:15:43+00:00",
       "timestamp_display": "10/03/2026 23:15 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 21, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031501662792331671#m",
-      "timestamp": "2026-03-10T22:45:14+00:00",
-      "timestamp_display": "10/03/2026 22:45 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 165, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 165,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031499190807965903#m",
-      "timestamp": "2026-03-10T22:35:25+00:00",
-      "timestamp_display": "10/03/2026 22:35 UTC"
     }
   ]
 }
