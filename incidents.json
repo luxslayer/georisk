@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-11T23:27:34.481071",
+  "last_update": "2026-03-11T23:51:59.378370",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 091+500, de la carretera Xalapa - Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.54,
+      "lng": -96.92,
+      "road": null,
+      "km": 91.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031878694898188311#m",
+      "timestamp": "2026-03-11T23:43:26+00:00",
+      "timestamp_display": "11/03/2026 23:43 UTC",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Nayarit tras #AccidenteVíal cerca del km 089+800, de la autopista Guadalajara - Tepic. Maneje con precaución.",
       "type": "twitter",
@@ -64,35 +77,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2031843418352336958#m",
       "timestamp": "2026-03-11T21:23:15+00:00",
       "timestamp_display": "11/03/2026 21:23 UTC",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial tras #AccidenteVial cerca del km 073+300, de la autopista Monterrey - Nuevo Laredo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 26.294234792235716,
-      "lng": -100.08419119315563,
-      "road": 85,
-      "km": 53.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031833673259974962#m",
-      "timestamp": "2026-03-11T20:44:32+00:00",
-      "timestamp_display": "11/03/2026 20:44 UTC",
-      "segment": [
-        "monterrey",
-        "nuevo laredo"
-      ]
-    },
-    {
-      "title": "#Tomeprecauciones en #Guanajuato se registra cierre parcial tras #AccidenteVial cerca del km 092+200, de la carretera Celaya - Ojuelos. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.52,
-      "lng": -100.81,
-      "road": null,
-      "km": 92.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031831642898063623#m",
-      "timestamp": "2026-03-11T20:36:27+00:00",
-      "timestamp_display": "11/03/2026 20:36 UTC",
       "segment": null
     },
     {
@@ -174,19 +158,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 162,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031860390939017409#m",
-      "timestamp": "2026-03-11T22:30:41+00:00",
-      "timestamp_display": "11/03/2026 22:30 UTC",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
@@ -236,6 +207,19 @@
       "url": "https://nitter.net/CAPUFE/status/2031861038363394122#m",
       "timestamp": "2026-03-11T22:33:16+00:00",
       "timestamp_display": "11/03/2026 22:33 UTC",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 162,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031860390939017409#m",
+      "timestamp": "2026-03-11T22:30:41+00:00",
+      "timestamp_display": "11/03/2026 22:30 UTC",
       "segment": null
     },
     {
@@ -340,6 +324,19 @@
       "url": "https://nitter.net/CAPUFE/status/2031846669852295551#m",
       "timestamp": "2026-03-11T21:36:10+00:00",
       "timestamp_display": "11/03/2026 21:36 UTC",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 162,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031845119482343585#m",
+      "timestamp": "2026-03-11T21:30:00+00:00",
+      "timestamp_display": "11/03/2026 21:30 UTC",
       "segment": null
     },
     {
