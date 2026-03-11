@@ -41,6 +41,13 @@ road_segments = {
             "km_end":    200,
             "coord_start": (23.5920, -100.6322),  
             "coord_end":   (25.1674, -100.7193),
+        },
+        {
+            "cities":    ("monclova", "piedras negras"),
+            "km_start":  7,
+            "km_end":    200,
+            "coord_start": (26.9592, -101.4037),  
+            "coord_end":   (28.6234, -100.5676),
         }
     ],
 
