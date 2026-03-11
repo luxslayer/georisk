@@ -111,7 +111,7 @@ function buildRoadPanel(incidents) {
 
   // Sin carretera detectada
   if (byKey.has("unknown")) {
-    const syntheticRoad = { id: "???", label: "???", name: "Sin carretera detectada" };
+    const syntheticRoad = { id: "???", label: "???", name: "No operativas" };
     renderRoadGroup(listEl, syntheticRoad, byKey, byKey.get("unknown"));
   }
 }
