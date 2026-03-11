@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-11T22:28:13.681241",
+  "last_update": "2026-03-11T22:52:31.974601",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Nayarit tras #AccidenteVíal cerca del km 089+800, de la autopista Guadalajara - Tepic. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 89.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031864686182862984#m",
+      "timestamp": "2026-03-11T22:47:46+00:00",
+      "timestamp_display": "11/03/2026 22:47 UTC",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Queretaro se registra cierre total tras #AccidenteVial cerca del km 161+100, de la carretera México - Querétaro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 161.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031860646799663457#m",
+      "timestamp": "2026-03-11T22:31:42+00:00",
+      "timestamp_display": "11/03/2026 22:31 UTC",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Guanajuato tras #AccidenteVial cerca del km 092+200, de la carretera Celaya - Ojuelos. Maneje con precaución.",
       "type": "twitter",
@@ -84,6 +110,71 @@
         "puebla",
         "cordoba"
       ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 162,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031860390939017409#m",
+      "timestamp": "2026-03-11T22:30:41+00:00",
+      "timestamp_display": "11/03/2026 22:30 UTC",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 162,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031865397872587144#m",
+      "timestamp": "2026-03-11T22:50:35+00:00",
+      "timestamp_display": "11/03/2026 22:50 UTC",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031863478752043351#m",
+      "timestamp": "2026-03-11T22:42:58+00:00",
+      "timestamp_display": "11/03/2026 22:42 UTC",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 70, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 70,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031863182927736981#m",
+      "timestamp": "2026-03-11T22:41:47+00:00",
+      "timestamp_display": "11/03/2026 22:41 UTC",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 70, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 70,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031861038363394122#m",
+      "timestamp": "2026-03-11T22:33:16+00:00",
+      "timestamp_display": "11/03/2026 22:33 UTC",
+      "segment": null
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴  \nAutopista Querétaro - Irapuato, km 73, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -190,19 +281,6 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoQuerétaro, km 162, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 162,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031845119482343585#m",
-      "timestamp": "2026-03-11T21:30:00+00:00",
-      "timestamp_display": "11/03/2026 21:30 UTC",
-      "segment": null
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 21, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -268,42 +346,16 @@
       "segment": null
     },
     {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "title": "🔴CIERRE DE CIRCULACIÓN🔴\n\n⚠️ #IncidenteVial en #ArcoNorte\n\n📍Km 066+100 en sentido a Texmelucan.\n🛣️Tramo Querétaro - Tula 2.\n🟠Tome rutas alternas.\n🟠Ultima salida dirección Puebla, si viene de Atlacomulco es: Querétaro.\n\nInformes:*⃣2⃣6⃣8⃣",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 224,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031820427895435655#m",
-      "timestamp": "2026-03-11T19:51:54+00:00",
-      "timestamp_display": "11/03/2026 19:51 UTC",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Puebla - Acatzingo, km 134. Se informa a las personas usuarias que se retiran los manifestantes. En la zona se restablece la circulación en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 134,
+      "km": 66.1,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031819643745190089#m",
-      "timestamp": "2026-03-11T19:48:47+00:00",
-      "timestamp_display": "11/03/2026 19:48 UTC",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧  \nAut. La Carbonera - Puerto México, del km 228 al 231, dirección La Carbonera. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 228,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031816154885603458#m",
-      "timestamp": "2026-03-11T19:34:55+00:00",
-      "timestamp_display": "11/03/2026 19:34 UTC",
+      "url": "https://nitter.net/arconorte/status/2031861911055179827#m",
+      "timestamp": "2026-03-11T22:36:44+00:00",
+      "timestamp_display": "11/03/2026 22:36 UTC",
       "segment": null
     },
     {
