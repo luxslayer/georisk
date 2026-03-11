@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-11T16:26:25.550606",
+  "last_update": "2026-03-11T17:11:04.830308",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Morelos se registra cierre parcial tras presencia de personas cerca del km 080+000, de la carretera México - Cuernavaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 80.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031769515407655229#m",
+      "timestamp": "2026-03-11T16:29:35+00:00",
+      "timestamp_display": "11/03/2026 16:29 UTC",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre total tras #AccidenteVíal cerca del km 064+800, de la carretera Libramiento Norte. Atienda indicación vial.",
       "type": "twitter",
@@ -47,20 +60,17 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #SanLuisPotosí continúa cierre de circulación parcial por conclusión de maniobras tras #AccidenteVíal cerca del km 011+500, de la carretera Matehuala-Saltillo. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.68044494128338,
-      "lng": -100.60950336689487,
-      "road": 57,
-      "km": 11.5,
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 141,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031726989762007175#m",
-      "timestamp": "2026-03-11T13:40:36+00:00",
-      "timestamp_display": "11/03/2026 13:40 UTC",
-      "segment": [
-        "matehuala",
-        "saltillo"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2031772932264051127#m",
+      "timestamp": "2026-03-11T16:43:10+00:00",
+      "timestamp_display": "11/03/2026 16:43 UTC",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 21, dirección La Tinaja. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
@@ -255,19 +265,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031747796211028470#m",
       "timestamp": "2026-03-11T15:03:17+00:00",
       "timestamp_display": "11/03/2026 15:03 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Continúa reducción de carriles por atención del accidente (volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 224,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031733018755252250#m",
-      "timestamp": "2026-03-11T14:04:34+00:00",
-      "timestamp_display": "11/03/2026 14:04 UTC",
       "segment": null
     }
   ]
