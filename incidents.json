@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T07:32:04.752842",
+  "last_update": "2026-03-11T08:22:11.951105",
   "incidents": [
     {
       "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial.",
@@ -242,6 +242,42 @@
       "timestamp_display": "10/03/2026 19:31 UTC"
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 41, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque contra muro central). Dirección Cuernavaca, opera de manera normal. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 41,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031642644095402293#m",
+      "timestamp": "2026-03-11T08:05:27+00:00",
+      "timestamp_display": "11/03/2026 08:05 UTC"
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 224,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031638970568704283#m",
+      "timestamp": "2026-03-11T07:50:51+00:00",
+      "timestamp_display": "11/03/2026 07:50 UTC"
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Gómez Palacio - Corralitos, km 127. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 127,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031636656764211221#m",
+      "timestamp": "2026-03-11T07:41:39+00:00",
+      "timestamp_display": "11/03/2026 07:41 UTC"
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 41. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -254,16 +290,16 @@
       "timestamp_display": "11/03/2026 07:28 UTC"
     },
     {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 62. Cierre a la circulación en ambos sentidos por atención de choque por alcance entre tracto camión y camioneta. Toma tus precauciones.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/ZvAkF5JocccAyFvf6",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
       "road": null,
       "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031624617903689794#m",
-      "timestamp": "2026-03-11T06:53:49+00:00",
-      "timestamp_display": "11/03/2026 06:53 UTC"
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031594628320022632#m",
+      "timestamp": "2026-03-11T04:54:39+00:00",
+      "timestamp_display": "11/03/2026 04:54 UTC"
     },
     {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular en ambos sentidos.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
@@ -278,16 +314,16 @@
       "timestamp_display": "11/03/2026 06:05 UTC"
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos.\nEl personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
       "road": null,
       "km": 62,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031610032559636768#m",
-      "timestamp": "2026-03-11T05:55:51+00:00",
-      "timestamp_display": "11/03/2026 05:55 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031624617903689794#m",
+      "timestamp": "2026-03-11T06:53:49+00:00",
+      "timestamp_display": "11/03/2026 06:53 UTC"
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 102, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
@@ -314,18 +350,6 @@
       "timestamp_display": "11/03/2026 05:30 UTC"
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 62. Cierre a la circulación en ambos sentidos por atención de choque por alcance entre tracto camión y camioneta. Toma tus precauciones.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/ZvAkF5JocccAyFvf6",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 62,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031594628320022632#m",
-      "timestamp": "2026-03-11T04:54:39+00:00",
-      "timestamp_display": "11/03/2026 04:54 UTC"
-    },
-    {
       "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -336,6 +360,18 @@
       "url": "https://nitter.net/CAPUFE/status/2031589846385569864#m",
       "timestamp": "2026-03-11T04:35:39+00:00",
       "timestamp_display": "11/03/2026 04:35 UTC"
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2031529844895310286#m",
+      "timestamp": "2026-03-11T00:37:13+00:00",
+      "timestamp_display": "11/03/2026 00:37 UTC"
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Las Choapas - Ocozocoautla, km 156. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución.",
@@ -432,42 +468,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031538503616704994#m",
       "timestamp": "2026-03-11T01:11:38+00:00",
       "timestamp_display": "11/03/2026 01:11 UTC"
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Chamapa - Lechería, km 21, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031536625717588363#m",
-      "timestamp": "2026-03-11T01:04:10+00:00",
-      "timestamp_display": "11/03/2026 01:04 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031536411296338225#m",
-      "timestamp": "2026-03-11T01:03:19+00:00",
-      "timestamp_display": "11/03/2026 01:03 UTC"
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031535159275581675#m",
-      "timestamp": "2026-03-11T00:58:20+00:00",
-      "timestamp_display": "11/03/2026 00:58 UTC"
     }
   ]
 }
