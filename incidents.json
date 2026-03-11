@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T06:33:30.128030",
+  "last_update": "2026-03-11T07:32:04.752842",
   "incidents": [
     {
       "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial.",
@@ -242,6 +242,30 @@
       "timestamp_display": "10/03/2026 19:31 UTC"
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 41. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 41,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031633289371595147#m",
+      "timestamp": "2026-03-11T07:28:16+00:00",
+      "timestamp_display": "11/03/2026 07:28 UTC"
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 62,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031624617903689794#m",
+      "timestamp": "2026-03-11T06:53:49+00:00",
+      "timestamp_display": "11/03/2026 06:53 UTC"
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 62. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular en ambos sentidos.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
@@ -444,30 +468,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031535159275581675#m",
       "timestamp": "2026-03-11T00:58:20+00:00",
       "timestamp_display": "11/03/2026 00:58 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Las Choapas - Ocozocoautla, km 156. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 156,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031533282962128944#m",
-      "timestamp": "2026-03-11T00:50:53+00:00",
-      "timestamp_display": "11/03/2026 00:50 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 275, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 275,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031531474835357766#m",
-      "timestamp": "2026-03-11T00:43:42+00:00",
-      "timestamp_display": "11/03/2026 00:43 UTC"
     }
   ]
 }
