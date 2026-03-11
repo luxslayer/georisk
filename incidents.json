@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-03-11T18:04:23.254987",
+  "last_update": "2026-03-11T18:09:08.852540",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre total tras presencia de personas cerca del km 134+500, de la carretera Puebla - Córdoba. Se orienta a la cuidadania #rutaalterna por la carretera Libre Tehuacán - Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.065326852522833,
+      "lng": -98.10734012733462,
+      "road": 150,
+      "km": 25.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031785401963196576#m",
+      "timestamp": "2026-03-11T17:32:43+00:00",
+      "timestamp_display": "11/03/2026 17:32 UTC",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Morelos se registra cierre parcial tras presencia de personas cerca del km 080+000, de la carretera México - Cuernavaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 80.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031769515407655229#m",
+      "timestamp": "2026-03-11T16:29:35+00:00",
+      "timestamp_display": "11/03/2026 16:29 UTC",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre total tras #AccidenteVíal cerca del km 064+800, de la carretera Libramiento Norte. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 64.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031754355393863757#m",
+      "timestamp": "2026-03-11T15:29:21+00:00",
+      "timestamp_display": "11/03/2026 15:29 UTC",
+      "segment": null
+    },
     {
       "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, km 165, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
