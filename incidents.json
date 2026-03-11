@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-03-11T13:22:41.119138",
+  "last_update": "2026-03-11T13:41:17.398295",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí continúa cierre de circulación parcial por conclusión de maniobras tras #AccidenteVíal cerca del km 011+500, de la carretera Matehuala-Saltillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.68044494128338,
+      "lng": -100.60950336689487,
+      "road": 57,
+      "km": 11.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031726989762007175#m",
+      "timestamp": "2026-03-11T13:40:36+00:00",
+      "timestamp_display": "11/03/2026 13:40 UTC",
+      "segment": [
+        "matehuala",
+        "saltillo"
+      ]
+    },
     {
       "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca. Atienda indicación vial.",
       "type": "twitter",
@@ -43,15 +59,18 @@
     {
       "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre total de circulación por #AccidenteVíal cerca del km 011+500, de la carretera Matehuala-Saltillo, ruta alterna carretera Matehuala-SLP. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 23.66670706390814,
-      "lng": -100.60772418316549,
+      "lat": 23.68044494128338,
+      "lng": -100.60950336689487,
       "road": 57,
       "km": 11.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031707801907610016#m",
       "timestamp": "2026-03-11T12:24:21+00:00",
       "timestamp_display": "11/03/2026 12:24 UTC",
-      "segment": null
+      "segment": [
+        "matehuala",
+        "saltillo"
+      ]
     },
     {
       "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
@@ -103,19 +122,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031695977627701441#m",
       "timestamp": "2026-03-11T11:37:22+00:00",
       "timestamp_display": "11/03/2026 11:37 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (volcadura de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 224,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031677378800283977#m",
-      "timestamp": "2026-03-11T10:23:28+00:00",
-      "timestamp_display": "11/03/2026 10:23 UTC",
       "segment": null
     }
   ]
