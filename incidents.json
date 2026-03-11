@@ -1,6 +1,54 @@
 {
-  "last_update": "2026-03-11T11:48:01.840360",
+  "last_update": "2026-03-11T13:03:23.683135",
   "incidents": [
+    {
+      "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 28.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031713843643105433#m",
+      "timestamp": "2026-03-11T12:48:22+00:00",
+      "timestamp_display": "11/03/2026 12:48 UTC"
+    },
+    {
+      "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 90.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2031713065566130365#m",
+      "timestamp": "2026-03-11T12:45:16+00:00",
+      "timestamp_display": "11/03/2026 12:45 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVíal cerca del km 087+800, de la carretera Monclova-Piedras Negras. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 87.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031709826787807599#m",
+      "timestamp": "2026-03-11T12:32:24+00:00",
+      "timestamp_display": "11/03/2026 12:32 UTC"
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre total de circulación por #AccidenteVíal cerca del km 011+500, de la carretera Matehuala-Saltillo, ruta alterna carretera Matehuala-SLP. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.66670706390814,
+      "lng": -100.60772418316549,
+      "road": 57,
+      "km": 11.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031707801907610016#m",
+      "timestamp": "2026-03-11T12:24:21+00:00",
+      "timestamp_display": "11/03/2026 12:24 UTC"
+    },
     {
       "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial.",
       "type": "twitter",
@@ -194,52 +242,40 @@
       "timestamp_display": "10/03/2026 20:32 UTC"
     },
     {
-      "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 090+100, de la carretera Barranca Larga-Ventanilla . Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 90.1,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031466251545956440#m",
-      "timestamp": "2026-03-10T20:24:31+00:00",
-      "timestamp_display": "10/03/2026 20:24 UTC"
+      "url": "https://nitter.net/CAPUFE/status/2031713264036368476#m",
+      "timestamp": "2026-03-11T12:46:04+00:00",
+      "timestamp_display": "11/03/2026 12:46 UTC"
     },
     {
-      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Continúa reducción de carriles por atención del accidente (volcadura de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 219.9,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031464677771980903#m",
-      "timestamp": "2026-03-10T20:18:16+00:00",
-      "timestamp_display": "10/03/2026 20:18 UTC"
+      "km": 224,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031709733850173534#m",
+      "timestamp": "2026-03-11T12:32:02+00:00",
+      "timestamp_display": "11/03/2026 12:32 UTC"
     },
     {
-      "title": "#TomePrecauciones en #Guerero se registra presencia de personas cerca del km 016+200, de la carretera Las Cruces-Pinotepa Nacional, sin afectación a la circulación. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 24, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
+      "lat": 18.0,
+      "lng": -94.63,
       "road": null,
-      "km": 16.2,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031463630466904151#m",
-      "timestamp": "2026-03-10T20:14:06+00:00",
-      "timestamp_display": "10/03/2026 20:14 UTC"
-    },
-    {
-      "title": "#VíaLibre en #EdoMéx tras presencia de personas cerca del km 042+800, de la carretera México-Querétaro. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 42.8,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031452854507155515#m",
-      "timestamp": "2026-03-10T19:31:17+00:00",
-      "timestamp_display": "10/03/2026 19:31 UTC"
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2031698937803866274#m",
+      "timestamp": "2026-03-11T11:49:08+00:00",
+      "timestamp_display": "11/03/2026 11:49 UTC"
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAut. La Tinaja - Isla, km 112, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
@@ -278,7 +314,7 @@
       "timestamp_display": "11/03/2026 09:17 UTC"
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -444,30 +480,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031588382128877911#m",
       "timestamp": "2026-03-11T04:29:50+00:00",
       "timestamp_display": "11/03/2026 04:29 UTC"
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gómez Palacio - Corralitos, km 127. Continúa circulación a contraflujo por atención de accidente (incendio de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 127,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031567102063047062#m",
-      "timestamp": "2026-03-11T03:05:16+00:00",
-      "timestamp_display": "11/03/2026 03:05 UTC"
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Continúa reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031553160423322044#m",
-      "timestamp": "2026-03-11T02:09:52+00:00",
-      "timestamp_display": "11/03/2026 02:09 UTC"
     }
   ]
 }
