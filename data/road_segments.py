@@ -1,5 +1,22 @@
 road_segments = {
     
+    2:[
+        {
+            "cities": ("ciudad juarez", "janos"),
+            "km_start": 19,
+            "km_end": 205,
+            "coord_start": (31.6100, -106.6492),  
+            "coord_end":   (30.8942, -108.1841),
+        },
+        {
+            "cities": ("janos", "agua prieta"),
+            "km_start": 4,
+            "km_end": 156,
+            "coord_start": (30.8926, -108.2297),  
+            "coord_end":   (31.3190, -109.5159),
+        },
+    ],
+    
     15:[
         {
             "cities": ("tepic", "mazatlan"),

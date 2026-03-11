@@ -2,21 +2,25 @@
 // Estructura jerárquica: cada carretera tiene segmentos opcionales.
 // Si no hay segmentos, se trata como una sola unidad.
 const KNOWN_ROADS = [
-  { id: 1,   label: "MEX-1",  name: "Tijuana – Los Cabos" },
-  { id: 2,   label: "MEX-2",  name: "Tijuana – Matamoros" },
+  { id: 2,   label: "MEX-2",  name: "Ciudad Juárez – Tijuana", segments: [
+    { cities: ["ciudad juarez",    "janos"], name: "Ciudad Juárez – Janos"  },
+  ]},
   { id: 15,  label: "MEX-15", name: "Nogales – Guadalajara" },
   { id: 40,  label: "MEX-40", name: "Mazatlán – Monterrey" },
   { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara" },
-  { id: 57,  label: "MEX-57", name: "CDMX – Piedras Negras", segments: [
+  { id: 57,  label: "MEX-57", name: "México – Piedras Negras", segments: [
+    { cities: ["mexico",    "queretaro"], name: "CDMX – Querétaro"       },
     { cities: ["queretaro",    "san luis potosi"], name: "Querétaro – SLP"       },
     { cities: ["san luis potosi", "matehuala"],   name: "SLP – Matehuala"        },
     { cities: ["matehuala",    "saltillo"],        name: "Matehuala – Saltillo"   },
-    { cities: ["puerto mexico","ojo caliente"],    name: "Pto. México – Ojo Cal." },
+    { cities: ["puerto mexico","ojo caliente"],    name: "Pto. México – Ojo Caliente" },
+    { cities: ["saltillo","monclova"],    name: "Saltillo – Monclova" },
+    { cities: ["monclova","piedras negras"],    name: "Monclova – Piedras Negras" },
   ]},
-  { id: 85,  label: "MEX-85", name: "CDMX – Nuevo Laredo", segments: [
+  { id: 85,  label: "MEX-85", name: "México – Nuevo Laredo", segments: [
     { cities: ["monterrey",    "nuevo laredo"],    name: "Monterrey – Nuevo Laredo" },
   ]},
-  { id: 95,  label: "MEX-95",  name: "CDMX – Acapulco" },
+  { id: 95,  label: "MEX-95",  name: "México – Acapulco" },
   { id: 130, label: "MEX-130", name: "Pachuca – Tuxpan", segments: [
     { cities: ["pachuca",   "tulancingo"], name: "Pachuca – Tulancingo" },
     { cities: ["tulancingo","poza rica"],  name: "Tulancingo – Poza Rica" },
