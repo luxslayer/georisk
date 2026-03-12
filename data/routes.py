@@ -9,6 +9,7 @@ routes = {
     ("tepic","mazatlan"):15,
     ("saltillo","monterrey"):40,
     ("saltillo","torreon"):40,
+    ("atlacomulco","texmelucan"):4011,
     ("chihuahua","juarez"):45,
     ("leon","aguascalientes"):45,
     ("gomez palacio","jimenez"):49,

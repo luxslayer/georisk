@@ -12,6 +12,7 @@ const KNOWN_ROADS = [
   { id: 40,  label: "MEX-40", name: "Mazatlán – Matamoros", segments: [
     { cities: ["saltillo",    "monterrey"], name: "Saltillo – Monterrey"},
   ]},
+  { id: 40,  label: "Arco Norte", name: "Atlacomulco – Texmelucan"},
   { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara", segments: [ 
     { cities: ["leon",    "aguascalientes"], name: "León – Aguascalientes" },
   ] },

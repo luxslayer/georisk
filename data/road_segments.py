@@ -58,15 +58,94 @@ road_segments = {
         },
     ],
 
-    40M:[
+    4011:[
         {
-            "cities": ("Atlacomulco", "monterrey"),
+            "cities": ("atlacomulco", "jilotepec"),
             "km_start": 8,
-            "km_end": 74,
-            "coord_start": (25.6769, -100.4462),  
-            "coord_end":   (25.5074, -100.9624),
+            "km_end": 70,
+            "coord_start": (19.8285, -99.8732),  
+            "coord_end":   (19.2722, -98.4168),
         },
+        {
+            "cities": ("jilotepec", "queretaro"),
+            "km_start": 70,
+            "km_end": 82,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("queretaro", "tula"),
+            "km_start": 82,
+            "km_end": 59,
+            "coord_start": (20.0021, -99.4851),  
+            "coord_end":   (20.0990, -99.2833),
+        },
+        {
+            "cities": ("tula", "atitalaquia"),
+            "km_start": 59,
+            "km_end": 50,
+            "coord_start": (20.0990, -99.2829),  
+            "coord_end":   (20.066698, -99.220655),
+        },
+        {
+            "cities": ("atitalaquia", "apaxco"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("apaxco", "ajoloapan"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("ajoloapan", "pachuca"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("pachuca", "tulancingo"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("tulancingo", "sahagun"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("sahagun", "calpulalpan"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("calpulalpan", "sanctorum"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        },
+        {
+            "cities": ("sanctorum", "texmelucan"),
+            "km_start": 8,
+            "km_end": 145,
+            "coord_start": (),  
+            "coord_end":   (),
+        }
+        
     ],
+    
 
     45:[
         {
