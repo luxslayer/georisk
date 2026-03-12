@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-12T07:35:22.466359",
+  "last_update": "2026-03-12T08:25:03.616089",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 057+000, de la carretera Tapanatepec -Tuxtla Gutiérrez. Atienda indicación vial.",
@@ -31,42 +31,42 @@
       ]
     },
     {
-      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 014+500, de la carretera Oaxaca - Puerto Ángel. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 82, dirección Acapulco. Continúa reducción de carriles por labores de mantenimiento. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 14.5,
+      "km": 82,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031962167642374236#m",
-      "timestamp": "2026-03-12T05:15:07+00:00",
-      "timestamp_display": "12/03/2026 05:15 UTC",
+      "url": "https://nitter.net/CAPUFE/status/2032008076107084119#m",
+      "timestamp": "2026-03-12T08:17:32+00:00",
+      "timestamp_display": "12/03/2026 08:17 UTC",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #SanLuisPotosí se registra cierre parcial tras #AccidenteVial cerca del km 096+000, de la carretera San Luis Potosí - Matehuala. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 108, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 96.0,
+      "km": 108,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032007827221250130#m",
+      "timestamp": "2026-03-12T08:16:33+00:00",
+      "timestamp_display": "12/03/2026 08:16 UTC",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 55. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 55,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031958716090822670#m",
-      "timestamp": "2026-03-12T05:01:24+00:00",
-      "timestamp_display": "12/03/2026 05:01 UTC",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 028+500, de la carretera Tuxtepec-Oaxaca. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 28.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2031952186335256658#m",
-      "timestamp": "2026-03-12T04:35:27+00:00",
-      "timestamp_display": "12/03/2026 04:35 UTC",
+      "url": "https://nitter.net/CAPUFE/status/2032001337634812093#m",
+      "timestamp": "2026-03-12T07:50:46+00:00",
+      "timestamp_display": "12/03/2026 07:50 UTC",
       "segment": null
     },
     {
@@ -93,45 +93,6 @@
       "url": "https://nitter.net/CAPUFE/status/2031966225652429194#m",
       "timestamp": "2026-03-12T05:31:14+00:00",
       "timestamp_display": "12/03/2026 05:31 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 55. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031958370220196331#m",
-      "timestamp": "2026-03-12T05:00:02+00:00",
-      "timestamp_display": "12/03/2026 05:00 UTC",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031954416132374905#m",
-      "timestamp": "2026-03-12T04:44:19+00:00",
-      "timestamp_display": "12/03/2026 04:44 UTC",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Durango - Mazatlán, km 55. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031954211383177642#m",
-      "timestamp": "2026-03-12T04:43:30+00:00",
-      "timestamp_display": "12/03/2026 04:43 UTC",
       "segment": null
     },
     {
