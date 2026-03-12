@@ -9,7 +9,9 @@ const KNOWN_ROADS = [
     { cities: ["santa ana",    "sonoyta"], name: "Santa Ana – Sonoyta"},
   ]},
   { id: 15,  label: "MEX-15", name: "Nogales – Guadalajara" },
-  { id: 40,  label: "MEX-40", name: "Mazatlán – Monterrey" },
+  { id: 40,  label: "MEX-40", name: "Mazatlán – Matamoros", segments: [
+    { cities: ["saltillo",    "monterrey"], name: "Saltillo – Monterrey"},
+  ]},
   { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara", segments: [ 
     { cities: ["leon",    "aguascalientes"], name: "León – Aguascalientes" },
   ] },
