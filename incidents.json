@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-12T05:35:10.384976",
+  "last_update": "2026-03-12T06:35:03.316058",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 057+000, de la carretera Tapanatepec -Tuxtla Gutiérrez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 57.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2031972148475032027#m",
+      "timestamp": "2026-03-12T05:54:47+00:00",
+      "timestamp_display": "12/03/2026 05:54 UTC",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #SanLuisPotosí se registra cierre total tras #AccidenteVial cerca del km 144+000, de la carretera  Querétaro-San Luis Potosí. Atienda indicación vial.",
       "type": "twitter",
@@ -67,19 +80,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2031941195010589116#m",
       "timestamp": "2026-03-12T03:51:47+00:00",
       "timestamp_display": "12/03/2026 03:51 UTC",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Guanajuato tras #AccidenteVial cerca del km 073+000, de la carretera Querétaro - Irapuato. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 73.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031931971753165075#m",
-      "timestamp": "2026-03-12T03:15:08+00:00",
-      "timestamp_display": "12/03/2026 03:15 UTC",
       "segment": null
     },
     {
@@ -174,68 +174,16 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 55. Circulación intermitente en ambos sentidos por atención de accidente (incendio de remolque). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031932448460751127#m",
-      "timestamp": "2026-03-12T03:17:01+00:00",
-      "timestamp_display": "12/03/2026 03:17 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 210. Circulación a contraflujo por atención de accidente (persona atropellada). Maneja con precaución.",
+      "title": "🟢Queda restablecida la circulación en su totalidad.\n-Recuerda utilizar el cinturón de seguridad. \n-Límite máximo de velocidad es 100km/hr.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031931960990347358#m",
-      "timestamp": "2026-03-12T03:15:05+00:00",
-      "timestamp_display": "12/03/2026 03:15 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Cosoleacaque, Plaza de Cobro Acayucan, dirección Cosoleacaque. Reducción de carriles por atención de choque contra cabina. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/mG7Be1aVDyJJeRnA6",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031928820882907180#m",
-      "timestamp": "2026-03-12T03:02:36+00:00",
-      "timestamp_display": "12/03/2026 03:02 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 210, dirección Cd. Obregón. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031928408540922348#m",
-      "timestamp": "2026-03-12T03:00:58+00:00",
-      "timestamp_display": "12/03/2026 03:00 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 197, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 197,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031925628216467583#m",
-      "timestamp": "2026-03-12T02:49:55+00:00",
-      "timestamp_display": "12/03/2026 02:49 UTC",
+      "url": "https://nitter.net/arconorte/status/2031973310666293391#m",
+      "timestamp": "2026-03-12T05:59:24+00:00",
+      "timestamp_display": "12/03/2026 05:59 UTC",
       "segment": null
     }
   ]
