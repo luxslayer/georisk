@@ -36,15 +36,21 @@ def haversine(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
 # Carga y ordenamiento de segmentos GeoJSON
 # ---------------------------------------------------------------------------
 
-def _load_geojson(road: int) -> list[list[tuple[float, float]]]:
+def _load_geojson(road: str | int) -> list[list[tuple[float, float]]]:
     """
     Carga el GeoJSON de la carretera y devuelve lista de segmentos.
-    Cada segmento es una lista de (lat, lng).
+    Acepta IDs numéricos (57) o alfanuméricos (40M).
     GeoJSON usa [lng, lat] — se invierte aquí.
     """
     path = os.path.join(ROADS_DIR, f"mex_{road}.geojson")
     if not os.path.exists(path):
-        return []
+        # Intentar en minúsculas por si el archivo es "mex_40m.geojson"
+        path_lower = os.path.join(ROADS_DIR, f"mex_{str(road).lower()}.geojson")
+        if os.path.exists(path_lower):
+            path = path_lower
+        else:
+            print(f"[km_geolocator] Archivo no encontrado: {path}")
+            return []
 
     with open(path, encoding="utf-8") as f:
         geojson = json.load(f)
@@ -193,7 +199,7 @@ def _chain_segments_anchored(
 
 
 @lru_cache(maxsize=32)
-def _load_segments_cached(road: int) -> tuple:
+def _load_segments_cached(road: str | int) -> tuple:
     """Carga los segmentos del GeoJSON (cacheado). Devuelve tuple para hashability."""
     return tuple(_load_geojson(road))
 
@@ -283,7 +289,7 @@ def _find_nearest_idx(
 # ---------------------------------------------------------------------------
 
 def locate_km(
-    road: int,
+    road: str | int,
     km: float,
     city_coords: tuple | None = None,
     known_segment: dict | None = None,

@@ -20,7 +20,6 @@ incidents = []
 TWITTER_RSS = [
     "https://nitter.net/GN_Carreteras/rss",
     "https://nitter.net/CAPUFE/rss",
-    "https://nitter.net/arconorte/rss"
 ]
 
 RISK_WORDS = [
@@ -146,7 +145,7 @@ def detect_city_pair(text: str) -> tuple[str, str] | None:
     return None
 
 
-def detect_road_from_cities(city_pair: tuple[str, str]) -> int | None:
+def detect_road_from_cities(city_pair: tuple[str, str]) -> str | int | None:
     """
     Busca la carretera dado un par de ciudades.
     Maneja ambas direcciones sin necesitar entradas duplicadas en routes.
@@ -158,18 +157,19 @@ def detect_road_from_cities(city_pair: tuple[str, str]) -> int | None:
     return None
 
 
-def detect_road(text: str) -> int | None:
+def detect_road(text: str) -> str | int | None:
     """
     Detecta número de carretera por:
-    1. Número explícito ('carretera 57', 'autopista 15', 'mex 130')
-    2. Par de ciudades mencionadas ('carretera Querétaro-SLP')
+    1. Número o código explícito ('carretera 57', 'autopista 40D', 'mex 40M')
+    2. Par de ciudades mencionadas ('carretera Durango-Mazatlán')
     """
     text_norm = normalize(text)
 
-    # 1. Número directo
-    m = re.search(r"(?:carretera|autopista|mex)\s*(\d+)", text_norm)
+    # 1. Código directo — dígitos opcionalmente seguidos de letras (ej. 40M, 40D, 15A)
+    m = re.search(r"(?:carretera|autopista|mex)\s*(\d+[a-z]?)", text_norm)
     if m:
-        return int(m.group(1))
+        raw = m.group(1)
+        return raw.upper() if raw[-1].isalpha() else int(raw)
 
     # 2. Par de ciudades
     pair = detect_city_pair(text_norm)
@@ -178,21 +178,36 @@ def detect_road(text: str) -> int | None:
         if road:
             return road
 
+    # 3. Cruzar todas las ciudades detectadas contra routes
+    cities_found = detect_cities(text)
+    for i, c1 in enumerate(cities_found):
+        for c2 in cities_found[i+1:]:
+            road = detect_road_from_cities((c1, c2))
+            if road:
+                return road
+
     return None
 
 # ---------------------------------------------------------------------------
 # Segmento conocido
 # ---------------------------------------------------------------------------
 
-def detect_known_segment(road: int | None, cities_found: list[str]) -> dict | None:
+def detect_known_segment(road: str | int | None, cities_found: list[str], title: str = "") -> dict | None:
     """
     Dado un número de carretera y una lista de ciudades detectadas,
     devuelve el segmento de road_segments que contenga ambas ciudades.
+    También intenta con el par explícito detectado en el título del tweet.
     """
     if road is None or road not in road_segments:
         return None
 
+    # Construir set de ciudades candidatas: las detectadas + el par explícito del tweet
     cities_set = set(cities_found)
+    if title:
+        pair = detect_city_pair(title)
+        if pair:
+            cities_set.update(pair)
+
     for seg in road_segments[road]:
         c1, c2 = seg["cities"]
         if c1 in cities_set and c2 in cities_set:
@@ -234,9 +249,9 @@ def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
     dt = parse_pubdate(pub_date)
     now_utc = datetime.now(timezone.utc)
 
-    # Filtrar incidentes con más de 3 horas
-    if dt and (now_utc - dt) > timedelta(hours=3):
-        print(f"SKIP (>3h): {title}")
+    # Filtrar incidentes con más de 24 horas
+    if dt and (now_utc - dt) > timedelta(hours=24):
+        print(f"SKIP (>24h): {title}")
         return
 
     timestamp_iso = dt.isoformat() if dt else None
@@ -258,7 +273,6 @@ def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
 
     # Ciudades mencionadas
     cities_found = detect_cities(title)
-    print("DETECTED CITIES:", cities_found)
 
     # Carretera
     road = None
@@ -271,7 +285,7 @@ def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
     km = detect_km(title)
 
     # Segmento conocido en road_segments
-    known_segment = detect_known_segment(road, cities_found)
+    known_segment = detect_known_segment(road, cities_found, title)
     if km is not None and known_segment:
         km = km_relative(km, known_segment)
         print("RELATIVE KM:", km)
