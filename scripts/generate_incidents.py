@@ -10,6 +10,8 @@ from city_locator import detect_segment, segment_coords, interpolate
 from data.cities import cities
 from data.routes import routes
 from data.road_segments import road_segments
+from zoneinfo import ZoneInfo
+LOCAL_TZ = ZoneInfo("America/Monterrey")
 
 # ---------------------------------------------------------------------------
 # Config
@@ -255,7 +257,12 @@ def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
         return
 
     timestamp_iso = dt.isoformat() if dt else None
-    timestamp_display = dt.strftime("%d/%m/%Y %H:%M UTC") if dt else "Fecha desconocida"
+    if dt:
+        dt_local = dt.astimezone(LOCAL_TZ)
+        tz_abbr  = dt_local.strftime("%Z")  # "CST" o "CDT" según la época del año
+        timestamp_display = dt_local.strftime(f"%d/%m/%Y %H:%M {tz_abbr}")
+    else:
+        timestamp_display = "Fecha desconocida"
 
     # Coordenadas por defecto
     lat, lng = DEFAULT_LAT, DEFAULT_LNG
