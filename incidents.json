@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-12T19:30:05.428403",
+  "last_update": "2026-03-12T20:01:42.062732",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre total tras presencia de personas cerca del km 222+700, de la carretera Chilpancingo-Cuernavaca, sin ruta alterna. Atienda indicación vial.",
@@ -11,7 +11,7 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2032175701801959713#m",
       "timestamp": "2026-03-12T19:23:37+00:00",
-      "timestamp_display": "12/03/2026 19:23 UTC",
+      "timestamp_display": "12/03/2026 13:23 CST",
       "segment": null
     },
     {
@@ -24,7 +24,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032174844935098404#m",
       "timestamp": "2026-03-12T19:20:13+00:00",
-      "timestamp_display": "12/03/2026 19:20 UTC",
+      "timestamp_display": "12/03/2026 13:20 CST",
       "segment": null
     },
     {
@@ -37,7 +37,7 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2032169093747315136#m",
       "timestamp": "2026-03-12T18:57:22+00:00",
-      "timestamp_display": "12/03/2026 18:57 UTC",
+      "timestamp_display": "12/03/2026 12:57 CST",
       "segment": null
     },
     {
@@ -50,7 +50,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032160879827919233#m",
       "timestamp": "2026-03-12T18:24:44+00:00",
-      "timestamp_display": "12/03/2026 18:24 UTC",
+      "timestamp_display": "12/03/2026 12:24 CST",
       "segment": null
     },
     {
@@ -63,7 +63,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032148783123882338#m",
       "timestamp": "2026-03-12T17:36:40+00:00",
-      "timestamp_display": "12/03/2026 17:36 UTC",
+      "timestamp_display": "12/03/2026 11:36 CST",
       "segment": null
     },
     {
@@ -76,7 +76,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032147776704766058#m",
       "timestamp": "2026-03-12T17:32:40+00:00",
-      "timestamp_display": "12/03/2026 17:32 UTC",
+      "timestamp_display": "12/03/2026 11:32 CST",
       "segment": null
     },
     {
@@ -89,7 +89,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032145384596725925#m",
       "timestamp": "2026-03-12T17:23:09+00:00",
-      "timestamp_display": "12/03/2026 17:23 UTC",
+      "timestamp_display": "12/03/2026 11:23 CST",
       "segment": [
         "queretaro",
         "san luis potosi"
@@ -105,7 +105,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032136488909939090#m",
       "timestamp": "2026-03-12T16:47:48+00:00",
-      "timestamp_display": "12/03/2026 16:47 UTC",
+      "timestamp_display": "12/03/2026 10:47 CST",
       "segment": null
     },
     {
@@ -118,7 +118,7 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2032133844728455208#m",
       "timestamp": "2026-03-12T16:37:18+00:00",
-      "timestamp_display": "12/03/2026 16:37 UTC",
+      "timestamp_display": "12/03/2026 10:37 CST",
       "segment": null
     },
     {
@@ -131,7 +131,7 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2032129436284264647#m",
       "timestamp": "2026-03-12T16:19:47+00:00",
-      "timestamp_display": "12/03/2026 16:19 UTC",
+      "timestamp_display": "12/03/2026 10:19 CST",
       "segment": null
     },
     {
@@ -144,7 +144,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032116856769720339#m",
       "timestamp": "2026-03-12T15:29:48+00:00",
-      "timestamp_display": "12/03/2026 15:29 UTC",
+      "timestamp_display": "12/03/2026 09:29 CST",
       "segment": null
     },
     {
@@ -157,7 +157,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032115028325736715#m",
       "timestamp": "2026-03-12T15:22:32+00:00",
-      "timestamp_display": "12/03/2026 15:22 UTC",
+      "timestamp_display": "12/03/2026 09:22 CST",
       "segment": null
     },
     {
@@ -170,7 +170,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032114127624163623#m",
       "timestamp": "2026-03-12T15:18:57+00:00",
-      "timestamp_display": "12/03/2026 15:18 UTC",
+      "timestamp_display": "12/03/2026 09:18 CST",
       "segment": null
     },
     {
@@ -183,7 +183,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032111139060867215#m",
       "timestamp": "2026-03-12T15:07:05+00:00",
-      "timestamp_display": "12/03/2026 15:07 UTC",
+      "timestamp_display": "12/03/2026 09:07 CST",
       "segment": null
     },
     {
@@ -196,7 +196,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032108619903250750#m",
       "timestamp": "2026-03-12T14:57:04+00:00",
-      "timestamp_display": "12/03/2026 14:57 UTC",
+      "timestamp_display": "12/03/2026 08:57 CST",
       "segment": null
     },
     {
@@ -209,7 +209,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2032093836277878835#m",
       "timestamp": "2026-03-12T13:58:19+00:00",
-      "timestamp_display": "12/03/2026 13:58 UTC",
+      "timestamp_display": "12/03/2026 07:58 CST",
       "segment": null
     },
     {
@@ -222,7 +222,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031972148475032027#m",
       "timestamp": "2026-03-12T05:54:47+00:00",
-      "timestamp_display": "12/03/2026 05:54 UTC",
+      "timestamp_display": "11/03/2026 23:54 CST",
       "segment": null
     },
     {
@@ -235,7 +235,7 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031966633913434392#m",
       "timestamp": "2026-03-12T05:32:52+00:00",
-      "timestamp_display": "12/03/2026 05:32 UTC",
+      "timestamp_display": "11/03/2026 23:32 CST",
       "segment": [
         "queretaro",
         "san luis potosi"
@@ -251,7 +251,7 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2031962167642374236#m",
       "timestamp": "2026-03-12T05:15:07+00:00",
-      "timestamp_display": "12/03/2026 05:15 UTC",
+      "timestamp_display": "11/03/2026 23:15 CST",
       "segment": null
     },
     {
@@ -264,7 +264,33 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2031958716090822670#m",
       "timestamp": "2026-03-12T05:01:24+00:00",
-      "timestamp_display": "12/03/2026 05:01 UTC",
+      "timestamp_display": "11/03/2026 23:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nAutopista Cd. Mendoza - Córdoba, km 277, dirección Córdoba. Reducción de carriles por labores de mantenimiento. Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 277,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032182793233445142#m",
+      "timestamp": "2026-03-12T19:51:48+00:00",
+      "timestamp_display": "12/03/2026 13:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección Isla, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032180304547389915#m",
+      "timestamp": "2026-03-12T19:41:55+00:00",
+      "timestamp_display": "12/03/2026 13:41 CST",
       "segment": null
     },
     {
@@ -277,7 +303,7 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032173628725322211#m",
       "timestamp": "2026-03-12T19:15:23+00:00",
-      "timestamp_display": "12/03/2026 19:15 UTC",
+      "timestamp_display": "12/03/2026 13:15 CST",
       "segment": null
     },
     {
@@ -290,7 +316,7 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032172167689843133#m",
       "timestamp": "2026-03-12T19:09:35+00:00",
-      "timestamp_display": "12/03/2026 19:09 UTC",
+      "timestamp_display": "12/03/2026 13:09 CST",
       "segment": null
     },
     {
@@ -303,7 +329,7 @@
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2032169892019880075#m",
       "timestamp": "2026-03-12T19:00:32+00:00",
-      "timestamp_display": "12/03/2026 19:00 UTC",
+      "timestamp_display": "12/03/2026 13:00 CST",
       "segment": null
     },
     {
@@ -316,7 +342,7 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032169359565582772#m",
       "timestamp": "2026-03-12T18:58:25+00:00",
-      "timestamp_display": "12/03/2026 18:58 UTC",
+      "timestamp_display": "12/03/2026 12:58 CST",
       "segment": null
     },
     {
@@ -329,7 +355,7 @@
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2032166216605769874#m",
       "timestamp": "2026-03-12T18:45:56+00:00",
-      "timestamp_display": "12/03/2026 18:45 UTC",
+      "timestamp_display": "12/03/2026 12:45 CST",
       "segment": null
     },
     {
@@ -342,7 +368,7 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032162140153417923#m",
       "timestamp": "2026-03-12T18:29:44+00:00",
-      "timestamp_display": "12/03/2026 18:29 UTC",
+      "timestamp_display": "12/03/2026 12:29 CST",
       "segment": null
     },
     {
@@ -355,7 +381,7 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032161581539246292#m",
       "timestamp": "2026-03-12T18:27:31+00:00",
-      "timestamp_display": "12/03/2026 18:27 UTC",
+      "timestamp_display": "12/03/2026 12:27 CST",
       "segment": null
     },
     {
@@ -368,7 +394,7 @@
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2032158964138348897#m",
       "timestamp": "2026-03-12T18:17:07+00:00",
-      "timestamp_display": "12/03/2026 18:17 UTC",
+      "timestamp_display": "12/03/2026 12:17 CST",
       "segment": null
     },
     {
@@ -381,7 +407,7 @@
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2032158618187976805#m",
       "timestamp": "2026-03-12T18:15:44+00:00",
-      "timestamp_display": "12/03/2026 18:15 UTC",
+      "timestamp_display": "12/03/2026 12:15 CST",
       "segment": null
     },
     {
@@ -394,7 +420,7 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032156719355470328#m",
       "timestamp": "2026-03-12T18:08:12+00:00",
-      "timestamp_display": "12/03/2026 18:08 UTC",
+      "timestamp_display": "12/03/2026 12:08 CST",
       "segment": null
     },
     {
@@ -407,7 +433,7 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032155596166737940#m",
       "timestamp": "2026-03-12T18:03:44+00:00",
-      "timestamp_display": "12/03/2026 18:03 UTC",
+      "timestamp_display": "12/03/2026 12:03 CST",
       "segment": null
     },
     {
@@ -420,72 +446,20 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032149488815509827#m",
       "timestamp": "2026-03-12T17:39:28+00:00",
-      "timestamp_display": "12/03/2026 17:39 UTC",
+      "timestamp_display": "12/03/2026 11:39 CST",
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 86, dirección Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 86, dirección Isla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": 86,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032144860430401939#m",
-      "timestamp": "2026-03-12T17:21:04+00:00",
-      "timestamp_display": "12/03/2026 17:21 UTC",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cuernavaca - Acapulco, km 219, dirección Acapulco. Cierre a la circulación por atención de accidente (volcadura de camioneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 219,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032144008328176011#m",
-      "timestamp": "2026-03-12T17:17:41+00:00",
-      "timestamp_display": "12/03/2026 17:17 UTC",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️\nLibramiento Chilpancingo. Cierre a la circulación en ambos sentidos por presencia de manifestantes sobre el Boulevard Vicente Guerrero (fuera de la cobertura de CAPUFE). Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032143072373461402#m",
-      "timestamp": "2026-03-12T17:13:58+00:00",
-      "timestamp_display": "12/03/2026 17:13 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Barranca Larga - Ventanilla, km 36. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032140452749598930#m",
-      "timestamp": "2026-03-12T17:03:33+00:00",
-      "timestamp_display": "12/03/2026 17:03 UTC",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032139945779863779#m",
-      "timestamp": "2026-03-12T17:01:33+00:00",
-      "timestamp_display": "12/03/2026 17:01 UTC",
+      "url": "https://nitter.net/CAPUFE/status/2032114533808927205#m",
+      "timestamp": "2026-03-12T15:20:34+00:00",
+      "timestamp_display": "12/03/2026 09:20 CST",
       "segment": null
     },
     {
@@ -498,20 +472,98 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2032138779788447998#m",
       "timestamp": "2026-03-12T16:56:55+00:00",
-      "timestamp_display": "12/03/2026 16:56 UTC",
+      "timestamp_display": "12/03/2026 10:56 CST",
       "segment": null
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista La Tinaja - Isla, km 46, dirección Isla. Se registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Dirección La Tinaja, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 86, dirección Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 46,
+      "km": 86,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032137933688348946#m",
-      "timestamp": "2026-03-12T16:53:33+00:00",
-      "timestamp_display": "12/03/2026 16:53 UTC",
+      "url": "https://nitter.net/CAPUFE/status/2032144860430401939#m",
+      "timestamp": "2026-03-12T17:21:04+00:00",
+      "timestamp_display": "12/03/2026 11:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cuernavaca - Acapulco, km 219, dirección Acapulco. Cierre a la circulación por atención de accidente (volcadura de camioneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032144008328176011#m",
+      "timestamp": "2026-03-12T17:17:41+00:00",
+      "timestamp_display": "12/03/2026 11:17 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️\nLibramiento Chilpancingo. Cierre a la circulación en ambos sentidos por presencia de manifestantes sobre el Boulevard Vicente Guerrero (fuera de la cobertura de CAPUFE). Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032143072373461402#m",
+      "timestamp": "2026-03-12T17:13:58+00:00",
+      "timestamp_display": "12/03/2026 11:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Barranca Larga - Ventanilla, km 36. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 36,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032140452749598930#m",
+      "timestamp": "2026-03-12T17:03:33+00:00",
+      "timestamp_display": "12/03/2026 11:03 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir a velocidad moderada ayuda a prevenir accidentes.\n👉 Reduce la velocidad y continúa tu camino con precaución. 🚙\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032109370176049390#m",
+      "timestamp": "2026-03-12T15:00:03+00:00",
+      "timestamp_display": "12/03/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032076355228094966#m",
+      "timestamp": "2026-03-12T12:48:51+00:00",
+      "timestamp_display": "12/03/2026 06:48 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032139945779863779#m",
+      "timestamp": "2026-03-12T17:01:33+00:00",
+      "timestamp_display": "12/03/2026 11:01 CST",
       "segment": null
     }
   ]
