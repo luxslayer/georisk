@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-12T10:00:57.426330",
+  "last_update": "2026-03-12T11:00:40.995710",
   "incidents": [
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nLibramiento Cuernavaca, km 82, dirección Acapulco. Continúa reducción de carriles por labores de mantenimiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 82,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032039918042825070#m",
+      "timestamp": "2026-03-12T10:24:04+00:00",
+      "timestamp_display": "12/03/2026 10:24 UTC",
+      "segment": null
+    },
     {
       "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
@@ -64,19 +77,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032007827221250130#m",
       "timestamp": "2026-03-12T08:16:33+00:00",
       "timestamp_display": "12/03/2026 08:16 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 55. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032001337634812093#m",
-      "timestamp": "2026-03-12T07:50:46+00:00",
-      "timestamp_display": "12/03/2026 07:50 UTC",
       "segment": null
     }
   ]
