@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-12T11:00:40.995710",
+  "last_update": "2026-03-12T11:44:01.742908",
   "incidents": [
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 81, dirección Veracruz. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 81,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032051345394381129#m",
+      "timestamp": "2026-03-12T11:09:29+00:00",
+      "timestamp_display": "12/03/2026 11:09 UTC",
+      "segment": null
+    },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nLibramiento Cuernavaca, km 82, dirección Acapulco. Continúa reducción de carriles por labores de mantenimiento. Maneja con precaución.",
       "type": "twitter",
@@ -38,45 +51,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032020516014281016#m",
       "timestamp": "2026-03-12T09:06:58+00:00",
       "timestamp_display": "12/03/2026 09:06 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 108, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 108,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032013297084489928#m",
-      "timestamp": "2026-03-12T08:38:17+00:00",
-      "timestamp_display": "12/03/2026 08:38 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 82, dirección Acapulco. Continúa reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 82,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032008076107084119#m",
-      "timestamp": "2026-03-12T08:17:32+00:00",
-      "timestamp_display": "12/03/2026 08:17 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 108, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 108,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032007827221250130#m",
-      "timestamp": "2026-03-12T08:16:33+00:00",
-      "timestamp_display": "12/03/2026 08:16 UTC",
       "segment": null
     }
   ]
