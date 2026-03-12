@@ -12,7 +12,20 @@ const KNOWN_ROADS = [
   { id: 40,  label: "MEX-40", name: "Mazatlán – Matamoros", segments: [
     { cities: ["saltillo",    "monterrey"], name: "Saltillo – Monterrey"},
   ]},
-  { id: 40,  label: "Arco Norte", name: "Atlacomulco – Texmelucan"},
+  { id: 40,  label: "MEX-40D", name: "Arco Norte", segments: [
+    { cities: ["atlacomulco",    "jilotepec"], name: "Atlacomulco – Jilotepec"},
+    { cities: ["jilotepec", "queretaro"],   name: "Jilotepec – Querétaro"},
+    { cities: ["queretaro",    "tula"],        name: "Querétaro – Tula"},
+    { cities: ["tula",    "atitalaquia"],        name: "Tula – Atitalaquia"},
+    { cities: ["atitalaquia",    "apaxco"],        name: "Atitalaquia – Apaxco"},
+    { cities: ["apaxco",    "ajoloapan"],        name: "Apaxco – Ajoloapan"},
+    { cities: ["ajoloapan",    "pachuca"],        name: "Ajoloapan – Pachuca"},
+    { cities: ["pachuca",    "tulancingo"],        name: "Pachuca – Tulancingo"},
+    { cities: ["tulancingo",    "sahagun"],        name: "Tulancingo – Sahagun"},
+    { cities: ["sahagun",    "calpulalpan"],        name: "Sahagun – Calpulalpan"},
+    { cities: ["calpulalpan",    "sanctorum"],        name: "Calpulalpan – Sanctorum"},
+    { cities: ["sanctorum",    "texmelucan"],        name: "Sanctorum – Texmelucan"}
+  ]},
   { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara", segments: [ 
     { cities: ["leon",    "aguascalientes"], name: "León – Aguascalientes" },
   ] },
