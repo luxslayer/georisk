@@ -1,34 +1,44 @@
 {
-  "last_update": "2026-03-12T08:25:03.616089",
+  "last_update": "2026-03-12T09:08:46.833801",
   "incidents": [
     {
-      "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 057+000, de la carretera Tapanatepec -Tuxtla Gutiérrez. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 57.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031972148475032027#m",
-      "timestamp": "2026-03-12T05:54:47+00:00",
-      "timestamp_display": "12/03/2026 05:54 UTC",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032020771325800789#m",
+      "timestamp": "2026-03-12T09:07:59+00:00",
+      "timestamp_display": "12/03/2026 09:07 UTC",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #SanLuisPotosí se registra cierre total tras #AccidenteVial cerca del km 144+000, de la carretera  Querétaro-San Luis Potosí. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 55. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 21.710993822671316,
-      "lng": -100.68693837710194,
-      "road": 57,
-      "km": 144.0,
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 55,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2031966633913434392#m",
-      "timestamp": "2026-03-12T05:32:52+00:00",
-      "timestamp_display": "12/03/2026 05:32 UTC",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2032020516014281016#m",
+      "timestamp": "2026-03-12T09:06:58+00:00",
+      "timestamp_display": "12/03/2026 09:06 UTC",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 108, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 108,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032013297084489928#m",
+      "timestamp": "2026-03-12T08:38:17+00:00",
+      "timestamp_display": "12/03/2026 08:38 UTC",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 82, dirección Acapulco. Continúa reducción de carriles por labores de mantenimiento. Maneja con precaución.",
@@ -67,45 +77,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032001337634812093#m",
       "timestamp": "2026-03-12T07:50:46+00:00",
       "timestamp_display": "12/03/2026 07:50 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Navojoa - Cd. Obregón, km 210. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2031967187326652467#m",
-      "timestamp": "2026-03-12T05:35:04+00:00",
-      "timestamp_display": "12/03/2026 05:35 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 82, dirección Acapulco. Registra reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 82,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2031966225652429194#m",
-      "timestamp": "2026-03-12T05:31:14+00:00",
-      "timestamp_display": "12/03/2026 05:31 UTC",
-      "segment": null
-    },
-    {
-      "title": "🟢Queda restablecida la circulación en su totalidad.\n-Recuerda utilizar el cinturón de seguridad. \n-Límite máximo de velocidad es 100km/hr.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/arconorte/status/2031973310666293391#m",
-      "timestamp": "2026-03-12T05:59:24+00:00",
-      "timestamp_display": "12/03/2026 05:59 UTC",
       "segment": null
     }
   ]
