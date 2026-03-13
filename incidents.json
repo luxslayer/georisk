@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-13T08:22:04.603579",
+  "last_update": "2026-03-13T09:06:26.959518",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 132+100, de la carretera Perote-Banderilla. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️    \nAutopista Acatzingo-Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032376051557421192#m",
+      "timestamp": "2026-03-13T08:39:45+00:00",
+      "timestamp_display": "13/03/2026 02:39 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 77, dirección Cuernavaca. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -509,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032270461858353277#m",
       "timestamp": "2026-03-13T01:40:10+00:00",
       "timestamp_display": "12/03/2026 19:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032269187200999692#m",
-      "timestamp": "2026-03-13T01:35:06+00:00",
-      "timestamp_display": "12/03/2026 19:35 CST",
       "segment": null
     }
   ]
