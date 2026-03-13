@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-13T06:33:55.071815",
+  "last_update": "2026-03-13T07:33:59.704358",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial tras #AccidenteVial cerca del km 009+150, de la carretera Libramiento de Ocozocoautla. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032359434077237292#m",
+      "timestamp": "2026-03-13T07:33:43+00:00",
+      "timestamp_display": "13/03/2026 01:33 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Tehuacán - Oaxaca, km 104. Continúa circulación intermitente en ambos sentidos por atención de accidente (labores de limpieza). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.072,
@@ -460,32 +473,6 @@
       "segment": null
     },
     {
-      "title": "🔴CIERRE DE CIRCULACIÓN🔴\nAutopista La Tinaja - Isla, km 83, dirección Isla. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/FfL5ec5DsdF2cRb46",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 83,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032242486534361143#m",
-      "timestamp": "2026-03-12T23:49:00+00:00",
-      "timestamp_display": "12/03/2026 17:49 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 83,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032254588548743436#m",
-      "timestamp": "2026-03-13T00:37:06+00:00",
-      "timestamp_display": "12/03/2026 18:37 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -496,32 +483,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032269003255628113#m",
       "timestamp": "2026-03-13T01:34:22+00:00",
       "timestamp_display": "12/03/2026 19:34 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir a velocidad moderada ayuda a prevenir accidentes.\n👉 Reduce la velocidad y continúa tu camino con precaución. 🚙\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032109370176049390#m",
-      "timestamp": "2026-03-12T15:00:03+00:00",
-      "timestamp_display": "12/03/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032200206306218472#m",
-      "timestamp": "2026-03-12T21:01:00+00:00",
-      "timestamp_display": "12/03/2026 15:01 CST",
       "segment": null
     },
     {
@@ -561,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032262826421583998#m",
       "timestamp": "2026-03-13T01:09:50+00:00",
       "timestamp_display": "12/03/2026 19:09 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️ \nLibramiento Chilpancingo (fuera de la cobertura de CAPUFE). Se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. Para más información llama al 088 de @GN_Carreteras. En la zona se registra carga vehicular. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032261127783268666#m",
-      "timestamp": "2026-03-13T01:03:05+00:00",
-      "timestamp_display": "12/03/2026 19:03 CST",
       "segment": null
     }
   ]
