@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-13T13:01:34.159321",
+  "last_update": "2026-03-13T14:06:20.808507",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Nayarit se registra cierre parcial tras #AccidenteVial cerca del km 022+400, de la carretera Jala-Compostela-Bahía de Banderas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 22.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032454421972451443#m",
+      "timestamp": "2026-03-13T13:51:10+00:00",
+      "timestamp_display": "13/03/2026 07:51 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Guerrero continúa cierre total de circulación por presencia de personas cerca del km 030+500, de la carretera Tierra Colorada–Cruz Grande, sin ruta alterna. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 30.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2032449213401899081#m",
+      "timestamp": "2026-03-13T13:30:28+00:00",
+      "timestamp_display": "13/03/2026 07:30 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Chihuahua se registra cierre parcial tras #AccidenteVial cerca del km 105+367, de la carretera Chihuahua-Cd. Juárez. Atienda indicación vial.",
       "type": "twitter",
@@ -239,33 +265,30 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Oaxaca se registra cierre parcial tras #AccidenteVial cerca del km 016+900, de la carretera Oaxaca-Tehuantepec. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Cuernavaca - Acapulco, km 98, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 16.9,
+      "km": 98,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032202974559146169#m",
-      "timestamp": "2026-03-12T21:12:00+00:00",
-      "timestamp_display": "12/03/2026 15:12 CST",
+      "url": "https://nitter.net/CAPUFE/status/2032447302619599307#m",
+      "timestamp": "2026-03-13T13:22:52+00:00",
+      "timestamp_display": "13/03/2026 07:22 CST",
       "segment": null
     },
     {
-      "title": "#VíaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 144+000, de la carretera Querétaro-San Luis Potosí.  Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 16, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Circulación lenta en la zona. Maneja con precaución.",
       "type": "twitter",
-      "lat": 21.710993822671316,
-      "lng": -100.68693837710194,
-      "road": 57,
-      "km": 144.0,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 16,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032198608808788400#m",
-      "timestamp": "2026-03-12T20:54:39+00:00",
-      "timestamp_display": "12/03/2026 14:54 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2032446779774337032#m",
+      "timestamp": "2026-03-13T13:20:47+00:00",
+      "timestamp_display": "13/03/2026 07:20 CST",
+      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 285, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
@@ -460,45 +483,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032396924825870762#m",
       "timestamp": "2026-03-13T10:02:41+00:00",
       "timestamp_display": "13/03/2026 04:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 285, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 285,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032396658248479195#m",
-      "timestamp": "2026-03-13T10:01:38+00:00",
-      "timestamp_display": "13/03/2026 04:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 238, dirección Acatzingo. Reducción de carriles por atención de accidente (salida del camino y choque contra barreras metálicas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 238,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032395404608757936#m",
-      "timestamp": "2026-03-13T09:56:39+00:00",
-      "timestamp_display": "13/03/2026 03:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Tehuacán - Oaxaca, km 104. Continúa circulación intermitente en ambos sentidos por atención de accidente (labores de limpieza). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 104,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032393985201774760#m",
-      "timestamp": "2026-03-13T09:51:00+00:00",
-      "timestamp_display": "13/03/2026 03:51 CST",
       "segment": null
     }
   ]
