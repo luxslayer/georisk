@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-13T22:31:40.500370",
+  "last_update": "2026-03-13T23:01:12.626007",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación por #AccidenteVial cerca del km 102+000, en la carretera Coatzacoalcos- Villahermosa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 102.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032585947053789496#m",
+      "timestamp": "2026-03-13T22:33:48+00:00",
+      "timestamp_display": "13/03/2026 16:33 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación por #AccidenteVial cerca del km 032+100, en la carretera Querétaro-Irapuato. Atienda indicación vial.",
       "type": "twitter",
@@ -258,20 +271,43 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial tras #AccidenteVial cerca del km 284+600, de la carretera Córdoba-puebla. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Cosoleacaque, continúa reducción de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 18.879084620149655,
-      "lng": -96.95511585311161,
-      "road": 150,
-      "km": 175.60000000000002,
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032589623889662328#m",
+      "timestamp": "2026-03-13T22:48:24+00:00",
+      "timestamp_display": "13/03/2026 16:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 193. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 193,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032433364150419661#m",
-      "timestamp": "2026-03-13T12:27:29+00:00",
-      "timestamp_display": "13/03/2026 06:27 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2032587352728592586#m",
+      "timestamp": "2026-03-13T22:39:23+00:00",
+      "timestamp_display": "13/03/2026 16:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠  \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032586052481761690#m",
+      "timestamp": "2026-03-13T22:34:13+00:00",
+      "timestamp_display": "13/03/2026 16:34 CST",
+      "segment": null
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, registra #lluvia del km 96 al 103. Disminuye tu velocidad y maneja con precaución.",
@@ -479,45 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032557342567321658#m",
       "timestamp": "2026-03-13T20:40:08+00:00",
       "timestamp_display": "13/03/2026 14:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Tehuacán - Oaxaca, km 104. Continúa circulación intermitente en ambos sentidos por atención de accidente (labores de limpieza). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 104,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032553592356266305#m",
-      "timestamp": "2026-03-13T20:25:14+00:00",
-      "timestamp_display": "13/03/2026 14:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032551731540730327#m",
-      "timestamp": "2026-03-13T20:17:50+00:00",
-      "timestamp_display": "13/03/2026 14:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032551209949626719#m",
-      "timestamp": "2026-03-13T20:15:46+00:00",
-      "timestamp_display": "13/03/2026 14:15 CST",
       "segment": null
     }
   ]
