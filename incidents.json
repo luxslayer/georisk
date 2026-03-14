@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T04:43:25.180334",
+  "last_update": "2026-03-14T05:35:42.072364",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 071+800, en la carretera San Luis Potosí – Ent. Mexquitic. Atienda indicación vial.",
@@ -268,6 +268,71 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Querétaro - Irapuato, km 81, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 81,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032688472813642002#m",
+      "timestamp": "2026-03-14T05:21:12+00:00",
+      "timestamp_display": "13/03/2026 23:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 79, dirección La Tinaja. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 79,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032687176668840250#m",
+      "timestamp": "2026-03-14T05:16:03+00:00",
+      "timestamp_display": "13/03/2026 23:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032686297173655721#m",
+      "timestamp": "2026-03-14T05:12:33+00:00",
+      "timestamp_display": "13/03/2026 23:12 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Continúa carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032682926693810548#m",
+      "timestamp": "2026-03-14T04:59:09+00:00",
+      "timestamp_display": "13/03/2026 22:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032679840986304626#m",
+      "timestamp": "2026-03-14T04:46:54+00:00",
+      "timestamp_display": "13/03/2026 22:46 CST",
+      "segment": null
+    },
+    {
       "title": "🟢RESTABLECIMIENTO DE CIRCULACIÓN🟢\nAutopista Querétaro - Irapuato, km 32, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️\"",
       "type": "twitter",
       "lat": 20.5888,
@@ -408,58 +473,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032634155092291831#m",
       "timestamp": "2026-03-14T01:45:21+00:00",
       "timestamp_display": "13/03/2026 19:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Cosoleacaque, km 181, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 181,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032633760613613852#m",
-      "timestamp": "2026-03-14T01:43:47+00:00",
-      "timestamp_display": "13/03/2026 19:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 56, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032631919704420780#m",
-      "timestamp": "2026-03-14T01:36:28+00:00",
-      "timestamp_display": "13/03/2026 19:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Cuernavaca - Acapulco, dirección Acapulco. Registra carga vehicular del km 92 al 97, sin reporte de incidentes. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 92,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032630294784745551#m",
-      "timestamp": "2026-03-14T01:30:01+00:00",
-      "timestamp_display": "13/03/2026 19:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 56, dirección CDMX. Cierre a la circulación por atención de accidente (labores de limpieza). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032629410528911680#m",
-      "timestamp": "2026-03-14T01:26:30+00:00",
-      "timestamp_display": "13/03/2026 19:26 CST",
       "segment": null
     }
   ]
