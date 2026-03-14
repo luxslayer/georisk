@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-03-14T13:54:09.916328",
+  "last_update": "2026-03-14T14:30:01.041667",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 012+900, en la carretera Matehuala - Saltillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.692922540045796,
+      "lng": -100.61134043989173,
+      "road": 57,
+      "km": 12.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032825819102412974#m",
+      "timestamp": "2026-03-14T14:26:58+00:00",
+      "timestamp_display": "14/03/2026 08:26 CST",
+      "segment": [
+        "matehuala",
+        "saltillo"
+      ]
+    },
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 243+580, de la carretera Puebla - Córdoba, con dirección a Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -252,19 +268,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2032534457031237967#m",
       "timestamp": "2026-03-13T19:09:11+00:00",
       "timestamp_display": "13/03/2026 13:09 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación por #AccidenteVial cerca del km 033+500, en la carretera Escárcega- Sabancuy. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 33.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032533890020098502#m",
-      "timestamp": "2026-03-13T19:06:56+00:00",
-      "timestamp_display": "13/03/2026 13:06 CST",
       "segment": null
     }
   ]
