@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T19:34:50.654489",
+  "last_update": "2026-03-14T19:57:19.616274",
   "incidents": [
     {
       "title": "#VíaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 012+900, en la carretera Matehuala - Saltillo. Maneje con precaución.",
@@ -280,6 +280,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. La Pera - Cuautla, km 4, dirección La Pera. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 4,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032908546363277569#m",
+      "timestamp": "2026-03-14T19:55:41+00:00",
+      "timestamp_display": "14/03/2026 13:55 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de remolque). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -511,19 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032882947980726311#m",
       "timestamp": "2026-03-14T18:13:58+00:00",
       "timestamp_display": "14/03/2026 12:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista Plan de Ayala - El Porvenir, km 31, dirección Plan de Ayala. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032879312886718540#m",
-      "timestamp": "2026-03-14T17:59:31+00:00",
-      "timestamp_display": "14/03/2026 11:59 CST",
       "segment": null
     }
   ]
