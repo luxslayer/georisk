@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-14T20:36:50.952786",
+  "last_update": "2026-03-14T21:00:55.328479",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del km 098+000, de la carretera México - Querétaro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 98.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032919113677394074#m",
+      "timestamp": "2026-03-14T20:37:41+00:00",
+      "timestamp_display": "14/03/2026 14:37 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Zacatecas tras #AccidenteVial cerca del km 031+400, en la carretera General Enrique Estrada – Ent. Libramiento Fresnillo. Maneje con precaución.",
       "type": "twitter",
@@ -267,16 +280,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 115+100, en la carretera San Hipólito - Xalapa. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 83, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.54,
-      "lng": -96.92,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 115.1,
+      "km": 83,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032770923816722894#m",
-      "timestamp": "2026-03-14T10:48:49+00:00",
-      "timestamp_display": "14/03/2026 04:48 CST",
+      "url": "https://nitter.net/CAPUFE/status/2032922462371934572#m",
+      "timestamp": "2026-03-14T20:50:59+00:00",
+      "timestamp_display": "14/03/2026 14:50 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación:\n\n🔘 Km 98, cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada).\n\n🔘 Km 98, reducción de carriles por atención de accidente (salida del camino de tracto camión).\n\n🔘 Km 51, continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión).\n\nEn la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032922119990841828#m",
+      "timestamp": "2026-03-14T20:49:37+00:00",
+      "timestamp_display": "14/03/2026 14:49 CST",
       "segment": null
     },
     {
@@ -332,7 +358,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación:\n\n🔘 Km 83, cierre a la circulación por atención de accidente (choque por alcance).\n\n🔘 Km 98, reducción de carriles por atención de accidente (volcadura de remolque).\n\n🔘 Km 51, reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión).\n\nEn la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación:\n\n🔘 Km 83, cierre a la circulación por atención de accidente (choque por alcance).\n\n🔘 Km 98, reducción de carriles por atención de accidente (volcadura de remolque).\n\n🔘 Km 51, reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión).\n\nEn la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -498,32 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032891587127054571#m",
       "timestamp": "2026-03-14T18:48:18+00:00",
       "timestamp_display": "14/03/2026 12:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 51, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032888989254914262#m",
-      "timestamp": "2026-03-14T18:37:58+00:00",
-      "timestamp_display": "14/03/2026 12:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Plan de Ayala - El Porvenir, km 31, dirección Plan de Ayala. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032888782664483314#m",
-      "timestamp": "2026-03-14T18:37:09+00:00",
-      "timestamp_display": "14/03/2026 12:37 CST",
       "segment": null
     }
   ]
