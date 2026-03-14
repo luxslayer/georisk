@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T09:49:12.551387",
+  "last_update": "2026-03-14T10:29:57.553393",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 118+000, en la carretera  Ent. Tula - Ciudad Victoria. Atienda indicación vial.",
@@ -265,6 +265,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Plan de Ayala - El Porvenir, km 31, dirección Plan de Ayala. Reducción de carriles por atención de accidente (desprendimiento y volcadura de caja de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032763862156824994#m",
+      "timestamp": "2026-03-14T10:20:46+00:00",
+      "timestamp_display": "14/03/2026 04:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Hermosillo - Magdalena, km 203, dirección Hermosillo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 203,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032759457432613075#m",
+      "timestamp": "2026-03-14T10:03:16+00:00",
+      "timestamp_display": "14/03/2026 04:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Acayucan - Cosoleacaque, km 20, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 20,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032756619595952320#m",
+      "timestamp": "2026-03-14T09:51:59+00:00",
+      "timestamp_display": "14/03/2026 03:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista Hermosillo - Magdalena, km 203, dirección Hermosillo. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 203,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032756070473519454#m",
+      "timestamp": "2026-03-14T09:49:48+00:00",
+      "timestamp_display": "14/03/2026 03:49 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 20, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.0,
@@ -470,58 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032695871863742554#m",
       "timestamp": "2026-03-14T05:50:36+00:00",
       "timestamp_display": "13/03/2026 23:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 56, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032695123645964482#m",
-      "timestamp": "2026-03-14T05:47:37+00:00",
-      "timestamp_display": "13/03/2026 23:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Querétaro - Irapuato, km 81, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 81,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032688472813642002#m",
-      "timestamp": "2026-03-14T05:21:12+00:00",
-      "timestamp_display": "13/03/2026 23:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 79, dirección La Tinaja. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 79,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032687176668840250#m",
-      "timestamp": "2026-03-14T05:16:03+00:00",
-      "timestamp_display": "13/03/2026 23:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032686297173655721#m",
-      "timestamp": "2026-03-14T05:12:33+00:00",
-      "timestamp_display": "13/03/2026 23:12 CST",
       "segment": null
     }
   ]
