@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T08:40:20.658889",
+  "last_update": "2026-03-14T09:05:30.008132",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 118+000, en la carretera  Ent. Tula - Ciudad Victoria. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla- Acayucan, km 154, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 154,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032744476699975709#m",
+      "timestamp": "2026-03-14T09:03:44+00:00",
+      "timestamp_display": "14/03/2026 03:03 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.8885,
@@ -509,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032682926693810548#m",
       "timestamp": "2026-03-14T04:59:09+00:00",
       "timestamp_display": "13/03/2026 22:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032679840986304626#m",
-      "timestamp": "2026-03-14T04:46:54+00:00",
-      "timestamp_display": "13/03/2026 22:46 CST",
       "segment": null
     }
   ]
