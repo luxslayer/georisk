@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T09:05:30.008132",
+  "last_update": "2026-03-14T09:49:12.551387",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 118+000, en la carretera  Ent. Tula - Ciudad Victoria. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 20, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 20,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032748122875572677#m",
+      "timestamp": "2026-03-14T09:18:13+00:00",
+      "timestamp_display": "14/03/2026 03:18 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla- Acayucan, km 154, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -509,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032686297173655721#m",
       "timestamp": "2026-03-14T05:12:33+00:00",
       "timestamp_display": "13/03/2026 23:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Continúa carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032682926693810548#m",
-      "timestamp": "2026-03-14T04:59:09+00:00",
-      "timestamp_display": "13/03/2026 22:59 CST",
       "segment": null
     }
   ]
