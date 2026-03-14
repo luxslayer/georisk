@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-14T10:29:57.553393",
+  "last_update": "2026-03-14T10:57:07.657619",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 013+300, en la carretera Nuevo Teapa- Cosoleacaque. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 13.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032771118587650521#m",
+      "timestamp": "2026-03-14T10:49:36+00:00",
+      "timestamp_display": "14/03/2026 04:49 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 115+100, en la carretera San Hipólito - Xalapa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.54,
+      "lng": -96.92,
+      "road": null,
+      "km": 115.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032770923816722894#m",
+      "timestamp": "2026-03-14T10:48:49+00:00",
+      "timestamp_display": "14/03/2026 04:48 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 118+000, en la carretera  Ent. Tula - Ciudad Victoria. Atienda indicación vial.",
       "type": "twitter",
@@ -236,32 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2032525974793843139#m",
       "timestamp": "2026-03-13T18:35:29+00:00",
       "timestamp_display": "13/03/2026 12:35 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Puebla se registra cierre total de la circulación por presencia de personas, cerca del km 040+100, en la carretera Cuacnopalan-Oaxaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 40.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2032525335065928006#m",
-      "timestamp": "2026-03-13T18:32:57+00:00",
-      "timestamp_display": "13/03/2026 12:32 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 262+500, de la carretera México-Puebla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": 262.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032519036441968698#m",
-      "timestamp": "2026-03-13T18:07:55+00:00",
-      "timestamp_display": "13/03/2026 12:07 CST",
       "segment": null
     },
     {
