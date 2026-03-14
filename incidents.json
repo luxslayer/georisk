@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-03-14T15:35:45.732435",
+  "last_update": "2026-03-14T15:58:28.591063",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación por #AccidenteVial cerca del km 079+800, en la carretera Chihuahua - Ciudad Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.6776,
+      "lng": -106.4304,
+      "road": 45,
+      "km": 79.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032848013475922166#m",
+      "timestamp": "2026-03-14T15:55:09+00:00",
+      "timestamp_display": "14/03/2026 09:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 024+500, en la carretera Querétaro - San Luis Potosí. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.776916766518724,
+      "lng": -100.45116080754316,
+      "road": 57,
+      "km": 24.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2032846841969070373#m",
+      "timestamp": "2026-03-14T15:50:30+00:00",
+      "timestamp_display": "14/03/2026 09:50 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 012+900, en la carretera Matehuala - Saltillo. Atienda indicación vial.",
       "type": "twitter",
@@ -245,29 +274,16 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Puebla tras presencia de personas, cerca del km 040+100, en la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 40.1,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2032545725851062293#m",
-      "timestamp": "2026-03-13T19:53:58+00:00",
-      "timestamp_display": "13/03/2026 13:53 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 005+700, de la carretera Libramiento Veracruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 5.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032534457031237967#m",
-      "timestamp": "2026-03-13T19:09:11+00:00",
-      "timestamp_display": "13/03/2026 13:09 CST",
+      "url": "https://nitter.net/CAPUFE/status/2032848105440219598#m",
+      "timestamp": "2026-03-14T15:55:31+00:00",
+      "timestamp_display": "14/03/2026 09:55 CST",
       "segment": null
     },
     {
@@ -515,19 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032802593508835800#m",
       "timestamp": "2026-03-14T12:54:40+00:00",
       "timestamp_display": "14/03/2026 06:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠    \nAutopista Acayucan - Cosoleacaque, km 20, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 20,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032802392241025082#m",
-      "timestamp": "2026-03-14T12:53:52+00:00",
-      "timestamp_display": "14/03/2026 06:53 CST",
       "segment": null
     }
   ]
