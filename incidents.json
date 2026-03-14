@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T07:21:39.117410",
+  "last_update": "2026-03-14T07:56:02.488261",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 118+000, en la carretera  Ent. Tula - Ciudad Victoria. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 13, dirección Cosoleacaque. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/ndc9dQr6iZarhBVt8",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 13,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032722137702613033#m",
+      "timestamp": "2026-03-14T07:34:58+00:00",
+      "timestamp_display": "14/03/2026 01:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2032721425547608266#m",
+      "timestamp": "2026-03-14T07:32:08+00:00",
+      "timestamp_display": "14/03/2026 01:32 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴  \nAut. Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.0,
@@ -496,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2032669486570958983#m",
       "timestamp": "2026-03-14T04:05:45+00:00",
       "timestamp_display": "13/03/2026 22:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 78, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 78,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032665127674167445#m",
-      "timestamp": "2026-03-14T03:48:26+00:00",
-      "timestamp_display": "13/03/2026 21:48 CST",
       "segment": null
     }
   ]
