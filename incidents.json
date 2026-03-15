@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-15T10:49:52.908778",
+  "last_update": "2026-03-15T11:27:21.998094",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 163+000, en la carretera La Tinaja - Cosoleacaque. Atienda indicación vial.",
@@ -313,19 +313,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Cosoleacaque, km 163, dirección Cosoleacaque. Reducción de carriles por atención de choque de costado entre tracto camión y tracto camión tipo pipa. En la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/Ck8fB4iqNkd5Fhwq9",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 163,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033026368322056618#m",
-      "timestamp": "2026-03-15T03:43:52+00:00",
-      "timestamp_display": "14/03/2026 21:43 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Cosoleacaque, km 163, dirección Cosoleacaque. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.0,
@@ -391,6 +378,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Cosoleacaque, km 163, dirección Cosoleacaque. Reducción de carriles por atención de choque de costado entre tracto camión y tracto camión tipo pipa. En la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/Ck8fB4iqNkd5Fhwq9",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 163,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033026368322056618#m",
+      "timestamp": "2026-03-15T03:43:52+00:00",
+      "timestamp_display": "14/03/2026 21:43 CST",
+      "segment": null
+    },
+    {
       "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular muy intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -401,58 +401,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033024868329951430#m",
       "timestamp": "2026-03-15T03:37:55+00:00",
       "timestamp_display": "14/03/2026 21:37 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE ⚠️\n#AutMéxicoQuerétaro, dirección CDMX. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación:\n\n🔘 Km 83, cierre a la circulación por atención de accidente (choque por alcance).\n\n🔘 Km 98, reducción de carriles por atención de accidente (volcadura de remolque)\n\nEn la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 83,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032909855447728511#m",
-      "timestamp": "2026-03-14T20:00:53+00:00",
-      "timestamp_display": "14/03/2026 14:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033011235801673882#m",
-      "timestamp": "2026-03-15T02:43:44+00:00",
-      "timestamp_display": "14/03/2026 20:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 76, dirección Querétaro. Cierre a la circulación por atención de choque por alcance entre tracto camiones. En la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/9564cvq9Qnqkkgz97",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 76,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2032987925982413204#m",
-      "timestamp": "2026-03-15T01:11:07+00:00",
-      "timestamp_display": "14/03/2026 19:11 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 76, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Toma tus precauciones. Para más información por favor llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 76,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2032998924437352503#m",
-      "timestamp": "2026-03-15T01:54:49+00:00",
-      "timestamp_display": "14/03/2026 19:54 CST",
       "segment": null
     },
     {
@@ -508,6 +456,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033011235801673882#m",
+      "timestamp": "2026-03-15T02:43:44+00:00",
+      "timestamp_display": "14/03/2026 20:43 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 193. Se restablece la circulación en ambos sentidos. El personal continúa con la atención del incidente, por el momento sin afectar los carriles de rodamiento. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.24,
@@ -518,6 +479,32 @@
       "url": "https://nitter.net/CAPUFE/status/2033006620200849618#m",
       "timestamp": "2026-03-15T02:25:24+00:00",
       "timestamp_display": "14/03/2026 20:25 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por atención de accidente.\nEn la zona se registra carga vehicular intensa. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033004291191878127#m",
+      "timestamp": "2026-03-15T02:16:09+00:00",
+      "timestamp_display": "14/03/2026 20:16 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 76, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Toma tus precauciones. Para más información por favor llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 76,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2032998924437352503#m",
+      "timestamp": "2026-03-15T01:54:49+00:00",
+      "timestamp_display": "14/03/2026 19:54 CST",
       "segment": null
     },
     {
