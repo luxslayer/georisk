@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-15T22:00:11.779713",
+  "last_update": "2026-03-15T22:39:59.713606",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #AccidenteVial cerca del km 035+800, en la carretera México - Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": 35.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033308045476786219#m",
+      "timestamp": "2026-03-15T22:23:09+00:00",
+      "timestamp_display": "15/03/2026 16:23 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 151+500, en la carretera Querétaro - San Luis Potosí. Atienda indicación vial.",
       "type": "twitter",
@@ -28,6 +41,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2033267684704452953#m",
       "timestamp": "2026-03-15T19:42:46+00:00",
       "timestamp_display": "15/03/2026 13:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 40 al 50. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 40,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033309281185911184#m",
+      "timestamp": "2026-03-15T22:28:04+00:00",
+      "timestamp_display": "15/03/2026 16:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cuernavaca - Acapulco, km 309, dirección Acapulco. Cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 309,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033306942991368679#m",
+      "timestamp": "2026-03-15T22:18:46+00:00",
+      "timestamp_display": "15/03/2026 16:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 254, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 254,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033303235629322512#m",
+      "timestamp": "2026-03-15T22:04:02+00:00",
+      "timestamp_display": "15/03/2026 16:04 CST",
       "segment": null
     },
     {
@@ -236,45 +288,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033223815904248107#m",
       "timestamp": "2026-03-15T16:48:27+00:00",
       "timestamp_display": "15/03/2026 10:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, dirección Cuernavaca. Registra carga vehicular por periodo vacacional, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033214908867723567#m",
-      "timestamp": "2026-03-15T16:13:04+00:00",
-      "timestamp_display": "15/03/2026 10:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 141,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033211063844458885#m",
-      "timestamp": "2026-03-15T15:57:47+00:00",
-      "timestamp_display": "15/03/2026 09:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Obregón - Guaymas, km 53, dirección Cd. Obregón. Circulación intermitente por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033207713623118082#m",
-      "timestamp": "2026-03-15T15:44:28+00:00",
-      "timestamp_display": "15/03/2026 09:44 CST",
       "segment": null
     }
   ]
