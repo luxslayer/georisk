@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-03-15T21:42:57.093383",
+  "last_update": "2026-03-15T22:00:11.779713",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 151+500, en la carretera Querétaro - San Luis Potosí. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.771321406857375,
+      "lng": -100.70476926210378,
+      "road": 57,
+      "km": 151.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033279685845512463#m",
+      "timestamp": "2026-03-15T20:30:28+00:00",
+      "timestamp_display": "15/03/2026 14:30 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "#ViaLibre en #EdoMex tras #AccidenteVial cerca del km 035+800, en la carretera México -  Puebla.Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": 35.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033267684704452953#m",
+      "timestamp": "2026-03-15T19:42:46+00:00",
+      "timestamp_display": "15/03/2026 13:42 CST",
+      "segment": null
+    },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 75, dirección Isla. Reducción de carriles por atención de accidente (caída de carga de tracto camión). Maneja con precaución.",
       "type": "twitter",
