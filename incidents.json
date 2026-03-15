@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-03-15T19:49:53.499160",
+  "last_update": "2026-03-15T20:31:46.253622",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 151+500, en la carretera Querétaro - San Luis Potosí. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.771321406857375,
+      "lng": -100.70476926210378,
+      "road": 57,
+      "km": 151.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033279685845512463#m",
+      "timestamp": "2026-03-15T20:30:28+00:00",
+      "timestamp_display": "15/03/2026 14:30 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
     {
       "title": "#ViaLibre en #EdoMex tras #AccidenteVial cerca del km 035+800, en la carretera México -  Puebla.Maneje con precaución.",
       "type": "twitter",
