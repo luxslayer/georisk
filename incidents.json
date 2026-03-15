@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-15T16:02:12.394935",
+  "last_update": "2026-03-15T16:49:40.430040",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 022+000, en la carretera González- Llera de Canales. Atienda indicación vial.",
@@ -271,6 +271,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 35, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.307655008917,
+      "lng": -98.74566301128941,
+      "road": 150,
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033223815904248107#m",
+      "timestamp": "2026-03-15T16:48:27+00:00",
+      "timestamp_display": "15/03/2026 10:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, dirección Cuernavaca. Registra carga vehicular por periodo vacacional, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033214908867723567#m",
+      "timestamp": "2026-03-15T16:13:04+00:00",
+      "timestamp_display": "15/03/2026 10:13 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 19.0414,
@@ -501,19 +527,6 @@
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2033174574926340426#m",
       "timestamp": "2026-03-15T13:32:47+00:00",
-      "timestamp_display": "15/03/2026 07:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 110. Reducción de carriles en el retorno en dirección Cuernavaca por atención de accidente (salida del camino de automóvil y choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 110,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033174374262489496#m",
-      "timestamp": "2026-03-15T13:32:00+00:00",
       "timestamp_display": "15/03/2026 07:32 CST",
       "segment": null
     }
