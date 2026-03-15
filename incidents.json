@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-15T17:29:02.465166",
+  "last_update": "2026-03-15T17:56:00.173008",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 044+600, de la carretera Puebla - Tehuacán. Atienda indicación vial.",
@@ -271,16 +271,42 @@
       ]
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 4, dirección La Pera. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 35, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.307655008917,
+      "lng": -98.74566301128941,
+      "road": 150,
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033240196137767073#m",
+      "timestamp": "2026-03-15T17:53:33+00:00",
+      "timestamp_display": "15/03/2026 11:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 0, dirección La Pera. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 4,
+      "km": 0,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033230653312180322#m",
-      "timestamp": "2026-03-15T17:15:38+00:00",
-      "timestamp_display": "15/03/2026 11:15 CST",
+      "url": "https://nitter.net/CAPUFE/status/2033239307117350987#m",
+      "timestamp": "2026-03-15T17:50:01+00:00",
+      "timestamp_display": "15/03/2026 11:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 141,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033234107749240910#m",
+      "timestamp": "2026-03-15T17:29:21+00:00",
+      "timestamp_display": "15/03/2026 11:29 CST",
       "segment": null
     },
     {
@@ -489,45 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033180710912045509#m",
       "timestamp": "2026-03-15T13:57:10+00:00",
       "timestamp_display": "15/03/2026 07:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, Plaza de Cobro Libramiento Sur Poniente, dirección Querétaro. Reducción de carriles en la gasa de incorporación a la autopista, por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033179437915673078#m",
-      "timestamp": "2026-03-15T13:52:07+00:00",
-      "timestamp_display": "15/03/2026 07:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 44. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033176224030241170#m",
-      "timestamp": "2026-03-15T13:39:21+00:00",
-      "timestamp_display": "15/03/2026 07:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 44. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033175253539524970#m",
-      "timestamp": "2026-03-15T13:35:29+00:00",
-      "timestamp_display": "15/03/2026 07:35 CST",
       "segment": null
     }
   ]
