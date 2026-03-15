@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-15T23:02:12.390839",
+  "last_update": "2026-03-15T23:44:10.695226",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #AccidenteVial cerca del km 035+800, en la carretera México - Puebla. Atienda indicación vial.",
@@ -41,6 +41,84 @@
       "url": "https://nitter.net/GN_Carreteras/status/2033267684704452953#m",
       "timestamp": "2026-03-15T19:42:46+00:00",
       "timestamp_display": "15/03/2026 13:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 75, dirección Isla. Continúa reducción de carriles por atención de accidente (caída de carga de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 75,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033326380025282920#m",
+      "timestamp": "2026-03-15T23:36:01+00:00",
+      "timestamp_display": "15/03/2026 17:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033325995613118824#m",
+      "timestamp": "2026-03-15T23:34:29+00:00",
+      "timestamp_display": "15/03/2026 17:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 44. Continúa circulación intermitente en ambos sentidos por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033321324576198681#m",
+      "timestamp": "2026-03-15T23:15:55+00:00",
+      "timestamp_display": "15/03/2026 17:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033320781556359355#m",
+      "timestamp": "2026-03-15T23:13:46+00:00",
+      "timestamp_display": "15/03/2026 17:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Cuernavaca - Acapulco, km 309, dirección Acapulco. Cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 309,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033319603456061866#m",
+      "timestamp": "2026-03-15T23:09:05+00:00",
+      "timestamp_display": "15/03/2026 17:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Reducción de carriles en ambos sentidos por presencia de manifestantes. Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033319354226364732#m",
+      "timestamp": "2026-03-15T23:08:05+00:00",
+      "timestamp_display": "15/03/2026 17:08 CST",
       "segment": null
     },
     {
@@ -223,71 +301,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033249529500139775#m",
       "timestamp": "2026-03-15T18:30:38+00:00",
       "timestamp_display": "15/03/2026 12:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Obregón - Guaymas, km 53, dirección Cd. Obregón. Continúa circulación intermitente por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033247081058476143#m",
-      "timestamp": "2026-03-15T18:20:54+00:00",
-      "timestamp_display": "15/03/2026 12:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 0, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033243959665766763#m",
-      "timestamp": "2026-03-15T18:08:30+00:00",
-      "timestamp_display": "15/03/2026 12:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 35, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.307655008917,
-      "lng": -98.74566301128941,
-      "road": 150,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033240196137767073#m",
-      "timestamp": "2026-03-15T17:53:33+00:00",
-      "timestamp_display": "15/03/2026 11:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 0, dirección La Pera. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033239307117350987#m",
-      "timestamp": "2026-03-15T17:50:01+00:00",
-      "timestamp_display": "15/03/2026 11:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 141,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033234107749240910#m",
-      "timestamp": "2026-03-15T17:29:21+00:00",
-      "timestamp_display": "15/03/2026 11:29 CST",
       "segment": null
     }
   ]
