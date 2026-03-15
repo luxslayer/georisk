@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-15T16:49:40.430040",
+  "last_update": "2026-03-15T17:29:02.465166",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 044+600, de la carretera Puebla - Tehuacán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 44.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033232881531670616#m",
+      "timestamp": "2026-03-15T17:24:29+00:00",
+      "timestamp_display": "15/03/2026 11:24 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 106+800, en la carretera San Luis Potosí - Matehuala. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 106.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033225285395726632#m",
+      "timestamp": "2026-03-15T16:54:18+00:00",
+      "timestamp_display": "15/03/2026 10:54 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 022+000, en la carretera González- Llera de Canales. Atienda indicación vial.",
       "type": "twitter",
@@ -245,29 +271,16 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 103+200, en la carretera Aguascalientes - Zacatecas. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": null,
-      "km": 103.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032896006946172941#m",
-      "timestamp": "2026-03-14T19:05:52+00:00",
-      "timestamp_display": "14/03/2026 13:05 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 191+800, en la carretera Huizache - Antiguo Morelos. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 4, dirección La Pera. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 191.8,
+      "km": 4,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2032891472568017058#m",
-      "timestamp": "2026-03-14T18:47:51+00:00",
-      "timestamp_display": "14/03/2026 12:47 CST",
+      "url": "https://nitter.net/CAPUFE/status/2033230653312180322#m",
+      "timestamp": "2026-03-15T17:15:38+00:00",
+      "timestamp_display": "15/03/2026 11:15 CST",
       "segment": null
     },
     {
@@ -515,19 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033175253539524970#m",
       "timestamp": "2026-03-15T13:35:29+00:00",
       "timestamp_display": "15/03/2026 07:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 67, dirección CDMX. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 67,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033174574926340426#m",
-      "timestamp": "2026-03-15T13:32:47+00:00",
-      "timestamp_display": "15/03/2026 07:32 CST",
       "segment": null
     }
   ]
