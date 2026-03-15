@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-15T15:44:40.271397",
+  "last_update": "2026-03-15T16:02:12.394935",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 022+000, en la carretera González- Llera de Canales. Atienda indicación vial.",
@@ -271,6 +271,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 141,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033211063844458885#m",
+      "timestamp": "2026-03-15T15:57:47+00:00",
+      "timestamp_display": "15/03/2026 09:57 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Obregón - Guaymas, km 53, dirección Cd. Obregón. Circulación intermitente por atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -502,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033174374262489496#m",
       "timestamp": "2026-03-15T13:32:00+00:00",
       "timestamp_display": "15/03/2026 07:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 230, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 230,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033162091125760329#m",
-      "timestamp": "2026-03-15T12:43:11+00:00",
-      "timestamp_display": "15/03/2026 06:43 CST",
       "segment": null
     }
   ]
