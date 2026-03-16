@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-16T14:46:09.825079",
+  "last_update": "2026-03-16T15:19:38.292717",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 144+500, en la carretera  Acajete-Xalapa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.54,
+      "lng": -96.92,
+      "road": null,
+      "km": 144.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033560325912404121#m",
+      "timestamp": "2026-03-16T15:05:38+00:00",
+      "timestamp_display": "16/03/2026 09:05 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 001+800, en la carretera Oaxaca - Puerto Ángel ala altura de la caseta de cobro 225 Barranca Larga. Maneje con precaución.",
       "type": "twitter",
@@ -196,6 +209,71 @@
       "segment": null
     },
     {
+      "title": "Pinned: ⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, continúa cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, continúa reducción de carriles por atención de choque por alcance entre tracto camión y autobús.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/YTTTUM3zHBggh7h48\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033563230136651849#m",
+      "timestamp": "2026-03-16T15:17:10+00:00",
+      "timestamp_display": "16/03/2026 09:17 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús).\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033553627990659381#m",
+      "timestamp": "2026-03-16T14:39:01+00:00",
+      "timestamp_display": "16/03/2026 08:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 218, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 218,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033560163920003514#m",
+      "timestamp": "2026-03-16T15:04:59+00:00",
+      "timestamp_display": "16/03/2026 09:04 CST",
+      "segment": null
+    },
+    {
+      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nElegir conducir con responsabilidad también es parte del viaje.\n👉 Respeta los límites de velocidad y llega con bien. 🚗\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033558917582643300#m",
+      "timestamp": "2026-03-16T15:00:02+00:00",
+      "timestamp_display": "16/03/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Obregón - Guaymas, km 8, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 8,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033558392648741133#m",
+      "timestamp": "2026-03-16T14:57:57+00:00",
+      "timestamp_display": "16/03/2026 08:57 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧\nSe realizarán trabajos de mejora del km 17 al 22, con desvíos parciales en carriles centrales para ambos sentidos.\nTome sus precauciones.",
       "type": "twitter",
       "lat": 19.4326,
@@ -206,19 +284,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033554430680006996#m",
       "timestamp": "2026-03-16T14:42:12+00:00",
       "timestamp_display": "16/03/2026 08:42 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús).\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 128,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033553627990659381#m",
-      "timestamp": "2026-03-16T14:39:01+00:00",
-      "timestamp_display": "16/03/2026 08:39 CST",
       "segment": null
     },
     {
@@ -388,58 +453,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033481860420948261#m",
       "timestamp": "2026-03-16T09:53:50+00:00",
       "timestamp_display": "16/03/2026 03:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 138, dirección Acatzingo. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 138,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033480329843834968#m",
-      "timestamp": "2026-03-16T09:47:45+00:00",
-      "timestamp_display": "16/03/2026 03:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Gómez Palacio - Corralitos, km 106, dirección Corralitos. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 106,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033477751236121057#m",
-      "timestamp": "2026-03-16T09:37:30+00:00",
-      "timestamp_display": "16/03/2026 03:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Gómez Palacio - Corralitos, km 106, dirección Corralitos. Reducción de carriles por atención de accidente (choque por alcance y volcadura de vagoneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 106,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033465868802207929#m",
-      "timestamp": "2026-03-16T08:50:17+00:00",
-      "timestamp_display": "16/03/2026 02:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 242, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 242,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033461453978472711#m",
-      "timestamp": "2026-03-16T08:32:45+00:00",
-      "timestamp_display": "16/03/2026 02:32 CST",
       "segment": null
     }
   ]
