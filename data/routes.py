@@ -20,10 +20,13 @@ routes = {
     ("monclova","piedras negras"):57,
     ("monterrey","nuevo laredo"):85,
     ("pachuca","tuxpan"):130,
-    ("mexico","puebla"):150,
+    ("la tinaja","acayucan"):145,
+    ("acayucan","cosoleacaque"):145,
     ("mexico","puebla"):150,
     ("puebla","cordoba"):150,
+    ("cordoba","veracruz"):150,
     ("xalapa","veracruz"):180,
+    ("nuevo teapa","cosoleacaque"):180,
     ("la ventosa","tapanatepec"):190
 
 }

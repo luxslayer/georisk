@@ -58,12 +58,21 @@ const KNOWN_ROADS = [
     { cities: ["poza rica", "tuxpan"],    name: "Poza Rica – Tuxpan" },
   ]},
 
+  {id: 145|, label: "MEX-145", name: "La Tinaja – Cosoleacaque", segments: [
+    { cities: ["la tinaja", "acayucan"], name: "La Tinaja – Acayucan" },
+    { cities: ["acayucan", "cosoleacaque"], name: "Acayucan – Cosoleacaque" },
+  ]},
+
   { id: 150, label: "MEX-150", name: "CDMX – Veracruz", segments: [
     { cities: ["mexico", "puebla"],  name: "México – Puebla"  },
     { cities: ["puebla", "veracruz"],name: "Puebla – Veracruz"},
+    { cities: ["cordoba", "veracruz"],name: "Córdoba – Veracruz"},
   ]},
 
-  { id: 180, label: "MEX-180", name: "Tabasco – Cancún" },
+  { id: 180, label: "MEX-180", name: "Tabasco – Cancún", segments: [
+    { cities: ["nuevo teapa", "cosoleacaque"], name: "Nuevo Teapa – Cosoleacaque" },
+    { cities: ["la ventosa", "tapanatepec"], name: "La Ventosa – Tapanatepec" },
+  ]},
 
   { id: 200, label: "MEX-200", name: "Nayarit – Chiapas" },
 ];

@@ -42,7 +42,14 @@ road_segments = {
             "km_end": 44,
             "coord_start": (32.4967, -114.8259),  
             "coord_end":   (32.5530, -115.2578),
-        }
+        },
+        {
+            "cities": ("mexicali", "tijuana"),
+            "km_start": 0,
+            "km_end": 150,
+            "coord_start": (32.6110, -115.5204),  
+            "coord_end":   (32.5443, -116.8533),
+        },
     ],
     
     15:[
@@ -205,13 +212,54 @@ road_segments = {
         },
     ],
 
+    145: [
+        {
+            "cities":    ("la tinaja", "acayucan"),
+            "km_start":  0,
+            "km_end":    188,
+            "coord_start": (18.7773, -96.4570),  
+            "coord_end":   (17.9098, -94.9407),
+        },
+        {
+            "cities":    ("acayucan", "cosoleacaque"),
+            "km_start":  0,
+            "km_end":    40,
+            "coord_start": (17.9101, -94.9356),  
+            "coord_end":   (18.0010, -94.5968),
+        },
+    ],
+
     150: [  
+        {
+            "cities":    ("mexico", "puebla"),
+            "km_start":  18,
+            "km_end":    130,
+            "coord_start": (19.3526, -98.9887),  
+            "coord_end":   (19.1747, -98.3076),
+        },
         {
             "cities":    ("puebla", "cordoba"),
             "km_start":  109,
             "km_end":    301,
             "coord_start": (19.1681, -98.3000),  
             "coord_end":   (18.8609, -96.8762),
+        },
+        {
+            "cities":    ("cordoba", "veracruz"),
+            "km_start":  0,
+            "km_end":    100,
+            "coord_start": (18.8617, -96.8713),  
+            "coord_end":   (19.1373, -96.1519),
+        },
+    ],
+
+    180: [
+        {
+            "cities":    ("nuevo teapa", "cosoleacaque"),
+            "km_start":  0,
+            "km_end":    32,
+            "coord_start": (18.0720, -94.3209),  
+            "coord_end":   (18.0092, -94.5873),
         },
     ],
 
