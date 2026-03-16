@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-03-16T08:13:17.478141",
+  "last_update": "2026-03-16T09:15:38.773521",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 001+800, en la carretera Oaxaca - Puerto Ángel ala altura de la caseta de cobro 225 Barranca Larga. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 1.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2033464002513084578#m",
+      "timestamp": "2026-03-16T08:42:52+00:00",
+      "timestamp_display": "16/03/2026 02:42 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 151+500, en la carretera Querétaro - San Luis Potosí. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.771321406857375,
+      "lng": -100.70476926210378,
+      "road": 57,
+      "km": 151.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033463308657852678#m",
+      "timestamp": "2026-03-16T08:40:07+00:00",
+      "timestamp_display": "16/03/2026 02:40 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación por #AccidenteVial cerca del km 020+400, en la carretera Libramiento Sur de Durango. Atienda indicación vial.",
       "type": "twitter",
@@ -77,19 +106,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2033386562931577182#m",
       "timestamp": "2026-03-16T03:35:09+00:00",
       "timestamp_display": "15/03/2026 21:35 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de la circulación por #AccidenteVial cerca del km 022+500, en la carretera Huajuapan de León - Oaxaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 22.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033367420971131238#m",
-      "timestamp": "2026-03-16T02:19:05+00:00",
-      "timestamp_display": "15/03/2026 20:19 CST",
       "segment": null
     },
     {
@@ -180,6 +196,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Gómez Palacio - Corralitos, km 106, dirección Corralitos. Reducción de carriles por atención de accidente (choque por alcance y volcadura de vagoneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 106,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033465868802207929#m",
+      "timestamp": "2026-03-16T08:50:17+00:00",
+      "timestamp_display": "16/03/2026 02:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 242, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 242,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033461453978472711#m",
+      "timestamp": "2026-03-16T08:32:45+00:00",
+      "timestamp_display": "16/03/2026 02:32 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 45, dirección CDMX. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.93,
@@ -203,19 +245,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033446607035760818#m",
       "timestamp": "2026-03-16T07:33:45+00:00",
       "timestamp_display": "16/03/2026 01:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Gómez Palacio - Corralitos, km 161, dirección Corralitos. Reducción de carriles por atención de accidente (choque por alcance y volcadura de vagoneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 161,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033442176944738435#m",
-      "timestamp": "2026-03-16T07:16:09+00:00",
-      "timestamp_display": "16/03/2026 01:16 CST",
       "segment": null
     },
     {
