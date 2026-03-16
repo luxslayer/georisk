@@ -7,11 +7,16 @@ const KNOWN_ROADS = [
     { cities: ["janos",    "agua prieta"], name: "Janos – Agua Prieta"},
     { cities: ["agua prieta",    "imuris"], name: "Agua Prieta – Imuris"},
     { cities: ["santa ana",    "sonoyta"], name: "Santa Ana – Sonoyta"},
+    { cities: ["sonoyta",    "san luis rio colorado"], name: "Sonoyta – San Luis Río Colorado"},
+    { cities: ["san luis rio colorado", "mexicali"], name: "San Luis Río Colorado – Mexicali"},
   ]},
+
   { id: 15,  label: "MEX-15", name: "Nogales – Guadalajara" },
+
   { id: 40,  label: "MEX-40", name: "Mazatlán – Matamoros", segments: [
     { cities: ["saltillo",    "monterrey"], name: "Saltillo – Monterrey"},
   ]},
+
   { id: 40,  label: "MEX-40D", name: "Arco Norte", segments: [
     { cities: ["atlacomulco",    "jilotepec"], name: "Atlacomulco – Jilotepec"},
     { cities: ["jilotepec", "queretaro"],   name: "Jilotepec – Querétaro"},
@@ -26,9 +31,11 @@ const KNOWN_ROADS = [
     { cities: ["calpulalpan",    "sanctorum"],        name: "Calpulalpan – Sanctorum"},
     { cities: ["sanctorum",    "texmelucan"],        name: "Sanctorum – Texmelucan"}
   ]},
+
   { id: 45,  label: "MEX-45", name: "Juárez – Guadalajara", segments: [ 
     { cities: ["leon",    "aguascalientes"], name: "León – Aguascalientes" },
   ] },
+
   { id: 57,  label: "MEX-57", name: "México – Piedras Negras", segments: [
     { cities: ["mexico",    "queretaro"], name: "CDMX – Querétaro"       },
     { cities: ["queretaro",    "san luis potosi"], name: "Querétaro – SLP"       },
@@ -38,20 +45,26 @@ const KNOWN_ROADS = [
     { cities: ["saltillo","monclova"],    name: "Saltillo – Monclova" },
     { cities: ["monclova","piedras negras"],    name: "Monclova – Piedras Negras" },
   ]},
+
   { id: 85,  label: "MEX-85", name: "México – Nuevo Laredo", segments: [
     { cities: ["monterrey",    "nuevo laredo"],    name: "Monterrey – Nuevo Laredo" },
   ]},
+
   { id: 95,  label: "MEX-95",  name: "México – Acapulco" },
+
   { id: 130, label: "MEX-130", name: "Pachuca – Tuxpan", segments: [
     { cities: ["pachuca",   "tulancingo"], name: "Pachuca – Tulancingo" },
     { cities: ["tulancingo","poza rica"],  name: "Tulancingo – Poza Rica" },
     { cities: ["poza rica", "tuxpan"],    name: "Poza Rica – Tuxpan" },
   ]},
+
   { id: 150, label: "MEX-150", name: "CDMX – Veracruz", segments: [
     { cities: ["mexico", "puebla"],  name: "México – Puebla"  },
     { cities: ["puebla", "veracruz"],name: "Puebla – Veracruz"},
   ]},
+
   { id: 180, label: "MEX-180", name: "Tabasco – Cancún" },
+
   { id: 200, label: "MEX-200", name: "Nayarit – Chiapas" },
 ];
 

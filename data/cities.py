@@ -54,6 +54,7 @@ cities = {
     "rio verde":(21.93, -99.99),
     "sahagun":(19.7703, -98.5789),
     "san luis potosi":(22.15,-100.98),
+    "san luis rio colorado":(32.4473, -114.7685),
     "sanctorum":(19.4927, -98.4706),
     "salina cruz": (16.17,-95.20),
     "saltillo":(25.4267,-101.0053),

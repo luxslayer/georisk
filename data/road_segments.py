@@ -35,6 +35,13 @@ road_segments = {
             "km_end": 250,
             "coord_start": (31.8740, -112.8500 ),  
             "coord_end":   (),
+        },
+        {
+            "cities": ("san luis rio colorado", "mexicali"),
+            "km_start": 0,
+            "km_end": 44,
+            "coord_start": (32.4967, -114.8259),  
+            "coord_end":   (32.5530, -115.2578),
         }
     ],
     
