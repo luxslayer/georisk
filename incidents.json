@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-16T10:35:41.742775",
+  "last_update": "2026-03-16T11:33:44.108900",
   "incidents": [
     {
       "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 001+800, en la carretera Oaxaca - Puerto Ángel ala altura de la caseta de cobro 225 Barranca Larga. Maneje con precaución.",
@@ -193,6 +193,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2033267684704452953#m",
       "timestamp": "2026-03-15T19:42:46+00:00",
       "timestamp_display": "15/03/2026 13:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 130, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 130,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033504549588111509#m",
+      "timestamp": "2026-03-16T11:23:59+00:00",
+      "timestamp_display": "16/03/2026 05:23 CST",
       "segment": null
     },
     {
@@ -440,19 +453,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033415706453110828#m",
       "timestamp": "2026-03-16T05:30:58+00:00",
       "timestamp_display": "15/03/2026 23:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 242, dirección Acapulco. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 242,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033413347597586763#m",
-      "timestamp": "2026-03-16T05:21:35+00:00",
-      "timestamp_display": "15/03/2026 23:21 CST",
       "segment": null
     }
   ]
