@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-16T19:42:13.777091",
+  "last_update": "2026-03-16T20:21:37.289467",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 020+200, en la carretera Oaxaca-Tehuantepec. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 20.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2033638197146603616#m",
+      "timestamp": "2026-03-16T20:15:04+00:00",
+      "timestamp_display": "16/03/2026 14:15 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Querétaro se registra cierre parcial de la circulación por #AccidenteVial cerca del km 202+200, en la carretera México-Querétaro. Atienda indicación vial.",
       "type": "twitter",
@@ -261,20 +274,56 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 151+500, en la carretera Querétaro - San Luis Potosí. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
-      "lat": 21.771321406857375,
-      "lng": -100.70476926210378,
-      "road": 57,
-      "km": 151.5,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033639735944446175#m",
+      "timestamp": "2026-03-16T20:21:10+00:00",
+      "timestamp_display": "16/03/2026 14:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 193. El accidente ha sido atendido. Se restablece la circulación en la zona en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 193,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033463308657852678#m",
-      "timestamp": "2026-03-16T08:40:07+00:00",
-      "timestamp_display": "16/03/2026 02:40 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2033638713872335227#m",
+      "timestamp": "2026-03-16T20:17:07+00:00",
+      "timestamp_display": "16/03/2026 14:17 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAut. Isla - Acayucan, km 128 y 129, dirección Acayucan. Se informa a las personas usuarias que los accidentes han sido atendidos, por lo que se restablece la circulación desde la Plaza de Cobro Cosamaloapan. \nEn la zona se registra carga vehicular intensa. Unidades de CAPUFE, realizan operativo de vialidad. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033634833784836286#m",
+      "timestamp": "2026-03-16T20:01:42+00:00",
+      "timestamp_display": "16/03/2026 14:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Acayucan, km 188, dirección Acayucan. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 188,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033630488519147997#m",
+      "timestamp": "2026-03-16T19:44:26+00:00",
+      "timestamp_display": "16/03/2026 13:44 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Oriente de Chihuahua, km 7. Circulación intermitente en ambos sentidos por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
@@ -316,7 +365,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAut. Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que, continúa cerrada la circulación desde la Plaza de Cobro Cosamaloapan, debido a que el personal se encuentra realizando las labores de atención en los siguientes eventos:\n\n🔘 Km 128, maniobras para el retiro de unidad siniestrada.\n🔘 Km 129, labores de limpieza.\n\nSe recomienda a la ciudadanía tomar como vía alterna, la carretera libre a la altura del km 48 (Poblado Tierra Blanca).\nLa carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAut. Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que, continúa cerrada la circulación desde la Plaza de Cobro Cosamaloapan, debido a que el personal se encuentra realizando las labores de atención en los siguientes eventos:\n\n🔘 Km 128, maniobras para el retiro de unidad siniestrada.\n🔘 Km 129, labores de limpieza.\n\nSe recomienda a la ciudadanía tomar como vía alterna, la carretera libre a la altura del km 48 (Poblado Tierra Blanca).\nLa carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 17.94,
       "lng": -94.91,
@@ -379,22 +428,6 @@
       "timestamp": "2026-03-16T18:17:47+00:00",
       "timestamp_display": "16/03/2026 12:17 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧\nSe realizarán trabajos de mejora del km 17 al 22, con desvíos parciales en carriles centrales para ambos sentidos.\nTome sus precauciones.",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033608325619982815#m",
-      "timestamp": "2026-03-16T18:16:22+00:00",
-      "timestamp_display": "16/03/2026 12:16 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR🟠   \nLibramiento Poniente Tampico, Plaza de Cobro Tampico. Registra carga vehicular en ambos sentidos por atención de incidencia. Maneja con precaución.",
@@ -485,45 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033578890221006850#m",
       "timestamp": "2026-03-16T16:19:24+00:00",
       "timestamp_display": "16/03/2026 10:19 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que, por seguridad se cierra el tránsito vehicular desde la Plaza de Cobro Cosamaloapan, debido a los diversos eventos que afectan la circulación:\n\n🔘 Km 128, salida del camino de tracto camión.\n🔘 Km 129, choque por alcance entre tracto camión y autobús.\n\nPersonal de CAPUFE y Guardia Nacional, se encuentran laborando en la atención de los accidentes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 128,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033575195114618925#m",
-      "timestamp": "2026-03-16T16:04:43+00:00",
-      "timestamp_display": "16/03/2026 10:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS   🌧️🌩️         \nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia y #vientosfuertes. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033567756331700502#m",
-      "timestamp": "2026-03-16T15:35:09+00:00",
-      "timestamp_display": "16/03/2026 09:35 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que continúan los diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, cierre a la circulación por atención de choque por alcance entre tracto camión y autobús.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 128,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033566714693140825#m",
-      "timestamp": "2026-03-16T15:31:01+00:00",
-      "timestamp_display": "16/03/2026 09:31 CST",
       "segment": null
     }
   ]
