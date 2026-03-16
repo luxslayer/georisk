@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-03-16T15:19:38.292717",
+  "last_update": "2026-03-16T16:36:58.358205",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de la circulación por #AccidenteVial cerca del km 128+300, en la carretera  Ent. La Tinaja-Cosoleacaque. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 128.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033571717046509816#m",
+      "timestamp": "2026-03-16T15:50:53+00:00",
+      "timestamp_display": "16/03/2026 09:50 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas, cerca del km 067+000, en la carretera La Ventosa-Tapanatepec, sin ruta alterna. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.48099561612876,
+      "lng": -94.36020780773457,
+      "road": 190,
+      "km": 67.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2033566451458605432#m",
+      "timestamp": "2026-03-16T15:29:58+00:00",
+      "timestamp_display": "16/03/2026 09:29 CST",
+      "segment": [
+        "la ventosa",
+        "tapanatepec"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 144+500, en la carretera  Acajete-Xalapa. Atienda indicación vial.",
       "type": "twitter",
@@ -209,7 +238,59 @@
       "segment": null
     },
     {
-      "title": "Pinned: ⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, continúa cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, continúa reducción de carriles por atención de choque por alcance entre tracto camión y autobús.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/YTTTUM3zHBggh7h48\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular por periodo vacacional del km 100 al 95, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 100,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033578890221006850#m",
+      "timestamp": "2026-03-16T16:19:24+00:00",
+      "timestamp_display": "16/03/2026 10:19 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que, por seguridad se cierra el tránsito vehicular desde la Plaza de Cobro Cosamaloapan, debido a los diversos eventos que afectan la circulación:\n\n🔘 Km 128, salida del camino de tracto camión.\n🔘 Km 129, choque por alcance entre tracto camión y autobús.\n\nPersonal de CAPUFE y Guardia Nacional, se encuentran laborando en la atención de los accidentes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033575195114618925#m",
+      "timestamp": "2026-03-16T16:04:43+00:00",
+      "timestamp_display": "16/03/2026 10:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS   🌧️🌩️         \nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia y #vientosfuertes. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033567756331700502#m",
+      "timestamp": "2026-03-16T15:35:09+00:00",
+      "timestamp_display": "16/03/2026 09:35 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que continúan los diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, cierre a la circulación por atención de choque por alcance entre tracto camión y autobús.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033566714693140825#m",
+      "timestamp": "2026-03-16T15:31:01+00:00",
+      "timestamp_display": "16/03/2026 09:31 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, continúa cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, continúa reducción de carriles por atención de choque por alcance entre tracto camión y autobús.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/YTTTUM3zHBggh7h48\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.94,
       "lng": -94.91,
@@ -219,19 +300,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033563230136651849#m",
       "timestamp": "2026-03-16T15:17:10+00:00",
       "timestamp_display": "16/03/2026 09:17 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús).\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 128,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033553627990659381#m",
-      "timestamp": "2026-03-16T14:39:01+00:00",
-      "timestamp_display": "16/03/2026 08:39 CST",
       "segment": null
     },
     {
@@ -284,6 +352,19 @@
       "url": "https://nitter.net/CAPUFE/status/2033554430680006996#m",
       "timestamp": "2026-03-16T14:42:12+00:00",
       "timestamp_display": "16/03/2026 08:42 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús).\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033553627990659381#m",
+      "timestamp": "2026-03-16T14:39:01+00:00",
+      "timestamp_display": "16/03/2026 08:39 CST",
       "segment": null
     },
     {
@@ -401,58 +482,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033526589686767686#m",
       "timestamp": "2026-03-16T12:51:34+00:00",
       "timestamp_display": "16/03/2026 06:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 130, dirección Acayucan. Continúa reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 130,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033519680749707614#m",
-      "timestamp": "2026-03-16T12:24:07+00:00",
-      "timestamp_display": "16/03/2026 06:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 130, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 130,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033504549588111509#m",
-      "timestamp": "2026-03-16T11:23:59+00:00",
-      "timestamp_display": "16/03/2026 05:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 45, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033492227976986862#m",
-      "timestamp": "2026-03-16T10:35:02+00:00",
-      "timestamp_display": "16/03/2026 04:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 45, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033481860420948261#m",
-      "timestamp": "2026-03-16T09:53:50+00:00",
-      "timestamp_display": "16/03/2026 03:53 CST",
       "segment": null
     }
   ]
