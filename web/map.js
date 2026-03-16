@@ -58,7 +58,7 @@ const KNOWN_ROADS = [
     { cities: ["poza rica", "tuxpan"],    name: "Poza Rica – Tuxpan" },
   ]},
 
-  {id: 145|, label: "MEX-145", name: "La Tinaja – Cosoleacaque", segments: [
+  {id: 145, label: "MEX-145", name: "La Tinaja – Cosoleacaque", segments: [
     { cities: ["la tinaja", "acayucan"], name: "La Tinaja – Acayucan" },
     { cities: ["acayucan", "cosoleacaque"], name: "Acayucan – Cosoleacaque" },
   ]},
