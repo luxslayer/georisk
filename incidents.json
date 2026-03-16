@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-03-16T17:44:39.167726",
+  "last_update": "2026-03-16T18:16:13.135924",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de la circulación por #AccidenteVial cerca del km 012+500, en la carretera Tepic-Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.46713210701064,
+      "lng": -104.85431438703057,
+      "road": 15,
+      "km": 12.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033605139785711911#m",
+      "timestamp": "2026-03-16T18:03:42+00:00",
+      "timestamp_display": "16/03/2026 12:03 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de la circulación por #AccidenteVial cerca del km 039+800, en la carretera  Saltillo-Torreón. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 39.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033604072448651662#m",
+      "timestamp": "2026-03-16T17:59:28+00:00",
+      "timestamp_display": "16/03/2026 11:59 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas, cerca del km 220+200, en la carretera Oaxaca-Tehuantepec. Atienda indicación vial.",
       "type": "twitter",
@@ -98,9 +127,9 @@
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 144+500, en la carretera  Acajete-Xalapa. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 19.54,
-      "lng": -96.92,
-      "road": null,
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
       "km": 144.5,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2033560325912404121#m",
@@ -248,29 +277,29 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de la circulación por #AccidenteVial cerca del km 052+200, en la carretera Saltillo - Monclova. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR🟠   \nLibramiento Poniente Tampico, Plaza de Cobro Tampico. Registra carga vehicular en ambos sentidos por atención de incidencia. Maneja con precaución.",
       "type": "twitter",
-      "lat": 26.9101,
-      "lng": -101.4194,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 52.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033331958239863063#m",
-      "timestamp": "2026-03-15T23:58:10+00:00",
-      "timestamp_display": "15/03/2026 17:58 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033607277953855625#m",
+      "timestamp": "2026-03-16T18:12:12+00:00",
+      "timestamp_display": "16/03/2026 12:12 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #AccidenteVial cerca del km 035+800, en la carretera México - Puebla. Atienda indicación vial.",
+      "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular en diversos puntos de la autopista, por periodo vacacional:\n\n🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan.\n🔘 Km 31, a la altura del Poblado de Topilejo.\n🔘 km 47, a la altura de los Arcos Morelos - Ciudad de México.\nDisminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": 35.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033308045476786219#m",
-      "timestamp": "2026-03-15T22:23:09+00:00",
-      "timestamp_display": "15/03/2026 16:23 CST",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033604273427100148#m",
+      "timestamp": "2026-03-16T18:00:15+00:00",
+      "timestamp_display": "16/03/2026 12:00 CST",
       "segment": null
     },
     {
@@ -352,16 +381,16 @@
       "segment": null
     },
     {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS   🌧️🌩️         \nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia y #vientosfuertes. Disminuye tu velocidad y maneja con precaución.",
+      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús).\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033567756331700502#m",
-      "timestamp": "2026-03-16T15:35:09+00:00",
-      "timestamp_display": "16/03/2026 09:35 CST",
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033553627990659381#m",
+      "timestamp": "2026-03-16T14:39:01+00:00",
+      "timestamp_display": "16/03/2026 08:39 CST",
       "segment": null
     },
     {
@@ -378,16 +407,16 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, continúa cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, continúa reducción de carriles por atención de choque por alcance entre tracto camión y autobús.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/YTTTUM3zHBggh7h48\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS   🌧️🌩️         \nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia y #vientosfuertes. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 128,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033563230136651849#m",
-      "timestamp": "2026-03-16T15:17:10+00:00",
-      "timestamp_display": "16/03/2026 09:17 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033567756331700502#m",
+      "timestamp": "2026-03-16T15:35:09+00:00",
+      "timestamp_display": "16/03/2026 09:35 CST",
       "segment": null
     },
     {
@@ -430,32 +459,6 @@
       "segment": null
     },
     {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧\nSe realizarán trabajos de mejora del km 17 al 22, con desvíos parciales en carriles centrales para ambos sentidos.\nTome sus precauciones.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033554430680006996#m",
-      "timestamp": "2026-03-16T14:42:12+00:00",
-      "timestamp_display": "16/03/2026 08:42 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús).\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 128,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033553627990659381#m",
-      "timestamp": "2026-03-16T14:39:01+00:00",
-      "timestamp_display": "16/03/2026 08:39 CST",
-      "segment": null
-    },
-    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 128, dirección Acayucan. Cierre a la circulación por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.94,
@@ -492,32 +495,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033543028346876090#m",
       "timestamp": "2026-03-16T13:56:54+00:00",
       "timestamp_display": "16/03/2026 07:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 188, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 188,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033541486650720365#m",
-      "timestamp": "2026-03-16T13:50:46+00:00",
-      "timestamp_display": "16/03/2026 07:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Isla - Acayucan, km 130, dirección Acayucan. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 130,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033540331833036985#m",
-      "timestamp": "2026-03-16T13:46:11+00:00",
-      "timestamp_display": "16/03/2026 07:46 CST",
       "segment": null
     }
   ]
