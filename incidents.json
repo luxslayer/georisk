@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-16T14:06:57.536721",
+  "last_update": "2026-03-16T14:46:09.825079",
   "incidents": [
     {
       "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 001+800, en la carretera Oaxaca - Puerto Ángel ala altura de la caseta de cobro 225 Barranca Larga. Maneje con precaución.",
@@ -196,6 +196,58 @@
       "segment": null
     },
     {
+      "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧\nSe realizarán trabajos de mejora del km 17 al 22, con desvíos parciales en carriles centrales para ambos sentidos.\nTome sus precauciones.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033554430680006996#m",
+      "timestamp": "2026-03-16T14:42:12+00:00",
+      "timestamp_display": "16/03/2026 08:42 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ⚠️ AVISO IMPORTANTE ⚠️\nAutopista Isla - Acayucan, dirección Acayucan. Se informa a las personas usuarias que se registran diversos eventos, que afectan la circulación:\n\n🔘 Km 128, cierre a la circulación por atención de accidente (salida del camino de tracto camión).\n🔘 Km 129, reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús).\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033553627990659381#m",
+      "timestamp": "2026-03-16T14:39:01+00:00",
+      "timestamp_display": "16/03/2026 08:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 128, dirección Acayucan. Cierre a la circulación por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033548302449295398#m",
+      "timestamp": "2026-03-16T14:17:51+00:00",
+      "timestamp_display": "16/03/2026 08:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 138, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 138,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033547039548592511#m",
+      "timestamp": "2026-03-16T14:12:50+00:00",
+      "timestamp_display": "16/03/2026 08:12 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 218, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -388,71 +440,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033461453978472711#m",
       "timestamp": "2026-03-16T08:32:45+00:00",
       "timestamp_display": "16/03/2026 02:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 45, dirección CDMX. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033452348182254030#m",
-      "timestamp": "2026-03-16T07:56:34+00:00",
-      "timestamp_display": "16/03/2026 01:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 44. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033446607035760818#m",
-      "timestamp": "2026-03-16T07:33:45+00:00",
-      "timestamp_display": "16/03/2026 01:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 78, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": 78,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033441451305062475#m",
-      "timestamp": "2026-03-16T07:13:16+00:00",
-      "timestamp_display": "16/03/2026 01:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 100, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 100,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033436874870554893#m",
-      "timestamp": "2026-03-16T06:55:05+00:00",
-      "timestamp_display": "16/03/2026 00:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 100, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 100,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033435715665637750#m",
-      "timestamp": "2026-03-16T06:50:28+00:00",
-      "timestamp_display": "16/03/2026 00:50 CST",
       "segment": null
     }
   ]
