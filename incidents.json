@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-16T22:35:14.827588",
+  "last_update": "2026-03-16T23:03:23.783571",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de la circulación por #AccidenteVial cerca del km 039+800, en la carretera Aguascalientes-Jalpa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.8841,
+      "lng": -102.2918,
+      "road": null,
+      "km": 39.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033675120892318000#m",
+      "timestamp": "2026-03-16T22:41:47+00:00",
+      "timestamp_display": "16/03/2026 16:41 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Colima se registra cierre parcial de la circulación por #AccidenteVial cerca del km 265+500, en la carretera Acalpican-Manzanillo. Atienda indicación vial.",
       "type": "twitter",
@@ -151,19 +164,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se recomienda tomar ruta alterna, en el km 047+000 a altura de la ciudad de Magdalena, Jal., para después incorporarse al km 097+000 en el entronque de Ixtlán del Río.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 47.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033621695332753597#m",
-      "timestamp": "2026-03-16T19:09:29+00:00",
-      "timestamp_display": "16/03/2026 13:09 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Nayarit se registra cierre total de la circulación por #AccidenteVial cerca del km 086+200, en la carretera Tepic-Mazatlán. Atienda indicación vial.",
       "type": "twitter",
       "lat": 21.98733412724332,
@@ -180,15 +180,28 @@
       ]
     },
     {
-      "title": "R to @GN_Carreteras: Con afectación intermitente a la circulación en ambos sentidos por lapsos de una hora.",
+      "title": "R to @GN_Carreteras: Se recomienda tomar ruta alterna, en el km 047+000 a altura de la ciudad de Magdalena, Jal., para después incorporarse al km 097+000 en el entronque de Ixtlán del Río.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 47.0,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033612250456502512#m",
-      "timestamp": "2026-03-16T18:31:57+00:00",
+      "url": "https://nitter.net/GN_Carreteras/status/2033621695332753597#m",
+      "timestamp": "2026-03-16T19:09:29+00:00",
+      "timestamp_display": "16/03/2026 13:09 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Zacatecas se registra cierre de la circulación  por presencia de personas, cerca del km 026+850, en la carretera Zacatecas-Durango, a la altura de la Caseta de Cobro Calera de Víctor Rosales, Zac. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 26.85,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2033612229623382308#m",
+      "timestamp": "2026-03-16T18:31:52+00:00",
       "timestamp_display": "16/03/2026 12:31 CST",
       "segment": null
     },
@@ -206,15 +219,15 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre de la circulación  por presencia de personas, cerca del km 026+850, en la carretera Zacatecas-Durango, a la altura de la Caseta de Cobro Calera de Víctor Rosales, Zac. Atienda indicación vial.",
+      "title": "R to @GN_Carreteras: Con afectación intermitente a la circulación en ambos sentidos por lapsos de una hora.",
       "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 26.85,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033612229623382308#m",
-      "timestamp": "2026-03-16T18:31:52+00:00",
+      "url": "https://nitter.net/GN_Carreteras/status/2033612250456502512#m",
+      "timestamp": "2026-03-16T18:31:57+00:00",
       "timestamp_display": "16/03/2026 12:31 CST",
       "segment": null
     },
@@ -264,16 +277,58 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas, cerca del km 220+200, en la carretera Oaxaca-Tehuantepec. Atienda indicación vial.",
+      "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧\nSe realizarán trabajos de mejora del km 17 al 22, con desvíos parciales en carriles centrales para ambos sentidos.\nTome sus precauciones.",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
-      "road": null,
-      "km": 220.2,
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033598782152065507#m",
-      "timestamp": "2026-03-16T17:38:26+00:00",
-      "timestamp_display": "16/03/2026 11:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2033676589968326725#m",
+      "timestamp": "2026-03-16T22:47:37+00:00",
+      "timestamp_display": "16/03/2026 16:47 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Oriente de Chihuahua, km 7. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 7,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033676311298797951#m",
+      "timestamp": "2026-03-16T22:46:31+00:00",
+      "timestamp_display": "16/03/2026 16:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033676185700331777#m",
+      "timestamp": "2026-03-16T22:46:01+00:00",
+      "timestamp_display": "16/03/2026 16:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 52, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033675681364681073#m",
+      "timestamp": "2026-03-16T22:44:00+00:00",
+      "timestamp_display": "16/03/2026 16:44 CST",
       "segment": null
     },
     {
@@ -489,61 +544,6 @@
       "timestamp": "2026-03-16T20:49:40+00:00",
       "timestamp_display": "16/03/2026 14:49 CST",
       "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Isla - Acayucan, km 128 y 129, dirección Acayucan. Se informa a las personas usuarias que los accidentes han sido atendidos, por lo que se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 128,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033646597242818909#m",
-      "timestamp": "2026-03-16T20:48:26+00:00",
-      "timestamp_display": "16/03/2026 14:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista Gtz. Zamora - Tihuatlán, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033641582541337019#m",
-      "timestamp": "2026-03-16T20:28:31+00:00",
-      "timestamp_display": "16/03/2026 14:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033641186859073963#m",
-      "timestamp": "2026-03-16T20:26:56+00:00",
-      "timestamp_display": "16/03/2026 14:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 53, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.316535689276865,
-      "lng": -98.7352781152541,
-      "road": 150,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033640180767244708#m",
-      "timestamp": "2026-03-16T20:22:56+00:00",
-      "timestamp_display": "16/03/2026 14:22 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
