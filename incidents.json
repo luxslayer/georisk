@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-17T23:05:54.139837",
+  "last_update": "2026-03-17T23:47:15.184787",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMex se registra presencia de personas cerca del km 038+500, de la carretera  México - Cuautla a la altura de la caseta de Cobro Ozumba. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 38.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034051666325213286#m",
+      "timestamp": "2026-03-17T23:38:02+00:00",
+      "timestamp_display": "17/03/2026 17:38 CST",
+      "segment": null
+    },
     {
       "title": "#TómePrecauciones en #Guerrero continúa cierre parcial de circulación por socavón de la carpeta asfáltica, cerca del km 007+600 de la carretera 198 (libre), Chilpancingo - Acapulco, a la altura del poblado Garrapatas. Atienda indicación vial.",
       "type": "twitter",
@@ -93,19 +106,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2034019541831893119#m",
       "timestamp": "2026-03-17T21:30:23+00:00",
       "timestamp_display": "17/03/2026 15:30 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre intermitente de la circulación por presencia de personas cerca del km 057+050, a la altura de la Caseta de Cobro Morfin Chavez en la carretera Zacatecas - Durango. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
-      "road": null,
-      "km": 57.05,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034016170731245964#m",
-      "timestamp": "2026-03-17T21:16:59+00:00",
-      "timestamp_display": "17/03/2026 15:16 CST",
       "segment": null
     },
     {
@@ -268,6 +268,113 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ \nAutopista Las Choapas – Ocozocoautla, continúa #lluvia a la altura de la Plaza de Cobro Ocozocoautla. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034050732471591231#m",
+      "timestamp": "2026-03-17T23:34:20+00:00",
+      "timestamp_display": "17/03/2026 17:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034049998837420491#m",
+      "timestamp": "2026-03-17T23:31:25+00:00",
+      "timestamp_display": "17/03/2026 17:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n #AutMéxicoCuernavaca, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034048829146689854#m",
+      "timestamp": "2026-03-17T23:26:46+00:00",
+      "timestamp_display": "17/03/2026 17:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, resgistra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034048433200234621#m",
+      "timestamp": "2026-03-17T23:25:11+00:00",
+      "timestamp_display": "17/03/2026 17:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Puebla - Acatzingo, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034046794242351322#m",
+      "timestamp": "2026-03-17T23:18:41+00:00",
+      "timestamp_display": "17/03/2026 17:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoPuebla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034046601207886218#m",
+      "timestamp": "2026-03-17T23:17:55+00:00",
+      "timestamp_display": "17/03/2026 17:17 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 163, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034044507289735609#m",
+      "timestamp": "2026-03-17T23:09:35+00:00",
+      "timestamp_display": "17/03/2026 17:09 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles.\nEn la zona se registra #neblinadensa y #lluvia. Por seguridad, la Plaza de Cobro Esperanza permanecerá cerrada en esa dirección.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 238,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034044112966463792#m",
+      "timestamp": "2026-03-17T23:08:01+00:00",
+      "timestamp_display": "17/03/2026 17:08 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️   \nAutopista Acatzingo-Cd. Mendoza, continúa #neblinadensa en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -281,7 +388,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. Toma tus precauciones.  \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/w8TvqVfJZ8D39UXU8",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. Toma tus precauciones.  \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/w8TvqVfJZ8D39UXU8",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -422,119 +529,6 @@
       "timestamp": "2026-03-17T21:56:25+00:00",
       "timestamp_display": "17/03/2026 15:56 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección Querétaro. Reducción de carriles por presencia de manifestantes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034025167416934669#m",
-      "timestamp": "2026-03-17T21:52:44+00:00",
-      "timestamp_display": "17/03/2026 15:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Nuevo Teapa - Cosoleacaque, registra #lluvia a la altura de la Plaza de Cobro Ing. Antonio Dovalí Jaime. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": 180,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034024293449789764#m",
-      "timestamp": "2026-03-17T21:49:16+00:00",
-      "timestamp_display": "17/03/2026 15:49 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034024279616938469#m",
-      "timestamp": "2026-03-17T21:49:13+00:00",
-      "timestamp_display": "17/03/2026 15:49 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n #AutMéxicoCuernavaca, continúa #lluvia del km 19 al 58. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034022332319068288#m",
-      "timestamp": "2026-03-17T21:41:28+00:00",
-      "timestamp_display": "17/03/2026 15:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 163, dirección CDMX. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 163,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034017849694376370#m",
-      "timestamp": "2026-03-17T21:23:40+00:00",
-      "timestamp_display": "17/03/2026 15:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Barranca Larga - Ventanilla, registra #lluvia del km 51 al 56. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 51,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034014537553256526#m",
-      "timestamp": "2026-03-17T21:10:30+00:00",
-      "timestamp_display": "17/03/2026 15:10 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 39. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 39,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034013843177840852#m",
-      "timestamp": "2026-03-17T21:07:45+00:00",
-      "timestamp_display": "17/03/2026 15:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dir. Cosoleacaque, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034013425165390298#m",
-      "timestamp": "2026-03-17T21:06:05+00:00",
-      "timestamp_display": "17/03/2026 15:06 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
