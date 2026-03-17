@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-17T11:30:32.975900",
+  "last_update": "2026-03-17T12:33:52.028784",
   "incidents": [
     {
       "title": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Maneje con precaución.",
@@ -86,19 +86,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Como ruta alterna en el km 123+500 hay una desviación que toma la Carretera Federal Pachuca-Tuxpan, para llegar al municipio de Huauchinango e incorporarse de nuevo a la Autopista.",
-      "type": "twitter",
-      "lat": 20.54,
-      "lng": -98.07,
-      "road": 130,
-      "km": 123.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033813441404604910#m",
-      "timestamp": "2026-03-17T07:51:25+00:00",
-      "timestamp_display": "17/03/2026 01:51 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Puebla se registra cierre total de la circulación por #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.0414,
@@ -108,6 +95,19 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2033813435654316214#m",
       "timestamp": "2026-03-17T07:51:24+00:00",
+      "timestamp_display": "17/03/2026 01:51 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Como ruta alterna en el km 123+500 hay una desviación que toma la Carretera Federal Pachuca-Tuxpan, para llegar al municipio de Huauchinango e incorporarse de nuevo a la Autopista.",
+      "type": "twitter",
+      "lat": 20.54,
+      "lng": -98.07,
+      "road": 130,
+      "km": 123.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2033813441404604910#m",
+      "timestamp": "2026-03-17T07:51:25+00:00",
       "timestamp_display": "17/03/2026 01:51 CST",
       "segment": null
     },
@@ -151,19 +151,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se recomienda tomar ruta alterna, en el km 047+000 a altura de la ciudad de Magdalena, Jal., para después incorporarse al km 097+000 en el entronque de Ixtlán del Río.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 47.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033743246099120202#m",
-      "timestamp": "2026-03-17T03:12:29+00:00",
-      "timestamp_display": "16/03/2026 21:12 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Nayarit continua cierre de circulación por maniobras tras #AccidenteVial cerca del km 086+200 de la carretera Tepic-Mazatlán. Atienda indicación vial.",
       "type": "twitter",
       "lat": 21.98733412724332,
@@ -178,6 +165,19 @@
         "tepic",
         "mazatlan"
       ]
+    },
+    {
+      "title": "R to @GN_Carreteras: Se recomienda tomar ruta alterna, en el km 047+000 a altura de la ciudad de Magdalena, Jal., para después incorporarse al km 097+000 en el entronque de Ixtlán del Río.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 47.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2033743246099120202#m",
+      "timestamp": "2026-03-17T03:12:29+00:00",
+      "timestamp_display": "16/03/2026 21:12 CST",
+      "segment": null
     },
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación por #AccidenteVial cerca del km 067+200, en la carretera México-Querétaro. Atienda indicación vial.",
@@ -274,6 +274,84 @@
       "url": "https://nitter.net/GN_Carreteras/status/2033699172319162457#m",
       "timestamp": "2026-03-17T00:17:21+00:00",
       "timestamp_display": "16/03/2026 18:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 163, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033876064972288351#m",
+      "timestamp": "2026-03-17T12:00:16+00:00",
+      "timestamp_display": "17/03/2026 06:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 229, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 229,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033869792281501706#m",
+      "timestamp": "2026-03-17T11:35:20+00:00",
+      "timestamp_display": "17/03/2026 05:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \nAutopista Las Choapas - Ocozocoautla, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033868874370732526#m",
+      "timestamp": "2026-03-17T11:31:41+00:00",
+      "timestamp_display": "17/03/2026 05:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​     \nAutopista Agua Dulce - Cárdenas, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033868820553589053#m",
+      "timestamp": "2026-03-17T11:31:28+00:00",
+      "timestamp_display": "17/03/2026 05:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🌩️🌧️CONDICIONES CLIMÁTICAS 🌧️🌩️      \nAutopista Champotón - Campeche, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033868788160946563#m",
+      "timestamp": "2026-03-17T11:31:21+00:00",
+      "timestamp_display": "17/03/2026 05:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️   \nLibramiento de Villahermosa, continúa #lluvia a la altura de la Plaza de Cobro Nacajuca. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033868732468973939#m",
+      "timestamp": "2026-03-17T11:31:07+00:00",
+      "timestamp_display": "17/03/2026 05:31 CST",
       "segment": null
     },
     {
@@ -459,71 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033830652919820521#m",
       "timestamp": "2026-03-17T08:59:49+00:00",
       "timestamp_display": "17/03/2026 02:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Las Choapas - Ocozocoautla, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033814453855392081#m",
-      "timestamp": "2026-03-17T07:55:26+00:00",
-      "timestamp_display": "17/03/2026 01:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Agua Dulce - Cárdenas, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033814411463561696#m",
-      "timestamp": "2026-03-17T07:55:16+00:00",
-      "timestamp_display": "17/03/2026 01:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🌩️🌧️CONDICIONES CLIMÁTICAS 🌧️🌩️    \nAutopista Champotón - Campeche, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033814360611819892#m",
-      "timestamp": "2026-03-17T07:55:04+00:00",
-      "timestamp_display": "17/03/2026 01:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️  \nLibramiento de Villahermosa, continúa #lluvia a la altura de la Plaza de Cobro Nacajuca. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033814197826687445#m",
-      "timestamp": "2026-03-17T07:54:25+00:00",
-      "timestamp_display": "17/03/2026 01:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 197. Continúa el cierre a la circulación en la gasa de incorporación en dirección Las Choapas, por atención de accidente (servicios periciales).\n\n➡️ Se recomienda a la ciudadanía continuar por el tramo libre (San Pedro Tanatepec - Tuxtla Gutiérrez) hasta tomar el retorno (Pradel), para el acceso a la autopista.\n\nLa carretera libre no es administrada por CAPUFE, para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
-      "road": null,
-      "km": 197,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033810958888669329#m",
-      "timestamp": "2026-03-17T07:41:33+00:00",
-      "timestamp_display": "17/03/2026 01:41 CST",
       "segment": null
     }
   ]
