@@ -1,379 +1,405 @@
-import requests
-import xml.etree.ElementTree as ET
+# km_geolocator.py
+# Localiza la coordenada exacta de un KM dado sobre una carretera mexicana,
+# interpolando sobre el GeoJSON de la ruta.
+# Uso: from km_geolocator import locate_km
+
 import json
-import re
-import unicodedata
-from datetime import datetime, timezone, timedelta
-from email.utils import parsedate_to_datetime
-from zoneinfo import ZoneInfo
+import math
+import os
+from functools import lru_cache
 
-LOCAL_TZ = ZoneInfo("America/Monterrey")
-from km_geolocator import locate_km
-from city_locator import detect_segment, segment_coords, interpolate
-from data.cities import cities
-from data.routes import routes
-from data.road_segments import road_segments
+ROADS_DIR = os.path.join(os.path.dirname(__file__), "..", "roads")
+
 
 # ---------------------------------------------------------------------------
-# Config
+# Haversine
 # ---------------------------------------------------------------------------
 
-incidents = []
+def haversine(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
+    """Distancia en km entre dos puntos geográficos."""
+    R = 6371.0
+    phi1, phi2 = math.radians(lat1), math.radians(lat2)
+    dphi  = math.radians(lat2 - lat1)
+    dlambda = math.radians(lon2 - lon1)
+    a = math.sin(dphi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
+    return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
-TWITTER_RSS = [
-    "https://nitter.net/GN_Carreteras/rss",
-    "https://nitter.net/CAPUFE/rss",
-]
-
-RISK_WORDS = [
-    "balacera",
-    "robo",
-    "asalto",
-    "bloqueo",
-    "enfrentamiento",
-    "incendio",
-    "violencia",
-    "accidente",
-    "obras",
-]
 
 # ---------------------------------------------------------------------------
-# Normalización
+# Carga y ordenamiento de segmentos GeoJSON
 # ---------------------------------------------------------------------------
 
-def split_hashtags(text: str) -> str:
+def _load_geojson(road: str | int) -> list[list[tuple[float, float]]]:
     """
-    Convierte hashtags CamelCase en palabras separadas antes de normalizar.
-    '#AutMéxicoCuernavaca' → 'Aut México Cuernavaca'
-    '#EdoMéx'             → 'Edo Méx'
+    Carga el GeoJSON de la carretera y devuelve lista de segmentos.
+    Acepta IDs numéricos (57) o alfanuméricos (40M).
+    GeoJSON usa [lng, lat] — se invierte aquí.
     """
-    def expand(m):
-        tag = m.group(1)
-        return re.sub(r'(?<=[a-záéíóúüñ])(?=[A-ZÁÉÍÓÚÜÑ])', ' ', tag)
-    return re.sub(r'#([A-Za-záéíóúüñ][^\s]*)', expand, text)
+    path = os.path.join(ROADS_DIR, f"mex_{road}.geojson")
+    if not os.path.exists(path):
+        # Intentar en minúsculas por si el archivo es "mex_40m.geojson"
+        path_lower = os.path.join(ROADS_DIR, f"mex_{str(road).lower()}.geojson")
+        if os.path.exists(path_lower):
+            path = path_lower
+        else:
+            print(f"[km_geolocator] Archivo no encontrado: {path}")
+            return []
+
+    with open(path, encoding="utf-8") as f:
+        geojson = json.load(f)
+
+    segments = []
+    for feature in geojson.get("features", []):
+        geom = feature.get("geometry", {})
+        if geom.get("type") == "LineString":
+            coords = [(lat, lng) for lng, lat in geom["coordinates"]]
+            if coords:
+                segments.append(coords)
+        elif geom.get("type") == "MultiLineString":
+            for line in geom["coordinates"]:
+                coords = [(lat, lng) for lng, lat in line]
+                if coords:
+                    segments.append(coords)
+
+    return segments
 
 
-def normalize(text: str) -> str:
-    """Minúsculas, sin acentos, sin puntuación, espacios simples."""
-    text = split_hashtags(text)
-    text = text.lower()
-    text = text.replace("-", " ").replace("#", " ")
-    text = unicodedata.normalize("NFD", text)
-    text = "".join(c for c in text if unicodedata.category(c) != "Mn")
-    text = re.sub(r"[^a-z0-9\s]", " ", text)
-    text = re.sub(r"\s+", " ", text)
-    return text.strip()
+def _nearest_point_on_segment(
+    lat: float, lng: float,
+    seg: list[tuple[float, float]]
+) -> float:
+    """Distancia mínima en km desde (lat,lng) al segmento más cercano."""
+    return min(haversine(lat, lng, p[0], p[1]) for p in seg)
 
-# ---------------------------------------------------------------------------
-# Detección de ciudades
-# ---------------------------------------------------------------------------
 
-def detect_cities(text: str) -> list[str]:
+def _point_to_segment_dist(
+    lat: float, lng: float,
+    p1: tuple[float, float],
+    p2: tuple[float, float],
+) -> float:
+    """Distancia aproximada de un punto al segmento de línea p1-p2 (en km)."""
+    # Proyección simple en coordenadas planas (válida para distancias cortas)
+    dx = p2[0] - p1[0]
+    dy = p2[1] - p1[1]
+    if dx == 0 and dy == 0:
+        return haversine(lat, lng, p1[0], p1[1])
+    t = max(0.0, min(1.0, ((lat - p1[0]) * dx + (lng - p1[1]) * dy) / (dx*dx + dy*dy)))
+    proj_lat = p1[0] + t * dx
+    proj_lng = p1[1] + t * dy
+    return haversine(lat, lng, proj_lat, proj_lng)
+
+
+def _segment_in_corridor(
+    seg: list[tuple[float, float]],
+    lat_a: float, lng_a: float,
+    lat_b: float, lng_b: float,
+    corridor_width_km: float = 25.0,
+) -> bool:
     """
-    Busca cada clave del diccionario cities como subcadena normalizada.
-    Devuelve la lista ordenada de mayor a menor longitud para que
-    "san luis potosi" tenga precedencia sobre "san luis".
+    Devuelve True si algún punto del segmento está dentro del corredor
+    definido por la línea recta entre ciudad A y ciudad B.
+    También acepta segmentos cercanos a cualquiera de las dos ciudades.
     """
-    text_norm = normalize(text)
-    found = [city for city in cities if normalize(city) in text_norm]
-    found.sort(key=len, reverse=True)
-    return found
+    # Cerca de ciudad A o B
+    for p in seg[::max(1, len(seg)//5)]:  # muestra ~5 puntos del segmento
+        if haversine(p[0], p[1], lat_a, lng_a) < corridor_width_km * 2:
+            return True
+        if haversine(p[0], p[1], lat_b, lng_b) < corridor_width_km * 2:
+            return True
+        if _point_to_segment_dist(p[0], p[1], (lat_a, lng_a), (lat_b, lng_b)) < corridor_width_km:
+            return True
+    return False
 
 
-def detect_city(text: str) -> tuple[float, float] | None:
-    """Devuelve las coordenadas de la primera ciudad detectada, o None."""
-    found = detect_cities(text)
-    if found:
-        return cities[found[0]]
-    return None
-
-# ---------------------------------------------------------------------------
-# Detección de KM
-# ---------------------------------------------------------------------------
-
-def detect_km(text: str) -> float | None:
+def _chain_segments_anchored(
+    segments: list[list[tuple[float, float]]],
+    anchor_lat: float,
+    anchor_lng: float,
+    end_lat: float | None = None,
+    end_lng: float | None = None,
+    max_dist_km: float = 80.0,
+) -> list[tuple[float, float]]:
     """
-    Detecta expresiones como 'km 45', 'km45', 'km 45+300'.
-    Devuelve el valor como float (ej. 45.3) o None.
+    Encadena los segmentos relevantes para el tramo entre dos ciudades.
+    Si se proveen coordenadas de ciudad destino (end_lat/end_lng), usa
+    filtrado por corredor geográfico en lugar de radio fijo desde el ancla.
     """
-    m = re.search(r"km\s*(\d+)(?:[+\-](\d+))?", text.lower())
-    if m:
-        km = int(m.group(1))
-        if m.group(2):
-            km += int(m.group(2)) / 1000
-        return km
-    return None
-
-# ---------------------------------------------------------------------------
-# Detección de riesgo
-# ---------------------------------------------------------------------------
-
-def detect_risk(text: str) -> str:
-    text_norm = normalize(text)
-    for word in RISK_WORDS:
-        if word in text_norm:
-            return "high"
-    return "normal"
-
-# ---------------------------------------------------------------------------
-# Detección de carretera
-# ---------------------------------------------------------------------------
-
-def detect_city_pair(text: str) -> tuple[str, str] | None:
-    """
-    Extrae el par de ciudades de expresiones como 'carretera Puebla-Oaxaca'.
-    Busca ANTES de normalizar para que el guión siga presente.
-    Fallback: detecta ciudades conocidas dentro del texto tras 'carretera'.
-    """
-    # 1. Buscar patrón "carretera X-Y" en texto solo lowercased (guión intacto)
-    m = re.search(
-        r"carretera\s+([a-záéíóúüñ\s]+?)\s*[-–]\s*([a-záéíóúüñ\s]+?)(?:\s|,|\.|$)",
-        text.lower(),
-    )
-    if m:
-        c1 = normalize(m.group(1).strip())
-        c2 = normalize(m.group(2).strip())
-        return c1, c2
-
-    # 2. Fallback: ciudades conocidas consecutivas tras "carretera"
-    text_norm = normalize(text)
-    m2 = re.search(r"carretera\s+([a-z\s]+)", text_norm)
-    if m2:
-        segment_text = m2.group(1)
-        cities_in_segment = [c for c in cities if normalize(c) in segment_text]
-        cities_in_segment.sort(key=len, reverse=True)
-        if len(cities_in_segment) >= 2:
-            return cities_in_segment[0], cities_in_segment[1]
-
-    return None
-
-
-def detect_road_from_cities(city_pair: tuple[str, str]) -> str | int | None:
-    """
-    Busca la carretera dado un par de ciudades.
-    Maneja ambas direcciones sin necesitar entradas duplicadas en routes.
-    """
-    c1, c2 = city_pair
-    for (a, b), road in routes.items():
-        if (c1 == a and c2 == b) or (c1 == b and c2 == a):
-            return road
-    return None
-
-
-def detect_road(text: str) -> str | int | None:
-    """
-    Detecta número de carretera por:
-    1. Número o código explícito ('carretera 57', 'autopista 40D', 'mex 40M')
-    2. Par de ciudades mencionadas ('carretera Durango-Mazatlán')
-    """
-    text_norm = normalize(text)
-
-    # 1. Código directo — dígitos opcionalmente seguidos de letras (ej. 40M, 40D, 15A)
-    m = re.search(r"(?:carretera|autopista|mex)\s*(\d+[a-z]?)", text_norm)
-    if m:
-        raw = m.group(1)
-        return raw.upper() if raw[-1].isalpha() else int(raw)
-
-    # 2. Par de ciudades
-    pair = detect_city_pair(text_norm)
-    if pair:
-        road = detect_road_from_cities(pair)
-        if road:
-            return road
-
-    # 3. Cruzar todas las ciudades detectadas contra routes
-    cities_found = detect_cities(text)
-    for i, c1 in enumerate(cities_found):
-        for c2 in cities_found[i+1:]:
-            road = detect_road_from_cities((c1, c2))
-            if road:
-                return road
-
-    return None
-
-# ---------------------------------------------------------------------------
-# Segmento conocido
-# ---------------------------------------------------------------------------
-
-def detect_known_segment(road: str | int | None, cities_found: list[str], title: str = "") -> dict | None:
-    """
-    Dado un número de carretera y una lista de ciudades detectadas,
-    devuelve el segmento de road_segments que contenga ambas ciudades.
-    También intenta con el par explícito detectado en el título del tweet.
-    """
-    if road is None or road not in road_segments:
-        return None
-
-    # Construir set de ciudades candidatas: las detectadas + el par explícito del tweet
-    cities_set = set(cities_found)
-    if title:
-        pair = detect_city_pair(title)
-        if pair:
-            cities_set.update(pair)
-
-    for seg in road_segments[road]:
-        c1, c2 = seg["cities"]
-        if c1 in cities_set and c2 in cities_set:
-            return seg
-
-    return None
-
-
-def km_relative(km: float, segment: dict) -> float:
-    """Convierte un KM absoluto de la carretera a relativo dentro del segmento."""
-    return max(km - segment["km_start"], 0)
-
-# ---------------------------------------------------------------------------
-# Procesamiento de tweet
-# ---------------------------------------------------------------------------
-
-DEFAULT_LAT, DEFAULT_LNG = 23.5, -102.0  # centro aproximado de México
-
-
-def parse_pubdate(raw: str | None) -> datetime | None:
-    """
-    Parsea la fecha RSS (RFC 2822) y la devuelve como datetime UTC aware.
-    Ej: 'Mon, 09 Mar 2026 14:32:00 +0000' → datetime(2026, 3, 9, 14, 32, tzinfo=UTC)
-    """
-    if not raw:
-        return None
-    try:
-        dt = parsedate_to_datetime(raw)
-        return dt.astimezone(timezone.utc)
-    except Exception:
-        return None
-
-
-def process_tweet(title: str, url: str, pub_date: str | None = None) -> None:
-    if not title:
-        return
-
-    # Fecha/hora del tweet
-    dt = parse_pubdate(pub_date)
-    now_utc = datetime.now(timezone.utc)
-
-    # Filtrar incidentes con más de 24 horas
-    if dt and (now_utc - dt) > timedelta(hours=24):
-        print(f"SKIP (>24h): {title}")
-        return
-
-    timestamp_iso = dt.isoformat() if dt else None
-    if dt:
-        dt_local = dt.astimezone(LOCAL_TZ)
-        tz_abbr  = dt_local.strftime("%Z")  # "CST" o "CDT" según la época del año
-        timestamp_display = dt_local.strftime(f"%d/%m/%Y %H:%M {tz_abbr}")
+    if end_lat is not None and end_lng is not None:
+        # Filtrado por corredor entre ciudad origen y ciudad destino
+        nearby = [
+            s for s in segments
+            if _segment_in_corridor(s, anchor_lat, anchor_lng, end_lat, end_lng)
+        ]
+        if not nearby:
+            # Fallback: radio amplio desde el punto medio
+            mid_lat = (anchor_lat + end_lat) / 2
+            mid_lng = (anchor_lng + end_lng) / 2
+            dist_cities = haversine(anchor_lat, anchor_lng, end_lat, end_lng)
+            radius = max(dist_cities, 50.0)
+            nearby = [
+                s for s in segments
+                if _nearest_point_on_segment(mid_lat, mid_lng, s) <= radius
+            ]
     else:
-        timestamp_display = "Fecha desconocida"
+        # Sin ciudad destino: radio desde ancla
+        nearby = [
+            s for s in segments
+            if _nearest_point_on_segment(anchor_lat, anchor_lng, s) <= max_dist_km
+        ]
+        if not nearby:
+            nearby = sorted(
+                segments,
+                key=lambda s: _nearest_point_on_segment(anchor_lat, anchor_lng, s)
+            )[:min(20, len(segments))]
 
-    # Coordenadas por defecto
-    lat, lng = DEFAULT_LAT, DEFAULT_LNG
+    if not nearby:
+        return []
 
-    # Ciudad más probable
-    city_coords = detect_city(title)
-    if city_coords:
-        lat, lng = city_coords
+    # Ordenar por distancia a la ciudad ancla (origen del tramo)
+    nearby.sort(key=lambda s: _nearest_point_on_segment(anchor_lat, anchor_lng, s))
 
-    # Segmento entre dos ciudades (de city_locator externo)
-    try:
-        segment = detect_segment(title)
-    except Exception:
-        segment = None
+    # Encadenar greedy desde el más cercano al ancla
+    chain = list(nearby[0])
+    remaining = nearby[1:]
 
-    # Ciudades mencionadas
-    cities_found = detect_cities(title)
+    while remaining:
+        best_idx = 0
+        best_dist = float("inf")
+        best_flip = False
 
-    # Carretera
-    road = None
-    if segment:
-        road = detect_road_from_cities(segment)
-    if road is None:
-        road = detect_road(title)
+        for i, seg in enumerate(remaining):
+            d_start = haversine(chain[-1][0], chain[-1][1], seg[0][0],  seg[0][1])
+            d_end   = haversine(chain[-1][0], chain[-1][1], seg[-1][0], seg[-1][1])
+            d = min(d_start, d_end)
+            if d < best_dist:
+                best_dist = d
+                best_idx = i
+                best_flip = d_end < d_start
 
-    # KM
-    km = detect_km(title)
+        if best_dist > 10.0:
+            break
 
-    # Segmento conocido en road_segments
-    known_segment = detect_known_segment(road, cities_found, title)
-    if km is not None and known_segment:
-        km = km_relative(km, known_segment)
-        print("RELATIVE KM:", km)
+        seg = remaining.pop(best_idx)
+        if best_flip:
+            seg = list(reversed(seg))
 
-    # Riesgo
-    risk = detect_risk(title)
+        if haversine(chain[-1][0], chain[-1][1], seg[0][0], seg[0][1]) < 0.05:
+            chain.extend(seg[1:])
+        else:
+            chain.extend(seg)
 
-    print(f"TWEET : {title}")
-    print(f"ROAD  : {road}  |  KM: {km}")
+    return chain
 
-    # Geolocalización fina
-    if road is not None and km is not None:
-        seg_coords = None
-        if segment:
-            cityA, cityB = segment
-            lat1, lon1, lat2, lon2 = segment_coords(cityA, cityB)
-            seg_coords = (lat1, lon1, lat2, lon2)
 
-        print("KNOWN SEGMENT:", known_segment)
-        point = locate_km(road, km, seg_coords, known_segment)
-
-        if point:
-            lat, lng = point
-        elif segment:
-            lat  = (lat1 + lat2) / 2
-            lng = (lon1 + lon2) / 2
-        # si no hay nada, lat/lng ya tiene la ciudad detectada o el default
-
-        print("LOCATE RESULT:", point)
-
-    incidents.append({
-        "title":             title,
-        "type":              "twitter",
-        "lat":               lat,
-        "lng":               lng,
-        "road":              road,
-        "km":                km,
-        "risk":              risk,
-        "url":               url,
-        "timestamp":         timestamp_iso,
-        "timestamp_display": timestamp_display,
-        "segment":           list(known_segment["cities"]) if known_segment else None,
-    })
-
-# ---------------------------------------------------------------------------
-# Ingesta RSS
-# ---------------------------------------------------------------------------
-
-def fetch_rss(feed_url: str) -> None:
-    headers = {"User-Agent": "Mozilla/5.0"}
-    try:
-        r = requests.get(feed_url, headers=headers, timeout=10)
-        print(f"Status [{feed_url}]: {r.status_code}")
-
-        root = ET.fromstring(r.content)
-        for item in root.findall(".//item")[:50]:
-            title    = item.findtext("title")
-            link     = item.findtext("link")
-            pub_date = item.findtext("pubDate")
-            process_tweet(title, link, pub_date)
-
-    except Exception as e:
-        print(f"RSS error ({feed_url}): {e}")
+@lru_cache(maxsize=32)
+def _load_segments_cached(road: str | int) -> tuple:
+    """Carga los segmentos del GeoJSON (cacheado). Devuelve tuple para hashability."""
+    return tuple(_load_geojson(road))
 
 
 # ---------------------------------------------------------------------------
-# Main
+# Acumulación de distancias
 # ---------------------------------------------------------------------------
 
-if __name__ == "__main__":
-    print("Fetching Twitter RSS")
-    for feed in TWITTER_RSS:
-        fetch_rss(feed)
+def _cumulative_distances(polyline: list[tuple[float, float]]) -> list[float]:
+    """
+    Devuelve lista de distancias acumuladas en km para cada punto.
+    El primer punto siempre es 0.0.
+    """
+    dists = [0.0]
+    for i in range(1, len(polyline)):
+        d = haversine(
+            polyline[i-1][0], polyline[i-1][1],
+            polyline[i][0],   polyline[i][1],
+        )
+        dists.append(dists[-1] + d)
+    return dists
 
-    data = {
-        "last_update": datetime.utcnow().isoformat(),
-        "incidents":   incidents,
-    }
 
-    with open("incidents.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+# ---------------------------------------------------------------------------
+# Interpolación
+# ---------------------------------------------------------------------------
 
-    print(f"Saved {len(incidents)} incidents")
+def _interpolate(p1: tuple, p2: tuple, t: float) -> tuple[float, float]:
+    """Interpolación lineal entre dos puntos, t ∈ [0, 1]."""
+    lat = p1[0] + t * (p2[0] - p1[0])
+    lng = p1[1] + t * (p2[1] - p1[1])
+    return lat, lng
+
+
+def _find_km_on_polyline(
+    polyline: list[tuple[float, float]],
+    cum_dists: list[float],
+    target_km: float,
+    tolerance_km: float = 3.0,
+) -> tuple[float, float] | None:
+    """
+    Busca el punto en la polilínea que corresponde a target_km km
+    desde el inicio de la misma.
+    tolerance_km: si el KM supera el total por menos de este margen,
+    devuelve el último punto en lugar de None.
+    """
+    total = cum_dists[-1]
+    if target_km < 0:
+        return None
+    if target_km > total:
+        if target_km - total <= tolerance_km:
+            # Apenas fuera de rango — devolver el último punto
+            print(f"[km_geolocator] KM {target_km:.1f} supera total {total:.1f} km "
+                  f"por {target_km - total:.2f} km — usando último punto")
+            return polyline[-1]
+        return None
+
+    # Búsqueda binaria del segmento
+    lo, hi = 0, len(cum_dists) - 1
+    while lo < hi - 1:
+        mid = (lo + hi) // 2
+        if cum_dists[mid] <= target_km:
+            lo = mid
+        else:
+            hi = mid
+
+    seg_len = cum_dists[hi] - cum_dists[lo]
+    if seg_len == 0:
+        return polyline[lo]
+
+    t = (target_km - cum_dists[lo]) / seg_len
+    return _interpolate(polyline[lo], polyline[hi], t)
+
+
+# ---------------------------------------------------------------------------
+# Búsqueda del punto más cercano a una coordenada en la polilínea
+# ---------------------------------------------------------------------------
+
+def _find_nearest_idx(
+    polyline: list[tuple[float, float]],
+    lat: float,
+    lng: float,
+) -> int:
+    """Devuelve el índice del punto de la polilínea más cercano a (lat, lng)."""
+    best_idx = 0
+    best_dist = float("inf")
+    for i, (p_lat, p_lng) in enumerate(polyline):
+        d = haversine(lat, lng, p_lat, p_lng)
+        if d < best_dist:
+            best_dist = d
+            best_idx = i
+    return best_idx
+
+
+# ---------------------------------------------------------------------------
+# API pública
+# ---------------------------------------------------------------------------
+
+def locate_km(
+    road: str | int,
+    km: float,
+    city_coords: tuple | None = None,
+    known_segment: dict | None = None,
+) -> tuple[float, float] | None:
+    """
+    Devuelve (lat, lng) del KM dado en la carretera especificada.
+
+    Estrategia:
+    1. Encuentra el segmento GeoJSON más cercano a coord_start
+    2. Encadena greedy solo segmentos contiguos (salto < 1 km) hacia coord_end
+    3. Interpola el KM exacto sobre esa polilínea limpia
+    """
+    segments = list(_load_segments_cached(road))
+    if not segments:
+        print(f"[km_geolocator] Sin GeoJSON para carretera {road}")
+        return None
+
+    # ── 1. Coordenadas de inicio y fin del tramo ──────────────────────────
+    if known_segment and "coord_start" in known_segment and "coord_end" in known_segment:
+        origin = known_segment["coord_start"]
+        dest   = known_segment["coord_end"]
+    elif city_coords and len(city_coords) == 4:
+        origin = (city_coords[0], city_coords[1])
+        dest   = (city_coords[2], city_coords[3])
+    else:
+        print(f"[km_geolocator] Sin coord_start/coord_end para MEX-{road}")
+        return None
+
+    # ── 2. Segmento GeoJSON más cercano a coord_start ─────────────────────
+    best_seg_idx = min(
+        range(len(segments)),
+        key=lambda i: _nearest_point_on_segment(origin[0], origin[1], segments[i])
+    )
+    snap_dist = _nearest_point_on_segment(origin[0], origin[1], segments[best_seg_idx])
+    print(f"[km_geolocator] Segmento origen: idx {best_seg_idx}, snap {snap_dist:.2f} km")
+
+    # Orientar el segmento origen: el final debe apuntar hacia coord_end
+    seg0 = list(segments[best_seg_idx])
+    d_end_to_dest   = haversine(dest[0], dest[1], seg0[-1][0], seg0[-1][1])
+    d_start_to_dest = haversine(dest[0], dest[1], seg0[0][0],  seg0[0][1])
+    if d_start_to_dest < d_end_to_dest:
+        seg0 = list(reversed(seg0))
+    print(f"[km_geolocator] Segmento origen orientado hacia dest "
+          f"(d_tail_to_dest={min(d_end_to_dest, d_start_to_dest):.1f} km)")
+
+    # ── 3. Encadenar segmentos contiguos hacia coord_end ──────────────────
+    MAX_GAP_KM = 2.0   # máximo salto permitido entre segmentos contiguos
+    MAX_TOTAL_KM = (known_segment["km_end"] - known_segment["km_start"]) * 1.5 \
+                   if known_segment else 500.0
+
+    chain = seg0
+    used = {best_seg_idx}
+
+    for _ in range(len(segments)):
+        tail = chain[-1]
+        best_next = None
+        best_gap  = float("inf")
+
+        for i, seg in enumerate(segments):
+            if i in used:
+                continue
+            # Distancia del final de la cadena al inicio o fin del candidato
+            d_start = haversine(tail[0], tail[1], seg[0][0],  seg[0][1])
+            d_end   = haversine(tail[0], tail[1], seg[-1][0], seg[-1][1])
+            d = min(d_start, d_end)
+            if d < best_gap:
+                best_gap  = d
+                best_next = (i, d_end < d_start)  # flip si conecta por el final
+
+        if best_next is None or best_gap > MAX_GAP_KM:
+            break
+
+        next_idx, flip = best_next
+        seg = list(segments[next_idx])
+        if flip:
+            seg = list(reversed(seg))
+
+        # Evitar duplicar punto de unión
+        if haversine(chain[-1][0], chain[-1][1], seg[0][0], seg[0][1]) < 0.01:
+            chain = chain + seg[1:]
+        else:
+            chain = chain + seg
+
+        used.add(next_idx)
+
+        # Parar si ya llegamos cerca de coord_end
+        dist_to_dest = haversine(dest[0], dest[1], chain[-1][0], chain[-1][1])
+        cum_so_far   = sum(
+            haversine(chain[i-1][0], chain[i-1][1], chain[i][0], chain[i][1])
+            for i in range(1, min(len(chain), 10))  # estimación rápida
+        )
+        total_so_far = _cumulative_distances(chain)[-1]
+
+        if dist_to_dest < 1.0 or total_so_far > MAX_TOTAL_KM:
+            break
+
+    cum_dists = _cumulative_distances(chain)
+    total_km  = cum_dists[-1]
+    print(f"[km_geolocator] Polilínea: {len(chain)} pts, {total_km:.1f} km "
+          f"({len(used)} segmentos encadenados)")
+
+    # ── 4. Interpolar KM exacto ───────────────────────────────────────────
+    result = _find_km_on_polyline(chain, cum_dists, km)
+
+    if result:
+        print(f"[km_geolocator] Localizado: {result[0]:.5f}, {result[1]:.5f}")
+    else:
+        print(f"[km_geolocator] KM {km:.1f} fuera de rango (máx {total_km:.1f} km)")
+
+    return result
