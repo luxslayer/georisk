@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-03-17T16:05:14.257867",
+  "last_update": "2026-03-17T16:39:15.154946",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Nayarit tras #AccidenteVial cerca del km 086+200 de la carretera Tepic - Mazatlán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 22.029673627439337,
+      "lng": -105.16772119474504,
+      "road": 15,
+      "km": 79.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033939578436952277#m",
+      "timestamp": "2026-03-17T16:12:38+00:00",
+      "timestamp_display": "17/03/2026 10:12 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación por #AccidenteVial cerca del km 009+800, en la carretera Villahermosa -  Escárcega. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 9.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033937849389621604#m",
+      "timestamp": "2026-03-17T16:05:46+00:00",
+      "timestamp_display": "17/03/2026 10:05 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas, cerca del km 067+000, en la carretera La Ventosa - Tapanatepec. Atienda indicación vial.",
       "type": "twitter",
@@ -248,32 +277,29 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #NuevoLeón tras #AccidenteVial cerca del km 066+100, en la carretera Saltillo-Monterrey. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 229, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 25.661187590512974,
-      "lng": -100.6993323575519,
-      "road": 40,
-      "km": 46.099999999999994,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 229,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033730025644495068#m",
-      "timestamp": "2026-03-17T02:19:57+00:00",
-      "timestamp_display": "16/03/2026 20:19 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2033940138288423386#m",
+      "timestamp": "2026-03-17T16:14:52+00:00",
+      "timestamp_display": "17/03/2026 10:14 CST",
+      "segment": null
     },
     {
-      "title": "#VíaLibre en #Zacatecas tras presencia de personas cerca del km 026+850, en la carretera Zacatecas-Durango. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Cierre a la circulación por atención de accidente a la altura del km 229, dirección Cd. Mendoza. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 26.85,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033712878176342131#m",
-      "timestamp": "2026-03-17T01:11:49+00:00",
-      "timestamp_display": "16/03/2026 19:11 CST",
+      "km": 229,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033938513482145971#m",
+      "timestamp": "2026-03-17T16:08:25+00:00",
+      "timestamp_display": "17/03/2026 10:08 CST",
       "segment": null
     },
     {
@@ -498,19 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033908396811030589#m",
       "timestamp": "2026-03-17T14:08:44+00:00",
       "timestamp_display": "17/03/2026 08:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 267, dirección Córdoba. Cierre a la circulación por atención de accidente (choque por alcance y volcadura de camioneta). En la zona se registra #lluvia. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 267,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033904513099219106#m",
-      "timestamp": "2026-03-17T13:53:18+00:00",
-      "timestamp_display": "17/03/2026 07:53 CST",
       "segment": null
     }
   ]
