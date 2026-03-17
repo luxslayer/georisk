@@ -370,6 +370,9 @@ def locate_km(
                 best_next = (i, d_end < d_start)  # flip si conecta por el final
 
         if best_next is None or best_gap > MAX_GAP_KM:
+            print(f"[DEBUG] Encadenamiento detenido: best_gap={best_gap:.2f} km, "
+                f"dist_to_dest={haversine(dest[0], dest[1], chain[-1][0], chain[-1][1]):.1f} km, "
+                f"total={_cumulative_distances(chain)[-1]:.1f} km")
             break
 
         next_idx, flip = best_next
@@ -394,6 +397,8 @@ def locate_km(
         total_so_far = _cumulative_distances(chain)[-1]
 
         if dist_to_dest < 5.0 or total_so_far > MAX_TOTAL_KM:
+            print(f"[DEBUG] Parada por proximidad: dist_to_dest={dist_to_dest:.1f} km, "
+                f"total={total_so_far:.1f} km")
             break
 
     cum_dists = _cumulative_distances(chain)
