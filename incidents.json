@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-03-17T20:23:01.871640",
+  "last_update": "2026-03-17T21:05:15.644604",
   "incidents": [
+    {
+      "title": "#TómePrecauciones en #Puebla continúa cierre parcial de circulación por desprendimiento de la carpeta asfáltica, cerca del km 092+200 carretera  Pachuca - Tuxpan, Tramo ent. Lib. Tulancingo - Cañada Rica. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.092856282442984,
+      "lng": -98.71427714875797,
+      "road": 130,
+      "km": 92.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034011107212263613#m",
+      "timestamp": "2026-03-17T20:56:52+00:00",
+      "timestamp_display": "17/03/2026 14:56 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación por #AccidenteVial cerca del km 092+200, en la carretera San Luis Potosí - Zacatecas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 92.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034005335128559953#m",
+      "timestamp": "2026-03-17T20:33:56+00:00",
+      "timestamp_display": "17/03/2026 14:33 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación por #AccidenteVíal, cerca del km 182+100, en la carretera Villahermosa - Fco. Escárcega. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 182.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034002944228552720#m",
+      "timestamp": "2026-03-17T20:24:26+00:00",
+      "timestamp_display": "17/03/2026 14:24 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación por #AccidenteVial cerca del km 039+500, en la carretera Durango - Villa Unión. Atienda indicación vial.",
       "type": "twitter",
@@ -235,42 +274,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 197+200, en la carretera Choapas-Ocozocoautla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista  Cuauhtémoc - Osiris, Plaza de Cobro Zacatecas. Continúan cierres intermitentes en ambos sentidos por presencia de manifestantes. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 197.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033819428513517931#m",
-      "timestamp": "2026-03-17T08:15:12+00:00",
-      "timestamp_display": "17/03/2026 02:15 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @GN_Carreteras: Como ruta alterna en el km 123+500 hay una desviación que toma la Carretera Federal Pachuca-Tuxpan, para llegar al municipio de Huauchinango e incorporarse de nuevo a la Autopista.",
-      "type": "twitter",
-      "lat": 20.54,
-      "lng": -98.07,
-      "road": 130,
-      "km": 123.5,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033813441404604910#m",
-      "timestamp": "2026-03-17T07:51:25+00:00",
-      "timestamp_display": "17/03/2026 01:51 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034011311701434621#m",
+      "timestamp": "2026-03-17T20:57:41+00:00",
+      "timestamp_display": "17/03/2026 14:57 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre total de la circulación por #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️     \nAutopista Acatzingo-Cd. Mendoza, continúa #neblinadensa en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 124.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033813435654316214#m",
-      "timestamp": "2026-03-17T07:51:24+00:00",
-      "timestamp_display": "17/03/2026 01:51 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034009983147229578#m",
+      "timestamp": "2026-03-17T20:52:24+00:00",
+      "timestamp_display": "17/03/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\n#AutMéxicoQuerétaro, registra #lluvia a la altura del Poblado de Jilotepec. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.9539,
+      "lng": -99.5345,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034009338222973174#m",
+      "timestamp": "2026-03-17T20:49:50+00:00",
+      "timestamp_display": "17/03/2026 14:49 CST",
       "segment": null
     },
     {
@@ -336,6 +375,19 @@
       "url": "https://nitter.net/CAPUFE/status/2033985245205119284#m",
       "timestamp": "2026-03-17T19:14:06+00:00",
       "timestamp_display": "17/03/2026 13:14 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Durango - Mazatlán, km 39. Circulación intermitente en ambos sentidos, por atención de choque por alcance y volcadura de automóvil. Maneja con precaución.\n\nConsulta la ubicación aquí: https://maps.app.goo.gl/CiFHBgmygbz4CXbw7",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 39,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033956129181442230#m",
+      "timestamp": "2026-03-17T17:18:24+00:00",
+      "timestamp_display": "17/03/2026 11:18 CST",
       "segment": null
     },
     {
@@ -456,19 +508,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Durango - Mazatlán, km 39. Circulación intermitente en ambos sentidos, por atención de choque por alcance y volcadura de automóvil. Maneja con precaución.\n\nConsulta la ubicación aquí: https://maps.app.goo.gl/CiFHBgmygbz4CXbw7",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 39,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033956129181442230#m",
-      "timestamp": "2026-03-17T17:18:24+00:00",
-      "timestamp_display": "17/03/2026 11:18 CST",
-      "segment": null
-    },
-    {
       "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -492,32 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033952230760419492#m",
       "timestamp": "2026-03-17T17:02:55+00:00",
       "timestamp_display": "17/03/2026 11:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 229, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación desde la plaza de cobro Esperanza. En la zona se registra carga vehicular y #neblina. Unidades de CAPUFE realizan operativo de vialidad. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 229,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033951038709829748#m",
-      "timestamp": "2026-03-17T16:58:11+00:00",
-      "timestamp_display": "17/03/2026 10:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 229, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 229,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033940138288423386#m",
-      "timestamp": "2026-03-17T16:14:52+00:00",
-      "timestamp_display": "17/03/2026 10:14 CST",
       "segment": null
     }
   ]
