@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-17T15:17:19.147541",
+  "last_update": "2026-03-17T15:36:27.155786",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Yucatán se registra cierre parcial de la circulación por #AccidenteVial cerca del km 041+200, en la carretera Mérida-Puerto Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 41.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033927157353779458#m",
+      "timestamp": "2026-03-17T15:23:17+00:00",
+      "timestamp_display": "17/03/2026 09:23 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz cierre parcial tras #AccidenteVial cerca del km 265+500, de la carretera Puebla - Córdova. Atienda indicación vial.",
       "type": "twitter",
@@ -30,8 +43,8 @@
     {
       "title": "#TomePrecauciones en #Nayarit continúa cierre parcial de la circulación por maniobras tras #AccidenteVial cerca del km 086+200, en la carretera  de la carretera Tepic-Mazatlán. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 21.98733412724332,
-      "lng": -105.13438612449637,
+      "lat": 22.02251741265443,
+      "lng": -105.1611893649806,
       "road": 15,
       "km": 86.2,
       "risk": "high",
@@ -99,19 +112,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre total de la circulación por #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 124.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033813435654316214#m",
-      "timestamp": "2026-03-17T07:51:24+00:00",
-      "timestamp_display": "17/03/2026 01:51 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Como ruta alterna en el km 123+500 hay una desviación que toma la Carretera Federal Pachuca-Tuxpan, para llegar al municipio de Huauchinango e incorporarse de nuevo a la Autopista.",
       "type": "twitter",
       "lat": 20.54,
@@ -121,6 +121,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2033813441404604910#m",
       "timestamp": "2026-03-17T07:51:25+00:00",
+      "timestamp_display": "17/03/2026 01:51 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre total de la circulación por #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 124.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033813435654316214#m",
+      "timestamp": "2026-03-17T07:51:24+00:00",
       "timestamp_display": "17/03/2026 01:51 CST",
       "segment": null
     },
@@ -164,22 +177,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Nayarit continua cierre de circulación por maniobras tras #AccidenteVial cerca del km 086+200 de la carretera Tepic-Mazatlán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.98733412724332,
-      "lng": -105.13438612449637,
-      "road": 15,
-      "km": 86.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033743240260723010#m",
-      "timestamp": "2026-03-17T03:12:28+00:00",
-      "timestamp_display": "16/03/2026 21:12 CST",
-      "segment": [
-        "tepic",
-        "mazatlan"
-      ]
-    },
-    {
       "title": "R to @GN_Carreteras: Se recomienda tomar ruta alterna, en el km 047+000 a altura de la ciudad de Magdalena, Jal., para después incorporarse al km 097+000 en el entronque de Ixtlán del Río.",
       "type": "twitter",
       "lat": 23.5,
@@ -191,6 +188,22 @@
       "timestamp": "2026-03-17T03:12:29+00:00",
       "timestamp_display": "16/03/2026 21:12 CST",
       "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit continua cierre de circulación por maniobras tras #AccidenteVial cerca del km 086+200 de la carretera Tepic-Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.02251741265443,
+      "lng": -105.1611893649806,
+      "road": 15,
+      "km": 86.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2033743240260723010#m",
+      "timestamp": "2026-03-17T03:12:28+00:00",
+      "timestamp_display": "16/03/2026 21:12 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
     },
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación por #AccidenteVial cerca del km 067+200, en la carretera México-Querétaro. Atienda indicación vial.",
@@ -264,16 +277,29 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación por #AccidenteVial cerca del km 106+500, en la carretera Guadalajara-Tepic. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento de Villahermosa, Plaza de Cobro Nacajuca I. Registra carga vehicular en dirección Cárdenas, por atención de incidencia. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 106.5,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033927994863968512#m",
+      "timestamp": "2026-03-17T15:26:37+00:00",
+      "timestamp_display": "17/03/2026 09:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2033704306038169793#m",
-      "timestamp": "2026-03-17T00:37:45+00:00",
-      "timestamp_display": "16/03/2026 18:37 CST",
+      "url": "https://nitter.net/CAPUFE/status/2033926211622080772#m",
+      "timestamp": "2026-03-17T15:19:32+00:00",
+      "timestamp_display": "17/03/2026 09:19 CST",
       "segment": null
     },
     {
@@ -482,32 +508,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033902250439876901#m",
       "timestamp": "2026-03-17T13:44:19+00:00",
       "timestamp_display": "17/03/2026 07:44 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puente de Ixtla - Iguala, km 7. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 7,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033901569771553271#m",
-      "timestamp": "2026-03-17T13:41:36+00:00",
-      "timestamp_display": "17/03/2026 07:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 96 al 100, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033895303284232637#m",
-      "timestamp": "2026-03-17T13:16:42+00:00",
-      "timestamp_display": "17/03/2026 07:16 CST",
       "segment": null
     }
   ]
