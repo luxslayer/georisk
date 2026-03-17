@@ -67,8 +67,8 @@ road_segments = {
             "cities": ("saltillo", "monterrey"),
             "km_start": 8,
             "km_end": 74,
-            "coord_start": (25.6769, -100.4462),  
-            "coord_end":   (25.5074, -100.9624),
+            "coord_start": (25.5074, -100.9624),  
+            "coord_end":   (25.6769, -100.4462),
         },
     ],
 
