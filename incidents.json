@@ -1,17 +1,30 @@
 {
-  "last_update": "2026-03-17T22:34:59.582131",
+  "last_update": "2026-03-17T23:05:54.139837",
   "incidents": [
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre total de la circulación por #AccidenteVial cerca del km 145+300, de la carretera Tulancingo-Tihuatlán. Se orienta a la ciudadanía #rutaalterna por la carretera libre Tulancingo - Tihuatlán. Atienda indicación vial.",
+      "title": "#TómePrecauciones en #Guerrero continúa cierre parcial de circulación por socavón de la carpeta asfáltica, cerca del km 007+600 de la carretera 198 (libre), Chilpancingo - Acapulco, a la altura del poblado Garrapatas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": 198,
+      "km": 7.6,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034043306443780317#m",
+      "timestamp": "2026-03-17T23:04:49+00:00",
+      "timestamp_display": "17/03/2026 17:04 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación por #AccidenteVial cerca del km 145+300, de la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.0414,
       "lng": -98.2063,
       "road": null,
       "km": 145.3,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034035074866225445#m",
-      "timestamp": "2026-03-17T22:32:07+00:00",
-      "timestamp_display": "17/03/2026 16:32 CST",
+      "url": "https://nitter.net/GN_Carreteras/status/2034036405492490332#m",
+      "timestamp": "2026-03-17T22:37:24+00:00",
+      "timestamp_display": "17/03/2026 16:37 CST",
       "segment": null
     },
     {
@@ -255,23 +268,46 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas, cerca del km 067+000, en la carretera La Ventosa - Tapanatepec. Atienda indicación vial.",
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️   \nAutopista Acatzingo-Cd. Mendoza, continúa #neblinadensa en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 16.48099561612876,
-      "lng": -94.36020780773457,
-      "road": 190,
-      "km": 67.0,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2033935520208691652#m",
-      "timestamp": "2026-03-17T15:56:31+00:00",
-      "timestamp_display": "17/03/2026 09:56 CST",
-      "segment": [
-        "la ventosa",
-        "tapanatepec"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2034040805170561492#m",
+      "timestamp": "2026-03-17T22:54:53+00:00",
+      "timestamp_display": "17/03/2026 16:54 CST",
+      "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nLibramiento Amecameca - Nepantla, Plaza de Cobro Ozumba. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 238, dirección Cd. Mendoza. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. Toma tus precauciones.  \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/w8TvqVfJZ8D39UXU8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 238,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034039041226653860#m",
+      "timestamp": "2026-03-17T22:47:52+00:00",
+      "timestamp_display": "17/03/2026 16:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 76, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 76,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034036964232474711#m",
+      "timestamp": "2026-03-17T22:39:37+00:00",
+      "timestamp_display": "17/03/2026 16:39 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nLibramiento Amecameca - Nepantla, Plaza de Cobro Ozumba. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -281,19 +317,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034034707470409918#m",
       "timestamp": "2026-03-17T22:30:39+00:00",
       "timestamp_display": "17/03/2026 16:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN🔴   \nLibramiento Amecameca - Nepantla, Plaza de Cobro Ozumba. Cierre a la circulación en ambos sentidos, por presencia de manifestantes. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/nTyoA5ZhPkVvtZSz6",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034029362975068378#m",
-      "timestamp": "2026-03-17T22:09:25+00:00",
-      "timestamp_display": "17/03/2026 16:09 CST",
       "segment": null
     },
     {
@@ -346,6 +369,19 @@
       "url": "https://nitter.net/CAPUFE/status/2034031143368933487#m",
       "timestamp": "2026-03-17T22:16:29+00:00",
       "timestamp_display": "17/03/2026 16:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN🔴   \nLibramiento Amecameca - Nepantla, Plaza de Cobro Ozumba. Cierre a la circulación en ambos sentidos, por presencia de manifestantes. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/nTyoA5ZhPkVvtZSz6",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034029362975068378#m",
+      "timestamp": "2026-03-17T22:09:25+00:00",
+      "timestamp_display": "17/03/2026 16:09 CST",
       "segment": null
     },
     {
@@ -472,32 +508,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Durango - Mazatlán, km 39. Circulación intermitente en ambos sentidos, por atención de choque por alcance y volcadura de automóvil. Maneja con precaución.\n\nConsulta la ubicación aquí: https://maps.app.goo.gl/CiFHBgmygbz4CXbw7",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 39,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033956129181442230#m",
-      "timestamp": "2026-03-17T17:18:24+00:00",
-      "timestamp_display": "17/03/2026 11:18 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Durango - Mazatlán, km 39. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 39,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2033985245205119284#m",
-      "timestamp": "2026-03-17T19:14:06+00:00",
-      "timestamp_display": "17/03/2026 13:14 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 39. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.24,
@@ -525,45 +535,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista  Cuauhtémoc - Osiris, Plaza de Cobro Zacatecas. Continúan cierres intermitentes en ambos sentidos por presencia de manifestantes. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034011311701434621#m",
-      "timestamp": "2026-03-17T20:57:41+00:00",
-      "timestamp_display": "17/03/2026 14:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️     \nAutopista Acatzingo-Cd. Mendoza, continúa #neblinadensa en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034009983147229578#m",
-      "timestamp": "2026-03-17T20:52:24+00:00",
-      "timestamp_display": "17/03/2026 14:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\n#AutMéxicoQuerétaro, registra #lluvia a la altura del Poblado de Jilotepec. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.9539,
-      "lng": -99.5345,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034009338222973174#m",
-      "timestamp": "2026-03-17T20:49:50+00:00",
-      "timestamp_display": "17/03/2026 14:49 CST",
-      "segment": null
     }
   ]
 }
