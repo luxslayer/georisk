@@ -238,13 +238,23 @@ def _find_km_on_polyline(
     polyline: list[tuple[float, float]],
     cum_dists: list[float],
     target_km: float,
+    tolerance_km: float = 3.0,
 ) -> tuple[float, float] | None:
     """
     Busca el punto en la polilínea que corresponde a target_km km
     desde el inicio de la misma.
+    tolerance_km: si el KM supera el total por menos de este margen,
+    devuelve el último punto en lugar de None.
     """
     total = cum_dists[-1]
-    if target_km < 0 or target_km > total:
+    if target_km < 0:
+        return None
+    if target_km > total:
+        if target_km - total <= tolerance_km:
+            # Apenas fuera de rango — devolver el último punto
+            print(f"[km_geolocator] KM {target_km:.1f} supera total {total:.1f} km "
+                  f"por {target_km - total:.2f} km — usando último punto")
+            return polyline[-1]
         return None
 
     # Búsqueda binaria del segmento
@@ -336,7 +346,7 @@ def locate_km(
           f"(d_tail_to_dest={min(d_end_to_dest, d_start_to_dest):.1f} km)")
 
     # ── 3. Encadenar segmentos contiguos hacia coord_end ──────────────────
-    MAX_GAP_KM = 1.0   # máximo salto permitido entre segmentos contiguos
+    MAX_GAP_KM = 2.0   # máximo salto permitido entre segmentos contiguos
     MAX_TOTAL_KM = (known_segment["km_end"] - known_segment["km_start"]) * 1.5 \
                    if known_segment else 500.0
 
