@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-17T15:36:27.155786",
+  "last_update": "2026-03-17T15:48:28.050990",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Yucatán se registra cierre parcial de la circulación por #AccidenteVial cerca del km 041+200, en la carretera Mérida-Puerto Juárez. Atienda indicación vial.",
@@ -43,10 +43,10 @@
     {
       "title": "#TomePrecauciones en #Nayarit continúa cierre parcial de la circulación por maniobras tras #AccidenteVial cerca del km 086+200, en la carretera  de la carretera Tepic-Mazatlán. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 22.02251741265443,
-      "lng": -105.1611893649806,
+      "lat": 22.029673627439337,
+      "lng": -105.16772119474504,
       "road": 15,
-      "km": 86.2,
+      "km": 79.2,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2033860318820974705#m",
       "timestamp": "2026-03-17T10:57:41+00:00",
@@ -192,10 +192,10 @@
     {
       "title": "#TomePrecauciones en #Nayarit continua cierre de circulación por maniobras tras #AccidenteVial cerca del km 086+200 de la carretera Tepic-Mazatlán. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 22.02251741265443,
-      "lng": -105.1611893649806,
+      "lat": 22.029673627439337,
+      "lng": -105.16772119474504,
       "road": 15,
-      "km": 86.2,
+      "km": 79.2,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2033743240260723010#m",
       "timestamp": "2026-03-17T03:12:28+00:00",
