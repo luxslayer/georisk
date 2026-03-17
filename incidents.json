@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-17T14:08:28.401959",
+  "last_update": "2026-03-17T14:24:37.281288",
   "incidents": [
     {
       "title": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 124+200, en la carretera Tulancingo-Tihuatlán. Maneje con precaución.",
@@ -208,10 +208,10 @@
     {
       "title": "#ViaLibre en #NuevoLeón tras #AccidenteVial cerca del km 066+100, en la carretera Saltillo-Monterrey. Maneje con precaución.",
       "type": "twitter",
-      "lat": 25.685357236833205,
-      "lng": -100.47938835912477,
+      "lat": 25.661187590512974,
+      "lng": -100.6993323575519,
       "road": 40,
-      "km": 58.099999999999994,
+      "km": 46.099999999999994,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2033730025644495068#m",
       "timestamp": "2026-03-17T02:19:57+00:00",
@@ -274,6 +274,58 @@
       "url": "https://nitter.net/GN_Carreteras/status/2033699172319162457#m",
       "timestamp": "2026-03-17T00:17:21+00:00",
       "timestamp_display": "16/03/2026 18:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 19, dirección CDMX. Registra carga vehicular, por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2033912086443467187#m",
+      "timestamp": "2026-03-17T14:23:24+00:00",
+      "timestamp_display": "17/03/2026 08:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Reducción de carriles por atención de accidente a la altura del km 229, dirección Cd. Mendoza. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 229,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033911668179128606#m",
+      "timestamp": "2026-03-17T14:21:44+00:00",
+      "timestamp_display": "17/03/2026 08:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 163, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033909537556607419#m",
+      "timestamp": "2026-03-17T14:13:16+00:00",
+      "timestamp_display": "17/03/2026 08:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 229, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 229,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2033908396811030589#m",
+      "timestamp": "2026-03-17T14:08:44+00:00",
+      "timestamp_display": "17/03/2026 08:08 CST",
       "segment": null
     },
     {
@@ -449,58 +501,6 @@
       "url": "https://nitter.net/CAPUFE/status/2033868874370732526#m",
       "timestamp": "2026-03-17T11:31:41+00:00",
       "timestamp_display": "17/03/2026 05:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​     \nAutopista Agua Dulce - Cárdenas, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033868820553589053#m",
-      "timestamp": "2026-03-17T11:31:28+00:00",
-      "timestamp_display": "17/03/2026 05:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🌩️🌧️CONDICIONES CLIMÁTICAS 🌧️🌩️      \nAutopista Champotón - Campeche, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033868788160946563#m",
-      "timestamp": "2026-03-17T11:31:21+00:00",
-      "timestamp_display": "17/03/2026 05:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️   \nLibramiento de Villahermosa, continúa #lluvia a la altura de la Plaza de Cobro Nacajuca. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033868732468973939#m",
-      "timestamp": "2026-03-17T11:31:07+00:00",
-      "timestamp_display": "17/03/2026 05:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2033868444999750048#m",
-      "timestamp": "2026-03-17T11:29:59+00:00",
-      "timestamp_display": "17/03/2026 05:29 CST",
       "segment": null
     }
   ]
