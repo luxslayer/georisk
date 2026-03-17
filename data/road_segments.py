@@ -57,7 +57,7 @@ road_segments = {
             "cities": ("tepic", "mazatlan"),
             "km_start": 0,
             "km_end": 238,
-            "coord_start": (21.5300, -104.9316),  
+            "coord_start": (21.5334, -104.9347),  
             "coord_end":   (23.1862, -106.1749),
         },
     ],
