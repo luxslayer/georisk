@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-18T09:02:06.007111",
+  "last_update": "2026-03-18T10:12:33.558171",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre total de la circulación tras presencia de personas cerca del km 041+100, de la carretera libre Actopan - Ixmiquilpan a la altura de la altura del Mpio. Caxuxi. Se orienta a la ciudadanía #rutaalterna carretera libre Actopan - Tula.",
@@ -265,6 +265,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 52. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034202804894523471#m",
+      "timestamp": "2026-03-18T09:38:37+00:00",
+      "timestamp_display": "18/03/2026 03:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 36, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 36,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034199632264548756#m",
+      "timestamp": "2026-03-18T09:26:00+00:00",
+      "timestamp_display": "18/03/2026 03:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 52. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034197950730305704#m",
+      "timestamp": "2026-03-18T09:19:19+00:00",
+      "timestamp_display": "18/03/2026 03:19 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 20. Continúa cierre a la circulación en ambos sentidos por labores de mantenimiento (no a cargo de CAPUFE). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 19.343235826548554,
@@ -496,45 +535,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 40, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034094452562641028#m",
-      "timestamp": "2026-03-18T02:28:03+00:00",
-      "timestamp_display": "17/03/2026 20:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 76, dirección CDMX. Reducción de carriles por atención de accidente (caída de rama). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 76,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034094263995191763#m",
-      "timestamp": "2026-03-18T02:27:18+00:00",
-      "timestamp_display": "17/03/2026 20:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 5, dirección Chamapa. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 5,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034089248035348730#m",
-      "timestamp": "2026-03-18T02:07:22+00:00",
-      "timestamp_display": "17/03/2026 20:07 CST",
-      "segment": null
     }
   ]
 }
