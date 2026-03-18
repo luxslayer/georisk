@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-18T23:04:14.776119",
+  "last_update": "2026-03-18T23:43:20.311930",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Chiapas tras presencia de personas cerca del km 269+500, de la carretera libre Tapanatepec - Talismán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": 269.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034410788836757712#m",
+      "timestamp": "2026-03-18T23:25:04+00:00",
+      "timestamp_display": "18/03/2026 17:25 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato +se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 084+150, en la carretera Acámbaro – Celaya. Atienda indicación vial.",
       "type": "twitter",
@@ -252,20 +265,43 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 132+500, en la carretera Puebla - Córdoba. Atienda indicación vial.",
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN🔴   \n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección Querétaro. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones.\n \nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/qVxLNBhBMVbeLSbh6",
       "type": "twitter",
-      "lat": 19.068966401995866,
-      "lng": -98.1259761480363,
-      "road": 150,
-      "km": 23.5,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034413820815303034#m",
+      "timestamp": "2026-03-18T23:37:07+00:00",
+      "timestamp_display": "18/03/2026 17:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Lagos de Moreno - San Luis Potosí, km 22. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 22,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034294215195415035#m",
-      "timestamp": "2026-03-18T15:41:50+00:00",
-      "timestamp_display": "18/03/2026 09:41 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2034412806917824535#m",
+      "timestamp": "2026-03-18T23:33:05+00:00",
+      "timestamp_display": "18/03/2026 17:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️    \nAutopista Acatzingo-Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034410522615963970#m",
+      "timestamp": "2026-03-18T23:24:00+00:00",
+      "timestamp_display": "18/03/2026 17:24 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación de manera intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Toma tus precauciones.",
@@ -284,7 +320,33 @@
       ]
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones y maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 80, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta de carga. En la zona se registra carga vehicular. Maneja con precaución. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/PfsrdSDdeougGdWC9",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034370845695754658#m",
+      "timestamp": "2026-03-18T20:46:21+00:00",
+      "timestamp_display": "18/03/2026 14:46 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas y labores de limpieza. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034389938985120225#m",
+      "timestamp": "2026-03-18T22:02:13+00:00",
+      "timestamp_display": "18/03/2026 16:02 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones y maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -324,19 +386,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas y labores de limpieza. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034389938985120225#m",
-      "timestamp": "2026-03-18T22:02:13+00:00",
-      "timestamp_display": "18/03/2026 16:02 CST",
-      "segment": null
     },
     {
       "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nCarretera Cd. Alemán - Tuxtepec, Plaza de Cobro Puente El Caracol. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -420,19 +469,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034382272791785637#m",
-      "timestamp": "2026-03-18T21:31:45+00:00",
-      "timestamp_display": "18/03/2026 15:31 CST",
-      "segment": null
-    },
-    {
       "title": "⚠️ AVISO IMPORTANTE ⚠️ \nLibramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE), dirección Cuernavaca. Se restablece la circulación con reducción de carriles por presencia de manifestantes. Dir. Acapulco, opera de manera normal. Toma tus precauciones. Para más información llama al 088 de @GN_Carreteras.",
       "type": "twitter",
       "lat": 18.93,
@@ -482,58 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034378333169889639#m",
       "timestamp": "2026-03-18T21:16:06+00:00",
       "timestamp_display": "18/03/2026 15:16 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034374857459224791#m",
-      "timestamp": "2026-03-18T21:02:17+00:00",
-      "timestamp_display": "18/03/2026 15:02 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034371811194921173#m",
-      "timestamp": "2026-03-18T20:50:11+00:00",
-      "timestamp_display": "18/03/2026 14:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 80, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta de carga. En la zona se registra carga vehicular. Maneja con precaución. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/PfsrdSDdeougGdWC9",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 80,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034370845695754658#m",
-      "timestamp": "2026-03-18T20:46:21+00:00",
-      "timestamp_display": "18/03/2026 14:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAut. Isla - Acayucan, km 154, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 154,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034364865746210871#m",
-      "timestamp": "2026-03-18T20:22:35+00:00",
-      "timestamp_display": "18/03/2026 14:22 CST",
       "segment": null
     }
   ]
