@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-18T22:33:59.018774",
+  "last_update": "2026-03-18T23:04:14.776119",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guanajuato +se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 084+150, en la carretera Acámbaro – Celaya. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.52,
+      "lng": -100.81,
+      "road": null,
+      "km": 84.15,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034402915310346555#m",
+      "timestamp": "2026-03-18T22:53:47+00:00",
+      "timestamp_display": "18/03/2026 16:53 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz cierre parcial por #AccidenteVial cerca del km 071+200, de la carretera Poza Rica-Cardel. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 71.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034398514659078534#m",
+      "timestamp": "2026-03-18T22:36:17+00:00",
+      "timestamp_display": "18/03/2026 16:36 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Guerrero tras presencia de personas cerca del km 272+000, de la carretera Chilpancingo - Acapulco. Maneje con precaución.",
       "type": "twitter",
@@ -242,33 +268,20 @@
       ]
     },
     {
-      "title": "En #Oaxaca continúa cierre total de la circulación por presencia de personas, cerca del km 067+000, en la carretera La Ventosa - Tapanatepec. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación de manera intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 16.48099561612876,
-      "lng": -94.36020780773457,
-      "road": 190,
-      "km": 67.0,
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034293853705085239#m",
-      "timestamp": "2026-03-18T15:40:24+00:00",
-      "timestamp_display": "18/03/2026 09:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034400705818271805#m",
+      "timestamp": "2026-03-18T22:45:00+00:00",
+      "timestamp_display": "18/03/2026 16:45 CST",
       "segment": [
-        "la ventosa",
-        "tapanatepec"
+        "nuevo teapa",
+        "cosoleacaque"
       ]
-    },
-    {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 080+000, en la carretera Acámbaro – Celaya. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.52,
-      "lng": -100.81,
-      "road": null,
-      "km": 80.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034290235602014414#m",
-      "timestamp": "2026-03-18T15:26:02+00:00",
-      "timestamp_display": "18/03/2026 09:26 CST",
-      "segment": null
     },
     {
       "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones y maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
@@ -521,19 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034364865746210871#m",
       "timestamp": "2026-03-18T20:22:35+00:00",
       "timestamp_display": "18/03/2026 14:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nAutopista Cd. Mendoza - Córdoba, km 289, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 289,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034361890214723770#m",
-      "timestamp": "2026-03-18T20:10:45+00:00",
-      "timestamp_display": "18/03/2026 14:10 CST",
       "segment": null
     }
   ]
