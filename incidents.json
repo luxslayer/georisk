@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-19T05:10:16.483229",
+  "last_update": "2026-03-19T06:11:35.540811",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Veracruz tras #Incidente cerca del km 000+200, de la carretera Ent la Tinaja- Santa Cruz. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 0.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034500650915045606#m",
+      "timestamp": "2026-03-19T05:22:09+00:00",
+      "timestamp_display": "18/03/2026 23:22 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 50+500, de la carretera Paso del Toro - Acayucan. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 50.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034498583496462778#m",
+      "timestamp": "2026-03-19T05:13:56+00:00",
+      "timestamp_display": "18/03/2026 23:13 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de personas cerca del km 183+500, de la carretera Ent. La Tinaja-Cosoleacaque. Atienda indicación vial.",
       "type": "twitter",
@@ -242,29 +268,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato +se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 084+150, en la carretera Acámbaro – Celaya. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 3. El accidente fuera de la jurisdicción a cargo de CAPUFE ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 20.52,
-      "lng": -100.81,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 84.15,
+      "km": 3,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034402915310346555#m",
-      "timestamp": "2026-03-18T22:53:47+00:00",
-      "timestamp_display": "18/03/2026 16:53 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz cierre parcial por #AccidenteVial cerca del km 071+200, de la carretera Poza Rica-Cardel. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 71.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034398514659078534#m",
-      "timestamp": "2026-03-18T22:36:17+00:00",
-      "timestamp_display": "18/03/2026 16:36 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034510836702548091#m",
+      "timestamp": "2026-03-19T06:02:37+00:00",
+      "timestamp_display": "19/03/2026 00:02 CST",
       "segment": null
     },
     {
@@ -518,19 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034434339249742109#m",
       "timestamp": "2026-03-19T00:58:39+00:00",
       "timestamp_display": "18/03/2026 18:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAut. Isla - Acayucan, km 154, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 154,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034434164070519228#m",
-      "timestamp": "2026-03-19T00:57:57+00:00",
-      "timestamp_display": "18/03/2026 18:57 CST",
       "segment": null
     }
   ]
