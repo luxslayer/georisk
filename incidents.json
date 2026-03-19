@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-19T23:31:23.030387",
+  "last_update": "2026-03-19T23:59:54.468389",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 122+000, en la carretera Perote - Banderilla. Atienda indicación vial.",
@@ -277,6 +277,35 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034780992838541719#m",
+      "timestamp": "2026-03-19T23:56:07+00:00",
+      "timestamp_display": "19/03/2026 17:56 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️    \nAutopista Acatzingo-Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034779252957356080#m",
+      "timestamp": "2026-03-19T23:49:12+00:00",
+      "timestamp_display": "19/03/2026 17:49 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 28, dirección Querétaro. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -529,35 +558,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034730928778428758#m",
       "timestamp": "2026-03-19T20:37:11+00:00",
       "timestamp_display": "19/03/2026 14:37 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, km 165, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 165,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034729088829513821#m",
-      "timestamp": "2026-03-19T20:29:52+00:00",
-      "timestamp_display": "19/03/2026 14:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 22, dirección Puebla. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.330034972804544,
-      "lng": -98.96606363556693,
-      "road": 150,
-      "km": 4,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034723486719979790#m",
-      "timestamp": "2026-03-19T20:07:37+00:00",
-      "timestamp_display": "19/03/2026 14:07 CST",
       "segment": [
         "mexico",
         "puebla"
