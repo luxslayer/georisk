@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-19T22:00:48.651756",
+  "last_update": "2026-03-19T22:48:44.251179",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Oaxaca por presencia de personas en la Caseta de Cobro No. 28 puente Papaloapan cerca del Km 003+500 de la carretera Ciudad Alemán - Sayula. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 3.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034755340630138994#m",
+      "timestamp": "2026-03-19T22:14:11+00:00",
+      "timestamp_display": "19/03/2026 16:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total por presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de la carretera Buena Vista - Tuxtepec. Atienda indicación vial.",
       "type": "twitter",
@@ -264,17 +277,49 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de personas cerca del km 128+700, de la carretera Perote - Banderilla. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 9, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 128.7,
+      "lat": 18.861131694276807,
+      "lng": -96.82694197387126,
+      "road": 150,
+      "km": 9,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034527408318009595#m",
-      "timestamp": "2026-03-19T07:08:28+00:00",
-      "timestamp_display": "19/03/2026 01:08 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034762959604384031#m",
+      "timestamp": "2026-03-19T22:44:28+00:00",
+      "timestamp_display": "19/03/2026 16:44 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034761797459226628#m",
+      "timestamp": "2026-03-19T22:39:51+00:00",
+      "timestamp_display": "19/03/2026 16:39 CST",
       "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 22, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.330034972804544,
+      "lng": -98.96606363556693,
+      "road": 150,
+      "km": 4,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034755199684788336#m",
+      "timestamp": "2026-03-19T22:13:38+00:00",
+      "timestamp_display": "19/03/2026 16:13 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, km 64, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
@@ -516,45 +561,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034704381438824926#m",
       "timestamp": "2026-03-19T18:51:42+00:00",
       "timestamp_display": "19/03/2026 12:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧   \nAutopista Cuernavaca - Acapulco, km 122, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 122,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034703051471065201#m",
-      "timestamp": "2026-03-19T18:46:25+00:00",
-      "timestamp_display": "19/03/2026 12:46 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se restablece la vialidad en ambos sentidos. Continúa presencia de manifestantes, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034702595432816999#m",
-      "timestamp": "2026-03-19T18:44:36+00:00",
-      "timestamp_display": "19/03/2026 12:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 61. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 61,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034700909394239980#m",
-      "timestamp": "2026-03-19T18:37:54+00:00",
-      "timestamp_display": "19/03/2026 12:37 CST",
       "segment": null
     }
   ]
