@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-19T16:09:30.271746",
+  "last_update": "2026-03-19T17:15:17.189721",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación por #Incidente, cerca del km 165+200, en la carretera Puebla-Córdoba. Atienda indicación vial.",
@@ -271,6 +271,100 @@
       "segment": null
     },
     {
+      "title": "Image",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034677642025222237#m",
+      "timestamp": "2026-03-19T17:05:26+00:00",
+      "timestamp_display": "19/03/2026 11:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cd. Obregón - Guaymas, km 57, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 57,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034677136787714257#m",
+      "timestamp": "2026-03-19T17:03:26+00:00",
+      "timestamp_display": "19/03/2026 11:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 165, dirección Acatzingo. Continúa reducción de carriles por atención de accidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 165,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034675985908387969#m",
+      "timestamp": "2026-03-19T16:58:52+00:00",
+      "timestamp_display": "19/03/2026 10:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nAut. Puente de Ixtla - Iguala, Plaza de Cobro Iguala. Circulación intermitente en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034674126523179206#m",
+      "timestamp": "2026-03-19T16:51:28+00:00",
+      "timestamp_display": "19/03/2026 10:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 142, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 142,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034669446371967226#m",
+      "timestamp": "2026-03-19T16:32:53+00:00",
+      "timestamp_display": "19/03/2026 10:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 50, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.2995779576657,
+      "lng": -98.74789740996866,
+      "road": 150,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034668487486964118#m",
+      "timestamp": "2026-03-19T16:29:04+00:00",
+      "timestamp_display": "19/03/2026 10:29 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Tijuana - Ensenada, Plaza de Cobro Ensenada. Presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034664639011995821#m",
+      "timestamp": "2026-03-19T16:13:46+00:00",
+      "timestamp_display": "19/03/2026 10:13 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 10, dirección Chamapa. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -430,87 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034635068371587219#m",
       "timestamp": "2026-03-19T14:16:16+00:00",
       "timestamp_display": "19/03/2026 08:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 142, dirección CDMX. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 142,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034634116507808223#m",
-      "timestamp": "2026-03-19T14:12:29+00:00",
-      "timestamp_display": "19/03/2026 08:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, km 13, dirección Chamapa. Registra carga vehicular a la altura de la Plaza de Cobro Madín, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 13,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034627899785916703#m",
-      "timestamp": "2026-03-19T13:47:47+00:00",
-      "timestamp_display": "19/03/2026 07:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Acatzingo, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034627466837303528#m",
-      "timestamp": "2026-03-19T13:46:04+00:00",
-      "timestamp_display": "19/03/2026 07:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 50, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.2995779576657,
-      "lng": -98.74789740996866,
-      "road": 150,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034626039360393559#m",
-      "timestamp": "2026-03-19T13:40:23+00:00",
-      "timestamp_display": "19/03/2026 07:40 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 61. Circulación intermitente en ambos sentidos por atención de accidente (incendio de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 61,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034621226451128761#m",
-      "timestamp": "2026-03-19T13:21:16+00:00",
-      "timestamp_display": "19/03/2026 07:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Las Choapas - Ocozocoautla, km 102. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 102,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034612510662254630#m",
-      "timestamp": "2026-03-19T12:46:38+00:00",
-      "timestamp_display": "19/03/2026 06:46 CST",
       "segment": null
     }
   ]
