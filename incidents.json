@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-19T08:02:53.194825",
+  "last_update": "2026-03-19T09:01:50.404533",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de personas cerca del km 128+700, de la carretera Perote - Banderilla. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 245, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 245,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034550214770471414#m",
+      "timestamp": "2026-03-19T08:39:05+00:00",
+      "timestamp_display": "19/03/2026 02:39 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️ \nAutopista Acatzingo-Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -385,6 +398,19 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nCarretera Paso del Toro - San Andrés Tuxtla, Plaza de Cobro Pte. Alvarado, dirección Veracruz. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/mUixSyohmfbQrrSn6",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034450895266591113#m",
+      "timestamp": "2026-03-19T02:04:26+00:00",
+      "timestamp_display": "18/03/2026 20:04 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nCarretera Paso del Toro - San Andrés Tuxtla, Plaza de Cobro Pte. Alvarado, dirección Veracruz. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.02,
@@ -434,6 +460,32 @@
       "url": "https://nitter.net/CAPUFE/status/2034470375367585914#m",
       "timestamp": "2026-03-19T03:21:50+00:00",
       "timestamp_display": "18/03/2026 21:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 80, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta de carga. En la zona se registra carga vehicular. Maneja con precaución. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/PfsrdSDdeougGdWC9",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034370845695754658#m",
+      "timestamp": "2026-03-18T20:46:21+00:00",
+      "timestamp_display": "18/03/2026 14:46 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 80, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones y maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034397321346129990#m",
+      "timestamp": "2026-03-18T22:31:33+00:00",
+      "timestamp_display": "18/03/2026 16:31 CST",
       "segment": null
     },
     {
@@ -506,19 +558,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034451362168070230#m",
-      "timestamp": "2026-03-19T02:06:17+00:00",
-      "timestamp_display": "18/03/2026 20:06 CST",
-      "segment": null
     }
   ]
 }
