@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-03-19T11:51:04.521001",
+  "last_update": "2026-03-19T13:07:50.617503",
   "incidents": [
+    {
+      "title": "En #Oaxaca se registra cierre parcial de la circulación tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 219.9,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034612451526762917#m",
+      "timestamp": "2026-03-19T12:46:24+00:00",
+      "timestamp_display": "19/03/2026 06:46 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Oaxaca continúa cierre parcial de la circulación tras presencia de personas cerca del km 090+100, de la carretera Barranca larga-ventanilla.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 90.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2034612339605922265#m",
+      "timestamp": "2026-03-19T12:45:57+00:00",
+      "timestamp_display": "19/03/2026 06:45 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 101+400, de la carretera Amozoc - Perote con dirección a Xalapa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 101.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034599775526355141#m",
+      "timestamp": "2026-03-19T11:56:02+00:00",
+      "timestamp_display": "19/03/2026 05:56 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de personas cerca del km 128+700, de la carretera Perote - Banderilla. Atienda indicación vial.",
       "type": "twitter",
@@ -38,19 +77,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2034498583496462778#m",
       "timestamp": "2026-03-19T05:13:56+00:00",
       "timestamp_display": "18/03/2026 23:13 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de personas cerca del km 183+500, de la carretera Ent. La Tinaja-Cosoleacaque. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 183.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034494004050432134#m",
-      "timestamp": "2026-03-19T04:55:44+00:00",
-      "timestamp_display": "18/03/2026 22:55 CST",
       "segment": null
     },
     {
@@ -177,19 +203,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #CDMX se registra cierre parcial de circulación por #ActividadesdeReparación, derivado a la caída de cables de alta tensión cerca del km 038+150, de la carretera México-Cuernavaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 38.15,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034449540300800448#m",
-      "timestamp": "2026-03-19T01:59:03+00:00",
-      "timestamp_display": "18/03/2026 19:59 CST",
-      "segment": null
-    },
-    {
       "title": "#Víalibre en #Veracruz tras #AccidenteVial cerca del km 010+100, de la carretera Coatzacoalcos- Villahermosa. Maneje con precaución.",
       "type": "twitter",
       "lat": 19.1748,
@@ -255,16 +268,71 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+100, de la carretera Coatzacoalcos- Villahermosa. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Las Choapas - Ocozocoautla, km 102. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 10.1,
+      "km": 102,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034416864789475758#m",
-      "timestamp": "2026-03-18T23:49:12+00:00",
-      "timestamp_display": "18/03/2026 17:49 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034612510662254630#m",
+      "timestamp": "2026-03-19T12:46:38+00:00",
+      "timestamp_display": "19/03/2026 06:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 165, dirección Acatzingo. Registra reducción de carriles por atención de accidente (choque contra muro central). Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 165,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034612176283984204#m",
+      "timestamp": "2026-03-19T12:45:18+00:00",
+      "timestamp_display": "19/03/2026 06:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️   \nAutopista Acatzingo-Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2034601907835064579#m",
+      "timestamp": "2026-03-19T12:04:30+00:00",
+      "timestamp_display": "19/03/2026 06:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 50, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.2995779576657,
+      "lng": -98.74789740996866,
+      "road": 150,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034600868088017219#m",
+      "timestamp": "2026-03-19T12:00:22+00:00",
+      "timestamp_display": "19/03/2026 06:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 102. Registra cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 102,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034599138336112984#m",
+      "timestamp": "2026-03-19T11:53:30+00:00",
+      "timestamp_display": "19/03/2026 05:53 CST",
       "segment": null
     },
     {
@@ -447,71 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034491401434488833#m",
       "timestamp": "2026-03-19T04:45:23+00:00",
       "timestamp_display": "18/03/2026 22:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CARGA VEHICULAR 🟠 \nAutopista La Tinaja - Isla, km 3. Continúa carga vehicular en ambos sentidos por atención de accidente fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 3,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034490070242152957#m",
-      "timestamp": "2026-03-19T04:40:06+00:00",
-      "timestamp_display": "18/03/2026 22:40 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nCarretera Paso del Toro - San Andrés Tuxtla, Plaza de Cobro Pte. Alvarado, dirección Veracruz. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034485275728941445#m",
-      "timestamp": "2026-03-19T04:21:03+00:00",
-      "timestamp_display": "18/03/2026 22:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Tijuana - Ensenada, registra #neblina. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034478830774100104#m",
-      "timestamp": "2026-03-19T03:55:26+00:00",
-      "timestamp_display": "18/03/2026 21:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Isla - Acayucan, km 154, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 154,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034471599785517310#m",
-      "timestamp": "2026-03-19T03:26:42+00:00",
-      "timestamp_display": "18/03/2026 21:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CARGA VEHICULAR 🟠 \nAutopista La Tinaja - Isla, km 3. Registra carga vehicular en ambos sentidos por atención de accidente fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 3,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034470375367585914#m",
-      "timestamp": "2026-03-19T03:21:50+00:00",
-      "timestamp_display": "18/03/2026 21:21 CST",
       "segment": null
     }
   ]
