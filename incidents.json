@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-20T11:39:01.661320",
+  "last_update": "2026-03-20T12:00:52.504249",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 007+700, en la carretera Libramiento Sur de Guadalajara. Atienda indicación vial.",
@@ -283,6 +283,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Las Choapas - Ocozocoautla, km 170. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034961061758095542#m",
+      "timestamp": "2026-03-20T11:51:39+00:00",
+      "timestamp_display": "20/03/2026 05:51 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️\nLibramiento de Villahermosa, registra #lluvia a la altura de la Plaza de Cobro Nacajuca. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -429,7 +442,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Las Choapas - Ocozocoautla, km 170. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos, por atención de choque por alcance múltiple entre autobuses y un tracto camión.\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Las Choapas - Ocozocoautla, km 170. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos, por atención de choque por alcance múltiple entre autobuses y un tracto camión.\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -439,19 +452,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034894091507425602#m",
       "timestamp": "2026-03-20T07:25:32+00:00",
       "timestamp_display": "20/03/2026 01:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 170. Registra cierre a la circulación en ambos sentidos por atención de accidente (choque lateral entre autobuses). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 170,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034882416834166963#m",
-      "timestamp": "2026-03-20T06:39:09+00:00",
-      "timestamp_display": "20/03/2026 00:39 CST",
       "segment": null
     },
     {
@@ -478,6 +478,19 @@
       "url": "https://nitter.net/CAPUFE/status/2034885102518304814#m",
       "timestamp": "2026-03-20T06:49:49+00:00",
       "timestamp_display": "20/03/2026 00:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 170. Registra cierre a la circulación en ambos sentidos por atención de accidente (choque lateral entre autobuses). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034882416834166963#m",
+      "timestamp": "2026-03-20T06:39:09+00:00",
+      "timestamp_display": "20/03/2026 00:39 CST",
       "segment": null
     },
     {
@@ -517,19 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034866895917117771#m",
       "timestamp": "2026-03-20T05:37:28+00:00",
       "timestamp_display": "19/03/2026 23:37 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Barranca Larga - Ventanilla, Plaza de Cobro Ventanilla. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034864051679838230#m",
-      "timestamp": "2026-03-20T05:26:10+00:00",
-      "timestamp_display": "19/03/2026 23:26 CST",
       "segment": null
     }
   ]
