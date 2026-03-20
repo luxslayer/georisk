@@ -1,6 +1,64 @@
 {
-  "last_update": "2026-03-20T02:49:48.084315",
+  "last_update": "2026-03-20T04:47:53.479939",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 006+800, en la carretera León – Aguascalientes. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.050889122781307,
+      "lng": -101.6391038857073,
+      "road": 45,
+      "km": 6.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034851940216004710#m",
+      "timestamp": "2026-03-20T04:38:02+00:00",
+      "timestamp_display": "19/03/2026 22:38 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 035+500, de la carretera Cd. Victoria - Monterrey. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 35.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034845814749577320#m",
+      "timestamp": "2026-03-20T04:13:42+00:00",
+      "timestamp_display": "19/03/2026 22:13 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 052+100, de la carretera Chihuahua - Cd. Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": 45,
+      "km": 52.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034845005081161882#m",
+      "timestamp": "2026-03-20T04:10:29+00:00",
+      "timestamp_display": "19/03/2026 22:10 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 261+500, de la autopista Puebla - Córdoba. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.82807314140502,
+      "lng": -97.11962452405021,
+      "road": 150,
+      "km": 152.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2034839513168507372#m",
+      "timestamp": "2026-03-20T03:48:40+00:00",
+      "timestamp_display": "19/03/2026 21:48 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#VíaLibre en #Oaxaca tras presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de la carretera Buena Vista - Tuxtepec. Maneje con cuidado.",
       "type": "twitter",
@@ -225,58 +283,68 @@
       "segment": null
     },
     {
-      "title": "En #Oaxaca continúa cierre parcial de la circulación tras presencia de personas cerca del km 090+100, de la carretera Barranca larga-ventanilla.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puente de Ixtla - Iguala, km 23. Circulación intermitente en ambos sentidos por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 90.1,
+      "km": 23,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034700685170672058#m",
-      "timestamp": "2026-03-19T18:37:00+00:00",
-      "timestamp_display": "19/03/2026 12:37 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034843908564210170#m",
+      "timestamp": "2026-03-20T04:06:08+00:00",
+      "timestamp_display": "19/03/2026 22:06 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 061+700, en la carretera Durango - Villa Unión. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 28, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 61.7,
+      "km": 28,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034695979031581005#m",
-      "timestamp": "2026-03-19T18:18:18+00:00",
-      "timestamp_display": "19/03/2026 12:18 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034838319327068509#m",
+      "timestamp": "2026-03-20T03:43:55+00:00",
+      "timestamp_display": "19/03/2026 21:43 CST",
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Puebla tras #AccidenteVíal, cerca del km 165+200, en la carretera Puebla-Córdoba. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 18.984771913437186,
-      "lng": -97.83430959448827,
-      "road": 150,
-      "km": 56.19999999999999,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034694422567268826#m",
-      "timestamp": "2026-03-19T18:12:07+00:00",
-      "timestamp_display": "19/03/2026 12:12 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2034838140230193252#m",
+      "timestamp": "2026-03-20T03:43:12+00:00",
+      "timestamp_display": "19/03/2026 21:43 CST",
+      "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #AccidenteVíal, a la altura de la caseta de cobro Jalostotitlán cerca del km 089+100, en la carretera Zapotlanejo - El desperdicio. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 89.1,
+      "km": 260,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034693720050692588#m",
-      "timestamp": "2026-03-19T18:09:20+00:00",
-      "timestamp_display": "19/03/2026 12:09 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034831988843045005#m",
+      "timestamp": "2026-03-20T03:18:46+00:00",
+      "timestamp_display": "19/03/2026 21:18 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Se informa a las personas usuarias que continúa cierre a la circulación en por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 260,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2034829836435202092#m",
+      "timestamp": "2026-03-20T03:10:12+00:00",
+      "timestamp_display": "19/03/2026 21:10 CST",
       "segment": null
     },
     {
@@ -348,7 +416,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/uhXoBR4fudGNGk8R7",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/uhXoBR4fudGNGk8R7",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -484,74 +552,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034761797459226628#m",
       "timestamp": "2026-03-19T22:39:51+00:00",
       "timestamp_display": "19/03/2026 16:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 22, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.330034972804544,
-      "lng": -98.96606363556693,
-      "road": 150,
-      "km": 4,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034755199684788336#m",
-      "timestamp": "2026-03-19T22:13:38+00:00",
-      "timestamp_display": "19/03/2026 16:13 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, km 64, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 64,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034751776973586677#m",
-      "timestamp": "2026-03-19T22:00:02+00:00",
-      "timestamp_display": "19/03/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nAutopista Cd. Mendoza - Córdoba, km 271, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 271,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034751771201998849#m",
-      "timestamp": "2026-03-19T22:00:00+00:00",
-      "timestamp_display": "19/03/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034751769960411289#m",
-      "timestamp": "2026-03-19T22:00:00+00:00",
-      "timestamp_display": "19/03/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nCarretera Ciudad Alemán - Loma Bonita, Puente Papaloapan. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2034750646511972511#m",
-      "timestamp": "2026-03-19T21:55:32+00:00",
-      "timestamp_display": "19/03/2026 15:55 CST",
       "segment": null
     }
   ]
