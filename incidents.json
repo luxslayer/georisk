@@ -1,285 +1,30 @@
 {
-  "last_update": "2026-03-20T08:42:26.308138",
+  "last_update": "2026-03-20T09:25:40.295612",
   "incidents": [
     {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 006+800, en la carretera León – Aguascalientes. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 27. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 21.050889122781307,
-      "lng": -101.6391038857073,
-      "road": 45,
-      "km": 6.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034851940216004710#m",
-      "timestamp": "2026-03-20T04:38:02+00:00",
-      "timestamp_display": "19/03/2026 22:38 CST",
-      "segment": [
-        "leon",
-        "aguascalientes"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 035+500, de la carretera Cd. Victoria - Monterrey. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.6866,
-      "lng": -100.3161,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 35.5,
+      "km": 27,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034845814749577320#m",
-      "timestamp": "2026-03-20T04:13:42+00:00",
-      "timestamp_display": "19/03/2026 22:13 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034920670782791871#m",
+      "timestamp": "2026-03-20T09:11:09+00:00",
+      "timestamp_display": "20/03/2026 03:11 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 052+100, de la carretera Chihuahua - Cd. Juárez. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nViaducto Elevado Tlalpan, km 5, dirección CDMX. Registra cierre a la circulación por labores de mantenimiento. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": 45,
-      "km": 52.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034845005081161882#m",
-      "timestamp": "2026-03-20T04:10:29+00:00",
-      "timestamp_display": "19/03/2026 22:10 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 261+500, de la autopista Puebla - Córdoba. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.82807314140502,
-      "lng": -97.11962452405021,
-      "road": 150,
-      "km": 152.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034839513168507372#m",
-      "timestamp": "2026-03-20T03:48:40+00:00",
-      "timestamp_display": "19/03/2026 21:48 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#VíaLibre en #Oaxaca tras presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de la carretera Buena Vista - Tuxtepec. Maneje con cuidado.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 19.4326,
+      "lng": -99.1332,
       "road": null,
-      "km": 113.1,
+      "km": 5,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034813789254697319#m",
-      "timestamp": "2026-03-20T02:06:27+00:00",
-      "timestamp_display": "19/03/2026 20:06 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Oaxaca tras presencia de personas en la Caseta de Cobro No. 28 puente Papaloapan cerca del Km 003+500 de la carretera Ciudad Alemán - Sayula. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 3.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034804503677899149#m",
-      "timestamp": "2026-03-20T01:29:33+00:00",
-      "timestamp_display": "19/03/2026 19:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 253+500, en la carretera Querétaro - San Luis Potosí. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.78818232412514,
-      "lng": -100.71134407950004,
-      "road": 57,
-      "km": 253.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034787728420708650#m",
-      "timestamp": "2026-03-20T00:22:53+00:00",
-      "timestamp_display": "19/03/2026 18:22 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 069+000, en la carretera Querétaro - San Luis Potosí. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.121658620168905,
-      "lng": -100.54932052453329,
-      "road": 57,
-      "km": 69.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034782727652675699#m",
-      "timestamp": "2026-03-20T00:03:01+00:00",
-      "timestamp_display": "19/03/2026 18:03 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 122+000, en la carretera Perote - Banderilla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 122.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034769168671604974#m",
-      "timestamp": "2026-03-19T23:09:08+00:00",
-      "timestamp_display": "19/03/2026 17:09 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #BajaCalifornia por presencia de personas en la Caseta de Cobro El Cimarrón cerca del Km 147+700 de la autopista Tijuana - San Miguel. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 147.7,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034766425655521675#m",
-      "timestamp": "2026-03-19T22:58:14+00:00",
-      "timestamp_display": "19/03/2026 16:58 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #BajaCalifornia tras presencia de personas en la Caseta de Cobro No.36 cerca del Km 98+600 de la autopista Tijuana - San Miguel. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 98.6,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034765684337471542#m",
-      "timestamp": "2026-03-19T22:55:17+00:00",
-      "timestamp_display": "19/03/2026 16:55 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca por presencia de personas en la Caseta de Cobro No. 28 puente Papaloapan cerca del Km 003+500 de la carretera Ciudad Alemán - Sayula. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 3.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034755340630138994#m",
-      "timestamp": "2026-03-19T22:14:11+00:00",
-      "timestamp_display": "19/03/2026 16:14 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total por presencia de personas en la Caseta de Cobro No. 29 El Caracol cerca del Km 113+100 de la carretera Buena Vista - Tuxtepec. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 113.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034749317387268502#m",
-      "timestamp": "2026-03-19T21:50:15+00:00",
-      "timestamp_display": "19/03/2026 15:50 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre total de la circulación por presencia de personas cerca del km 027+800, en la carretera Teziutlán - Perote. Se orienta a la ciudadanía #rutaalterna por el Municipio de Altotonga.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 27.8,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034743848090362056#m",
-      "timestamp": "2026-03-19T21:28:31+00:00",
-      "timestamp_display": "19/03/2026 15:28 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Nayarit tras #AccidenteVíal, cerca del km 040+000, en la carretera Tepic - Mazatlán. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 21.82136240516946,
-      "lng": -105.07789259053845,
-      "road": 15,
-      "km": 33.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034737342800347324#m",
-      "timestamp": "2026-03-19T21:02:40+00:00",
-      "timestamp_display": "19/03/2026 15:02 CST",
-      "segment": [
-        "tepic",
-        "mazatlan"
-      ]
-    },
-    {
-      "title": "#VíaLibre en #Durango tras #AccidenteVíal, cerca del km 061+700, en la carretera Durango - Villa Unión. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
-      "road": null,
-      "km": 61.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034722972733161792#m",
-      "timestamp": "2026-03-19T20:05:34+00:00",
-      "timestamp_display": "19/03/2026 14:05 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #AccidenteVíal, cerca del km 055+500, en la carretera León- Aguascalientes. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.296070204776054,
-      "lng": -102.01382262982527,
-      "road": 45,
-      "km": 55.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034721714182267048#m",
-      "timestamp": "2026-03-19T20:00:34+00:00",
-      "timestamp_display": "19/03/2026 14:00 CST",
-      "segment": [
-        "leon",
-        "aguascalientes"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Nayarit se registra cierre total de la circulación tras #AccidenteVíal, cerca del km 040+000, en la carretera Tepic - Mazatlán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.82136240516946,
-      "lng": -105.07789259053845,
-      "road": 15,
-      "km": 33.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2034708920585875685#m",
-      "timestamp": "2026-03-19T19:09:44+00:00",
-      "timestamp_display": "19/03/2026 13:09 CST",
-      "segment": [
-        "tepic",
-        "mazatlan"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de la circulación por presencia de personas cerca del Km 000+100 de la carretera Coatzacoalcos - Salina Cruz  a la altura de la Refinería. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 0.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034707158713991561#m",
-      "timestamp": "2026-03-19T19:02:44+00:00",
-      "timestamp_display": "19/03/2026 13:02 CST",
-      "segment": null
-    },
-    {
-      "title": "En #Oaxaca continua cierre parcial de la circulación tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 219.9,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034703184128622806#m",
-      "timestamp": "2026-03-19T18:46:56+00:00",
-      "timestamp_display": "19/03/2026 12:46 CST",
+      "url": "https://nitter.net/CAPUFE/status/2034917183214535092#m",
+      "timestamp": "2026-03-20T08:57:18+00:00",
+      "timestamp_display": "20/03/2026 02:57 CST",
       "segment": null
     },
     {
@@ -504,32 +249,6 @@
       "url": "https://nitter.net/CAPUFE/status/2034838140230193252#m",
       "timestamp": "2026-03-20T03:43:12+00:00",
       "timestamp_display": "19/03/2026 21:43 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 260,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034831988843045005#m",
-      "timestamp": "2026-03-20T03:18:46+00:00",
-      "timestamp_display": "19/03/2026 21:18 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Acatzingo - Cd. Mendoza, km 260, dirección Acatzingo. Se informa a las personas usuarias que continúa cierre a la circulación en por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 260,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2034829836435202092#m",
-      "timestamp": "2026-03-20T03:10:12+00:00",
-      "timestamp_display": "19/03/2026 21:10 CST",
       "segment": null
     }
   ]
