@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-20T20:01:41.804195",
+  "last_update": "2026-03-20T20:50:05.749512",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra afectación a la circulación tras #AccidenteVial cerca del km 040+600, de la carretera Tampico–Cd. Mante. Vehículos circulan sobre el derecho de vía. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 40.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035086445006705088#m",
+      "timestamp": "2026-03-20T20:09:53+00:00",
+      "timestamp_display": "20/03/2026 14:09 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMéx se registra cierre total de la circulación tras #AccidenteVial cerca del km 012+500, de la carretera Libramiento Norte Ciudad de México. Ruta alterna Aut. Acambay-Atlacomulco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": 12.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035084995195175165#m",
+      "timestamp": "2026-03-20T20:04:07+00:00",
+      "timestamp_display": "20/03/2026 14:04 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 028+500, de la carretera Libramiento Oriente-San Luis Potosí . Atienda indicación vial.",
       "type": "twitter",
@@ -12,19 +38,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2035083296246292626#m",
       "timestamp": "2026-03-20T19:57:22+00:00",
       "timestamp_display": "20/03/2026 13:57 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @GN_Carreteras: Ruta alterna, carretera federal 45 Aguascalientes-Zacatecas.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035073345683640651#m",
-      "timestamp": "2026-03-20T19:17:50+00:00",
-      "timestamp_display": "20/03/2026 13:17 CST",
       "segment": null
     },
     {
@@ -41,16 +54,16 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes se encuentran sobre el acotamiento.",
+      "title": "R to @GN_Carreteras: Ruta alterna, carretera federal 45 Aguascalientes-Zacatecas.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 21.8841,
+      "lng": -102.2918,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035071402349326820#m",
-      "timestamp": "2026-03-20T19:10:06+00:00",
-      "timestamp_display": "20/03/2026 13:10 CST",
+      "url": "https://nitter.net/GN_Carreteras/status/2035073345683640651#m",
+      "timestamp": "2026-03-20T19:17:50+00:00",
+      "timestamp_display": "20/03/2026 13:17 CST",
       "segment": null
     },
     {
@@ -64,6 +77,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2035071329875988744#m",
       "timestamp": "2026-03-20T19:09:49+00:00",
       "timestamp_display": "20/03/2026 13:09 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes se encuentran sobre el acotamiento.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035071402349326820#m",
+      "timestamp": "2026-03-20T19:10:06+00:00",
+      "timestamp_display": "20/03/2026 13:10 CST",
       "segment": null
     },
     {
@@ -177,19 +203,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: A la altura de la Caseta de Cobro Chiapa de Corzo, Chis.\nLos manifestantes, mantienen paso libre, sin pago de peaje  en ambos sentidos a los usuarios que transitan en la carretera federal.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035038276260593893#m",
-      "timestamp": "2026-03-20T16:58:28+00:00",
-      "timestamp_display": "20/03/2026 10:58 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Chiapas se registra cierre de la circulación  por presencia de personas, cerca del km 001+300, en la Ctra. San Cristóbal de Las Casas–Tux. Gtz., Atienda indicación vial.",
       "type": "twitter",
       "lat": 23.5,
@@ -199,6 +212,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2035038262784348554#m",
       "timestamp": "2026-03-20T16:58:25+00:00",
+      "timestamp_display": "20/03/2026 10:58 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: A la altura de la Caseta de Cobro Chiapa de Corzo, Chis.\nLos manifestantes, mantienen paso libre, sin pago de peaje  en ambos sentidos a los usuarios que transitan en la carretera federal.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035038276260593893#m",
+      "timestamp": "2026-03-20T16:58:28+00:00",
       "timestamp_display": "20/03/2026 10:58 CST",
       "segment": null
     },
@@ -239,32 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2034985875650572350#m",
       "timestamp": "2026-03-20T13:30:15+00:00",
       "timestamp_display": "20/03/2026 07:30 CST",
-      "segment": null
-    },
-    {
-      "title": "En #Oaxaca continua cierre parcial de la circulación tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 219.9,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034985752002531610#m",
-      "timestamp": "2026-03-20T13:29:46+00:00",
-      "timestamp_display": "20/03/2026 07:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca continua cierre total de la circulación por presencia de personas cerca del Km 000+100 de la carretera Coatzacoalcos - Salina Cruz a la altura de la Refinería. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 0.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2034985601779347583#m",
-      "timestamp": "2026-03-20T13:29:10+00:00",
-      "timestamp_display": "20/03/2026 07:29 CST",
       "segment": null
     }
   ]
