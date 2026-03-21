@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T07:46:36.385389",
+  "last_update": "2026-03-21T08:35:29.755598",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️ \nAutopista Acatzingo-Cd. Mendoza, continúa #neblinadensa en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035271121721831528#m",
+      "timestamp": "2026-03-21T08:23:43+00:00",
+      "timestamp_display": "21/03/2026 02:23 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Estación Don- Navojoa, Plaza de Cobro Estación Don. Cierre a la circulación en dirección Estación Don, por presencia de manifestantes. Toma tus precauciones. \nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/Lv7quhekLhv2Rm598",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035265391052620045#m",
+      "timestamp": "2026-03-21T08:00:57+00:00",
+      "timestamp_display": "21/03/2026 02:00 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠      \nAutopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, dirección Acapulco. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -320,7 +346,7 @@
       ]
     },
     {
-      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 76, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad en el lugar. Maneja con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 76, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad en el lugar. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -495,32 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035178269218095536#m",
       "timestamp": "2026-03-21T02:14:45+00:00",
       "timestamp_display": "20/03/2026 20:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 133, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 133,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035178109490610545#m",
-      "timestamp": "2026-03-21T02:14:07+00:00",
-      "timestamp_display": "20/03/2026 20:14 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 131, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 131,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035177792204132767#m",
-      "timestamp": "2026-03-21T02:12:52+00:00",
-      "timestamp_display": "20/03/2026 20:12 CST",
       "segment": null
     }
   ]
