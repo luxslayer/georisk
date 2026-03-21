@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T10:55:06.994395",
+  "last_update": "2026-03-21T11:24:43.801435",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial.",
@@ -265,7 +265,23 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 46. Registra reducción de carriles en ambos sentidos, por atención de choque por alcance entre un camión de carga y un autobús.\nEn la zona se registra carga vehicular. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/62w7iNARxCAYgtQh7",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoPuebla, km 46. Se informa a las personas usuarias que continúa la reducción de carriles en ambos sentidos, debido a que el personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\nEn la zona se registra carga vehicular.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.29830009070919,
+      "lng": -98.77561290982601,
+      "road": 150,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035311478975164730#m",
+      "timestamp": "2026-03-21T11:04:05+00:00",
+      "timestamp_display": "21/03/2026 05:04 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 46. Registra reducción de carriles en ambos sentidos, por atención de choque por alcance entre un camión de carga y un autobús.\nEn la zona se registra carga vehicular. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/62w7iNARxCAYgtQh7",
       "type": "twitter",
       "lat": 19.29830009070919,
       "lng": -98.77561290982601,
