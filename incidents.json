@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-21T22:27:01.573716",
+  "last_update": "2026-03-21T22:52:30.601484",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+100, en la carretera Querétaro-San Luis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 32.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035488050520723531#m",
+      "timestamp": "2026-03-21T22:45:43+00:00",
+      "timestamp_display": "21/03/2026 16:45 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+400, en la carretera Irapuato-Zapotlanejo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": null,
+      "km": 17.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035485790327750839#m",
+      "timestamp": "2026-03-21T22:36:44+00:00",
+      "timestamp_display": "21/03/2026 16:36 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+000, en la carretera Libramiento- Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -141,19 +167,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
-      "timestamp": "2026-03-21T17:08:23+00:00",
-      "timestamp_display": "21/03/2026 11:08 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre total de circulación por presencia de personas cerca del km 020+100, en la carretera Toluca - Ent. Axixintla. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.2826,
@@ -163,6 +176,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2035403153726750822#m",
       "timestamp": "2026-03-21T17:08:22+00:00",
+      "timestamp_display": "21/03/2026 11:08 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
+      "timestamp": "2026-03-21T17:08:23+00:00",
       "timestamp_display": "21/03/2026 11:08 CST",
       "segment": null
     },
@@ -245,29 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación  por #AccidenteVial cerca del km 097+100, en la carretera Ent. Tula - Ciudad Victoria. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. Continúa cierre a la circulación por atención de accidente (labores de limpieza). Dirección Córdoba, se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.0529,
-      "lng": -99.3408,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 97.1,
+      "km": 266,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035385836922146939#m",
-      "timestamp": "2026-03-21T15:59:33+00:00",
-      "timestamp_display": "21/03/2026 09:59 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Zactecas se registra cierre parcial de circulación cerca del km 206+000, en la carretera Zacatecas - Saltillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": 206.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035376470785425499#m",
-      "timestamp": "2026-03-21T15:22:20+00:00",
-      "timestamp_display": "21/03/2026 09:22 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035487218371006530#m",
+      "timestamp": "2026-03-21T22:42:25+00:00",
+      "timestamp_display": "21/03/2026 16:42 CST",
       "segment": null
     },
     {
@@ -520,32 +533,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035426503404802108#m",
       "timestamp": "2026-03-21T18:41:09+00:00",
       "timestamp_display": "21/03/2026 12:41 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035426314866544922#m",
-      "timestamp": "2026-03-21T18:40:24+00:00",
-      "timestamp_display": "21/03/2026 12:40 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal de CAPUFE continúa realizando las labores de atención del accidente. En la zona se registra carga vehicular y derrame de combustible. \n\n🔘Dirección Cd. Obregón, opera de manera normal.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035425078616142056#m",
-      "timestamp": "2026-03-21T18:35:29+00:00",
-      "timestamp_display": "21/03/2026 12:35 CST",
       "segment": null
     }
   ]
