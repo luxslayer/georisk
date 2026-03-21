@@ -1,6 +1,38 @@
 {
-  "last_update": "2026-03-21T18:50:20.975877",
+  "last_update": "2026-03-21T19:25:44.397921",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 281+300, en la carretera Córdoba- Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.896329400941998,
+      "lng": -96.98055228599829,
+      "road": 150,
+      "km": 172.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035430446599733695#m",
+      "timestamp": "2026-03-21T18:56:49+00:00",
+      "timestamp_display": "21/03/2026 12:56 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 189+000, en la carretera Monterrey -Nuevo Laredo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 26.581752007059624,
+      "lng": -100.08357579013683,
+      "road": 85,
+      "km": 169.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035430301439045644#m",
+      "timestamp": "2026-03-21T18:56:14+00:00",
+      "timestamp_display": "21/03/2026 12:56 CST",
+      "segment": [
+        "monterrey",
+        "nuevo laredo"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 280+200, en la carretera Reforma Agraria - Puerto Juárez. Atienda indicación vial.",
       "type": "twitter",
@@ -236,33 +268,59 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de la circulación tras #AccidenteVíal cerca del km 112+600, de la carretera Monclova-Piedras Negras. Atienda indicación vial.",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 27.836491024811544,
-      "lng": -101.13011073163014,
-      "road": 57,
-      "km": 105.6,
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 281,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035355273536180304#m",
-      "timestamp": "2026-03-21T13:58:06+00:00",
-      "timestamp_display": "21/03/2026 07:58 CST",
-      "segment": [
-        "monclova",
-        "piedras negras"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2035437046752244076#m",
+      "timestamp": "2026-03-21T19:23:03+00:00",
+      "timestamp_display": "21/03/2026 13:23 CST",
+      "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación tras #AccidenteVíal cerca del km 206+000, de la carretera Zacatecas-Altillo. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 266. Cierre a la circulación en ambos sentidos por atención de incidente (caída de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 206.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035353725263581302#m",
-      "timestamp": "2026-03-21T13:51:57+00:00",
-      "timestamp_display": "21/03/2026 07:51 CST",
+      "km": 266,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035436768346980674#m",
+      "timestamp": "2026-03-21T19:21:56+00:00",
+      "timestamp_display": "21/03/2026 13:21 CST",
       "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tijuana - Ensenada, km 15, dirección Tijuana. Cierre a la circulación por atención de accidente (choque por alcance y volcadura de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 15,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035435247655960895#m",
+      "timestamp": "2026-03-21T19:15:54+00:00",
+      "timestamp_display": "21/03/2026 13:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 20, dir. CDMX. Continúa reducción de carriles por labores de mantenimiento (no a cargo de CAPUFE). \nDirección Puebla, se restablece la circulación en carriles centrales y laterales. Sin embargo, en la zona se registra carga vehicular. \nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.343235826548554,
+      "lng": -98.97877086320197,
+      "road": 150,
+      "km": 2,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035429640509251719#m",
+      "timestamp": "2026-03-21T18:53:37+00:00",
+      "timestamp_display": "21/03/2026 12:53 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Continúa carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
@@ -469,58 +527,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035388392360325251#m",
-      "timestamp": "2026-03-21T16:09:43+00:00",
-      "timestamp_display": "21/03/2026 10:09 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035382869552697658#m",
-      "timestamp": "2026-03-21T15:47:46+00:00",
-      "timestamp_display": "21/03/2026 09:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nCarretera Nuevo Progreso - Progreso, Texas, Puente Internacional Las Flores. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035380256249635030#m",
-      "timestamp": "2026-03-21T15:37:23+00:00",
-      "timestamp_display": "21/03/2026 09:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nCarretera Nuevo Progreso - Progreso, Texas, Puente Internacional Las Flores. Reducción de carriles en ambos sentidos por atención de incidente. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035376398106300508#m",
-      "timestamp": "2026-03-21T15:22:03+00:00",
-      "timestamp_display": "21/03/2026 09:22 CST",
-      "segment": null
     }
   ]
 }
