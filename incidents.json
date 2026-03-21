@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T09:46:26.010902",
+  "last_update": "2026-03-21T10:28:53.691453",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial.",
@@ -265,6 +265,35 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035294182911201412#m",
+      "timestamp": "2026-03-21T09:55:21+00:00",
+      "timestamp_display": "21/03/2026 03:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \n#AutMéxicoPuebla, km 20. Continúa cierre a la circulación en carriles centrales y laterales de ambos sentidos, por labores de mantenimiento (no a cargo de CAPUFE). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.343235826548554,
+      "lng": -98.97877086320197,
+      "road": 150,
+      "km": 2,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035293095768543241#m",
+      "timestamp": "2026-03-21T09:51:02+00:00",
+      "timestamp_display": "21/03/2026 03:51 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Estación Don - Navojoa, Plaza de Cobro Estación Don, dirección Estación Don. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 23.5,
@@ -493,32 +522,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 41, dirección Querétaro. Continúa reducción de carriles por atención de incidente (trasvase de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 41,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035202565244125694#m",
-      "timestamp": "2026-03-21T03:51:18+00:00",
-      "timestamp_display": "20/03/2026 21:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035200514824994834#m",
-      "timestamp": "2026-03-21T03:43:09+00:00",
-      "timestamp_display": "20/03/2026 21:43 CST",
-      "segment": null
     }
   ]
 }
