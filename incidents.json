@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T17:41:57.897730",
+  "last_update": "2026-03-21T17:58:46.157720",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 215+300, en la carretera Tihuatlán-El Palmar Atienda indicación vial.",
@@ -265,16 +265,32 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 20. Se restablece la circulación con reducción de carriles en ambos sentidos por labores de mantenimiento (no a cargo de CAPUFE). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Nuevo Teapa, continúa reducción de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035415037829894386#m",
+      "timestamp": "2026-03-21T17:55:35+00:00",
+      "timestamp_display": "21/03/2026 11:55 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 20, dir. Puebla. Continúa cierre a la circulación en carriles centrales por labores de mantenimiento (no a cargo de CAPUFE), circulación por carriles laterales.\nDirección CDMX, registra reducción de carriles. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 19.343235826548554,
       "lng": -98.97877086320197,
       "road": 150,
       "km": 2,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035408469738897426#m",
-      "timestamp": "2026-03-21T17:29:29+00:00",
-      "timestamp_display": "21/03/2026 11:29 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035412659890184440#m",
+      "timestamp": "2026-03-21T17:46:08+00:00",
+      "timestamp_display": "21/03/2026 11:46 CST",
       "segment": [
         "mexico",
         "puebla"
@@ -489,51 +505,6 @@
       "timestamp": "2026-03-21T14:29:44+00:00",
       "timestamp_display": "21/03/2026 08:29 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Puente de Ixtla - Iguala, km 4. Continúa circulación en contraflujo por atención de accidente (maniobras para el retiro de unidades siniestradas). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 4,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035361654498599344#m",
-      "timestamp": "2026-03-21T14:23:28+00:00",
-      "timestamp_display": "21/03/2026 08:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN  🔴 \n#AutMéxicoPuebla, km 20, dirección Puebla. Continúa cierre a la circulación en carriles centrales por labores de mantenimiento (no a cargo de CAPUFE), se restablece la circulación en carriles laterales. Dirección CDMX, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035358144239460596#m",
-      "timestamp": "2026-03-21T14:09:31+00:00",
-      "timestamp_display": "21/03/2026 08:09 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.925096576302256,
-      "lng": -94.81822918330707,
-      "road": 145,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035355867235692652#m",
-      "timestamp": "2026-03-21T14:00:28+00:00",
-      "timestamp_display": "21/03/2026 08:00 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
