@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-21T06:03:01.679604",
+  "last_update": "2026-03-21T07:03:40.960639",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.7,
+      "lng": -101.18,
+      "road": null,
+      "km": 102.65,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035239373508141060#m",
+      "timestamp": "2026-03-21T06:17:34+00:00",
+      "timestamp_display": "21/03/2026 00:17 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracuz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 142+200, de la carretera Paso del Toro-Acayucan. Atienda indicación vial.",
       "type": "twitter",
@@ -252,17 +265,20 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 028+500, de la carretera Libramiento Oriente-San Luis Potosí . Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \n#AutMéxicoPuebla, km 20. Cierre a la circulación en carriles centrales y laterales de ambos sentidos, por labores de mantenimiento (no a cargo de CAPUFE). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": 28.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035083296246292626#m",
-      "timestamp": "2026-03-20T19:57:22+00:00",
-      "timestamp_display": "20/03/2026 13:57 CST",
-      "segment": null
+      "lat": 19.343235826548554,
+      "lng": -98.97877086320197,
+      "road": 150,
+      "km": 2,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035246310735929772#m",
+      "timestamp": "2026-03-21T06:45:08+00:00",
+      "timestamp_display": "21/03/2026 00:45 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 76, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad en el lugar. Maneja con precaución.",
@@ -505,19 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035159061755240538#m",
       "timestamp": "2026-03-21T00:58:26+00:00",
       "timestamp_display": "20/03/2026 18:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, km 134, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 134,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035156215924498640#m",
-      "timestamp": "2026-03-21T00:47:07+00:00",
-      "timestamp_display": "20/03/2026 18:47 CST",
       "segment": null
     }
   ]
