@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-21T16:31:49.885558",
+  "last_update": "2026-03-21T17:01:19.614087",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 085+800, en la carretera Amozoc-Perote. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 85.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035397927569379536#m",
+      "timestamp": "2026-03-21T16:47:36+00:00",
+      "timestamp_display": "21/03/2026 10:47 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 018+500, en la carretera Libramiento–Villahermosa. Atienda indicación vial.",
       "type": "twitter",
@@ -255,17 +268,33 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #BajaCalifornia tras presencia de personas cerca del km 162+200, en la carretera Ensenada-Lázaro Cárdenas. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 162.2,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035135724870066436#m",
-      "timestamp": "2026-03-20T23:25:42+00:00",
-      "timestamp_display": "20/03/2026 17:25 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035399404362846582#m",
+      "timestamp": "2026-03-21T16:53:28+00:00",
+      "timestamp_display": "21/03/2026 10:53 CST",
       "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Nuevo Teapa, continúa reducción de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035396454294925736#m",
+      "timestamp": "2026-03-21T16:41:45+00:00",
+      "timestamp_display": "21/03/2026 10:41 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 44, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
@@ -499,38 +528,6 @@
       "timestamp": "2026-03-21T13:36:30+00:00",
       "timestamp_display": "21/03/2026 07:36 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN  🔴 \n#AutMéxicoPuebla, km 20, dirección Puebla. Continúa cierre a la circulación en carriles centrales y laterales, por labores de mantenimiento (no a cargo de CAPUFE). Dirección CDMX, se restablece la circulación con reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035349100413985240#m",
-      "timestamp": "2026-03-21T13:33:35+00:00",
-      "timestamp_display": "21/03/2026 07:33 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.925096576302256,
-      "lng": -94.81822918330707,
-      "road": 145,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035348773325410769#m",
-      "timestamp": "2026-03-21T13:32:17+00:00",
-      "timestamp_display": "21/03/2026 07:32 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
