@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T20:29:01.164706",
+  "last_update": "2026-03-21T20:53:22.837648",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 015+000, en la carretera Irapuato-Zapotlanejo. Atienda indicación vial.",
@@ -268,6 +268,61 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de atención del accidente. En la zona se registra carga vehicular y derrame de combustible. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 46,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035459449666592975#m",
+      "timestamp": "2026-03-21T20:52:04+00:00",
+      "timestamp_display": "21/03/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035458161394483638#m",
+      "timestamp": "2026-03-21T20:46:57+00:00",
+      "timestamp_display": "21/03/2026 14:46 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 116, dirección CDMX. El incidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 116,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035455730719862897#m",
+      "timestamp": "2026-03-21T20:37:17+00:00",
+      "timestamp_display": "21/03/2026 14:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. Continúa cierre a la circulación por atención de accidente (choque contra muro central y caída de carga). Dirección Córdoba, se restablece la circulación con reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 266,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035455443032473933#m",
+      "timestamp": "2026-03-21T20:36:09+00:00",
+      "timestamp_display": "21/03/2026 14:36 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 116, dirección CDMX. Reducción de carriles por atención de incidente (falla mecánica de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -495,35 +550,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 20, dir. Puebla. Continúa cierre a la circulación en carriles centrales por labores de mantenimiento (no a cargo de CAPUFE), circulación por carriles laterales.\nDirección CDMX, registra reducción de carriles. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035412659890184440#m",
-      "timestamp": "2026-03-21T17:46:08+00:00",
-      "timestamp_display": "21/03/2026 11:46 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nLibramiento Poniente Tampico, Plaza de Cobro Tampico. Continúa carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035406082546586009#m",
-      "timestamp": "2026-03-21T17:20:00+00:00",
-      "timestamp_display": "21/03/2026 11:20 CST",
-      "segment": null
     }
   ]
 }
