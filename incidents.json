@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T09:03:54.203157",
+  "last_update": "2026-03-21T09:46:26.010902",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial.",
@@ -265,7 +265,33 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Estación Don - Navojoa, Plaza de Cobro Estación Don, dirección Estación Don. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por presencia de manifestantes.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Estación Don - Navojoa, Plaza de Cobro Estación Don, dirección Estación Don. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035288240886861909#m",
+      "timestamp": "2026-03-21T09:31:45+00:00",
+      "timestamp_display": "21/03/2026 03:31 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Estación Don - Navojoa, Plaza de Cobro Estación Don, dirección Estación Don. Se informa a las personas usuarias que se retiran los manifestantes. Sin embargo, en la zona se registra carga vehicular.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035282725289009495#m",
+      "timestamp": "2026-03-21T09:09:50+00:00",
+      "timestamp_display": "21/03/2026 03:09 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Estación Don - Navojoa, Plaza de Cobro Estación Don, dirección Estación Don. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por presencia de manifestantes.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -493,35 +519,6 @@
       "timestamp": "2026-03-21T03:43:09+00:00",
       "timestamp_display": "20/03/2026 21:43 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \n#AutMéxicoQuerétaro, km 76, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 76,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035186738788757637#m",
-      "timestamp": "2026-03-21T02:48:25+00:00",
-      "timestamp_display": "20/03/2026 20:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Continúa reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035180672021660070#m",
-      "timestamp": "2026-03-21T02:24:18+00:00",
-      "timestamp_display": "20/03/2026 20:24 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
