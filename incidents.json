@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T21:26:52.255721",
+  "last_update": "2026-03-21T21:48:59.415452",
   "incidents": [
     {
       "title": "#VíaLibre en #Colima tras presencia de personas cerca del km 263+000, en la carretera Acapilcan-Manzanillo. Maneje con precaución.",
@@ -271,6 +271,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035468641303412768#m",
+      "timestamp": "2026-03-21T21:28:35+00:00",
+      "timestamp_display": "21/03/2026 15:28 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 \nLibramiento Poniente Tampico, Plaza de Cobro Tampico. Continúa carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -537,19 +553,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 281, dirección Cd. Mendoza. Reducción de carriles por atención de choque por alcance múltiple entre un tracto camión, camioneta y automóvil. En la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/oKPExVXWePHgJbSbA",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 281,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035416012275823022#m",
-      "timestamp": "2026-03-21T17:59:28+00:00",
-      "timestamp_display": "21/03/2026 11:59 CST",
-      "segment": null
     }
   ]
 }
