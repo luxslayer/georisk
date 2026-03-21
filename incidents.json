@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-03-21T20:53:22.837648",
+  "last_update": "2026-03-21T21:26:52.255721",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Colima tras presencia de personas cerca del km 263+000, en la carretera Acapilcan-Manzanillo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 263.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035465891744506326#m",
+      "timestamp": "2026-03-21T21:17:40+00:00",
+      "timestamp_display": "21/03/2026 15:17 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #EdoMéx tras presencia de personas cerca del km 020+100, en la carretera Toluca - Ent. Axixintla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": 20.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035465686466854922#m",
+      "timestamp": "2026-03-21T21:16:51+00:00",
+      "timestamp_display": "21/03/2026 15:16 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 265+580, en la carretera Puebla - Córdoba. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.83513367467076,
+      "lng": -97.08305280045147,
+      "road": 150,
+      "km": 156.57999999999998,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035465607790104681#m",
+      "timestamp": "2026-03-21T21:16:32+00:00",
+      "timestamp_display": "21/03/2026 15:16 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 015+000, en la carretera Irapuato-Zapotlanejo. Atienda indicación vial.",
       "type": "twitter",
@@ -229,42 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación cerca del km 164+900, en la carretera Ciudad Obregón - Hermosillo. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 \nLibramiento Poniente Tampico, Plaza de Cobro Tampico. Continúa carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
       "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 164.9,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035374015431279007#m",
-      "timestamp": "2026-03-21T15:12:35+00:00",
-      "timestamp_display": "21/03/2026 09:12 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación cerca del km 085+800, en la carretera Pachuca-Tuxpan. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.06714877843081,
-      "lng": -98.66823601162488,
-      "road": 130,
-      "km": 85.8,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035373856429404257#m",
-      "timestamp": "2026-03-21T15:11:57+00:00",
-      "timestamp_display": "21/03/2026 09:11 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Guanajauato se registra cierre parcial de circulación cerca del km 033+500, en la carretera Querétaro- Irapuato. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 33.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035373695430959610#m",
-      "timestamp": "2026-03-21T15:11:19+00:00",
-      "timestamp_display": "21/03/2026 09:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035462040555307160#m",
+      "timestamp": "2026-03-21T21:02:22+00:00",
+      "timestamp_display": "21/03/2026 15:02 CST",
       "segment": null
     },
     {
@@ -534,22 +550,6 @@
       "timestamp": "2026-03-21T17:59:28+00:00",
       "timestamp_display": "21/03/2026 11:59 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dirección Nuevo Teapa, continúa reducción de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035415037829894386#m",
-      "timestamp": "2026-03-21T17:55:35+00:00",
-      "timestamp_display": "21/03/2026 11:55 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
