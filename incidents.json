@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T11:46:25.186817",
+  "last_update": "2026-03-21T12:52:25.259603",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 102+650, de la carretera Morelia-Salamanca. Atienda indicación vial.",
@@ -265,6 +265,129 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠           \n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035338727782797502#m",
+      "timestamp": "2026-03-21T12:52:22+00:00",
+      "timestamp_display": "21/03/2026 06:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 48, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035338704307265899#m",
+      "timestamp": "2026-03-21T12:52:16+00:00",
+      "timestamp_display": "21/03/2026 06:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nLibramiento Poniente Tampico, Plaza de Cobro Tampico. Continúa carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035337435932934207#m",
+      "timestamp": "2026-03-21T12:47:14+00:00",
+      "timestamp_display": "21/03/2026 06:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cuernavaca - Acapulco, km 219, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035336629418590213#m",
+      "timestamp": "2026-03-21T12:44:01+00:00",
+      "timestamp_display": "21/03/2026 06:44 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 48, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, Sin embargo, en la zona se registra carga vehicular.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035335108115173395#m",
+      "timestamp": "2026-03-21T12:37:59+00:00",
+      "timestamp_display": "21/03/2026 06:37 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \n#AutMéxicoPuebla, km 46. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles para ambos sentidos.\nEl personal continúa laborando en el reacomodo de los muros. \nEn la zona se registra carga vehicular. \nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.29830009070919,
+      "lng": -98.77561290982601,
+      "road": 150,
+      "km": 28,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035333471426544099#m",
+      "timestamp": "2026-03-21T12:31:28+00:00",
+      "timestamp_display": "21/03/2026 06:31 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoPuebla, km 46, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas.\n🔘 Dirección CDMX, continúa reducción de carriles por remoción de muros centrales.\nEn la zona se registra carga vehicular.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.29830009070919,
+      "lng": -98.77561290982601,
+      "road": 150,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035331616558477474#m",
+      "timestamp": "2026-03-21T12:24:06+00:00",
+      "timestamp_display": "21/03/2026 06:24 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 48, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas.\nEn la zona se registra carga vehicular. \nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035329250719416321#m",
+      "timestamp": "2026-03-21T12:14:42+00:00",
+      "timestamp_display": "21/03/2026 06:14 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoQuerétaro, km 48, dirección Querétaro. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035324685496234212#m",
+      "timestamp": "2026-03-21T11:56:34+00:00",
+      "timestamp_display": "21/03/2026 05:56 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Cuernavaca - Acapulco, km 219, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -278,7 +401,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 48, dirección Querétaro. Registra reducción de carriles por atención de choque por alcance múltiple entre tracto camiones.\nEn la zona se registra carga vehicular. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/DTfzyEZfPPWr9dLC6",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 48, dirección Querétaro. Registra reducción de carriles por atención de choque por alcance múltiple entre tracto camiones.\nEn la zona se registra carga vehicular. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/DTfzyEZfPPWr9dLC6",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -288,32 +411,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035321120677564886#m",
       "timestamp": "2026-03-21T11:42:24+00:00",
       "timestamp_display": "21/03/2026 05:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 78. Cierre a la circulación en ambos sentidos por atención de tracto camión tipo pipa con fuga de gas. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/5qCeoyP6aRR1TKwC9",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 78,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035134746473136254#m",
-      "timestamp": "2026-03-20T23:21:49+00:00",
-      "timestamp_display": "20/03/2026 17:21 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 78. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos.\nEn la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.\nPara más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 78,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035146811510346045#m",
-      "timestamp": "2026-03-21T00:09:45+00:00",
-      "timestamp_display": "20/03/2026 18:09 CST",
       "segment": null
     },
     {
@@ -359,22 +456,6 @@
       ]
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 46. Registra reducción de carriles en ambos sentidos, por atención de choque por alcance entre un camión de carga y un autobús.\nEn la zona se registra carga vehicular. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/62w7iNARxCAYgtQh7",
-      "type": "twitter",
-      "lat": 19.29830009070919,
-      "lng": -98.77561290982601,
-      "road": 150,
-      "km": 28,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035305958138638623#m",
-      "timestamp": "2026-03-21T10:42:09+00:00",
-      "timestamp_display": "21/03/2026 04:42 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoPuebla, km 46. Se informa a las personas usuarias que continúa la reducción de carriles en ambos sentidos, debido a que el personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\nEn la zona se registra carga vehicular.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 19.29830009070919,
@@ -385,6 +466,22 @@
       "url": "https://nitter.net/CAPUFE/status/2035311478975164730#m",
       "timestamp": "2026-03-21T11:04:05+00:00",
       "timestamp_display": "21/03/2026 05:04 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 46. Registra reducción de carriles en ambos sentidos, por atención de choque por alcance entre un camión de carga y un autobús.\nEn la zona se registra carga vehicular. Maneja con precaución.\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/62w7iNARxCAYgtQh7",
+      "type": "twitter",
+      "lat": 19.29830009070919,
+      "lng": -98.77561290982601,
+      "road": 150,
+      "km": 28,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035305958138638623#m",
+      "timestamp": "2026-03-21T10:42:09+00:00",
+      "timestamp_display": "21/03/2026 04:42 CST",
       "segment": [
         "mexico",
         "puebla"
@@ -414,113 +511,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035294182911201412#m",
       "timestamp": "2026-03-21T09:55:21+00:00",
       "timestamp_display": "21/03/2026 03:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \n#AutMéxicoPuebla, km 20. Continúa cierre a la circulación en carriles centrales y laterales de ambos sentidos, por labores de mantenimiento (no a cargo de CAPUFE). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035293095768543241#m",
-      "timestamp": "2026-03-21T09:51:02+00:00",
-      "timestamp_display": "21/03/2026 03:51 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Estación Don- Navojoa, Plaza de Cobro Estación Don. Cierre a la circulación en dirección Estación Don, por presencia de manifestantes. Toma tus precauciones. \nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/Lv7quhekLhv2Rm598",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035265391052620045#m",
-      "timestamp": "2026-03-21T08:00:57+00:00",
-      "timestamp_display": "21/03/2026 02:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Estación Don - Navojoa, Plaza de Cobro Estación Don, dirección Estación Don. Se informa a las personas usuarias que se retiran los manifestantes. Sin embargo, en la zona se registra carga vehicular.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035282725289009495#m",
-      "timestamp": "2026-03-21T09:09:50+00:00",
-      "timestamp_display": "21/03/2026 03:09 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Estación Don - Navojoa, Plaza de Cobro Estación Don, dirección Estación Don. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035288240886861909#m",
-      "timestamp": "2026-03-21T09:31:45+00:00",
-      "timestamp_display": "21/03/2026 03:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 28, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 28,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035275945485930794#m",
-      "timestamp": "2026-03-21T08:42:53+00:00",
-      "timestamp_display": "21/03/2026 02:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️ \nAutopista Acatzingo-Cd. Mendoza, continúa #neblinadensa en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035271121721831528#m",
-      "timestamp": "2026-03-21T08:23:43+00:00",
-      "timestamp_display": "21/03/2026 02:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠      \nAutopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, dirección Acapulco. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035254603558580625#m",
-      "timestamp": "2026-03-21T07:18:05+00:00",
-      "timestamp_display": "21/03/2026 01:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 28, dirección Cuernavaca. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 28,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035254096911892555#m",
-      "timestamp": "2026-03-21T07:16:04+00:00",
-      "timestamp_display": "21/03/2026 01:16 CST",
       "segment": null
     }
   ]
