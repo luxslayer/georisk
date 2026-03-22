@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T06:33:17.351780",
+  "last_update": "2026-03-22T07:27:47.284681",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera  Ciudad Victoria - Matamoros. Atienda indicación vial.",
@@ -271,6 +271,74 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 293, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 293,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035615855766049270#m",
+      "timestamp": "2026-03-22T07:13:34+00:00",
+      "timestamp_display": "22/03/2026 01:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n Aut. Cuernavaca - Acapulco, km 291, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 291,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035615488143737145#m",
+      "timestamp": "2026-03-22T07:12:06+00:00",
+      "timestamp_display": "22/03/2026 01:12 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 82, dirección Acapulco.  El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 82,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035614915629658485#m",
+      "timestamp": "2026-03-22T07:09:50+00:00",
+      "timestamp_display": "22/03/2026 01:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 20, dirección Querétaro. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035611723214811420#m",
+      "timestamp": "2026-03-22T06:57:09+00:00",
+      "timestamp_display": "22/03/2026 00:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠    \nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.925096576302256,
+      "lng": -94.81822918330707,
+      "road": 145,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035606082316357985#m",
+      "timestamp": "2026-03-22T06:34:44+00:00",
+      "timestamp_display": "22/03/2026 00:34 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 82, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -440,74 +508,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035550461952991309#m",
       "timestamp": "2026-03-22T02:53:43+00:00",
       "timestamp_display": "21/03/2026 20:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠 \nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.925096576302256,
-      "lng": -94.81822918330707,
-      "road": 145,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035543134348669418#m",
-      "timestamp": "2026-03-22T02:24:36+00:00",
-      "timestamp_display": "21/03/2026 20:24 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de trasvase de carga. Circulación lenta en la zona. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035542694265549120#m",
-      "timestamp": "2026-03-22T02:22:51+00:00",
-      "timestamp_display": "21/03/2026 20:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Dirección Córdoba, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 297,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035541068498780570#m",
-      "timestamp": "2026-03-22T02:16:23+00:00",
-      "timestamp_display": "21/03/2026 20:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035539615663235087#m",
-      "timestamp": "2026-03-22T02:10:37+00:00",
-      "timestamp_display": "21/03/2026 20:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 297. Reducción de carriles en ambos sentidos por atención de accidente (choque por alcance y contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 297,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035528201212973199#m",
-      "timestamp": "2026-03-22T01:25:16+00:00",
-      "timestamp_display": "21/03/2026 19:25 CST",
       "segment": null
     }
   ]
