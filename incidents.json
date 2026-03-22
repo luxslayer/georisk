@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-22T14:29:22.558278",
+  "last_update": "2026-03-22T14:55:33.512975",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 165+500, en la carretera Saltillo - Torreón. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 165.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035729295197286878#m",
+      "timestamp": "2026-03-22T14:44:20+00:00",
+      "timestamp_display": "22/03/2026 08:44 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 045+200, en la Autopista Cardel - Poza Rica. Atienda indicación vial.",
       "type": "twitter",
@@ -255,19 +268,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2035403153726750822#m",
       "timestamp": "2026-03-21T17:08:22+00:00",
       "timestamp_display": "21/03/2026 11:08 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 110+900, en la carretera Paso del Toro - Acayucan. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
-      "road": null,
-      "km": 110.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035402633767219669#m",
-      "timestamp": "2026-03-21T17:06:18+00:00",
-      "timestamp_display": "21/03/2026 11:06 CST",
       "segment": null
     },
     {
