@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T07:58:23.188814",
+  "last_update": "2026-03-22T08:48:00.628927",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera  Ciudad Victoria - Matamoros. Atienda indicación vial.",
@@ -271,6 +271,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cuernavaca - Acapulco, km 291, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 291,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035637002553409901#m",
+      "timestamp": "2026-03-22T08:37:36+00:00",
+      "timestamp_display": "22/03/2026 02:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 20, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035628425923469637#m",
+      "timestamp": "2026-03-22T08:03:31+00:00",
+      "timestamp_display": "22/03/2026 02:03 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 20, dirección CDMX. Reducción de carriles por atención de incidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -495,32 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035558728771027271#m",
       "timestamp": "2026-03-22T03:26:34+00:00",
       "timestamp_display": "21/03/2026 21:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Poniente Tampico, Plaza de Cobro Tampico. La incidencia ha sido atendida. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035551741324738729#m",
-      "timestamp": "2026-03-22T02:58:48+00:00",
-      "timestamp_display": "21/03/2026 20:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista #AutMéxicoQuerétaro, km 40, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035550461952991309#m",
-      "timestamp": "2026-03-22T02:53:43+00:00",
-      "timestamp_display": "21/03/2026 20:53 CST",
       "segment": null
     }
   ]
