@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T10:39:32.825992",
+  "last_update": "2026-03-22T11:00:36.259829",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera  Ciudad Victoria - Matamoros. Atienda indicación vial.",
@@ -271,6 +271,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 188, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 188,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035672294442352876#m",
+      "timestamp": "2026-03-22T10:57:50+00:00",
+      "timestamp_display": "22/03/2026 04:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 20, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035670849445851307#m",
+      "timestamp": "2026-03-22T10:52:06+00:00",
+      "timestamp_display": "22/03/2026 04:52 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cuernavaca - Acapulco, km 291, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -495,32 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035564736985636901#m",
       "timestamp": "2026-03-22T03:50:26+00:00",
       "timestamp_display": "21/03/2026 21:50 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035561983810953621#m",
-      "timestamp": "2026-03-22T03:39:30+00:00",
-      "timestamp_display": "21/03/2026 21:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista #AutMéxicoQuerétaro, km 40, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035558728771027271#m",
-      "timestamp": "2026-03-22T03:26:34+00:00",
-      "timestamp_display": "21/03/2026 21:26 CST",
       "segment": null
     }
   ]
