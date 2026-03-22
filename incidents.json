@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-22T04:32:08.591740",
+  "last_update": "2026-03-22T05:42:31.759648",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera  Ciudad Victoria - Matamoros. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 1.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035578584480325966#m",
+      "timestamp": "2026-03-22T04:45:28+00:00",
+      "timestamp_display": "21/03/2026 22:45 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 255+000, en la carretera Zacatecas - Saltillo. Atienda indicación vial.",
       "type": "twitter",
@@ -193,19 +206,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
-      "timestamp": "2026-03-21T17:08:23+00:00",
-      "timestamp_display": "21/03/2026 11:08 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre total de circulación por presencia de personas cerca del km 020+100, en la carretera Toluca - Ent. Axixintla. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.2826,
@@ -215,6 +215,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2035403153726750822#m",
       "timestamp": "2026-03-21T17:08:22+00:00",
+      "timestamp_display": "21/03/2026 11:08 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
+      "timestamp": "2026-03-21T17:08:23+00:00",
       "timestamp_display": "21/03/2026 11:08 CST",
       "segment": null
     },
@@ -258,16 +271,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 018+500, en la carretera Libramiento–Villahermosa. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 293, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 18.5,
+      "km": 293,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035578599395213462#m",
+      "timestamp": "2026-03-22T04:45:31+00:00",
+      "timestamp_display": "21/03/2026 22:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠  \nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.925096576302256,
+      "lng": -94.81822918330707,
+      "road": 145,
+      "km": 13,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035393544236478893#m",
-      "timestamp": "2026-03-21T16:30:11+00:00",
-      "timestamp_display": "21/03/2026 10:30 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035576124097306873#m",
+      "timestamp": "2026-03-22T04:35:41+00:00",
+      "timestamp_display": "21/03/2026 22:35 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️    \nAutopista Cd. Mendoza - Córdoba, registra #lluvia a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035575547971940546#m",
+      "timestamp": "2026-03-22T04:33:24+00:00",
+      "timestamp_display": "21/03/2026 22:33 CST",
       "segment": null
     },
     {
@@ -466,48 +508,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035515838556524950#m",
       "timestamp": "2026-03-22T00:36:08+00:00",
       "timestamp_display": "21/03/2026 18:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 266,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035512930582598119#m",
-      "timestamp": "2026-03-22T00:24:35+00:00",
-      "timestamp_display": "21/03/2026 18:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠  \nAutopista Isla - Cosoleacaque, Plaza de Cobro Acayucan. Registra carga vehicular en dirección Isla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": 145,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035507464251052242#m",
-      "timestamp": "2026-03-22T00:02:52+00:00",
-      "timestamp_display": "21/03/2026 18:02 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "📩 ¿Quieres compartir tu experiencia en nuestras autopistas?\nTu opinión es muy importante para nosotros.\nEn #CAPUFE estamos para escucharte y mejorar cada día.\n#EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035506748119990557#m",
-      "timestamp": "2026-03-22T00:00:01+00:00",
-      "timestamp_display": "21/03/2026 18:00 CST",
       "segment": null
     }
   ]
