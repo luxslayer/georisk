@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-22T22:27:42.618109",
+  "last_update": "2026-03-22T22:54:38.967247",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Oaxacase registra cierre parcial de circulación por #AccidenteVial cerca del km 219+300, en la carretera Cuacnopalan - Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 219.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035846949287424431#m",
+      "timestamp": "2026-03-22T22:31:51+00:00",
+      "timestamp_display": "22/03/2026 16:31 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+300, en la carretera Paso del Toro - Acayucan. Atienda indicación vial.",
       "type": "twitter",
@@ -252,29 +265,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera  Ciudad Victoria - Matamoros. Atienda indicación vial.",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, Plaza de Cobro Palmillas, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035850754993369101#m",
+      "timestamp": "2026-03-22T22:46:58+00:00",
+      "timestamp_display": "22/03/2026 16:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Autopista Tecate - La Rumorosa, km 92, dirección La Rumorosa. Continúa reducción de carriles por atención de accidente (incendio de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 1.0,
+      "km": 92,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035578584480325966#m",
-      "timestamp": "2026-03-22T04:45:28+00:00",
-      "timestamp_display": "21/03/2026 22:45 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035847816615022918#m",
+      "timestamp": "2026-03-22T22:35:18+00:00",
+      "timestamp_display": "22/03/2026 16:35 CST",
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección Querétaro. Reducción de carriles por atención de choque contra cabina. En la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/H1bn4WgGpc3aShzdA",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Palmillas, dirección Querétaro. Reducción de carriles por atención de choque contra cabina. En la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/uhfbZwG2C1qk4rYG6",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035844961321513336#m",
-      "timestamp": "2026-03-22T22:23:57+00:00",
-      "timestamp_display": "22/03/2026 16:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035846086045163723#m",
+      "timestamp": "2026-03-22T22:28:25+00:00",
+      "timestamp_display": "22/03/2026 16:28 CST",
       "segment": null
     },
     {
@@ -496,32 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035813520260972889#m",
       "timestamp": "2026-03-22T20:19:01+00:00",
       "timestamp_display": "22/03/2026 14:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035810175752298897#m",
-      "timestamp": "2026-03-22T20:05:44+00:00",
-      "timestamp_display": "22/03/2026 14:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 33, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035804817919001086#m",
-      "timestamp": "2026-03-22T19:44:26+00:00",
-      "timestamp_display": "22/03/2026 13:44 CST",
       "segment": null
     }
   ]
