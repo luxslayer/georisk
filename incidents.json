@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T15:28:46.808199",
+  "last_update": "2026-03-22T15:51:07.086001",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 215+100, en la carretera Pachuca-Tuxpan. Atienda indicación vial.",
@@ -271,6 +271,22 @@
       ]
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 16, dirección Nuevo Teapa. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dir. Cosoleacaque, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035744445711171883#m",
+      "timestamp": "2026-03-22T15:44:32+00:00",
+      "timestamp_display": "22/03/2026 09:44 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 123. Continúa circulación en contraflujo por atención de accidente (salida del camino de tracto camión). Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -521,19 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035615488143737145#m",
       "timestamp": "2026-03-22T07:12:06+00:00",
       "timestamp_display": "22/03/2026 01:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 82, dirección Acapulco.  El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035614915629658485#m",
-      "timestamp": "2026-03-22T07:09:50+00:00",
-      "timestamp_display": "22/03/2026 01:09 CST",
       "segment": null
     }
   ]
