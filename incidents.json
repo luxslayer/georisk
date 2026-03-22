@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T23:29:38.118186",
+  "last_update": "2026-03-22T23:54:59.359887",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxacase registra cierre parcial de circulación por #AccidenteVial cerca del km 219+300, en la carretera Cuacnopalan - Oaxaca. Atienda indicación vial.",
@@ -265,6 +265,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 25, dirección Cuautla. Reducción de carriles por atención de incidente (incendio de pastizal). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 25,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035867378261659678#m",
+      "timestamp": "2026-03-22T23:53:02+00:00",
+      "timestamp_display": "22/03/2026 17:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 24, dirección CDMX. Continúa carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035863124079698189#m",
+      "timestamp": "2026-03-22T23:36:07+00:00",
+      "timestamp_display": "22/03/2026 17:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035861765129683196#m",
+      "timestamp": "2026-03-22T23:30:43+00:00",
+      "timestamp_display": "22/03/2026 17:30 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Cuernavaca - Acapulco, registra #lluvia ligera del km 96 al 98. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -457,45 +496,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035835910604902703#m",
       "timestamp": "2026-03-22T21:47:59+00:00",
       "timestamp_display": "22/03/2026 15:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR🟠   \nAutopista Tijuana - Ensenada, Plaza de Cobro Playas de Tijuana. Registra carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035834984066425007#m",
-      "timestamp": "2026-03-22T21:44:18+00:00",
-      "timestamp_display": "22/03/2026 15:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Tijuana - Ensenada, km 35, dirección Ensenada. El incidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 35,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035834090549576040#m",
-      "timestamp": "2026-03-22T21:40:45+00:00",
-      "timestamp_display": "22/03/2026 15:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 33, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035832784057434529#m",
-      "timestamp": "2026-03-22T21:35:34+00:00",
-      "timestamp_display": "22/03/2026 15:35 CST",
       "segment": null
     }
   ]
