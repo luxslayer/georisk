@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T10:00:06.656957",
+  "last_update": "2026-03-22T10:39:32.825992",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera  Ciudad Victoria - Matamoros. Atienda indicación vial.",
@@ -495,32 +495,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035564736985636901#m",
       "timestamp": "2026-03-22T03:50:26+00:00",
       "timestamp_display": "21/03/2026 21:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Obregón - Guaymas, km 46. Circulación a contraflujo por atención de choque por alcance entre tracto camiones. \nEn la zona se registra carga vehicular y derrame de combustible. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/iKJd8uyrsJAi1FCN9",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035366320443621708#m",
-      "timestamp": "2026-03-21T14:42:00+00:00",
-      "timestamp_display": "21/03/2026 08:42 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de trasvase de carga. Circulación lenta en la zona. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035542694265549120#m",
-      "timestamp": "2026-03-22T02:22:51+00:00",
-      "timestamp_display": "21/03/2026 20:22 CST",
       "segment": null
     },
     {
