@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T11:00:36.259829",
+  "last_update": "2026-03-22T11:36:42.052075",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, en la carretera  Ciudad Victoria - Matamoros. Atienda indicación vial.",
@@ -206,19 +206,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
-      "timestamp": "2026-03-21T17:08:23+00:00",
-      "timestamp_display": "21/03/2026 11:08 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre total de circulación por presencia de personas cerca del km 020+100, en la carretera Toluca - Ent. Axixintla. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.2826,
@@ -228,6 +215,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2035403153726750822#m",
       "timestamp": "2026-03-21T17:08:22+00:00",
+      "timestamp_display": "21/03/2026 11:08 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
+      "timestamp": "2026-03-21T17:08:23+00:00",
       "timestamp_display": "21/03/2026 11:08 CST",
       "segment": null
     },
