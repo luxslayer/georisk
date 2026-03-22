@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-03-22T18:51:42.356186",
+  "last_update": "2026-03-22T19:27:10.418905",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 190+600, en la carretera Tepic-Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.34581311427214,
+      "lng": -104.68623553878582,
+      "road": 15,
+      "km": 183.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035795744678924721#m",
+      "timestamp": "2026-03-22T19:08:23+00:00",
+      "timestamp_display": "22/03/2026 13:08 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 122+050, en la carretera San Hipólito-Xalapa. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+000, en la carretera Libramiento- Veracruz. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Querétaro - Irapuato, km 3, dirección Irapuato. Reducción de carriles por atención de accidente (volcadura de automóvil). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 32.0,
+      "km": 3,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035476209740693752#m",
-      "timestamp": "2026-03-21T21:58:40+00:00",
-      "timestamp_display": "21/03/2026 15:58 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035793069241663906#m",
+      "timestamp": "2026-03-22T18:57:45+00:00",
+      "timestamp_display": "22/03/2026 12:57 CST",
       "segment": null
     },
     {
@@ -522,19 +538,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 283, dirección Cuernavaca. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 283,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035702281849508241#m",
-      "timestamp": "2026-03-22T12:57:00+00:00",
-      "timestamp_display": "22/03/2026 06:57 CST",
-      "segment": null
     }
   ]
 }
