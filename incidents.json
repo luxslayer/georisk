@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T19:27:10.418905",
+  "last_update": "2026-03-22T19:47:58.458502",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 190+600, en la carretera Tepic-Mazatlán. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 33, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 33,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035804817919001086#m",
+      "timestamp": "2026-03-22T19:44:26+00:00",
+      "timestamp_display": "22/03/2026 13:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 24 al 27. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035801078126596564#m",
+      "timestamp": "2026-03-22T19:29:35+00:00",
+      "timestamp_display": "22/03/2026 13:29 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Querétaro - Irapuato, km 3, dirección Irapuato. Reducción de carriles por atención de accidente (volcadura de automóvil). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -509,35 +535,6 @@
       "timestamp": "2026-03-22T13:24:13+00:00",
       "timestamp_display": "22/03/2026 07:24 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Estación Don - Navojoa, km 123, dirección Estación Don. Cierre a la circulación por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 123,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035708069972177384#m",
-      "timestamp": "2026-03-22T13:20:00+00:00",
-      "timestamp_display": "22/03/2026 07:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.925096576302256,
-      "lng": -94.81822918330707,
-      "road": 145,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035705490366222617#m",
-      "timestamp": "2026-03-22T13:09:45+00:00",
-      "timestamp_display": "22/03/2026 07:09 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
