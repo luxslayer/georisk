@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-22T18:00:04.471333",
+  "last_update": "2026-03-22T18:51:42.356186",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 122+050, en la carretera San Hipólito-Xalapa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 122.05,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035786282903666745#m",
+      "timestamp": "2026-03-22T18:30:47+00:00",
+      "timestamp_display": "22/03/2026 12:30 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+800, en la carretera Culiacán-Las Brisas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 1.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2035784996619698661#m",
+      "timestamp": "2026-03-22T18:25:40+00:00",
+      "timestamp_display": "22/03/2026 12:25 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 142+360, en la carretera Perote -Banderilla. Atienda indicación vial.",
       "type": "twitter",
@@ -236,30 +262,33 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Colima tras presencia de personas cerca del km 263+000, en la carretera Acapilcan-Manzanillo. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Acayucan, km 163, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": 263.0,
+      "km": 163,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035465891744506326#m",
-      "timestamp": "2026-03-21T21:17:40+00:00",
-      "timestamp_display": "21/03/2026 15:17 CST",
+      "url": "https://nitter.net/CAPUFE/status/2035786726434537881#m",
+      "timestamp": "2026-03-22T18:32:33+00:00",
+      "timestamp_display": "22/03/2026 12:32 CST",
       "segment": null
     },
     {
-      "title": "#VíaLibre en #EdoMéx tras presencia de personas cerca del km 020+100, en la carretera Toluca - Ent. Axixintla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": 20.1,
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035465686466854922#m",
-      "timestamp": "2026-03-21T21:16:51+00:00",
-      "timestamp_display": "21/03/2026 15:16 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2035784452882731044#m",
+      "timestamp": "2026-03-22T18:23:31+00:00",
+      "timestamp_display": "22/03/2026 12:23 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🚗 Si tu vehículo presenta sobrecalentamiento, no arriesgues tu seguridad.\nEn autopistas #CAPUFE te brindamos apoyo gratuito.\n📞 074 | @CAPUFE\n#EnCAPUFEEstamosParaServirte  #SeguridadVial",
@@ -505,35 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035702281849508241#m",
       "timestamp": "2026-03-22T12:57:00+00:00",
       "timestamp_display": "22/03/2026 06:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.925096576302256,
-      "lng": -94.81822918330707,
-      "road": 145,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035701744517214537#m",
-      "timestamp": "2026-03-22T12:54:52+00:00",
-      "timestamp_display": "22/03/2026 06:54 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 283, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 283,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035692256208773525#m",
-      "timestamp": "2026-03-22T12:17:09+00:00",
-      "timestamp_display": "22/03/2026 06:17 CST",
       "segment": null
     }
   ]
