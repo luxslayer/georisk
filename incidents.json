@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T23:49:43.019689",
+  "last_update": "2026-03-22T02:25:06.600881",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+100, en la carretera Querétaro-San Luis. Atienda indicación vial.",
@@ -167,19 +167,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
-      "timestamp": "2026-03-21T17:08:23+00:00",
-      "timestamp_display": "21/03/2026 11:08 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre total de circulación por presencia de personas cerca del km 020+100, en la carretera Toluca - Ent. Axixintla. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.2826,
@@ -189,6 +176,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2035403153726750822#m",
       "timestamp": "2026-03-21T17:08:22+00:00",
+      "timestamp_display": "21/03/2026 11:08 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se proporciona ruta alterna por la carretera Lerma - Tenango del Valle, con dirección a Tenango de Arista y la Av. Lic. León Guzmán, con dirección a Toluca.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2035403158176817300#m",
+      "timestamp": "2026-03-21T17:08:23+00:00",
       "timestamp_display": "21/03/2026 11:08 CST",
       "segment": null
     },
@@ -269,6 +269,171 @@
       "timestamp": "2026-03-21T16:11:01+00:00",
       "timestamp_display": "21/03/2026 10:11 CST",
       "segment": null
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠 \nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.925096576302256,
+      "lng": -94.81822918330707,
+      "road": 145,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035543134348669418#m",
+      "timestamp": "2026-03-22T02:24:36+00:00",
+      "timestamp_display": "21/03/2026 20:24 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de trasvase de carga. Circulación lenta en la zona. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 46,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035542694265549120#m",
+      "timestamp": "2026-03-22T02:22:51+00:00",
+      "timestamp_display": "21/03/2026 20:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Dirección Córdoba, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 297,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035541068498780570#m",
+      "timestamp": "2026-03-22T02:16:23+00:00",
+      "timestamp_display": "21/03/2026 20:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035539615663235087#m",
+      "timestamp": "2026-03-22T02:10:37+00:00",
+      "timestamp_display": "21/03/2026 20:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 297. Reducción de carriles en ambos sentidos por atención de accidente (choque por alcance y contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 297,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035528201212973199#m",
+      "timestamp": "2026-03-22T01:25:16+00:00",
+      "timestamp_display": "21/03/2026 19:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️    \nAutopista Cd. Mendoza - Córdoba, registra #neblina y #lluvia a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035525797490852188#m",
+      "timestamp": "2026-03-22T01:15:43+00:00",
+      "timestamp_display": "21/03/2026 19:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035519028798632134#m",
+      "timestamp": "2026-03-22T00:48:49+00:00",
+      "timestamp_display": "21/03/2026 18:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 266,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035515838556524950#m",
+      "timestamp": "2026-03-22T00:36:08+00:00",
+      "timestamp_display": "21/03/2026 18:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 266,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035512930582598119#m",
+      "timestamp": "2026-03-22T00:24:35+00:00",
+      "timestamp_display": "21/03/2026 18:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠  \nAutopista Isla - Cosoleacaque, Plaza de Cobro Acayucan. Registra carga vehicular en dirección Isla, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": 145,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035507464251052242#m",
+      "timestamp": "2026-03-22T00:02:52+00:00",
+      "timestamp_display": "21/03/2026 18:02 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "📩 ¿Quieres compartir tu experiencia en nuestras autopistas?\nTu opinión es muy importante para nosotros.\nEn #CAPUFE estamos para escucharte y mejorar cada día.\n#EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035506748119990557#m",
+      "timestamp": "2026-03-22T00:00:01+00:00",
+      "timestamp_display": "21/03/2026 18:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en dirección Veracruz, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2035506614615126116#m",
+      "timestamp": "2026-03-21T23:59:29+00:00",
+      "timestamp_display": "21/03/2026 17:59 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
@@ -366,177 +531,6 @@
       "timestamp": "2026-03-21T22:42:25+00:00",
       "timestamp_display": "21/03/2026 16:42 CST",
       "segment": null
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.925096576302256,
-      "lng": -94.81822918330707,
-      "road": 145,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035482384749969483#m",
-      "timestamp": "2026-03-21T22:23:12+00:00",
-      "timestamp_display": "21/03/2026 16:23 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 116, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 116,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035479118649721002#m",
-      "timestamp": "2026-03-21T22:10:13+00:00",
-      "timestamp_display": "21/03/2026 16:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 266. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 266,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035475974704316560#m",
-      "timestamp": "2026-03-21T21:57:44+00:00",
-      "timestamp_display": "21/03/2026 15:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035468641303412768#m",
-      "timestamp": "2026-03-21T21:28:35+00:00",
-      "timestamp_display": "21/03/2026 15:28 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nLibramiento Poniente Tampico, Plaza de Cobro Tampico. Continúa carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035462040555307160#m",
-      "timestamp": "2026-03-21T21:02:22+00:00",
-      "timestamp_display": "21/03/2026 15:02 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Obregón - Guaymas, km 46, dirección Guaymas. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de atención del accidente. En la zona se registra carga vehicular y derrame de combustible. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035459449666592975#m",
-      "timestamp": "2026-03-21T20:52:04+00:00",
-      "timestamp_display": "21/03/2026 14:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035458161394483638#m",
-      "timestamp": "2026-03-21T20:46:57+00:00",
-      "timestamp_display": "21/03/2026 14:46 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 116, dirección CDMX. El incidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 116,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035455730719862897#m",
-      "timestamp": "2026-03-21T20:37:17+00:00",
-      "timestamp_display": "21/03/2026 14:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. Continúa cierre a la circulación por atención de accidente (choque contra muro central y caída de carga). Dirección Córdoba, se restablece la circulación con reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 266,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035455443032473933#m",
-      "timestamp": "2026-03-21T20:36:09+00:00",
-      "timestamp_display": "21/03/2026 14:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 116, dirección CDMX. Reducción de carriles por atención de incidente (falla mecánica de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 116,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035450484727730232#m",
-      "timestamp": "2026-03-21T20:16:27+00:00",
-      "timestamp_display": "21/03/2026 14:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAut. Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2035448441451720876#m",
-      "timestamp": "2026-03-21T20:08:19+00:00",
-      "timestamp_display": "21/03/2026 14:08 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. Continúa reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.925096576302256,
-      "lng": -94.81822918330707,
-      "road": 145,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035446654946431186#m",
-      "timestamp": "2026-03-21T20:01:13+00:00",
-      "timestamp_display": "21/03/2026 14:01 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
