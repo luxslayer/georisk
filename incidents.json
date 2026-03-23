@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-23T22:02:02.622879",
+  "last_update": "2026-03-23T22:51:55.163065",
   "incidents": [
+    {
+      "title": "#Tomesusprecauciones en #BajaCaliforniaSur tras presencia de personas cerca del Km 000+050 de la carretera el Ramal - Aeropuerto San José del Cabo. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 0.05,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2036211099528306859#m",
+      "timestamp": "2026-03-23T22:38:51+00:00",
+      "timestamp_display": "23/03/2026 16:38 CST",
+      "segment": null
+    },
     {
       "title": "En #Veracruz continua cierre total a la circulación tras presencia de personas cerca del Km 097+700 de la carretera San Hipólito - Xalapa. se orienta a la ciudadanía #rutaalterna autopista Amozoc - Perote.",
       "type": "twitter",
@@ -258,16 +271,48 @@
       "segment": null
     },
     {
-      "title": "#TómePrecauciones en #Oaxaca continúa cierre de circulación por deslave de Talud sobre la carpeta asfáltica, cerca del km 205+000 autopista (570) Cuacnopalan-Oaxaca, tramo Huitzo-Oaxaca (San Pablo Etla). Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Noreste de Querétaro (Chichimequillas), km 24, dirección San Luis Potosí. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": 570,
-      "km": 205.0,
+      "lat": 20.772575730421593,
+      "lng": -100.45014438375466,
+      "road": 57,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036211549589627088#m",
+      "timestamp": "2026-03-23T22:40:39+00:00",
+      "timestamp_display": "23/03/2026 16:40 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 62, dirección Puebla. Reducción de carriles por atención de accidente (salida del camino de tracto camión y choque contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.339748164585124,
+      "lng": -98.67112634473027,
+      "road": 150,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036208639766098290#m",
+      "timestamp": "2026-03-23T22:29:05+00:00",
+      "timestamp_display": "23/03/2026 16:29 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 51, dirección CDMX. Reducción de carriles por atención de choque contra muro central. \n🔘Km 66, dirección CDMX. Se restablece la circulación con reducción de carriles por labores de limpieza. \n🔘Km 71, dirección CDMX. Se restablece la circulación en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nEn las zonas se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 51,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2036078857455898938#m",
-      "timestamp": "2026-03-23T13:53:22+00:00",
-      "timestamp_display": "23/03/2026 07:53 CST",
+      "url": "https://nitter.net/CAPUFE/status/2036203823711035834#m",
+      "timestamp": "2026-03-23T22:09:57+00:00",
+      "timestamp_display": "23/03/2026 16:09 CST",
       "segment": null
     },
     {
@@ -391,7 +436,7 @@
       ]
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 51, dirección CDMX. Reducción de carriles por atención de choque contra muro central. \n🔘Km 66, dirección CDMX. Se restablece la circulación con reducción de carriles por labores de limpieza. \n🔘Km 71, dirección CDMX. Continúa cierre en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nEn las zonas se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 51, dirección CDMX. Reducción de carriles por atención de choque contra muro central. \n🔘Km 66, dirección CDMX. Se restablece la circulación con reducción de carriles por labores de limpieza. \n🔘Km 71, dirección CDMX. Continúa cierre en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nEn las zonas se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -493,48 +538,6 @@
       "timestamp": "2026-03-23T19:28:01+00:00",
       "timestamp_display": "23/03/2026 13:28 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 295,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036160290094719378#m",
-      "timestamp": "2026-03-23T19:16:57+00:00",
-      "timestamp_display": "23/03/2026 13:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Acayucan, km 166, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 166,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036159587200671950#m",
-      "timestamp": "2026-03-23T19:14:10+00:00",
-      "timestamp_display": "23/03/2026 13:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 24, dirección San Luis Potosí. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.772575730421593,
-      "lng": -100.45014438375466,
-      "road": 57,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036159160296054953#m",
-      "timestamp": "2026-03-23T19:12:28+00:00",
-      "timestamp_display": "23/03/2026 13:12 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
     }
   ]
 }
