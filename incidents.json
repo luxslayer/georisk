@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-23T09:45:48.553006",
+  "last_update": "2026-03-23T10:53:28.066073",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 064+500, en la carretera Querétaro-Irapuato. Atienda indicación vial.",
@@ -280,6 +280,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Querétaro - Irapuato, km 64, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 64,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036033401132613850#m",
+      "timestamp": "2026-03-23T10:52:45+00:00",
+      "timestamp_display": "23/03/2026 04:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Durango - Mazatlán, km 163, dirección Durango. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036021470443250047#m",
+      "timestamp": "2026-03-23T10:05:20+00:00",
+      "timestamp_display": "23/03/2026 04:05 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Continúa reducción de carriles por atención a incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.013764470675966,
@@ -520,32 +546,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035948391843221738#m",
       "timestamp": "2026-03-23T05:14:57+00:00",
       "timestamp_display": "22/03/2026 23:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 16, dirección Ensenada. Reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035944859517796380#m",
-      "timestamp": "2026-03-23T05:00:55+00:00",
-      "timestamp_display": "22/03/2026 23:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 163, dirección Durango. Reducción de carriles por atención de accidente (volcadura de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035943667605590247#m",
-      "timestamp": "2026-03-23T04:56:11+00:00",
-      "timestamp_display": "22/03/2026 22:56 CST",
       "segment": null
     }
   ]
