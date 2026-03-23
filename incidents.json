@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-03-23T20:48:58.084843",
+  "last_update": "2026-03-23T21:37:42.987827",
   "incidents": [
+    {
+      "title": "En #Morelos continua cierre parcial de circulación tras #AccidenteVial se libera la circulación con dirección a Cuernavaca, se orienta a la ciudadanía #rutaalterna carretera libre México - Cuernavaca.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036187669647032391#m",
+      "timestamp": "2026-03-23T21:05:45+00:00",
+      "timestamp_display": "23/03/2026 15:05 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomesusPrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 140+000, de la carretera Lagos de Moreno - Guadalajara ent. con Ramal a Yahualica. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 140.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036185621761294759#m",
+      "timestamp": "2026-03-23T20:57:37+00:00",
+      "timestamp_display": "23/03/2026 14:57 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 300+000, de la autopista Córdoba - Puebla. Maneje con precaución.",
       "type": "twitter",
@@ -245,29 +271,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 064+500, en la carretera Querétaro-Irapuato. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Tapa - Cosoleacaque, km 25, dirección Nuevo Teapa. Reducción de carriles por atención de incidente (incendio de pastizal). Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 64.5,
+      "lat": 18.015847457028094,
+      "lng": -94.52681088975048,
+      "road": 180,
+      "km": 25,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035976163617562882#m",
-      "timestamp": "2026-03-23T07:05:18+00:00",
-      "timestamp_display": "23/03/2026 01:05 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2036195682562740311#m",
+      "timestamp": "2026-03-23T21:37:36+00:00",
+      "timestamp_display": "23/03/2026 15:37 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
     },
     {
-      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 170+000, en la carretera Cuernavaca-Chilpancingo, con dirección a Chilpancingo, Gro. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 51, dirección CDMX. Reducción de carriles por atención de choque contra muro central. \n🔘Km 66, dirección CDMX. Se restablece la circulación con reducción de carriles por labores de limpieza. \n🔘Km 71, dirección CDMX. Continúa cierre en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nEn las zonas se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
-      "km": 170.0,
+      "km": 51,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036195294015074400#m",
+      "timestamp": "2026-03-23T21:36:03+00:00",
+      "timestamp_display": "23/03/2026 15:36 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 66, dirección CDMX. Continúa cierre a la circulación por atención del accidente (labores de limpieza). Dir. Cuernavaca, se restablece la vialidad con carga vehicular. \n🔘Km 71, dirección CDMX. Continúa cierre en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nUnidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 66,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035968268008050725#m",
-      "timestamp": "2026-03-23T06:33:56+00:00",
-      "timestamp_display": "23/03/2026 00:33 CST",
+      "url": "https://nitter.net/CAPUFE/status/2036187415757422885#m",
+      "timestamp": "2026-03-23T21:04:45+00:00",
+      "timestamp_display": "23/03/2026 15:04 CST",
       "segment": null
     },
     {
@@ -310,7 +352,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras de trasvase de carga. Dir. Cuernavaca, se da vialidad por el Campamento La Pera CAPUFE.\n🔘Km 71, dirección CDMX. Continúa cierre en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nUnidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras de trasvase de carga. Dir. Cuernavaca, se da vialidad por el Campamento La Pera CAPUFE.\n🔘Km 71, dirección CDMX. Continúa cierre en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nUnidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -496,45 +538,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Mendoza - Córdoba, km 292, dirección Córdoba. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Sin embargo, se registra carga vehicular. Maneja con precaución. Para más información por favor llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 292,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036138717354631220#m",
-      "timestamp": "2026-03-23T17:51:14+00:00",
-      "timestamp_display": "23/03/2026 11:51 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 66, continúa cierre a la circulación en ambos sentidos por maniobras para el retiro de unidad siniestrada. Dir. Cuernavaca, se da vialidad por el Campamento La Pera CAPUFE.\n🔘Km 71, dirección CDMX. Continúa cierre en la gaza de incorporación de la Aut. La Pera - Cuautla.\n🔘Km 80, dirección CDMX. Carga vehicular en la gaza de salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz).\n\nUnidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036137066828841387#m",
-      "timestamp": "2026-03-23T17:44:40+00:00",
-      "timestamp_display": "23/03/2026 11:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 292, dirección Córdoba. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóvil. En la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/C88Ycji37aJCF2QAA",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 292,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036134213183832090#m",
-      "timestamp": "2026-03-23T17:33:20+00:00",
-      "timestamp_display": "23/03/2026 11:33 CST",
-      "segment": null
     }
   ]
 }
