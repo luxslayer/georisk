@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-23T07:39:41.030430",
+  "last_update": "2026-03-23T08:35:25.329121",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 064+500, en la carretera Querétaro-Irapuato. Atienda indicación vial.",
@@ -280,6 +280,19 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Durango - Mazatlán, km 163, dirección Durango. Cierre a la circulación por atención de accidente (trasvase de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2035988006939623840#m",
+      "timestamp": "2026-03-23T07:52:22+00:00",
+      "timestamp_display": "23/03/2026 01:52 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 196, dirección Querétaro. Reducción de carriles por atención de accidente (choque de costado entre tractocamiones). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -533,19 +546,6 @@
       "url": "https://nitter.net/CAPUFE/status/2035934746941800690#m",
       "timestamp": "2026-03-23T04:20:44+00:00",
       "timestamp_display": "22/03/2026 22:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Puente de Ixtla - Iguala, km 54. Circulación a contraflujo por atención de accidente (salida del camino, choque contra talud y volcadura). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2035932916920774769#m",
-      "timestamp": "2026-03-23T04:13:27+00:00",
-      "timestamp_display": "22/03/2026 22:13 CST",
       "segment": null
     }
   ]
