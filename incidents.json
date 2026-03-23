@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-03-23T16:29:29.959938",
+  "last_update": "2026-03-23T17:28:36.067190",
   "incidents": [
+    {
+      "title": "#TomesusPrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, de la carretera Tepic - Puerto Vallarta. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.502,
+      "lng": -104.89,
+      "road": null,
+      "km": 1.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036126827140317433#m",
+      "timestamp": "2026-03-23T17:03:59+00:00",
+      "timestamp_display": "23/03/2026 11:03 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 035+100, de la carretera ent. La Chicharrona - Cuencamé. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 35.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036125589631824059#m",
+      "timestamp": "2026-03-23T16:59:04+00:00",
+      "timestamp_display": "23/03/2026 10:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 097+700, de la carretera San Hipólito- Xalapa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 97.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036124396541079852#m",
+      "timestamp": "2026-03-23T16:54:20+00:00",
+      "timestamp_display": "23/03/2026 10:54 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+500, de la carretera Zacatecas - Durango. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 1.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036122970892972417#m",
+      "timestamp": "2026-03-23T16:48:40+00:00",
+      "timestamp_display": "23/03/2026 10:48 CST",
+      "segment": null
+    },
     {
       "title": "#TomesusPrecauciones en #Guerrero se registra cierre total de circulación por presencia de personas cerca del km 105+000, de la carretera Las Cruces - Pinotepa Nacional. Atienda indicación vial.",
       "type": "twitter",
@@ -31,19 +83,6 @@
       ]
     },
     {
-      "title": "#TómePrecauciones en #Oaxaca continúa cierre de circulación por deslave de Talud sobre la carpeta asfáltica, cerca del km 205+000 autopista (570) Cuacnopalan-Oaxaca, tramo Huitzo-Oaxaca (San Pablo Etla). Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": 570,
-      "km": 205.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2036078857455898938#m",
-      "timestamp": "2026-03-23T13:53:22+00:00",
-      "timestamp_display": "23/03/2026 07:53 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna Carretera Huajuapan de León-Oaxaca, tramo Nochixtlán San Francisco (1060) y Carretera Huajuapan de León-Oaxaca, tramo San Francisco Telixtlahuaca, (1060), habilitando un camino de terracería en el lugar.",
       "type": "twitter",
       "lat": 17.072,
@@ -53,6 +92,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2036078859653701766#m",
       "timestamp": "2026-03-23T13:53:23+00:00",
+      "timestamp_display": "23/03/2026 07:53 CST",
+      "segment": null
+    },
+    {
+      "title": "#TómePrecauciones en #Oaxaca continúa cierre de circulación por deslave de Talud sobre la carpeta asfáltica, cerca del km 205+000 autopista (570) Cuacnopalan-Oaxaca, tramo Huitzo-Oaxaca (San Pablo Etla). Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": 570,
+      "km": 205.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2036078857455898938#m",
+      "timestamp": "2026-03-23T13:53:22+00:00",
       "timestamp_display": "23/03/2026 07:53 CST",
       "segment": null
     },
@@ -222,58 +274,55 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 118+300, en la carretera Puebla- Córdoba. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.11231512627791,
-      "lng": -98.24897534254312,
-      "road": 150,
-      "km": 9.299999999999997,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035927862729945522#m",
-      "timestamp": "2026-03-23T03:53:22+00:00",
-      "timestamp_display": "22/03/2026 21:53 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 057+800, en la carretera Ent. La Chicharrona - Cuencamé. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Las Choapas - Ocozocoautla, km 47. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 57.8,
+      "km": 47,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035924430249975962#m",
-      "timestamp": "2026-03-23T03:39:44+00:00",
-      "timestamp_display": "22/03/2026 21:39 CST",
+      "url": "https://nitter.net/CAPUFE/status/2036125633441407109#m",
+      "timestamp": "2026-03-23T16:59:15+00:00",
+      "timestamp_display": "23/03/2026 10:59 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 124+100, en la carretera Cd. Valles -Tampico. Atienda indicación vial.",
+      "title": "#AlertaAMBER \nCircunstancias: El 19 de marzo de 2026, la adolescente INGRID ZOÉ HINOJOSA HINOJOSA, fue vista por última vez en el Municipio de San Agustín Tlaxiaca, Hidalgo, sin que hasta el momento se tenga noticias de su paradero. Se considera que la integridad de la adolescente se encuentra en riesgo toda vez que puede ser víctima de la comisión de un delito",
       "type": "twitter",
-      "lat": 21.997,
-      "lng": -99.01,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 124.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035923891860771182#m",
-      "timestamp": "2026-03-23T03:37:36+00:00",
-      "timestamp_display": "22/03/2026 21:37 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036122118534897969#m",
+      "timestamp": "2026-03-23T16:45:17+00:00",
+      "timestamp_display": "23/03/2026 10:45 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del km 227+500, en la carretera Oaxaca - Tehuantepec. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Las Choapas - Ocozocoautla, km 47. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 227.5,
+      "km": 47,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2035922242081607890#m",
-      "timestamp": "2026-03-23T03:31:02+00:00",
-      "timestamp_display": "22/03/2026 21:31 CST",
+      "url": "https://nitter.net/CAPUFE/status/2036121506388811853#m",
+      "timestamp": "2026-03-23T16:42:51+00:00",
+      "timestamp_display": "23/03/2026 10:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 47.  Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 47,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036119473040802028#m",
+      "timestamp": "2026-03-23T16:34:46+00:00",
+      "timestamp_display": "23/03/2026 10:34 CST",
       "segment": null
     },
     {
@@ -483,48 +532,6 @@
       "timestamp": "2026-03-23T14:00:09+00:00",
       "timestamp_display": "23/03/2026 08:00 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Querétaro - Irapuato, km 64, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 64,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036080444320457169#m",
-      "timestamp": "2026-03-23T13:59:41+00:00",
-      "timestamp_display": "23/03/2026 07:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 96 al 100, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036074608118378650#m",
-      "timestamp": "2026-03-23T13:36:29+00:00",
-      "timestamp_display": "23/03/2026 07:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Reducción de carriles por atención a accidente (choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036059767970431245#m",
-      "timestamp": "2026-03-23T12:37:31+00:00",
-      "timestamp_display": "23/03/2026 06:37 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
