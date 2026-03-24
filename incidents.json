@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-03-24T03:13:45.131885",
+  "last_update": "2026-03-24T05:05:32.615651",
   "incidents": [
+    {
+      "title": "#TomesusPrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 331+800, de la carretera Puerto México - Ojo Caliente. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": 57,
+      "km": 131.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036288890001072315#m",
+      "timestamp": "2026-03-24T03:47:58+00:00",
+      "timestamp_display": "23/03/2026 21:47 CST",
+      "segment": [
+        "puerto mexico",
+        "ojo caliente"
+      ]
+    },
     {
       "title": "#ViaLibre en #Veracruz tras presencia de personas cerca del Km 097+700 de la carretera San Hipólito - Xalapa. Maneje con precaución.",
       "type": "twitter",
@@ -255,20 +271,252 @@
       "segment": null
     },
     {
-      "title": "#TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+500, de la carretera Zacatecas - Durango. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠  \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 1.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2036122970892972417#m",
-      "timestamp": "2026-03-23T16:48:40+00:00",
-      "timestamp_display": "23/03/2026 10:48 CST",
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036305785752322379#m",
+      "timestamp": "2026-03-24T04:55:06+00:00",
+      "timestamp_display": "23/03/2026 22:55 CST",
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista La Carbonera - Puerto México, km 232. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de tracto camión siniestrado.\n\nPor seguridad, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en dirección La Carbonera.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 62, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.339748164585124,
+      "lng": -98.67112634473027,
+      "road": 150,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036305076214517965#m",
+      "timestamp": "2026-03-24T04:52:17+00:00",
+      "timestamp_display": "23/03/2026 22:52 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 59, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.331674540802503,
+      "lng": -98.69475909769841,
+      "road": 150,
+      "km": 41,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036304689029898680#m",
+      "timestamp": "2026-03-24T04:50:45+00:00",
+      "timestamp_display": "23/03/2026 22:50 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 191, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 191,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036301116766318867#m",
+      "timestamp": "2026-03-24T04:36:33+00:00",
+      "timestamp_display": "23/03/2026 22:36 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.   \nAutopista Aeropuerto Los Cabos - San José del Cabo, km 101. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 101,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036299323319738822#m",
+      "timestamp": "2026-03-24T04:29:25+00:00",
+      "timestamp_display": "23/03/2026 22:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoPuebla, km 62, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.339748164585124,
+      "lng": -98.67112634473027,
+      "road": 150,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036297794332299422#m",
+      "timestamp": "2026-03-24T04:23:21+00:00",
+      "timestamp_display": "23/03/2026 22:23 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se informa a las personas usuarias que continúa cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada.\n\nPor seguridad, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en dirección La Carbonera.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036295467370250681#m",
+      "timestamp": "2026-03-24T04:14:06+00:00",
+      "timestamp_display": "23/03/2026 22:14 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoPuebla, km 59, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.331674540802503,
+      "lng": -98.69475909769841,
+      "road": 150,
+      "km": 41,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036294667034153055#m",
+      "timestamp": "2026-03-24T04:10:55+00:00",
+      "timestamp_display": "23/03/2026 22:10 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Registra cierre a la circulación en el Distribuidor vial Palmira por labores de mantenimiento. Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036292656389599711#m",
+      "timestamp": "2026-03-24T04:02:56+00:00",
+      "timestamp_display": "23/03/2026 22:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 62, dirección Puebla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.339748164585124,
+      "lng": -98.67112634473027,
+      "road": 150,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036291289180713320#m",
+      "timestamp": "2026-03-24T03:57:30+00:00",
+      "timestamp_display": "23/03/2026 21:57 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoPuebla, km 59, dirección Puebla. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.331674540802503,
+      "lng": -98.69475909769841,
+      "road": 150,
+      "km": 41,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036289267912053065#m",
+      "timestamp": "2026-03-24T03:49:28+00:00",
+      "timestamp_display": "23/03/2026 21:49 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 191, dirección CDMX. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 191,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036288694009630724#m",
+      "timestamp": "2026-03-24T03:47:11+00:00",
+      "timestamp_display": "23/03/2026 21:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \n#AutMéxicoPuebla, km 62, dirección Puebla. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.339748164585124,
+      "lng": -98.67112634473027,
+      "road": 150,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036287805542879633#m",
+      "timestamp": "2026-03-24T03:43:39+00:00",
+      "timestamp_display": "23/03/2026 21:43 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tijuana - Ensenada, km 23, dirección Tijuana. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 23,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036287319410348525#m",
+      "timestamp": "2026-03-24T03:41:43+00:00",
+      "timestamp_display": "23/03/2026 21:41 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se informa a las personas usuarias que continúa cierre a la circulación por labores de limpieza.\nDir. Puerto México, se restablece el tránsito vehicular de manera normal.\n\nPor seguridad, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en dirección La Carbonera.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036286951192506399#m",
+      "timestamp": "2026-03-24T03:40:16+00:00",
+      "timestamp_display": "23/03/2026 21:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 27, dirección Nuevo Teapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.01910647240051,
+      "lng": -94.54541169577793,
+      "road": 180,
+      "km": 27,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036283123604857295#m",
+      "timestamp": "2026-03-24T03:25:03+00:00",
+      "timestamp_display": "23/03/2026 21:25 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 66, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 66,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036281875098964220#m",
+      "timestamp": "2026-03-24T03:20:05+00:00",
+      "timestamp_display": "23/03/2026 21:20 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista La Carbonera - Puerto México, km 232. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de tracto camión siniestrado.\n\nPor seguridad, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en dirección La Carbonera.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 25.1685,
       "lng": -100.7189,
@@ -307,236 +555,6 @@
       "url": "https://nitter.net/CAPUFE/status/2036271344879337782#m",
       "timestamp": "2026-03-24T02:38:15+00:00",
       "timestamp_display": "23/03/2026 20:38 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca, km 66, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por labores de limpieza. \nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036270572905099556#m",
-      "timestamp": "2026-03-24T02:35:11+00:00",
-      "timestamp_display": "23/03/2026 20:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠  \n#AutMéxicoQuerétaro, km 56. Registra carga vehicular en ambos sentidos a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036269045381546077#m",
-      "timestamp": "2026-03-24T02:29:07+00:00",
-      "timestamp_display": "23/03/2026 20:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️CONDICIONES CLIMÁTICAS 🌧️🌩️ \nAut. Lagos de Moreno - San Luis Potosí, registra #lluvia ligera a la altura de la Plaza de Cobro Lagos de Moreno. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036268666757546199#m",
-      "timestamp": "2026-03-24T02:27:36+00:00",
-      "timestamp_display": "23/03/2026 20:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 59, dirección Puebla. Reducción de carriles por atención de choque contra muro central y choque por alcance múltiple. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/ZFvAAWEfVp1phj819",
-      "type": "twitter",
-      "lat": 19.331674540802503,
-      "lng": -98.69475909769841,
-      "road": 150,
-      "km": 41,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036266101881868386#m",
-      "timestamp": "2026-03-24T02:17:25+00:00",
-      "timestamp_display": "23/03/2026 20:17 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 191, dirección CDMX. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 191,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036265287712903261#m",
-      "timestamp": "2026-03-24T02:14:11+00:00",
-      "timestamp_display": "23/03/2026 20:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Cierre a la circulación por atención de volcadura de tracto camión. Dir. Puerto México, registra reducción de carriles.\nPor seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en dirección La Carbonera. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/Ec62y37NYKbwF7fB9",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 232,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036262939754131727#m",
-      "timestamp": "2026-03-24T02:04:51+00:00",
-      "timestamp_display": "23/03/2026 20:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 1, dirección Isla. Reducción de carriles por atención de incidente (camioneta siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036256041512382939#m",
-      "timestamp": "2026-03-24T01:37:26+00:00",
-      "timestamp_display": "23/03/2026 19:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoQuerétaro, registra #lluvia del km 43 al 56. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 43,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036255576712171761#m",
-      "timestamp": "2026-03-24T01:35:35+00:00",
-      "timestamp_display": "23/03/2026 19:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036255277247344826#m",
-      "timestamp": "2026-03-24T01:34:24+00:00",
-      "timestamp_display": "23/03/2026 19:34 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca, km 66, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por labores de limpieza. \nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036251738320023783#m",
-      "timestamp": "2026-03-24T01:20:20+00:00",
-      "timestamp_display": "23/03/2026 19:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 51, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036251482526281805#m",
-      "timestamp": "2026-03-24T01:19:19+00:00",
-      "timestamp_display": "23/03/2026 19:19 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Aeropuerto Los Cabos - San José del Cabo, km 101. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 101,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036250633599062042#m",
-      "timestamp": "2026-03-24T01:15:57+00:00",
-      "timestamp_display": "23/03/2026 19:15 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca, dirección CDMX. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 51. El accidente ha sido atendido, por lo que se restablece la circulación.\n🔘Km 66. Continúa reducción de carriles por labores de limpieza. \n\nEn las zonas se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036248006396203210#m",
-      "timestamp": "2026-03-24T01:05:31+00:00",
-      "timestamp_display": "23/03/2026 19:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 62, dirección Puebla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.339748164585124,
-      "lng": -98.67112634473027,
-      "road": 150,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036244360816111902#m",
-      "timestamp": "2026-03-24T00:51:01+00:00",
-      "timestamp_display": "23/03/2026 18:51 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 27, dirección Nuevo Teapa. Reducción de carriles por atención de accidente (choque contra base de puente). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.01910647240051,
-      "lng": -94.54541169577793,
-      "road": 180,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036238649684082762#m",
-      "timestamp": "2026-03-24T00:28:20+00:00",
-      "timestamp_display": "23/03/2026 18:28 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Noreste de Querétaro, km 27, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 27,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036236166719054160#m",
-      "timestamp": "2026-03-24T00:18:28+00:00",
-      "timestamp_display": "23/03/2026 18:18 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoCuernavaca, dirección CDMX. Se informa a las personas que se registran diversos eventos, que afectan la circulación:\n\n🔘Km 51. Se restablece la circulación con reducción de carriles por servicios periciales.\n🔘Km 66. Continúa reducción de carriles por labores de limpieza. \n\nEn las zonas se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 51,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036235832508510318#m",
-      "timestamp": "2026-03-24T00:17:08+00:00",
-      "timestamp_display": "23/03/2026 18:17 CST",
       "segment": null
     }
   ]
