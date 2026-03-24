@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-24T07:31:42.791464",
+  "last_update": "2026-03-24T08:30:50.780317",
   "incidents": [
     {
       "title": "#TomesusPrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 331+800, de la carretera Puerto México - Ojo Caliente. Atienda indicación vial.",
@@ -271,6 +271,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Acatzingo - Cd. Mendoza, km 254, dirección Acatzingo. Se restablece la circulación con reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 254,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036347505261064664#m",
+      "timestamp": "2026-03-24T07:40:53+00:00",
+      "timestamp_display": "24/03/2026 01:40 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 254, dirección Acatzingo. Cierre a la circulación por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -531,19 +544,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Registra cierre a la circulación en el Distribuidor vial Palmira por labores de mantenimiento. Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 95,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036292656389599711#m",
-      "timestamp": "2026-03-24T04:02:56+00:00",
-      "timestamp_display": "23/03/2026 22:02 CST",
-      "segment": null
     }
   ]
 }
