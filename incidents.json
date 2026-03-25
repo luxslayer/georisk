@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T11:08:10.689552",
+  "last_update": "2026-03-25T11:56:51.510901",
   "incidents": [
     {
       "title": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 254+000, de la carretera Ramal Orizaba - Zongolica. Maneje con precaución.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 99, dirección Navojoa. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 99,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036773816509382879#m",
+      "timestamp": "2026-03-25T11:54:53+00:00",
+      "timestamp_display": "25/03/2026 05:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 167, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 167,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036765454740394194#m",
+      "timestamp": "2026-03-25T11:21:40+00:00",
+      "timestamp_display": "25/03/2026 05:21 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 264, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 18.93,
@@ -496,32 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2036687010606555310#m",
       "timestamp": "2026-03-25T06:09:57+00:00",
       "timestamp_display": "25/03/2026 00:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 87, dirección Isla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036682832282574918#m",
-      "timestamp": "2026-03-25T05:53:21+00:00",
-      "timestamp_display": "24/03/2026 23:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 87, dirección Isla. Reducción de carriles por atención de accidente (salida del camino y volcadura). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036671856338444796#m",
-      "timestamp": "2026-03-25T05:09:44+00:00",
-      "timestamp_display": "24/03/2026 23:09 CST",
       "segment": null
     }
   ]
