@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-03-25T02:23:14.835828",
+  "last_update": "2026-03-25T04:32:28.471944",
   "incidents": [
+    {
+      "title": "#TomesusPrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 117+700, de la carretera Chihuahua - Cd. Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": 45,
+      "km": 117.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036645641334460813#m",
+      "timestamp": "2026-03-25T03:25:34+00:00",
+      "timestamp_display": "24/03/2026 21:25 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomesusPrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 038+500, de la carretera Zacatecas - Durango. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 38.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036643754849804743#m",
+      "timestamp": "2026-03-25T03:18:04+00:00",
+      "timestamp_display": "24/03/2026 21:18 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #EdoMex tras #AccidenteVial cerca del km 164+100, de la carretera Libramiento Norte Ciudad de México con dirección a Pachuca, Hgo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.11,
+      "lng": -98.73,
+      "road": null,
+      "km": 164.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2036641228679246051#m",
+      "timestamp": "2026-03-25T03:08:02+00:00",
+      "timestamp_display": "24/03/2026 21:08 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Guerrero tras presencia de personas cerca del km 001+300, de la carretera Chilpancingo - Acapulco. Maneje con precaución.",
       "type": "twitter",
@@ -83,19 +122,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se proporciona vialidad por la caseta de cobro de Ciudad Sahagún, en una ruta alterna para incorporarse más adelante nuevamente al Arco Norte.",
-      "type": "twitter",
-      "lat": 19.7703,
-      "lng": -98.5789,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2036616940219756967#m",
-      "timestamp": "2026-03-25T01:31:31+00:00",
-      "timestamp_display": "24/03/2026 19:31 CST",
-      "segment": null
-    },
-    {
       "title": "#TomesusPrecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del km 164+100, de la carretera Libramiento Norte Ciudad de México con dirección a Pachuca, Hgo. Atienda indicación vial.",
       "type": "twitter",
       "lat": 20.11,
@@ -105,6 +131,19 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2036616937199853845#m",
       "timestamp": "2026-03-25T01:31:30+00:00",
+      "timestamp_display": "24/03/2026 19:31 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se proporciona vialidad por la caseta de cobro de Ciudad Sahagún, en una ruta alterna para incorporarse más adelante nuevamente al Arco Norte.",
+      "type": "twitter",
+      "lat": 19.7703,
+      "lng": -98.5789,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2036616940219756967#m",
+      "timestamp": "2026-03-25T01:31:31+00:00",
       "timestamp_display": "24/03/2026 19:31 CST",
       "segment": null
     },
@@ -226,42 +265,87 @@
       "segment": null
     },
     {
-      "title": "#TomesusPrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 330+200, de la carretera Chilpancingo-Acapulco, con dirección a Acapulco. Atienda indicación vial.",
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️  \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 330.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2036568641122996552#m",
-      "timestamp": "2026-03-24T22:19:36+00:00",
-      "timestamp_display": "24/03/2026 16:19 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomesusPrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+500, de la carretera Libramiento Poniente Tampico. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 6.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2036567887868051475#m",
-      "timestamp": "2026-03-24T22:16:36+00:00",
-      "timestamp_display": "24/03/2026 16:16 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomesusPrecauciones en #Veracruz se registra cierre parcial de circulación por presencia de personas cerca del km 092+200, de la carretera San Hipólito- Xalapa. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.3574,
-      "lng": -96.5341,
-      "road": 180,
-      "km": 92.2,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2036557843847893300#m",
-      "timestamp": "2026-03-24T21:36:42+00:00",
-      "timestamp_display": "24/03/2026 15:36 CST",
+      "url": "https://nitter.net/CAPUFE/status/2036654994875883884#m",
+      "timestamp": "2026-03-25T04:02:44+00:00",
+      "timestamp_display": "24/03/2026 22:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Barranca Larga - Ventanilla, continúa #lluvia intensa del km 0 al 44. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 0,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036654612623831350#m",
+      "timestamp": "2026-03-25T04:01:13+00:00",
+      "timestamp_display": "24/03/2026 22:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación con cierres intermitentes en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036653840750231569#m",
+      "timestamp": "2026-03-25T03:58:09+00:00",
+      "timestamp_display": "24/03/2026 21:58 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cd. Mendoza – Córdoba, continúa #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036652176010060090#m",
+      "timestamp": "2026-03-25T03:51:32+00:00",
+      "timestamp_display": "24/03/2026 21:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Córdoba - Veracruz, continúa #lluvia ligera a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036652099640172947#m",
+      "timestamp": "2026-03-25T03:51:14+00:00",
+      "timestamp_display": "24/03/2026 21:51 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Agua Dulce - Cárdenas, km 86, dirección Cárdenas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036630212386119999#m",
+      "timestamp": "2026-03-25T02:24:16+00:00",
+      "timestamp_display": "24/03/2026 20:24 CST",
       "segment": null
     },
     {
@@ -440,90 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2036602709047124200#m",
       "timestamp": "2026-03-25T00:34:58+00:00",
       "timestamp_display": "24/03/2026 18:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️  \nAutopista Acatzingo - Cd. Mendoza, registra #lluvia y #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036599214239629673#m",
-      "timestamp": "2026-03-25T00:21:05+00:00",
-      "timestamp_display": "24/03/2026 18:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 331, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 331,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036596726673375681#m",
-      "timestamp": "2026-03-25T00:11:12+00:00",
-      "timestamp_display": "24/03/2026 18:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036592691568377862#m",
-      "timestamp": "2026-03-24T23:55:10+00:00",
-      "timestamp_display": "24/03/2026 17:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 1, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.860051508054077,
-      "lng": -96.90102981647688,
-      "road": 150,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036589903715143710#m",
-      "timestamp": "2026-03-24T23:44:05+00:00",
-      "timestamp_display": "24/03/2026 17:44 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Córdoba - Veracruz, registra #lluvia a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036589638022840462#m",
-      "timestamp": "2026-03-24T23:43:02+00:00",
-      "timestamp_display": "24/03/2026 17:43 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 331, dirección Acapulco. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 331,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036588978292273184#m",
-      "timestamp": "2026-03-24T23:40:25+00:00",
-      "timestamp_display": "24/03/2026 17:40 CST",
       "segment": null
     }
   ]
