@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T10:09:33.414830",
+  "last_update": "2026-03-25T11:08:10.689552",
   "incidents": [
     {
       "title": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 254+000, de la carretera Ramal Orizaba - Zongolica. Maneje con precaución.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 264, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 264,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036752050634235920#m",
+      "timestamp": "2026-03-25T10:28:24+00:00",
+      "timestamp_display": "25/03/2026 04:28 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tecate - La Rumorosa, km 92, dirección La Rumorosa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 23.5,
@@ -509,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2036671856338444796#m",
       "timestamp": "2026-03-25T05:09:44+00:00",
       "timestamp_display": "24/03/2026 23:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, registra #lluvia del km 96 al 100. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2036668989662007301#m",
-      "timestamp": "2026-03-25T04:58:21+00:00",
-      "timestamp_display": "24/03/2026 22:58 CST",
       "segment": null
     }
   ]
