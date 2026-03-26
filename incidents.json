@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-26T21:40:24.572107",
+  "last_update": "2026-03-26T21:59:41.820633",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 022+200, de la carretera Zihuatanejo - La Mira. Atienda indicación vial.",
@@ -280,6 +280,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠         \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037288107624595870#m",
+      "timestamp": "2026-03-26T21:58:30+00:00",
+      "timestamp_display": "26/03/2026 15:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠         \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037287702970692017#m",
+      "timestamp": "2026-03-26T21:56:54+00:00",
+      "timestamp_display": "26/03/2026 15:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 43, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 43,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037287192028946694#m",
+      "timestamp": "2026-03-26T21:54:52+00:00",
+      "timestamp_display": "26/03/2026 15:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 32, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037286835093639237#m",
+      "timestamp": "2026-03-26T21:53:27+00:00",
+      "timestamp_display": "26/03/2026 15:53 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Querétaro - Irapuato, km 43, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -475,58 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037247511753036284#m",
       "timestamp": "2026-03-26T19:17:11+00:00",
       "timestamp_display": "26/03/2026 13:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 264,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037247169661419594#m",
-      "timestamp": "2026-03-26T19:15:50+00:00",
-      "timestamp_display": "26/03/2026 13:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Barranca Larga - Ventanilla, km 48. Continúa circulación intermitente en ambos sentidos por atención de accidente (incendio de autobús). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037245534700765327#m",
-      "timestamp": "2026-03-26T19:09:20+00:00",
-      "timestamp_display": "26/03/2026 13:09 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 37, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037241563533771114#m",
-      "timestamp": "2026-03-26T18:53:33+00:00",
-      "timestamp_display": "26/03/2026 12:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cd. Mendoza - Córdoba, km 265, dirección Cd. Mendoza. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 265,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037239363755520304#m",
-      "timestamp": "2026-03-26T18:44:49+00:00",
-      "timestamp_display": "26/03/2026 12:44 CST",
       "segment": null
     }
   ]
