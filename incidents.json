@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-03-26T23:03:29.278777",
+  "last_update": "2026-03-26T23:48:24.389993",
   "incidents": [
+    {
+      "title": "#VíaLibre  en #Aguascalientes tras #AccidenteVial cerca del km 111+000, de la carretera León - Aguascalientes. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.56923240719956,
+      "lng": -102.2743355859112,
+      "road": 45,
+      "km": 111.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2037305778034327573#m",
+      "timestamp": "2026-03-26T23:08:43+00:00",
+      "timestamp_display": "26/03/2026 17:08 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
     {
       "title": "En #Chiapas continúa cierre parcial de circulación por #Caravana cerca del km 227+000, de la carretera Tapanatepec-Talismán con Ramales, disminuya su velocidad. \n\nGN_Carreteras monitorea y abandera el avance del contingente.",
       "type": "twitter",
@@ -267,16 +283,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 145+000, de la carretera Oaxaca - Tehuantepec. Atienda indicación vial.",
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 145.0,
+      "km": 66,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037223779798057101#m",
-      "timestamp": "2026-03-26T17:42:53+00:00",
-      "timestamp_display": "26/03/2026 11:42 CST",
+      "url": "https://nitter.net/CAPUFE/status/2037312310897684586#m",
+      "timestamp": "2026-03-26T23:34:41+00:00",
+      "timestamp_display": "26/03/2026 17:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 144, dirección Puebla. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión tipo pipa que transporta material peligroso, autobús y camioneta. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/Q6Lu4RHA79ehSaw49",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 144,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037307863148748974#m",
+      "timestamp": "2026-03-26T23:17:00+00:00",
+      "timestamp_display": "26/03/2026 17:17 CST",
       "segment": null
     },
     {
@@ -501,32 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037270813498298635#m",
       "timestamp": "2026-03-26T20:49:47+00:00",
       "timestamp_display": "26/03/2026 14:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección Querétaro, por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037270074365493553#m",
-      "timestamp": "2026-03-26T20:46:51+00:00",
-      "timestamp_display": "26/03/2026 14:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Barranca Larga - Ventanilla, km 48. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037266808139391447#m",
-      "timestamp": "2026-03-26T20:33:52+00:00",
-      "timestamp_display": "26/03/2026 14:33 CST",
       "segment": null
     }
   ]
