@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-26T20:20:51.485348",
+  "last_update": "2026-03-26T20:59:49.791331",
   "incidents": [
     {
       "title": "#VíaLibre  en #CDMX tras #AccidenteVial cerca del km 035+500, de la carretera México-Cuernavaca. Maneje con precaución.",
@@ -277,6 +277,71 @@
       "segment": null
     },
     {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista La Tinaja - Isla, km 6, dirección Isla. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 6,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037272215301902794#m",
+      "timestamp": "2026-03-26T20:55:21+00:00",
+      "timestamp_display": "26/03/2026 14:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Chamapa - Lechería, Plaza de Cobro Madín, dirección Lechería. Reducción de carriles por atención de incidencia. Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037271424625176978#m",
+      "timestamp": "2026-03-26T20:52:12+00:00",
+      "timestamp_display": "26/03/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 33, dirección La Pera. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 33,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037270813498298635#m",
+      "timestamp": "2026-03-26T20:49:47+00:00",
+      "timestamp_display": "26/03/2026 14:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección Querétaro, por atención de incidencia. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037270074365493553#m",
+      "timestamp": "2026-03-26T20:46:51+00:00",
+      "timestamp_display": "26/03/2026 14:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Barranca Larga - Ventanilla, km 48. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037266808139391447#m",
+      "timestamp": "2026-03-26T20:33:52+00:00",
+      "timestamp_display": "26/03/2026 14:33 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Acatzingo - Cd. Mendoza, km 190, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). Circulación lenta en la zona. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -462,90 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037234034686717987#m",
       "timestamp": "2026-03-26T18:23:38+00:00",
       "timestamp_display": "26/03/2026 12:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 17. Circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037232969371275766#m",
-      "timestamp": "2026-03-26T18:19:24+00:00",
-      "timestamp_display": "26/03/2026 12:19 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 24, dirección CDMX. Carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 24,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037232322701844649#m",
-      "timestamp": "2026-03-26T18:16:50+00:00",
-      "timestamp_display": "26/03/2026 12:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR🟠   \nLibramiento Poniente Tampico, km 14, dirección Altamira. Carga vehicular por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 14,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037231148917493925#m",
-      "timestamp": "2026-03-26T18:12:10+00:00",
-      "timestamp_display": "26/03/2026 12:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\n#AutMéxicoPuebla, km 33. Se retiran los manifestantes. Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.294432924042745,
-      "lng": -98.87751001702294,
-      "road": 150,
-      "km": 15,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037229293294534978#m",
-      "timestamp": "2026-03-26T18:04:48+00:00",
-      "timestamp_display": "26/03/2026 12:04 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "⚠️💙 Infórmate, cuídate y elige lo que te hace bien.\nLas drogas ponen en riesgo tu vida; las decisiones saludables te abren oportunidades y bienestar.\n👉 Elige vivir, elige cuidarte.\n¡#AléjateDeLasDrogas! ¡#EligeSerFeliz! #ElFentaniloTeMata",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037228086903861262#m",
-      "timestamp": "2026-03-26T18:00:00+00:00",
-      "timestamp_display": "26/03/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Cd. Mendoza - Córdoba, km 264 y 265, dirección Cd. Mendoza. Los accidentes han sido atendidos. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 264,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037225391111254430#m",
-      "timestamp": "2026-03-26T17:49:17+00:00",
-      "timestamp_display": "26/03/2026 11:49 CST",
       "segment": null
     }
   ]
