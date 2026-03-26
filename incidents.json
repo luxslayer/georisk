@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-03-26T19:43:40.430642",
+  "last_update": "2026-03-26T20:20:51.485348",
   "incidents": [
+    {
+      "title": "#VíaLibre  en #CDMX tras #AccidenteVial cerca del km 035+500, de la carretera México-Cuernavaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 35.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2037259798442328416#m",
+      "timestamp": "2026-03-26T20:06:01+00:00",
+      "timestamp_display": "26/03/2026 14:06 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Chiapas continúa cierre parcial de circulación por #Caravana cerca del km 244+900, de la carretera Tapanatepec-Talismán con Ramales, disminuya su velocidad. \n\nGN_Carreteras monitorea y abandera el avance del contingente.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": 244.9,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2037259129916469453#m",
+      "timestamp": "2026-03-26T20:03:21+00:00",
+      "timestamp_display": "26/03/2026 14:03 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+500, de la carretera Matamoros - Reynosa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 26.0922,
+      "lng": -98.2773,
+      "road": null,
+      "km": 2.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2037257892600975471#m",
+      "timestamp": "2026-03-26T19:58:26+00:00",
+      "timestamp_display": "26/03/2026 13:58 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #EdoMéx tras precencia de personas cerca del km 062+300, de la carretera Toluca-Palmillas. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": 62.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2037254873134014783#m",
+      "timestamp": "2026-03-26T19:46:26+00:00",
+      "timestamp_display": "26/03/2026 13:46 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 102+000, de la carretera Xalapa-Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -225,58 +277,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+300, de la carretera Las Choapas-Ocozocoautla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 82.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037206760860078478#m",
-      "timestamp": "2026-03-26T16:35:15+00:00",
-      "timestamp_display": "26/03/2026 10:35 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 184+800, de la carretera Jiménez - Delicias. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 184.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037206224781906320#m",
-      "timestamp": "2026-03-26T16:33:08+00:00",
-      "timestamp_display": "26/03/2026 10:33 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 178+000, de la carretera Matehuala - Saltillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.566176594772173,
-      "lng": -100.63001230462345,
-      "road": 57,
-      "km": 178.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037205198465040426#m",
-      "timestamp": "2026-03-26T16:29:03+00:00",
-      "timestamp_display": "26/03/2026 10:29 CST",
-      "segment": [
-        "matehuala",
-        "saltillo"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 005+900, de la carretera Villahermosa-Ciudad del Carmen. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Acatzingo - Cd. Mendoza, km 190, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). Circulación lenta en la zona. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 5.9,
+      "km": 190,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037204284790419845#m",
-      "timestamp": "2026-03-26T16:25:25+00:00",
-      "timestamp_display": "26/03/2026 10:25 CST",
+      "url": "https://nitter.net/CAPUFE/status/2037262770215747664#m",
+      "timestamp": "2026-03-26T20:17:49+00:00",
+      "timestamp_display": "26/03/2026 14:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 17. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037259553360736264#m",
+      "timestamp": "2026-03-26T20:05:02+00:00",
+      "timestamp_display": "26/03/2026 14:05 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037257640128999775#m",
+      "timestamp": "2026-03-26T19:57:26+00:00",
+      "timestamp_display": "26/03/2026 13:57 CST",
       "segment": null
     },
     {
@@ -507,32 +546,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037225391111254430#m",
       "timestamp": "2026-03-26T17:49:17+00:00",
       "timestamp_display": "26/03/2026 11:49 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoCuernavaca, km 37, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal realiza labores de limpieza. \nGuardia Nacional coordina la vialidad, en la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037223714513662463#m",
-      "timestamp": "2026-03-26T17:42:37+00:00",
-      "timestamp_display": "26/03/2026 11:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista La Tinaja - Isla, km 6, dirección Isla. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 6,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037221955493875974#m",
-      "timestamp": "2026-03-26T17:35:38+00:00",
-      "timestamp_display": "26/03/2026 11:35 CST",
       "segment": null
     }
   ]
