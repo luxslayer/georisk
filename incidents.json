@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T23:40:51.448547",
+  "last_update": "2026-03-26T00:04:52.093941",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+700, de la carretera México-Puebla Directo. Atienda indicación vial.",
@@ -271,6 +271,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Plan de Ayala - El Porvenir, km 11, dirección Plan de Ayala. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 11,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036957300691259868#m",
+      "timestamp": "2026-03-26T00:03:59+00:00",
+      "timestamp_display": "25/03/2026 18:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 100, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 100,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2036956210931421309#m",
+      "timestamp": "2026-03-25T23:59:40+00:00",
+      "timestamp_display": "25/03/2026 17:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2036952245116289040#m",
+      "timestamp": "2026-03-25T23:43:54+00:00",
+      "timestamp_display": "25/03/2026 17:43 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Plan de Ayala - El Porvenir, km 11, dirección Plan de Ayala. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -495,45 +534,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 84, dirección CDMX. Reducción de carriles laterales por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 84,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036901276488024127#m",
-      "timestamp": "2026-03-25T20:21:22+00:00",
-      "timestamp_display": "25/03/2026 14:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nLibramiento Cuernavaca, km 84, dirección Acapulco. Cierre de carriles centrales por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 84,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036899280154448374#m",
-      "timestamp": "2026-03-25T20:13:26+00:00",
-      "timestamp_display": "25/03/2026 14:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 143, dirección Isla. Cierre a la circulación por atención de accidente (incendio de remolque). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 143,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036895851386474621#m",
-      "timestamp": "2026-03-25T19:59:49+00:00",
-      "timestamp_display": "25/03/2026 13:59 CST",
-      "segment": null
     }
   ]
 }
