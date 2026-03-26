@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-26T07:48:09.909037",
+  "last_update": "2026-03-26T08:58:46.167959",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 171+020, de la carretera Quiroga-Tepalcatepec. Atienda indicación vial.",
@@ -151,19 +151,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Abanderamiento en curva, a la altura del Mpio. de la Galinda, Nay.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2036936493868990547#m",
-      "timestamp": "2026-03-25T22:41:19+00:00",
-      "timestamp_display": "25/03/2026 16:41 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 194+300, de la carretera Guadalajara-Tepic. Atienda indicación vial.",
       "type": "twitter",
       "lat": 20.6597,
@@ -173,6 +160,19 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2036936491264291085#m",
       "timestamp": "2026-03-25T22:41:18+00:00",
+      "timestamp_display": "25/03/2026 16:41 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Abanderamiento en curva, a la altura del Mpio. de la Galinda, Nay.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2036936493868990547#m",
+      "timestamp": "2026-03-25T22:41:19+00:00",
       "timestamp_display": "25/03/2026 16:41 CST",
       "segment": null
     },
@@ -216,19 +216,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Disminuya su velocidad. GN_Carreteras monitorea y abandera el avance del contingente.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2036916414867751302#m",
-      "timestamp": "2026-03-25T21:21:32+00:00",
-      "timestamp_display": "25/03/2026 15:21 CST",
-      "segment": null
-    },
-    {
       "title": "En #Chiapas se registra cierre parcial de circulación por #Caravana cerca del km 260+500 de la carretera Tapanatepec-Talismán con Ramales, a la altura del Mpio. de Huehuetán, Chis. con dirección al Mpio. de Huixtla, Chis.",
       "type": "twitter",
       "lat": 16.3708,
@@ -238,6 +225,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2036916412669919416#m",
       "timestamp": "2026-03-25T21:21:31+00:00",
+      "timestamp_display": "25/03/2026 15:21 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Disminuya su velocidad. GN_Carreteras monitorea y abandera el avance del contingente.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2036916414867751302#m",
+      "timestamp": "2026-03-25T21:21:32+00:00",
       "timestamp_display": "25/03/2026 15:21 CST",
       "segment": null
     },
@@ -269,6 +269,19 @@
         "saltillo",
         "monterrey"
       ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Querétaro - Irapuato, km 13, dirección Irapuato. Cierre a la circulación por atención de accidente (choque contra muro central). Dirección Querétaro, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037079232002551854#m",
+      "timestamp": "2026-03-26T08:08:30+00:00",
+      "timestamp_display": "26/03/2026 02:08 CST",
+      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Carbonera - Puerto México, km 205, dirección Puerto México. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
@@ -522,22 +535,6 @@
       "timestamp": "2026-03-26T00:35:53+00:00",
       "timestamp_display": "25/03/2026 18:35 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 29, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.952680454032745,
-      "lng": -94.67392078597554,
-      "road": 145,
-      "km": 29,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2036962913290789217#m",
-      "timestamp": "2026-03-26T00:26:18+00:00",
-      "timestamp_display": "25/03/2026 18:26 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
