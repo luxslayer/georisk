@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-26T22:43:19.553647",
+  "last_update": "2026-03-26T23:03:29.278777",
   "incidents": [
     {
       "title": "En #Chiapas continúa cierre parcial de circulación por #Caravana cerca del km 227+000, de la carretera Tapanatepec-Talismán con Ramales, disminuya su velocidad. \n\nGN_Carreteras monitorea y abandera el avance del contingente.",
@@ -280,6 +280,61 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 6, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 6,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037303782443225126#m",
+      "timestamp": "2026-03-26T23:00:47+00:00",
+      "timestamp_display": "26/03/2026 17:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037303299234288122#m",
+      "timestamp": "2026-03-26T22:58:52+00:00",
+      "timestamp_display": "26/03/2026 16:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 17. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037302432191975652#m",
+      "timestamp": "2026-03-26T22:55:25+00:00",
+      "timestamp_display": "26/03/2026 16:55 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠 \nAutopista La Tinaja - Isla, km 6, dirección Isla. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 6,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037302368224583808#m",
+      "timestamp": "2026-03-26T22:55:10+00:00",
+      "timestamp_display": "26/03/2026 16:55 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -316,19 +371,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037291154077544636#m",
       "timestamp": "2026-03-26T22:10:36+00:00",
       "timestamp_display": "26/03/2026 16:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠         \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037288107624595870#m",
-      "timestamp": "2026-03-26T21:58:30+00:00",
-      "timestamp_display": "26/03/2026 15:58 CST",
       "segment": null
     },
     {
@@ -485,48 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037266808139391447#m",
       "timestamp": "2026-03-26T20:33:52+00:00",
       "timestamp_display": "26/03/2026 14:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Acatzingo - Cd. Mendoza, km 190, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 190,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037262770215747664#m",
-      "timestamp": "2026-03-26T20:17:49+00:00",
-      "timestamp_display": "26/03/2026 14:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 17. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037259553360736264#m",
-      "timestamp": "2026-03-26T20:05:02+00:00",
-      "timestamp_display": "26/03/2026 14:05 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037257640128999775#m",
-      "timestamp": "2026-03-26T19:57:26+00:00",
-      "timestamp_display": "26/03/2026 13:57 CST",
       "segment": null
     }
   ]
