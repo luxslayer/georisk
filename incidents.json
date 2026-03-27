@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-27T20:01:55.442129",
+  "last_update": "2026-03-27T20:56:08.121804",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación cerca del km 105+800 de la carretera Uruapan - Lázaro Cárdenas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 105.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2037621163778519376#m",
+      "timestamp": "2026-03-27T20:01:57+00:00",
+      "timestamp_display": "27/03/2026 14:01 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Sinaloa se registra cierre parcial de la circulación cerca del km 023+700 de la carretera Culiacán - Las Brisas. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +277,74 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+500, de la carretera Xalapa - Veracruz. Atienda indicación vial.",
+      "title": "🟠CARGA VEHICULAR🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Continúa reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.3574,
-      "lng": -96.5341,
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
       "road": 180,
-      "km": 11.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037391225381146859#m",
-      "timestamp": "2026-03-27T04:48:15+00:00",
-      "timestamp_display": "26/03/2026 22:48 CST",
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037634745157231028#m",
+      "timestamp": "2026-03-27T20:55:55+00:00",
+      "timestamp_display": "27/03/2026 14:55 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037632260313145699#m",
+      "timestamp": "2026-03-27T20:46:02+00:00",
+      "timestamp_display": "27/03/2026 14:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠CARGA VEHICULAR🟠\n#AutMéxicoQuerétaro, km 90, dirección CDMX. Carga vehicular a la altura de la gasa de incorporación a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para más información llama al 8003272666 de @arconorte. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 90,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037629325512503619#m",
+      "timestamp": "2026-03-27T20:34:23+00:00",
+      "timestamp_display": "27/03/2026 14:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Carga vehicular en dirección Veracruz, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037623125920125339#m",
+      "timestamp": "2026-03-27T20:09:45+00:00",
+      "timestamp_display": "27/03/2026 14:09 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección Querétaro por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037622074437496893#m",
+      "timestamp": "2026-03-27T20:05:34+00:00",
+      "timestamp_display": "27/03/2026 14:05 CST",
       "segment": null
     },
     {
@@ -368,7 +439,46 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConduce con precaución y mantén tu distancia.\nLo más importante es llegar bien a tu destino. 🚙\nDisfruta el camino, pero sin exceder los límites.\nSi necesitas auxilio vial, llama al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037545178806800589#m",
+      "timestamp": "2026-03-27T15:00:01+00:00",
+      "timestamp_display": "27/03/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/bSqVmQVVY3eyLKC69",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037515758784151652#m",
+      "timestamp": "2026-03-27T13:03:06+00:00",
+      "timestamp_display": "27/03/2026 07:03 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Se informa a las personas usuarias que se restablece la circulación en ambos sentidos. Los manifestantes continúan replegados en la zona, por el momento sin afectar los carriles de rodamiento. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037587786987921690#m",
+      "timestamp": "2026-03-27T17:49:19+00:00",
+      "timestamp_display": "27/03/2026 11:49 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -439,19 +549,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Se informa a las personas usuarias que se restablece la circulación en ambos sentidos. Los manifestantes continúan replegados en la zona, por el momento sin afectar los carriles de rodamiento. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037587786987921690#m",
-      "timestamp": "2026-03-27T17:49:19+00:00",
-      "timestamp_display": "27/03/2026 11:49 CST",
-      "segment": null
-    },
-    {
       "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista Acatzingo - Cd. Mendoza, km 234, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (camioneta siniestrada).  En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -462,77 +559,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037579694527111415#m",
       "timestamp": "2026-03-27T17:17:10+00:00",
       "timestamp_display": "27/03/2026 11:17 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\n#AutMéxicoPuebla, km 32. Se informa a las personas usuarias que se retiran los manifestantes. Por lo que se restablece la circulación en la Plaza de Cobro Chalco. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.29266071913673,
-      "lng": -98.88681560619403,
-      "road": 150,
-      "km": 14,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037570240041672712#m",
-      "timestamp": "2026-03-27T16:39:36+00:00",
-      "timestamp_display": "27/03/2026 10:39 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, Plaza de Cobro Paso del Toro, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037568143514554431#m",
-      "timestamp": "2026-03-27T16:31:16+00:00",
-      "timestamp_display": "27/03/2026 10:31 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes. \n\n ➡️ Se recomienda a la ciudadanía tomar vías alternas como el Viaducto Elevado Tlalpan o la carretera libre federal. \n\nToma tus precauciones. Para más información, llama al 088 de @GN_Carreteras y 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037561947768422571#m",
-      "timestamp": "2026-03-27T16:06:39+00:00",
-      "timestamp_display": "27/03/2026 10:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037558132855976446#m",
-      "timestamp": "2026-03-27T15:51:29+00:00",
-      "timestamp_display": "27/03/2026 09:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 151, dirección Acatzingo. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 151,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037557696040259935#m",
-      "timestamp": "2026-03-27T15:49:45+00:00",
-      "timestamp_display": "27/03/2026 09:49 CST",
       "segment": null
     }
   ]
