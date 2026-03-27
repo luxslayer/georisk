@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-27T11:29:17.503773",
+  "last_update": "2026-03-27T12:06:12.313054",
   "incidents": [
     {
       "title": "#VíaLibre en #CDMX tras #AccidenteVial cerca del km 024+300, de la carretera México (Ent. Constituyentes) - La Marquesa. Maneje con precaución.",
@@ -277,6 +277,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nLibramiento de Villahermosa, km 20, dirección Frontera. Continúa reducción de carriles por atención de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 20,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037500972633579950#m",
+      "timestamp": "2026-03-27T12:04:21+00:00",
+      "timestamp_display": "27/03/2026 06:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠    \nAutopista La Tinaja - Isla, km 110, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 110,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037500490037039168#m",
+      "timestamp": "2026-03-27T12:02:26+00:00",
+      "timestamp_display": "27/03/2026 06:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 312, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 312,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037496895367442641#m",
+      "timestamp": "2026-03-27T11:48:09+00:00",
+      "timestamp_display": "27/03/2026 05:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 151, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura e incendio de pick up). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 151,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037493405513654332#m",
+      "timestamp": "2026-03-27T11:34:17+00:00",
+      "timestamp_display": "27/03/2026 05:34 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 22, dirección Acayucan. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 17.929166239714384,
@@ -465,48 +517,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠     \nLibramiento Noreste de Querétaro (Chichimequillas), km 35, dirección San Luis Potosí. Registra carga vehicular por atención de accidente fuera de la jurisdicción a cargo de CAPUFE. Unidades de CAPUFE, se encuentran realizando operativo de vialidad en el lugar. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.865486611492777,
-      "lng": -100.42461149582077,
-      "road": 57,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037428671271563739#m",
-      "timestamp": "2026-03-27T07:17:03+00:00",
-      "timestamp_display": "27/03/2026 01:17 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠 \nAutopista La Tinaja - Isla, km 110, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 110,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037422171329343624#m",
-      "timestamp": "2026-03-27T06:51:13+00:00",
-      "timestamp_display": "27/03/2026 00:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nLibramiento de Villahermosa, km 20, dirección Frontera. Continúa reducción de carriles por atención de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 20,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037421812028436983#m",
-      "timestamp": "2026-03-27T06:49:48+00:00",
-      "timestamp_display": "27/03/2026 00:49 CST",
-      "segment": null
     }
   ]
 }
