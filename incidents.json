@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-27T09:38:21.374961",
+  "last_update": "2026-03-27T10:32:24.134929",
   "incidents": [
     {
       "title": "#VíaLibre en #CDMX tras #AccidenteVial cerca del km 024+300, de la carretera México (Ent. Constituyentes) - La Marquesa. Maneje con precaución.",
@@ -277,6 +277,106 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acayucan - Cosoleacaque, km 22, dirección Acayucan. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Dirección Cosoleacaque, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.929166239714384,
+      "lng": -94.73363224060772,
+      "road": 145,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037475407612485645#m",
+      "timestamp": "2026-03-27T10:22:46+00:00",
+      "timestamp_display": "27/03/2026 04:22 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 312, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque lateral). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 312,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037473895935029469#m",
+      "timestamp": "2026-03-27T10:16:45+00:00",
+      "timestamp_display": "27/03/2026 04:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 22. Registra reducción de carriles en ambos sentidos, por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.929166239714384,
+      "lng": -94.73363224060772,
+      "road": 145,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037470825389908267#m",
+      "timestamp": "2026-03-27T10:04:33+00:00",
+      "timestamp_display": "27/03/2026 04:04 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Hermosillo - Magdalena, km 24, dirección Magdalena. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037467533725286844#m",
+      "timestamp": "2026-03-27T09:51:29+00:00",
+      "timestamp_display": "27/03/2026 03:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nLibramiento de Villahermosa, km 20, dirección Frontera. Continúa reducción de carriles por atención de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 20,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037466880542154881#m",
+      "timestamp": "2026-03-27T09:48:53+00:00",
+      "timestamp_display": "27/03/2026 03:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAut. Nuevo Teapa - Cosoleacaque, km 17, dirección Cosoleacaque. Continúa reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037466835142975578#m",
+      "timestamp": "2026-03-27T09:48:42+00:00",
+      "timestamp_display": "27/03/2026 03:48 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠   \nAutopista La Tinaja - Isla, km 110, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 110,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037466714665779622#m",
+      "timestamp": "2026-03-27T09:48:13+00:00",
+      "timestamp_display": "27/03/2026 03:48 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Noreste de Querétaro (Chichimequillas), km 35, dirección San Luis Potosí. El accidente fuera de la jurisdicción a cargo de CAPUFE ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 20.865486611492777,
@@ -404,132 +504,6 @@
       "timestamp": "2026-03-27T06:44:21+00:00",
       "timestamp_display": "27/03/2026 00:44 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 20, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037420232482886089#m",
-      "timestamp": "2026-03-27T06:43:31+00:00",
-      "timestamp_display": "27/03/2026 00:43 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 94, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037410690315555027#m",
-      "timestamp": "2026-03-27T06:05:36+00:00",
-      "timestamp_display": "27/03/2026 00:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 94, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037401537421496321#m",
-      "timestamp": "2026-03-27T05:29:14+00:00",
-      "timestamp_display": "26/03/2026 23:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 174, dirección Acapulco. Registra reducción de carriles por atención de accidente (choque contra muro central y volcadura de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 174,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037401120633487634#m",
-      "timestamp": "2026-03-27T05:27:34+00:00",
-      "timestamp_display": "26/03/2026 23:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 94, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y choque contra barreras metálicas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037397346028257580#m",
-      "timestamp": "2026-03-27T05:12:34+00:00",
-      "timestamp_display": "26/03/2026 23:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Hermosillo - Magdalena, km 24, dirección Magdalena. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037392705534181732#m",
-      "timestamp": "2026-03-27T04:54:08+00:00",
-      "timestamp_display": "26/03/2026 22:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento de Villahermosa, km 20, dirección Frontera. Continúa reducción de carriles por atención de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 20,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037390555299086823#m",
-      "timestamp": "2026-03-27T04:45:35+00:00",
-      "timestamp_display": "26/03/2026 22:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 17, dirección Cosoleacaque. Continúa reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037390312461529272#m",
-      "timestamp": "2026-03-27T04:44:38+00:00",
-      "timestamp_display": "26/03/2026 22:44 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 20, dirección Puebla. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037385078922162407#m",
-      "timestamp": "2026-03-27T04:23:50+00:00",
-      "timestamp_display": "26/03/2026 22:23 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
