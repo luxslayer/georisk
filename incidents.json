@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-27T07:41:40.662174",
+  "last_update": "2026-03-27T08:31:43.873255",
   "incidents": [
     {
       "title": "#VíaLibre en #CDMX tras #AccidenteVial cerca del km 024+300, de la carretera México (Ent. Constituyentes) - La Marquesa. Maneje con precaución.",
@@ -277,6 +277,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Hermosillo - Magdalena, km 24, dirección Magdalena. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada y labores de limpieza). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037438353763680724#m",
+      "timestamp": "2026-03-27T07:55:31+00:00",
+      "timestamp_display": "27/03/2026 01:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nLibramiento Cuernavaca, km 94, dirección Acapulco. Continúa cierre a la circulación en el Distribuidor vial Palmira por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 94,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037437311172980968#m",
+      "timestamp": "2026-03-27T07:51:23+00:00",
+      "timestamp_display": "27/03/2026 01:51 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 22, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.929166239714384,
@@ -500,32 +526,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037371764704006388#m",
       "timestamp": "2026-03-27T03:30:55+00:00",
       "timestamp_display": "26/03/2026 21:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠 \nAutopista La Tinaja - Isla, km 110, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 110,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037366615776296997#m",
-      "timestamp": "2026-03-27T03:10:28+00:00",
-      "timestamp_display": "26/03/2026 21:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037365333661512080#m",
-      "timestamp": "2026-03-27T03:05:22+00:00",
-      "timestamp_display": "26/03/2026 21:05 CST",
       "segment": null
     }
   ]
