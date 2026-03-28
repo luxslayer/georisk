@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-28T19:19:39.030774",
+  "last_update": "2026-03-28T19:52:39.792498",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 219+900, de la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 219.9,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2037980969529995452#m",
+      "timestamp": "2026-03-28T19:51:41+00:00",
+      "timestamp_display": "28/03/2026 13:51 CST",
+      "segment": null
+    },
     {
       "title": "R to @GN_Carreteras: Se les invita tomar las rutas alternas: \n1.-Desviación por el municipio de Altotonga.\n2.- Desviación por el municipio de Villa Aldama.",
       "type": "twitter",
@@ -249,19 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2037770439192170855#m",
       "timestamp": "2026-03-28T05:55:07+00:00",
       "timestamp_display": "27/03/2026 23:55 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 141+200, de la carretera Perote - Banderilla. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 141.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037758533261775135#m",
-      "timestamp": "2026-03-28T05:07:48+00:00",
-      "timestamp_display": "27/03/2026 23:07 CST",
       "segment": null
     },
     {
