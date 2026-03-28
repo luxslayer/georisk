@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-28T17:46:48.153060",
+  "last_update": "2026-03-28T18:42:26.728096",
   "incidents": [
     {
       "title": "R to @GN_Carreteras: Se les invita tomar las rutas alternas: \n1.-Desviación por el municipio de Altotonga.\n2.- Desviación por el municipio de Villa Aldama.",
@@ -265,6 +265,74 @@
       "segment": null
     },
     {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️\n#AutMéxicoQuerétaro, km 151, dirección CDMX. Incendio de pastizal afecta visibilidad. En la zona se registra carga vehicular. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 151,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037963269118324921#m",
+      "timestamp": "2026-03-28T18:41:21+00:00",
+      "timestamp_display": "28/03/2026 12:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Finalizan labores de mantenimiento, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037960493495644289#m",
+      "timestamp": "2026-03-28T18:30:19+00:00",
+      "timestamp_display": "28/03/2026 12:30 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 196, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 196,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037957934131331439#m",
+      "timestamp": "2026-03-28T18:20:09+00:00",
+      "timestamp_display": "28/03/2026 12:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 24, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2037953689239896545#m",
+      "timestamp": "2026-03-28T18:03:17+00:00",
+      "timestamp_display": "28/03/2026 12:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037950863642132736#m",
+      "timestamp": "2026-03-28T17:52:03+00:00",
+      "timestamp_display": "28/03/2026 11:52 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.013764470675966,
@@ -453,74 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037923861274964382#m",
       "timestamp": "2026-03-28T16:04:45+00:00",
       "timestamp_display": "28/03/2026 10:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037923628189151556#m",
-      "timestamp": "2026-03-28T16:03:50+00:00",
-      "timestamp_display": "28/03/2026 10:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🔋🚗 Si tu vehículo se quedó sin batería, mantén la calma.\nEn #CAPUFE te brindamos apoyo para que continúes tu camino con tranquilidad.\n📞 074 | @CAPUFE\n#EnCAPUFEEstamosParaServirte #SeguridadVial",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037922664103465270#m",
-      "timestamp": "2026-03-28T16:00:00+00:00",
-      "timestamp_display": "28/03/2026 10:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Se restablece la circulación con reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037921833417158666#m",
-      "timestamp": "2026-03-28T15:56:42+00:00",
-      "timestamp_display": "28/03/2026 09:56 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037916400941957548#m",
-      "timestamp": "2026-03-28T15:35:07+00:00",
-      "timestamp_display": "28/03/2026 09:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 151, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 151,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037915866671489111#m",
-      "timestamp": "2026-03-28T15:32:59+00:00",
-      "timestamp_display": "28/03/2026 09:32 CST",
       "segment": null
     }
   ]
