@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-28T07:14:52.181387",
+  "last_update": "2026-03-28T07:55:55.623525",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #Accidentevial cerca del km 005+500 de la carretera Irapuato - Zapotlanejo. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠    \nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037792283764871422#m",
+      "timestamp": "2026-03-28T07:21:55+00:00",
+      "timestamp_display": "28/03/2026 01:21 CST",
+      "segment": null
+    },
+    {
       "title": "🟠CARGA VEHICULAR🟠 \nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Continúa reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.013764470675966,
@@ -505,19 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037717068284358943#m",
       "timestamp": "2026-03-28T02:23:02+00:00",
       "timestamp_display": "27/03/2026 20:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠  \nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2037716183512674636#m",
-      "timestamp": "2026-03-28T02:19:31+00:00",
-      "timestamp_display": "27/03/2026 20:19 CST",
       "segment": null
     }
   ]
