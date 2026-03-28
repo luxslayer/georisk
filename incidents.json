@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-28T14:33:01.602333",
+  "last_update": "2026-03-28T15:04:09.912970",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #Accidentevial cerca del km 107+100 de la carretera Chihuahua-Cd. Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": 45,
+      "km": 107.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2037908322343420381#m",
+      "timestamp": "2026-03-28T15:03:01+00:00",
+      "timestamp_display": "28/03/2026 09:03 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #Accidentevial cerca del km 151+000 de la autopista Puebla -Córdoba. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre total de la circulación tras #Accidentevial cerca del km 044+600 de la carretera Zapotlanejo - El Desperdicio. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037904731029270585#m",
+      "timestamp": "2026-03-28T14:48:44+00:00",
+      "timestamp_display": "28/03/2026 08:48 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 44.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2037676172939596210#m",
-      "timestamp": "2026-03-27T23:40:32+00:00",
-      "timestamp_display": "27/03/2026 17:40 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037903472427672005#m",
+      "timestamp": "2026-03-28T14:43:44+00:00",
+      "timestamp_display": "28/03/2026 08:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2037900866833743993#m",
+      "timestamp": "2026-03-28T14:33:23+00:00",
+      "timestamp_display": "28/03/2026 08:33 CST",
       "segment": null
     },
     {
@@ -473,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2037865591051010526#m",
       "timestamp": "2026-03-28T12:13:13+00:00",
       "timestamp_display": "28/03/2026 06:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 151, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 151,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2037864502868267049#m",
-      "timestamp": "2026-03-28T12:08:53+00:00",
-      "timestamp_display": "28/03/2026 06:08 CST",
       "segment": null
     }
   ]
