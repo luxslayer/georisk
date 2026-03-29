@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-29T21:04:31.129575",
+  "last_update": "2026-03-29T21:46:46.501587",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #Accidentevial cerca del km 013+500, de la carretera Libramiento Guadalajara Sur. Atienda indicación vial.",
@@ -119,19 +119,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por abanderamiento y acompañamiento vial a carrera de ciclistas, cerca del km 004+000 de la carretera Fresnillo-Valparaíso. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 4.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2038303342862962819#m",
-      "timestamp": "2026-03-29T17:12:41+00:00",
-      "timestamp_display": "29/03/2026 11:12 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Con destino a la Gasolinera las Villitas Valparaíso.\nDisminuya su velocidad. GN_Carreteras monitorea y abandera el avance del contingente.",
       "type": "twitter",
       "lat": 23.5,
@@ -140,6 +127,19 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2038303345056571608#m",
+      "timestamp": "2026-03-29T17:12:41+00:00",
+      "timestamp_display": "29/03/2026 11:12 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por abanderamiento y acompañamiento vial a carrera de ciclistas, cerca del km 004+000 de la carretera Fresnillo-Valparaíso. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 4.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2038303342862962819#m",
       "timestamp": "2026-03-29T17:12:41+00:00",
       "timestamp_display": "29/03/2026 11:12 CST",
       "segment": null
@@ -259,6 +259,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2038272892425671109#m",
       "timestamp": "2026-03-29T15:11:41+00:00",
       "timestamp_display": "29/03/2026 09:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038368803420090810#m",
+      "timestamp": "2026-03-29T21:32:48+00:00",
+      "timestamp_display": "29/03/2026 15:32 CST",
       "segment": null
     },
     {
@@ -512,19 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038320163632648668#m",
       "timestamp": "2026-03-29T18:19:31+00:00",
       "timestamp_display": "29/03/2026 12:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Isla - Acayucan, registra #lluvia a la altura de la Plaza de Cobro Acayucan. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038318862169526628#m",
-      "timestamp": "2026-03-29T18:14:21+00:00",
-      "timestamp_display": "29/03/2026 12:14 CST",
       "segment": null
     }
   ]
