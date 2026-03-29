@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-29T20:34:47.848300",
+  "last_update": "2026-03-29T21:04:31.129575",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #Accidentevial cerca del km 013+500, de la carretera Libramiento Guadalajara Sur. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 13.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2038354766737084522#m",
+      "timestamp": "2026-03-29T20:37:01+00:00",
+      "timestamp_display": "29/03/2026 14:37 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #Accidentevial cerca del km 064+500, de la carretera Querétaro-Irapuato. Atienda indicación vial.",
       "type": "twitter",
@@ -106,19 +119,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Con destino a la Gasolinera las Villitas Valparaíso.\nDisminuya su velocidad. GN_Carreteras monitorea y abandera el avance del contingente.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2038303345056571608#m",
-      "timestamp": "2026-03-29T17:12:41+00:00",
-      "timestamp_display": "29/03/2026 11:12 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por abanderamiento y acompañamiento vial a carrera de ciclistas, cerca del km 004+000 de la carretera Fresnillo-Valparaíso. Atienda indicación vial.",
       "type": "twitter",
       "lat": 23.5,
@@ -127,6 +127,19 @@
       "km": 4.0,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2038303342862962819#m",
+      "timestamp": "2026-03-29T17:12:41+00:00",
+      "timestamp_display": "29/03/2026 11:12 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Con destino a la Gasolinera las Villitas Valparaíso.\nDisminuya su velocidad. GN_Carreteras monitorea y abandera el avance del contingente.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2038303345056571608#m",
       "timestamp": "2026-03-29T17:12:41+00:00",
       "timestamp_display": "29/03/2026 11:12 CST",
       "segment": null
@@ -249,16 +262,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 067+800, de la carretera Ent. La Tinaja-Veracruz. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puente de Ixtla - Iguala, km 18. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 67.8,
+      "km": 18,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2038255688707695022#m",
-      "timestamp": "2026-03-29T14:03:19+00:00",
-      "timestamp_display": "29/03/2026 08:03 CST",
+      "url": "https://nitter.net/CAPUFE/status/2038359231959580673#m",
+      "timestamp": "2026-03-29T20:54:46+00:00",
+      "timestamp_display": "29/03/2026 14:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 267, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 267,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038354745660780744#m",
+      "timestamp": "2026-03-29T20:36:56+00:00",
+      "timestamp_display": "29/03/2026 14:36 CST",
       "segment": null
     },
     {
@@ -499,32 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038318862169526628#m",
       "timestamp": "2026-03-29T18:14:21+00:00",
       "timestamp_display": "29/03/2026 12:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista La Tinaja - Isla, registra #lluvia a la altura de la Plaza de Cobro Cosamaloapan. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038318750311588107#m",
-      "timestamp": "2026-03-29T18:13:54+00:00",
-      "timestamp_display": "29/03/2026 12:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Durango - Mazatlán, registra #lluvia y #granizo a la altura de la Plaza de Cobro Coscomate. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038318684289015855#m",
-      "timestamp": "2026-03-29T18:13:39+00:00",
-      "timestamp_display": "29/03/2026 12:13 CST",
       "segment": null
     }
   ]
