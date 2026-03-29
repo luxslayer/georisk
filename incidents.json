@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-29T14:05:08.476656",
+  "last_update": "2026-03-29T14:53:23.244231",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 067+800, de la carretera Ent. La Tinaja-Veracruz. Atienda indicación vial.",
@@ -268,6 +268,22 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 67, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.887039172947606,
+      "lng": -96.34162937960562,
+      "road": 150,
+      "km": 67,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038257022051786907#m",
+      "timestamp": "2026-03-29T14:08:37+00:00",
+      "timestamp_display": "29/03/2026 08:08 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuacnopalan - Oaxaca, km 237, dirección Oaxaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 17.072,
@@ -281,7 +297,7 @@
       "segment": null
     },
     {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nPlanea tu salida y conduce con responsabilidad.\nTu mejor decisión es cuidar cada kilómetro del trayecto. 🚙\nSi necesitas auxilio vial, llama al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nPlanea tu salida y conduce con responsabilidad.\nTu mejor decisión es cuidar cada kilómetro del trayecto. 🚙\nSi necesitas auxilio vial, llama al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -525,22 +541,6 @@
       "timestamp": "2026-03-29T10:44:42+00:00",
       "timestamp_display": "29/03/2026 04:44 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 80, dirección Veracruz. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.982238307917118,
-      "lng": -96.27044692068596,
-      "road": 150,
-      "km": 80,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038192625514156180#m",
-      "timestamp": "2026-03-29T09:52:44+00:00",
-      "timestamp_display": "29/03/2026 03:52 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
