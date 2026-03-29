@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-29T06:44:25.811336",
+  "last_update": "2026-03-29T07:40:34.797501",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #Accidentevial cerca del km  309+000, de la carretera  Uruapan - Lzc, Ent. Autopista Pátzcuaro- Uruapan- Lzc. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 309.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2038151988773331317#m",
+      "timestamp": "2026-03-29T07:11:15+00:00",
+      "timestamp_display": "29/03/2026 01:11 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km  009+350, de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #Accidentevial cerca del km 093+000, de la carretera Durango-Villa Unión. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 17, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 93.0,
+      "km": 17,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2038018242283712983#m",
-      "timestamp": "2026-03-28T22:19:48+00:00",
-      "timestamp_display": "28/03/2026 16:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2038158379068084550#m",
+      "timestamp": "2026-03-29T07:36:39+00:00",
+      "timestamp_display": "29/03/2026 01:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 109, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 109,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038157586030022728#m",
+      "timestamp": "2026-03-29T07:33:30+00:00",
+      "timestamp_display": "29/03/2026 01:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 102, dirección Isla. Circulación intermitente por atención de accidente (maniobras para el retiro de la unidad siniestrada). Dirección La Tinaja, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 102,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038146301628432879#m",
+      "timestamp": "2026-03-29T06:48:39+00:00",
+      "timestamp_display": "29/03/2026 00:48 CST",
       "segment": null
     },
     {
@@ -495,48 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038092072477950168#m",
       "timestamp": "2026-03-29T03:13:10+00:00",
       "timestamp_display": "28/03/2026 21:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 18, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.01617240622241,
-      "lng": -94.4615822800037,
-      "road": 180,
-      "km": 18,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038091471182545127#m",
-      "timestamp": "2026-03-29T03:10:47+00:00",
-      "timestamp_display": "28/03/2026 21:10 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 49, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y automóvil). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038086579030302863#m",
-      "timestamp": "2026-03-29T02:51:20+00:00",
-      "timestamp_display": "28/03/2026 20:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de incidente (tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 166,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038085925129863512#m",
-      "timestamp": "2026-03-29T02:48:45+00:00",
-      "timestamp_display": "28/03/2026 20:48 CST",
       "segment": null
     }
   ]
