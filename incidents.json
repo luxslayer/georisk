@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-29T09:05:03.347036",
+  "last_update": "2026-03-29T09:53:52.964738",
   "incidents": [
     {
       "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de la circulación tras #Accidentevial cerca del km  164+500, de la carretera  2370 San Luis Potosí-Matehuala. Atienda indicación vial.",
@@ -268,6 +268,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 80, dirección Veracruz. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.982238307917118,
+      "lng": -96.27044692068596,
+      "road": 150,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038192625514156180#m",
+      "timestamp": "2026-03-29T09:52:44+00:00",
+      "timestamp_display": "29/03/2026 03:52 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Cd. Obregón - Guaymas, km 57, dirección Guaymas. Registra reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -524,19 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038112503952031789#m",
       "timestamp": "2026-03-29T04:34:21+00:00",
       "timestamp_display": "28/03/2026 22:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 166, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 166,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038112136379916429#m",
-      "timestamp": "2026-03-29T04:32:54+00:00",
-      "timestamp_display": "28/03/2026 22:32 CST",
       "segment": null
     }
   ]
