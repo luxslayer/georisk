@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-03-29T07:40:34.797501",
+  "last_update": "2026-03-29T08:22:19.125397",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra cierre parcial de la circulación tras #Accidentevial cerca del km  160+500, de la carretera  Tepic–Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.544407066754587,
+      "lng": -104.83919124659364,
+      "road": 15,
+      "km": 153.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2038169029584503091#m",
+      "timestamp": "2026-03-29T08:18:58+00:00",
+      "timestamp_display": "29/03/2026 02:18 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de la circulación tras #Accidentevial cerca del km  171+200, de la carretera  Saltillo-Torreón. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 171.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2038167916269457688#m",
+      "timestamp": "2026-03-29T08:14:33+00:00",
+      "timestamp_display": "29/03/2026 02:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #Accidentevial cerca del km  309+000, de la carretera  Uruapan - Lzc, Ent. Autopista Pátzcuaro- Uruapan- Lzc. Atienda indicación vial.",
       "type": "twitter",
@@ -236,35 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2038026127512424831#m",
       "timestamp": "2026-03-28T22:51:08+00:00",
       "timestamp_display": "28/03/2026 16:51 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 267+500, de la carretera Puebla-Córdoba. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.848659814736468,
-      "lng": -97.07171262226986,
-      "road": 150,
-      "km": 158.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2038022860866797726#m",
-      "timestamp": "2026-03-28T22:38:09+00:00",
-      "timestamp_display": "28/03/2026 16:38 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación tras #Accidentevial cerca del km 162+300, de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 162.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2038019098269958434#m",
-      "timestamp": "2026-03-28T22:23:12+00:00",
-      "timestamp_display": "28/03/2026 16:23 CST",
       "segment": null
     },
     {
