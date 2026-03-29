@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-29T19:47:06.563413",
+  "last_update": "2026-03-29T20:34:47.848300",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #Accidentevial cerca del km 064+500, de la carretera Querétaro-Irapuato. Atienda indicación vial.",
@@ -262,6 +262,87 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Registra carga vehicular en dir. Oaxaca, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038354182508351756#m",
+      "timestamp": "2026-03-29T20:34:42+00:00",
+      "timestamp_display": "29/03/2026 14:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038350929292837284#m",
+      "timestamp": "2026-03-29T20:21:46+00:00",
+      "timestamp_display": "29/03/2026 14:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038350579651477549#m",
+      "timestamp": "2026-03-29T20:20:23+00:00",
+      "timestamp_display": "29/03/2026 14:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en dirección Veracruz, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038350167439528412#m",
+      "timestamp": "2026-03-29T20:18:45+00:00",
+      "timestamp_display": "29/03/2026 14:18 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠     \nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038347342806487175#m",
+      "timestamp": "2026-03-29T20:07:31+00:00",
+      "timestamp_display": "29/03/2026 14:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puente de Ixtla - Iguala, km 18. Cierre a la circulación en ambos sentidos por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 18,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038344298903580820#m",
+      "timestamp": "2026-03-29T19:55:26+00:00",
+      "timestamp_display": "29/03/2026 13:55 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 189. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 17.072,
@@ -444,84 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038318684289015855#m",
       "timestamp": "2026-03-29T18:13:39+00:00",
       "timestamp_display": "29/03/2026 12:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 175, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 175,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038318235884417386#m",
-      "timestamp": "2026-03-29T18:11:52+00:00",
-      "timestamp_display": "29/03/2026 12:11 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAut. Barranca Larga - Ventanilla, km 48. Se informa a las personas usuarias que se restablece la circulación de manera intermitente para ambos sentidos. El personal se encuentra realizando las labores de limpieza en la zona. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 48,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038315970125803928#m",
-      "timestamp": "2026-03-29T18:02:52+00:00",
-      "timestamp_display": "29/03/2026 12:02 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 189. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención de desenganche y volcadura de remolque de tracto camión tipo pipa. En la zona se registra derrame de combustible.\n\nSe recomienda a la ciudadanía tomar las siguientes vías alternas:\n➡ Dir. Oaxaca, se desvía la circulación a carretera libre en el km 178 (Poblado de Nochixtlán).\n➡ Dir. Tehuacán, se cierra el tránsito vehicular desde la Plaza de Cobro Huitzo con desvío hacia carretera libre.\n\nLa carretera libre no es operada por CAPUFE. Para más información de las rutas alternas, por favor llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 189,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038315111656403338#m",
-      "timestamp": "2026-03-29T17:59:27+00:00",
-      "timestamp_display": "29/03/2026 11:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 87, dirección CDMX. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038311670678720803#m",
-      "timestamp": "2026-03-29T17:45:46+00:00",
-      "timestamp_display": "29/03/2026 11:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Puente de Ixtla - Iguala, km 51. Cierre a la circulación en ambos sentidos por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038311071795012030#m",
-      "timestamp": "2026-03-29T17:43:24+00:00",
-      "timestamp_display": "29/03/2026 11:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 175, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central y salida del camino de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 175,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038307723956150747#m",
-      "timestamp": "2026-03-29T17:30:05+00:00",
-      "timestamp_display": "29/03/2026 11:30 CST",
       "segment": null
     }
   ]
