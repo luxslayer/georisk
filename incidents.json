@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-03-30T10:18:23.472254",
+  "last_update": "2026-03-30T11:34:01.801281",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #Accidentevial cerca del km 095+600, de la carretera Durango-Torreón. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 95.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2038579090312024575#m",
+      "timestamp": "2026-03-30T11:28:24+00:00",
+      "timestamp_display": "30/03/2026 05:28 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #Accidentevial cerca del km 028+600, de la carretera Querétaro-León. Atienda indicación vial.",
       "type": "twitter",
@@ -267,17 +280,33 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continúa cierre parcial de la circulación por maniobras tras #Accidentevial cerca del km 239+800, de la carretera Tihuatlán-Tulancingo. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 243, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 239.8,
+      "km": 243,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2038404863449591847#m",
-      "timestamp": "2026-03-29T23:56:05+00:00",
-      "timestamp_display": "29/03/2026 17:56 CST",
+      "url": "https://nitter.net/CAPUFE/status/2038565926484717664#m",
+      "timestamp": "2026-03-30T10:36:06+00:00",
+      "timestamp_display": "30/03/2026 04:36 CST",
       "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Continúan cierres intermitentes por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.856496016994058,
+      "lng": -96.80857847858043,
+      "road": 150,
+      "km": 11,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038564383589007738#m",
+      "timestamp": "2026-03-30T10:29:58+00:00",
+      "timestamp_display": "30/03/2026 04:29 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️    \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
@@ -320,22 +349,6 @@
       "timestamp": "2026-03-30T08:10:30+00:00",
       "timestamp_display": "30/03/2026 02:10 CST",
       "segment": null
-    },
-    {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.849928157583257,
-      "lng": -96.79090997650425,
-      "road": 150,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038517982553346296#m",
-      "timestamp": "2026-03-30T07:25:35+00:00",
-      "timestamp_display": "30/03/2026 01:25 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     },
     {
       "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Continúa reducción de carriles por atención de accidente (choque de costado y salida del camino de tracto camión). Maneja con precaución.",
@@ -532,19 +545,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038464911324442727#m",
       "timestamp": "2026-03-30T03:54:42+00:00",
       "timestamp_display": "29/03/2026 21:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 34, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 34,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038461754309554589#m",
-      "timestamp": "2026-03-30T03:42:09+00:00",
-      "timestamp_display": "29/03/2026 21:42 CST",
       "segment": null
     }
   ]
