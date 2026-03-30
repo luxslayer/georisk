@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-03-30T07:01:34.971659",
+  "last_update": "2026-03-30T08:49:26.175222",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #Accidentevial cerca del km 011+200, de la carretera Córdoba-Entr. La Tinaja. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.85586569743333,
+      "lng": -96.8067987828722,
+      "road": 150,
+      "km": 11.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2038518453791801669#m",
+      "timestamp": "2026-03-30T07:27:27+00:00",
+      "timestamp_display": "30/03/2026 01:27 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Veracruz continúa cierre parcial de la circulación por maniobras tras #Accidentevial cerca del km 239+800, de la carretera Tihuatlán-Tulancingo. Atienda indicación vial.",
       "type": "twitter",
@@ -261,17 +277,49 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #Accidentevial cerca del km 020+500, de la carretera México (Ecatepec) Ent. Tizayuca. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Cierres intermitentes por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": 20.5,
+      "lat": 18.856496016994058,
+      "lng": -96.80857847858043,
+      "road": 150,
+      "km": 11,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2038399285343973774#m",
-      "timestamp": "2026-03-29T23:33:55+00:00",
-      "timestamp_display": "29/03/2026 17:33 CST",
+      "url": "https://nitter.net/CAPUFE/status/2038529882246807606#m",
+      "timestamp": "2026-03-30T08:12:52+00:00",
+      "timestamp_display": "30/03/2026 02:12 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 243, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 243,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038529286177448143#m",
+      "timestamp": "2026-03-30T08:10:30+00:00",
+      "timestamp_display": "30/03/2026 02:10 CST",
       "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.849928157583257,
+      "lng": -96.79090997650425,
+      "road": 150,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038517982553346296#m",
+      "timestamp": "2026-03-30T07:25:35+00:00",
+      "timestamp_display": "30/03/2026 01:25 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Continúa reducción de carriles por atención de accidente (choque de costado y salida del camino de tracto camión). Maneja con precaución.",
@@ -290,7 +338,7 @@
       ]
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de accidente. El personal se encuentra en la zona realizando las labores del trasvase de carga. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de accidente. El personal se encuentra en la zona realizando las labores del trasvase de carga. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.849928157583257,
       "lng": -96.79090997650425,
@@ -494,48 +542,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038460390166725098#m",
       "timestamp": "2026-03-30T03:36:44+00:00",
       "timestamp_display": "29/03/2026 21:36 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. En la zona se registra derrame de combustible. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.849928157583257,
-      "lng": -96.79090997650425,
-      "road": 150,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038456994265264257#m",
-      "timestamp": "2026-03-30T03:23:14+00:00",
-      "timestamp_display": "29/03/2026 21:23 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 46, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038452481533866005#m",
-      "timestamp": "2026-03-30T03:05:18+00:00",
-      "timestamp_display": "29/03/2026 21:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 67, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 67,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038446922122338379#m",
-      "timestamp": "2026-03-30T02:43:13+00:00",
-      "timestamp_display": "29/03/2026 20:43 CST",
       "segment": null
     }
   ]
