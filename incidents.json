@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-30T11:34:01.801281",
+  "last_update": "2026-03-30T12:41:05.933184",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Durango se registra cierre parcial de la circulación tras #Accidentevial cerca del km 095+600, de la carretera Durango-Torreón. Atienda indicación vial.",
@@ -280,6 +280,83 @@
       "segment": null
     },
     {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.  \nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que se registra cierre a la circulación por atención de accidente. El personal continúa realizando las maniobras de grúa para el retiro de la unidad siniestrada.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.849928157583257,
+      "lng": -96.79090997650425,
+      "road": 150,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038592131044868199#m",
+      "timestamp": "2026-03-30T12:20:13+00:00",
+      "timestamp_display": "30/03/2026 06:20 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.856496016994058,
+      "lng": -96.80857847858043,
+      "road": 150,
+      "km": 11,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038587288867741839#m",
+      "timestamp": "2026-03-30T12:00:59+00:00",
+      "timestamp_display": "30/03/2026 06:00 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 43, dirección Cuernavaca. Reducción de carriles por atención de incidente (autobús con ponchadura de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 43,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2038585304018243854#m",
+      "timestamp": "2026-03-30T11:53:06+00:00",
+      "timestamp_display": "30/03/2026 05:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Continúan cierres intermitentes por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.856496016994058,
+      "lng": -96.80857847858043,
+      "road": 150,
+      "km": 11,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038581092857381284#m",
+      "timestamp": "2026-03-30T11:36:22+00:00",
+      "timestamp_display": "30/03/2026 05:36 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que se registran cierres intermitentes por atención de accidente. El personal continúa realizando las maniobras de grúa para el retiro de la unidad siniestrada. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.849928157583257,
+      "lng": -96.79090997650425,
+      "road": 150,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2038580736907678077#m",
+      "timestamp": "2026-03-30T11:34:57+00:00",
+      "timestamp_display": "30/03/2026 05:34 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 243, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -490,61 +567,6 @@
       "url": "https://nitter.net/CAPUFE/status/2038477295359230091#m",
       "timestamp": "2026-03-30T04:43:54+00:00",
       "timestamp_display": "29/03/2026 22:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠      \nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en dirección Isla, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038476016134377516#m",
-      "timestamp": "2026-03-30T04:38:49+00:00",
-      "timestamp_display": "29/03/2026 22:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cd. Obregón - Guaymas, km 8, dirección Guaymas. Reducción de carriles por atención de choque por alcance y volcadura de automóviles particulares. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/TRLnzUhC41fowJGn8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 8,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038474027182735814#m",
-      "timestamp": "2026-03-30T04:30:55+00:00",
-      "timestamp_display": "29/03/2026 22:30 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Córdoba - Veracruz, km 13, dirección Veracruz. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra en la zona realizando las labores del trasvase de carga. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.849928157583257,
-      "lng": -96.79090997650425,
-      "road": 150,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2038467023873720458#m",
-      "timestamp": "2026-03-30T04:03:06+00:00",
-      "timestamp_display": "29/03/2026 22:03 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Chapalilla - Compostela, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2038464911324442727#m",
-      "timestamp": "2026-03-30T03:54:42+00:00",
-      "timestamp_display": "29/03/2026 21:54 CST",
       "segment": null
     }
   ]
