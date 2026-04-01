@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-01T22:50:29.813798",
+  "last_update": "2026-04-01T23:37:20.676734",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación tras #AccidenteVial cerca del km 033+000, de la carretera Aguascalientes - Zacatecas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.8841,
+      "lng": -102.2918,
+      "road": null,
+      "km": 33.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039486203251101919#m",
+      "timestamp": "2026-04-01T23:32:57+00:00",
+      "timestamp_display": "01/04/2026 17:32 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sonora se registra cierre total de circulación tras #AccidenteVial cerca del km 88+000, de la carretera Cananea - Ímuris. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 88.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039481270409818414#m",
+      "timestamp": "2026-04-01T23:13:21+00:00",
+      "timestamp_display": "01/04/2026 17:13 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación tras #AccidenteVial cerca del km 044+500, de la carretera Villahermosa -Ciudad del Carmen. Atienda indicación vial.",
       "type": "twitter",
@@ -245,29 +271,32 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Sonora #Hermosillo cierre parcial de circulación tras #AccidenteVial cerca del km 057+100, de la carretera Hermosillo-Yepachi. Atienda indicación vial.",
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista Córdoba - Veracruz, km 65, dirección Veracruz. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
       "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 57.1,
+      "lat": 18.871354604523432,
+      "lng": -96.35092860958024,
+      "road": 150,
+      "km": 65,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039227426690003279#m",
-      "timestamp": "2026-04-01T06:24:40+00:00",
-      "timestamp_display": "01/04/2026 00:24 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2039484842266493300#m",
+      "timestamp": "2026-04-01T23:27:32+00:00",
+      "timestamp_display": "01/04/2026 17:27 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
-      "title": "#TomePrecauciones Continúa en #Puebla #Huahuichinango cierre parcial de circulación por maniobras tras #AccidenteVial cerca del km 140+200, de la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 19, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 140.2,
+      "km": 19,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039225566167982318#m",
-      "timestamp": "2026-04-01T06:17:16+00:00",
-      "timestamp_display": "01/04/2026 00:17 CST",
+      "url": "https://nitter.net/CAPUFE/status/2039484351185047567#m",
+      "timestamp": "2026-04-01T23:25:35+00:00",
+      "timestamp_display": "01/04/2026 17:25 CST",
       "segment": null
     },
     {
@@ -352,45 +381,6 @@
       "segment": null
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 35, dirección Isla. Cierre a la circulación por atención de tracto camión siniestrado. En la zona se registra derrame de combustóleo. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/FVA9V6PL9Zuqr5Ss6",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 35,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039431067342356932#m",
-      "timestamp": "2026-04-01T19:53:51+00:00",
-      "timestamp_display": "01/04/2026 13:53 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación:\n\n🔘Km 35, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada).\n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión).   \n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). \n\nEn las zonas se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039403905692352712#m",
-      "timestamp": "2026-04-01T18:05:56+00:00",
-      "timestamp_display": "01/04/2026 12:05 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación:\n\n🔘Km 35, dirección Isla. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada).\n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión).   \n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039445203614924863#m",
-      "timestamp": "2026-04-01T20:50:02+00:00",
-      "timestamp_display": "01/04/2026 14:50 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación:\n\n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión).   \n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.7603,
@@ -414,6 +404,19 @@
       "url": "https://nitter.net/CAPUFE/status/2039445789420744832#m",
       "timestamp": "2026-04-01T20:52:21+00:00",
       "timestamp_display": "01/04/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación:\n\n🔘Km 35, dirección Isla. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada).\n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión).   \n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039445203614924863#m",
+      "timestamp": "2026-04-01T20:50:02+00:00",
+      "timestamp_display": "01/04/2026 14:50 CST",
       "segment": null
     },
     {
@@ -460,6 +463,19 @@
         "acayucan",
         "cosoleacaque"
       ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 35, dirección Isla. Cierre a la circulación por atención de tracto camión siniestrado. En la zona se registra derrame de combustóleo. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/FVA9V6PL9Zuqr5Ss6",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 35,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039431067342356932#m",
+      "timestamp": "2026-04-01T19:53:51+00:00",
+      "timestamp_display": "01/04/2026 13:53 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 54, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -524,32 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039419996120510596#m",
       "timestamp": "2026-04-01T19:09:52+00:00",
       "timestamp_display": "01/04/2026 13:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 54, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039415290572730498#m",
-      "timestamp": "2026-04-01T18:51:10+00:00",
-      "timestamp_display": "01/04/2026 12:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 219, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 219,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039412861303247327#m",
-      "timestamp": "2026-04-01T18:41:31+00:00",
-      "timestamp_display": "01/04/2026 12:41 CST",
       "segment": null
     }
   ]
