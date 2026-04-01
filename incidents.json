@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-01T19:32:26.762575",
+  "last_update": "2026-04-01T20:26:00.177230",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación tras #AccidenteVial en la carretera  Paso del toro - Acayucan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039435252372750400#m",
+      "timestamp": "2026-04-01T20:10:29+00:00",
+      "timestamp_display": "01/04/2026 14:10 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMex se registra presencia de personas cerca del km 043+000, de la carretera México - Querétaro. Atienda indicación vial.",
       "type": "twitter",
@@ -267,20 +280,17 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Puebla cierre parcial de circulación por maniobras tras #AccidenteVial cerca del km 163+000, de la carretera Puebla-Córdoba. Atienda indicación vial.",
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 35, dirección Isla. Cierre a la circulación por atención de tracto camión siniestrado. En la zona se registra derrame de combustóleo. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/FVA9V6PL9Zuqr5Ss6",
       "type": "twitter",
-      "lat": 18.991238798966023,
-      "lng": -97.8540837334998,
-      "road": 150,
-      "km": 54.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039217533501292669#m",
-      "timestamp": "2026-04-01T05:45:21+00:00",
-      "timestamp_display": "31/03/2026 23:45 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 35,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039431067342356932#m",
+      "timestamp": "2026-04-01T19:53:51+00:00",
+      "timestamp_display": "01/04/2026 13:53 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 54, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -514,19 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039392284806963297#m",
       "timestamp": "2026-04-01T17:19:45+00:00",
       "timestamp_display": "01/04/2026 11:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 219, dirección Acapulco. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 219,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039391548333564191#m",
-      "timestamp": "2026-04-01T17:16:49+00:00",
-      "timestamp_display": "01/04/2026 11:16 CST",
       "segment": null
     }
   ]
