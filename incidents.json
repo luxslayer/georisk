@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-01T17:28:50.962871",
+  "last_update": "2026-04-01T18:10:57.550807",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 035+900, de la carretera ent. La Tinaja - Cosoleacaque. Atienda indicación vial.",
@@ -283,6 +283,71 @@
       "segment": null
     },
     {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación:\n\n🔘Km 35, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada).\n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión).   \n🔘Km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). \n\nEn las zonas se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039403905692352712#m",
+      "timestamp": "2026-04-01T18:05:56+00:00",
+      "timestamp_display": "01/04/2026 12:05 CST",
+      "segment": null
+    },
+    {
+      "title": "Una falla puede ocurrir en cualquier momento, pero tu tranquilidad es lo más importante. 🚗\nEstamos para acompañarte y brindarte apoyo en el camino.\n📞 074 | X @CAPUFE\n*Aplica en tramos operados por el organismo.\n#EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039402417008288206#m",
+      "timestamp": "2026-04-01T18:00:01+00:00",
+      "timestamp_display": "01/04/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 110, dirección Navojoa. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 110,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039401832401739845#m",
+      "timestamp": "2026-04-01T17:57:41+00:00",
+      "timestamp_display": "01/04/2026 11:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 219, dirección Acapulco. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039401032636101067#m",
+      "timestamp": "2026-04-01T17:54:31+00:00",
+      "timestamp_display": "01/04/2026 11:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️   \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039400113399861607#m",
+      "timestamp": "2026-04-01T17:50:51+00:00",
+      "timestamp_display": "01/04/2026 11:50 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠       \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
       "lat": 19.0414,
@@ -335,19 +400,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039388185290010969#m",
       "timestamp": "2026-04-01T17:03:28+00:00",
       "timestamp_display": "01/04/2026 11:03 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista La Tinaja - Isla. Se registran diversos eventos que afectan la circulación:\n\n🔘Km 35, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión).\n🔘Km 36, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión).   \n🔘Km 36, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). \n\nEn las zonas se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039385329728180276#m",
-      "timestamp": "2026-04-01T16:52:07+00:00",
-      "timestamp_display": "01/04/2026 10:52 CST",
       "segment": null
     },
     {
@@ -465,71 +517,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039361472040436224#m",
       "timestamp": "2026-04-01T15:17:19+00:00",
       "timestamp_display": "01/04/2026 09:17 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 192, dirección Querétaro. Se informa a las personas usuarias que continúa el cierre a la circulación en la gaza de incorporación al Libramiento Noreste de Querétaro (Chichimequillas) por atención de accidente (maniobras para el retiro de las unidades siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 192,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039360477063438463#m",
-      "timestamp": "2026-04-01T15:13:21+00:00",
-      "timestamp_display": "01/04/2026 09:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 35, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de tracto camión) . Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039358819969462461#m",
-      "timestamp": "2026-04-01T15:06:46+00:00",
-      "timestamp_display": "01/04/2026 09:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 192, dirección Querétaro. Cierre a la circulación en la gaza de incorporación al Libramiento Noreste de Querétaro (Chichimequillas) por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones.  \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/V2hJEtgXn4YswDTW6",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 192,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039358043305968080#m",
-      "timestamp": "2026-04-01T15:03:41+00:00",
-      "timestamp_display": "01/04/2026 09:03 CST",
-      "segment": null
-    },
-    {
-      "title": "Un viaje seguro se construye desde el primer paso 🚗\nDescubre cómo llegar con bien a tu destino.\n@GobiernoMX @SICTmx\n#SeguridadVial #ViajaSeguro #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039357128578908358#m",
-      "timestamp": "2026-04-01T15:00:03+00:00",
-      "timestamp_display": "01/04/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️  \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039350366676938846#m",
-      "timestamp": "2026-04-01T14:33:11+00:00",
-      "timestamp_display": "01/04/2026 08:33 CST",
       "segment": null
     }
   ]
