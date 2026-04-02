@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-04-02T22:58:49.849645",
+  "last_update": "2026-04-02T23:44:10.009812",
   "incidents": [
+    {
+      "title": "R to @GN_Carreteras: Se invita a la población a tomar #RutaAlterna entrando por Trópico de Cáncer hacia el entronque conocido como laguna seca en dirección a el poblado Vanegas.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2039846953735889317#m",
+      "timestamp": "2026-04-02T23:26:26+00:00",
+      "timestamp_display": "02/04/2026 17:26 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí continúa cierre total de circulación por maniobras tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 39.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039846949696766245#m",
+      "timestamp": "2026-04-02T23:26:25+00:00",
+      "timestamp_display": "02/04/2026 17:26 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 084+600, de la carretera Carapan-Playa Azul, a la altura del Mpio. de la Loma, Mich. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 84.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039845674758332686#m",
+      "timestamp": "2026-04-02T23:21:22+00:00",
+      "timestamp_display": "02/04/2026 17:21 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Veracruz  tras #AccidenteVial cerca del km 046+500, de la carretera  Coatzacoalcos-Salina Cruz, a la altura del Mpio. Jáltipan. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 46.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039841005214597619#m",
+      "timestamp": "2026-04-02T23:02:48+00:00",
+      "timestamp_display": "02/04/2026 17:02 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 168+840, de la carretera Quiroga-Tepalcatepec (Nueva Italia), a la altura del Mpio. la Huacana, Mich. Atienda indicación vial.",
       "type": "twitter",
@@ -213,59 +265,30 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 127+300, de la carretera  San Hipólito-Xalapa, a la altura de Toxtlacuaya, Ver. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.3574,
-      "lng": -96.5341,
-      "road": 180,
-      "km": 127.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039775239140221330#m",
-      "timestamp": "2026-04-02T18:41:28+00:00",
-      "timestamp_display": "02/04/2026 12:41 CST",
-      "segment": null
-    },
-    {
-      "title": "Se invita a la población a tomar la #RutaAlterna Ingresando por el poblado conocido como Santiago, Entronque con el poblado Emiliano Zapata en dirección a Xoconoxtle.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2039770811217653785#m",
-      "timestamp": "2026-04-02T18:23:53+00:00",
-      "timestamp_display": "02/04/2026 12:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2039851409135276542#m",
+      "timestamp": "2026-04-02T23:44:09+00:00",
+      "timestamp_display": "02/04/2026 17:44 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre total de circulación tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Atienda indicación vial.",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 73, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 39.5,
+      "km": 73,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039770492765155778#m",
-      "timestamp": "2026-04-02T18:22:37+00:00",
-      "timestamp_display": "02/04/2026 12:22 CST",
+      "url": "https://nitter.net/CAPUFE/status/2039849202973376572#m",
+      "timestamp": "2026-04-02T23:35:23+00:00",
+      "timestamp_display": "02/04/2026 17:35 CST",
       "segment": null
-    },
-    {
-      "title": "#ViaLibre en #EdoMéx tras #AccidenteVial cerca del km 083+300, de la carretera México-Puebla. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.310110202136954,
-      "lng": -98.49761289106341,
-      "road": 150,
-      "km": 65.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039766791975543172#m",
-      "timestamp": "2026-04-02T18:07:54+00:00",
-      "timestamp_display": "02/04/2026 12:07 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠  \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
@@ -307,7 +330,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 73, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 73, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -486,45 +509,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039806719170171235#m",
       "timestamp": "2026-04-02T20:46:34+00:00",
       "timestamp_display": "02/04/2026 14:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 37, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039803632892174414#m",
-      "timestamp": "2026-04-02T20:34:18+00:00",
-      "timestamp_display": "02/04/2026 14:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96. Continúa carga vehicular en dirección Acapulco, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039798477849305490#m",
-      "timestamp": "2026-04-02T20:13:49+00:00",
-      "timestamp_display": "02/04/2026 14:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoCuernavaca, dirección Cuernavaca. Continúa carga vehicular intensa por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039798272454185010#m",
-      "timestamp": "2026-04-02T20:13:00+00:00",
-      "timestamp_display": "02/04/2026 14:13 CST",
       "segment": null
     }
   ]
