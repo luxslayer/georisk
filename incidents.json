@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-04-02T21:39:33.949727",
+  "last_update": "2026-04-02T22:17:55.293940",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco continúa cierre parcial de circulación por maniobras tras #AccidenteVial cerca del km 015+200, de la carretera Guadalajara-Tepic. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 15.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039823267607757204#m",
+      "timestamp": "2026-04-02T21:52:19+00:00",
+      "timestamp_display": "02/04/2026 15:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Yucatán se registra cierre parcial de circulación  tras #AccidenteVail cerca del km 180+700, de la carretera Kantunil-Pto. Juárez. a la altura del Poblado de Chechmil, Yuc. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 180.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039822499756618226#m",
+      "timestamp": "2026-04-02T21:49:16+00:00",
+      "timestamp_display": "02/04/2026 15:49 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Yucatán se registra cierre parcial de circulación  tras #AccidenteVail cerca del km 033+050 de la carretera  Mérida-Puerto Juárez. a la altura del Mpio. Holactun, Yuc. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 33.05,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039821289259499541#m",
+      "timestamp": "2026-04-02T21:44:28+00:00",
+      "timestamp_display": "02/04/2026 15:44 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación  tras #AccidenteVail cerca del km 154+500 de la carretera Cd. Valles-San Luis Potosí. a la altura del Mpio. Cd. Fernández, S.L.P. Atienda indicación vial.",
       "type": "twitter",
@@ -226,49 +265,43 @@
       "segment": null
     },
     {
-      "title": "Continúa en #EdoMéx cierre de circulación parcial tras #AccidenteVial cerca del km 042+600, de la carretera México-Puebla, a inmediaciones de la Caseta de San Marcos, Chalco Edo. Méx. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 294, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 19.31372888657174,
-      "lng": -98.79403606529691,
-      "road": 150,
-      "km": 24.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039760947577815170#m",
-      "timestamp": "2026-04-02T17:44:41+00:00",
-      "timestamp_display": "02/04/2026 11:44 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 294,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039826550086943084#m",
+      "timestamp": "2026-04-02T22:05:22+00:00",
+      "timestamp_display": "02/04/2026 16:05 CST",
+      "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Yucatán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 063+000, de la carretera Teya-Felipe Carrillo puerto, a la altura del Mpio. Chumayel, Yuc. Atienda indicación vial.",
+      "title": "Un viaje seguro se construye desde el primer paso 🚗\nDescubre cómo llegar con bien a tu destino.\n@GobiernoMX @SICTmx\n#SeguridadVial #ViajaSeguro #EnCAPUFEEstamosParaServirte",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 63.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039749746898702709#m",
-      "timestamp": "2026-04-02T17:00:11+00:00",
-      "timestamp_display": "02/04/2026 11:00 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039825204554219750#m",
+      "timestamp": "2026-04-02T22:00:01+00:00",
+      "timestamp_display": "02/04/2026 16:00 CST",
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Ruta alterna entrando por la carretera México-Puebla libre, en el km 63 por Río Frío, ambos sentidos.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cd. Mendoza - Córdoba, km 294, dirección Cd. Mendoza. El incidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.34770957348555,
-      "lng": -98.67220679413961,
-      "road": 150,
-      "km": 45,
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 294,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2039748717461344359#m",
-      "timestamp": "2026-04-02T16:56:05+00:00",
-      "timestamp_display": "02/04/2026 10:56 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2039821633590829519#m",
+      "timestamp": "2026-04-02T21:45:50+00:00",
+      "timestamp_display": "02/04/2026 15:45 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠   \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, por periodo vacacional. Maneja con precaución.",
@@ -489,45 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039792125991092672#m",
       "timestamp": "2026-04-02T19:48:34+00:00",
       "timestamp_display": "02/04/2026 13:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Continúa carga vehicular en dirección CDMX, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039786741108789284#m",
-      "timestamp": "2026-04-02T19:27:11+00:00",
-      "timestamp_display": "02/04/2026 13:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039786729867972983#m",
-      "timestamp": "2026-04-02T19:27:08+00:00",
-      "timestamp_display": "02/04/2026 13:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 294, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 294,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039785001688993916#m",
-      "timestamp": "2026-04-02T19:20:16+00:00",
-      "timestamp_display": "02/04/2026 13:20 CST",
       "segment": null
     }
   ]
