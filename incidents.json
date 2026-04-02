@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-02T08:07:10.523216",
+  "last_update": "2026-04-02T09:15:16.295364",
   "incidents": [
     {
       "title": "#ViaLibre en #Aguascalientes tras #AccidenteVial cerca del km 033+000, de la carretera Aguascalientes - Zacatecas. Maneje con precaución.",
@@ -265,6 +265,45 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039630889924124868#m",
+      "timestamp": "2026-04-02T09:07:53+00:00",
+      "timestamp_display": "02/04/2026 03:07 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. La Carbonera - Puerto México, km 232, dirección Puerto México. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039626291859562624#m",
+      "timestamp": "2026-04-02T08:49:37+00:00",
+      "timestamp_display": "02/04/2026 02:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Carbonera - Puerto México, Plaza de Cobro Los Chorros. Circulación intermitente en ambos sentidos por atención de incidencia. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039619395518152938#m",
+      "timestamp": "2026-04-02T08:22:12+00:00",
+      "timestamp_display": "02/04/2026 02:22 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Carbonera - Puerto México, Plaza de Cobro Los Chorros. La incidencia ha sido atendida, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 25.1685,
@@ -317,7 +356,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nEn la zona se registra carga vehicular intensa. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 98, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nEn la zona se registra carga vehicular intensa. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -470,32 +509,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039555940383351261#m",
       "timestamp": "2026-04-02T04:10:03+00:00",
       "timestamp_display": "01/04/2026 22:10 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039550642167980354#m",
-      "timestamp": "2026-04-02T03:49:00+00:00",
-      "timestamp_display": "01/04/2026 21:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️    \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039546517069914564#m",
-      "timestamp": "2026-04-02T03:32:37+00:00",
-      "timestamp_display": "01/04/2026 21:32 CST",
       "segment": null
     }
   ]
