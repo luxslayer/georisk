@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-03T05:50:05.603251",
+  "last_update": "2026-04-03T07:11:29.322167",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+800, de la carretera Libramiento Norte Ciudad de México, a la altura del poblado San Bartolo el Arenal. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 1.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039948011334185287#m",
+      "timestamp": "2026-04-03T06:08:00+00:00",
+      "timestamp_display": "03/04/2026 00:08 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 123+200, de la carretera Coatzacoalcos-Villahermosa, a la altura del Cárdenas, Tab. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 084+600, de la carretera Carapan-Playa Azul, a la altura del Mpio. de la Loma, Mich. Atienda indicación vial.",
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia y #neblina a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 84.6,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039957728865431788#m",
+      "timestamp": "2026-04-03T06:46:37+00:00",
+      "timestamp_display": "03/04/2026 00:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 297, dirección Córdoba. El accidente ha sido atendido. Se restablece la circulación en la gasa de salida hacia el poblado de Amatlán de los Reyes. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 297,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039845674758332686#m",
-      "timestamp": "2026-04-02T23:21:22+00:00",
-      "timestamp_display": "02/04/2026 17:21 CST",
+      "url": "https://nitter.net/CAPUFE/status/2039957395426664811#m",
+      "timestamp": "2026-04-03T06:45:18+00:00",
+      "timestamp_display": "03/04/2026 00:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 195, dirección Querétaro. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 195,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039952396860768324#m",
+      "timestamp": "2026-04-03T06:25:26+00:00",
+      "timestamp_display": "03/04/2026 00:25 CST",
       "segment": null
     },
     {
@@ -460,45 +499,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039888828400349389#m",
       "timestamp": "2026-04-03T02:12:50+00:00",
       "timestamp_display": "02/04/2026 20:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠   \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039887826016211041#m",
-      "timestamp": "2026-04-03T02:08:51+00:00",
-      "timestamp_display": "02/04/2026 20:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠   \nAutopista Cuernavaca - Acapulco, km 96. Continúa carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2039887730230915234#m",
-      "timestamp": "2026-04-03T02:08:28+00:00",
-      "timestamp_display": "02/04/2026 20:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 8, dirección Isla. Reducción de carriles por atención de accidente (salida del camino y choque contra barreras metálicas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 8,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039886197246304492#m",
-      "timestamp": "2026-04-03T02:02:23+00:00",
-      "timestamp_display": "02/04/2026 20:02 CST",
       "segment": null
     }
   ]
