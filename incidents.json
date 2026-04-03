@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-03T10:03:46.337816",
+  "last_update": "2026-04-03T11:03:44.039862",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+800, de la carretera Libramiento Norte Ciudad de México, a la altura del poblado San Bartolo el Arenal. Atienda indicación vial.",
@@ -54,19 +54,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se invita a la población a seguir transitando por la #RutaAlterna entrando por Trópico de Cáncer hacia el entronque conocido como laguna seca en dirección a el poblado Vanegas.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2039917448204366020#m",
-      "timestamp": "2026-04-03T04:06:34+00:00",
-      "timestamp_display": "02/04/2026 22:06 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #SanLuisPotosí continúa cierre total de circulación por maniobras tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Atienda indicación vial.",
       "type": "twitter",
       "lat": 22.15,
@@ -76,6 +63,19 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2039917434182787125#m",
       "timestamp": "2026-04-03T04:06:30+00:00",
+      "timestamp_display": "02/04/2026 22:06 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se invita a la población a seguir transitando por la #RutaAlterna entrando por Trópico de Cáncer hacia el entronque conocido como laguna seca en dirección a el poblado Vanegas.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2039917448204366020#m",
+      "timestamp": "2026-04-03T04:06:34+00:00",
       "timestamp_display": "02/04/2026 22:06 CST",
       "segment": null
     },
@@ -161,19 +161,6 @@
       ]
     },
     {
-      "title": "R to @GN_Carreteras: Se invita a la población a tomar la #RutaAlterna provisional de terracería a un costado del derrumbe donde se está dando paso a los dos sentidos de circulación.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2039865122949079200#m",
-      "timestamp": "2026-04-03T00:38:38+00:00",
-      "timestamp_display": "02/04/2026 18:38 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por deslave de talud, cerca del km 205+500 de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. San Pablo Huitzo. Atienda indicación vial.",
       "type": "twitter",
       "lat": 17.072,
@@ -182,6 +169,19 @@
       "km": 205.5,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2039865121044856905#m",
+      "timestamp": "2026-04-03T00:38:38+00:00",
+      "timestamp_display": "02/04/2026 18:38 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se invita a la población a tomar la #RutaAlterna provisional de terracería a un costado del derrumbe donde se está dando paso a los dos sentidos de circulación.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2039865122949079200#m",
       "timestamp": "2026-04-03T00:38:38+00:00",
       "timestamp_display": "02/04/2026 18:38 CST",
       "segment": null
@@ -242,6 +242,19 @@
       "segment": null
     },
     {
+      "title": "#TomePrecauciones en #SanLuisPotosí continúa cierre total de circulación por maniobras tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 39.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2039846949696766245#m",
+      "timestamp": "2026-04-02T23:26:25+00:00",
+      "timestamp_display": "02/04/2026 17:26 CST",
+      "segment": null
+    },
+    {
       "title": "R to @GN_Carreteras: Se invita a la población a tomar #RutaAlterna entrando por Trópico de Cáncer hacia el entronque conocido como laguna seca en dirección a el poblado Vanegas.",
       "type": "twitter",
       "lat": 23.5,
@@ -255,16 +268,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #SanLuisPotosí continúa cierre total de circulación por maniobras tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Lagos de Moreno - San Luis Potosí, km 16. Cierre a la circulación en ambos sentidos por atención de accidente (choque frontal e incendio de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 22.15,
       "lng": -100.98,
       "road": null,
-      "km": 39.5,
+      "km": 16,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039846949696766245#m",
-      "timestamp": "2026-04-02T23:26:25+00:00",
-      "timestamp_display": "02/04/2026 17:26 CST",
+      "url": "https://nitter.net/CAPUFE/status/2040013410922848668#m",
+      "timestamp": "2026-04-03T10:27:53+00:00",
+      "timestamp_display": "03/04/2026 04:27 CST",
       "segment": null
     },
     {
