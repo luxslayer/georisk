@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-03T21:57:20.160737",
+  "last_update": "2026-04-03T22:41:21.838879",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 015+800, de la carretera Paso del Toro-Acayucan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 15.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040190492877496695#m",
+      "timestamp": "2026-04-03T22:11:33+00:00",
+      "timestamp_display": "03/04/2026 16:11 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #BajaCaliforniaSur se registra cierre parcial de circulación por #AccidenteVial cerca del km 060+800, de la carretera San José del Cabo-La Paz. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,29 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #SanLuisPotosí  tras #AccidenteVial cerca del km 039+500, de la carretera Carbonera Ent. Morelos Saltillo, a la altura del Mpio. Vanegas, SLP. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 81, dirección La Tinaja. Reducción de carriles por atención de accidente (choque de costado entre tracto camión y camioneta). Maneja con precaución.",
       "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 39.5,
+      "km": 81,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039940541941514569#m",
-      "timestamp": "2026-04-03T05:38:20+00:00",
-      "timestamp_display": "02/04/2026 23:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2040194647805276437#m",
+      "timestamp": "2026-04-03T22:28:03+00:00",
+      "timestamp_display": "03/04/2026 16:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 230, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 230,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040192846813139447#m",
+      "timestamp": "2026-04-03T22:20:54+00:00",
+      "timestamp_display": "03/04/2026 16:20 CST",
       "segment": null
     },
     {
@@ -499,32 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040127194479919216#m",
       "timestamp": "2026-04-03T18:00:01+00:00",
       "timestamp_display": "03/04/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 1, dirección Isla. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040125737617780940#m",
-      "timestamp": "2026-04-03T17:54:14+00:00",
-      "timestamp_display": "03/04/2026 11:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 54, dirección Cuernavaca. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040121521440452995#m",
-      "timestamp": "2026-04-03T17:37:28+00:00",
-      "timestamp_display": "03/04/2026 11:37 CST",
       "segment": null
     }
   ]
