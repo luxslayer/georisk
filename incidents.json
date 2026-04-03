@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-03T07:11:29.322167",
+  "last_update": "2026-04-03T08:08:47.622946",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+800, de la carretera Libramiento Norte Ciudad de México, a la altura del poblado San Bartolo el Arenal. Atienda indicación vial.",
@@ -268,6 +268,45 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 8, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 8,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039971019130012082#m",
+      "timestamp": "2026-04-03T07:39:26+00:00",
+      "timestamp_display": "03/04/2026 01:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 195, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 195,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2039965325748269482#m",
+      "timestamp": "2026-04-03T07:16:49+00:00",
+      "timestamp_display": "03/04/2026 01:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista La Tinaja - Isla, km 8, dirección Isla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 8,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2039964358831169686#m",
+      "timestamp": "2026-04-03T07:12:58+00:00",
+      "timestamp_display": "03/04/2026 01:12 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia y #neblina a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.8885,
@@ -460,45 +499,6 @@
       "url": "https://nitter.net/CAPUFE/status/2039898149569941590#m",
       "timestamp": "2026-04-03T02:49:52+00:00",
       "timestamp_display": "02/04/2026 20:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 153, dirección Querétaro. Registra reducción de carriles por atención de accidente (choque contra barreras metálicas y salida del camino). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039893649106903361#m",
-      "timestamp": "2026-04-03T02:31:59+00:00",
-      "timestamp_display": "02/04/2026 20:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista La Tinaja - Isla, km 8, dirección Isla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 8,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039892454330020159#m",
-      "timestamp": "2026-04-03T02:27:15+00:00",
-      "timestamp_display": "02/04/2026 20:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Cd. Mendoza - Córdoba, km 297, dirección Córdoba. Continúa cierre a la circulación en la gasa de salida hacia el poblado de Amatlán de los Reyes, por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 297,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2039888828400349389#m",
-      "timestamp": "2026-04-03T02:12:50+00:00",
-      "timestamp_display": "02/04/2026 20:12 CST",
       "segment": null
     }
   ]
