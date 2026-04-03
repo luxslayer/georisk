@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-04-03T19:53:40.300075",
+  "last_update": "2026-04-03T20:38:16.517683",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 113+000, de la carretera México-Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": 95.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040156249400996258#m",
+      "timestamp": "2026-04-03T19:55:28+00:00",
+      "timestamp_display": "03/04/2026 13:55 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 046+500, de la carretera Oaxaca - Puerto Ángel, con dirección a Puerto Escondido, Oax. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +268,16 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 084+600, de la carretera Carapan-Playa Azul, a la altura del Mpio. de la Loma, Mich. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Acapulco, por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 84.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039905718204031111#m",
-      "timestamp": "2026-04-03T03:19:57+00:00",
-      "timestamp_display": "02/04/2026 21:19 CST",
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040163788406628746#m",
+      "timestamp": "2026-04-03T20:25:26+00:00",
+      "timestamp_display": "03/04/2026 14:25 CST",
       "segment": null
     },
     {
@@ -509,19 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040102803293573230#m",
       "timestamp": "2026-04-03T16:23:06+00:00",
       "timestamp_display": "03/04/2026 10:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Barranca Larga - Ventanilla, km 66. Circulación intermitente en ambos sentidos por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040100630845432206#m",
-      "timestamp": "2026-04-03T16:14:28+00:00",
-      "timestamp_display": "03/04/2026 10:14 CST",
       "segment": null
     }
   ]
