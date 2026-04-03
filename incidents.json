@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-03T21:17:28.742145",
+  "last_update": "2026-04-03T21:57:20.160737",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #BajaCaliforniaSur se registra cierre parcial de circulación por #AccidenteVial cerca del km 060+800, de la carretera San José del Cabo-La Paz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 60.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040183421721329748#m",
+      "timestamp": "2026-04-03T21:43:27+00:00",
+      "timestamp_display": "03/04/2026 15:43 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+400, de la carretera Querétaro - León. Atienda indicación vial.",
       "type": "twitter",
@@ -252,19 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2039940541941514569#m",
       "timestamp": "2026-04-03T05:38:20+00:00",
       "timestamp_display": "02/04/2026 23:38 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 216+100, de la carretera Maravatío-Zapotlanejo, a la altura del Mpio. Zinapécuaro, Mich. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": 15,
-      "km": 216.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2039930500861575550#m",
-      "timestamp": "2026-04-03T04:58:26+00:00",
-      "timestamp_display": "02/04/2026 22:58 CST",
       "segment": null
     },
     {
