@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-04-04T05:44:51.560887",
+  "last_update": "2026-04-04T06:42:21.031293",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 076+500, de la carretera Guadalajara-Tepic, con dirección a Guadalajara, Jal. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 76.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040316304477802714#m",
+      "timestamp": "2026-04-04T06:31:28+00:00",
+      "timestamp_display": "04/04/2026 00:31 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 170+300, de la carretera Etn. la Tinaja-Cosoleacaque. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 170.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040315886389604827#m",
+      "timestamp": "2026-04-04T06:29:49+00:00",
+      "timestamp_display": "04/04/2026 00:29 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 000+500, de la carretera La Chicharrona - Cuencamé. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 0.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040309716992045178#m",
+      "timestamp": "2026-04-04T06:05:18+00:00",
+      "timestamp_display": "04/04/2026 00:05 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 041+500, de la carretera Tampico-Cd. Mante. Atienda indicación vial.",
       "type": "twitter",
@@ -226,42 +265,32 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Oaxaca tras cierre parcial de circulación por #AccidenteVial cerca del km 046+500, de la carretera Oaxaca - Puerto Ángel, con dirección a Puerto Escondido, Oax. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 45, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 46.5,
+      "lat": 19.303147228264834,
+      "lng": -98.78112403820627,
+      "road": 150,
+      "km": 27,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2040227394548576665#m",
-      "timestamp": "2026-04-04T00:38:11+00:00",
-      "timestamp_display": "03/04/2026 18:38 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2040305755358736489#m",
+      "timestamp": "2026-04-04T05:49:33+00:00",
+      "timestamp_display": "03/04/2026 23:49 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 081+000, de la carretera Ent. La tinaja - Cosoleacaque. Atienda indicación vial.",
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Isla - Acayucan, km 170. Cierre a la circulación en ambos sentidos por atención de salida del camino e incendio de tracto camión tipo pipa que transporta combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/yhJjnCPFGJeFtyBC6",
       "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": 81.0,
+      "km": 170,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2040224773981000059#m",
-      "timestamp": "2026-04-04T00:27:46+00:00",
-      "timestamp_display": "03/04/2026 18:27 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Michoacán tras cierre total de circulación en ambos sentidos por #AccidenteVial cerca del km 032+000, de la carretera Pátzcuaro - Cuitzeo. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 32.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2040224003617374261#m",
-      "timestamp": "2026-04-04T00:24:42+00:00",
-      "timestamp_display": "03/04/2026 18:24 CST",
+      "url": "https://nitter.net/CAPUFE/status/2040304869966295132#m",
+      "timestamp": "2026-04-04T05:46:02+00:00",
+      "timestamp_display": "03/04/2026 23:46 CST",
       "segment": null
     },
     {
@@ -352,7 +381,7 @@
       ]
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación de manera normal. \n\nEl personal continúa con la atención del accidente, al momento sin afectación a los carriles de rodamiento. Sin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación de manera normal. \n\nEl personal continúa con la atención del accidente, al momento sin afectación a los carriles de rodamiento. Sin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -495,19 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040248519294869518#m",
       "timestamp": "2026-04-04T02:02:07+00:00",
       "timestamp_display": "03/04/2026 20:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Registra reducción de carriles por atención de accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 93,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040247694250160181#m",
-      "timestamp": "2026-04-04T01:58:50+00:00",
-      "timestamp_display": "03/04/2026 19:58 CST",
       "segment": null
     }
   ]
