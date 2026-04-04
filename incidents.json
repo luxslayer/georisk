@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T17:31:37.797908",
+  "last_update": "2026-04-04T18:02:19.866824",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+300, de la carretera Tierra Colorada - Cruz Grande. Atienda indicación vial.",
@@ -271,6 +271,19 @@
       "segment": null
     },
     {
+      "title": "Un viaje seguro se construye desde el primer paso 🚗\nDescubre cómo llegar con bien a tu destino.\n@GobiernoMX @SICTmx\n#SeguridadVial #ViajaSeguro #EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040489580076347648#m",
+      "timestamp": "2026-04-04T18:00:01+00:00",
+      "timestamp_display": "04/04/2026 12:00 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 77, dirección Navojoa. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -502,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040380691976691904#m",
       "timestamp": "2026-04-04T10:47:20+00:00",
       "timestamp_display": "04/04/2026 04:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. La Carbonera - Puerto México, km 206, dirección La Carbonera. Continúa cierre a la circulación por atención del accidente (maniobras para el retiro de unidad siniestrada).\n\n🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Los Chorros permanecerá cerrada en esa dirección.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040377667396968722#m",
-      "timestamp": "2026-04-04T10:35:18+00:00",
-      "timestamp_display": "04/04/2026 04:35 CST",
       "segment": null
     }
   ]
