@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T23:03:32.598062",
+  "last_update": "2026-04-04T23:46:27.158261",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Atienda indicación vial.",
@@ -271,6 +271,48 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoPuebla, registra #lluvia intensa a la altura de la Plaza de Cobro San Martín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040574941121101916#m",
+      "timestamp": "2026-04-04T23:39:12+00:00",
+      "timestamp_display": "04/04/2026 17:39 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96. Continúa carga vehicular en dirección Cuernavaca, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040574379256373435#m",
+      "timestamp": "2026-04-04T23:36:58+00:00",
+      "timestamp_display": "04/04/2026 17:36 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de la unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040566507256565771#m",
+      "timestamp": "2026-04-04T23:05:41+00:00",
+      "timestamp_display": "04/04/2026 17:05 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular en diversos puntos de la autopista, por periodo vacacional:\n\n🔘 Km 19, a la altura del Puente Chimalcoyotl.\n🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan.\n🔘 Km 31, a la altura del Poblado de Topilejo.\n🔘 Km 35, a la altura del Poblado de Totoapan.\n🔘 km 38, a la altura del Parador Parres.\n\nDisminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -284,7 +326,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa la reducción de carriles.\n\nEl personal se encuentra realizando las labores de trasvase de combustible.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa la reducción de carriles.\n\nEl personal se encuentra realizando las labores de trasvase de combustible.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.94,
       "lng": -94.91,
@@ -492,45 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040514183276773711#m",
       "timestamp": "2026-04-04T19:37:46+00:00",
       "timestamp_display": "04/04/2026 13:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 77, dirección Navojoa. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040513028874027248#m",
-      "timestamp": "2026-04-04T19:33:11+00:00",
-      "timestamp_display": "04/04/2026 13:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 36, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040510556977688983#m",
-      "timestamp": "2026-04-04T19:23:22+00:00",
-      "timestamp_display": "04/04/2026 13:23 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de tracto camión siniestrado.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 170,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040510144941830456#m",
-      "timestamp": "2026-04-04T19:21:44+00:00",
-      "timestamp_display": "04/04/2026 13:21 CST",
       "segment": null
     }
   ]
