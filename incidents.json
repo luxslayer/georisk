@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T09:55:15.364232",
+  "last_update": "2026-04-04T10:35:10.847570",
   "incidents": [
     {
       "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 004+500, de la carretera Atzalan-Tlapacoyan. Maneje con precaución.",
@@ -268,6 +268,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuernavaca - Acapulco, km 174, dirección Cuernavaca. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 174,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040371828430905517#m",
+      "timestamp": "2026-04-04T10:12:06+00:00",
+      "timestamp_display": "04/04/2026 04:12 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa reducción de carriles. El personal de CAPUFE se encuentra realizando las labores de atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040371090086596732#m",
+      "timestamp": "2026-04-04T10:09:10+00:00",
+      "timestamp_display": "04/04/2026 04:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuernavaca - Acapulco, km 261, dirección Cuernavaca. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 261,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040367884841476477#m",
+      "timestamp": "2026-04-04T09:56:26+00:00",
+      "timestamp_display": "04/04/2026 03:56 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. La Carbonera - Puerto México, km 206, dirección La Carbonera. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 25.1685,
@@ -320,7 +359,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. \n\nEl Personal de CAPUFE y Protección Civil, continúan realizando las labores de atención del accidente. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. \n\nEl Personal de CAPUFE y Protección Civil, continúan realizando las labores de atención del accidente. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.94,
       "lng": -94.91,
@@ -473,61 +512,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación de manera normal. \n\nEl personal continúa con la atención del accidente, al momento sin afectación a los carriles de rodamiento. Sin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 93,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040276292570898874#m",
-      "timestamp": "2026-04-04T03:52:29+00:00",
-      "timestamp_display": "03/04/2026 21:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 45, dirección CDMX. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.303147228264834,
-      "lng": -98.78112403820627,
-      "road": 150,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040273496157139309#m",
-      "timestamp": "2026-04-04T03:41:22+00:00",
-      "timestamp_display": "03/04/2026 21:41 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🌧️🌩️   CONDICIONES CLIMÁTICAS   🌧️🌩️  \nLibramiento Noreste de Querétaro (Chichimequillas), continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040265007439515746#m",
-      "timestamp": "2026-04-04T03:07:38+00:00",
-      "timestamp_display": "03/04/2026 21:07 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las labores correspondientes para la atención del accidente. En la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 93,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040260540073685368#m",
-      "timestamp": "2026-04-04T02:49:53+00:00",
-      "timestamp_display": "03/04/2026 20:49 CST",
-      "segment": null
     }
   ]
 }
