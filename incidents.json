@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T14:52:16.451808",
+  "last_update": "2026-04-04T15:33:34.262456",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+300, de la carretera Tierra Colorada - Cruz Grande. Atienda indicación vial.",
@@ -271,6 +271,58 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 35, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 35,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040451554612793718#m",
+      "timestamp": "2026-04-04T15:28:55+00:00",
+      "timestamp_display": "04/04/2026 09:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 77, dirección Navojoa. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 77,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040447050915979634#m",
+      "timestamp": "2026-04-04T15:11:01+00:00",
+      "timestamp_display": "04/04/2026 09:11 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 93,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040443938432008369#m",
+      "timestamp": "2026-04-04T14:58:39+00:00",
+      "timestamp_display": "04/04/2026 08:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 87, dirección CDMX. El accidente en carriles laterales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040442522770526377#m",
+      "timestamp": "2026-04-04T14:53:01+00:00",
+      "timestamp_display": "04/04/2026 08:53 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 35, dirección Cuernavaca. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -450,58 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040371090086596732#m",
       "timestamp": "2026-04-04T10:09:10+00:00",
       "timestamp_display": "04/04/2026 04:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuernavaca - Acapulco, km 261, dirección Cuernavaca. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 261,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040367884841476477#m",
-      "timestamp": "2026-04-04T09:56:26+00:00",
-      "timestamp_display": "04/04/2026 03:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. La Carbonera - Puerto México, km 206, dirección La Carbonera. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040367311291359636#m",
-      "timestamp": "2026-04-04T09:54:09+00:00",
-      "timestamp_display": "04/04/2026 03:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puente de Ixtla - Iguala, km 21. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040349812982473052#m",
-      "timestamp": "2026-04-04T08:44:37+00:00",
-      "timestamp_display": "04/04/2026 02:44 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 93,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040348259924005203#m",
-      "timestamp": "2026-04-04T08:38:27+00:00",
-      "timestamp_display": "04/04/2026 02:38 CST",
       "segment": null
     }
   ]
