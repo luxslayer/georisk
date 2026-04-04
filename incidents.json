@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T21:46:10.909062",
+  "last_update": "2026-04-04T22:31:29.619111",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Atienda indicación vial.",
@@ -271,6 +271,100 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 100, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 100,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040557342660456850#m",
+      "timestamp": "2026-04-04T22:29:16+00:00",
+      "timestamp_display": "04/04/2026 16:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoPuebla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040553086725312925#m",
+      "timestamp": "2026-04-04T22:12:22+00:00",
+      "timestamp_display": "04/04/2026 16:12 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040551435385848047#m",
+      "timestamp": "2026-04-04T22:05:48+00:00",
+      "timestamp_display": "04/04/2026 16:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🚗🛣️ ¿Tu vehículo sufrió daños por un objeto en el camino?\nEn autopistas operadas por #CAPUFE, el #SeguroDelUsuario puede apoyarte.*\n📩 Conoce más en: segurodelusuario@capufe.gob.mx\n📞 074 | @CAPUFE\n*Aplica conforme a las condiciones de la póliza vigente.\n#EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040549983317823714#m",
+      "timestamp": "2026-04-04T22:00:02+00:00",
+      "timestamp_display": "04/04/2026 16:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️    \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040549814782341386#m",
+      "timestamp": "2026-04-04T21:59:22+00:00",
+      "timestamp_display": "04/04/2026 15:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 100, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 100,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040549372308357378#m",
+      "timestamp": "2026-04-04T21:57:36+00:00",
+      "timestamp_display": "04/04/2026 15:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Estación Don - Navojoa, km 77, dirección Navojoa. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 77,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040547404873637967#m",
+      "timestamp": "2026-04-04T21:49:47+00:00",
+      "timestamp_display": "04/04/2026 15:49 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular en diversos puntos de la autopista, por periodo vacacional:\n\n🔘 Km 19, a la altura del Puente Chimalcoyotl.\n🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan.\n🔘 Km 31, a la altura del Poblado de Topilejo.\n🔘 Km 35, a la altura del Poblado de Totoapan.\n🔘 km 47, a la altura de los Arcos Morelos - Ciudad de México.\n\nDisminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -437,97 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040507511023755748#m",
       "timestamp": "2026-04-04T19:11:16+00:00",
       "timestamp_display": "04/04/2026 13:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 36, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040504503825215673#m",
-      "timestamp": "2026-04-04T18:59:19+00:00",
-      "timestamp_display": "04/04/2026 12:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040501863997476940#m",
-      "timestamp": "2026-04-04T18:48:49+00:00",
-      "timestamp_display": "04/04/2026 12:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040493187525988584#m",
-      "timestamp": "2026-04-04T18:14:21+00:00",
-      "timestamp_display": "04/04/2026 12:14 CST",
-      "segment": null
-    },
-    {
-      "title": "Un viaje seguro se construye desde el primer paso 🚗\nDescubre cómo llegar con bien a tu destino.\n@GobiernoMX @SICTmx\n#SeguridadVial #ViajaSeguro #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040489580076347648#m",
-      "timestamp": "2026-04-04T18:00:01+00:00",
-      "timestamp_display": "04/04/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 77, dirección Navojoa. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040479250680066412#m",
-      "timestamp": "2026-04-04T17:18:58+00:00",
-      "timestamp_display": "04/04/2026 11:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 0, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040472243025711524#m",
-      "timestamp": "2026-04-04T16:51:07+00:00",
-      "timestamp_display": "04/04/2026 10:51 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa reducción de carriles.\n\nEl personal se encuentra realizando las labores de trasvase de combustible.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 170,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040465024657817988#m",
-      "timestamp": "2026-04-04T16:22:26+00:00",
-      "timestamp_display": "04/04/2026 10:22 CST",
       "segment": null
     }
   ]
