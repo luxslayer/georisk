@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-04T21:04:30.887705",
+  "last_update": "2026-04-04T21:46:10.909062",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.34,
+      "lng": -98.05,
+      "road": null,
+      "km": 368.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040542867471425808#m",
+      "timestamp": "2026-04-04T21:31:45+00:00",
+      "timestamp_display": "04/04/2026 15:31 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial por falla mecánica, cerca del km 165+100, de la carretera Pachuca - Tuxpan. Atienda indicación vial.",
       "type": "twitter",
@@ -258,16 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 000+500, de la carretera La Chicharrona - Cuencamé. Atienda indicación vial.",
+      "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular en diversos puntos de la autopista, por periodo vacacional:\n\n🔘 Km 19, a la altura del Puente Chimalcoyotl.\n🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan.\n🔘 Km 31, a la altura del Poblado de Topilejo.\n🔘 Km 35, a la altura del Poblado de Totoapan.\n🔘 km 47, a la altura de los Arcos Morelos - Ciudad de México.\n\nDisminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 0.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2040309716992045178#m",
-      "timestamp": "2026-04-04T06:05:18+00:00",
-      "timestamp_display": "04/04/2026 00:05 CST",
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040545058659725352#m",
+      "timestamp": "2026-04-04T21:40:28+00:00",
+      "timestamp_display": "04/04/2026 15:40 CST",
       "segment": null
     },
     {
@@ -515,19 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040465024657817988#m",
       "timestamp": "2026-04-04T16:22:26+00:00",
       "timestamp_display": "04/04/2026 10:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 35, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 35,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040451554612793718#m",
-      "timestamp": "2026-04-04T15:28:55+00:00",
-      "timestamp_display": "04/04/2026 09:28 CST",
       "segment": null
     }
   ]
