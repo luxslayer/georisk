@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T11:43:52.888222",
+  "last_update": "2026-04-04T12:01:53.984227",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 007+500, de la carretera Puebla - Tlaxcala. Atienda indicación vial.",
@@ -336,6 +336,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 170. Cierre a la circulación en ambos sentidos por atención de accidente (incendio de tracto camión tipo pipa). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040302194864378327#m",
+      "timestamp": "2026-04-04T05:35:24+00:00",
+      "timestamp_display": "03/04/2026 23:35 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. \n\nEl Personal de CAPUFE y Protección Civil, continúan realizando las labores de atención del accidente. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040326518245654903#m",
+      "timestamp": "2026-04-04T07:12:04+00:00",
+      "timestamp_display": "04/04/2026 01:12 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuernavaca - Acapulco, km 261, dirección Cuernavaca. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -375,6 +401,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Registra reducción de carriles por atención de accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 93,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040247694250160181#m",
+      "timestamp": "2026-04-04T01:58:50+00:00",
+      "timestamp_display": "03/04/2026 19:58 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación de manera normal. \n\nEl personal continúa con la atención del accidente, al momento sin afectación a los carriles de rodamiento. Sin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 93,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040276292570898874#m",
+      "timestamp": "2026-04-04T03:52:29+00:00",
+      "timestamp_display": "03/04/2026 21:52 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -401,19 +453,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. \n\nEl Personal de CAPUFE y Protección Civil, continúan realizando las labores de atención del accidente. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 170,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040326518245654903#m",
-      "timestamp": "2026-04-04T07:12:04+00:00",
-      "timestamp_display": "04/04/2026 01:12 CST",
-      "segment": null
-    },
-    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puente de Ixtla - Iguala, km 21. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -424,19 +463,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040324772978917560#m",
       "timestamp": "2026-04-04T07:05:07+00:00",
       "timestamp_display": "04/04/2026 01:05 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAut. Isla - Acayucan, km 170, dirección Isla. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. \nPersonal de CAPUFE y Protección Civil, se encuentran realizando las labores de atención en la zona. \n \n🔘 Dirección Acayucan, se restablece la vialidad con carga vehicular.\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 170,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040320957403840641#m",
-      "timestamp": "2026-04-04T06:49:58+00:00",
-      "timestamp_display": "04/04/2026 00:49 CST",
       "segment": null
     },
     {
@@ -454,32 +480,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "R to @CAPUFE: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Isla - Acayucan, km 170. Cierre a la circulación en ambos sentidos por atención de salida del camino e incendio de tracto camión tipo pipa que transporta combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/yhJjnCPFGJeFtyBC6",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 170,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040304869966295132#m",
-      "timestamp": "2026-04-04T05:46:02+00:00",
-      "timestamp_display": "03/04/2026 23:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 170. Cierre a la circulación en ambos sentidos por atención de accidente (incendio de tracto camión tipo pipa). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 170,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040302194864378327#m",
-      "timestamp": "2026-04-04T05:35:24+00:00",
-      "timestamp_display": "03/04/2026 23:35 CST",
-      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 45, dirección CDMX. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
