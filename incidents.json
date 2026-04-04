@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T09:06:45.281416",
+  "last_update": "2026-04-04T09:55:15.364232",
   "incidents": [
     {
       "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 004+500, de la carretera Atzalan-Tlapacoyan. Maneje con precaución.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. La Carbonera - Puerto México, km 206, dirección La Carbonera. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 206,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040367311291359636#m",
+      "timestamp": "2026-04-04T09:54:09+00:00",
+      "timestamp_display": "04/04/2026 03:54 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puente de Ixtla - Iguala, km 21. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -514,19 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040260540073685368#m",
       "timestamp": "2026-04-04T02:49:53+00:00",
       "timestamp_display": "03/04/2026 20:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, continúa #lluvia del km 96 al 118. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040259485017477314#m",
-      "timestamp": "2026-04-04T02:45:42+00:00",
-      "timestamp_display": "03/04/2026 20:45 CST",
       "segment": null
     }
   ]
