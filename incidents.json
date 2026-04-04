@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-04-04T11:05:18.892608",
+  "last_update": "2026-04-04T11:43:52.888222",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 007+500, de la carretera Puebla - Tlaxcala. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 7.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040392997494284797#m",
+      "timestamp": "2026-04-04T11:36:13+00:00",
+      "timestamp_display": "04/04/2026 05:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+500, de la carretera México-Puebla, con dirección a Ciudad de México. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.349094179714648,
+      "lng": -98.61609164903057,
+      "road": 150,
+      "km": 51.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2040386807641022578#m",
+      "timestamp": "2026-04-04T11:11:38+00:00",
+      "timestamp_display": "04/04/2026 05:11 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 004+500, de la carretera Atzalan-Tlapacoyan. Maneje con precaución.",
       "type": "twitter",
@@ -242,29 +271,16 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Campeche tras cierre total de circulación por #AccidenteVial cerca del km 282+000, de la carretera Villahermosa-Fco. Escárcega, con dirección a Escárcega. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. La Carbonera - Puerto México, km 206, dirección La Carbonera. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Los Chorros. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 25.1685,
+      "lng": -100.7189,
       "road": null,
-      "km": 282.0,
+      "km": 206,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2040271967459185014#m",
-      "timestamp": "2026-04-04T03:35:18+00:00",
-      "timestamp_display": "03/04/2026 21:35 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Durango  se registra cierre parcial de circulación por #AccidenteVial cerca del km 273+200, de la carretera Zacatecas - Durango. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
-      "road": null,
-      "km": 273.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2040267356614570150#m",
-      "timestamp": "2026-04-04T03:16:58+00:00",
-      "timestamp_display": "03/04/2026 21:16 CST",
+      "url": "https://nitter.net/CAPUFE/status/2040387601895444612#m",
+      "timestamp": "2026-04-04T11:14:47+00:00",
+      "timestamp_display": "04/04/2026 05:14 CST",
       "segment": null
     },
     {
@@ -496,19 +512,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Querétaro - Irapuato, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040287323615621454#m",
-      "timestamp": "2026-04-04T04:36:19+00:00",
-      "timestamp_display": "03/04/2026 22:36 CST",
-      "segment": null
     }
   ]
 }
