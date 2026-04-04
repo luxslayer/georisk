@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T20:33:33.473669",
+  "last_update": "2026-04-04T21:04:30.887705",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial por falla mecánica, cerca del km 165+100, de la carretera Pachuca - Tuxpan. Atienda indicación vial.",
@@ -271,6 +271,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, dirección Cuernavaca. Continúa carga vehicular, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040533547866378243#m",
+      "timestamp": "2026-04-04T20:54:43+00:00",
+      "timestamp_display": "04/04/2026 14:54 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular en diversos puntos de la autopista, por periodo vacacional:\n\n🔘 Km 19, a la altura del Puente Chimalcoyotl.\n🔘 Km 24, a la altura de la incorporación al Viaducto Elevado Tlalpan.\n🔘 Km 31, a la altura del Poblado de Topilejo.\n🔘 km 47, a la altura de los Arcos Morelos - Ciudad de México.\n\nDisminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040529620936654987#m",
+      "timestamp": "2026-04-04T20:39:07+00:00",
+      "timestamp_display": "04/04/2026 14:39 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
@@ -502,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040451554612793718#m",
       "timestamp": "2026-04-04T15:28:55+00:00",
       "timestamp_display": "04/04/2026 09:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 77, dirección Navojoa. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040447050915979634#m",
-      "timestamp": "2026-04-04T15:11:01+00:00",
-      "timestamp_display": "04/04/2026 09:11 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 93,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040443938432008369#m",
-      "timestamp": "2026-04-04T14:58:39+00:00",
-      "timestamp_display": "04/04/2026 08:58 CST",
       "segment": null
     }
   ]
