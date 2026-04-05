@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-05T05:02:42.695911",
+  "last_update": "2026-04-05T06:20:08.671860",
   "incidents": [
     {
       "title": "#ViaLibre en #Oaxaca tras #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Maneje con precaución.",
@@ -271,6 +271,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 15, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 15,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040674212482851241#m",
+      "timestamp": "2026-04-05T06:13:40+00:00",
+      "timestamp_display": "05/04/2026 00:13 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 15, dirección Isla. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -489,19 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040594780359475229#m",
       "timestamp": "2026-04-05T00:58:02+00:00",
       "timestamp_display": "04/04/2026 18:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 242, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 242,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040589837338579289#m",
-      "timestamp": "2026-04-05T00:38:24+00:00",
-      "timestamp_display": "04/04/2026 18:38 CST",
       "segment": null
     }
   ]
