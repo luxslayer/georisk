@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-05T09:56:49.914048",
+  "last_update": "2026-04-05T10:40:37.679039",
   "incidents": [
     {
       "title": "#ViaLibre en #Oaxaca tras #AccidenteVial cerca del km 368+300, de la carretera Pinotepa Nacional -Salina Cruz. Maneje con precaución.",
@@ -214,6 +214,19 @@
         "mexico",
         "puebla"
       ]
+    },
+    {
+      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️     \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040732612893769930#m",
+      "timestamp": "2026-04-05T10:05:44+00:00",
+      "timestamp_display": "05/04/2026 04:05 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 41, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
@@ -447,19 +460,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040608853864087917#m",
       "timestamp": "2026-04-05T01:53:58+00:00",
       "timestamp_display": "04/04/2026 19:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular intensa, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040598918635876427#m",
-      "timestamp": "2026-04-05T01:14:29+00:00",
-      "timestamp_display": "04/04/2026 19:14 CST",
       "segment": null
     }
   ]
