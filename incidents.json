@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-05T16:54:10.126398",
+  "last_update": "2026-04-05T17:32:23.112498",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 013+200, de la carretera Libramiento Guaymas. Atienda indicación vial.",
@@ -103,6 +103,123 @@
       "url": "https://nitter.net/GN_Carreteras/status/2040502764569039295#m",
       "timestamp": "2026-04-04T18:52:24+00:00",
       "timestamp_display": "04/04/2026 12:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia ligera a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040843256469110953#m",
+      "timestamp": "2026-04-05T17:25:24+00:00",
+      "timestamp_display": "05/04/2026 11:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠   \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040842494720528686#m",
+      "timestamp": "2026-04-05T17:22:22+00:00",
+      "timestamp_display": "05/04/2026 11:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Suchixtlahuaca. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040841622112305655#m",
+      "timestamp": "2026-04-05T17:18:54+00:00",
+      "timestamp_display": "05/04/2026 11:18 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular intensa en diversos puntos de la autopista, por periodo vacacional:\n\n🔘 Km 31, a la altura del Poblado de Topilejo.\n🔘 Km 38, a la altura del Parador Parres.\n🔘 Km 53, a la altura del Poblado de Tres Marías.\n\nDisminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 31,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040841259322146887#m",
+      "timestamp": "2026-04-05T17:17:27+00:00",
+      "timestamp_display": "05/04/2026 11:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 58, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 58,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040839836970459246#m",
+      "timestamp": "2026-04-05T17:11:48+00:00",
+      "timestamp_display": "05/04/2026 11:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 58, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 58,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040838482738733566#m",
+      "timestamp": "2026-04-05T17:06:25+00:00",
+      "timestamp_display": "05/04/2026 11:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nLibramiento Guaymas, km 14, dirección Guaymas. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 14,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040837116389720165#m",
+      "timestamp": "2026-04-05T17:01:00+00:00",
+      "timestamp_display": "05/04/2026 11:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular intensa, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040836639736410468#m",
+      "timestamp": "2026-04-05T16:59:06+00:00",
+      "timestamp_display": "05/04/2026 10:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Cuernavaca, km 85, dirección CDMX. El accidente en carriles centrales ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 85,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2040836274831884513#m",
+      "timestamp": "2026-04-05T16:57:39+00:00",
+      "timestamp_display": "05/04/2026 10:57 CST",
       "segment": null
     },
     {
@@ -234,116 +351,6 @@
       "timestamp": "2026-04-05T14:07:18+00:00",
       "timestamp_display": "05/04/2026 08:07 CST",
       "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir con tranquilidad también es parte de un buen viaje.\nDisminuir la velocidad ayuda a cuidar de ti y de quienes te acompañan. 🚙💛\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040791567162843260#m",
-      "timestamp": "2026-04-05T14:00:00+00:00",
-      "timestamp_display": "05/04/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Guaymas, km 14, dirección Guaymas. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 14,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040790251929571345#m",
-      "timestamp": "2026-04-05T13:54:46+00:00",
-      "timestamp_display": "05/04/2026 07:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️\nAut. Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040788583183724615#m",
-      "timestamp": "2026-04-05T13:48:08+00:00",
-      "timestamp_display": "05/04/2026 07:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧\nPor trabajos de montaje de postes, placas y perfiles de acero en los km 20 y 21, se implementarán desvíos temporales.\nTome sus precauciones.",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040785223848194096#m",
-      "timestamp": "2026-04-05T13:34:47+00:00",
-      "timestamp_display": "05/04/2026 07:34 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 179, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (volcadura de vagoneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 179,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040784953718329685#m",
-      "timestamp": "2026-04-05T13:33:43+00:00",
-      "timestamp_display": "05/04/2026 07:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️     \nAut. Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040774444616946149#m",
-      "timestamp": "2026-04-05T12:51:58+00:00",
-      "timestamp_display": "05/04/2026 06:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Guaymas, km 14, dirección Guaymas. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 14,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040769711831400487#m",
-      "timestamp": "2026-04-05T12:33:09+00:00",
-      "timestamp_display": "05/04/2026 06:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 20, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.343235826548554,
-      "lng": -98.97877086320197,
-      "road": 150,
-      "km": 2,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040763508401246282#m",
-      "timestamp": "2026-04-05T12:08:30+00:00",
-      "timestamp_display": "05/04/2026 06:08 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
