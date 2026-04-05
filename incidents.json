@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-05T18:02:48.266413",
+  "last_update": "2026-04-05T19:03:50.629642",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por deslave de Talud cerca del km 030 + 200, de la carretera Linares - ent. San Roberto. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.122,
+      "lng": -101.68,
+      "road": null,
+      "km": 30,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2040856022739198280#m",
+      "timestamp": "2026-04-05T18:16:07+00:00",
+      "timestamp_display": "05/04/2026 12:16 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra presencia de personas cerca del km 141+223, de la carretera Cuacnopalan - Oaxaca, a la altura de la caseta de cobro No. 78 Suchixtlahuaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 141.223,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2040853370445938732#m",
+      "timestamp": "2026-04-05T18:05:35+00:00",
+      "timestamp_display": "05/04/2026 12:05 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 013+200, de la carretera Libramiento Guaymas. Atienda indicación vial.",
       "type": "twitter",
@@ -93,16 +119,87 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial por falla mecánica, cerca del km 165+100, de la carretera Pachuca - Tuxpan. Atienda indicación vial.",
+      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️\nLibramiento Oriente de Saltillo, continúa #neblina. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.575699999999998,
-      "lng": -98.46815000000001,
-      "road": 130,
-      "km": 165.1,
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040861368878846218#m",
+      "timestamp": "2026-04-05T18:37:22+00:00",
+      "timestamp_display": "05/04/2026 12:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 58, dirección Tijuana. Reducción de carriles por atención de accidente (incendio de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 58,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2040502764569039295#m",
-      "timestamp": "2026-04-04T18:52:24+00:00",
-      "timestamp_display": "04/04/2026 12:52 CST",
+      "url": "https://nitter.net/CAPUFE/status/2040861165652181105#m",
+      "timestamp": "2026-04-05T18:36:33+00:00",
+      "timestamp_display": "05/04/2026 12:36 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nLibramiento Oriente de Saltillo, km 11, dirección Monterrey. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión, autobús y vehículos particulares.\n\nPor seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/SEKZ5jJgxrz3i2tB9",
+      "type": "twitter",
+      "lat": 25.4586852,
+      "lng": -101.0608546,
+      "road": 40,
+      "km": 0,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040859759323021413#m",
+      "timestamp": "2026-04-05T18:30:58+00:00",
+      "timestamp_display": "05/04/2026 12:30 CST",
+      "segment": [
+        "saltillo",
+        "monterrey"
+      ]
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular intensa del km 44 al 72, por periodo vacacional. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 44,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040857768609857918#m",
+      "timestamp": "2026-04-05T18:23:03+00:00",
+      "timestamp_display": "05/04/2026 12:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️   \nAutopista Córdoba - Veracruz, registra #lluvia a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040855774772052445#m",
+      "timestamp": "2026-04-05T18:15:08+00:00",
+      "timestamp_display": "05/04/2026 12:15 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠  \nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular intensa, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2040855110687789182#m",
+      "timestamp": "2026-04-05T18:12:30+00:00",
+      "timestamp_display": "05/04/2026 12:12 CST",
       "segment": null
     },
     {
@@ -285,84 +382,6 @@
       "url": "https://nitter.net/CAPUFE/status/2040821768592544022#m",
       "timestamp": "2026-04-05T16:00:00+00:00",
       "timestamp_display": "05/04/2026 10:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular intensa, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040816449850048798#m",
-      "timestamp": "2026-04-05T15:38:52+00:00",
-      "timestamp_display": "05/04/2026 09:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Suchixtlahuaca. Reducción de carriles en ambos sentidos por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040813231275401551#m",
-      "timestamp": "2026-04-05T15:26:05+00:00",
-      "timestamp_display": "05/04/2026 09:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 85, dirección CDMX. Cierre a la circulación en carriles centrales por atención de accidente (choque contra muro central). Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 85,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040808417653145934#m",
-      "timestamp": "2026-04-05T15:06:57+00:00",
-      "timestamp_display": "05/04/2026 09:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 58, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 58,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2040803402037289004#m",
-      "timestamp": "2026-04-05T14:47:01+00:00",
-      "timestamp_display": "05/04/2026 08:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040801441183371448#m",
-      "timestamp": "2026-04-05T14:39:14+00:00",
-      "timestamp_display": "05/04/2026 08:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2040800995614040223#m",
-      "timestamp": "2026-04-05T14:37:28+00:00",
-      "timestamp_display": "05/04/2026 08:37 CST",
       "segment": null
     }
   ]
