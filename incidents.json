@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-06T11:13:22.946127",
+  "last_update": "2026-04-06T12:00:21.617429",
   "incidents": [
     {
       "title": "#ViaLibre en #Cuernavaca tras #AccidenteVial, cerca del km 064+000 de la carretera Libre México - Cuernavaca. Maneje con precaución.",
@@ -161,6 +161,61 @@
       "url": "https://nitter.net/GN_Carreteras/status/2040774308239216956#m",
       "timestamp": "2026-04-05T12:51:25+00:00",
       "timestamp_display": "05/04/2026 06:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 78, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 78,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041123581002744308#m",
+      "timestamp": "2026-04-06T11:59:18+00:00",
+      "timestamp_display": "06/04/2026 05:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠      \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2041123255432483220#m",
+      "timestamp": "2026-04-06T11:58:00+00:00",
+      "timestamp_display": "06/04/2026 05:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠   \n#AutMéxicoPuebla, Plaza de Cobro San Marcos. Carga vehicular en dirección Puebla, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2041122976150544564#m",
+      "timestamp": "2026-04-06T11:56:54+00:00",
+      "timestamp_display": "06/04/2026 05:56 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Puebla - Acatzingo, km 140, dirección Puebla. Continúa reducción de carriles por atención de accidente (persona atropellada). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 140,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041120071934779696#m",
+      "timestamp": "2026-04-06T11:45:21+00:00",
+      "timestamp_display": "06/04/2026 05:45 CST",
       "segment": null
     },
     {
@@ -375,58 +430,6 @@
       "url": "https://nitter.net/CAPUFE/status/2041054612745023491#m",
       "timestamp": "2026-04-06T07:25:15+00:00",
       "timestamp_display": "06/04/2026 01:25 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️   \n#AutMéxicoCuernavaca, dirección CDMX. Continúa carga vehicular, por periodo vacacional. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041045579434733614#m",
-      "timestamp": "2026-04-06T06:49:21+00:00",
-      "timestamp_display": "06/04/2026 00:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Gtz. Zamora - Tihuatlán, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041043671445844119#m",
-      "timestamp": "2026-04-06T06:41:46+00:00",
-      "timestamp_display": "06/04/2026 00:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041041926355374343#m",
-      "timestamp": "2026-04-06T06:34:50+00:00",
-      "timestamp_display": "06/04/2026 00:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS  🌧️ 🌩️   \nLibramiento Oriente de Saltillo, continúa #neblina. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041040972121883008#m",
-      "timestamp": "2026-04-06T06:31:03+00:00",
-      "timestamp_display": "06/04/2026 00:31 CST",
       "segment": null
     }
   ]
