@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-07T09:09:45.051960",
+  "last_update": "2026-04-07T10:16:43.267789",
   "incidents": [
+    {
+      "title": "En #Michoacán continúa cierre de circulación en ambos sentidos por presencia de personas, cerca del km 134+300, en la carretera Maravatío-Contepec, a la altura de la caseta de cobro \"Contepec\". Sin ruta alterna. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 19.9,
+      "lng": -100.45,
+      "road": null,
+      "km": 134.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2041446191322341797#m",
+      "timestamp": "2026-04-07T09:21:14+00:00",
+      "timestamp_display": "07/04/2026 03:21 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación tras #AccidenteVial cerca del km 089+300, de la carretera Zapotlanejo-El Desperdicio, a la altura del Mpio. de la Soledad, Jal. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,42 @@
       ]
     },
     {
-      "title": "#ViaLibre en #Tamaulipas tras presencia de personas, cerca del km 200+500, en la carretera Cd. Victoria-Matamoros. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 288, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance y volcadura). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 288,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041449352074293253#m",
+      "timestamp": "2026-04-07T09:33:48+00:00",
+      "timestamp_display": "07/04/2026 03:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos, por presencia de manifestantes. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 200.5,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2041292130325254455#m",
-      "timestamp": "2026-04-06T23:09:03+00:00",
-      "timestamp_display": "06/04/2026 17:09 CST",
+      "url": "https://nitter.net/CAPUFE/status/2041444416666141029#m",
+      "timestamp": "2026-04-07T09:14:11+00:00",
+      "timestamp_display": "07/04/2026 03:14 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 33,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041443841819975835#m",
+      "timestamp": "2026-04-07T09:11:54+00:00",
+      "timestamp_display": "07/04/2026 03:11 CST",
       "segment": null
     },
     {
@@ -495,45 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2041323306444292335#m",
       "timestamp": "2026-04-07T01:12:56+00:00",
       "timestamp_display": "06/04/2026 19:12 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 205. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 205,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2041319516894802383#m",
-      "timestamp": "2026-04-07T00:57:53+00:00",
-      "timestamp_display": "06/04/2026 18:57 CST",
-      "segment": null
-    },
-    {
-      "title": "Un viaje seguro se construye desde el primer paso 🚗\nDescubre cómo llegar con bien a tu destino.\n@GobiernoMX @SICTmx\n#SeguridadVial #ViajaSeguro #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041304951847260603#m",
-      "timestamp": "2026-04-07T00:00:00+00:00",
-      "timestamp_display": "06/04/2026 18:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041304880363561466#m",
-      "timestamp": "2026-04-06T23:59:43+00:00",
-      "timestamp_display": "06/04/2026 17:59 CST",
       "segment": null
     }
   ]
