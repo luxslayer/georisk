@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-07T07:56:37.032832",
+  "last_update": "2026-04-07T09:09:45.051960",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación tras #AccidenteVial cerca del km 089+300, de la carretera Zapotlanejo-El Desperdicio, a la altura del Mpio. de la Soledad, Jal. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 33,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041425755834290361#m",
+      "timestamp": "2026-04-07T08:00:02+00:00",
+      "timestamp_display": "07/04/2026 02:00 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️   \nAutopista Acatzingo - Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -521,19 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2041304880363561466#m",
       "timestamp": "2026-04-06T23:59:43+00:00",
       "timestamp_display": "06/04/2026 17:59 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles por presencia de manifestantes en ambas direcciones. Maneja con precaución. Para más información, llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041302579917758867#m",
-      "timestamp": "2026-04-06T23:50:35+00:00",
-      "timestamp_display": "06/04/2026 17:50 CST",
       "segment": null
     }
   ]
