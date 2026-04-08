@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-08T15:56:23.465423",
+  "last_update": "2026-04-08T17:08:38.058461",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas, cerca del Km 058+000 de la carretera Tihuatlán Alazan - Canoas. Se orienta a la ciudadanía #rutaalterna autopista Tuxpan - Tampico, carretera Interestatal San Sebastián-Naranjos.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 58.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2041925955300495467#m",
+      "timestamp": "2026-04-08T17:07:39+00:00",
+      "timestamp_display": "08/04/2026 11:07 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de la circulación por #AccidenteVial cerca del Km 099+000 de la autopista Monterrey - Nvo. Laredo. Atienda indicación vial.",
       "type": "twitter",
@@ -255,20 +268,72 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial, cerca del km 263+300, en la autopista Puebla - Córdoba. Atienda indicación Vial.",
+      "title": "🟠  CARGA VEHICULAR  🟠\nAutopista Córdoba - Veracruz, Plaza de Cobro Paso del Toro, dirección Veracruz. Registra carga vehicular, por atención de incidencia. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.830195537074598,
-      "lng": -97.10353164523417,
+      "lat": 19.02,
+      "lng": -96.13,
       "road": 150,
-      "km": 154.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2041655962205917384#m",
-      "timestamp": "2026-04-07T23:14:48+00:00",
-      "timestamp_display": "07/04/2026 17:14 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2041921595439022226#m",
+      "timestamp": "2026-04-08T16:50:20+00:00",
+      "timestamp_display": "08/04/2026 10:50 CST",
       "segment": [
-        "puebla",
-        "cordoba"
+        "cordoba",
+        "veracruz"
       ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Querétaro - Irapuato, km 0, dirección Querétaro. Continúa reducción de carriles por atención de accidente (labores de limpieza). Dir. Irapuato, se restablece la circulación de manera normal. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041918444732285039#m",
+      "timestamp": "2026-04-08T16:37:48+00:00",
+      "timestamp_display": "08/04/2026 10:37 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos por atención del accidente.\n\nEl personal se encuentra realizando las labores de limpieza en la zona. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041917584241545615#m",
+      "timestamp": "2026-04-08T16:34:23+00:00",
+      "timestamp_display": "08/04/2026 10:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 215, dirección Acapulco. Continúa reducción de carriles por atención de accidente (labores de impieza). Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 215,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041917079029235763#m",
+      "timestamp": "2026-04-08T16:32:23+00:00",
+      "timestamp_display": "08/04/2026 10:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 265,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2041913331590574412#m",
+      "timestamp": "2026-04-08T16:17:29+00:00",
+      "timestamp_display": "08/04/2026 10:17 CST",
+      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Cosoleacaque, km 145, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -437,87 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2041885665890123914#m",
       "timestamp": "2026-04-08T14:27:33+00:00",
       "timestamp_display": "08/04/2026 08:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Rancho Viejo - Taxco, km 8. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/bSjHwBDbkuRjtspC8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 8,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041883963501818083#m",
-      "timestamp": "2026-04-08T14:20:47+00:00",
-      "timestamp_display": "08/04/2026 08:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 41, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.78488248852856,
-      "lng": -96.53597064194156,
-      "road": 150,
-      "km": 41,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041876959781687570#m",
-      "timestamp": "2026-04-08T13:52:58+00:00",
-      "timestamp_display": "08/04/2026 07:52 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 215, dirección Acapulco. Reducción de carriles por atención de accidente (tracto camión siniestrado). Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 215,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2041872575257551145#m",
-      "timestamp": "2026-04-08T13:35:32+00:00",
-      "timestamp_display": "08/04/2026 07:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Cosoleacaque, km 145, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 145,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041865821878640969#m",
-      "timestamp": "2026-04-08T13:08:42+00:00",
-      "timestamp_display": "08/04/2026 07:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Querétaro - Irapuato, km 0, dirección Querétaro. Reducción de carriles por atención de accidente (volcadura de tracto camión y caída de carga). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2041863948039860387#m",
-      "timestamp": "2026-04-08T13:01:15+00:00",
-      "timestamp_display": "08/04/2026 07:01 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAut. Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041863349319716909#m",
-      "timestamp": "2026-04-08T12:58:53+00:00",
-      "timestamp_display": "08/04/2026 06:58 CST",
       "segment": null
     }
   ]
