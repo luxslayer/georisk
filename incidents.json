@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-08T21:30:23.688739",
+  "last_update": "2026-04-08T22:24:32.602675",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Tamaulipas tras #AccidenteVial cerca del Km 091+011 de la carretera Hidalgo - Cd. Victoria. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 91.011,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042002179267911791#m",
+      "timestamp": "2026-04-08T22:10:32+00:00",
+      "timestamp_display": "08/04/2026 16:10 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sinaloa continúa el cierre parcial de circulación por presencia de personas cerca de la caseta de cobro \"El Pisal\" en la carretera Los Mochis – Culiacán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2041998677359698094#m",
+      "timestamp": "2026-04-08T21:56:37+00:00",
+      "timestamp_display": "08/04/2026 15:56 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por presencia de personas, cerca del km 305+600, de la carretera Cd. Victoria-Matamoros, con dirección a Cd. Victoria Tamps. Atienda indicación Vial.",
       "type": "twitter",
@@ -239,29 +265,55 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacan se registra cierre total de circulación por presencia de personas, cerca del Km 00+095 de la carretera Zacapu - Zamora. Atienda indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 72. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 72,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042003806838202707#m",
+      "timestamp": "2026-04-08T22:17:00+00:00",
+      "timestamp_display": "08/04/2026 16:17 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️ \n#AutMéxicoQuerétaro, del km 33 al 38, dirección CDMX. Registra carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\nPara más información de carretera libre, llama al 088 de \n@GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 33,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2041997542213165346#m",
+      "timestamp": "2026-04-08T21:52:07+00:00",
+      "timestamp_display": "08/04/2026 15:52 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️ \nAutopista Chamapa - Lechería, Plaza de Cobro Lechería. Continúa carga vehicular en ambos sentidos, por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\nPara información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 0.095,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2041854369574855089#m",
-      "timestamp": "2026-04-08T12:23:12+00:00",
-      "timestamp_display": "08/04/2026 06:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2041995877368103102#m",
+      "timestamp": "2026-04-08T21:45:30+00:00",
+      "timestamp_display": "08/04/2026 15:45 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 228+200, de la autopista Tulancingo - Tihuatlán. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Estación Don - Navojoa, km 136, dirección Estación Don. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 228.2,
+      "km": 136,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2041853321367916998#m",
-      "timestamp": "2026-04-08T12:19:02+00:00",
-      "timestamp_display": "08/04/2026 06:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2041995164382626247#m",
+      "timestamp": "2026-04-08T21:42:40+00:00",
+      "timestamp_display": "08/04/2026 15:42 CST",
       "segment": null
     },
     {
@@ -458,64 +510,6 @@
       "timestamp": "2026-04-08T18:45:54+00:00",
       "timestamp_display": "08/04/2026 12:45 CST",
       "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2041949765533946090#m",
-      "timestamp": "2026-04-08T18:42:16+00:00",
-      "timestamp_display": "08/04/2026 12:42 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nEn la zona se registra carga vehicular intensa.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 265,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2041946837297336427#m",
-      "timestamp": "2026-04-08T18:30:38+00:00",
-      "timestamp_display": "08/04/2026 12:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, Plaza de Cobro Paso del Toro, dirección Veracruz. La incidencia ha sido atendida. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041941580102209968#m",
-      "timestamp": "2026-04-08T18:09:44+00:00",
-      "timestamp_display": "08/04/2026 12:09 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ \nAutopista Córdoba - Veracruz, registra #lluvia ligera a la altura de la Plaza de Cobro Paso del Toro. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2041938358264275138#m",
-      "timestamp": "2026-04-08T17:56:56+00:00",
-      "timestamp_display": "08/04/2026 11:56 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
