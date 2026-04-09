@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-09T09:40:50.402443",
+  "last_update": "2026-04-09T10:46:34.754269",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+450, de la carretera Ent. La Tinaja - Cosoleacaque. Atienda indicación Vial.",
@@ -274,6 +274,77 @@
       ]
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 170. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre tracto camiones). \n\n🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Ocozocoautla permanecerá cerrada en dirección Las Choapas.  \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042189467495080352#m",
+      "timestamp": "2026-04-09T10:34:45+00:00",
+      "timestamp_display": "09/04/2026 04:34 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 196,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042186951927673178#m",
+      "timestamp": "2026-04-09T10:24:45+00:00",
+      "timestamp_display": "09/04/2026 04:24 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que continúa la circulación en contraflujo por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En el lugar se registra derrame de combustible. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 196,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042181808486252666#m",
+      "timestamp": "2026-04-09T10:04:19+00:00",
+      "timestamp_display": "09/04/2026 04:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 90, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.2777077896781,
+      "lng": -98.44381692139521,
+      "road": 150,
+      "km": 72,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042176798079750365#m",
+      "timestamp": "2026-04-09T09:44:25+00:00",
+      "timestamp_display": "09/04/2026 03:44 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 17, dirección Acayucan. Se restablece la circulación de manera intermitente por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.926270796488406,
+      "lng": -94.7806339914285,
+      "road": 145,
+      "km": 17,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042176665485238438#m",
+      "timestamp": "2026-04-09T09:43:53+00:00",
+      "timestamp_display": "09/04/2026 03:43 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️         \nAut. Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -371,7 +442,7 @@
       ]
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que restablece la circulación en contraflujo por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que restablece la circulación en contraflujo por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -478,74 +549,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042112284810457380#m",
       "timestamp": "2026-04-09T05:28:03+00:00",
       "timestamp_display": "08/04/2026 23:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠       \nAut. Querétaro - Irapuato, km 0, dirección Querétaro. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042104508893798781#m",
-      "timestamp": "2026-04-09T04:57:10+00:00",
-      "timestamp_display": "08/04/2026 22:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 135. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 135,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042101804641534346#m",
-      "timestamp": "2026-04-09T04:46:25+00:00",
-      "timestamp_display": "08/04/2026 22:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Córdoba - Veracruz, registra #lluvia a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042093260991054045#m",
-      "timestamp": "2026-04-09T04:12:28+00:00",
-      "timestamp_display": "08/04/2026 22:12 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️   \nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042092597665997215#m",
-      "timestamp": "2026-04-09T04:09:50+00:00",
-      "timestamp_display": "08/04/2026 22:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista Gtz. Zamora - Tihuatlán, continúa #lluvia a la altura de la Plaza de Cobro Totomoxtle. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042091643579277446#m",
-      "timestamp": "2026-04-09T04:06:02+00:00",
-      "timestamp_display": "08/04/2026 22:06 CST",
       "segment": null
     }
   ]
