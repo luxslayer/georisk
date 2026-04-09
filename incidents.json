@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-04-09T06:24:40.712401",
+  "last_update": "2026-04-09T08:02:32.307482",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+450, de la carretera Ent. La Tinaja - Cosoleacaque. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 17.45,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042145429853245885#m",
+      "timestamp": "2026-04-09T07:39:46+00:00",
+      "timestamp_display": "09/04/2026 01:39 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 192+400, de la carretera Hermosillo -Nogales. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 192.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042143042707001540#m",
+      "timestamp": "2026-04-09T07:30:17+00:00",
+      "timestamp_display": "09/04/2026 01:30 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 265+000, de la carretera Puebla-Córdoba, con dirección a Veracruz. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.832552641067153,
+      "lng": -97.08775465734848,
+      "road": 150,
+      "km": 156.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042142453071786465#m",
+      "timestamp": "2026-04-09T07:27:56+00:00",
+      "timestamp_display": "09/04/2026 01:27 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+500, de la carretera Pátzcuaro-Uruapan, con dirección a Pátzcuaro, Mich. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 3.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042141938631995426#m",
+      "timestamp": "2026-04-09T07:25:53+00:00",
+      "timestamp_display": "09/04/2026 01:25 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Guanajuato tras #AccidenteVial cerca del km 101+850, de la carretera Morelia - Salamanca, con dirección a Salamanca, Gto. Maneje con precaución.",
       "type": "twitter",
@@ -219,56 +274,49 @@
       ]
     },
     {
-      "title": "En #Veracruz continúa cierre total de circulación por presencia de personas, cerca del km 058+000, de la carretera Tihuatlán Alazan - Canoas. \nSe proporciona vialidad por la autopista Tuxpan - Tampico y la carretera Interestatal San Sebastián-Naranjos.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 90, dirección Puebla. Continúa reducción de carriles por atención de accidente (reacomodo de muros). Dirección CDMX, se restablece la circulación de manera normal. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 58.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042034002471612887#m",
-      "timestamp": "2026-04-09T00:17:00+00:00",
-      "timestamp_display": "08/04/2026 18:17 CST",
-      "segment": null
+      "lat": 19.2777077896781,
+      "lng": -98.44381692139521,
+      "road": 150,
+      "km": 72,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042144196002230371#m",
+      "timestamp": "2026-04-09T07:34:52+00:00",
+      "timestamp_display": "09/04/2026 01:34 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
-      "title": "#VíaLibre en #Michoacan tras presencia de personas, cerca del Km 00+095 de la carretera Zacapu - Zamora. Maneje con precaución.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Magdalena - Nogales, km 196. Se informa a las personas usuarias que restablece la circulación en contraflujo por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 0.095,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042033131016819092#m",
-      "timestamp": "2026-04-09T00:13:32+00:00",
-      "timestamp_display": "08/04/2026 18:13 CST",
+      "km": 196,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042142304756957486#m",
+      "timestamp": "2026-04-09T07:27:21+00:00",
+      "timestamp_display": "09/04/2026 01:27 CST",
       "segment": null
     },
     {
-      "title": "En #Veracruz continúa cierre total de circulación por presencia de personas, cerca del km 048+300, de la carretera Tuxpan- Tampico.\nSe proporciona vialidad por la Carretera interestatal San Sebastián-Naranjos. Atienda indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 90. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central y volcadura de automóvil). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 48.3,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042028791229198463#m",
-      "timestamp": "2026-04-08T23:56:17+00:00",
-      "timestamp_display": "08/04/2026 17:56 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Guerrero tras presencia de personas, cerca del km 219+900, de la carretera Libramiento a Tixtla. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 219.9,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042027262388707562#m",
-      "timestamp": "2026-04-08T23:50:13+00:00",
-      "timestamp_display": "08/04/2026 17:50 CST",
-      "segment": null
+      "lat": 19.2777077896781,
+      "lng": -98.44381692139521,
+      "road": 150,
+      "km": 72,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042140350823682231#m",
+      "timestamp": "2026-04-09T07:19:35+00:00",
+      "timestamp_display": "09/04/2026 01:19 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoPuebla, registra #lluvia a la altura de la Plaza de Cobro San Martín. Disminuye tu velocidad y maneja con precaución.",
@@ -313,7 +361,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Magdalena - Nogales, km 196, dirección Magdalena. Cierre a la circulación por atención de salida del camino y volcadura de tracto camión. En la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/ano48SNQXdPW3fFR7",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Magdalena - Nogales, km 196, dirección Magdalena. Cierre a la circulación por atención de salida del camino y volcadura de tracto camión. En la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/ano48SNQXdPW3fFR7",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -495,45 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042073824754057251#m",
       "timestamp": "2026-04-09T02:55:14+00:00",
       "timestamp_display": "08/04/2026 20:55 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️ \n#AutMéxicoQuerétaro, del km 33 al 38, dirección CDMX. Continúa carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\nPara más información de carretera libre, llama al 088 de \n@GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 33,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042073016297726205#m",
-      "timestamp": "2026-04-09T02:52:01+00:00",
-      "timestamp_display": "08/04/2026 20:52 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación.\n\nEn la zona se registra carga vehicular intensa.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 265,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042069971182788833#m",
-      "timestamp": "2026-04-09T02:39:55+00:00",
-      "timestamp_display": "08/04/2026 20:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, del km 4 al 17, dirección Lechería. Continúa carga vehicular intensa por atención de accidente fuera de la cobertura de CAPUFE. Para más información por favor llama al 5513281236 y *2236 de @Circuito_mx o al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 4,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042068855099408776#m",
-      "timestamp": "2026-04-09T02:35:29+00:00",
-      "timestamp_display": "08/04/2026 20:35 CST",
       "segment": null
     }
   ]
