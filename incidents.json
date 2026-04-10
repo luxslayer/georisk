@@ -1,8 +1,47 @@
 {
-  "last_update": "2026-04-10T12:35:24.378170",
+  "last_update": "2026-04-10T14:03:56.314560",
   "incidents": [
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Dirección Isla, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 45, dirección Irapuato. Reducción de carriles por atención de accidente (choque de tracto camión contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 45,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042600892243783941#m",
+      "timestamp": "2026-04-10T13:49:37+00:00",
+      "timestamp_display": "10/04/2026 07:49 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042600381939659039#m",
+      "timestamp": "2026-04-10T13:47:35+00:00",
+      "timestamp_display": "10/04/2026 07:47 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Isla - Acayucan, km 164, dirección Acayucan. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Dirección Isla, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 164,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042594505728114976#m",
+      "timestamp": "2026-04-10T13:24:14+00:00",
+      "timestamp_display": "10/04/2026 07:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Dirección Isla, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.94,
       "lng": -94.91,
@@ -193,58 +232,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042532464912932925#m",
       "timestamp": "2026-04-10T09:17:42+00:00",
       "timestamp_display": "10/04/2026 03:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 98. Continúa cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042530155759808955#m",
-      "timestamp": "2026-04-10T09:08:32+00:00",
-      "timestamp_display": "10/04/2026 03:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, km 80, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042529455151734850#m",
-      "timestamp": "2026-04-10T09:05:45+00:00",
-      "timestamp_display": "10/04/2026 03:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Cierre a la circulación por atención de accidente (choque por alcance e incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 164,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042526877437358259#m",
-      "timestamp": "2026-04-10T08:55:30+00:00",
-      "timestamp_display": "10/04/2026 02:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista La Tinaja - Isla, km 80, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042518977058857284#m",
-      "timestamp": "2026-04-10T08:24:06+00:00",
-      "timestamp_display": "10/04/2026 02:24 CST",
       "segment": null
     }
   ]
