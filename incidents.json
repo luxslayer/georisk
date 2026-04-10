@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-10T04:18:14.000446",
+  "last_update": "2026-04-10T06:15:41.192745",
   "incidents": [
     {
       "title": "#ViaLibre en #Veracruz tras #AccidenteVial en la carretera Tihuatlán - El Palmar. Maneje con precaución.",
@@ -268,6 +268,158 @@
       ]
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 21, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.01470851885426,
+      "lng": -94.4895698065253,
+      "road": 180,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042483582619263115#m",
+      "timestamp": "2026-04-10T06:03:28+00:00",
+      "timestamp_display": "10/04/2026 00:03 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 98. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042483104174997836#m",
+      "timestamp": "2026-04-10T06:01:34+00:00",
+      "timestamp_display": "10/04/2026 00:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 82, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 82,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042481609840943354#m",
+      "timestamp": "2026-04-10T05:55:37+00:00",
+      "timestamp_display": "09/04/2026 23:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 80, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino a cuneta central de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042478170637582540#m",
+      "timestamp": "2026-04-10T05:41:57+00:00",
+      "timestamp_display": "09/04/2026 23:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Gtz. Zamora - Tihuatlán, km 183. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 183,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042476901373976974#m",
+      "timestamp": "2026-04-10T05:36:55+00:00",
+      "timestamp_display": "09/04/2026 23:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 82, dirección Isla. Reducción de carriles por atención de incidente (derrame de aceite). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 82,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042465989908955401#m",
+      "timestamp": "2026-04-10T04:53:33+00:00",
+      "timestamp_display": "09/04/2026 22:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️    \nAutopista Cd. Mendoza - Córdoba, continúa #lluvia a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042461243143782824#m",
+      "timestamp": "2026-04-10T04:34:42+00:00",
+      "timestamp_display": "09/04/2026 22:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Córdoba - Veracruz, continúa #lluvia a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042460857456529866#m",
+      "timestamp": "2026-04-10T04:33:10+00:00",
+      "timestamp_display": "09/04/2026 22:33 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gtz. Zamora - Tihuatlán, km 183. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada y labores de limpieza). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 183,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042460510323372367#m",
+      "timestamp": "2026-04-10T04:31:47+00:00",
+      "timestamp_display": "09/04/2026 22:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️            \nAut. Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042459875544859011#m",
+      "timestamp": "2026-04-10T04:29:16+00:00",
+      "timestamp_display": "09/04/2026 22:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 21, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.01470851885426,
+      "lng": -94.4895698065253,
+      "road": 180,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042458246842032155#m",
+      "timestamp": "2026-04-10T04:22:47+00:00",
+      "timestamp_display": "09/04/2026 22:22 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 68, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -391,155 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042427243176063433#m",
       "timestamp": "2026-04-10T02:19:35+00:00",
       "timestamp_display": "09/04/2026 20:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, registra #lluvia del km 100 al 121. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 100,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042422312100675787#m",
-      "timestamp": "2026-04-10T02:00:00+00:00",
-      "timestamp_display": "09/04/2026 20:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gtz. Zamora - Tihuatlán, km 183, dirección Tihuatlán. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (caída de carga de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 183,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042420605710963144#m",
-      "timestamp": "2026-04-10T01:53:13+00:00",
-      "timestamp_display": "09/04/2026 19:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 46, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042414909107982495#m",
-      "timestamp": "2026-04-10T01:30:35+00:00",
-      "timestamp_display": "09/04/2026 19:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 17, dirección Nuevo Teapa. El incidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042412062123401635#m",
-      "timestamp": "2026-04-10T01:19:16+00:00",
-      "timestamp_display": "09/04/2026 19:19 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 46, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042409699304198235#m",
-      "timestamp": "2026-04-10T01:09:53+00:00",
-      "timestamp_display": "09/04/2026 19:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 65, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 65,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042408623104545049#m",
-      "timestamp": "2026-04-10T01:05:36+00:00",
-      "timestamp_display": "09/04/2026 19:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 77, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.960274842993876,
-      "lng": -96.28701513314589,
-      "road": 150,
-      "km": 77,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042407912828498235#m",
-      "timestamp": "2026-04-10T01:02:47+00:00",
-      "timestamp_display": "09/04/2026 19:02 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS 🌧️ 🌩️         \nAut. Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042405729764626782#m",
-      "timestamp": "2026-04-10T00:54:06+00:00",
-      "timestamp_display": "09/04/2026 18:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gtz. Zamora - Tihuatlán, km 183. Continúa circulación intermitente en ambos sentidos por atención de accidente (caída de carga de tracto camión). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 183,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042405454702100555#m",
-      "timestamp": "2026-04-10T00:53:01+00:00",
-      "timestamp_display": "09/04/2026 18:53 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Tecate - La Rumorosa, Plaza de Cobro El Hongo, dirección La Rumorosa. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042404839439933599#m",
-      "timestamp": "2026-04-10T00:50:34+00:00",
-      "timestamp_display": "09/04/2026 18:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, registra #lluvia del km 118 al 121. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 118,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042404269689655398#m",
-      "timestamp": "2026-04-10T00:48:18+00:00",
-      "timestamp_display": "09/04/2026 18:48 CST",
       "segment": null
     }
   ]
