@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-10T19:55:32.684004",
+  "last_update": "2026-04-10T20:40:10.198650",
   "incidents": [
+    {
+      "title": "R to @GN_Carreteras: Se mantienen las plumas levantadas, dando paso libre.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2042698277276024954#m",
+      "timestamp": "2026-04-10T20:16:35+00:00",
+      "timestamp_display": "10/04/2026 14:16 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Durango se registra presencia de personas, en la carretera Durango-Yerbanis, a la altura de la caseta de cobro No. 1 Durango, Dgo. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2042698274570649918#m",
+      "timestamp": "2026-04-10T20:16:34+00:00",
+      "timestamp_display": "10/04/2026 14:16 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 010+800, de la carretera Vista Hermosa con dirección a la Piedad. Maneje con precaución.",
       "type": "twitter",
@@ -203,6 +229,61 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042702411500843477#m",
+      "timestamp": "2026-04-10T20:33:01+00:00",
+      "timestamp_display": "10/04/2026 14:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 70, dirección Córdoba. Reducción de carriles por atención de accidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.91067748530735,
+      "lng": -96.32788760470456,
+      "road": 150,
+      "km": 70,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042699940451795295#m",
+      "timestamp": "2026-04-10T20:23:11+00:00",
+      "timestamp_display": "10/04/2026 14:23 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/H4FCbRuaYApLbPkm6",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 6,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042699024021487771#m",
+      "timestamp": "2026-04-10T20:19:33+00:00",
+      "timestamp_display": "10/04/2026 14:19 CST",
+      "segment": null
+    },
+    {
+      "title": "Un viaje seguro se construye desde el primer paso 🚗\nDescubre cómo llegar con bien a tu destino.\n@GobiernoMX @SICTmx\n#SeguridadVial #ViajaSeguro #EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042694111145460206#m",
+      "timestamp": "2026-04-10T20:00:02+00:00",
+      "timestamp_display": "10/04/2026 14:00 CST",
+      "segment": null
+    },
+    {
       "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que continúa circulación con cierres intermitentes por maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular muy intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.\n\nPara más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.94,
@@ -401,71 +482,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042664037322801465#m",
       "timestamp": "2026-04-10T18:00:32+00:00",
       "timestamp_display": "10/04/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puente de Ixtla - Iguala, km 13. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042657076518772753#m",
-      "timestamp": "2026-04-10T17:32:52+00:00",
-      "timestamp_display": "10/04/2026 11:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 219, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 219,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042655951933542422#m",
-      "timestamp": "2026-04-10T17:28:24+00:00",
-      "timestamp_display": "10/04/2026 11:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 233, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 233,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042655455894221148#m",
-      "timestamp": "2026-04-10T17:26:26+00:00",
-      "timestamp_display": "10/04/2026 11:26 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que se restablece la circulación con cierres intermitentes por maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular muy intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.\n\nPara más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 164,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042655036816200027#m",
-      "timestamp": "2026-04-10T17:24:46+00:00",
-      "timestamp_display": "10/04/2026 11:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puente de Ixtla - Iguala, km 13. Se restablece la circulación a contraflujo. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042651462128275576#m",
-      "timestamp": "2026-04-10T17:10:33+00:00",
-      "timestamp_display": "10/04/2026 11:10 CST",
       "segment": null
     }
   ]
