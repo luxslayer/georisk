@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-10T06:15:41.192745",
+  "last_update": "2026-04-10T08:07:07.198121",
   "incidents": [
     {
       "title": "#ViaLibre en #Veracruz tras #AccidenteVial en la carretera Tihuatlán - El Palmar. Maneje con precaución.",
@@ -268,6 +268,32 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 81, dirección Isla. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 81,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042509031839871046#m",
+      "timestamp": "2026-04-10T07:44:35+00:00",
+      "timestamp_display": "10/04/2026 01:44 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️    \nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042494213774778604#m",
+      "timestamp": "2026-04-10T06:45:42+00:00",
+      "timestamp_display": "10/04/2026 00:45 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 21, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.01470851885426,
@@ -518,32 +544,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 65, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 65,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042427665127264658#m",
-      "timestamp": "2026-04-10T02:21:16+00:00",
-      "timestamp_display": "09/04/2026 20:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 219, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 219,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042427243176063433#m",
-      "timestamp": "2026-04-10T02:19:35+00:00",
-      "timestamp_display": "09/04/2026 20:19 CST",
-      "segment": null
     }
   ]
 }
