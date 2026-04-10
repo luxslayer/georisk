@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-10T17:07:08.500056",
+  "last_update": "2026-04-10T18:01:38.727042",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla continúa cierre de circulación tras maniobras por #AccidenteVial cerca del km 164+000, de la carretera Tulancingo-Tihuatlán. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 164.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042653446507987233#m",
+      "timestamp": "2026-04-10T17:18:26+00:00",
+      "timestamp_display": "10/04/2026 11:18 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 306+900, de la carretera Maravatío-Zapotlanejo, a la altura de la caseta de cobro de Panindícuaro con dirección a Morelia. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 20.134999999999998,
+      "lng": -102.215,
+      "road": 15,
+      "km": 306.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042650865119408520#m",
+      "timestamp": "2026-04-10T17:08:11+00:00",
+      "timestamp_display": "10/04/2026 11:08 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tlaxcala se registra presencia de personas en la carretera Los Reyes-Zacatepec, a la altura de la comunidad de Francisco I. Madero, Tlax. Sin afectar la vía, teniendo flujo vehicular con normalidad. Atienda indicación Vial.",
       "type": "twitter",
@@ -93,6 +119,84 @@
       "url": "https://nitter.net/GN_Carreteras/status/2042611699916689594#m",
       "timestamp": "2026-04-10T14:32:33+00:00",
       "timestamp_display": "10/04/2026 08:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Continúa carga vehicular, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042664037322801465#m",
+      "timestamp": "2026-04-10T18:00:32+00:00",
+      "timestamp_display": "10/04/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puente de Ixtla - Iguala, km 13. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042657076518772753#m",
+      "timestamp": "2026-04-10T17:32:52+00:00",
+      "timestamp_display": "10/04/2026 11:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 219, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042655951933542422#m",
+      "timestamp": "2026-04-10T17:28:24+00:00",
+      "timestamp_display": "10/04/2026 11:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 233, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 233,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042655455894221148#m",
+      "timestamp": "2026-04-10T17:26:26+00:00",
+      "timestamp_display": "10/04/2026 11:26 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que se restablece la circulación con cierres intermitentes por maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular muy intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.\n\nPara más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 164,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042655036816200027#m",
+      "timestamp": "2026-04-10T17:24:46+00:00",
+      "timestamp_display": "10/04/2026 11:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puente de Ixtla - Iguala, km 13. Se restablece la circulación a contraflujo. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042651462128275576#m",
+      "timestamp": "2026-04-10T17:10:33+00:00",
+      "timestamp_display": "10/04/2026 11:10 CST",
       "segment": null
     },
     {
@@ -193,7 +297,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que continúa cierre a la circulación por atención de accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\nDirección Isla, se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa.\n\nSe recomienda a la ciudadanía tomar la siguiente vía alterna:\n➡️ Dirección Acayucan, desviarse a carretera libre en el km 118 (Poblado Isla), con la opción de incorporarse a la autopista a la altura de la Plaza de Cobro Acayucan. \n\nLa carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que continúa cierre a la circulación por atención de accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\nDirección Isla, se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa.\n\nSe recomienda a la ciudadanía tomar la siguiente vía alterna:\n➡️ Dirección Acayucan, desviarse a carretera libre en el km 118 (Poblado Isla), con la opción de incorporarse a la autopista a la altura de la Plaza de Cobro Acayucan. \n\nLa carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 17.94,
       "lng": -94.91,
@@ -284,87 +388,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042622265460662581#m",
       "timestamp": "2026-04-10T15:14:32+00:00",
       "timestamp_display": "10/04/2026 09:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 45, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042619909100752926#m",
-      "timestamp": "2026-04-10T15:05:11+00:00",
-      "timestamp_display": "10/04/2026 09:05 CST",
-      "segment": null
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nLa velocidad inadecuada incrementa el riesgo en carretera.\n👉 Conduce con precaución y respeta los límites. 🚙\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042618615749390479#m",
-      "timestamp": "2026-04-10T15:00:02+00:00",
-      "timestamp_display": "10/04/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 21, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.01470851885426,
-      "lng": -94.4895698065253,
-      "road": 180,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042618321024000445#m",
-      "timestamp": "2026-04-10T14:58:52+00:00",
-      "timestamp_display": "10/04/2026 08:58 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Ciudad Valles - Tamuín, km 118, dirección Tamuín. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 21.997,
-      "lng": -99.01,
-      "road": null,
-      "km": 118,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042617889195278779#m",
-      "timestamp": "2026-04-10T14:57:09+00:00",
-      "timestamp_display": "10/04/2026 08:57 CST",
-      "segment": null
-    },
-    {
-      "title": "Hoy conmemoramos el natalicio de Leona Vicario, una de las mujeres más destacadas de nuestra historia.\nSu participación fue fundamental en la lucha por la Independencia de México, abriendo camino para todas.\nReconocer su legado es visibilizar el papel fundamental de las mujeres en la construcción del país.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042611057877749792#m",
-      "timestamp": "2026-04-10T14:30:00+00:00",
-      "timestamp_display": "10/04/2026 08:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Ciudad Valles - Tamuín, km 118, dirección Tamuín. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 21.997,
-      "lng": -99.01,
-      "road": null,
-      "km": 118,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042610998188618171#m",
-      "timestamp": "2026-04-10T14:29:46+00:00",
-      "timestamp_display": "10/04/2026 08:29 CST",
       "segment": null
     }
   ]
