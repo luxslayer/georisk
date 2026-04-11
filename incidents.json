@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-04-11T03:19:41.922117",
+  "last_update": "2026-04-11T05:12:06.090693",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del km 096+000, de la carretera San Luis Potosí-Matehuala, con dirección a Matehuala. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 96.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042818604027023776#m",
+      "timestamp": "2026-04-11T04:14:43+00:00",
+      "timestamp_display": "10/04/2026 22:14 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Guanajuato tras presencia de personas, cerca del km 007+000, de la carretera León–Aguascalientes, a la altura del Mpio. de León, Gto. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.05171147812221,
+      "lng": -101.64081787425813,
+      "road": 45,
+      "km": 7.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2042813455975997576#m",
+      "timestamp": "2026-04-11T03:54:16+00:00",
+      "timestamp_display": "10/04/2026 21:54 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
     {
       "title": "Continúa en #Sinaloa presencia de personas cerca de la caseta de cobro \"El Pisal\" en la carretera Los Mochis–Culiacán. Maneje con precaución.",
       "type": "twitter",
@@ -239,29 +268,55 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 138+700, de la carretera Cocula-Barra de Navidad, a la altura del Mpio. El Corcovado. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 141, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
-      "km": 138.7,
+      "km": 141,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2042749119664451865#m",
-      "timestamp": "2026-04-10T23:38:37+00:00",
-      "timestamp_display": "10/04/2026 17:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2042832842175189333#m",
+      "timestamp": "2026-04-11T05:11:18+00:00",
+      "timestamp_display": "10/04/2026 23:11 CST",
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Tlaxcala tras presencia de personas en la carretera Los Reyes-Zacatepec, a la altura de la comunidad de Francisco I. Madero. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Barranca Larga - Ventanilla, km 71. Registra cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042741324978278776#m",
-      "timestamp": "2026-04-10T23:07:38+00:00",
-      "timestamp_display": "10/04/2026 17:07 CST",
+      "km": 71,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042826965070008424#m",
+      "timestamp": "2026-04-11T04:47:57+00:00",
+      "timestamp_display": "10/04/2026 22:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 10, dirección La Tinaja. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 10,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042818648583114849#m",
+      "timestamp": "2026-04-11T04:14:54+00:00",
+      "timestamp_display": "10/04/2026 22:14 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 36, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 36,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042808919140040808#m",
+      "timestamp": "2026-04-11T03:36:14+00:00",
+      "timestamp_display": "10/04/2026 21:36 CST",
       "segment": null
     },
     {
@@ -457,71 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042761752765440365#m",
       "timestamp": "2026-04-11T00:28:49+00:00",
       "timestamp_display": "10/04/2026 18:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🚑🛣️ En autopistas #CAPUFE no estás solo en el camino.\nContamos con personas preparadas para brindarte apoyo ante cualquier eventualidad.\n📞 074 | @CAPUFE\n#EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2042754504613884074#m",
-      "timestamp": "2026-04-11T00:00:01+00:00",
-      "timestamp_display": "10/04/2026 18:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 87, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042753785261342933#m",
-      "timestamp": "2026-04-10T23:57:09+00:00",
-      "timestamp_display": "10/04/2026 17:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 6, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 6,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042753672082305238#m",
-      "timestamp": "2026-04-10T23:56:42+00:00",
-      "timestamp_display": "10/04/2026 17:56 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Isla - Acayucan, km 164, dirección Acayucan. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación.\n\nEn la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 164,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042753230375985468#m",
-      "timestamp": "2026-04-10T23:54:57+00:00",
-      "timestamp_display": "10/04/2026 17:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 56, dirección CDMX. Se restablece la circulación, en el lugar se continúa con la atención del accidente (maniobras para el retiro de unidad siniestrada), por el momento sin afectación a los carriles de rodamiento.\n\n🔘 Sin embargo, a la altura del km 49 se mantiene el cierre a la circulación por atención de salida del camino de tracto camión y choque contra barreras metálicas. En la zona se registra carga vehicular.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042752572717514865#m",
-      "timestamp": "2026-04-10T23:52:20+00:00",
-      "timestamp_display": "10/04/2026 17:52 CST",
       "segment": null
     }
   ]
