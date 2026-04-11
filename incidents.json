@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-04-11T11:54:07.029763",
+  "last_update": "2026-04-11T13:00:45.431604",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 026+360, de la  Irapuato-Zapotlanejo, a la altura del poblado Abasolo, con dir. a Zapotlanejo, Jal. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": null,
+      "km": 26.36,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042950633183904212#m",
+      "timestamp": "2026-04-11T12:59:21+00:00",
+      "timestamp_display": "11/04/2026 06:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 108+100, de la carretera Coatzacoalcos-Villahermosa, a la altura de Cárdenas,  con dir. a Coatzacoalcos, Ver. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 108.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042949759376175152#m",
+      "timestamp": "2026-04-11T12:55:53+00:00",
+      "timestamp_display": "11/04/2026 06:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 112+900, de la carretera Santa Bárbara-Izúcar de Matamoros, a la altura de la comunidad de Calmeca,  con dir. a Izúcar. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 112.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042948592227299340#m",
+      "timestamp": "2026-04-11T12:51:15+00:00",
+      "timestamp_display": "11/04/2026 06:51 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+600, de la carretera Guadalajara-Tepic , con dirección a Gdl. Atienda indicación Vial.",
       "type": "twitter",
@@ -229,45 +268,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2042778595026784382#m",
       "timestamp": "2026-04-11T01:35:44+00:00",
       "timestamp_display": "10/04/2026 19:35 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Pachuca se registra cierre de circulación en ambos sentidos, por presencia de personas, cerca del km 52+000, de la carretera México-Pachuca, a la altura del puente de Tepojaco. Atienda indicación Vial.",
-      "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
-      "road": null,
-      "km": 52.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042775812567351549#m",
-      "timestamp": "2026-04-11T01:24:41+00:00",
-      "timestamp_display": "10/04/2026 19:24 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 159+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura de San Juan Evangelista, con dir. a Minatitlán.  Atienda indicación Vial.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 159.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2042770449180840322#m",
-      "timestamp": "2026-04-11T01:03:22+00:00",
-      "timestamp_display": "10/04/2026 19:03 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 009+600, de la carretera Peñón-Texcoco, a la altura del Mpio. de Texcoco.  Atienda indicación Vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 9.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2042761144805273899#m",
-      "timestamp": "2026-04-11T00:26:24+00:00",
-      "timestamp_display": "10/04/2026 18:26 CST",
       "segment": null
     },
     {
