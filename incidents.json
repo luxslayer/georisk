@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-11T07:29:55.114521",
+  "last_update": "2026-04-11T08:05:41.318446",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 139+900, de la carretera Libramiento norte de la ciudad de México, con dirección a Puebla. Atienda indicación Vial.",
@@ -271,6 +271,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuernavaca - Acapulco, km 149, dirección Cuernavaca. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 149,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2042873407721689123#m",
+      "timestamp": "2026-04-11T07:52:29+00:00",
+      "timestamp_display": "11/04/2026 01:52 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -502,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042792939726815254#m",
       "timestamp": "2026-04-11T02:32:44+00:00",
       "timestamp_display": "10/04/2026 20:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 56, dirección CDMX. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042781094844485756#m",
-      "timestamp": "2026-04-11T01:45:40+00:00",
-      "timestamp_display": "10/04/2026 19:45 CST",
       "segment": null
     }
   ]
