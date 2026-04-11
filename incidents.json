@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-11T21:48:27.210660",
+  "last_update": "2026-04-11T22:33:57.764515",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz registra cierre total de circulación por #AccidenteVial cerca del km 126+500 de la carretera a Rica - Veracruz, a la altura de la localidad Emilio Carranza. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 126.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2043094156982043073#m",
+      "timestamp": "2026-04-11T22:29:40+00:00",
+      "timestamp_display": "11/04/2026 16:29 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 099+200 de la carretera Xalapa - Veracruz. Atienda indicación Vial.",
       "type": "twitter",
@@ -255,16 +268,16 @@
       "segment": null
     },
     {
-      "title": "Continua en #Sinaloa cierre parcial de circulación por presencia de personas, en la carretera Culiacán-Los Mochis, a la altura de la caseta de cobro \"Cuatro Caminos\". Atienda indicación Vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal de CAPUFE y Bomberos continúa realizando las labores necesarias para la atención del accidente. En la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042794930385379728#m",
-      "timestamp": "2026-04-11T02:40:39+00:00",
-      "timestamp_display": "10/04/2026 20:40 CST",
+      "km": 250,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043084164853801199#m",
+      "timestamp": "2026-04-11T21:49:58+00:00",
+      "timestamp_display": "11/04/2026 15:49 CST",
       "segment": null
     },
     {
@@ -307,7 +320,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa.\n\n🔘 El personal de CAPUFE y Bomberos se encuentra laborando en la zona. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/2uvVKnPQL17FAYen6",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa.\n\n🔘 El personal de CAPUFE y Bomberos se encuentra laborando en la zona. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/2uvVKnPQL17FAYen6",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -511,19 +524,6 @@
       "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2043043045914927530#m",
       "timestamp": "2026-04-11T19:06:34+00:00",
-      "timestamp_display": "11/04/2026 13:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 234, dirección Acatzingo. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 234,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043042973680620006#m",
-      "timestamp": "2026-04-11T19:06:17+00:00",
       "timestamp_display": "11/04/2026 13:06 CST",
       "segment": null
     }
