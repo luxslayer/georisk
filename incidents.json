@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-11T11:16:16.039407",
+  "last_update": "2026-04-11T11:54:07.029763",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+600, de la carretera Guadalajara-Tepic , con dirección a Gdl. Atienda indicación Vial.",
@@ -271,6 +271,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 219, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042925290645544972#m",
+      "timestamp": "2026-04-11T11:18:39+00:00",
+      "timestamp_display": "11/04/2026 05:18 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 10, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -502,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042818648583114849#m",
       "timestamp": "2026-04-11T04:14:54+00:00",
       "timestamp_display": "10/04/2026 22:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 36, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042808919140040808#m",
-      "timestamp": "2026-04-11T03:36:14+00:00",
-      "timestamp_display": "10/04/2026 21:36 CST",
       "segment": null
     }
   ]
