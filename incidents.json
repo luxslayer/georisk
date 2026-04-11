@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-11T16:03:12.633151",
+  "last_update": "2026-04-11T16:55:35.977233",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Nayarit registra cierre total de circulación tras #AccidenteVial cerca del km 101+000 de la carretera Tepic-Puerto Vallarta. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.502,
+      "lng": -104.89,
+      "road": null,
+      "km": 101.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2042999544099516840#m",
+      "timestamp": "2026-04-11T16:13:43+00:00",
+      "timestamp_display": "11/04/2026 10:13 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+050, de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. Cd. Obregón. Atienda indicación Vial.",
       "type": "twitter",
@@ -258,16 +271,29 @@
       ]
     },
     {
-      "title": "#ViaLibre en #Pachuca tras presencia de personas, cerca del km 52+000, de la carretera México-Pachuca, a la altura del puente de Tepojaco. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gómez Palacio - Corralitos, km 80, dirección Gómez Palacio. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 52.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042785392080847255#m",
-      "timestamp": "2026-04-11T02:02:45+00:00",
-      "timestamp_display": "10/04/2026 20:02 CST",
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043001030548271578#m",
+      "timestamp": "2026-04-11T16:19:37+00:00",
+      "timestamp_display": "11/04/2026 10:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Gómez Palacio - Corralitos, km 80, dirección Gómez Palacio. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2042997367759044746#m",
+      "timestamp": "2026-04-11T16:05:04+00:00",
+      "timestamp_display": "11/04/2026 10:05 CST",
       "segment": null
     },
     {
@@ -502,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2042860462832787756#m",
       "timestamp": "2026-04-11T07:01:03+00:00",
       "timestamp_display": "11/04/2026 01:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 215, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 215,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042856578651484586#m",
-      "timestamp": "2026-04-11T06:45:37+00:00",
-      "timestamp_display": "11/04/2026 00:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 215, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 215,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2042844830309482659#m",
-      "timestamp": "2026-04-11T05:58:56+00:00",
-      "timestamp_display": "10/04/2026 23:58 CST",
       "segment": null
     }
   ]
