@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T06:49:37.841030",
+  "last_update": "2026-04-12T08:03:14.060648",
   "incidents": [
     {
       "title": "#TomePrecauciones en #NuevoLeón registra cierre parcial de circulación por #AccidenteVial cerca del km 175+600 de la carretera Cd. Victoria - Monterrey, Atienda indicación Vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Chamapa - Lechería, km 10, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043231344394703226#m",
+      "timestamp": "2026-04-12T07:34:48+00:00",
+      "timestamp_display": "12/04/2026 01:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 89, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043222642509955482#m",
+      "timestamp": "2026-04-12T07:00:13+00:00",
+      "timestamp_display": "12/04/2026 01:00 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ \nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -485,32 +511,6 @@
       "url": "https://nitter.net/CAPUFE/status/2043134202111992160#m",
       "timestamp": "2026-04-12T01:08:48+00:00",
       "timestamp_display": "11/04/2026 19:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043129467745206548#m",
-      "timestamp": "2026-04-12T00:49:59+00:00",
-      "timestamp_display": "11/04/2026 18:49 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 250, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 250,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043127464616927431#m",
-      "timestamp": "2026-04-12T00:42:01+00:00",
-      "timestamp_display": "11/04/2026 18:42 CST",
       "segment": null
     }
   ]
