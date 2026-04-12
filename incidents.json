@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T13:39:57.118965",
+  "last_update": "2026-04-12T14:25:47.946005",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 115+000 de la carretera Posa Rica-Veracruz, Atienda indicación Vial.",
@@ -213,16 +213,58 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 235+250, de la carretera Poza Rica-Veracruz, a la altura de las Colinas de Santa Fe. Atienda indicación Vial.",
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nLa velocidad también es una decisión que protege vidas.\n👉 Modérala y continúa tu camino con tranquilidad. 🚗\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 235.25,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043328286839751068#m",
+      "timestamp": "2026-04-12T14:00:01+00:00",
+      "timestamp_display": "12/04/2026 08:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Guaymas - Hermosillo, km 169, dirección Hermosillo. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 169,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2042969866437615923#m",
-      "timestamp": "2026-04-11T14:15:47+00:00",
-      "timestamp_display": "11/04/2026 08:15 CST",
+      "url": "https://nitter.net/CAPUFE/status/2043327215186641131#m",
+      "timestamp": "2026-04-12T13:55:45+00:00",
+      "timestamp_display": "12/04/2026 07:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 35, dirección Córdoba. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.797176859242946,
+      "lng": -96.59132662984878,
+      "road": 150,
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043326875208937580#m",
+      "timestamp": "2026-04-12T13:54:24+00:00",
+      "timestamp_display": "12/04/2026 07:54 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 89, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043325977762156707#m",
+      "timestamp": "2026-04-12T13:50:50+00:00",
+      "timestamp_display": "12/04/2026 07:50 CST",
       "segment": null
     },
     {
@@ -444,64 +486,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Acayucan - Cosoleacaque, km 26, dirección Acayucan. Registra reducción de carriles por atención de accidente (salida del camino y volcadura). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.937379670164926,
-      "lng": -94.69727730580253,
-      "road": 145,
-      "km": 26,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043180583770026367#m",
-      "timestamp": "2026-04-12T04:13:06+00:00",
-      "timestamp_display": "11/04/2026 22:13 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠    \n#AutMéxicoPuebla, km 106, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.189576211765857,
-      "lng": -98.325633218954,
-      "road": 150,
-      "km": 88,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043172075968344539#m",
-      "timestamp": "2026-04-12T03:39:17+00:00",
-      "timestamp_display": "11/04/2026 21:39 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, continúa #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043165470287614012#m",
-      "timestamp": "2026-04-12T03:13:02+00:00",
-      "timestamp_display": "11/04/2026 21:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 19 al 26. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043159910901219497#m",
-      "timestamp": "2026-04-12T02:50:57+00:00",
-      "timestamp_display": "11/04/2026 20:50 CST",
-      "segment": null
     }
   ]
 }
