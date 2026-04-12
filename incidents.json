@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-12T15:06:15.083570",
+  "last_update": "2026-04-12T15:52:18.961620",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 250+250, de la carretera Maravatío-Zapotlanejo, con dir. a Guadalajara. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 21.90029125806436,
+      "lng": -105.10267982969644,
+      "road": 15,
+      "km": 250.25,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2043345554688593973#m",
+      "timestamp": "2026-04-12T15:08:38+00:00",
+      "timestamp_display": "12/04/2026 09:08 CST",
+      "segment": null
+    },
     {
       "title": "Continúa en #Sinaloa presencia de personas cerca de la caseta de cobro \"El Pisal\" en la carretera Los Mochis–Culiacán. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +265,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+050, de la carretera Los Mochis-Cd. Obregón, a la altura del Mpio. Cd. Obregón. Atienda indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 328, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 20.05,
+      "km": 328,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043350666517578028#m",
+      "timestamp": "2026-04-12T15:28:57+00:00",
+      "timestamp_display": "12/04/2026 09:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 35, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.797176859242946,
+      "lng": -96.59132662984878,
+      "road": 150,
+      "km": 35,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2042986437864243304#m",
-      "timestamp": "2026-04-11T15:21:38+00:00",
-      "timestamp_display": "11/04/2026 09:21 CST",
+      "url": "https://nitter.net/CAPUFE/status/2043346398301585691#m",
+      "timestamp": "2026-04-12T15:11:59+00:00",
+      "timestamp_display": "12/04/2026 09:11 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 201, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 201,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043345814316040535#m",
+      "timestamp": "2026-04-12T15:09:40+00:00",
+      "timestamp_display": "12/04/2026 09:09 CST",
       "segment": null
     },
     {
@@ -493,51 +535,6 @@
       "timestamp": "2026-04-12T06:37:52+00:00",
       "timestamp_display": "12/04/2026 00:37 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 106, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.189576211765857,
-      "lng": -98.325633218954,
-      "road": 150,
-      "km": 88,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043201479926862286#m",
-      "timestamp": "2026-04-12T05:36:08+00:00",
-      "timestamp_display": "11/04/2026 23:36 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043195578721431726#m",
-      "timestamp": "2026-04-12T05:12:41+00:00",
-      "timestamp_display": "11/04/2026 23:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 26, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.937379670164926,
-      "lng": -94.69727730580253,
-      "road": 145,
-      "km": 26,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043194396363931983#m",
-      "timestamp": "2026-04-12T05:07:59+00:00",
-      "timestamp_display": "11/04/2026 23:07 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
