@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T12:25:49.091012",
+  "last_update": "2026-04-12T13:39:57.118965",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 115+000 de la carretera Posa Rica-Veracruz, Atienda indicación Vial.",
@@ -226,42 +226,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #CDMX se registra cierre total de circulación por #VehículoIncendiado por falla mecánica cerca del km 032+800, de la carretera Chamapa-La Venta, a la altura del Mpio. de Naucalpan de Juárez, Edo. MX. Atienda indicación Vial.",
-      "type": "twitter",
-      "lat": 31.69,
-      "lng": -106.42,
-      "road": null,
-      "km": 32.8,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2042953376615297358#m",
-      "timestamp": "2026-04-11T13:10:15+00:00",
-      "timestamp_display": "11/04/2026 07:10 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 017+250, de la carretera Villahermosa-Macultepec, a la altura de Ocuiltzapotlan, con dir. a Álvaro Obregón. Atienda indicación Vial.",
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 17.25,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2042951705843707987#m",
-      "timestamp": "2026-04-11T13:03:37+00:00",
-      "timestamp_display": "11/04/2026 07:03 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 026+360, de la  Irapuato-Zapotlanejo, a la altura del poblado Abasolo, con dir. a Zapotlanejo, Jal. Atienda indicación Vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": null,
-      "km": 26.36,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2042950633183904212#m",
-      "timestamp": "2026-04-11T12:59:21+00:00",
-      "timestamp_display": "11/04/2026 06:59 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043319502696247800#m",
+      "timestamp": "2026-04-12T13:25:07+00:00",
+      "timestamp_display": "12/04/2026 07:25 CST",
       "segment": null
     },
     {
@@ -528,22 +502,6 @@
       "timestamp": "2026-04-12T02:50:57+00:00",
       "timestamp_display": "11/04/2026 20:50 CST",
       "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoPuebla, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043159550824493366#m",
-      "timestamp": "2026-04-12T02:49:31+00:00",
-      "timestamp_display": "11/04/2026 20:49 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
