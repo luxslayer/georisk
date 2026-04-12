@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T08:03:14.060648",
+  "last_update": "2026-04-12T09:05:49.170076",
   "incidents": [
     {
       "title": "#TomePrecauciones en #NuevoLeón registra cierre parcial de circulación por #AccidenteVial cerca del km 175+600 de la carretera Cd. Victoria - Monterrey, Atienda indicación Vial.",
@@ -436,16 +436,16 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 49. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 49. Registra reducción de carriles en ambos sentidos por atención de choque por alcance múltiple entre camiones de carga y automóviles particulares. \n\nEn la zona se registra carga vehicular y #lluvia. Atiende las indicaciones viales y maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/1y1zGCVKKoCzQrNF8",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
       "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043155307677823158#m",
-      "timestamp": "2026-04-12T02:32:39+00:00",
-      "timestamp_display": "11/04/2026 20:32 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043140766416224617#m",
+      "timestamp": "2026-04-12T01:34:53+00:00",
+      "timestamp_display": "11/04/2026 19:34 CST",
       "segment": null
     },
     {
@@ -462,6 +462,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 49. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 49,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043155307677823158#m",
+      "timestamp": "2026-04-12T02:32:39+00:00",
+      "timestamp_display": "11/04/2026 20:32 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán. La incidencia ha sido atendida. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 17.072,
@@ -472,19 +485,6 @@
       "url": "https://nitter.net/CAPUFE/status/2043143347028549681#m",
       "timestamp": "2026-04-12T01:45:08+00:00",
       "timestamp_display": "11/04/2026 19:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 49. Registra reducción de carriles en ambos sentidos por atención de choque por alcance múltiple entre camiones de carga y automóviles particulares. \n\nEn la zona se registra carga vehicular y #lluvia. Atiende las indicaciones viales y maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/1y1zGCVKKoCzQrNF8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 49,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043140766416224617#m",
-      "timestamp": "2026-04-12T01:34:53+00:00",
-      "timestamp_display": "11/04/2026 19:34 CST",
       "segment": null
     },
     {
