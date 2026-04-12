@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T21:17:44.545824",
+  "last_update": "2026-04-12T21:58:20.844773",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 217+400, de la carretera Puebla-Cordoba, a la altura de la caseta de cobro Esperanza. Atienda indicación Vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de la unidad siniestrada.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043440258973380927#m",
+      "timestamp": "2026-04-12T21:24:57+00:00",
+      "timestamp_display": "12/04/2026 15:24 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Oriente de Chihuahua, km 35. Continúa circulación a contraflujo por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
       "type": "twitter",
       "lat": 28.63,
@@ -291,7 +304,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Se informa a las personas usuarias que se registra reducción de carriles por labores periciales.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Se informa a las personas usuarias que se registra reducción de carriles por labores periciales.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -301,32 +314,6 @@
       "url": "https://nitter.net/CAPUFE/status/2043433076756283583#m",
       "timestamp": "2026-04-12T20:56:25+00:00",
       "timestamp_display": "12/04/2026 14:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Reducción de carriles por atención de salida del camino y volcadura de autobús.\n\nEn la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/2p6rJAe7HZy1P8cq9",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 95,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043411201745731883#m",
-      "timestamp": "2026-04-12T19:29:29+00:00",
-      "timestamp_display": "12/04/2026 13:29 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación.\n\nEl personal continúa laborando en la atención del accidente, por el momento sin afectar los carriles de rodamiento.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 95,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043428979890102524#m",
-      "timestamp": "2026-04-12T20:40:08+00:00",
-      "timestamp_display": "12/04/2026 14:40 CST",
       "segment": null
     },
     {
@@ -385,6 +372,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación.\n\nEl personal continúa laborando en la atención del accidente, por el momento sin afectar los carriles de rodamiento.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043428979890102524#m",
+      "timestamp": "2026-04-12T20:40:08+00:00",
+      "timestamp_display": "12/04/2026 14:40 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠          \nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -437,6 +437,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Reducción de carriles por atención de salida del camino y volcadura de autobús.\n\nEn la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/2p6rJAe7HZy1P8cq9",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043411201745731883#m",
+      "timestamp": "2026-04-12T19:29:29+00:00",
+      "timestamp_display": "12/04/2026 13:29 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 46, dirección CDMX. Carga vehicular, por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -447,19 +460,6 @@
       "url": "https://nitter.net/CAPUFE/status/2043410490374619191#m",
       "timestamp": "2026-04-12T19:26:40+00:00",
       "timestamp_display": "12/04/2026 13:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóviles. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/nMBGJEhCVAU4xMnH8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 93,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043405348136984862#m",
-      "timestamp": "2026-04-12T19:06:14+00:00",
-      "timestamp_display": "12/04/2026 13:06 CST",
       "segment": null
     },
     {
@@ -512,6 +512,19 @@
       "url": "https://nitter.net/CAPUFE/status/2043406348210049340#m",
       "timestamp": "2026-04-12T19:10:12+00:00",
       "timestamp_display": "12/04/2026 13:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóviles. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/nMBGJEhCVAU4xMnH8",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 93,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043405348136984862#m",
+      "timestamp": "2026-04-12T19:06:14+00:00",
+      "timestamp_display": "12/04/2026 13:06 CST",
       "segment": null
     }
   ]
