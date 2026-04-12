@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T10:59:42.280400",
+  "last_update": "2026-04-12T11:42:32.079274",
   "incidents": [
     {
       "title": "#TomePrecauciones en #NuevoLeón registra cierre parcial de circulación por #AccidenteVial cerca del km 175+600 de la carretera Cd. Victoria - Monterrey, Atienda indicación Vial.",
@@ -262,6 +262,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2042949759376175152#m",
       "timestamp": "2026-04-11T12:55:53+00:00",
       "timestamp_display": "11/04/2026 06:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Agua Dulce - Cárdenas, km 73, dirección Agua Dulce. Cierre a la circulación por atención de incidente (maniobras para el retiro de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 73,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043283797001572538#m",
+      "timestamp": "2026-04-12T11:03:14+00:00",
+      "timestamp_display": "12/04/2026 05:03 CST",
       "segment": null
     },
     {
@@ -530,19 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2043155307677823158#m",
       "timestamp": "2026-04-12T02:32:39+00:00",
       "timestamp_display": "11/04/2026 20:32 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 49. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular en ambos sentidos.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043152149882826873#m",
-      "timestamp": "2026-04-12T02:20:07+00:00",
-      "timestamp_display": "11/04/2026 20:20 CST",
       "segment": null
     }
   ]
