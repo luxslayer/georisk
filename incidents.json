@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T19:08:37.792584",
+  "last_update": "2026-04-12T19:52:57.724784",
   "incidents": [
     {
       "title": "#TomePrecauciones en #QuintanaRoo se registra cierre parcial de circulación por #AccidenteVial cerca del km 021+200, de la carretera Reforma Agraria-Puerto Juárez, a la altura del Mpio. Benito Juárez, con dir.  a Cancún. Atienda indicación Vial.",
@@ -265,6 +265,58 @@
       ]
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠  \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043416967567278100#m",
+      "timestamp": "2026-04-12T19:52:24+00:00",
+      "timestamp_display": "12/04/2026 13:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 24, dirección CDMX. Continúa carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043416351189135407#m",
+      "timestamp": "2026-04-12T19:49:57+00:00",
+      "timestamp_display": "12/04/2026 13:49 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 95, dirección CDMX. Reducción de carriles por atención de salida del camino y volcadura de autobús.\n\nEn la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/2p6rJAe7HZy1P8cq9",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043411201745731883#m",
+      "timestamp": "2026-04-12T19:29:29+00:00",
+      "timestamp_display": "12/04/2026 13:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 46, dirección CDMX. Carga vehicular, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 46,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043410490374619191#m",
+      "timestamp": "2026-04-12T19:26:40+00:00",
+      "timestamp_display": "12/04/2026 13:26 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóviles. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/nMBGJEhCVAU4xMnH8",
       "type": "twitter",
       "lat": 20.5888,
@@ -275,6 +327,58 @@
       "url": "https://nitter.net/CAPUFE/status/2043405348136984862#m",
       "timestamp": "2026-04-12T19:06:14+00:00",
       "timestamp_display": "12/04/2026 13:06 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 93, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo embargo, en la zona registra carga vehicular y #lluvia.\n\nDisminuye tu velocidad y manejar con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 93,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043409541522694354#m",
+      "timestamp": "2026-04-12T19:22:54+00:00",
+      "timestamp_display": "12/04/2026 13:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠          \nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección Isla, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043408873315307666#m",
+      "timestamp": "2026-04-12T19:20:14+00:00",
+      "timestamp_display": "12/04/2026 13:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Guaymas - Hermosillo, km 169, dirección Hermosillo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 169,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043408276650344743#m",
+      "timestamp": "2026-04-12T19:17:52+00:00",
+      "timestamp_display": "12/04/2026 13:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, registra #lluvia del km 84 al 98. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 84,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043406348210049340#m",
+      "timestamp": "2026-04-12T19:10:12+00:00",
+      "timestamp_display": "12/04/2026 13:10 CST",
       "segment": null
     },
     {
@@ -406,116 +510,6 @@
       "timestamp": "2026-04-12T16:46:25+00:00",
       "timestamp_display": "12/04/2026 10:46 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 201, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 201,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043368900054692230#m",
-      "timestamp": "2026-04-12T16:41:24+00:00",
-      "timestamp_display": "12/04/2026 10:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista La Tinaja - Isla, km 89, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 89,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043365875089117554#m",
-      "timestamp": "2026-04-12T16:29:23+00:00",
-      "timestamp_display": "12/04/2026 10:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 328, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 328,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043350666517578028#m",
-      "timestamp": "2026-04-12T15:28:57+00:00",
-      "timestamp_display": "12/04/2026 09:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 35, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.797176859242946,
-      "lng": -96.59132662984878,
-      "road": 150,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043346398301585691#m",
-      "timestamp": "2026-04-12T15:11:59+00:00",
-      "timestamp_display": "12/04/2026 09:11 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 201, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 201,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043345814316040535#m",
-      "timestamp": "2026-04-12T15:09:40+00:00",
-      "timestamp_display": "12/04/2026 09:09 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nLa velocidad también es una decisión que protege vidas.\n👉 Modérala y continúa tu camino con tranquilidad. 🚗\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043328286839751068#m",
-      "timestamp": "2026-04-12T14:00:01+00:00",
-      "timestamp_display": "12/04/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Guaymas - Hermosillo, km 169, dirección Hermosillo. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 169,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043327215186641131#m",
-      "timestamp": "2026-04-12T13:55:45+00:00",
-      "timestamp_display": "12/04/2026 07:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 35, dirección Córdoba. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.797176859242946,
-      "lng": -96.59132662984878,
-      "road": 150,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043326875208937580#m",
-      "timestamp": "2026-04-12T13:54:24+00:00",
-      "timestamp_display": "12/04/2026 07:54 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
