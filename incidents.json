@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-04-12T14:25:47.946005",
+  "last_update": "2026-04-12T15:06:15.083570",
   "incidents": [
+    {
+      "title": "Continúa en #Sinaloa presencia de personas cerca de la caseta de cobro \"El Pisal\" en la carretera Los Mochis–Culiacán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2043341034696896830#m",
+      "timestamp": "2026-04-12T14:50:40+00:00",
+      "timestamp_display": "12/04/2026 08:50 CST",
+      "segment": null
+    },
+    {
+      "title": "Continua en #Sinaloa cierre parcial de circulación por presencia de personas, en la carretera Culiacán-Los Mochis, a la altura de la caseta de cobro \"Cuatro Caminos\". Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2043340813770395992#m",
+      "timestamp": "2026-04-12T14:49:48+00:00",
+      "timestamp_display": "12/04/2026 08:49 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sinaloa  se continúa con el cierre parcial de circulación por presencia de personas, en la carretera Mazatlán-Culiacán, a la altura de la caseta de cobro \"Costa Rica\". Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2043340613014204647#m",
+      "timestamp": "2026-04-12T14:49:00+00:00",
+      "timestamp_display": "12/04/2026 08:49 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 044+500, de la carretera Guadalajara-Ocotlán, a inmediaciones de la Localidad de Atequiza, con dir. a Ocotlán. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 44.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2043339687213867437#m",
+      "timestamp": "2026-04-12T14:45:19+00:00",
+      "timestamp_display": "12/04/2026 08:45 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 115+000 de la carretera Posa Rica-Veracruz, Atienda indicación Vial.",
       "type": "twitter",
