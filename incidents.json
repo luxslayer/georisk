@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-04-13T23:03:24.998658",
+  "last_update": "2026-04-13T23:59:40.513013",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km  073 + 100, de la carretera Tepic - Puerto Vallarta,  a la altura del Mpio. El Guayabal. #Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 21.502,
+      "lng": -104.89,
+      "road": null,
+      "km": 73,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2043829781704159260#m",
+      "timestamp": "2026-04-13T23:12:47+00:00",
+      "timestamp_display": "13/04/2026 17:12 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosí se registra cierre parcial de circulación por #AccidenteVial cerca del Km 159+600, de la  Carretera Querétaro-San Luis Potosí,  a la altura del poblado Huizache. #Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 21.830992326663512,
+      "lng": -100.7288742779555,
+      "road": 57,
+      "km": 159.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2043827785412624831#m",
+      "timestamp": "2026-04-13T23:04:51+00:00",
+      "timestamp_display": "13/04/2026 17:04 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
     {
       "title": "#ViaLibre en #Guerrero se registra cierre parcial de circulación en ambos sentidos por presencia de personas cerca del Km 006 + 200,  a la altura del poblado el Cayaco. #Maneje con precaución.",
       "type": "twitter",
@@ -239,29 +268,32 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km 076+500, de la carretera Querétaro-León, a la altura del poblado Cerro Gordo, con dir. a Irapuato. Atienda indicación Vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, Plaza de Cobro Pte. Ing. Antonio Dovalí Jaime, dirección Nuevo Teapa. La incidencia ha sido atendida. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 76.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2043544393366241475#m",
-      "timestamp": "2026-04-13T04:18:45+00:00",
-      "timestamp_display": "12/04/2026 22:18 CST",
-      "segment": null
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": 180,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043837430877335682#m",
+      "timestamp": "2026-04-13T23:43:10+00:00",
+      "timestamp_display": "13/04/2026 17:43 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
     },
     {
-      "title": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+500, de la carretera Aguascalientes-Jalpa, a la altura del poblado Villas de Montecarlo. Atienda indicación Vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
-      "km": 11.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2043523382419845437#m",
-      "timestamp": "2026-04-13T02:55:15+00:00",
-      "timestamp_display": "12/04/2026 20:55 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043829481475854677#m",
+      "timestamp": "2026-04-13T23:11:35+00:00",
+      "timestamp_display": "13/04/2026 17:11 CST",
       "segment": null
     },
     {
@@ -511,32 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2043768109522141384#m",
       "timestamp": "2026-04-13T19:07:43+00:00",
       "timestamp_display": "13/04/2026 13:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoCuernavaca, km 24, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043761230758760530#m",
-      "timestamp": "2026-04-13T18:40:23+00:00",
-      "timestamp_display": "13/04/2026 12:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 66, dirección CDMX. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043760734073409738#m",
-      "timestamp": "2026-04-13T18:38:24+00:00",
-      "timestamp_display": "13/04/2026 12:38 CST",
       "segment": null
     }
   ]
