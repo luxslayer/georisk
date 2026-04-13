@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-13T08:35:17.896423",
+  "last_update": "2026-04-13T10:22:08.696263",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+700, de la carretera Torreón-Saltillo, a inmediaciones del Ejido San Patricio, Mpio. San Pedro, con dir. a Torreón. Atienda indicación Vial.",
@@ -177,19 +177,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre de total por maniobras tras #AccidenteVial cerca del km 155+500, de la carretera Libramiento estación Manuel-Estación González. Atienda indicación Vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 155.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2043398102778888504#m",
-      "timestamp": "2026-04-12T18:37:26+00:00",
-      "timestamp_display": "12/04/2026 12:37 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: La vialidad permanecerá cerrada aprox. 3 hrs.\nSe les invita a tomar la #RutaAlterna Con dirección de Tampico a Victoria carretera Victoria - Zaragoza",
       "type": "twitter",
       "lat": 23.5,
@@ -199,6 +186,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2043398105194738020#m",
       "timestamp": "2026-04-12T18:37:27+00:00",
+      "timestamp_display": "12/04/2026 12:37 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre de total por maniobras tras #AccidenteVial cerca del km 155+500, de la carretera Libramiento estación Manuel-Estación González. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 155.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2043398102778888504#m",
+      "timestamp": "2026-04-12T18:37:26+00:00",
       "timestamp_display": "12/04/2026 12:37 CST",
       "segment": null
     },
@@ -265,6 +265,84 @@
       "url": "https://nitter.net/GN_Carreteras/status/2043345554688593973#m",
       "timestamp": "2026-04-12T15:08:38+00:00",
       "timestamp_display": "12/04/2026 09:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Hermosillo - Magdalena, km 181, dirección Hermosillo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 181,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043631183997604205#m",
+      "timestamp": "2026-04-13T10:03:37+00:00",
+      "timestamp_display": "13/04/2026 04:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cuernavaca - Acapulco, registra #lluvia a la altura de la plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043621226912841823#m",
+      "timestamp": "2026-04-13T09:24:03+00:00",
+      "timestamp_display": "13/04/2026 03:24 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 135, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 135,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043619181405376529#m",
+      "timestamp": "2026-04-13T09:15:56+00:00",
+      "timestamp_display": "13/04/2026 03:15 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 135, dirección Querétaro. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 135,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043611465823695173#m",
+      "timestamp": "2026-04-13T08:45:16+00:00",
+      "timestamp_display": "13/04/2026 02:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 47, dirección Cuernavaca. Reducción de carriles por atención de salida del camino de camioneta. En la zona se registra derrame de combustible. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/B5T1iVHJZ7eUhsxJ7",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 47,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2043609981480485369#m",
+      "timestamp": "2026-04-13T08:39:22+00:00",
+      "timestamp_display": "13/04/2026 02:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 130. Circulación intermitente en ambos sentidos por atención de accidente (choque de costado). Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 130,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2043609161083027854#m",
+      "timestamp": "2026-04-13T08:36:07+00:00",
+      "timestamp_display": "13/04/2026 02:36 CST",
       "segment": null
     },
     {
@@ -453,90 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2043579685850816829#m",
       "timestamp": "2026-04-13T06:38:59+00:00",
       "timestamp_display": "13/04/2026 00:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 0, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 0,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2043577952386859365#m",
-      "timestamp": "2026-04-13T06:32:06+00:00",
-      "timestamp_display": "13/04/2026 00:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 188, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 188,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043575828148019552#m",
-      "timestamp": "2026-04-13T06:23:39+00:00",
-      "timestamp_display": "13/04/2026 00:23 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoPuebla, km 51. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles en ambos sentidos.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.30528975894463,
-      "lng": -98.7455705916305,
-      "road": 150,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043575536006627764#m",
-      "timestamp": "2026-04-13T06:22:30+00:00",
-      "timestamp_display": "13/04/2026 00:22 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoPuebla, km 51, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación. El personal de CAPUFE, se encuentra en el lugar realizando las labores de atención del accidente. \n\n🔘 Dirección Puebla, continúa reducción de carriles por remoción de muros centrales.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.30528975894463,
-      "lng": -98.7455705916305,
-      "road": 150,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043571918742143414#m",
-      "timestamp": "2026-04-13T06:08:07+00:00",
-      "timestamp_display": "13/04/2026 00:08 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 76, dirección Irapuato. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente.  \n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 76,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043569608909558056#m",
-      "timestamp": "2026-04-13T05:58:57+00:00",
-      "timestamp_display": "12/04/2026 23:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 94, dirección Cuernavaca. Cierre a la circulación en el Distribuidor Vial Palmira por atención de accidente (choque por alcance múltiple). Circulación por carriles laterales. \n\nEn la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2043568533011849436#m",
-      "timestamp": "2026-04-13T05:54:40+00:00",
-      "timestamp_display": "12/04/2026 23:54 CST",
       "segment": null
     }
   ]
