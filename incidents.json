@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-04-14T21:34:59.987434",
+  "last_update": "2026-04-14T22:30:18.548806",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #NL se registra cierre parcial de circulación tras #AccidenteVial cerca del km 074+000, de la carretera Saltillo - Monterrey. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 25.69459355436164,
+      "lng": -100.63002111337258,
+      "road": 40,
+      "km": 54.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2044178419756216611#m",
+      "timestamp": "2026-04-14T22:18:08+00:00",
+      "timestamp_display": "14/04/2026 16:18 CST",
+      "segment": [
+        "saltillo",
+        "monterrey"
+      ]
+    },
+    {
+      "title": "#TomePrecaución en #Guerrero se registra cierre parcial de circulación tras #AccidenteVial cerca del km 212+200, de la carretera Cuernavaca-Chilpancingo (Directo). Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 212.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2044177915353461173#m",
+      "timestamp": "2026-04-14T22:16:08+00:00",
+      "timestamp_display": "14/04/2026 16:16 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #CDMX se registra cierre parcial de circulación tras #VehículoIncendiado cerca del km 017+100, de la carretera México (Ent. Costituyentes)- La Marquesa (Directo). Atienda indicación Vial.",
       "type": "twitter",
@@ -203,6 +232,84 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 144, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 144,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044176606718054627#m",
+      "timestamp": "2026-04-14T22:10:56+00:00",
+      "timestamp_display": "14/04/2026 16:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, km 10, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Atizapan, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2044172127952154802#m",
+      "timestamp": "2026-04-14T21:53:08+00:00",
+      "timestamp_display": "14/04/2026 15:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2044171775404044298#m",
+      "timestamp": "2026-04-14T21:51:44+00:00",
+      "timestamp_display": "14/04/2026 15:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2044171705451511842#m",
+      "timestamp": "2026-04-14T21:51:28+00:00",
+      "timestamp_display": "14/04/2026 15:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, Plaza de Cobro La Venta, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044168885331447991#m",
+      "timestamp": "2026-04-14T21:40:15+00:00",
+      "timestamp_display": "14/04/2026 15:40 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 79, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular.\n\nUnidades de Guardia Nacional realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 79,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044168551674806552#m",
+      "timestamp": "2026-04-14T21:38:56+00:00",
+      "timestamp_display": "14/04/2026 15:38 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DECIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán, dirección Tehuacán. Continúa reducción de carriles por presencia de manifestantes.\nPara más información de tramo libre, llama al 088 de @GN_Carreteras. Maneja con precaución.",
       "type": "twitter",
       "lat": 17.072,
@@ -216,7 +323,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 79, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente.  \n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 79, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente.  \n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -385,71 +492,6 @@
       "url": "https://nitter.net/CAPUFE/status/2044139074433192101#m",
       "timestamp": "2026-04-14T19:41:48+00:00",
       "timestamp_display": "14/04/2026 13:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán, dirección Tehuacán. Reducción de carriles por presencia de manifestantes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044128347836326262#m",
-      "timestamp": "2026-04-14T18:59:10+00:00",
-      "timestamp_display": "14/04/2026 12:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044125303069450749#m",
-      "timestamp": "2026-04-14T18:47:04+00:00",
-      "timestamp_display": "14/04/2026 12:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 90, dirección La Tinaja. Reducción de carriles por atención de incidente (desprendimiento de remolque). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 90,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044116205020025074#m",
-      "timestamp": "2026-04-14T18:10:55+00:00",
-      "timestamp_display": "14/04/2026 12:10 CST",
-      "segment": null
-    },
-    {
-      "title": "El fentanilo puede estar presente en muchas drogas sin que lo sepas.\nUna sola exposición puede tener consecuencias graves o incluso fatales.\nInfórmate, protege tu salud y busca ayuda si la necesitas.\n#AléjateDeLasDrogas #EligeSerFeliz #ElFentaniloTeMata",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044113459265069445#m",
-      "timestamp": "2026-04-14T18:00:01+00:00",
-      "timestamp_display": "14/04/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 131, dirección Puebla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 131,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044111819153805495#m",
-      "timestamp": "2026-04-14T17:53:30+00:00",
-      "timestamp_display": "14/04/2026 11:53 CST",
       "segment": null
     }
   ]
