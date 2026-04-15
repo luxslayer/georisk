@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-15T09:21:16.043573",
+  "last_update": "2026-04-15T10:42:13.399157",
   "incidents": [
     {
       "title": "#VialidadLibre en #Michoacán tras #AccidenteVial cerca del km. 159+150, de la carretera Atlacomulco-Maravatio. Maneje con Precaución.",
@@ -274,6 +274,77 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 245, dirección Cd. Mendoza. Cierre a la circulación por atención del accidente (labores de limpieza). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 245,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044364711941001296#m",
+      "timestamp": "2026-04-15T10:38:24+00:00",
+      "timestamp_display": "15/04/2026 04:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 18, dirección Cosoleacaque. Se restablece la circulación de manera normal. Sin embargo, se continúa con la atención del accidente, por el momento sin afectación a los carriles de rodamiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.01617240622241,
+      "lng": -94.4615822800037,
+      "road": 180,
+      "km": 18,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044355548229804307#m",
+      "timestamp": "2026-04-15T10:01:59+00:00",
+      "timestamp_display": "15/04/2026 04:01 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuauhtémoc – Osiris, km 92. Circulación intermitente en ambos sentidos por atención de accidente (choque de costado entre tracto camiones). Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 92,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044354936519925790#m",
+      "timestamp": "2026-04-15T09:59:33+00:00",
+      "timestamp_display": "15/04/2026 03:59 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa reducción de carriles por atención del accidente (maniobras para el retiro de unidades siniestradas).\n\nEn la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 8,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044351220274377119#m",
+      "timestamp": "2026-04-15T09:44:47+00:00",
+      "timestamp_display": "15/04/2026 03:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 18, dirección Cosoleacaque. Continúa cierre a la circulación por atención de incendio de tracto camión. \n\nEl personal de CAPUFE y Protección Civil, realizan las labores en la zona. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.01617240622241,
+      "lng": -94.4615822800037,
+      "road": 180,
+      "km": 18,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044349875937034412#m",
+      "timestamp": "2026-04-15T09:39:27+00:00",
+      "timestamp_display": "15/04/2026 03:39 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 18, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.01617240622241,
@@ -355,7 +426,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras de grúa para el retiro de unidades siniestradas).\n\nEn la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras de grúa para el retiro de unidades siniestradas).\n\nEn la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -443,45 +514,6 @@
       "url": "https://nitter.net/CAPUFE/status/2044296377623027850#m",
       "timestamp": "2026-04-15T06:06:52+00:00",
       "timestamp_display": "15/04/2026 00:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 123, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 123,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044293583990071434#m",
-      "timestamp": "2026-04-15T05:55:46+00:00",
-      "timestamp_display": "14/04/2026 23:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa cierre a la circulación por atención del accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 8,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044289968026050926#m",
-      "timestamp": "2026-04-15T05:41:24+00:00",
-      "timestamp_display": "14/04/2026 23:41 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAut. Las Choapas - Ocozocoautla, km 196, dirección Ocozocoautla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 196,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044288261980389785#m",
-      "timestamp": "2026-04-15T05:34:37+00:00",
-      "timestamp_display": "14/04/2026 23:34 CST",
       "segment": null
     }
   ]
