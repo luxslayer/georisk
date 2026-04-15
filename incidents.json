@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-15T07:48:32.657857",
+  "last_update": "2026-04-15T09:21:16.043573",
   "incidents": [
     {
       "title": "#VialidadLibre en #Michoacán tras #AccidenteVial cerca del km. 159+150, de la carretera Atlacomulco-Maravatio. Maneje con Precaución.",
@@ -274,6 +274,87 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 18, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.01617240622241,
+      "lng": -94.4615822800037,
+      "road": 180,
+      "km": 18,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044335707741688123#m",
+      "timestamp": "2026-04-15T08:43:09+00:00",
+      "timestamp_display": "15/04/2026 02:43 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAut. Las Choapas - Ocozocoautla, km 0, dirección Ocozocoautla. Circulación intermitente por atención de accidente (salida del camino de tracto camión). \n\nEn la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044330713047089467#m",
+      "timestamp": "2026-04-15T08:23:18+00:00",
+      "timestamp_display": "15/04/2026 02:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido, por lo que se restablece la circulación desde las Plazas de Cobro Los Chorros y Huachichil. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044325280404095419#m",
+      "timestamp": "2026-04-15T08:01:43+00:00",
+      "timestamp_display": "15/04/2026 02:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 80, dirección Ensenada. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2044324139159126219#m",
+      "timestamp": "2026-04-15T07:57:11+00:00",
+      "timestamp_display": "15/04/2026 01:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 245, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (salida del camino y volcadura de camión de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 245,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044323141070053744#m",
+      "timestamp": "2026-04-15T07:53:13+00:00",
+      "timestamp_display": "15/04/2026 01:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 123, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 123,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044322550965039170#m",
+      "timestamp": "2026-04-15T07:50:52+00:00",
+      "timestamp_display": "15/04/2026 01:50 CST",
+      "segment": null
+    },
+    {
       "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras de grúa para el retiro de unidades siniestradas).\n\nEn la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -401,84 +482,6 @@
       "url": "https://nitter.net/CAPUFE/status/2044288261980389785#m",
       "timestamp": "2026-04-15T05:34:37+00:00",
       "timestamp_display": "14/04/2026 23:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 30, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044279519125622911#m",
-      "timestamp": "2026-04-15T04:59:52+00:00",
-      "timestamp_display": "14/04/2026 22:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Continúa cierre a la circulación por atención de accidente (choque por alcance e incendio de tracto camión).\n\nEl personal de la Fiscalía se encuentra en la zona realizando los servicios periciales.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 8,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044273037227290651#m",
-      "timestamp": "2026-04-15T04:34:07+00:00",
-      "timestamp_display": "14/04/2026 22:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Querétaro - Irapuato, km 30, dirección Irapuato. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044272522506465671#m",
-      "timestamp": "2026-04-15T04:32:04+00:00",
-      "timestamp_display": "14/04/2026 22:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Querétaro - Irapuato, km 30, dirección Irapuato. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044272509046886420#m",
-      "timestamp": "2026-04-15T04:32:01+00:00",
-      "timestamp_display": "14/04/2026 22:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada).\n\nPor seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044270860459032726#m",
-      "timestamp": "2026-04-15T04:25:28+00:00",
-      "timestamp_display": "14/04/2026 22:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Las Choapas - Ocozocoautla, km 196, dirección Ocozocoautla. Registra reducción de carriles por atención de choque de tracto camión contra las barreras metálicas.\n\nEn la zona se registra derrame de combustible. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/tcw2ZbFDoXdkzbut7",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 196,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044265467213226379#m",
-      "timestamp": "2026-04-15T04:04:02+00:00",
-      "timestamp_display": "14/04/2026 22:04 CST",
       "segment": null
     }
   ]
