@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-04-15T20:51:12.205934",
+  "last_update": "2026-04-15T21:53:35.403988",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Veracruz se registra cierre  parcial de circulación tras #AccidenteVial cerca del km 010+900, de la carretera Córdoba-Ent. La Tinaja ,con dir. a Ver. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 18.85676726500151,
+      "lng": -96.80948449720692,
+      "road": 150,
+      "km": 10.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2044533551433961494#m",
+      "timestamp": "2026-04-15T21:49:18+00:00",
+      "timestamp_display": "15/04/2026 15:49 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
     {
       "title": "#ViaLibre en #Michoacán  tras presencia de personas cerca del km 102+200, de la carretera Uruapan-Lázaro Cárdenas, a inmediaciones de la caseta de cobro \"Taretan\". Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +268,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Oaxaca se registra cierre parcial de circulación tras #VehiculoIncendiado cerca del km 021+100, de la carretera Oaxaca-Tehuantepec(Mitla), a la altura del Mpio. San Lorenzo Albarradas. Atienda indicación Vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 277, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 21.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2044436588835287105#m",
-      "timestamp": "2026-04-15T15:24:01+00:00",
-      "timestamp_display": "15/04/2026 09:24 CST",
+      "km": 277,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044534426814603279#m",
+      "timestamp": "2026-04-15T21:52:47+00:00",
+      "timestamp_display": "15/04/2026 15:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.856496016994058,
+      "lng": -96.80857847858043,
+      "road": 150,
+      "km": 11,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044530855595413723#m",
+      "timestamp": "2026-04-15T21:38:36+00:00",
+      "timestamp_display": "15/04/2026 15:38 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 277, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 277,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044521160147112428#m",
+      "timestamp": "2026-04-15T21:00:04+00:00",
+      "timestamp_display": "15/04/2026 15:00 CST",
       "segment": null
     },
     {
@@ -496,35 +541,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 20, dirección Veracruz. Reducción de carriles por atención de incidente (incendio de pastizal). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.83390991687994,
-      "lng": -96.72699438264952,
-      "road": 150,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044481319837606066#m",
-      "timestamp": "2026-04-15T18:21:45+00:00",
-      "timestamp_display": "15/04/2026 12:21 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Guaymas - Hermosillo, km 139, dirección Guaymas. Cierre a la circulación por atención de accidente (volcadura de camioneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 139,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044477214616428981#m",
-      "timestamp": "2026-04-15T18:05:27+00:00",
-      "timestamp_display": "15/04/2026 12:05 CST",
-      "segment": null
     }
   ]
 }
