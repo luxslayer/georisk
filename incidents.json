@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-16T08:03:28.862039",
+  "last_update": "2026-04-16T09:49:46.715888",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 281+480, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. de Chilpancingo. Atienda indicación vial.",
@@ -274,6 +274,64 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 4, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.861599282857014,
+      "lng": -96.87308385020576,
+      "road": 150,
+      "km": 4,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2044710020890136711#m",
+      "timestamp": "2026-04-16T09:30:32+00:00",
+      "timestamp_display": "16/04/2026 03:30 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 4, dirección Veracruz. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.861599282857014,
+      "lng": -96.87308385020576,
+      "road": 150,
+      "km": 4,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2044709909288169791#m",
+      "timestamp": "2026-04-16T09:30:05+00:00",
+      "timestamp_display": "16/04/2026 03:30 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🔴  CIERRE DE CIRCULACIÓN  🔴\nAut. Chamapa - Lechería, km 10, dirección Lechería. Continúa cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044699770887741476#m",
+      "timestamp": "2026-04-16T08:49:48+00:00",
+      "timestamp_display": "16/04/2026 02:49 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por atención de accidente.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 8,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044693417905582133#m",
+      "timestamp": "2026-04-16T08:24:34+00:00",
+      "timestamp_display": "16/04/2026 02:24 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 9, dirección Cuautla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -365,7 +423,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por atención del accidente. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por atención del accidente. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -482,58 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2044633527694549324#m",
       "timestamp": "2026-04-16T04:26:35+00:00",
       "timestamp_display": "15/04/2026 22:26 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 194, dirección CDMX. Registra reducción de carriles por atención de choque por alcance múltiple entre tracto camión y automóviles.\n \nManeja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/8XXCNAhgaRndKWHk6",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044629303703310730#m",
-      "timestamp": "2026-04-16T04:09:48+00:00",
-      "timestamp_display": "15/04/2026 22:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 23, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044621081273618472#m",
-      "timestamp": "2026-04-16T03:37:07+00:00",
-      "timestamp_display": "15/04/2026 21:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tecate - La Rumorosa, km 78, dirección La Rumorosa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 78,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044620760929415579#m",
-      "timestamp": "2026-04-16T03:35:51+00:00",
-      "timestamp_display": "15/04/2026 21:35 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Acayucan, km 143, dirección Isla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 143,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044619129890517123#m",
-      "timestamp": "2026-04-16T03:29:22+00:00",
-      "timestamp_display": "15/04/2026 21:29 CST",
       "segment": null
     }
   ]
