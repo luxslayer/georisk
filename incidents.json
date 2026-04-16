@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-15T23:29:28.471603",
+  "last_update": "2026-04-16T00:09:49.810112",
   "incidents": [
+    {
+      "title": "#ViaLibre en #EdoMéx tras presencia de personas en la carretera Libramiento Norte de la Ciudad de México, cerca del km 153+000, a inmediaciones de la caseta de cobro \"Tulancingo\". Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 153.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2044566902161158339#m",
+      "timestamp": "2026-04-16T00:01:50+00:00",
+      "timestamp_display": "15/04/2026 18:01 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #Chiapas se registra cierre  parcial de circulación tras #AccidenteVial cerca del km 002+700, de la carretera Ocozocoautla-Arriaga, con dir. a Arriaga. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 2.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2044564521767829750#m",
+      "timestamp": "2026-04-15T23:52:22+00:00",
+      "timestamp_display": "15/04/2026 17:52 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Guerreo se registra cierre  parcial de circulación tras #VehículoIncendiado cerca del km 313+900, de la carretera Acapulco-Chilpancingo, con dir. a Chilpancingo. Atienda indicación vial.",
       "type": "twitter",
@@ -180,19 +206,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre de circulación por presencia de personas cerca del km 053+500, de la carretera Libramiento La Ventosa-Salina Cruz, a la altura de la caseta de cobro No. 90 Cd. Ixtepec. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 53.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2044483148730282373#m",
-      "timestamp": "2026-04-15T18:29:01+00:00",
-      "timestamp_display": "15/04/2026 12:29 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Los manifestantes dan paso libre a la circulación después de realizar boteo.",
       "type": "twitter",
       "lat": 23.5,
@@ -206,16 +219,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas, cerca del Km 278+200, de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Puente Madera, Mpio. San Blas Atempa. Atienda indicación vial.",
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre de circulación por presencia de personas cerca del km 053+500, de la carretera Libramiento La Ventosa-Salina Cruz, a la altura de la caseta de cobro No. 90 Cd. Ixtepec. Atienda indicación vial.",
       "type": "twitter",
       "lat": 16.17,
       "lng": -95.2,
       "road": null,
-      "km": 278.2,
+      "km": 53.5,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2044480401440117152#m",
-      "timestamp": "2026-04-15T18:18:06+00:00",
-      "timestamp_display": "15/04/2026 12:18 CST",
+      "url": "https://nitter.net/GN_Carreteras/status/2044483148730282373#m",
+      "timestamp": "2026-04-15T18:29:01+00:00",
+      "timestamp_display": "15/04/2026 12:29 CST",
       "segment": null
     },
     {
@@ -228,6 +241,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2044480418360004931#m",
       "timestamp": "2026-04-15T18:18:11+00:00",
+      "timestamp_display": "15/04/2026 12:18 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas, cerca del Km 278+200, de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Puente Madera, Mpio. San Blas Atempa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 278.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2044480401440117152#m",
+      "timestamp": "2026-04-15T18:18:06+00:00",
       "timestamp_display": "15/04/2026 12:18 CST",
       "segment": null
     },
@@ -245,29 +271,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Querétaro se registra cierre parcial de circulación tras #AccidenteVial cerca del km 013+500, de la carretera Lib. Noreste de Qro.,  a la altura del Parque Industrial Terra Park Centenario, con dir. a Tampico. Atienda indicación Vial.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.  \nAutopista Isla - Acayucan, km 143. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos, por atención a incendio de tracto camión tipo pipa. \n\n➡️ Se desvía la circulación, de unidades tipo automóvil, a carretera libre a la altura de las Plazas de Cobro Acayucan y Cosamaloapan.\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": 13.5,
+      "km": 143,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2044474187662676358#m",
-      "timestamp": "2026-04-15T17:53:25+00:00",
-      "timestamp_display": "15/04/2026 11:53 CST",
+      "url": "https://nitter.net/CAPUFE/status/2044568149278822445#m",
+      "timestamp": "2026-04-16T00:06:47+00:00",
+      "timestamp_display": "15/04/2026 18:06 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 187+100, de la carretera Tuxpan-Tampico,  a la altura de Cd. Cuauhtémoc, con dir. a Tampico. Atienda indicación Vial.",
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 143, dirección Isla. Registra cierre a la circulación por atención de incendio de tracto camión tipo pipa.\n\nToma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/8vMQe98aW17RbCih8",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": 187.1,
+      "km": 143,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2044472783174799474#m",
-      "timestamp": "2026-04-15T17:47:50+00:00",
-      "timestamp_display": "15/04/2026 11:47 CST",
+      "url": "https://nitter.net/CAPUFE/status/2044563091065569340#m",
+      "timestamp": "2026-04-15T23:46:41+00:00",
+      "timestamp_display": "15/04/2026 17:46 CST",
       "segment": null
     },
     {
@@ -297,32 +323,6 @@
       "url": "https://nitter.net/CAPUFE/status/2044555393657917632#m",
       "timestamp": "2026-04-15T23:16:06+00:00",
       "timestamp_display": "15/04/2026 17:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 13, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones.\n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/PHqWqd45zBWsLN1Y7",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 13,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044411287321391608#m",
-      "timestamp": "2026-04-15T13:43:28+00:00",
-      "timestamp_display": "15/04/2026 07:43 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Se informa a las personas usuarias que se continúa reducción de carriles por atención del accidente. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 8,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044513034857505133#m",
-      "timestamp": "2026-04-15T20:27:47+00:00",
-      "timestamp_display": "15/04/2026 14:27 CST",
       "segment": null
     },
     {
@@ -381,22 +381,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Reducción de carriles por atención de choque por alcance entre tracto camiones y automóvil.\n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/APDoNSmJXQce66iw7",
-      "type": "twitter",
-      "lat": 18.856496016994058,
-      "lng": -96.80857847858043,
-      "road": 150,
-      "km": 11,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044500920382173669#m",
-      "timestamp": "2026-04-15T19:39:39+00:00",
-      "timestamp_display": "15/04/2026 13:39 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.856496016994058,
@@ -449,6 +433,19 @@
       "url": "https://nitter.net/CAPUFE/status/2044513597053706644#m",
       "timestamp": "2026-04-15T20:30:01+00:00",
       "timestamp_display": "15/04/2026 14:30 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Se informa a las personas usuarias que se continúa reducción de carriles por atención del accidente. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 8,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2044513034857505133#m",
+      "timestamp": "2026-04-15T20:27:47+00:00",
+      "timestamp_display": "15/04/2026 14:27 CST",
       "segment": null
     },
     {
@@ -536,30 +533,20 @@
       "segment": null
     },
     {
-      "title": "Image",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 11, dirección Veracruz. Reducción de carriles por atención de choque por alcance entre tracto camiones y automóvil.\n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/APDoNSmJXQce66iw7",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
+      "lat": 18.856496016994058,
+      "lng": -96.80857847858043,
+      "road": 150,
+      "km": 11,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044495522518519821#m",
-      "timestamp": "2026-04-15T19:18:12+00:00",
-      "timestamp_display": "15/04/2026 13:18 CST",
-      "segment": null
-    },
-    {
-      "title": "#AlertaAMBER \nCircunstancias: El 30 de marzo de 2026, la adolescente MARIANA BLANCO DÍAZ, fue vista por última vez en el municipio de San Blas, Nayarit, sin que hasta el momento se tenga noticias de su paradero. Se considera que la integridad de la adolescente se encuentra en riesgo toda vez que puede ser víctima de la comisión de un delito.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044495370311385413#m",
-      "timestamp": "2026-04-15T19:17:35+00:00",
-      "timestamp_display": "15/04/2026 13:17 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2044500920382173669#m",
+      "timestamp": "2026-04-15T19:39:39+00:00",
+      "timestamp_display": "15/04/2026 13:39 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     }
   ]
 }
