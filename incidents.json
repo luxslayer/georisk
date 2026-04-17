@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-17T03:35:55.064999",
+  "last_update": "2026-04-17T05:53:01.980714",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 058+000, de la autopista Cardel poza rica. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 58.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2044997019945546182#m",
+      "timestamp": "2026-04-17T04:30:58+00:00",
+      "timestamp_display": "16/04/2026 22:30 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación en ambos sentidos por presencia de personas cerca del km 090+000, de la carretera Teziutlán-Nautla. Atienda indicación vial.",
       "type": "twitter",
@@ -255,32 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Puebla se registra cierre total de de circulación tras presencia de personas cerca del km 134+000, de la autopista Puebla-Cordoba. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 129. Cierre a la circulación en ambos sentidos por atención de accidente (incendio de tracto camión). \n\n🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Malpasito permanecerá cerrada en dirección Ocozocoautla.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.06624570341556,
-      "lng": -98.11199731886808,
-      "road": 150,
-      "km": 25.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2044834898960097591#m",
-      "timestamp": "2026-04-16T17:46:45+00:00",
-      "timestamp_display": "16/04/2026 11:46 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 129,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045009898719617478#m",
+      "timestamp": "2026-04-17T05:22:08+00:00",
+      "timestamp_display": "16/04/2026 23:22 CST",
+      "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna Carretera Puebla - Tehuacan.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista La Tinaja - Isla, km 44, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": null,
+      "km": 44,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2044841351464825167#m",
-      "timestamp": "2026-04-16T18:12:24+00:00",
-      "timestamp_display": "16/04/2026 12:12 CST",
+      "url": "https://nitter.net/CAPUFE/status/2044989484006101487#m",
+      "timestamp": "2026-04-17T04:01:01+00:00",
+      "timestamp_display": "16/04/2026 22:01 CST",
       "segment": null
     },
     {
@@ -495,58 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2044896544734765509#m",
       "timestamp": "2026-04-16T21:51:43+00:00",
       "timestamp_display": "16/04/2026 15:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Lagos de Moreno - San Luis Potosí, km 27. Circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044893917913489557#m",
-      "timestamp": "2026-04-16T21:41:16+00:00",
-      "timestamp_display": "16/04/2026 15:41 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nLibramiento Noreste de Querétaro (Chichimequillas), km 8, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidad siniestrada.\n\nEn la zona se registra carga vehicular. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 8,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044892678916120655#m",
-      "timestamp": "2026-04-16T21:36:21+00:00",
-      "timestamp_display": "16/04/2026 15:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 9, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 9,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044884028549951757#m",
-      "timestamp": "2026-04-16T21:01:59+00:00",
-      "timestamp_display": "16/04/2026 15:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 110, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 110,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044881586814874007#m",
-      "timestamp": "2026-04-16T20:52:17+00:00",
-      "timestamp_display": "16/04/2026 14:52 CST",
       "segment": null
     }
   ]
