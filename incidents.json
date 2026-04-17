@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-17T10:37:40.793731",
+  "last_update": "2026-04-17T11:36:34.981959",
   "incidents": [
     {
       "title": "#VialidadLibre en # SLP se registra cierre parcial de circulación tras #AccidenteVial cerca del km 052+900, de la carretera San Luis Potosí - Matehuala. Maneje con precaución.",
@@ -268,6 +268,35 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Las Choapas - Ocozocoautla, km 129. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 129,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045103283035865155#m",
+      "timestamp": "2026-04-17T11:33:13+00:00",
+      "timestamp_display": "17/04/2026 05:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acayucan - Cosoleacaque, km 12, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.923094640168102,
+      "lng": -94.82744350482064,
+      "road": 145,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045096779834691790#m",
+      "timestamp": "2026-04-17T11:07:23+00:00",
+      "timestamp_display": "17/04/2026 05:07 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Cosoleacaque, km 138, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.0,
@@ -463,32 +492,6 @@
       "url": "https://nitter.net/CAPUFE/status/2044968982633934992#m",
       "timestamp": "2026-04-17T02:39:33+00:00",
       "timestamp_display": "16/04/2026 20:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 37, dirección Isla. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 37,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2044968678395932968#m",
-      "timestamp": "2026-04-17T02:38:21+00:00",
-      "timestamp_display": "16/04/2026 20:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Lagos de Moreno - San Luis Potosí, km 27. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2044954593038118944#m",
-      "timestamp": "2026-04-17T01:42:23+00:00",
-      "timestamp_display": "16/04/2026 19:42 CST",
       "segment": null
     }
   ]
