@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-17T21:10:49.845976",
+  "last_update": "2026-04-17T22:01:14.173311",
   "incidents": [
+    {
+      "title": "#Tomeprecaución en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 060+500, de la carretera Pátzcuaro-Uruapan, a la altura de la caseta de cobro \"Zirahuén\", con dir. a Uruapan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 60.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045251863193284868#m",
+      "timestamp": "2026-04-17T21:23:37+00:00",
+      "timestamp_display": "17/04/2026 15:23 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Michoacán tras presencia de personas cerca del km 008+200, de la carretera  Uruapan-Pátzcuaro. Maneje con precaución.",
       "type": "twitter",
@@ -255,16 +268,68 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación en ambos sentidos por presencia de personas cerca del km 008+200, de la carretera Cuacnopalan-Oaxaca. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 8.2,
+      "km": 230,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045261198820618391#m",
+      "timestamp": "2026-04-17T22:00:43+00:00",
+      "timestamp_display": "17/04/2026 16:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2045139333804396587#m",
-      "timestamp": "2026-04-17T13:56:28+00:00",
-      "timestamp_display": "17/04/2026 07:56 CST",
+      "url": "https://nitter.net/CAPUFE/status/2045257310797197803#m",
+      "timestamp": "2026-04-17T21:45:16+00:00",
+      "timestamp_display": "17/04/2026 15:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 85, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 85,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045254406967337116#m",
+      "timestamp": "2026-04-17T21:33:44+00:00",
+      "timestamp_display": "17/04/2026 15:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠      \nAutopista Cuernavaca - Acapulco, km 266, dirección Acapulco. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 266,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045252276437004665#m",
+      "timestamp": "2026-04-17T21:25:16+00:00",
+      "timestamp_display": "17/04/2026 15:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Gómez Palacio - Corralitos, km 106, dirección Gómez Palacio. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 106,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045251405309510030#m",
+      "timestamp": "2026-04-17T21:21:48+00:00",
+      "timestamp_display": "17/04/2026 15:21 CST",
       "segment": null
     },
     {
@@ -466,74 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045221262117540207#m",
       "timestamp": "2026-04-17T19:22:01+00:00",
       "timestamp_display": "17/04/2026 13:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 94, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.086167217775806,
-      "lng": -96.19533051684003,
-      "road": 150,
-      "km": 94,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045220971221545166#m",
-      "timestamp": "2026-04-17T19:20:52+00:00",
-      "timestamp_display": "17/04/2026 13:20 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 281, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 281,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045217214198899160#m",
-      "timestamp": "2026-04-17T19:05:56+00:00",
-      "timestamp_display": "17/04/2026 13:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 0, dirección CDMX. Registra carga vehicular por atención de accidente fuera de la cobertura de CAPUFE. Para más información, por favor llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045216491927199760#m",
-      "timestamp": "2026-04-17T19:03:04+00:00",
-      "timestamp_display": "17/04/2026 13:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 192. Registra carga vehicular en ambos sentidos por atención de accidente fuera de la cobertura de CAPUFE. Para más información, por favor llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 192,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045215979295187320#m",
-      "timestamp": "2026-04-17T19:01:02+00:00",
-      "timestamp_display": "17/04/2026 13:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 90, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 90,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045211752300761544#m",
-      "timestamp": "2026-04-17T18:44:14+00:00",
-      "timestamp_display": "17/04/2026 12:44 CST",
       "segment": null
     }
   ]
