@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-04-18T10:09:35.931325",
+  "last_update": "2026-04-18T11:01:26.014312",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Veracruz se registra cierre  parcial de circulación por #AccidenteVial cerca del km 116+000, de la carretera Córdoba-Ent. Boticaria, a la altura de la Loc. Córdoba. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": 116.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045448951109763543#m",
+      "timestamp": "2026-04-18T10:26:47+00:00",
+      "timestamp_display": "18/04/2026 04:26 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
     {
       "title": "#TomePrecaución en #Tabasco se registra cierre  parcial de circulación por #AccidenteVial cerca del km 070+800, de la carretera Coatzacoalcos-Villahermosa, a la altura del Mpio. de Villahermosa, con dir. a la Cd. de México.",
       "type": "twitter",
@@ -255,20 +271,17 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 092+000, de la carretera México-Puebla, con dir. a Puebla. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Oriente de Chihuahua, km 40. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.26920343360605,
-      "lng": -98.42709160468759,
-      "road": 150,
-      "km": 74.0,
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 40,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045218528630882483#m",
-      "timestamp": "2026-04-17T19:11:10+00:00",
-      "timestamp_display": "17/04/2026 13:11 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2045448351747920285#m",
+      "timestamp": "2026-04-18T10:24:24+00:00",
+      "timestamp_display": "18/04/2026 04:24 CST",
+      "segment": null
     },
     {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 35, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -498,19 +511,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045380570855686395#m",
       "timestamp": "2026-04-18T05:55:04+00:00",
       "timestamp_display": "17/04/2026 23:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 48, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). \n\nEn la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045379130309443823#m",
-      "timestamp": "2026-04-18T05:49:20+00:00",
-      "timestamp_display": "17/04/2026 23:49 CST",
       "segment": null
     }
   ]
