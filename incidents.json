@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-18T20:38:21.191731",
+  "last_update": "2026-04-18T21:18:47.043316",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 095+500, de la Carretera Zacatecas - Durango. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 95.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045606564082409776#m",
+      "timestamp": "2026-04-18T20:53:05+00:00",
+      "timestamp_display": "18/04/2026 14:53 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #BCS se registra cierre parcial de circulación por #AccidenteVial cerca del km 063+950, de la Carretera Ent. San Pedro - Todos Santos - Cabo San Lucas. Atienda Indicación Vial.",
       "type": "twitter",
@@ -264,20 +277,30 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #EdoMx se registra cierre  parcial de circulación por #AccidenteVial cerca del km 033+300, de la carretera  México-Puebla, a la altura del Mpio. San Marcos Huixtoco, con dir. a la Cd. de México. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.295153771326955,
-      "lng": -98.87475541937626,
-      "road": 150,
-      "km": 15.299999999999997,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045405726303027255#m",
-      "timestamp": "2026-04-18T07:35:01+00:00",
-      "timestamp_display": "18/04/2026 01:35 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045607052253315191#m",
+      "timestamp": "2026-04-18T20:55:01+00:00",
+      "timestamp_display": "18/04/2026 14:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Concluyen labores de mantenimiento. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045605578043511281#m",
+      "timestamp": "2026-04-18T20:49:09+00:00",
+      "timestamp_display": "18/04/2026 14:49 CST",
+      "segment": null
     },
     {
       "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista Nuevo Teapa - Cosoleacaque, km 18. Incendio de pastizal afecta visibilidad en ambos sentidos. Disminuye tu velocidad y maneja con precaución.",
@@ -319,32 +342,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045598646444409132#m",
       "timestamp": "2026-04-18T20:21:37+00:00",
       "timestamp_display": "18/04/2026 14:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Guaymas - Hermosillo, km 168. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/rNVgMw8CJPhDxrHx8",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 168,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045510995339042920#m",
-      "timestamp": "2026-04-18T14:33:19+00:00",
-      "timestamp_display": "18/04/2026 08:33 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación a contraflujo. El personal se encuentra laborando en la atención del accidente.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 168,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045562203965911088#m",
-      "timestamp": "2026-04-18T17:56:48+00:00",
-      "timestamp_display": "18/04/2026 11:56 CST",
       "segment": null
     },
     {
@@ -546,19 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045563553294250375#m",
       "timestamp": "2026-04-18T18:02:10+00:00",
       "timestamp_display": "18/04/2026 12:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠   \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045545990267019420#m",
-      "timestamp": "2026-04-18T16:52:23+00:00",
-      "timestamp_display": "18/04/2026 10:52 CST",
       "segment": null
     }
   ]
