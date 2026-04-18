@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-18T14:05:48.355625",
+  "last_update": "2026-04-18T14:58:20.618519",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 139+800, de la carretera Paso del Toro - Acayucan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 139.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045515828968210578#m",
+      "timestamp": "2026-04-18T14:52:32+00:00",
+      "timestamp_display": "18/04/2026 08:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras conclusión de maniobras por #AccidenteVial cerca del km 025+300 de la carretera Buena Vista - Tuxtepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 25.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045514654194000120#m",
+      "timestamp": "2026-04-18T14:47:52+00:00",
+      "timestamp_display": "18/04/2026 08:47 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #NuevoLeón se registra cierre total de circulación  por #VehículoIncendiado cerca del km 165+000, de la Autopista Monterrey-Nuevo Laredo, a la altura del Mpio. Sabinas Hidalgo. Atienda indicación vial.",
       "type": "twitter",
@@ -248,29 +274,29 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Michoacán tras presencia de personas cerca del km 008+200, de la carretera  Uruapan-Pátzcuaro. Maneje con precaución.",
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Guaymas - Hermosillo, km 168. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/rNVgMw8CJPhDxrHx8",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
+      "lat": 29.07,
+      "lng": -110.96,
       "road": null,
-      "km": 8.2,
+      "km": 168,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2045242918978363822#m",
-      "timestamp": "2026-04-17T20:48:05+00:00",
-      "timestamp_display": "17/04/2026 14:48 CST",
+      "url": "https://nitter.net/CAPUFE/status/2045510995339042920#m",
+      "timestamp": "2026-04-18T14:33:19+00:00",
+      "timestamp_display": "18/04/2026 08:33 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+150, de la carretera  Perote-Banderilla, a la altura del Mpio. Perote, con dir. a Xalapa. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.3574,
-      "lng": -96.5341,
-      "road": 180,
-      "km": 141.15,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 48,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045242433630282174#m",
-      "timestamp": "2026-04-17T20:46:09+00:00",
-      "timestamp_display": "17/04/2026 14:46 CST",
+      "url": "https://nitter.net/CAPUFE/status/2045509303935611109#m",
+      "timestamp": "2026-04-18T14:26:36+00:00",
+      "timestamp_display": "18/04/2026 08:26 CST",
       "segment": null
     },
     {
@@ -508,32 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045413103282614671#m",
       "timestamp": "2026-04-18T08:04:20+00:00",
       "timestamp_display": "18/04/2026 02:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 48, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). \n\nEn la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045412878153302135#m",
-      "timestamp": "2026-04-18T08:03:26+00:00",
-      "timestamp_display": "18/04/2026 02:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cd. Mendoza - Córdoba, km 268, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 268,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045406119699382646#m",
-      "timestamp": "2026-04-18T07:36:35+00:00",
-      "timestamp_display": "18/04/2026 01:36 CST",
       "segment": null
     }
   ]
