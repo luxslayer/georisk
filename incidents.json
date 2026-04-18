@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-18T14:58:20.618519",
+  "last_update": "2026-04-18T15:48:04.993432",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 126+140, de la autopista Maravatio- Atlacomulco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": 126.14,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045519449520763253#m",
+      "timestamp": "2026-04-18T15:06:55+00:00",
+      "timestamp_display": "18/04/2026 09:06 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 139+800, de la carretera Paso del Toro - Acayucan. Atienda indicación vial.",
       "type": "twitter",
@@ -261,20 +274,59 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecaución en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 060+500, de la carretera Pátzcuaro-Uruapan, a la altura de la caseta de cobro \"Zirahuén\", con dir. a Uruapan. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que se restablece la circulación a contraflujo. El personal continúa laborando en la atención del accidente.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
+      "lat": 29.07,
+      "lng": -110.96,
       "road": null,
-      "km": 60.5,
+      "km": 168,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045251863193284868#m",
-      "timestamp": "2026-04-17T21:23:37+00:00",
-      "timestamp_display": "17/04/2026 15:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2045528015434629461#m",
+      "timestamp": "2026-04-18T15:40:57+00:00",
+      "timestamp_display": "18/04/2026 09:40 CST",
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Guaymas - Hermosillo, km 168. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/rNVgMw8CJPhDxrHx8",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 84, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 84,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045526441224257565#m",
+      "timestamp": "2026-04-18T15:34:42+00:00",
+      "timestamp_display": "18/04/2026 09:34 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso.\n\nPor seguridad, se cierra la circulación desde el km 141 (Poblado Santa Gabriela) al km 250 (Boulevard Musaro).\n\nToma tus precauciones. Para información de vías alternas llama al 088 de @GN_MEXICO_.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 168,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045525061294010771#m",
+      "timestamp": "2026-04-18T15:29:13+00:00",
+      "timestamp_display": "18/04/2026 09:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cuernavaca - Acapulco, km 132, dirección Acapulco. Continúa cierre a la circulación en la gasa de salida al Poblado de Tequesquitengo por atención de incidente. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 132,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045520181942743294#m",
+      "timestamp": "2026-04-18T15:09:49+00:00",
+      "timestamp_display": "18/04/2026 09:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Guaymas - Hermosillo, km 168. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/rNVgMw8CJPhDxrHx8",
       "type": "twitter",
       "lat": 29.07,
       "lng": -110.96,
@@ -482,58 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045433205734436884#m",
       "timestamp": "2026-04-18T09:24:13+00:00",
       "timestamp_display": "18/04/2026 03:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa reducción de carriles por atención de accidente (trasvase de carga y maniobras para el retiro de unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045430768059486324#m",
-      "timestamp": "2026-04-18T09:14:32+00:00",
-      "timestamp_display": "18/04/2026 03:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 35, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión, camión de carga y automóvil. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/tcjCJbg9LdDbC86w9",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 35,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045425787289870454#m",
-      "timestamp": "2026-04-18T08:54:44+00:00",
-      "timestamp_display": "18/04/2026 02:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nLibramiento Oriente de Chihuahua, km 40. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045420406341845256#m",
-      "timestamp": "2026-04-18T08:33:21+00:00",
-      "timestamp_display": "18/04/2026 02:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS  🌧️ 🌩️         \nAut. Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045413103282614671#m",
-      "timestamp": "2026-04-18T08:04:20+00:00",
-      "timestamp_display": "18/04/2026 02:04 CST",
       "segment": null
     }
   ]
