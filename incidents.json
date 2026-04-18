@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-18T17:23:10.481710",
+  "last_update": "2026-04-18T18:02:05.171779",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 012+480, de la Carretera González - Llera de Canales. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 12.48,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045560296425599137#m",
+      "timestamp": "2026-04-18T17:49:13+00:00",
+      "timestamp_display": "18/04/2026 11:49 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 009+200, de la Carretera Córdoba -Ent Boticaria. Atienda Indicación Vial.",
       "type": "twitter",
@@ -264,16 +277,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+800, de la carretera Puebla-Perote, a la altura del Mpio. de Amozoc, con dir. a Puebla. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación a contraflujo. El personal se encuentra laborando en la atención del accidente.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 29.07,
+      "lng": -110.96,
       "road": null,
-      "km": 2.8,
+      "km": 168,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045329760222347562#m",
-      "timestamp": "2026-04-18T02:33:09+00:00",
-      "timestamp_display": "17/04/2026 20:33 CST",
+      "url": "https://nitter.net/CAPUFE/status/2045562203965911088#m",
+      "timestamp": "2026-04-18T17:56:48+00:00",
+      "timestamp_display": "18/04/2026 11:56 CST",
       "segment": null
     },
     {
@@ -397,7 +410,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que se restablece la circulación a contraflujo. El personal continúa laborando en la atención del accidente.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que se restablece la circulación a contraflujo. El personal continúa laborando en la atención del accidente.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 29.07,
       "lng": -110.96,
@@ -524,19 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045496906059600362#m",
       "timestamp": "2026-04-18T13:37:20+00:00",
       "timestamp_display": "18/04/2026 07:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 88, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 88,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045495428813144085#m",
-      "timestamp": "2026-04-18T13:31:28+00:00",
-      "timestamp_display": "18/04/2026 07:31 CST",
       "segment": null
     }
   ]
