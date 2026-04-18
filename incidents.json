@@ -1,6 +1,77 @@
 {
-  "last_update": "2026-04-18T22:47:05.682659",
+  "last_update": "2026-04-18T23:36:11.123017",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Tabasco por #AccidenteVial cerca del km 070+800, de la carretera Coatzacoalcos-Villahermosa, a la altura del Mpio. de Villahermosa, con dir. a la Cd. de México.Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 70.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045639337509871676#m",
+      "timestamp": "2026-04-18T23:03:18+00:00",
+      "timestamp_display": "18/04/2026 17:03 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #EdoMx por #AccidenteVial cerca del km 033+300, de la carretera México-Puebla, a la altura del Mpio. San Marcos Huixtoco, con dir. a la Cd. de México. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.295153771326955,
+      "lng": -98.87475541937626,
+      "road": 150,
+      "km": 15.299999999999997,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045638557360857563#m",
+      "timestamp": "2026-04-18T23:00:12+00:00",
+      "timestamp_display": "18/04/2026 17:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#VialidadLibre en en #Tamaulipas por #AccidenteVial cerca del km 009+800, de la carretera Monclova-Piedras negras, a la altura del poblado Monclova, con dir. a Nuevo Laredo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 26.965174149994482,
+      "lng": -101.38493001118647,
+      "road": 57,
+      "km": 2.8000000000000007,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045638242570002606#m",
+      "timestamp": "2026-04-18T22:58:57+00:00",
+      "timestamp_display": "18/04/2026 16:58 CST",
+      "segment": [
+        "monclova",
+        "piedras negras"
+      ]
+    },
+    {
+      "title": "#TomePrecaución en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 012+500, carretera Aguascalientes-Zacatecas. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 21.8841,
+      "lng": -102.2918,
+      "road": null,
+      "km": 12.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045637236792651913#m",
+      "timestamp": "2026-04-18T22:54:58+00:00",
+      "timestamp_display": "18/04/2026 16:54 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 164+200, carretera Mérida - Puerto Juárez. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 164.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045636201567191140#m",
+      "timestamp": "2026-04-18T22:50:51+00:00",
+      "timestamp_display": "18/04/2026 16:50 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 033+600, a la altura de la caseta de cobro No. 7 San Marcos, de la Autopista Puebla-México. Atienda Indicación Vial.",
       "type": "twitter",
@@ -209,75 +280,56 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 126+140, de la autopista Maravatio- Atlacomulco. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 146, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.8002,
-      "lng": -99.8759,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 126.14,
+      "km": 146,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045519449520763253#m",
-      "timestamp": "2026-04-18T15:06:55+00:00",
-      "timestamp_display": "18/04/2026 09:06 CST",
+      "url": "https://nitter.net/CAPUFE/status/2045644475880321078#m",
+      "timestamp": "2026-04-18T23:23:43+00:00",
+      "timestamp_display": "18/04/2026 17:23 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 139+800, de la carretera Paso del Toro - Acayucan. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Magdalena, km 181. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 139.8,
+      "km": 181,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045515828968210578#m",
-      "timestamp": "2026-04-18T14:52:32+00:00",
-      "timestamp_display": "18/04/2026 08:52 CST",
+      "url": "https://nitter.net/CAPUFE/status/2045644173240357307#m",
+      "timestamp": "2026-04-18T23:22:31+00:00",
+      "timestamp_display": "18/04/2026 17:22 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras conclusión de maniobras por #AccidenteVial cerca del km 025+300 de la carretera Buena Vista - Tuxtepec. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gómez Palacio - Corralitos, km 163, dirección Gómez Palacio. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 25.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045514654194000120#m",
-      "timestamp": "2026-04-18T14:47:52+00:00",
-      "timestamp_display": "18/04/2026 08:47 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecaución en #NuevoLeón se registra cierre total de circulación  por #VehículoIncendiado cerca del km 165+000, de la Autopista Monterrey-Nuevo Laredo, a la altura del Mpio. Sabinas Hidalgo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 26.734850039893463,
-      "lng": -99.91667937262879,
-      "road": 85,
-      "km": 145.0,
+      "km": 163,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2045489394354700796#m",
-      "timestamp": "2026-04-18T13:07:29+00:00",
-      "timestamp_display": "18/04/2026 07:07 CST",
-      "segment": [
-        "monterrey",
-        "nuevo laredo"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2045640258788757511#m",
+      "timestamp": "2026-04-18T23:06:58+00:00",
+      "timestamp_display": "18/04/2026 17:06 CST",
+      "segment": null
     },
     {
-      "title": "#TomePrecaución en #Veracruz se registra cierre  parcial de circulación por #AccidenteVial cerca del km 116+000, de la carretera Córdoba-Ent. Boticaria, a la altura de la Loc. Córdoba. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 78, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": 116.0,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 78,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045448951109763543#m",
-      "timestamp": "2026-04-18T10:26:47+00:00",
-      "timestamp_display": "18/04/2026 04:26 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2045635555828887744#m",
+      "timestamp": "2026-04-18T22:48:17+00:00",
+      "timestamp_display": "18/04/2026 16:48 CST",
+      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Concluyen labores de mantenimiento. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
@@ -495,61 +547,6 @@
       "timestamp": "2026-04-18T20:12:41+00:00",
       "timestamp_display": "18/04/2026 14:12 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96, dirección Acapulco. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045596243313746295#m",
-      "timestamp": "2026-04-18T20:12:04+00:00",
-      "timestamp_display": "18/04/2026 14:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 60, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045595047232442616#m",
-      "timestamp": "2026-04-18T20:07:19+00:00",
-      "timestamp_display": "18/04/2026 14:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 163, dirección Isla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 163,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045593145962893438#m",
-      "timestamp": "2026-04-18T19:59:45+00:00",
-      "timestamp_display": "18/04/2026 13:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 27, dirección Nuevo Teapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.01910647240051,
-      "lng": -94.54541169577793,
-      "road": 180,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045591730427203859#m",
-      "timestamp": "2026-04-18T19:54:08+00:00",
-      "timestamp_display": "18/04/2026 13:54 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
