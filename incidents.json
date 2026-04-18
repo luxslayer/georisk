@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-18T09:27:51.959570",
+  "last_update": "2026-04-18T10:09:35.931325",
   "incidents": [
     {
       "title": "#TomePrecaución en #Tabasco se registra cierre  parcial de circulación por #AccidenteVial cerca del km 070+800, de la carretera Coatzacoalcos-Villahermosa, a la altura del Mpio. de Villahermosa, con dir. a la Cd. de México.",
@@ -271,7 +271,33 @@
       ]
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 35, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 35, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en la zona. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045440428757995660#m",
+      "timestamp": "2026-04-18T09:52:55+00:00",
+      "timestamp_display": "18/04/2026 03:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nLibramiento Oriente de Chihuahua, km 40. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 40,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045435848909291933#m",
+      "timestamp": "2026-04-18T09:34:43+00:00",
+      "timestamp_display": "18/04/2026 03:34 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 35, dirección CDMX. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -485,32 +511,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045379130309443823#m",
       "timestamp": "2026-04-18T05:49:20+00:00",
       "timestamp_display": "17/04/2026 23:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa cierre a la circulación por atención de accidente (choque por alcance e incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045370369293389830#m",
-      "timestamp": "2026-04-18T05:14:31+00:00",
-      "timestamp_display": "17/04/2026 23:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS  🌧️ 🌩️         \nAut. Acatzingo - Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045365609068675142#m",
-      "timestamp": "2026-04-18T04:55:36+00:00",
-      "timestamp_display": "17/04/2026 22:55 CST",
       "segment": null
     }
   ]
