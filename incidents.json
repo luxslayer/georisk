@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T08:36:05.152241",
+  "last_update": "2026-04-19T09:32:03.253386",
   "incidents": [
     {
       "title": "#TomePrecaución en #Veracruz se registra cierre parcial  de circulación tras conclución de maniobras de gruas por #AccidenteVial cerca del km 045+700, de la Carretera Poza Rica - Veracruz. Atienda Indicación Vial.",
@@ -271,6 +271,61 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 26, dirección Tijuana. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 26,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045797456118427946#m",
+      "timestamp": "2026-04-19T09:31:37+00:00",
+      "timestamp_display": "19/04/2026 03:31 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de unidad siniestrada. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 168,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045791065475563709#m",
+      "timestamp": "2026-04-19T09:06:13+00:00",
+      "timestamp_display": "19/04/2026 03:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 91, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.06400718925105,
+      "lng": -96.21161187026554,
+      "road": 150,
+      "km": 91,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045785344528826421#m",
+      "timestamp": "2026-04-19T08:43:29+00:00",
+      "timestamp_display": "19/04/2026 02:43 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 35, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045785054643712316#m",
+      "timestamp": "2026-04-19T08:42:20+00:00",
+      "timestamp_display": "19/04/2026 02:42 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 48, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -323,7 +378,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación en contraflujo por atención del accidente.\n\nEl personal se encuentra en la zona realizando las labores del trasvase de la carga.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación en contraflujo por atención del accidente.\n\nEl personal se encuentra en la zona realizando las labores del trasvase de la carga.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 29.07,
       "lng": -110.96,
@@ -453,58 +508,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045706056962060617#m",
       "timestamp": "2026-04-19T03:28:26+00:00",
       "timestamp_display": "18/04/2026 21:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Isla - Acayucan, km 144, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 144,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045700284815475108#m",
-      "timestamp": "2026-04-19T03:05:29+00:00",
-      "timestamp_display": "18/04/2026 21:05 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa la circulación a contraflujo.\n\nEl personal se encuentra en la zona realizando las labores del trasvase de la carga.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 168,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045698250347249827#m",
-      "timestamp": "2026-04-19T02:57:24+00:00",
-      "timestamp_display": "18/04/2026 20:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 144, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 144,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045695078916632827#m",
-      "timestamp": "2026-04-19T02:44:48+00:00",
-      "timestamp_display": "18/04/2026 20:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 109, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 109,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045679309809922218#m",
-      "timestamp": "2026-04-19T01:42:08+00:00",
-      "timestamp_display": "18/04/2026 19:42 CST",
       "segment": null
     }
   ]
