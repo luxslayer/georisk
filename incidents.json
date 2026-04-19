@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T19:09:14.200414",
+  "last_update": "2026-04-19T19:53:58.021291",
   "incidents": [
     {
       "title": "#TomePrecaución en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 052+000, de la Carretera Libramiento Sur Guadalajara, a la altura del Mpio. de Tlajomulco de Zúñiga, con dir. a Zapotlanejo. Atienda Indicación Vial.",
@@ -268,6 +268,74 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045951522928824597#m",
+      "timestamp": "2026-04-19T19:43:49+00:00",
+      "timestamp_display": "19/04/2026 13:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chapalilla - Compostela, km 24. Continúa circulación intermitente en ambos sentidos por atención de accidente (caída de motociclista). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045948834732179961#m",
+      "timestamp": "2026-04-19T19:33:08+00:00",
+      "timestamp_display": "19/04/2026 13:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Cosoleacaque, Plaza de Cobro Acayucan, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": 145,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045948377284653347#m",
+      "timestamp": "2026-04-19T19:31:19+00:00",
+      "timestamp_display": "19/04/2026 13:31 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 222, dirección Cd. Mendoza. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles.\n\nPor seguridad de las personas usuarias, la Plaza de Cobro Esperanza permanecerá cerrada en esa dirección. En la zona se registra #neblina densa. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/xQjymSFNbhYvN2Cv5",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 222,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045947033282822390#m",
+      "timestamp": "2026-04-19T19:25:59+00:00",
+      "timestamp_display": "19/04/2026 13:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección Querétaro. Reducción de carriles por atención de accidente (choque de costado en las inmediaciones de la plaza de cobro). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2045945752736669851#m",
+      "timestamp": "2026-04-19T19:20:53+00:00",
+      "timestamp_display": "19/04/2026 13:20 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Lagos de Moreno - San Luis Potosí, km 41, dirección San Luis Potosí. Reducción de carriles por atención de incidente (automóvil con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 22.15,
@@ -460,71 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045902262963142798#m",
       "timestamp": "2026-04-19T16:28:05+00:00",
       "timestamp_display": "19/04/2026 10:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS  🌧️ 🌩️         \nAutopista Acatzingo - Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045901590381330646#m",
-      "timestamp": "2026-04-19T16:25:24+00:00",
-      "timestamp_display": "19/04/2026 10:25 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Guaymas - Hermosillo, km 168. Se informa a las personas usuarias que continúa circulación en contraflujo. El personal se encuentra realizando las maniobras de grúa para el retiro de tracto camión tipo pipa siniestrado. \n\nEn la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 168,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045900355909603637#m",
-      "timestamp": "2026-04-19T16:20:30+00:00",
-      "timestamp_display": "19/04/2026 10:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 53, dirección Irapuato. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045899242431017380#m",
-      "timestamp": "2026-04-19T16:16:05+00:00",
-      "timestamp_display": "19/04/2026 10:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Cd. Mendoza, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045896628351967244#m",
-      "timestamp": "2026-04-19T16:05:41+00:00",
-      "timestamp_display": "19/04/2026 10:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Querétaro - Irapuato, km 53, dirección Irapuato. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045894888697327873#m",
-      "timestamp": "2026-04-19T15:58:47+00:00",
-      "timestamp_display": "19/04/2026 09:58 CST",
       "segment": null
     }
   ]
