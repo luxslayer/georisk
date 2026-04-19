@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-19T18:02:24.909645",
+  "last_update": "2026-04-19T19:09:14.200414",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 052+000, de la Carretera Libramiento Sur Guadalajara, a la altura del Mpio. de Tlajomulco de Zúñiga, con dir. a Zapotlanejo. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 52.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2045934469228466376#m",
+      "timestamp": "2026-04-19T18:36:03+00:00",
+      "timestamp_display": "19/04/2026 12:36 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Guanajuato  se registra cierre parcial de circulación por #AccidenteVial cerca del km 001+000, de la Carretera Querétaro-León, con dirección a Querétaro. Atienda Indicación Vial.",
       "type": "twitter",
@@ -255,16 +268,68 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 144+000, de la Carretera Ent. La tinaja - Cosoleacaque. Atienda Indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Lagos de Moreno - San Luis Potosí, km 41, dirección San Luis Potosí. Reducción de carriles por atención de incidente (automóvil con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
+      "lat": 22.15,
+      "lng": -100.98,
       "road": null,
-      "km": 144.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2045764937239126023#m",
-      "timestamp": "2026-04-19T07:22:24+00:00",
-      "timestamp_display": "19/04/2026 01:22 CST",
+      "km": 41,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045941816038449584#m",
+      "timestamp": "2026-04-19T19:05:15+00:00",
+      "timestamp_display": "19/04/2026 13:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS  🌧️ 🌩️         \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina densa en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045941137823715798#m",
+      "timestamp": "2026-04-19T19:02:33+00:00",
+      "timestamp_display": "19/04/2026 13:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 95, dirección Acapulco. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045933944093249961#m",
+      "timestamp": "2026-04-19T18:33:58+00:00",
+      "timestamp_display": "19/04/2026 12:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista Estación Don - Navojoa, km 94, dirección Estación Don. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 94,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045933111700041993#m",
+      "timestamp": "2026-04-19T18:30:40+00:00",
+      "timestamp_display": "19/04/2026 12:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS  🌧️ 🌩️         \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2045932443346108592#m",
+      "timestamp": "2026-04-19T18:28:00+00:00",
+      "timestamp_display": "19/04/2026 12:28 CST",
       "segment": null
     },
     {
@@ -460,74 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2045894888697327873#m",
       "timestamp": "2026-04-19T15:58:47+00:00",
       "timestamp_display": "19/04/2026 09:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Córdoba - Veracruz, continúa #lluvia a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045893965971382555#m",
-      "timestamp": "2026-04-19T15:55:07+00:00",
-      "timestamp_display": "19/04/2026 09:55 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 33, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045892175733600408#m",
-      "timestamp": "2026-04-19T15:48:00+00:00",
-      "timestamp_display": "19/04/2026 09:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 33, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045889672367186070#m",
-      "timestamp": "2026-04-19T15:38:03+00:00",
-      "timestamp_display": "19/04/2026 09:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \n#AutMéxicoCuernavaca, km 33, dirección CDMX. Reducción de carriles por atención de accidente (Choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2045888484016083130#m",
-      "timestamp": "2026-04-19T15:33:20+00:00",
-      "timestamp_display": "19/04/2026 09:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2045884997626626120#m",
-      "timestamp": "2026-04-19T15:19:28+00:00",
-      "timestamp_display": "19/04/2026 09:19 CST",
       "segment": null
     }
   ]
