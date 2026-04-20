@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-20T21:25:16.247005",
+  "last_update": "2026-04-20T22:08:41.691066",
   "incidents": [
     {
       "title": "#TomePrecaución en #Coahuila se registra cierre parcial de circulación tras #AccidenteVial cerca del km 026+300 de la carretera Libramiento Norponiente de Saltillo, a la altura del Fraccionamiento Valencia, Coah. Atienda Indicación Vial.",
@@ -277,6 +277,84 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nViaducto Elevado Tlalpan, km 1, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046350298424443276#m",
+      "timestamp": "2026-04-20T22:08:25+00:00",
+      "timestamp_display": "20/04/2026 16:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS  🌧️ 🌩️   \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046345051366633560#m",
+      "timestamp": "2026-04-20T21:47:34+00:00",
+      "timestamp_display": "20/04/2026 15:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046344221494325466#m",
+      "timestamp": "2026-04-20T21:44:16+00:00",
+      "timestamp_display": "20/04/2026 15:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Estación Don - Navojoa, km 112, dirección Estación Don. Continúa reducción de carriles por atención de incidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 112,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046343869386604869#m",
+      "timestamp": "2026-04-20T21:42:52+00:00",
+      "timestamp_display": "20/04/2026 15:42 CST",
+      "segment": null
+    },
+    {
+      "title": "#AlertaAMBER \nCircunstancias: El 25 de marzo de 2026, la adolescente LIZBETH AMÉRICA GARCÍA FIGUEROA fue vista por última vez, en el municipio de Santa Cruz Xoxocotlán, Oaxaca sin que hasta el momento se tenga noticia de su paradero. Se considera que la integridad de la adolescente se encuentra en riesgo toda vez que podría ser víctima de la comisión de un delito.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046341532525953053#m",
+      "timestamp": "2026-04-20T21:33:35+00:00",
+      "timestamp_display": "20/04/2026 15:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, Plaza de Cobro Chamapa, dirección Chamapa. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046339500553470301#m",
+      "timestamp": "2026-04-20T21:25:30+00:00",
+      "timestamp_display": "20/04/2026 15:25 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, km 14, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Madín, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -462,87 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046305316313407808#m",
       "timestamp": "2026-04-20T19:09:40+00:00",
       "timestamp_display": "20/04/2026 13:09 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Navojoa - Cd. Obregón, km 210. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046304574697591241#m",
-      "timestamp": "2026-04-20T19:06:43+00:00",
-      "timestamp_display": "20/04/2026 13:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección Querétaro, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046303179223314446#m",
-      "timestamp": "2026-04-20T19:01:11+00:00",
-      "timestamp_display": "20/04/2026 13:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 6, dirección Lechería. Reducción de carriles por atención de accidente (volcadura de camión de carga). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 6,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046301772701176118#m",
-      "timestamp": "2026-04-20T18:55:35+00:00",
-      "timestamp_display": "20/04/2026 12:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, km 20, dirección Veracruz. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.83390991687994,
-      "lng": -96.72699438264952,
-      "road": 150,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046297665823281346#m",
-      "timestamp": "2026-04-20T18:39:16+00:00",
-      "timestamp_display": "20/04/2026 12:39 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️ 🌩️ CONDICIONES CLIMÁTICAS  🌧️ 🌩️ \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046295590305505631#m",
-      "timestamp": "2026-04-20T18:31:01+00:00",
-      "timestamp_display": "20/04/2026 12:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧🚑 En autopistas de #CAPUFE, los servicios de apoyo son gratuitos.\nNo permitas abusos.\nSi alguien solicita dinero por brindarte asistencia, denuncia de inmediato.\n👉 800 990 2900 📩 quejas@capufe.gob.mx\n#EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046287788929397158#m",
-      "timestamp": "2026-04-20T18:00:01+00:00",
-      "timestamp_display": "20/04/2026 12:00 CST",
       "segment": null
     }
   ]
