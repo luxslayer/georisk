@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-04-20T19:33:34.661006",
+  "last_update": "2026-04-20T20:27:31.097656",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 019+200 de la autopista Córdoba Ent. La Tinaja , a la altura del Mpio. Cuitláhuac. Ver. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.837252696860457,
+      "lng": -96.73362987604396,
+      "road": 150,
+      "km": 19.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046317400312713542#m",
+      "timestamp": "2026-04-20T19:57:41+00:00",
+      "timestamp_display": "20/04/2026 13:57 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
     {
       "title": "#TomePrecaución en #Tamaulipas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 001+000 de la carretera Matamoros - Reynosa, a la altura del poblado la Barranca, Tamps. Atienda Indicación Vial.",
       "type": "twitter",
@@ -258,16 +274,81 @@
       "segment": null
     },
     {
-      "title": "#ViaLIbre en #Oaxaca tras presencia de personas,cerca del km 141+223, de la carretera Cuacnopalan-Oaxaca, a la altura de la caseta de cobro No. 78 . Suchixtlahuaca, Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Chamapa - Lechería, km 6, dirección Lechería. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 141.223,
+      "km": 6,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046320940577956066#m",
+      "timestamp": "2026-04-20T20:11:45+00:00",
+      "timestamp_display": "20/04/2026 14:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 6, dirección Lechería. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (volcadura de camión de carga). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 6,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046320305149468736#m",
+      "timestamp": "2026-04-20T20:09:14+00:00",
+      "timestamp_display": "20/04/2026 14:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Chamapa - Lechería, km 6, dirección Lechería. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 6,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046317274110345339#m",
+      "timestamp": "2026-04-20T19:57:11+00:00",
+      "timestamp_display": "20/04/2026 13:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2046052469449388156#m",
-      "timestamp": "2026-04-20T02:24:57+00:00",
-      "timestamp_display": "19/04/2026 20:24 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046316348754571609#m",
+      "timestamp": "2026-04-20T19:53:30+00:00",
+      "timestamp_display": "20/04/2026 13:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Cd. Mendoza - Córdoba, km 291, dirección Córdoba. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 291,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046312283404734781#m",
+      "timestamp": "2026-04-20T19:37:21+00:00",
+      "timestamp_display": "20/04/2026 13:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠CARGA VEHICULAR🟠\n#AutMéxicoQuerétaro, km 90, dirección CDMX. Carga vehicular a la altura de la gasa de incorporación a la Autopista Arco Norte, por incidente fuera de la cobertura de CAPUFE. Para más información llama al 8003272666 de @arconorte. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 90,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046311860614598795#m",
+      "timestamp": "2026-04-20T19:35:40+00:00",
+      "timestamp_display": "20/04/2026 13:35 CST",
       "segment": null
     },
     {
@@ -465,87 +546,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046265717926805681#m",
       "timestamp": "2026-04-20T16:32:19+00:00",
       "timestamp_display": "20/04/2026 10:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 268, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 268,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046264630616477809#m",
-      "timestamp": "2026-04-20T16:28:00+00:00",
-      "timestamp_display": "20/04/2026 10:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Querétaro - Irapuato, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046262182787084746#m",
-      "timestamp": "2026-04-20T16:18:16+00:00",
-      "timestamp_display": "20/04/2026 10:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nLibramiento Noreste de Querétaro (Chichimequillas), registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046261984060932351#m",
-      "timestamp": "2026-04-20T16:17:29+00:00",
-      "timestamp_display": "20/04/2026 10:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, registra #lluvia del km 133 al 188. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 133,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046261826862649447#m",
-      "timestamp": "2026-04-20T16:16:51+00:00",
-      "timestamp_display": "20/04/2026 10:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Se restablece la circulación con reducción de carriles, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dir. Nuevo Teapa, opera de manera normal . Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046261015440933326#m",
-      "timestamp": "2026-04-20T16:13:38+00:00",
-      "timestamp_display": "20/04/2026 10:13 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Navojoa - Cd. Obregón, km 210. Se informa a las personas usuarias que continúa circulación en contraflujo por labores de limpieza.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046259319373459607#m",
-      "timestamp": "2026-04-20T16:06:54+00:00",
-      "timestamp_display": "20/04/2026 10:06 CST",
       "segment": null
     }
   ]
