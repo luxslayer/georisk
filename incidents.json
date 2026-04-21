@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-04-21T10:50:53.078906",
+  "last_update": "2026-04-21T11:59:41.037380",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Sonora se registra cierre parcial de circulación tras #AccidenteVial cerca del km 128+500 de la carretera Los Mochis - Cd Obregón, con dirección a Los Mochis. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 128.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046550690068058283#m",
+      "timestamp": "2026-04-21T11:24:42+00:00",
+      "timestamp_display": "21/04/2026 05:24 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 245+400 de la carretera Puebla-Cordoba (Directo). Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.809869219258502,
+      "lng": -97.2403728501391,
+      "road": 150,
+      "km": 136.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046546118956191982#m",
+      "timestamp": "2026-04-21T11:06:32+00:00",
+      "timestamp_display": "21/04/2026 05:06 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#VialidadLibr en #Miichoacán tras #AccidenteVial cerca del km 010+000 de la carretera Morelia- Salamanca (Directo) con dirección a Morelia . Maneje con precaución.",
       "type": "twitter",
@@ -254,32 +283,19 @@
       "segment": null
     },
     {
-      "title": "#VialidadLbre en #Oaxaca tras #AccidenteVial cerca del km 080+200, de la Carretera Barraca Larga -Ventanilla. Atienda Indicación Vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 77, dirección Puebla. El accidente ha sido atendido. Sin embargo, se atiende un segundo evento en km 78 con reducción de carriles. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 80.2,
+      "lat": 19.33385052749549,
+      "lng": -98.55169170511047,
+      "road": 150,
+      "km": 59,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046456497706614812#m",
-      "timestamp": "2026-04-21T05:10:25+00:00",
-      "timestamp_display": "20/04/2026 23:10 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecaución en #NL se registra cierre parcial de circulación tras #AccidenteVial cerca del km 048+000 de la carretera Saltillo - Monterrey. Atienda Indicación Vial.",
-      "type": "twitter",
-      "lat": 25.62076748722076,
-      "lng": -100.86867276923375,
-      "road": 40,
-      "km": 28.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046433336764035425#m",
-      "timestamp": "2026-04-21T03:38:23+00:00",
-      "timestamp_display": "20/04/2026 21:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046549749881323941#m",
+      "timestamp": "2026-04-21T11:20:58+00:00",
+      "timestamp_display": "21/04/2026 05:20 CST",
       "segment": [
-        "saltillo",
-        "monterrey"
+        "mexico",
+        "puebla"
       ]
     },
     {
@@ -548,19 +564,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046439959704264949#m",
       "timestamp": "2026-04-21T04:04:42+00:00",
       "timestamp_display": "20/04/2026 22:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 292, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 292,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046435880248783151#m",
-      "timestamp": "2026-04-21T03:48:29+00:00",
-      "timestamp_display": "20/04/2026 21:48 CST",
       "segment": null
     }
   ]
