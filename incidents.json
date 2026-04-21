@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-21T07:53:05.347253",
+  "last_update": "2026-04-21T09:27:59.095990",
   "incidents": [
     {
       "title": "#VialidadLibr en #Miichoacán tras #AccidenteVial cerca del km 010+000 de la carretera Morelia- Salamanca (Directo) con dirección a Morelia . Maneje con precaución.",
@@ -283,6 +283,35 @@
       ]
     },
     {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Estación Don - Navojoa, km 127. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa. \n\nEn la zona se registra derrame de combustóleo. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/pGiXLWDQXfYULpkYA",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 127,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046520502810820709#m",
+      "timestamp": "2026-04-21T09:24:45+00:00",
+      "timestamp_display": "21/04/2026 03:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Córdoba - Veracruz, km 54, dirección Veracruz. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.795532207894592,
+      "lng": -96.41645510194215,
+      "road": 150,
+      "km": 54,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046517663837352027#m",
+      "timestamp": "2026-04-21T09:13:28+00:00",
+      "timestamp_display": "21/04/2026 03:13 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS   🌧️ 🌩️     \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -526,19 +555,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046424090559267143#m",
       "timestamp": "2026-04-21T03:01:38+00:00",
       "timestamp_display": "20/04/2026 21:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046421407165268291#m",
-      "timestamp": "2026-04-21T02:50:58+00:00",
-      "timestamp_display": "20/04/2026 20:50 CST",
       "segment": null
     }
   ]
