@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-21T21:59:09.087356",
+  "last_update": "2026-04-21T22:51:44.506547",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 163+700, de la carretera Tulancingo-Tihuatlán, a inmediaciones del Mpio. de Xicotepec, con dir. a Tihuatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 163.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046710781375381663#m",
+      "timestamp": "2026-04-21T22:00:50+00:00",
+      "timestamp_display": "21/04/2026 16:00 CST",
+      "segment": null
+    },
     {
       "title": "Se recomienda a la población  tomar las #RutasAlternas por carretera libre Armería-Caleras (para llegar a Colima) \nManzanillo-Minatitlán (para llegar a Villa de Álvarez)",
       "type": "twitter",
@@ -264,16 +277,97 @@
       ]
     },
     {
-      "title": "#VialidadLibre en #Tamaulipas tras #AccidenteVial cerca del km 057+000 de la carretera Cd. Victoria - Matamoros. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 41, dirección CDMX. Continúa reducción de carriles por atención de accidente (alineación de muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 57.0,
+      "km": 41,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046490974356976088#m",
-      "timestamp": "2026-04-21T07:27:24+00:00",
-      "timestamp_display": "21/04/2026 01:27 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046718324273234204#m",
+      "timestamp": "2026-04-21T22:30:49+00:00",
+      "timestamp_display": "21/04/2026 16:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046714838718586997#m",
+      "timestamp": "2026-04-21T22:16:58+00:00",
+      "timestamp_display": "21/04/2026 16:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Puebla - Acatzingo, registra #lluvia a la altura de la Plaza de Cobro Amozoc. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046713620797476980#m",
+      "timestamp": "2026-04-21T22:12:07+00:00",
+      "timestamp_display": "21/04/2026 16:12 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 48, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.3050639396973,
+      "lng": -98.75919078168621,
+      "road": 150,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046713066633486760#m",
+      "timestamp": "2026-04-21T22:09:55+00:00",
+      "timestamp_display": "21/04/2026 16:09 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Puebla - Acatzingo, km 130, dirección Puebla. Reducción de carriles por labores de mantenimiento. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 130,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046712382844539126#m",
+      "timestamp": "2026-04-21T22:07:12+00:00",
+      "timestamp_display": "21/04/2026 16:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046711686057394398#m",
+      "timestamp": "2026-04-21T22:04:26+00:00",
+      "timestamp_display": "21/04/2026 16:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoQuerétaro, km 64, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 64,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046710470761992596#m",
+      "timestamp": "2026-04-21T21:59:36+00:00",
+      "timestamp_display": "21/04/2026 15:59 CST",
       "segment": null
     },
     {
@@ -455,103 +549,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046686068666225118#m",
       "timestamp": "2026-04-21T20:22:39+00:00",
       "timestamp_display": "21/04/2026 14:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 208, dirección Navojoa. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 208,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046684378898575478#m",
-      "timestamp": "2026-04-21T20:15:56+00:00",
-      "timestamp_display": "21/04/2026 14:15 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️ \nLibramiento Oriente de Saltillo, km 21, dirección Monterrey. Registra carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\nPara más información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 25.46380545746462,
-      "lng": -101.05280132624266,
-      "road": 40,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046681985314099465#m",
-      "timestamp": "2026-04-21T20:06:25+00:00",
-      "timestamp_display": "21/04/2026 14:06 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 210. Se restablece la circulación de manera intermitente en ambos sentidos desde la Plaza de Cobro Mesillas. El personal continúa laborando en la atención del incidente (incendio forestal).\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046681189256245583#m",
-      "timestamp": "2026-04-21T20:03:15+00:00",
-      "timestamp_display": "21/04/2026 14:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Continúa reducción de carriles por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046674400968163628#m",
-      "timestamp": "2026-04-21T19:36:17+00:00",
-      "timestamp_display": "21/04/2026 13:36 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Durango - Mazatlán, km 210. Cierre a la circulación en ambos sentidos por atención de incidente (incendio forestal).\n\nPor seguridad de las personas usuarias, la Plaza de Cobro Mesillas permanecerá cerrada en dirección Durango.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046673322541298172#m",
-      "timestamp": "2026-04-21T19:32:00+00:00",
-      "timestamp_display": "21/04/2026 13:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 206, dirección Querétaro. El accidente ha sido atendido. Sin embargo, continúa reducción de carriles del km 194 al 207 por labores de mantenimiento.\n\nEn la zona se registra carga vehicular intensa. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046661893956551081#m",
-      "timestamp": "2026-04-21T18:46:35+00:00",
-      "timestamp_display": "21/04/2026 12:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, km 130, dirección Puebla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 130,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046655674914934917#m",
-      "timestamp": "2026-04-21T18:21:52+00:00",
-      "timestamp_display": "21/04/2026 12:21 CST",
       "segment": null
     }
   ]
