@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-04-21T15:42:54.264801",
+  "last_update": "2026-04-21T16:42:25.837298",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Puebla se registra parcial de circulación por #AccidenteVial cerca del km 057+000, de la Carretera San Hipólito-Xalapa, con dir. a Perote Veracruz. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 19.881402515655264,
+      "lng": -96.50956520551937,
+      "road": 180,
+      "km": 57.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046623382276280538#m",
+      "timestamp": "2026-04-21T16:13:33+00:00",
+      "timestamp_display": "21/04/2026 10:13 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #Querétaro se registra parcial de circulación por #AccidenteVial cerca del km 147+910, de la Autopista México-Querétaro, a la altura de la Caseta de cobro No. 5 Palmillas. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 147.91,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046621135727395061#m",
+      "timestamp": "2026-04-21T16:04:37+00:00",
+      "timestamp_display": "21/04/2026 10:04 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #NuevoLeón se registra parcial de circulación por #AccidenteVial cerca del km 100+200 de la carretera Matehuala - Saltillo, a la altura de la Localidad La Loma, Mpio. Galeana, con dir. a la Loc. Santa Ana. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 22.962809421272294,
+      "lng": -100.46763896382821,
+      "road": 57,
+      "km": 100.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046618661763362929#m",
+      "timestamp": "2026-04-21T15:54:47+00:00",
+      "timestamp_display": "21/04/2026 09:54 CST",
+      "segment": [
+        "matehuala",
+        "saltillo"
+      ]
+    },
+    {
+      "title": "#TomePrecaución en #NuevoLeón se registra parcial de circulación por #AccidenteVial cerca del km 171+400 de la carretera Cd. Victoria-Monterrey, a la altura de la Localidad El Chocolate, con dir. al Mpio. Montemorelos. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 171.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046616844786696236#m",
+      "timestamp": "2026-04-21T15:47:34+00:00",
+      "timestamp_display": "21/04/2026 09:47 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Veracruz se registra parcial de circulación por #AccidenteVial cerca del km 059+000 de la carretera Córdoba Ent. Boticaria, a la altura del Mpio. Cotaxtla, con dir. a  Tierra Blanca. Atienda Indicación Vial.",
       "type": "twitter",
@@ -231,58 +286,129 @@
       ]
     },
     {
-      "title": "#VialidadLibre en #Veracruz tras #AccidenteVial cerca del km 019+200 de la autopista Córdoba Ent. La Tinaja , a la altura del Mpio. Cuitlahuac. Ver. Maneje con precaución",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \n#AutMéxicoPuebla, km 78, dirección Puebla. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.837252696860457,
-      "lng": -96.73362987604396,
+      "lat": 19.330706817428805,
+      "lng": -98.54276255814574,
       "road": 150,
-      "km": 19.2,
+      "km": 60,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046475006406726131#m",
-      "timestamp": "2026-04-21T06:23:57+00:00",
-      "timestamp_display": "21/04/2026 00:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046627878264025201#m",
+      "timestamp": "2026-04-21T16:31:25+00:00",
+      "timestamp_display": "21/04/2026 10:31 CST",
       "segment": [
-        "cordoba",
-        "veracruz"
+        "mexico",
+        "puebla"
       ]
     },
     {
-      "title": "#VialidadLibre en #Tamaulipas tras #AccidenteVial cerca del km 001+000 de la carretera Matamoros - Reynosa, a la altura del poblado la Barranca, Tamps. Maneje con precaución",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 206, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado).\n\nEn la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 26.0922,
-      "lng": -98.2773,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 1.0,
+      "km": 206,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046474975289242037#m",
-      "timestamp": "2026-04-21T06:23:50+00:00",
-      "timestamp_display": "21/04/2026 00:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046624864337789251#m",
+      "timestamp": "2026-04-21T16:19:26+00:00",
+      "timestamp_display": "21/04/2026 10:19 CST",
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Puebla tras #AccidenteVial cerca del km 221+950 de la carretera Puebla- Orizaba. Maneje con precaución.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Estación Don - Navojoa, km 127. Se informa a las personas usuarias que se restablece la circulación en contraflujo. El personal continúa laborando en las maniobras de grúa para el retiro de la unidad siniestrada. \n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 221.95,
+      "km": 127,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046474932062716353#m",
-      "timestamp": "2026-04-21T06:23:40+00:00",
-      "timestamp_display": "21/04/2026 00:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046624012529446917#m",
+      "timestamp": "2026-04-21T16:16:03+00:00",
+      "timestamp_display": "21/04/2026 10:16 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Miichoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 010+000 de la carretera Morelia- Salamanca (Directo) con dirección a Morelia . Atienda Indicación Vial.",
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoPuebla, del km 67 al 79, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.7,
-      "lng": -101.18,
-      "road": null,
-      "km": 10.0,
+      "lat": 19.35385448450614,
+      "lng": -98.63710057533287,
+      "road": 150,
+      "km": 49,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046473895268466741#m",
-      "timestamp": "2026-04-21T06:19:32+00:00",
-      "timestamp_display": "21/04/2026 00:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046621175120355445#m",
+      "timestamp": "2026-04-21T16:04:47+00:00",
+      "timestamp_display": "21/04/2026 10:04 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 15, dirección Cosoleacaque. Concluyen labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.012905443599106,
+      "lng": -94.43344555755947,
+      "road": 180,
+      "km": 15,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046620295126040837#m",
+      "timestamp": "2026-04-21T16:01:17+00:00",
+      "timestamp_display": "21/04/2026 10:01 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🚗🛣️ ¿Tu vehículo sufrió daños por un objeto en el camino?\nEn autopistas operadas por #CAPUFE, el #SeguroDelUsuario puede apoyarte.*\n📩 Conoce más en: segurodelusuario@capufe.gob.mx\n📞 074 | @CAPUFE\n*Aplica conforme a las condiciones de la póliza vigente.\n#EnCAPUFEEstamosParaServirte 💙",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046619972726555020#m",
+      "timestamp": "2026-04-21T16:00:00+00:00",
+      "timestamp_display": "21/04/2026 10:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 206, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 206,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046618256706834643#m",
+      "timestamp": "2026-04-21T15:53:11+00:00",
+      "timestamp_display": "21/04/2026 09:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Cd. Mendoza - Córdoba, km 291, dirección Córdoba. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 291,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046617602135371848#m",
+      "timestamp": "2026-04-21T15:50:35+00:00",
+      "timestamp_display": "21/04/2026 09:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 206, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 206,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046616383518056889#m",
+      "timestamp": "2026-04-21T15:45:44+00:00",
+      "timestamp_display": "21/04/2026 09:45 CST",
       "segment": null
     },
     {
@@ -341,7 +467,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Estación Don - Navojoa, km 127. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de la unidad siniestrada. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Estación Don - Navojoa, km 127. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de la unidad siniestrada. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -436,129 +562,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 206, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046597959932891500#m",
-      "timestamp": "2026-04-21T14:32:32+00:00",
-      "timestamp_display": "21/04/2026 08:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠      \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046591960857649304#m",
-      "timestamp": "2026-04-21T14:08:41+00:00",
-      "timestamp_display": "21/04/2026 08:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 34, dirección Acayucan. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.976249306132775,
-      "lng": -94.63375057321109,
-      "road": 145,
-      "km": 34,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046589931439497645#m",
-      "timestamp": "2026-04-21T14:00:38+00:00",
-      "timestamp_display": "21/04/2026 08:00 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \n#AutMéxicoPuebla, km 78, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camiones siniestrados). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.330706817428805,
-      "lng": -98.54276255814574,
-      "road": 150,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046589620029120633#m",
-      "timestamp": "2026-04-21T13:59:23+00:00",
-      "timestamp_display": "21/04/2026 07:59 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 245, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 245,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046588249225773436#m",
-      "timestamp": "2026-04-21T13:53:57+00:00",
-      "timestamp_display": "21/04/2026 07:53 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Estación Don - Navojoa, km 127. Se informa a las personas usuarias que continúa circulación en contraflujo. El personal se encuentra laborando en la atención del accidente. \n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 127,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046585688053731673#m",
-      "timestamp": "2026-04-21T13:43:46+00:00",
-      "timestamp_display": "21/04/2026 07:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 33, dirección CDMX. Registra carga vehicular por labores de mantenimiento en los carriles laterales (no a cargo de CAPUFE). Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 33,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046583435611799582#m",
-      "timestamp": "2026-04-21T13:34:49+00:00",
-      "timestamp_display": "21/04/2026 07:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046583260260552851#m",
-      "timestamp": "2026-04-21T13:34:07+00:00",
-      "timestamp_display": "21/04/2026 07:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 220, dirección Acapulco. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 220,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046581720888025244#m",
-      "timestamp": "2026-04-21T13:28:00+00:00",
-      "timestamp_display": "21/04/2026 07:28 CST",
-      "segment": null
     }
   ]
 }
