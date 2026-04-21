@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-21T18:47:04.080369",
+  "last_update": "2026-04-21T20:03:37.758769",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Colima se registra cierre total de circulación por #VehiculoIncendiado cerca del km 265+300, de la carretera Acalpilcan-Manzanillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 265.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2046680029266850233#m",
+      "timestamp": "2026-04-21T19:58:39+00:00",
+      "timestamp_display": "21/04/2026 13:58 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Michoacán se registra parcial de circulación por #AccidenteVial cerca del km 193+800, de la Carretera Quiroga-Tepalcatepec, a la altura del Mpio. la Caballada. Atienda Indicación Vial.",
       "type": "twitter",
@@ -264,20 +277,46 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Aguascalientes tras #AccidenteVial cerca del km 004+500 de la carretera León-Aguascalientes, a inmediaciones de la localidad Norias de Cedazo, Ags. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 210. Se restablece la circulación de manera intermitente en ambos sentidos desde la Plaza de Cobro Mesillas. El personal continúa laborando en la atención del incidente (incendio forestal).\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 21.04197707267553,
-      "lng": -101.61965846620274,
-      "road": 45,
-      "km": 4.5,
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 210,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046490874805157947#m",
-      "timestamp": "2026-04-21T07:27:01+00:00",
-      "timestamp_display": "21/04/2026 01:27 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046681189256245583#m",
+      "timestamp": "2026-04-21T20:03:15+00:00",
+      "timestamp_display": "21/04/2026 14:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Continúa reducción de carriles por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046674400968163628#m",
+      "timestamp": "2026-04-21T19:36:17+00:00",
+      "timestamp_display": "21/04/2026 13:36 CST",
       "segment": [
-        "leon",
-        "aguascalientes"
+        "nuevo teapa",
+        "cosoleacaque"
       ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Durango - Mazatlán, km 210. Cierre a la circulación en ambos sentidos por atención de incidente (incendio forestal).\n\nPor seguridad de las personas usuarias, la Plaza de Cobro Mesillas permanecerá cerrada en dirección Durango.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 210,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046673322541298172#m",
+      "timestamp": "2026-04-21T19:32:00+00:00",
+      "timestamp_display": "21/04/2026 13:32 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 206, dirección Querétaro. El accidente ha sido atendido. Sin embargo, continúa reducción de carriles del km 194 al 207 por labores de mantenimiento.\n\nEn la zona se registra carga vehicular intensa. Atiende las indicaciones viales y maneja con precaución.",
@@ -520,48 +559,6 @@
       "timestamp": "2026-04-21T15:53:11+00:00",
       "timestamp_display": "21/04/2026 09:53 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Cd. Mendoza - Córdoba, km 291, dirección Córdoba. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 291,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046617602135371848#m",
-      "timestamp": "2026-04-21T15:50:35+00:00",
-      "timestamp_display": "21/04/2026 09:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 206, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046616383518056889#m",
-      "timestamp": "2026-04-21T15:45:44+00:00",
-      "timestamp_display": "21/04/2026 09:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Nuevo Teapa - Cosoleacaque, km 15, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.012905443599106,
-      "lng": -94.43344555755947,
-      "road": 180,
-      "km": 15,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046615257313902727#m",
-      "timestamp": "2026-04-21T15:41:16+00:00",
-      "timestamp_display": "21/04/2026 09:41 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
