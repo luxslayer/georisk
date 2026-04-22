@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-22T11:31:33.873822",
+  "last_update": "2026-04-22T12:45:19.851586",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 143+950, en carretera Guaymas-Hermosillo,  a inmediaciones del Mpio. de Guaymas. con dir. a Hermosillo. Atienda indicación vial.",
@@ -265,6 +265,58 @@
       "segment": null
     },
     {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 45, dirección CDMX. Continúa cierre a la circulación por atención de accidente (volcadura de camión y caída de carga).\n\n➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura del km 53 (poblado de Tres Marías).\n\n🔘 Dirección Cuernavaca, registra reducción de carriles. \nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 45,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046931430589018493#m",
+      "timestamp": "2026-04-22T12:37:37+00:00",
+      "timestamp_display": "22/04/2026 06:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 17, dirección Querétaro. Reducción de carriles por atención de accidente (volcadura de automovil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 17,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046930752042832160#m",
+      "timestamp": "2026-04-22T12:34:56+00:00",
+      "timestamp_display": "22/04/2026 06:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️   \nAutopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046929864653992210#m",
+      "timestamp": "2026-04-22T12:31:24+00:00",
+      "timestamp_display": "22/04/2026 06:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 45, dirección CDMX. Cierre a la circulación por atención de accidente (volcadura de camión y caída de carga). \n\n🔘Dirección Cuernavaca, registra reducción de carriles. \nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 45,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046921699107520926#m",
+      "timestamp": "2026-04-22T11:58:57+00:00",
+      "timestamp_display": "22/04/2026 05:58 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tecate - La Rumorosa, km 74, dirección La Rumorosa. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -437,87 +489,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046792135232409745#m",
       "timestamp": "2026-04-22T03:24:07+00:00",
       "timestamp_display": "21/04/2026 21:24 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️ \nLibramiento Oriente de Saltillo, km 21, dirección Monterrey. Continúa carga vehicular intensa por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\n\nLas unidades correspondientes realizan operativo carrusel en la zona.\n\nPara más información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 25.46380545746462,
-      "lng": -101.05280132624266,
-      "road": 40,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046791511598039314#m",
-      "timestamp": "2026-04-22T03:21:38+00:00",
-      "timestamp_display": "21/04/2026 21:21 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, dirección Cuernavaca. Registra carga vehicular por inundación de carriles a la altura de la calle Nicolás Bravo (fuera de la jurisdicción a cargo de CAPUFE). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046790403563676076#m",
-      "timestamp": "2026-04-22T03:17:14+00:00",
-      "timestamp_display": "21/04/2026 21:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 29, dirección Cuernavaca. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 29,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046787936604074279#m",
-      "timestamp": "2026-04-22T03:07:26+00:00",
-      "timestamp_display": "21/04/2026 21:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046785274445795489#m",
-      "timestamp": "2026-04-22T02:56:51+00:00",
-      "timestamp_display": "21/04/2026 20:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 90, dirección CDMX. El incidente fuera de la jurisdicción a cargo de CAPUFE ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 90,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046784367662444672#m",
-      "timestamp": "2026-04-22T02:53:15+00:00",
-      "timestamp_display": "21/04/2026 20:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista La Pera - Cuautla, registra #lluvia a la altura de la Plaza de Cobro Oacalco. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046783004949840363#m",
-      "timestamp": "2026-04-22T02:47:50+00:00",
-      "timestamp_display": "21/04/2026 20:47 CST",
       "segment": null
     }
   ]
