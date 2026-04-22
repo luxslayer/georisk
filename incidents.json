@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-04-22T06:18:56.438386",
+  "last_update": "2026-04-22T08:15:29.572185",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Veracruz tras #AccidenteVíal cerca del km 104+000, de la carretera Buena Vista-Tuxtepec, a la altura de la Loc. Playa de Vaca, Mpio. de Cosamaloapan. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 104.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046855607207006237#m",
+      "timestamp": "2026-04-22T07:36:20+00:00",
+      "timestamp_display": "22/04/2026 01:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Colima  tras #VehiculoIncendiado cerca del km 265+300, de la carretera Acalpilcan-Manzanillo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 265.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2046837423896678535#m",
+      "timestamp": "2026-04-22T06:24:04+00:00",
+      "timestamp_display": "22/04/2026 00:24 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 169+465, en carretera Quiroga-Tepalcatepec, a la altura de la Loc. Nueva Italia. con dir. a Apatazingán. Atienda indicación vial.",
       "type": "twitter",
@@ -239,30 +265,33 @@
       "segment": null
     },
     {
-      "title": "Se recomienda a la población  tomar las #RutasAlternas por carretera libre Armería-Caleras (para llegar a Colima) \nManzanillo-Minatitlán (para llegar a Villa de Álvarez)",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \n#AutMéxicoCuernavaca, km 49, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.9969,
-      "lng": -94.561,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2046698359092543675#m",
-      "timestamp": "2026-04-21T21:11:29+00:00",
-      "timestamp_display": "21/04/2026 15:11 CST",
+      "km": 49,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2046856443475743095#m",
+      "timestamp": "2026-04-22T07:39:39+00:00",
+      "timestamp_display": "22/04/2026 01:39 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 179+300, de la carretera Tuxpan-Tampico, a la altura del Mpio. Tampoco Alto. Atienda indicación vial.",
+      "title": "⚠️ AVISO IMPORTANTE⚠️ \nLibramiento Oriente de Saltillo, km 21, dirección Monterrey. Continúa carga vehicular intensa por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\n\nLas unidades correspondientes realizan operativo carrusel en la zona.\n\nPara más información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 179.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046695126592893392#m",
-      "timestamp": "2026-04-21T20:58:38+00:00",
-      "timestamp_display": "21/04/2026 14:58 CST",
-      "segment": null
+      "lat": 25.46380545746462,
+      "lng": -101.05280132624266,
+      "road": 40,
+      "km": 1,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046841394698870815#m",
+      "timestamp": "2026-04-22T06:39:51+00:00",
+      "timestamp_display": "22/04/2026 00:39 CST",
+      "segment": [
+        "saltillo",
+        "monterrey"
+      ]
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoCuernavaca, continúa #lluvia a la altura de la Plaza de Cobro Tlalpan. Disminuye tu velocidad y maneja con precaución.",
@@ -489,32 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046782209411956758#m",
       "timestamp": "2026-04-22T02:44:40+00:00",
       "timestamp_display": "21/04/2026 20:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 19 al 28. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046774213915111670#m",
-      "timestamp": "2026-04-22T02:12:54+00:00",
-      "timestamp_display": "21/04/2026 20:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Querétaro - Irapuato, km 38, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 38,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046773005712240711#m",
-      "timestamp": "2026-04-22T02:08:06+00:00",
-      "timestamp_display": "21/04/2026 20:08 CST",
       "segment": null
     }
   ]
