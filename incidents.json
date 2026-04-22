@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-04-22T16:09:17.519254",
+  "last_update": "2026-04-22T17:14:50.908938",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Jalisco se registra cierre total de circulación tras #AccidenteVial cerca del km 079+700 de la autopista Macrolibramiento Sur de Guadalajara,. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 79.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046999725878997315#m",
+      "timestamp": "2026-04-22T17:09:00+00:00",
+      "timestamp_display": "22/04/2026 11:09 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #Chihuahua se registra cierre parcial de circulación tras #AccidenteVial cerca del km 290, de la carretera Chihuahua-Cd Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": 45,
+      "km": 290,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046995042678485400#m",
+      "timestamp": "2026-04-22T16:50:24+00:00",
+      "timestamp_display": "22/04/2026 10:50 CST",
+      "segment": null
+    },
+    {
+      "title": "#AlMomento en #CDMX se registra cierre total de circulación por presencia de personas,cerca del km 041+000 de la carretera México-Cuernavaca, a inmediaciones de la localidad de Parres, CDMX. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 41.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2046989704160043222#m",
+      "timestamp": "2026-04-22T16:29:11+00:00",
+      "timestamp_display": "22/04/2026 10:29 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del km 168+000, de la carretera Uruapan - Lázaro Cárdenas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 168.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046986114817208717#m",
+      "timestamp": "2026-04-22T16:14:55+00:00",
+      "timestamp_display": "22/04/2026 10:14 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibres en #Querétaro tras #AccidenteVial cerca del km 002+600, de la autopista Querétaro-Irapuato. Maneje ccon precaución.",
       "type": "twitter",
@@ -68,6 +120,35 @@
       "timestamp": "2026-04-22T14:57:51+00:00",
       "timestamp_display": "22/04/2026 08:57 CST",
       "segment": null
+    },
+    {
+      "title": "ÁNGEL DANIEL LÓPEZ CASTILLO DE 17 AÑOS DE EDAD.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046998271835431249#m",
+      "timestamp": "2026-04-22T17:03:14+00:00",
+      "timestamp_display": "22/04/2026 11:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 27, dirección Nuevo Teapa. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.01910647240051,
+      "lng": -94.54541169577793,
+      "road": 180,
+      "km": 27,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2046993955825271172#m",
+      "timestamp": "2026-04-22T16:46:05+00:00",
+      "timestamp_display": "22/04/2026 10:46 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 41. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/3dZoFXZmAHxWBgSQA",
@@ -304,32 +385,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046939909387133107#m",
       "timestamp": "2026-04-22T13:11:19+00:00",
       "timestamp_display": "22/04/2026 07:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 17, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 17,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046936191879016841#m",
-      "timestamp": "2026-04-22T12:56:33+00:00",
-      "timestamp_display": "22/04/2026 06:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 130, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 130,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046935173732720680#m",
-      "timestamp": "2026-04-22T12:52:30+00:00",
-      "timestamp_display": "22/04/2026 06:52 CST",
       "segment": null
     }
   ]
