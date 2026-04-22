@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-04-22T17:14:50.908938",
+  "last_update": "2026-04-22T18:14:40.240175",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Tamaulipas se registra cierre parcial de circulación tras #VehiculoIncendiado cerca del km 043+500 de la carretera Tampico- Ciudad Mante Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 43.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2047012554459750694#m",
+      "timestamp": "2026-04-22T17:59:59+00:00",
+      "timestamp_display": "22/04/2026 11:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecaución en #NL se registra cierre parcial de circulación tras #AccidenteVial cerca del km 132+500 de la carretera Monterrey - Nvo. Laredo tramo La Gloria - Nvo. Laredo, a la altura del Mpio. Vallecillo, N.L. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 132.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2047011522942062782#m",
+      "timestamp": "2026-04-22T17:55:53+00:00",
+      "timestamp_display": "22/04/2026 11:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Coahuila tras #AccidenteVial cerca del km 221+300, de la carretera Matehuala - Saltillo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 24.53835,
+      "lng": -100.82265000000001,
+      "road": 57,
+      "km": 221.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2047010079560417597#m",
+      "timestamp": "2026-04-22T17:50:09+00:00",
+      "timestamp_display": "22/04/2026 11:50 CST",
+      "segment": [
+        "matehuala",
+        "saltillo"
+      ]
+    },
+    {
+      "title": "#TomePrecaución en #Zacatecas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 015+500 de la carretera Libramiento - Guadalupe. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 15.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2047009641121419558#m",
+      "timestamp": "2026-04-22T17:48:24+00:00",
+      "timestamp_display": "22/04/2026 11:48 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Jalisco se registra cierre total de circulación tras #AccidenteVial cerca del km 079+700 de la autopista Macrolibramiento Sur de Guadalajara,. Atienda indicación vial.",
       "type": "twitter",
@@ -122,6 +177,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Ciudad Valles - Tamuín, Plaza de Cobro La Calera. Registra carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 21.997,
+      "lng": -99.01,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047013530650489201#m",
+      "timestamp": "2026-04-22T18:03:52+00:00",
+      "timestamp_display": "22/04/2026 12:03 CST",
+      "segment": null
+    },
+    {
+      "title": "La carretera también nos conecta. 🛣️\nEn nuestras redes encontrarás información, avisos y recomendaciones para tu viaje.\n👉 Síguenos y mantente al tanto en cada trayecto.\n#CAPUFE #Síguenos #ConectadosEnElCamino #CAPUFEContigo",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047012561183486199#m",
+      "timestamp": "2026-04-22T18:00:00+00:00",
+      "timestamp_display": "22/04/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoCuernavaca, km 41. Continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. \n\n➡️ Se recomienda a la ciudadanía tomar como vía alterna la siguiente ruta:  https://maps.app.goo.gl/5kfa2JrXGGWCYMAk9\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 41,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047009260651851777#m",
+      "timestamp": "2026-04-22T17:46:53+00:00",
+      "timestamp_display": "22/04/2026 11:46 CST",
+      "segment": null
+    },
+    {
       "title": "ÁNGEL DANIEL LÓPEZ CASTILLO DE 17 AÑOS DE EDAD.",
       "type": "twitter",
       "lat": 23.5,
@@ -151,7 +245,7 @@
       ]
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 41. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/3dZoFXZmAHxWBgSQA",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 41. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/3dZoFXZmAHxWBgSQA",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -346,45 +440,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046944327063011789#m",
       "timestamp": "2026-04-22T13:28:52+00:00",
       "timestamp_display": "22/04/2026 07:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tecate - La Rumorosa, km 74, dirección La Rumorosa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 74,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2046943577104675251#m",
-      "timestamp": "2026-04-22T13:25:53+00:00",
-      "timestamp_display": "22/04/2026 07:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046942187623977021#m",
-      "timestamp": "2026-04-22T13:20:22+00:00",
-      "timestamp_display": "22/04/2026 07:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 23, dirección Lechería. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumáticos). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046939909387133107#m",
-      "timestamp": "2026-04-22T13:11:19+00:00",
-      "timestamp_display": "22/04/2026 07:11 CST",
       "segment": null
     }
   ]
