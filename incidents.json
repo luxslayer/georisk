@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-22T10:00:20.641503",
+  "last_update": "2026-04-22T11:31:33.873822",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 143+950, en carretera Guaymas-Hermosillo,  a inmediaciones del Mpio. de Guaymas. con dir. a Hermosillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 143.95,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2046906878513320441#m",
+      "timestamp": "2026-04-22T11:00:04+00:00",
+      "timestamp_display": "22/04/2026 05:00 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Veracruz tras #AccidenteVíal cerca del km 104+000, de la carretera Buena Vista-Tuxtepec, a la altura de la Loc. Playa de Vaca, Mpio. de Cosamaloapan. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 163+700, de la carretera Tulancingo-Tihuatlán, a inmediaciones del Mpio. de Xicotepec, con dir. a Tihuatlán. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tecate - La Rumorosa, km 74, dirección La Rumorosa. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 163.7,
+      "km": 74,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2046710781375381663#m",
-      "timestamp": "2026-04-21T22:00:50+00:00",
-      "timestamp_display": "21/04/2026 16:00 CST",
+      "url": "https://nitter.net/CAPUFE/status/2046909479833243941#m",
+      "timestamp": "2026-04-22T11:10:24+00:00",
+      "timestamp_display": "22/04/2026 05:10 CST",
       "segment": null
     },
     {
@@ -505,19 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2046783004949840363#m",
       "timestamp": "2026-04-22T02:47:50+00:00",
       "timestamp_display": "21/04/2026 20:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 35, dirección Querétaro. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 35,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2046782572198277424#m",
-      "timestamp": "2026-04-22T02:46:07+00:00",
-      "timestamp_display": "21/04/2026 20:46 CST",
       "segment": null
     }
   ]
