@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-23T16:48:59.775615",
+  "last_update": "2026-04-23T18:05:39.708340",
   "incidents": [
     {
       "title": "#TomePrecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 111+900 de la carretera México-Puebla, a la altura del Mpio. Ocotlan, con dir. a Puebla. Atienda indicación vial.",
@@ -277,6 +277,87 @@
       ]
     },
     {
+      "title": "El fentanilo puede cambiar tu vida para siempre.\nNo pongas en riesgo tu futuro.\nLas verdaderas amistades te cuidan y te apoyan para tomar mejores decisiones.\n#AléjateDeLasDrogas #ElFentaniloTeMata #EligeSerFeliz",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047374949728256483#m",
+      "timestamp": "2026-04-23T18:00:01+00:00",
+      "timestamp_display": "23/04/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Puebla - Acatzingo, km 132, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 132,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047373282236571683#m",
+      "timestamp": "2026-04-23T17:53:23+00:00",
+      "timestamp_display": "23/04/2026 11:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 167. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central de camión de carga). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 167,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047372129209843847#m",
+      "timestamp": "2026-04-23T17:48:48+00:00",
+      "timestamp_display": "23/04/2026 11:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 11, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.921082597970088,
+      "lng": -94.83665525084507,
+      "road": 145,
+      "km": 11,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047370743860588890#m",
+      "timestamp": "2026-04-23T17:43:18+00:00",
+      "timestamp_display": "23/04/2026 11:43 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nLibramiento Cuernavaca, km 84, dirección Acapulco. Cierre de carriles centrales por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 84,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047366842767863849#m",
+      "timestamp": "2026-04-23T17:27:48+00:00",
+      "timestamp_display": "23/04/2026 11:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 227, dirección Acapulco. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 227,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047366499203981546#m",
+      "timestamp": "2026-04-23T17:26:26+00:00",
+      "timestamp_display": "23/04/2026 11:26 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoCuernavaca, km 54, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -442,97 +523,6 @@
       "url": "https://nitter.net/CAPUFE/status/2047328837873070258#m",
       "timestamp": "2026-04-23T14:56:47+00:00",
       "timestamp_display": "23/04/2026 08:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Acatzingo. Registra carga vehicular, por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047319523506667753#m",
-      "timestamp": "2026-04-23T14:19:46+00:00",
-      "timestamp_display": "23/04/2026 08:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠      \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047319180756627843#m",
-      "timestamp": "2026-04-23T14:18:24+00:00",
-      "timestamp_display": "23/04/2026 08:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 37,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047313201398751672#m",
-      "timestamp": "2026-04-23T13:54:39+00:00",
-      "timestamp_display": "23/04/2026 07:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Las Choapas - Ocozocoautla, km 9. Circulación intermitente en ambos sentidos por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 9,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047310220460716209#m",
-      "timestamp": "2026-04-23T13:42:48+00:00",
-      "timestamp_display": "23/04/2026 07:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047306472510427570#m",
-      "timestamp": "2026-04-23T13:27:54+00:00",
-      "timestamp_display": "23/04/2026 07:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 121, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 121,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047305719226028252#m",
-      "timestamp": "2026-04-23T13:24:55+00:00",
-      "timestamp_display": "23/04/2026 07:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 121, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 121,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047302791983452502#m",
-      "timestamp": "2026-04-23T13:13:17+00:00",
-      "timestamp_display": "23/04/2026 07:13 CST",
       "segment": null
     }
   ]
