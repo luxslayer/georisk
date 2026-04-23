@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-23T10:05:38.925342",
+  "last_update": "2026-04-23T11:32:50.914973",
   "incidents": [
     {
       "title": "#VialidadLibre en #Zacatecas tras #AccidenteVial cerca del km 015+500 de la carretera Libramiento - Guadalupe. Maneje con precaución.",
@@ -200,6 +200,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2047151103142191275#m",
       "timestamp": "2026-04-23T03:10:31+00:00",
       "timestamp_display": "22/04/2026 21:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 61, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 61,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047275991026827268#m",
+      "timestamp": "2026-04-23T11:26:47+00:00",
+      "timestamp_display": "23/04/2026 05:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️ 🌩️  CONDICIONES CLIMÁTICAS   🌧️ 🌩️\nAutopista Acatzingo - Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047272042936811567#m",
+      "timestamp": "2026-04-23T11:11:06+00:00",
+      "timestamp_display": "23/04/2026 05:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 61, dirección CDMX. Reducción de carriles por atención de accidente (tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 61,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047266449316544548#m",
+      "timestamp": "2026-04-23T10:48:52+00:00",
+      "timestamp_display": "23/04/2026 04:48 CST",
       "segment": null
     },
     {
@@ -421,45 +460,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista La Cuchilla - Matamoros, km 11, dirección La Cuchilla. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 11,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047175316456472890#m",
-      "timestamp": "2026-04-23T04:46:44+00:00",
-      "timestamp_display": "22/04/2026 22:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoQuerétaro, continúa #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047175133933035682#m",
-      "timestamp": "2026-04-23T04:46:01+00:00",
-      "timestamp_display": "22/04/2026 22:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Obregón - Guaymas, km 48. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047174698136399965#m",
-      "timestamp": "2026-04-23T04:44:17+00:00",
-      "timestamp_display": "22/04/2026 22:44 CST",
-      "segment": null
     }
   ]
 }
