@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-04-23T18:05:39.708340",
+  "last_update": "2026-04-23T19:40:58.445511",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 109+100 de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Pedro Totolápam. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 109.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2047388465218699332#m",
+      "timestamp": "2026-04-23T18:53:43+00:00",
+      "timestamp_display": "23/04/2026 12:53 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: GN_Carreteras monitorea y abandera el avance del contingente.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2047386668945100880#m",
+      "timestamp": "2026-04-23T18:46:35+00:00",
+      "timestamp_display": "23/04/2026 12:46 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra #Caravana cerca del km 231+000, de la carretera Tapanatepec-Talismán con ramales a Unión Juárez y Cd. Hidalgo, a la altura del Mpio. Escuintla, con dir. al Mpio. Arriaga. disminuya su velocidad.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": 231.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2047386666063528081#m",
+      "timestamp": "2026-04-23T18:46:34+00:00",
+      "timestamp_display": "23/04/2026 12:46 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 111+900 de la carretera México-Puebla, a la altura del Mpio. Ocotlan, con dir. a Puebla. Atienda indicación vial.",
       "type": "twitter",
@@ -235,46 +274,95 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Coahuila se registra cierre parcial de circulación tras #AccidenteVial cerca del km 011+300 de la carretera Torreón-Saltillo. Atienda indicación vial.",
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoQuerétaro, km 52, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
       "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 11.3,
+      "km": 52,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2047158641149554817#m",
-      "timestamp": "2026-04-23T03:40:29+00:00",
-      "timestamp_display": "22/04/2026 21:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2047393813623165184#m",
+      "timestamp": "2026-04-23T19:14:58+00:00",
+      "timestamp_display": "23/04/2026 13:14 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Monterrey se registra cierre parcial de circulación tras #AccidenteVial cerca del km 076+000 de la carretera Monterrey - Ent. Pesquería. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 97, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 25.6866,
-      "lng": -100.3161,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 76.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2047157786048389373#m",
-      "timestamp": "2026-04-23T03:37:05+00:00",
-      "timestamp_display": "22/04/2026 21:37 CST",
+      "km": 97,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047390859130278275#m",
+      "timestamp": "2026-04-23T19:03:14+00:00",
+      "timestamp_display": "23/04/2026 13:03 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Puebla se registra cierre parcial de circulación tras #AccidenteVial cerca del km 089+700 de la carretera México-Puebla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 89, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.27911411684366,
-      "lng": -98.44625614637991,
-      "road": 150,
-      "km": 71.7,
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 89,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2047152480295743881#m",
-      "timestamp": "2026-04-23T03:16:00+00:00",
-      "timestamp_display": "22/04/2026 21:16 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2047387959482011859#m",
+      "timestamp": "2026-04-23T18:51:42+00:00",
+      "timestamp_display": "23/04/2026 12:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 68. Continúa circulación a contraflujo por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 68,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047387311063634201#m",
+      "timestamp": "2026-04-23T18:49:08+00:00",
+      "timestamp_display": "23/04/2026 12:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 97, dirección Acapulco. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 97,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047381684388081867#m",
+      "timestamp": "2026-04-23T18:26:46+00:00",
+      "timestamp_display": "23/04/2026 12:26 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️ \n#AutMéxicoQuerétaro, km 33, dirección CDMX. Carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 33,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047380432895824303#m",
+      "timestamp": "2026-04-23T18:21:48+00:00",
+      "timestamp_display": "23/04/2026 12:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 227, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 227,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047379641820651539#m",
+      "timestamp": "2026-04-23T18:18:39+00:00",
+      "timestamp_display": "23/04/2026 12:18 CST",
+      "segment": null
     },
     {
       "title": "El fentanilo puede cambiar tu vida para siempre.\nNo pongas en riesgo tu futuro.\nLas verdaderas amistades te cuidan y te apoyan para tomar mejores decisiones.\n#AléjateDeLasDrogas #ElFentaniloTeMata #EligeSerFeliz",
@@ -440,90 +528,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠     \nAutopista Acayucan - Cosoleacaque, km 11, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.921082597970088,
-      "lng": -94.83665525084507,
-      "road": 145,
-      "km": 11,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047340757296513480#m",
-      "timestamp": "2026-04-23T15:44:08+00:00",
-      "timestamp_display": "23/04/2026 09:44 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 264,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047339221896040845#m",
-      "timestamp": "2026-04-23T15:38:02+00:00",
-      "timestamp_display": "23/04/2026 09:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 112, dirección Puebla. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y vagonetas. \n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/5WPiyzUg54FZBHXf9",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": 94,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047333102213533711#m",
-      "timestamp": "2026-04-23T15:13:43+00:00",
-      "timestamp_display": "23/04/2026 09:13 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047329654772555832#m",
-      "timestamp": "2026-04-23T15:00:01+00:00",
-      "timestamp_display": "23/04/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir dentro de los límites de velocidad hace la diferencia en el camino.\n👉 Reduce la velocidad y sigue tu trayecto con seguridad. 🚙\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047329651681304870#m",
-      "timestamp": "2026-04-23T15:00:01+00:00",
-      "timestamp_display": "23/04/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Las Choapas - Ocozocoautla, km 9. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 9,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047328837873070258#m",
-      "timestamp": "2026-04-23T14:56:47+00:00",
-      "timestamp_display": "23/04/2026 08:56 CST",
-      "segment": null
     }
   ]
 }
