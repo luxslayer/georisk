@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-04-23T20:39:11.483310",
+  "last_update": "2026-04-23T21:30:45.693458",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 290+000 de la carretera Puebla-Córdoba, a la altura de Córdoba, con dir. a Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.860158931907392,
+      "lng": -96.9096592649152,
+      "road": 150,
+      "km": 181.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2047425517310124416#m",
+      "timestamp": "2026-04-23T21:20:57+00:00",
+      "timestamp_display": "23/04/2026 15:20 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#TomePrecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 166+900 de la carretera Puebla-Córdoba, a la altura del Mpio. Acatzingo, con dir. a Córdoba. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +280,29 @@
       "segment": null
     },
     {
-      "title": "#Vialidadlibre en #Chiapas tras #AccidenteVial cerca del km 047+600, de la carretera Catazajá - Rancho Nuevo.Maneje con precaución",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 290, dirección Córdoba. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 47.6,
+      "km": 290,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2047173277374702021#m",
-      "timestamp": "2026-04-23T04:38:38+00:00",
-      "timestamp_display": "22/04/2026 22:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2047424158045196671#m",
+      "timestamp": "2026-04-23T21:15:33+00:00",
+      "timestamp_display": "23/04/2026 15:15 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️  \n#AutMéxicoQuerétaro, km 33, dirección CDMX. Continúa carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 33,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047421405109662174#m",
+      "timestamp": "2026-04-23T21:04:36+00:00",
+      "timestamp_display": "23/04/2026 15:04 CST",
       "segment": null
     },
     {
@@ -469,45 +498,6 @@
       "url": "https://nitter.net/CAPUFE/status/2047379641820651539#m",
       "timestamp": "2026-04-23T18:18:39+00:00",
       "timestamp_display": "23/04/2026 12:18 CST",
-      "segment": null
-    },
-    {
-      "title": "El fentanilo puede cambiar tu vida para siempre.\nNo pongas en riesgo tu futuro.\nLas verdaderas amistades te cuidan y te apoyan para tomar mejores decisiones.\n#AléjateDeLasDrogas #ElFentaniloTeMata #EligeSerFeliz",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047374949728256483#m",
-      "timestamp": "2026-04-23T18:00:01+00:00",
-      "timestamp_display": "23/04/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Puebla - Acatzingo, km 132, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 132,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047373282236571683#m",
-      "timestamp": "2026-04-23T17:53:23+00:00",
-      "timestamp_display": "23/04/2026 11:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 167. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central de camión de carga). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 167,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047372129209843847#m",
-      "timestamp": "2026-04-23T17:48:48+00:00",
-      "timestamp_display": "23/04/2026 11:48 CST",
       "segment": null
     }
   ]
