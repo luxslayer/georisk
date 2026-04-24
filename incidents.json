@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-23T23:25:15.240611",
+  "last_update": "2026-04-24T00:08:33.629987",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+500 de la carretera Estación Patty-Vista hermosa, a la altura del poblado de el cerro blanco, con dir. a Vista Hermosa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2047458693168410677#m",
+      "timestamp": "2026-04-23T23:32:47+00:00",
+      "timestamp_display": "23/04/2026 17:32 CST",
+      "segment": null
+    },
     {
       "title": "Se invita a la población a tomar la #RutaAlterna por carretera Libre Mazatlán, a la altura de Yago.",
       "type": "twitter",
@@ -270,16 +283,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Guanajuato se registra cierre parcial de circulación tras #AccidenteVial cerca del km 088+900 de la carretera Querétaro - Salamanca. Atienda indicación vial.",
+      "title": "🏍️Tu casco es tu mejor protección 🏍️\nRevísalo y cámbialo a tiempo.\n⚠️Prevenir puede marcar la diferencia ⚠️\n📞 074 | @CAPUFE\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047465546795401620#m",
+      "timestamp": "2026-04-24T00:00:01+00:00",
+      "timestamp_display": "23/04/2026 18:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista La Tinaja - Isla, km 0, dirección La Tinaja. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 0,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047462681825652860#m",
+      "timestamp": "2026-04-23T23:48:38+00:00",
+      "timestamp_display": "23/04/2026 17:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠  \n#AutMéxicoQuerétaro, km 56. Registra carga vehicular en ambos sentidos a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": 88.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2047182033651110075#m",
-      "timestamp": "2026-04-23T05:13:26+00:00",
-      "timestamp_display": "22/04/2026 23:13 CST",
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047459215527035161#m",
+      "timestamp": "2026-04-23T23:34:51+00:00",
+      "timestamp_display": "23/04/2026 17:34 CST",
       "segment": null
     },
     {
@@ -465,32 +504,6 @@
       "url": "https://nitter.net/CAPUFE/status/2047412774725103857#m",
       "timestamp": "2026-04-23T20:30:19+00:00",
       "timestamp_display": "23/04/2026 14:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 89, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 89,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047409049470226486#m",
-      "timestamp": "2026-04-23T20:15:31+00:00",
-      "timestamp_display": "23/04/2026 14:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠     \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047408157689786722#m",
-      "timestamp": "2026-04-23T20:11:58+00:00",
-      "timestamp_display": "23/04/2026 14:11 CST",
       "segment": null
     }
   ]
