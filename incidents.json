@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-25T09:10:19.069019",
+  "last_update": "2026-04-25T10:05:47.985343",
   "incidents": [
     {
       "title": "#TomePrecaución en #NL se registra cierre parcial de circulación por #AccidenteVial cerca del km 041+000 de la carretera Saltillo - Monterrey, a la altura de la Localidad Rinconada, Mpio. García, N.L. Atienda Indicación Vial.",
@@ -271,6 +271,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Acayucan, km 159, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 159,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047976014601396548#m",
+      "timestamp": "2026-04-25T09:48:26+00:00",
+      "timestamp_display": "25/04/2026 03:48 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Hermosillo - Magdalena, km 27, dirección Magdalena. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 29.07,
@@ -529,19 +542,6 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2047886992860381266#m",
       "timestamp": "2026-04-25T03:54:41+00:00",
-      "timestamp_display": "24/04/2026 21:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 55, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 55,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047886852787507278#m",
-      "timestamp": "2026-04-25T03:54:08+00:00",
       "timestamp_display": "24/04/2026 21:54 CST",
       "segment": null
     }
