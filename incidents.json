@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-04-25T08:08:44.604168",
+  "last_update": "2026-04-25T09:10:19.069019",
   "incidents": [
+    {
+      "title": "#TomePrecaución en #NL se registra cierre parcial de circulación por #AccidenteVial cerca del km 041+000 de la carretera Saltillo - Monterrey, a la altura de la Localidad Rinconada, Mpio. García, N.L. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 25.598230556013007,
+      "lng": -100.92909650262571,
+      "road": 40,
+      "km": 21.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2047962777545826357#m",
+      "timestamp": "2026-04-25T08:55:50+00:00",
+      "timestamp_display": "25/04/2026 02:55 CST",
+      "segment": [
+        "saltillo",
+        "monterrey"
+      ]
+    },
     {
       "title": "#TomePrecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 159+800 de la carretera La tinaja - Cosoleacaque, Ver. Atienda Indicación Vial.",
       "type": "twitter",
@@ -255,16 +271,29 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Guerrero tras #AccidenteVila cerca del km281+800, de la Aut. Siglo XXI, (Directo) a la altura de la plaza de cobro Feliciano, Gro. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Hermosillo - Magdalena, km 27, dirección Magdalena. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 29.07,
+      "lng": -110.96,
       "road": null,
-      "km": 281.8,
+      "km": 27,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2047742627865342085#m",
-      "timestamp": "2026-04-24T18:21:02+00:00",
-      "timestamp_display": "24/04/2026 12:21 CST",
+      "url": "https://nitter.net/CAPUFE/status/2047955890335027457#m",
+      "timestamp": "2026-04-25T08:28:28+00:00",
+      "timestamp_display": "25/04/2026 02:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 194, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047953624806941008#m",
+      "timestamp": "2026-04-25T08:19:27+00:00",
+      "timestamp_display": "25/04/2026 02:19 CST",
       "segment": null
     },
     {
@@ -514,32 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2047886852787507278#m",
       "timestamp": "2026-04-25T03:54:08+00:00",
       "timestamp_display": "24/04/2026 21:54 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047877068621262895#m",
-      "timestamp": "2026-04-25T03:15:15+00:00",
-      "timestamp_display": "24/04/2026 21:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 54, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047875250927378500#m",
-      "timestamp": "2026-04-25T03:08:02+00:00",
-      "timestamp_display": "24/04/2026 21:08 CST",
       "segment": null
     }
   ]
