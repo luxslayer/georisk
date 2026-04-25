@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-25T05:31:45.359604",
+  "last_update": "2026-04-25T06:57:36.384224",
   "incidents": [
     {
       "title": "#VialidadLibre en #Oaxaca se libera la via tras presencia de personas cerca del km 282+000 de la carretera Coatzacoalcos - Salina Cruz, Oax. Atienda indicación vial.",
@@ -268,6 +268,90 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 244, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 244,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047931248471904611#m",
+      "timestamp": "2026-04-25T06:50:33+00:00",
+      "timestamp_display": "25/04/2026 00:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Hermosillo - Magdalena, km 27, dirección Magdalena. Continúa reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 27,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047930383770026085#m",
+      "timestamp": "2026-04-25T06:47:06+00:00",
+      "timestamp_display": "25/04/2026 00:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Oriente de Saltillo, km 21, dirección Monterrey. Continúa carga vehicular intensa por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\n\nPara más información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 25.46380545746462,
+      "lng": -101.05280132624266,
+      "road": 40,
+      "km": 1,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047929156126552528#m",
+      "timestamp": "2026-04-25T06:42:14+00:00",
+      "timestamp_display": "25/04/2026 00:42 CST",
+      "segment": [
+        "saltillo",
+        "monterrey"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 283, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 283,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047926023660908707#m",
+      "timestamp": "2026-04-25T06:29:47+00:00",
+      "timestamp_display": "25/04/2026 00:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 9, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.861131694276807,
+      "lng": -96.82694197387126,
+      "road": 150,
+      "km": 9,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2047918934423134260#m",
+      "timestamp": "2026-04-25T06:01:37+00:00",
+      "timestamp_display": "25/04/2026 00:01 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Isla - Acayucan, km 159, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 159,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2047917625443791282#m",
+      "timestamp": "2026-04-25T05:56:25+00:00",
+      "timestamp_display": "24/04/2026 23:56 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 60, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 18.7603,
@@ -460,87 +544,6 @@
       "timestamp": "2026-04-25T03:00:51+00:00",
       "timestamp_display": "24/04/2026 21:00 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 165, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 165,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047873325800501611#m",
-      "timestamp": "2026-04-25T03:00:23+00:00",
-      "timestamp_display": "24/04/2026 21:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 55, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla eléctrica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 55,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047870039097839813#m",
-      "timestamp": "2026-04-25T02:47:19+00:00",
-      "timestamp_display": "24/04/2026 20:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96, dirección Acapulco. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047868963338469460#m",
-      "timestamp": "2026-04-25T02:43:03+00:00",
-      "timestamp_display": "24/04/2026 20:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Noreste de Querétaro (Chichimequillas), km 36, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047868000691159060#m",
-      "timestamp": "2026-04-25T02:39:13+00:00",
-      "timestamp_display": "24/04/2026 20:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 84, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 84,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2047866553467654362#m",
-      "timestamp": "2026-04-25T02:33:28+00:00",
-      "timestamp_display": "24/04/2026 20:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Oriente de Saltillo, km 21, dirección Monterrey. Continúa carga vehicular intensa por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE.\n\nSin embargo, se restablece la circulación desde las Plazas de Cobro Los Chorros y Huachichil.\n\nPara más información de carretera libre, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 25.46380545746462,
-      "lng": -101.05280132624266,
-      "road": 40,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2047864495775584285#m",
-      "timestamp": "2026-04-25T02:25:17+00:00",
-      "timestamp_display": "24/04/2026 20:25 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
     }
   ]
 }
