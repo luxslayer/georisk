@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-26T13:41:13.815929",
+  "last_update": "2026-04-26T14:28:58.995864",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMx se registra cierre parcial a dos carriles de circulación por #AccidenteVíal cerca del km 054+000, en carretera Puebla-México, atienda indicación vial.",
@@ -28,6 +28,58 @@
       "url": "https://nitter.net/GN_Carreteras/status/2048191798426632470#m",
       "timestamp": "2026-04-26T00:05:52+00:00",
       "timestamp_display": "25/04/2026 18:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 67, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 67,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048407456670195961#m",
+      "timestamp": "2026-04-26T14:22:49+00:00",
+      "timestamp_display": "26/04/2026 08:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 13, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048403965792932142#m",
+      "timestamp": "2026-04-26T14:08:57+00:00",
+      "timestamp_display": "26/04/2026 08:08 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir con tranquilidad también es parte de un buen viaje.\nDisminuir la velocidad ayuda a cuidar de ti y de quienes te acompañan. 🚙💛\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048401712763834581#m",
+      "timestamp": "2026-04-26T14:00:00+00:00",
+      "timestamp_display": "26/04/2026 08:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 44, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048397335625916743#m",
+      "timestamp": "2026-04-26T13:42:36+00:00",
+      "timestamp_display": "26/04/2026 07:42 CST",
       "segment": null
     },
     {
@@ -252,64 +304,6 @@
       "timestamp": "2026-04-26T09:25:26+00:00",
       "timestamp_display": "26/04/2026 03:25 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Nuevo Teapa - Cosoleacaque, km 16. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048321820667846965#m",
-      "timestamp": "2026-04-26T08:42:32+00:00",
-      "timestamp_display": "26/04/2026 02:42 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Hermosillo - Magdalena, km 108, dirección Magdalena. Cierre a la circulación por atención de accidente (choque por alcance e incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 108,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048320799933607999#m",
-      "timestamp": "2026-04-26T08:38:29+00:00",
-      "timestamp_display": "26/04/2026 02:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 104, dirección La Tinaja. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 104,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048313192049217888#m",
-      "timestamp": "2026-04-26T08:08:15+00:00",
-      "timestamp_display": "26/04/2026 02:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, Plaza de Cobro San Marcos, dirección CDMX. Reducción de carriles por atención de incidente fuera de la cobertura de CAPUFE. Para más información llama al 5513281236 y *2236 de @Circuito_mx. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048306160898302430#m",
-      "timestamp": "2026-04-26T07:40:19+00:00",
-      "timestamp_display": "26/04/2026 01:40 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
