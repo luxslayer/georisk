@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-26T19:08:06.797855",
+  "last_update": "2026-04-26T19:54:55.108521",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVíal cerca de la carretera Lagos de Moreno-Guadalajara, a la altura del Mpio. Miranda, con dir. a Lagos de Moreno. Atienda indicación vial.",
@@ -67,6 +67,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2048191798426632470#m",
       "timestamp": "2026-04-26T00:05:52+00:00",
       "timestamp_display": "25/04/2026 18:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠      \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048488632479006855#m",
+      "timestamp": "2026-04-26T19:45:23+00:00",
+      "timestamp_display": "26/04/2026 13:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 24, dirección CDMX. Registra carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048487092846567910#m",
+      "timestamp": "2026-04-26T19:39:16+00:00",
+      "timestamp_display": "26/04/2026 13:39 CST",
       "segment": null
     },
     {
@@ -304,32 +330,6 @@
       "url": "https://nitter.net/CAPUFE/status/2048403965792932142#m",
       "timestamp": "2026-04-26T14:08:57+00:00",
       "timestamp_display": "26/04/2026 08:08 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir con tranquilidad también es parte de un buen viaje.\nDisminuir la velocidad ayuda a cuidar de ti y de quienes te acompañan. 🚙💛\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048401712763834581#m",
-      "timestamp": "2026-04-26T14:00:00+00:00",
-      "timestamp_display": "26/04/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 44, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048397335625916743#m",
-      "timestamp": "2026-04-26T13:42:36+00:00",
-      "timestamp_display": "26/04/2026 07:42 CST",
       "segment": null
     }
   ]
