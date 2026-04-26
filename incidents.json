@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-26T17:02:47.077428",
+  "last_update": "2026-04-26T17:58:23.280783",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Querétaro registra cierre parcial de circulación por #AccidenteVial cerca del km 064+500, de la carretera Macrolibramiento Querétaro-Centenario de la Constitución. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 64.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2048456332009738612#m",
+      "timestamp": "2026-04-26T17:37:02+00:00",
+      "timestamp_display": "26/04/2026 11:37 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 013+500, de la carretera Ent. La Tinaja - Cosoleacaque. Atienda indicación Vial.",
       "type": "twitter",
@@ -41,6 +54,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2048191798426632470#m",
       "timestamp": "2026-04-26T00:05:52+00:00",
       "timestamp_display": "25/04/2026 18:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴    \nAutopista La Tinaja - Isla, km 83, dirección La Tinaja. Cierre a la circulación en la gaza de salida al Poblado de Cosamaloapan por atención de incidente (tracto camión con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 83,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048454623204376883#m",
+      "timestamp": "2026-04-26T17:30:15+00:00",
+      "timestamp_display": "26/04/2026 11:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048449147280204107#m",
+      "timestamp": "2026-04-26T17:08:29+00:00",
+      "timestamp_display": "26/04/2026 11:08 CST",
       "segment": null
     },
     {
@@ -279,35 +318,6 @@
       "timestamp": "2026-04-26T12:44:15+00:00",
       "timestamp_display": "26/04/2026 06:44 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 41, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque por alcance y volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 41,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048381827124011063#m",
-      "timestamp": "2026-04-26T12:40:59+00:00",
-      "timestamp_display": "26/04/2026 06:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Concluyen labores de mantenimiento. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048379632299196671#m",
-      "timestamp": "2026-04-26T12:32:16+00:00",
-      "timestamp_display": "26/04/2026 06:32 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
