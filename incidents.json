@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-26T21:21:48.829537",
+  "last_update": "2026-04-26T22:02:57.387649",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVíal cerca de la carretera Lagos de Moreno-Guadalajara, a la altura del Mpio. Miranda, con dir. a Lagos de Moreno. Atienda indicación vial.",
@@ -67,6 +67,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2048191798426632470#m",
       "timestamp": "2026-04-26T00:05:52+00:00",
       "timestamp_display": "25/04/2026 18:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 42, dirección La Tinaja. Registra cierre a la circulación por atención de accidente (incendio de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048519493396148231#m",
+      "timestamp": "2026-04-26T21:48:01+00:00",
+      "timestamp_display": "26/04/2026 15:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 246, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 246,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048519030202343837#m",
+      "timestamp": "2026-04-26T21:46:11+00:00",
+      "timestamp_display": "26/04/2026 15:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴    \nLibramiento Oriente de Chihuahua, km 22, dirección Jiménez. Registra cierre a la circulación en la gasa de incorporación del entronque Aldama a la autopista, por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048518528865554820#m",
+      "timestamp": "2026-04-26T21:44:11+00:00",
+      "timestamp_display": "26/04/2026 15:44 CST",
       "segment": null
     },
     {
@@ -295,45 +334,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Hermosillo - Magdalena, km 108. Continúa circulación en contraflujo por atención del accidente (choque por alcance e incendio de tracto camión). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 108,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048466651293630656#m",
-      "timestamp": "2026-04-26T18:18:02+00:00",
-      "timestamp_display": "26/04/2026 12:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴    \nAutopista La Tinaja - Isla, km 83, dirección La Tinaja. Cierre a la circulación en la gaza de salida al Poblado de Cosamaloapan por atención de incidente (tracto camión con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 83,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048454623204376883#m",
-      "timestamp": "2026-04-26T17:30:15+00:00",
-      "timestamp_display": "26/04/2026 11:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048449147280204107#m",
-      "timestamp": "2026-04-26T17:08:29+00:00",
-      "timestamp_display": "26/04/2026 11:08 CST",
-      "segment": null
     }
   ]
 }
