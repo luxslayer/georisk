@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-26T10:29:54.491068",
+  "last_update": "2026-04-26T11:23:07.007977",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMx se registra cierre parcial a dos carriles de circulación por #AccidenteVíal cerca del km 054+000, en carretera Puebla-México, atienda indicación vial.",
@@ -83,6 +83,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2048016895043862587#m",
       "timestamp": "2026-04-25T12:30:52+00:00",
       "timestamp_display": "25/04/2026 06:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 156, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de unidades siniestradas). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 156,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048350379105005848#m",
+      "timestamp": "2026-04-26T10:36:01+00:00",
+      "timestamp_display": "26/04/2026 04:36 CST",
       "segment": null
     },
     {
@@ -342,19 +355,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 88, dirección Acapulco. Registra cierre a la circulación en la gasa de salida a Plaza Galerías, por atención de accidente (choque contra muro central). Circulación por carriles centrales. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 88,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048247653163499621#m",
-      "timestamp": "2026-04-26T03:47:49+00:00",
-      "timestamp_display": "25/04/2026 21:47 CST",
-      "segment": null
     }
   ]
 }
