@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-26T14:28:58.995864",
+  "last_update": "2026-04-26T15:22:37.336611",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz registra cierre parcial de circulación por #AccidenteVial cerca del km 013+500, de la carretera Ent. La Tinaja - Cosoleacaque. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 13.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2048420516168409121#m",
+      "timestamp": "2026-04-26T15:14:43+00:00",
+      "timestamp_display": "26/04/2026 09:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMx se registra cierre parcial a dos carriles de circulación por #AccidenteVíal cerca del km 054+000, en carretera Puebla-México, atienda indicación vial.",
       "type": "twitter",
@@ -28,6 +41,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2048191798426632470#m",
       "timestamp": "2026-04-26T00:05:52+00:00",
       "timestamp_display": "25/04/2026 18:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048412931289760001#m",
+      "timestamp": "2026-04-26T14:44:35+00:00",
+      "timestamp_display": "26/04/2026 08:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección La Tinaja, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048412486240497678#m",
+      "timestamp": "2026-04-26T14:42:49+00:00",
+      "timestamp_display": "26/04/2026 08:42 CST",
       "segment": null
     },
     {
@@ -274,35 +313,6 @@
       "url": "https://nitter.net/CAPUFE/status/2048350379105005848#m",
       "timestamp": "2026-04-26T10:36:01+00:00",
       "timestamp_display": "26/04/2026 04:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, Plaza de Cobro San Marcos, dirección CDMX. Continúa reducción de carriles por atención de incidente fuera de la cobertura de CAPUFE. Para más información llama al 5513281236 y *2236 de @Circuito_mx. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048348742823137754#m",
-      "timestamp": "2026-04-26T10:29:31+00:00",
-      "timestamp_display": "26/04/2026 04:29 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Hermosillo - Magdalena, km 108. Se restablece la circulación en contraflujo. El personal continúa laborando en la atención del accidente (choque por alcance e incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 108,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048332615548322045#m",
-      "timestamp": "2026-04-26T09:25:26+00:00",
-      "timestamp_display": "26/04/2026 03:25 CST",
       "segment": null
     }
   ]
