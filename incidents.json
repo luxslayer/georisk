@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-27T10:34:56.392211",
+  "last_update": "2026-04-27T12:11:13.234079",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 030+900, en la carretera Ent. la Tinaja-Cosoleacaque, a la altura  del poblado de Coatzacoalcos, con dir. a Coatzacoalcos. Atienda indicación vial.",
@@ -70,6 +70,74 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 78, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 78,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048734387940815295#m",
+      "timestamp": "2026-04-27T12:01:56+00:00",
+      "timestamp_display": "27/04/2026 06:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Lagos de Moreno - San Luis Potosí, km 14. Circulación intermitente en ambos sentidos por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 14,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048732839445733585#m",
+      "timestamp": "2026-04-27T11:55:47+00:00",
+      "timestamp_display": "27/04/2026 05:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048730395026325537#m",
+      "timestamp": "2026-04-27T11:46:04+00:00",
+      "timestamp_display": "27/04/2026 05:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Concluyen labores de mantenimiento. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048722051574231265#m",
+      "timestamp": "2026-04-27T11:12:55+00:00",
+      "timestamp_display": "27/04/2026 05:12 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048718906672427313#m",
+      "timestamp": "2026-04-27T11:00:25+00:00",
+      "timestamp_display": "27/04/2026 05:00 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 210. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.24,
@@ -83,7 +151,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. \n\nSin embargo, en la zona se registra carga vehicular y #neblina. Maneja con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. \n\nSin embargo, en la zona se registra carga vehicular y #neblina. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -265,77 +333,6 @@
       "timestamp": "2026-04-27T04:19:38+00:00",
       "timestamp_display": "26/04/2026 22:19 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 60, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048617868854509837#m",
-      "timestamp": "2026-04-27T04:18:56+00:00",
-      "timestamp_display": "26/04/2026 22:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (trasvase de carga).\n\nEn la zona se registra carga vehicular intensa y #neblina.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048614126365086156#m",
-      "timestamp": "2026-04-27T04:04:03+00:00",
-      "timestamp_display": "26/04/2026 22:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 210. Registra circulación intermitente en ambos sentidos por atención de accidente (incendio de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048610644199625085#m",
-      "timestamp": "2026-04-27T03:50:13+00:00",
-      "timestamp_display": "26/04/2026 21:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, km 0, dirección La Tinaja. Registra carga vehicular por las labores de atención al accidente registrado en el km 41 de la Autopista Córdoba - Veracruz. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.8602298,
-      "lng": -96.9105266,
-      "road": 150,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048602426714788052#m",
-      "timestamp": "2026-04-27T03:17:34+00:00",
-      "timestamp_display": "26/04/2026 21:17 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴    \nAutopista Córdoba - Veracruz, km 41, dirección Córdoba. Continúa cierre a la circulación por atención de accidente (caída de motociclista). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.78488248852856,
-      "lng": -96.53597064194156,
-      "road": 150,
-      "km": 41,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048600476665446847#m",
-      "timestamp": "2026-04-27T03:09:49+00:00",
-      "timestamp_display": "26/04/2026 21:09 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
