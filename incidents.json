@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-04-27T22:25:43.924239",
+  "last_update": "2026-04-27T23:27:52.144244",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Morelos se registra cierre total de circulación tras presencia de personas cerca del Km 028+500 en la autopista La Pera -Cuautla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 28.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2048906221441187979#m",
+      "timestamp": "2026-04-27T23:24:44+00:00",
+      "timestamp_display": "27/04/2026 17:24 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del Km 261+000 en la carretera Coatzacoalcos-Salina Cruz a la altura del Mpio., de Juchitán de Zaragoza. Se orienta a la ciudadanía #rutaalterna carretera La Ventosa–Salina Cruz.",
       "type": "twitter",
@@ -161,6 +174,103 @@
       ]
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista La Pera - Cuautla, km 26. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos, por presencia de manifestantes.\n\nSe desvía el tránsito vehicular hacía carretera libre en los siguientes puntos:\n\n➡ Dirección La Pera, en el km 34, a la altura del Poblado Cocoyoc.\n➡ Dirección Cuautla, en el km 21, en la Plaza de Cobro Oacalco.. \n\nLa carretera libre no es operada por CAPUFE. Para más información de las rutas alternas, llama al 088 de @GN_Carreteras.\n\nToma tus precauciones. Para más información, llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 26,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048905091692872017#m",
+      "timestamp": "2026-04-27T23:20:15+00:00",
+      "timestamp_display": "27/04/2026 17:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gtz. Zamora - Tihuatlán, km 201. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (incendio de vagoneta).\n\nEn la zona se registra carga vehicular.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 201,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048900305463476649#m",
+      "timestamp": "2026-04-27T23:01:14+00:00",
+      "timestamp_display": "27/04/2026 17:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 49, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 49,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048899617811566967#m",
+      "timestamp": "2026-04-27T22:58:30+00:00",
+      "timestamp_display": "27/04/2026 16:58 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista La Pera - Cuautla, km 26, dirección La Pera. Se informa a las personas usuarias que continúa el cierre a la circulación por presencia de manifestantes.\n\n➡  Dirección Cuautla, registra presencia de manifestantes en la salida hacia el poblado de Oaxtepec (fuera de la jurisdicción a cargo de CAPUFE)\n\nSe recomienda a la ciudadanía tomar la carretera libre en los siguientes puntos:\n\n➡ Dirección La Pera, a la altura del km 34 (Poblado Cocoyoc).\n➡ Dirección Cuautla, en la Plaza de Cobro Oacalco. \n\nAtiende las indicaciones y maneja con precaución. Para más información, llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 26,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048898082104873321#m",
+      "timestamp": "2026-04-27T22:52:24+00:00",
+      "timestamp_display": "27/04/2026 16:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Gtz. Zamora - Tihuatlán, km 201. Registra cierre a la circulación en ambos sentidos por atención de accidente (incendio de vagoneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 201,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2048897239800545751#m",
+      "timestamp": "2026-04-27T22:49:03+00:00",
+      "timestamp_display": "27/04/2026 16:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Córdoba - Veracruz, km 7, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.86571926773676,
+      "lng": -96.84532047138298,
+      "road": 150,
+      "km": 7,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048896622436692073#m",
+      "timestamp": "2026-04-27T22:46:36+00:00",
+      "timestamp_display": "27/04/2026 16:46 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoPuebla 🚧\nLos trabajos programados en el km 56 no se realizarán en las fechas indicadas. Las nuevas fechas se informarán oportunamente.\nTome sus precauciones.",
+      "type": "twitter",
+      "lat": 19.332781528079785,
+      "lng": -98.71786943861295,
+      "road": 150,
+      "km": 38,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2048892012334547410#m",
+      "timestamp": "2026-04-27T22:28:16+00:00",
+      "timestamp_display": "27/04/2026 16:28 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 49, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.7603,
@@ -310,97 +420,6 @@
       "url": "https://nitter.net/CAPUFE/status/2048862067956793569#m",
       "timestamp": "2026-04-27T20:29:17+00:00",
       "timestamp_display": "27/04/2026 14:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#AlertaAMBER",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2048859708509782464#m",
-      "timestamp": "2026-04-27T20:19:55+00:00",
-      "timestamp_display": "27/04/2026 14:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 266, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 266,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048858917698998678#m",
-      "timestamp": "2026-04-27T20:16:46+00:00",
-      "timestamp_display": "27/04/2026 14:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 49, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048855953261441347#m",
-      "timestamp": "2026-04-27T20:04:59+00:00",
-      "timestamp_display": "27/04/2026 14:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Tehuacán - Oaxaca, km 49. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048853714836783163#m",
-      "timestamp": "2026-04-27T19:56:06+00:00",
-      "timestamp_display": "27/04/2026 13:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 147, dirección Acapulco. Reducción de carriles por atención de accidente (incendio de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 147,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048848935964320086#m",
-      "timestamp": "2026-04-27T19:37:06+00:00",
-      "timestamp_display": "27/04/2026 13:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 49. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (labores de limpieza).\n\nEn la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048845422689734659#m",
-      "timestamp": "2026-04-27T19:23:09+00:00",
-      "timestamp_display": "27/04/2026 13:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 187, dirección Cd. Obregón. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 187,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048844530464551178#m",
-      "timestamp": "2026-04-27T19:19:36+00:00",
-      "timestamp_display": "27/04/2026 13:19 CST",
       "segment": null
     }
   ]
