@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-28T09:59:54.456886",
+  "last_update": "2026-04-28T11:55:53.212683",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre total de circulación con dirección a Xalapa por #AccidenteVial cerca del Km 039+200 en la carretera Perote - Banderilla. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 81, dirección Isla. Continúa cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 81,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2049071473306816576#m",
+      "timestamp": "2026-04-28T10:21:23+00:00",
+      "timestamp_display": "28/04/2026 04:21 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Isla - Acayucan, registra #neblina a la altura de la Plaza de Cobro Acayucan. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -530,22 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2048980362793979974#m",
       "timestamp": "2026-04-28T04:19:21+00:00",
       "timestamp_display": "27/04/2026 22:19 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 59. Registra cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.331674540802503,
-      "lng": -98.69475909769841,
-      "road": 150,
-      "km": 41,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2048976317958222051#m",
-      "timestamp": "2026-04-28T04:03:16+00:00",
-      "timestamp_display": "27/04/2026 22:03 CST",
       "segment": [
         "mexico",
         "puebla"
