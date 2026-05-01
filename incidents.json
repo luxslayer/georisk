@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-01T10:44:03.088892",
+  "last_update": "2026-05-01T11:45:17.061784",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Queretaro tras cierre parcial de circulación por #AccidenteVial cerca del km 034+500 , de la carretera Macrolibramiento de Querètaro-Centenario de la Constitución. Maneje con precaucion.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 34.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2050177684538315181#m",
+      "timestamp": "2026-05-01T11:37:05+00:00",
+      "timestamp_display": "01/05/2026 05:37 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Queretaro tras cierre parcial de circulación en ambos sentidos por #AccidenteVial cerca del km 028+000 , de la carretera macrolibramiento-queretaro. Maneje con precaucion.",
       "type": "twitter",
@@ -249,16 +262,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre total de circulación tras presencia de personas cerca del km 016+100, de la carretera Ramal-Puerto Arista, a la altura de la Localidad La Lomita, Mpio. Tonalá, Chis. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 84, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 16.1,
+      "km": 84,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2049913484649865259#m",
-      "timestamp": "2026-04-30T18:07:14+00:00",
-      "timestamp_display": "30/04/2026 12:07 CST",
+      "url": "https://nitter.net/CAPUFE/status/2050172801529643116#m",
+      "timestamp": "2026-05-01T11:17:40+00:00",
+      "timestamp_display": "01/05/2026 05:17 CST",
       "segment": null
     },
     {
@@ -467,19 +480,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050068531522277836#m",
       "timestamp": "2026-05-01T04:23:21+00:00",
       "timestamp_display": "30/04/2026 22:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Champotón - Campeche, km 168. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 168,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050068290630803650#m",
-      "timestamp": "2026-05-01T04:22:23+00:00",
-      "timestamp_display": "30/04/2026 22:22 CST",
       "segment": null
     }
   ]
