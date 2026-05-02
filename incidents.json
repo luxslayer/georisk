@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-02T17:44:07.815672",
+  "last_update": "2026-05-02T18:36:10.457522",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial por #AccidenteVial cerca del km 024+000, de la carretera Ent. La Chicharrona - Cuencamé, con dirección a Fresnillo, Zac. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 24.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2050642312342933923#m",
+      "timestamp": "2026-05-02T18:23:21+00:00",
+      "timestamp_display": "02/05/2026 12:23 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Yucatán se registra cierre parcial por #AccidenteVial cerca del km 174+100, de la carretera Kantunil - Puerto Juárez, con dirección a Valladolid, Yuc. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 174.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2050638643941777613#m",
+      "timestamp": "2026-05-02T18:08:46+00:00",
+      "timestamp_display": "02/05/2026 12:08 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial por #AccidenteVial cerca del km 040+200, de la carretera Querétaro-Irapuato, con dirección al municipio de Salamanca, Gto. Atienda Indicación Vial.",
       "type": "twitter",
@@ -184,45 +210,55 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 215+000 de la carretera Puebla - Córdoba. Atienda indicación vial.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 40. Se informa a las personas usuarias que continúa la reducción de carriles en ambos sentidos por atención del accidente. \n\n🔘 Personal de la Fiscalía se encuentra realizando los servicios periciales en la zona.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
-      "lat": 18.855732443060813,
-      "lng": -97.41530708759228,
-      "road": 150,
-      "km": 106.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050282993952907276#m",
-      "timestamp": "2026-05-01T18:35:32+00:00",
-      "timestamp_display": "01/05/2026 12:35 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#ViaLibre en #Nayarit tras #AccidenteVial cerca del Km 131+600 de la carretera Guadalajara - Tepic. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 131.6,
+      "km": 40,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050282276391444610#m",
-      "timestamp": "2026-05-01T18:32:41+00:00",
-      "timestamp_display": "01/05/2026 12:32 CST",
+      "url": "https://nitter.net/CAPUFE/status/2050638274407158206#m",
+      "timestamp": "2026-05-02T18:07:18+00:00",
+      "timestamp_display": "02/05/2026 12:07 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del Km 175+000 de la carretera Barranca Larga - Ventanilla. Atienda indicación vial.",
+      "title": "🙋‍♀️ Cada simulacro cuenta\nParticipar es la mejor forma de prepararnos y cuidar lo que más importa. Hagámoslo parte de nuestra rutina.\nRegistra tu inmueble en: http://simulacronacional.sspc.gob.mx/simulacromayo2026/\n#LaPrevencionEsNuestraFuerza",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 175.0,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050636440393150678#m",
+      "timestamp": "2026-05-02T18:00:01+00:00",
+      "timestamp_display": "02/05/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, dirección Acapulco. Registra carga vehicular del km 94 al 96, por periodo vacacional. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 94,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050633238159179996#m",
+      "timestamp": "2026-05-02T17:47:17+00:00",
+      "timestamp_display": "02/05/2026 11:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 98, dirección Acapulco. El accidente ha sido atendido. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050280278627688933#m",
-      "timestamp": "2026-05-01T18:24:45+00:00",
-      "timestamp_display": "01/05/2026 12:24 CST",
+      "url": "https://nitter.net/CAPUFE/status/2050633164679168358#m",
+      "timestamp": "2026-05-02T17:47:00+00:00",
+      "timestamp_display": "02/05/2026 11:47 CST",
       "segment": null
     },
     {
@@ -398,74 +434,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050580138480337114#m",
       "timestamp": "2026-05-02T14:16:17+00:00",
       "timestamp_display": "02/05/2026 08:16 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nRespetar los límites de velocidad también es cuidar de las demás personas.\n👉 Reduce la velocidad y conduce con responsabilidad. 🚙\nPara auxilio vial, marca 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050576043120181579#m",
-      "timestamp": "2026-05-02T14:00:01+00:00",
-      "timestamp_display": "02/05/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 22, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.929166239714384,
-      "lng": -94.73363224060772,
-      "road": 145,
-      "km": 22,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050572804136071586#m",
-      "timestamp": "2026-05-02T13:47:08+00:00",
-      "timestamp_display": "02/05/2026 07:47 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050572625647481032#m",
-      "timestamp": "2026-05-02T13:46:26+00:00",
-      "timestamp_display": "02/05/2026 07:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050571267397562618#m",
-      "timestamp": "2026-05-02T13:41:02+00:00",
-      "timestamp_display": "02/05/2026 07:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 205, dirección Querétaro. Reducción de carriles por atención de incidente (caída de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 205,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050565798553403740#m",
-      "timestamp": "2026-05-02T13:19:18+00:00",
-      "timestamp_display": "02/05/2026 07:19 CST",
       "segment": null
     }
   ]
