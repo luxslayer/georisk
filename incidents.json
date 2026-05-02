@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T11:24:55.148629",
+  "last_update": "2026-05-02T12:07:07.392910",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 132+500 de la carretera Perote - Banderilla. Atienda indicación vial.",
@@ -210,19 +210,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2050204164450316492#m",
       "timestamp": "2026-05-01T13:22:18+00:00",
       "timestamp_display": "01/05/2026 07:22 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Queretaro tras cierre parcial de circulación por #AccidenteVial cerca del km 034+500 , de la carretera Macrolibramiento de Querètaro-Centenario de la Constitución. Maneje con precaucion.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 34.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050177684538315181#m",
-      "timestamp": "2026-05-01T11:37:05+00:00",
-      "timestamp_display": "01/05/2026 05:37 CST",
       "segment": null
     },
     {
