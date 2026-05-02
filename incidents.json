@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-02T12:07:07.392910",
+  "last_update": "2026-05-02T13:48:42.759067",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra #Movimiento de personas, cerca del km 099+000 de la carretera Tapanatepec - Talismán con Ramales a Unión Juárez y Cd. Hidalgo, con dirección a Arriaga, Chis. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": 99.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2050567925124280509#m",
+      "timestamp": "2026-05-02T13:27:45+00:00",
+      "timestamp_display": "02/05/2026 07:27 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 132+500 de la carretera Perote - Banderilla. Atienda indicación vial.",
       "type": "twitter",
@@ -187,29 +200,58 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación con direccion a celaya por #AccidenteVial cerca del km 047+100 , de la carretera Queretaro-Leon, a la altura del Mpio. Apaseo El Alto, Gto. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 22, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.929166239714384,
+      "lng": -94.73363224060772,
+      "road": 145,
+      "km": 22,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050572804136071586#m",
+      "timestamp": "2026-05-02T13:47:08+00:00",
+      "timestamp_display": "02/05/2026 07:47 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050572625647481032#m",
+      "timestamp": "2026-05-02T13:46:26+00:00",
+      "timestamp_display": "02/05/2026 07:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050571267397562618#m",
+      "timestamp": "2026-05-02T13:41:02+00:00",
+      "timestamp_display": "02/05/2026 07:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 205, dirección Querétaro. Reducción de carriles por atención de incidente (caída de carga). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": 47.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050206778776805572#m",
-      "timestamp": "2026-05-01T13:32:41+00:00",
-      "timestamp_display": "01/05/2026 07:32 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 166+300 , de la carretera Tula-Ciudad Victoria, a la altura del Mpio. de Cd. Victoria, Tamps. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.0529,
-      "lng": -99.3408,
-      "road": null,
-      "km": 166.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050204164450316492#m",
-      "timestamp": "2026-05-01T13:22:18+00:00",
-      "timestamp_display": "01/05/2026 07:22 CST",
+      "km": 205,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050565798553403740#m",
+      "timestamp": "2026-05-02T13:19:18+00:00",
+      "timestamp_display": "02/05/2026 07:19 CST",
       "segment": null
     },
     {
@@ -418,61 +460,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050394850206380050#m",
       "timestamp": "2026-05-02T02:00:01+00:00",
       "timestamp_display": "01/05/2026 20:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Cuernavaca - Acapulco, km 181, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 181,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050388357532790964#m",
-      "timestamp": "2026-05-02T01:34:13+00:00",
-      "timestamp_display": "01/05/2026 19:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en dirección Veracruz, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050370065527083350#m",
-      "timestamp": "2026-05-02T00:21:32+00:00",
-      "timestamp_display": "01/05/2026 18:21 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en dirección Acatzingo por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050369712261865576#m",
-      "timestamp": "2026-05-02T00:20:08+00:00",
-      "timestamp_display": "01/05/2026 18:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 214, dirección Cd. Mendoza. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 214,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050369391326376083#m",
-      "timestamp": "2026-05-02T00:18:51+00:00",
-      "timestamp_display": "01/05/2026 18:18 CST",
       "segment": null
     }
   ]
