@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T10:28:32.896596",
+  "last_update": "2026-05-02T11:24:55.148629",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 132+500 de la carretera Perote - Banderilla. Atienda indicación vial.",
@@ -226,6 +226,45 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 170, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050532755558297666#m",
+      "timestamp": "2026-05-02T11:08:00+00:00",
+      "timestamp_display": "02/05/2026 05:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 192, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️-.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 192,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050532170222199237#m",
+      "timestamp": "2026-05-02T11:05:41+00:00",
+      "timestamp_display": "02/05/2026 05:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n Autopista Cuernavaca - Acapulco, km 192, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 192,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050525212404334625#m",
+      "timestamp": "2026-05-02T10:38:02+00:00",
+      "timestamp_display": "02/05/2026 04:38 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, Plaza de Cobro Salamanca, dirección Irapuato. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 20.5888,
@@ -447,45 +486,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050369391326376083#m",
       "timestamp": "2026-05-02T00:18:51+00:00",
       "timestamp_display": "01/05/2026 18:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 59, dirección Isla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 59,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050368371229688084#m",
-      "timestamp": "2026-05-02T00:14:48+00:00",
-      "timestamp_display": "01/05/2026 18:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 23 al 28. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050366251856187439#m",
-      "timestamp": "2026-05-02T00:06:23+00:00",
-      "timestamp_display": "01/05/2026 18:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Las Choapas - Ocozocoautla, km 86. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050362793891639748#m",
-      "timestamp": "2026-05-01T23:52:38+00:00",
-      "timestamp_display": "01/05/2026 17:52 CST",
       "segment": null
     }
   ]
