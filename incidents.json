@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T19:42:43.793610",
+  "last_update": "2026-05-02T20:25:51.899563",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 220+000, de la carretera Tulancingo - Tihuatlán, con dirección a Huauchinango, Pue. Atienda Indicación Vial.",
@@ -223,6 +223,35 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050663673920721182#m",
+      "timestamp": "2026-05-02T19:48:14+00:00",
+      "timestamp_display": "02/05/2026 13:48 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Córdoba - Veracruz, km 32, dirección Veracruz. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles.\n\n➡️ Dir. Córdoba, registra reducción de carriles.\n➡️ Dir. Veracruz, se desvía el tránsito vehicular hacia carretera libre a la altura del km 0 (Poblado de Rancho Trejo).\n\nEn la zona se registra #lluvia. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/m5bAqb3rzK7Uuzmj6",
+      "type": "twitter",
+      "lat": 18.802478018836407,
+      "lng": -96.61926554224883,
+      "road": 150,
+      "km": 32,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050662612845679005#m",
+      "timestamp": "2026-05-02T19:44:01+00:00",
+      "timestamp_display": "02/05/2026 13:44 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 40, dirección Irapuato. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente. \n\n🔘 Personal de la Fiscalía se encuentra realizando los servicios periciales en la zona.\n➡ Dir. Querétaro, se restablece la circulación de manera normal. \n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -260,22 +289,6 @@
       "timestamp": "2026-05-02T19:33:41+00:00",
       "timestamp_display": "02/05/2026 13:33 CST",
       "segment": null
-    },
-    {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Córdoba - Veracruz, km 32, dirección Veracruz. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles.\n\n➡️ Dir. Córdoba, registra reducción de carriles.\n➡️ Dir. Veracruz, se desvía el tránsito vehicular hacía carretera libre a la altura del km 0 (Poblado de Rancho Trejo).\n\nEn la zona se registra #lluvia. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/m5bAqb3rzK7Uuzmj6",
-      "type": "twitter",
-      "lat": 18.802478018836407,
-      "lng": -96.61926554224883,
-      "road": 150,
-      "km": 32,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050659415473205502#m",
-      "timestamp": "2026-05-02T19:31:18+00:00",
-      "timestamp_display": "02/05/2026 13:31 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 24, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -450,19 +463,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050607588455121380#m",
       "timestamp": "2026-05-02T16:05:22+00:00",
       "timestamp_display": "02/05/2026 10:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 100, dirección Cuernavaca. Reducción de carriles por atención de incidente (automóvil con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 100,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050604076367307227#m",
-      "timestamp": "2026-05-02T15:51:24+00:00",
-      "timestamp_display": "02/05/2026 09:51 CST",
       "segment": null
     }
   ]
