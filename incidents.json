@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T03:50:57.901372",
+  "last_update": "2026-05-02T06:07:24.955220",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 168+600 de la carretera Poza Rica - Veracruz. Atienda indicación vial.",
@@ -226,16 +226,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Chiapas se registra #Movimiento de personas de la Caravana Dios bendice, cerca del km 196+000 de la carretera Tapanatepec - Talismán con ramales a Unión Juárez y Cd. Hidalgo, reanudan su marcha, con dirección a Arriaga, Chis. Atienda Indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, Plaza de Cobro Salamanca, dirección Irapuato. Registra reducción de carriles por atención de choque contra cabina. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/jMZuuxfJLNwroecq5",
       "type": "twitter",
-      "lat": 16.3708,
-      "lng": -94.1936,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 196.0,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2050085850931724315#m",
-      "timestamp": "2026-05-01T05:32:10+00:00",
-      "timestamp_display": "30/04/2026 23:32 CST",
+      "url": "https://nitter.net/CAPUFE/status/2050453651517235406#m",
+      "timestamp": "2026-05-02T05:53:40+00:00",
+      "timestamp_display": "01/05/2026 23:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 47, dirección CDMX. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 47,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050436006529118652#m",
+      "timestamp": "2026-05-02T04:43:33+00:00",
+      "timestamp_display": "01/05/2026 22:43 CST",
       "segment": null
     },
     {
@@ -473,32 +486,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050340342772228502#m",
       "timestamp": "2026-05-01T22:23:25+00:00",
       "timestamp_display": "01/05/2026 16:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en ambos sentidos por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050338781799031286#m",
-      "timestamp": "2026-05-01T22:17:13+00:00",
-      "timestamp_display": "01/05/2026 16:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Continúa carga vehicular en dirección Oaxaca por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050336461451350480#m",
-      "timestamp": "2026-05-01T22:08:00+00:00",
-      "timestamp_display": "01/05/2026 16:08 CST",
       "segment": null
     }
   ]
