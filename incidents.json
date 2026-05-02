@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T07:59:49.333393",
+  "last_update": "2026-05-02T09:16:22.899956",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 132+500 de la carretera Perote - Banderilla. Atienda indicación vial.",
@@ -223,6 +223,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2050177684538315181#m",
       "timestamp": "2026-05-01T11:37:05+00:00",
       "timestamp_display": "01/05/2026 05:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 170, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 170,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050491401394168181#m",
+      "timestamp": "2026-05-02T08:23:41+00:00",
+      "timestamp_display": "02/05/2026 02:23 CST",
       "segment": null
     },
     {
@@ -473,19 +486,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050357353564807634#m",
       "timestamp": "2026-05-01T23:31:01+00:00",
       "timestamp_display": "01/05/2026 17:31 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️\n#AutMéxicoCuernavaca, dirección Cuernavaca. Continúa carga vehicular por periodo vacacional. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050353173089452516#m",
-      "timestamp": "2026-05-01T23:14:24+00:00",
-      "timestamp_display": "01/05/2026 17:14 CST",
       "segment": null
     }
   ]
