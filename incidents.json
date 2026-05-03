@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-03T11:11:59.064896",
+  "last_update": "2026-05-03T11:58:40.860735",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 241+200, de la carretera Córdoba-Puebla, con dirección a Veracruz. Atienda Indicación Vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada).\n\nPor seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050904874464727181#m",
+      "timestamp": "2026-05-03T11:46:40+00:00",
+      "timestamp_display": "03/05/2026 05:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 89, dirección CDMX. Reducción de carriles laterales por atención de accidente (choque de costado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 89,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050898648884531494#m",
+      "timestamp": "2026-05-03T11:21:56+00:00",
+      "timestamp_display": "03/05/2026 05:21 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 11, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -484,35 +510,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050793614435815820#m",
       "timestamp": "2026-05-03T04:24:34+00:00",
       "timestamp_display": "02/05/2026 22:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 45, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.303147228264834,
-      "lng": -98.78112403820627,
-      "road": 150,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050788134091124919#m",
-      "timestamp": "2026-05-03T04:02:47+00:00",
-      "timestamp_display": "02/05/2026 22:02 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección La Tinaja, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050783038330540515#m",
-      "timestamp": "2026-05-03T03:42:32+00:00",
-      "timestamp_display": "02/05/2026 21:42 CST",
       "segment": null
     }
   ]
