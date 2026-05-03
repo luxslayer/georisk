@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-03T15:31:40.512683",
+  "last_update": "2026-05-03T16:30:02.069834",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial  cerca del km 010+050, de la carretera León-Aguascalientes, con dirección a León, Gto. Atienda Indicación Vial.",
@@ -277,6 +277,71 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 359, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 359,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050971166894887001#m",
+      "timestamp": "2026-05-03T16:10:06+00:00",
+      "timestamp_display": "03/05/2026 10:10 CST",
+      "segment": null
+    },
+    {
+      "title": "La prevención nos une y nos fortalece.\nParticipa en el #PrimerSimulacroNacional2026 🦺\nPractica cómo actuar ante una emergencia y ayuda a proteger a tu familia y comunidad.\n📍Registra tu inmueble y súmate: http://simulacronacional.sspc.gob.mx/simulacromayo2026/\n#LaPrevencionEsNuestraFuerza",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050968628204642341#m",
+      "timestamp": "2026-05-03T16:00:00+00:00",
+      "timestamp_display": "03/05/2026 10:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050963657895346209#m",
+      "timestamp": "2026-05-03T15:40:15+00:00",
+      "timestamp_display": "03/05/2026 09:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 30, dirección Irapuato. Continúa reducción de carriles por atención de accidente (salida de neumático de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050962958742683685#m",
+      "timestamp": "2026-05-03T15:37:29+00:00",
+      "timestamp_display": "03/05/2026 09:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 146, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 146,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050962717083656433#m",
+      "timestamp": "2026-05-03T15:36:31+00:00",
+      "timestamp_display": "03/05/2026 09:36 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Se restablece la circulación con reducción de carriles desde las Plazas de Cobro Los Chorros y Huachichil.\n\nEl personal continúa laborando en la atención del accidente (labores de limpieza).\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 25.1685,
@@ -465,58 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050932132982186188#m",
       "timestamp": "2026-05-03T13:34:59+00:00",
       "timestamp_display": "03/05/2026 07:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 11, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 11,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050930793225077081#m",
-      "timestamp": "2026-05-03T13:29:40+00:00",
-      "timestamp_display": "03/05/2026 07:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 89, dirección CDMX. El accidente en carriles laterales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 89,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050924644308267461#m",
-      "timestamp": "2026-05-03T13:05:14+00:00",
-      "timestamp_display": "03/05/2026 07:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️   \nAutopista Gtz. Zamora - Tihuatlán, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050922720754344218#m",
-      "timestamp": "2026-05-03T12:57:35+00:00",
-      "timestamp_display": "03/05/2026 06:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra #neblina.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 241,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050920970886549822#m",
-      "timestamp": "2026-05-03T12:50:38+00:00",
-      "timestamp_display": "03/05/2026 06:50 CST",
       "segment": null
     }
   ]
