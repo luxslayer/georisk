@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-03T13:41:46.085754",
+  "last_update": "2026-05-03T14:34:54.551222",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial  cerca del km 010+050, de la carretera León-Aguascalientes, con dirección a León, Gto. Atienda Indicación Vial.",
@@ -277,6 +277,77 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (labores de limpieza).\n\nPor seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050944871184081301#m",
+      "timestamp": "2026-05-03T14:25:36+00:00",
+      "timestamp_display": "03/05/2026 08:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 10, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.016258678251745,
+      "lng": -94.38773795898274,
+      "road": 180,
+      "km": 10,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050944378655449166#m",
+      "timestamp": "2026-05-03T14:23:39+00:00",
+      "timestamp_display": "03/05/2026 08:23 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista La Tinaja - Isla, registra #lluvia en el km 23. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 23,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050943159270519225#m",
+      "timestamp": "2026-05-03T14:18:48+00:00",
+      "timestamp_display": "03/05/2026 08:18 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nAnticipa tu trayecto y maneja con precaución.\nCada decisión al volante puede marcar la diferencia en tu trayecto. 🚗\n👉 Respeta las señales y disfruta el camino.\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050938436539043908#m",
+      "timestamp": "2026-05-03T14:00:02+00:00",
+      "timestamp_display": "03/05/2026 08:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.967838729227932,
+      "lng": -94.65045909607852,
+      "road": 145,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050938088231215118#m",
+      "timestamp": "2026-05-03T13:58:39+00:00",
+      "timestamp_display": "03/05/2026 07:58 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 359, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -468,77 +539,6 @@
       "segment": [
         "mexico",
         "puebla"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Registra cierre a la circulación por atención de accidente (volcadura de tracto camión).\n\nPor seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050889948614598925#m",
-      "timestamp": "2026-05-03T10:47:22+00:00",
-      "timestamp_display": "03/05/2026 04:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. Continúa circulación intermitente por atención de accidente (maniobras para el retiro de unidad siniestrada).\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.967838729227932,
-      "lng": -94.65045909607852,
-      "road": 145,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050888410437386481#m",
-      "timestamp": "2026-05-03T10:41:15+00:00",
-      "timestamp_display": "03/05/2026 04:41 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra #neblina.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 241,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050887831791321199#m",
-      "timestamp": "2026-05-03T10:38:57+00:00",
-      "timestamp_display": "03/05/2026 04:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Gtz. Zamora - Tihuatlán, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050873014669963300#m",
-      "timestamp": "2026-05-03T09:40:04+00:00",
-      "timestamp_display": "03/05/2026 03:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. Se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.967838729227932,
-      "lng": -94.65045909607852,
-      "road": 145,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050841105151729768#m",
-      "timestamp": "2026-05-03T07:33:16+00:00",
-      "timestamp_display": "03/05/2026 01:33 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
       ]
     }
   ]
