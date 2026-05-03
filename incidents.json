@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-05-03T19:41:20.755547",
+  "last_update": "2026-05-03T20:25:57.732666",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 120+500, de la carretera Campeche - Mérida. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 120.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2051029477455507844#m",
+      "timestamp": "2026-05-03T20:01:48+00:00",
+      "timestamp_display": "03/05/2026 14:01 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+650, de la Autopista Siglo XXI a la altura del Mpio. Amacuitlapilco. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 6.65,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2051028040671539603#m",
+      "timestamp": "2026-05-03T19:56:05+00:00",
+      "timestamp_display": "03/05/2026 13:56 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 111+700, de la carretera Libramiento Norte, a la altura del localidad de San Miguel Tepetates Hgo. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 111.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2051024846935454202#m",
+      "timestamp": "2026-05-03T19:43:24+00:00",
+      "timestamp_display": "03/05/2026 13:43 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+800, de la carretera Iguala - Ciudad Altamirano, a la altura del poblado Metlapa, Gro. Atienda Indicación Vial.",
       "type": "twitter",
@@ -235,45 +274,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 193+300, de la carretera Maravatio- Zapotlanejo. Atienda Indicación Vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoCuernavaca, continúa #lluvia en el km 38. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 20.16679659561798,
-      "lng": -102.13155097076769,
-      "road": 15,
-      "km": 193.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050709354475565515#m",
-      "timestamp": "2026-05-02T22:49:45+00:00",
-      "timestamp_display": "02/05/2026 16:49 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 034+600, de la carretera Córdoba - Ent. La Tinaja, con dirección a la Tinaja, Ver. Atienda Indicación Vial.",
-      "type": "twitter",
-      "lat": 18.797987874392124,
-      "lng": -96.59502876254302,
-      "road": 150,
-      "km": 34.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050707442376351789#m",
-      "timestamp": "2026-05-02T22:42:09+00:00",
-      "timestamp_display": "02/05/2026 16:42 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 123+000, de la carretera San Juan de los Lagos-Lagos de Moreno, con dirección a Lagos de Moreno, Jal. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 123.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050705523062845895#m",
-      "timestamp": "2026-05-02T22:34:31+00:00",
-      "timestamp_display": "02/05/2026 16:34 CST",
+      "km": 38,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2051033310743220502#m",
+      "timestamp": "2026-05-03T20:17:02+00:00",
+      "timestamp_display": "03/05/2026 14:17 CST",
       "segment": null
     },
     {
@@ -530,19 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2050968628204642341#m",
       "timestamp": "2026-05-03T16:00:00+00:00",
       "timestamp_display": "03/05/2026 10:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050963657895346209#m",
-      "timestamp": "2026-05-03T15:40:15+00:00",
-      "timestamp_display": "03/05/2026 09:40 CST",
       "segment": null
     }
   ]
