@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-03T10:16:25.824317",
+  "last_update": "2026-05-03T11:11:59.064896",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 241+200, de la carretera Córdoba-Puebla, con dirección a Veracruz. Atienda Indicación Vial.",
@@ -274,6 +274,77 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 11, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 11,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050895827858509849#m",
+      "timestamp": "2026-05-03T11:10:43+00:00",
+      "timestamp_display": "03/05/2026 05:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 62. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.339748164585124,
+      "lng": -98.67112634473027,
+      "road": 150,
+      "km": 44,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050890286046315001#m",
+      "timestamp": "2026-05-03T10:48:42+00:00",
+      "timestamp_display": "03/05/2026 04:48 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Registra cierre a la circulación por atención de accidente (volcadura de tracto camión).\n\nPor seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050889948614598925#m",
+      "timestamp": "2026-05-03T10:47:22+00:00",
+      "timestamp_display": "03/05/2026 04:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. Continúa circulación intermitente por atención de accidente (maniobras para el retiro de unidad siniestrada).\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.967838729227932,
+      "lng": -94.65045909607852,
+      "road": 145,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050888410437386481#m",
+      "timestamp": "2026-05-03T10:41:15+00:00",
+      "timestamp_display": "03/05/2026 04:41 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra #neblina.\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 241,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050887831791321199#m",
+      "timestamp": "2026-05-03T10:38:57+00:00",
+      "timestamp_display": "03/05/2026 04:38 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Gtz. Zamora - Tihuatlán, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -303,7 +374,7 @@
       ]
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (choque por alcance entre tracto camiones).\n\nEn la zona se registra carga vehicular y #neblina.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (choque por alcance entre tracto camiones).\n\nEn la zona se registra carga vehicular y #neblina.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -443,61 +514,6 @@
       "timestamp": "2026-05-03T03:42:32+00:00",
       "timestamp_display": "02/05/2026 21:42 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Salina Cruz - La Ventosa, km 70. Se restablece la circulación de manera normal en ambos sentidos. El personal continúa laborando en la atención del accidente, por el momento sin afectar los carriles de rodamiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050778281901707665#m",
-      "timestamp": "2026-05-03T03:23:38+00:00",
-      "timestamp_display": "02/05/2026 21:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 173, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 173,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050766595283091513#m",
-      "timestamp": "2026-05-03T02:37:12+00:00",
-      "timestamp_display": "02/05/2026 20:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Salina Cruz - La Ventosa, km 70. Circulación intermitente en ambos sentidos por atención de accidente (automóvil siniestrado). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050764461485494525#m",
-      "timestamp": "2026-05-03T02:28:43+00:00",
-      "timestamp_display": "02/05/2026 20:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 45, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de camión de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.303147228264834,
-      "lng": -98.78112403820627,
-      "road": 150,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050763160433406132#m",
-      "timestamp": "2026-05-03T02:23:33+00:00",
-      "timestamp_display": "02/05/2026 20:23 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
