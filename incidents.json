@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-03T16:30:02.069834",
+  "last_update": "2026-05-03T17:28:29.670032",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 026+000, de la carretera Ciudad Obregón - Hermosillo, a la altura del Mpio. Bácum, Son. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 26.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2050983654407430419#m",
+      "timestamp": "2026-05-03T16:59:43+00:00",
+      "timestamp_display": "03/05/2026 10:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial  cerca del km 054+000, de la carretera Libramiento Sur de Guadalajara, a la altura de la localidad de Tlajomulco de Zúñiga. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 54.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2050982306936955079#m",
+      "timestamp": "2026-05-03T16:54:22+00:00",
+      "timestamp_display": "03/05/2026 10:54 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial  cerca del km 010+050, de la carretera León-Aguascalientes, con dirección a León, Gto. Atienda Indicación Vial.",
       "type": "twitter",
@@ -251,29 +277,68 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial por #AccidenteVial cerca del km 123+000, de la carretera San Juan de los Lagos-Lagos de Moreno, con dirección a Lagos de Moreno, Jal. Atienda Indicación Vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 25.1685,
+      "lng": -100.7189,
       "road": null,
-      "km": 123.0,
+      "km": 232,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050695325329793054#m",
-      "timestamp": "2026-05-02T21:54:00+00:00",
-      "timestamp_display": "02/05/2026 15:54 CST",
+      "url": "https://nitter.net/CAPUFE/status/2050988131902456181#m",
+      "timestamp": "2026-05-03T17:17:30+00:00",
+      "timestamp_display": "03/05/2026 11:17 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 153+300, de la carretera Las Choapas - Ocozocoautla. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Obregón - Guaymas, km 26, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 153.3,
+      "km": 26,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2050690294077641042#m",
-      "timestamp": "2026-05-02T21:34:00+00:00",
-      "timestamp_display": "02/05/2026 15:34 CST",
+      "url": "https://nitter.net/CAPUFE/status/2050987562823569464#m",
+      "timestamp": "2026-05-03T17:15:15+00:00",
+      "timestamp_display": "03/05/2026 11:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia ligera a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2050986714194186751#m",
+      "timestamp": "2026-05-03T17:11:52+00:00",
+      "timestamp_display": "03/05/2026 11:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 146, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 146,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050986163242971484#m",
+      "timestamp": "2026-05-03T17:09:41+00:00",
+      "timestamp_display": "03/05/2026 11:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2050979338166653108#m",
+      "timestamp": "2026-05-03T16:42:34+00:00",
+      "timestamp_display": "03/05/2026 10:42 CST",
       "segment": null
     },
     {
@@ -463,74 +528,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista La Tinaja - Isla, registra #lluvia en el km 23. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050943159270519225#m",
-      "timestamp": "2026-05-03T14:18:48+00:00",
-      "timestamp_display": "03/05/2026 08:18 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nAnticipa tu trayecto y maneja con precaución.\nCada decisión al volante puede marcar la diferencia en tu trayecto. 🚗\n👉 Respeta las señales y disfruta el camino.\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2050938436539043908#m",
-      "timestamp": "2026-05-03T14:00:02+00:00",
-      "timestamp_display": "03/05/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.967838729227932,
-      "lng": -94.65045909607852,
-      "road": 145,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050938088231215118#m",
-      "timestamp": "2026-05-03T13:58:39+00:00",
-      "timestamp_display": "03/05/2026 07:58 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 359, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 359,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050933368913576112#m",
-      "timestamp": "2026-05-03T13:39:54+00:00",
-      "timestamp_display": "03/05/2026 07:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 30, dirección Irapuato. Reducción de carriles por atención de accidente (salida de neumático de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2050932132982186188#m",
-      "timestamp": "2026-05-03T13:34:59+00:00",
-      "timestamp_display": "03/05/2026 07:34 CST",
-      "segment": null
     }
   ]
 }
