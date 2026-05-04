@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-04T09:36:23.772048",
+  "last_update": "2026-05-04T11:26:29.504197",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 327+500, de la autopista Chilpancingo- Acapulco. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 327.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2051259059429335320#m",
+      "timestamp": "2026-05-04T11:14:04+00:00",
+      "timestamp_display": "04/05/2026 05:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 039+200, de la carretera Xalapa - Veracruz. Atienda Indicación Vial.",
       "type": "twitter",
@@ -206,7 +219,46 @@
       ]
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 170, dirección Acatzingo. Cierre a la circulación por atención de accidente (choque contra muro central e incendio de tracto camión). Dirección Cd. Mendoza, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 156. Registra circulación en contraflujo por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 156,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051254098884735441#m",
+      "timestamp": "2026-05-04T10:54:22+00:00",
+      "timestamp_display": "04/05/2026 04:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️CONDICIONES CLIMÁTICAS 🌧️🌩️   \nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2051246268530225552#m",
+      "timestamp": "2026-05-04T10:23:15+00:00",
+      "timestamp_display": "04/05/2026 04:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 148, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 148,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2051245863557607485#m",
+      "timestamp": "2026-05-04T10:21:38+00:00",
+      "timestamp_display": "04/05/2026 04:21 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 170, dirección Acatzingo. Cierre a la circulación por atención de accidente (choque contra muro central e incendio de tracto camión). Dirección Cd. Mendoza, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -281,6 +333,32 @@
       "url": "https://nitter.net/CAPUFE/status/2051202083508875481#m",
       "timestamp": "2026-05-04T07:27:40+00:00",
       "timestamp_display": "04/05/2026 01:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 52, dirección CDMX. Reducción de carriles por atención de salida del camino de autobús .  \n\nEn la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.\n\nConsulta la ubicación aquí: https://maps.app.goo.gl/NEP63zyQEgC1ZJV77",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2051102633826414667#m",
+      "timestamp": "2026-05-04T00:52:30+00:00",
+      "timestamp_display": "03/05/2026 18:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación.\n\nEn la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051156445299617911#m",
+      "timestamp": "2026-05-04T04:26:19+00:00",
+      "timestamp_display": "03/05/2026 22:26 CST",
       "segment": null
     },
     {
@@ -398,32 +476,6 @@
       "url": "https://nitter.net/CAPUFE/status/2051177029358203032#m",
       "timestamp": "2026-05-04T05:48:07+00:00",
       "timestamp_display": "03/05/2026 23:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Navojoa - Cd. Obregón, km 178, dirección Navojoa. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 178,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051168891754164449#m",
-      "timestamp": "2026-05-04T05:15:47+00:00",
-      "timestamp_display": "03/05/2026 23:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Isla - Acayucan, km 161, dirección Acayucan. Reducción de carriles por atención de incidente (ponchadura de neumático). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 161,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2051168117942854123#m",
-      "timestamp": "2026-05-04T05:12:42+00:00",
-      "timestamp_display": "03/05/2026 23:12 CST",
       "segment": null
     }
   ]
