@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-05-04T20:17:50.717100",
+  "last_update": "2026-05-04T21:37:15.360820",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 231+800, de la carretera Puerto México Ojo Caliente, con dirección a Matehuala. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 25.410364584143426,
+      "lng": -100.80200239982167,
+      "road": 57,
+      "km": 31.80000000000001,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2051412724756725943#m",
+      "timestamp": "2026-05-04T21:24:41+00:00",
+      "timestamp_display": "04/05/2026 15:24 CST",
+      "segment": [
+        "puerto mexico",
+        "ojo caliente"
+      ]
+    },
+    {
+      "title": "#VíaLibre en #BajaCaliforniaSur tras #AccidenteVial cerca del km 070+000, de la carretera San Pedro -Todo Santos, con dirección a La Paz. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 70.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2051412080666812428#m",
+      "timestamp": "2026-05-04T21:22:08+00:00",
+      "timestamp_display": "04/05/2026 15:22 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 065+000, de la carretera Zihuatanejo - La Mira, con dirección a Zihuatanejo, Gro. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 65.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2051409217366487207#m",
+      "timestamp": "2026-05-04T21:10:45+00:00",
+      "timestamp_display": "04/05/2026 15:10 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Chiapas tras presencia de personas, cerca del km 085+000, de la carretera Tepanatepec - Tuxtla Gutiérrez la altura del Mpio. de Jiquipilas, Chis. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 85.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2051408370733552067#m",
+      "timestamp": "2026-05-04T21:07:23+00:00",
+      "timestamp_display": "04/05/2026 15:07 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #QuintanaRoo se registra cierre parcial de circulación por #AccidenteVial cerca del km 327+500, de la carretera Reforma Agraria-Puerto Juárez. Atienda Indicación Vial.",
       "type": "twitter",
@@ -219,6 +274,126 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 26, dirección San Luis Potosí. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.79003064786469,
+      "lng": -100.44991009314293,
+      "road": 57,
+      "km": 26,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051411919035044200#m",
+      "timestamp": "2026-05-04T21:21:29+00:00",
+      "timestamp_display": "04/05/2026 15:21 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Cuauhtémoc - Osiris, km 86. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). \n\nAtiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051410500966084892#m",
+      "timestamp": "2026-05-04T21:15:51+00:00",
+      "timestamp_display": "04/05/2026 15:15 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAut. La Carbonera - Puerto México, km 231, dirección La Carbonera. Se informa a las personas que continúa el cierre a la circulación por maniobras de grúa para el retiro de unidad siniestrada.\n\n🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección.\n\n➡ Dir. Puerto México, registra reducción de carriles.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051408799739547668#m",
+      "timestamp": "2026-05-04T21:09:05+00:00",
+      "timestamp_display": "04/05/2026 15:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 77, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 77,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2051404620161757414#m",
+      "timestamp": "2026-05-04T20:52:29+00:00",
+      "timestamp_display": "04/05/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gómez Palacio - Corralitos, km 121, dirección Corralitos. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 121,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051403279171547470#m",
+      "timestamp": "2026-05-04T20:47:09+00:00",
+      "timestamp_display": "04/05/2026 14:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 77, dirección Cuernavaca. Continúa reducción de carriles por atención de incidente (incendio forestal). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 77,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051402818322305258#m",
+      "timestamp": "2026-05-04T20:45:19+00:00",
+      "timestamp_display": "04/05/2026 14:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 231, dirección La Carbonera. Cierre a la circulación por atención de accidente (salida del camino y volcadura de tracto camión).\n\n🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección.\n\n➡ Dir. Puerto México, registra reducción de carriles.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051400832382546221#m",
+      "timestamp": "2026-05-04T20:37:26+00:00",
+      "timestamp_display": "04/05/2026 14:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Puebla - Acatzingo, km 140, dirección Acatzingo. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 140,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051399489932447840#m",
+      "timestamp": "2026-05-04T20:32:06+00:00",
+      "timestamp_display": "04/05/2026 14:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Palmillas, dirección CDMX. Reducción de carriles por atención de accidente (choque de tracto camión en las inmediaciones de la plaza de cobro). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051398572537454784#m",
+      "timestamp": "2026-05-04T20:28:27+00:00",
+      "timestamp_display": "04/05/2026 14:28 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -363,129 +538,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 327, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 327,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051370590204747901#m",
-      "timestamp": "2026-05-04T18:37:15+00:00",
-      "timestamp_display": "04/05/2026 12:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gómez Palacio - Corralitos, km 121, dirección Corralitos. Continúa reducción de carriles por atención de accidente (incendio de trato camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 121,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051370002289164536#m",
-      "timestamp": "2026-05-04T18:34:55+00:00",
-      "timestamp_display": "04/05/2026 12:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 19, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.837570554824964,
-      "lng": -96.73550027819867,
-      "road": 150,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2051368945714593958#m",
-      "timestamp": "2026-05-04T18:30:43+00:00",
-      "timestamp_display": "04/05/2026 12:30 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 30, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051366634464465287#m",
-      "timestamp": "2026-05-04T18:21:32+00:00",
-      "timestamp_display": "04/05/2026 12:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 77, dirección Cuernavaca. Reducción de carriles por atención de incidente (incendio forestal). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051365279272247510#m",
-      "timestamp": "2026-05-04T18:16:09+00:00",
-      "timestamp_display": "04/05/2026 12:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 71, dirección Puebla. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.347626775943688,
-      "lng": -98.60267674022602,
-      "road": 150,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051364287126413468#m",
-      "timestamp": "2026-05-04T18:12:13+00:00",
-      "timestamp_display": "04/05/2026 12:12 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuauhtémoc - Osiris, km 86. Circulación intermitente en ambos sentidos por atención de accidente (volcadura de tracto camión tipo pipa). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051363883474903240#m",
-      "timestamp": "2026-05-04T18:10:36+00:00",
-      "timestamp_display": "04/05/2026 12:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🚒 La prevención también se construye en equipo\nCada persona que participa suma a una respuesta más organizada y efectiva ante cualquier situación.\nSúmate al #PrimerSimulacroNacional2026\nRegistra tu inmueble en: http://simulacronacional.sspc.gob.mx/simulacromayo2026/\n#LaPrevencionEsNuestraFuerza",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2051361212886118843#m",
-      "timestamp": "2026-05-04T18:00:00+00:00",
-      "timestamp_display": "04/05/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 88, dirección Tijuana. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 88,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2051358917196693894#m",
-      "timestamp": "2026-05-04T17:50:52+00:00",
-      "timestamp_display": "04/05/2026 11:50 CST",
-      "segment": null
     }
   ]
 }
