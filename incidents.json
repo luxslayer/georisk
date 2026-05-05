@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-05T22:38:22.371441",
+  "last_update": "2026-05-05T23:33:45.404869",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 014+200, de la carretera Córdoba - La Tinaja a la altura de la caseta No. 116 Cuitláhuac. Se orienta a la ciudadanía #rutaalterna carretera Córdoba - La Boticaria, Ver.",
@@ -274,6 +274,112 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 69, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.35027878019234,
+      "lng": -98.62041130927285,
+      "road": 150,
+      "km": 51,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051806032867762507#m",
+      "timestamp": "2026-05-05T23:27:33+00:00",
+      "timestamp_display": "05/05/2026 17:27 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 24. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 24,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051805260272771253#m",
+      "timestamp": "2026-05-05T23:24:29+00:00",
+      "timestamp_display": "05/05/2026 17:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 237, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 237,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051803669847330867#m",
+      "timestamp": "2026-05-05T23:18:10+00:00",
+      "timestamp_display": "05/05/2026 17:18 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2051802342719132067#m",
+      "timestamp": "2026-05-05T23:12:53+00:00",
+      "timestamp_display": "05/05/2026 17:12 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 71, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.347626775943688,
+      "lng": -98.60267674022602,
+      "road": 150,
+      "km": 53,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051799673464033301#m",
+      "timestamp": "2026-05-05T23:02:17+00:00",
+      "timestamp_display": "05/05/2026 17:02 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 11, dirección Cosoleacaque. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y vagoneta. Maneja con precaución.  \n\nConsulta la ubicación aquí: https://maps.app.goo.gl/dycZmKJgD5vvBbCg9",
+      "type": "twitter",
+      "lat": 18.013477966628784,
+      "lng": -94.39668873623025,
+      "road": 180,
+      "km": 11,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2051797159108874751#m",
+      "timestamp": "2026-05-05T22:52:17+00:00",
+      "timestamp_display": "05/05/2026 16:52 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 11, dirección Cosoleacaque. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013477966628784,
+      "lng": -94.39668873623025,
+      "road": 180,
+      "km": 11,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2051794039003902328#m",
+      "timestamp": "2026-05-05T22:39:54+00:00",
+      "timestamp_display": "05/05/2026 16:39 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -313,7 +419,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAut. Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nSe recomienda a la ciudadanía tomar la siguiente vía alterna:\n➡️ Dir. Córdoba, desvió a carretera libre a la altura del km 46 (Poblado La Tinaja).\n➡️ Dir. Veracruz, a la altura del km 301 (Poblado Rancho Trejo).\n\nConsulta la ruta aquí:\nhttps://maps.app.goo.gl/vF72kQjCva81RALz5\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAut. Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nSe recomienda a la ciudadanía tomar la siguiente vía alterna:\n➡️ Dir. Córdoba, desvió a carretera libre a la altura del km 46 (Poblado La Tinaja).\n➡️ Dir. Veracruz, a la altura del km 301 (Poblado Rancho Trejo).\n\nConsulta la ruta aquí:\nhttps://maps.app.goo.gl/vF72kQjCva81RALz5\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 18.782959449358756,
       "lng": -96.4888243883913,
@@ -449,103 +555,6 @@
       "url": "https://nitter.net/CAPUFE/status/2051760045864440077#m",
       "timestamp": "2026-05-05T20:24:49+00:00",
       "timestamp_display": "05/05/2026 14:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 37, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.792638354283888,
-      "lng": -96.572954898864,
-      "road": 150,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051757048484782434#m",
-      "timestamp": "2026-05-05T20:12:54+00:00",
-      "timestamp_display": "05/05/2026 14:12 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE ⚠️\nAutopista Acatzingo - Cd. Mendoza. Se informa a las personas usuarias que se registran diversos eventos que afectan la circulación en dirección Cd. Mendoza:\n\n🔘 Plaza de Cobro Esperanza, reducción de carriles por atención de accidentes en el tramo.\n\n🔘 Km 232, el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa.\n\n🔘 Km 237, cierre a la circulación por maniobras de grúa para el retiro de tracto camión siniestrado.  \n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051755007431590306#m",
-      "timestamp": "2026-05-05T20:04:48+00:00",
-      "timestamp_display": "05/05/2026 14:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 37, dirección Córdoba. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.792638354283888,
-      "lng": -96.572954898864,
-      "road": 150,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051750398998802740#m",
-      "timestamp": "2026-05-05T19:46:29+00:00",
-      "timestamp_display": "05/05/2026 13:46 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 237, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 237,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051749839638061413#m",
-      "timestamp": "2026-05-05T19:44:16+00:00",
-      "timestamp_display": "05/05/2026 13:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051749293753548935#m",
-      "timestamp": "2026-05-05T19:42:05+00:00",
-      "timestamp_display": "05/05/2026 13:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Rancho Viejo - Taxco, km 7. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 7,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051741294955729095#m",
-      "timestamp": "2026-05-05T19:10:18+00:00",
-      "timestamp_display": "05/05/2026 13:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Rancho Viejo - Taxco, km 7. Circulación intermitente en ambos sentidos por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 7,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2051737256495378835#m",
-      "timestamp": "2026-05-05T18:54:16+00:00",
-      "timestamp_display": "05/05/2026 12:54 CST",
       "segment": null
     }
   ]
