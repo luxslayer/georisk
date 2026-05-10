@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-10T17:13:38.564013",
+  "last_update": "2026-05-10T18:07:48.259100",
   "incidents": [
     {
       "title": "#VíaLibre en #NuevoLeón tras #AccidenteVial cerca del km 092+500, de la carretera Matehuala - Saltillo, con dirección a Matehuala, N.L. Maneje con precaución.",
@@ -274,6 +274,45 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista Cuernavaca - Acapulco, km 323, dirección Acapulco. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 323,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053533813364473862#m",
+      "timestamp": "2026-05-10T17:53:08+00:00",
+      "timestamp_display": "10/05/2026 11:53 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Champotón - Campeche, km 175, dirección Campeche. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 175,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053530856724070450#m",
+      "timestamp": "2026-05-10T17:41:23+00:00",
+      "timestamp_display": "10/05/2026 11:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 7, dirección Cuautla. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 7,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053527598634844328#m",
+      "timestamp": "2026-05-10T17:28:26+00:00",
+      "timestamp_display": "10/05/2026 11:28 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista Cuernavaca - Acapulco, km 323, dirección Acapulco. Continúa reducción de carriles por atención de accidente (incendio de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -345,7 +384,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175, dirección Campeche. Se informa a las personas usuarias que se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175, dirección Campeche. Se informa a las personas usuarias que se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -485,32 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2053424666115547372#m",
       "timestamp": "2026-05-10T10:39:25+00:00",
       "timestamp_display": "10/05/2026 04:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 25, dirección Cuautla. Se restablece la circulación con reducción de carriles.\n\nEl personal continúa laborando en la atención del accidente (choque contra muro central e incendio de automóvil). \n\nEn la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053415536512405953#m",
-      "timestamp": "2026-05-10T10:03:09+00:00",
-      "timestamp_display": "10/05/2026 04:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Pera - Cuautla, km 25, dirección Cuautla. Registra cierre a la circulación por atención de accidente (choque contra muro central e incendio de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053413582096793869#m",
-      "timestamp": "2026-05-10T09:55:23+00:00",
-      "timestamp_display": "10/05/2026 03:55 CST",
       "segment": null
     }
   ]
