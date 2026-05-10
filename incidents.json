@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-10T22:11:21.847450",
+  "last_update": "2026-05-10T23:09:36.500446",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 031+300, de la carretera Morelia - Pátzcuaro, con dirección a Morelia, Mich. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": 14,
+      "km": 31.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2053606930015256719#m",
+      "timestamp": "2026-05-10T22:43:40+00:00",
+      "timestamp_display": "10/05/2026 16:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 246+500, de la carretera Tuxtla Gutiérrez - Ciudad Cuauhtémoc. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 246.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2053606186054729735#m",
+      "timestamp": "2026-05-10T22:40:43+00:00",
+      "timestamp_display": "10/05/2026 16:40 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 053+800, de la carretera Tamarindo -Cardel. Atienda Indicación Vial.",
       "type": "twitter",
@@ -245,42 +271,42 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 135+500, de la carretera Coatzacoalcos-Villahermosa. Atienda Indicación Vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 135.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2053317468634890728#m",
-      "timestamp": "2026-05-10T03:33:27+00:00",
-      "timestamp_display": "09/05/2026 21:33 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+600, de la carretera México - Cuernavaca a la altura de la localidad de Tulipanes. Atienda Indicación Vial.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2053316685340221836#m",
-      "timestamp": "2026-05-10T03:30:21+00:00",
-      "timestamp_display": "09/05/2026 21:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 235, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camipneta). Maneja con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 235, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": 235,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053598525036847537#m",
-      "timestamp": "2026-05-10T22:10:17+00:00",
-      "timestamp_display": "10/05/2026 16:10 CST",
+      "url": "https://nitter.net/CAPUFE/status/2053611575777370119#m",
+      "timestamp": "2026-05-10T23:02:08+00:00",
+      "timestamp_display": "10/05/2026 17:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2053610631819903036#m",
+      "timestamp": "2026-05-10T22:58:23+00:00",
+      "timestamp_display": "10/05/2026 16:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Lagos de Moreno - San Luis Potosí, km 16. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 16,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053606393580515798#m",
+      "timestamp": "2026-05-10T22:41:33+00:00",
+      "timestamp_display": "10/05/2026 16:41 CST",
       "segment": null
     },
     {
@@ -489,45 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2053559565879226427#m",
       "timestamp": "2026-05-10T19:35:28+00:00",
       "timestamp_display": "10/05/2026 13:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🚗⚠️¡No ignores las señales! ⚠️🚗\nEn carretera, escuchar tu vehículo también puede hacer la diferencia.\nManejar con precaución y atender cualquier señal ayuda a que tu viaje continúe seguro. 🛣️✨\n📞 074 | @CAPUFE\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2053550643768705375#m",
-      "timestamp": "2026-05-10T19:00:01+00:00",
-      "timestamp_display": "10/05/2026 13:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2053549515336974704#m",
-      "timestamp": "2026-05-10T18:55:32+00:00",
-      "timestamp_display": "10/05/2026 12:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 21, dirección Chamapa. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053547640386674957#m",
-      "timestamp": "2026-05-10T18:48:05+00:00",
-      "timestamp_display": "10/05/2026 12:48 CST",
       "segment": null
     }
   ]
