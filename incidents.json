@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-10T12:41:28.810788",
+  "last_update": "2026-05-10T14:08:48.834788",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 027+300, de la autopista Guadalajara - Tepic. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 27.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2053455934907629823#m",
+      "timestamp": "2026-05-10T12:43:40+00:00",
+      "timestamp_display": "10/05/2026 06:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 107+100, de la autopista Zapotlanejo - El Desperdicio. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": null,
+      "km": 107.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2053455580384137449#m",
+      "timestamp": "2026-05-10T12:42:16+00:00",
+      "timestamp_display": "10/05/2026 06:42 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 072+300, de la carretera Cd. Victoria - Monterrey. Atienda Indicación Vial.",
       "type": "twitter",
@@ -242,29 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 142+200, de la carretera Perote-Libramiento de Xalapa. Atienda Indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 86, dirección Acapulco. Continúa cierre a la circulación en carriles laterales por atención de accidente (persona atropellada). Circulación por carriles centrales. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.3574,
-      "lng": -96.5341,
-      "road": 180,
-      "km": 142.2,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 86,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2053147672408702993#m",
-      "timestamp": "2026-05-09T16:18:45+00:00",
-      "timestamp_display": "09/05/2026 10:18 CST",
+      "url": "https://nitter.net/CAPUFE/status/2053474330399449502#m",
+      "timestamp": "2026-05-10T13:56:46+00:00",
+      "timestamp_display": "10/05/2026 07:56 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 014+600, de la carretera Saltillo - Torreón. Atienda Indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 86, dirección Acapulco. Registra cierre a la circulación en carriles laterales por atención de accidente (persona atropellada). Circulación por carriles centrales. Maneja con precaución.",
       "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 14.6,
+      "km": 86,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2053139494350491714#m",
-      "timestamp": "2026-05-09T15:46:15+00:00",
-      "timestamp_display": "09/05/2026 09:46 CST",
+      "url": "https://nitter.net/CAPUFE/status/2053455778074271925#m",
+      "timestamp": "2026-05-10T12:43:03+00:00",
+      "timestamp_display": "10/05/2026 06:43 CST",
       "segment": null
     },
     {
@@ -477,35 +503,6 @@
       "timestamp": "2026-05-10T06:13:20+00:00",
       "timestamp_display": "10/05/2026 00:13 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Barranca Larga - Ventanilla, km 16. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053356787999416368#m",
-      "timestamp": "2026-05-10T06:09:42+00:00",
-      "timestamp_display": "10/05/2026 00:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 41, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 19.317466269442534,
-      "lng": -98.80654585806539,
-      "road": 150,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053355310283178176#m",
-      "timestamp": "2026-05-10T06:03:50+00:00",
-      "timestamp_display": "10/05/2026 00:03 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
