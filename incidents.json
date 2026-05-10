@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-10T18:07:48.259100",
+  "last_update": "2026-05-10T19:33:19.248809",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Hidalgo  se registra cierre parcial de circulación por #AccidenteVial cerca del km 029+000, de la carretera Tula - Jorobas, con dirección a Tula de Allende, Hgo. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.0529,
+      "lng": -99.3408,
+      "road": null,
+      "km": 29.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2053554877654008259#m",
+      "timestamp": "2026-05-10T19:16:50+00:00",
+      "timestamp_display": "10/05/2026 13:16 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 062+300, de la carretera Ent. La Tinaja - Cosoleacaque, con dirección a Cosamaloapan, Ver. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 62.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2053546744357540010#m",
+      "timestamp": "2026-05-10T18:44:31+00:00",
+      "timestamp_display": "10/05/2026 12:44 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #NuevoLeón tras #AccidenteVial cerca del km 092+500, de la carretera Matehuala - Saltillo, con dirección a Matehuala, N.L. Maneje con precaución.",
       "type": "twitter",
@@ -245,33 +271,56 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 087+200, de la carretera Tuxpan-Tampico. Atienda Indicación Vial.",
+      "title": "🚗⚠️¡No ignores las señales! ⚠️🚗\nEn carretera, escuchar tu vehículo también puede hacer la diferencia.\nManejar con precaución y atender cualquier señal ayuda a que tu viaje continúe seguro. 🛣️✨\n📞 074 | @CAPUFE\n#seguridadvial #conduceseguro",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 87.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2053232297453707461#m",
-      "timestamp": "2026-05-09T21:55:01+00:00",
-      "timestamp_display": "09/05/2026 15:55 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2053550643768705375#m",
+      "timestamp": "2026-05-10T19:00:01+00:00",
+      "timestamp_display": "10/05/2026 13:00 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 262+200, de la carretera Puebla-Córdoba. Atienda Indicación Vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.827318419002843,
-      "lng": -97.11331860944331,
-      "road": 150,
-      "km": 153.2,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2053549515336974704#m",
+      "timestamp": "2026-05-10T18:55:32+00:00",
+      "timestamp_display": "10/05/2026 12:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, km 21, dirección Chamapa. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 21,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2053219754639229180#m",
-      "timestamp": "2026-05-09T21:05:11+00:00",
-      "timestamp_display": "09/05/2026 15:05 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2053547640386674957#m",
+      "timestamp": "2026-05-10T18:48:05+00:00",
+      "timestamp_display": "10/05/2026 12:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 61, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 61,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053542067561722207#m",
+      "timestamp": "2026-05-10T18:25:56+00:00",
+      "timestamp_display": "10/05/2026 12:25 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista Cuernavaca - Acapulco, km 323, dirección Acapulco. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
@@ -485,45 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2053439425661616169#m",
       "timestamp": "2026-05-10T11:38:04+00:00",
       "timestamp_display": "10/05/2026 05:38 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente.\n \nSe recomienda a la ciudadanía tomar las siguientes vías alternas:\n➡  Dirección Champotón, desvío a carretera libre a la altura del km 199 (Poblado La Herradura).\n➡  Dirección Campeche, desvío a carretera libre a la altura del km 160 (Poblado Haltunchén).\n\nConsulta la ruta aquí:\nhttps://maps.app.goo.gl/dbV4TDZvXvxxTg6k6\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 175,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053433498493497629#m",
-      "timestamp": "2026-05-10T11:14:31+00:00",
-      "timestamp_display": "10/05/2026 05:14 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente.\n \nSe recomienda a la ciudadanía tomar las siguientes vías alternas:\n➡  Dirección Champotón, desvío a carretera libre a la altura del km 199 (Poblado La Herradura).\n➡  Dirección Campeche, desvío a carretera libre a la altura del km 160 (Poblado Haltunchén).\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 175,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053431125133885954#m",
-      "timestamp": "2026-05-10T11:05:05+00:00",
-      "timestamp_display": "10/05/2026 05:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Champotón - Campeche, km 175. Registra cierre a la circulación en ambos sentidos, por atención de incendio de tracto camión tipo pipa que transportaba gas LP. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/HXRopUxuJr1SUvb58",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 175,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053424666115547372#m",
-      "timestamp": "2026-05-10T10:39:25+00:00",
-      "timestamp_display": "10/05/2026 04:39 CST",
       "segment": null
     }
   ]
