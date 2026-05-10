@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-10T10:37:27.141065",
+  "last_update": "2026-05-10T11:33:54.812313",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 072+300, de la carretera Cd. Victoria - Monterrey. Atienda Indicación Vial.",
@@ -268,16 +268,42 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 175. Registra cierre a la circulación en ambos sentidos, por atención de incendio de tracto camión tipo pipa que transportaba gas LP. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/HXRopUxuJr1SUvb58",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente.\n \nSe recomienda a la ciudadanía tomar las siguientes vías alternas:\n➡  Dirección Champotón, desvío a carretera libre a la altura del km 199 (Poblado La Herradura).\n➡  Dirección Campeche, desvío a carretera libre a la altura del km 160 (Poblado Haltunchén).\n\nConsulta la ruta aquí:\nhttps://maps.app.goo.gl/dbV4TDZvXvxxTg6k6\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": 175,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053423654743027749#m",
-      "timestamp": "2026-05-10T10:35:24+00:00",
-      "timestamp_display": "10/05/2026 04:35 CST",
+      "url": "https://nitter.net/CAPUFE/status/2053433498493497629#m",
+      "timestamp": "2026-05-10T11:14:31+00:00",
+      "timestamp_display": "10/05/2026 05:14 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente.\n \nSe recomienda a la ciudadanía tomar las siguientes vías alternas:\n➡  Dirección Champotón, desvío a carretera libre a la altura del km 199 (Poblado La Herradura).\n➡  Dirección Campeche, desvío a carretera libre a la altura del km 160 (Poblado Haltunchén).\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 175,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053431125133885954#m",
+      "timestamp": "2026-05-10T11:05:05+00:00",
+      "timestamp_display": "10/05/2026 05:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Champotón - Campeche, km 175. Registra cierre a la circulación en ambos sentidos, por atención de incendio de tracto camión tipo pipa que transportaba gas LP. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/HXRopUxuJr1SUvb58",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 175,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053424666115547372#m",
+      "timestamp": "2026-05-10T10:39:25+00:00",
+      "timestamp_display": "10/05/2026 04:39 CST",
       "segment": null
     },
     {
@@ -482,48 +508,6 @@
       "url": "https://nitter.net/CAPUFE/status/2053342164558533009#m",
       "timestamp": "2026-05-10T05:11:35+00:00",
       "timestamp_display": "09/05/2026 23:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Barranca Larga - Ventanilla, km 16. Circulación intermitente en ambos sentidos por atención de accidente (choque contra barrera metálica). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053338072951984600#m",
-      "timestamp": "2026-05-10T04:55:20+00:00",
-      "timestamp_display": "09/05/2026 22:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 17, dirección Nuevo Teapa. Reducción de carriles por atención a incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2053333184117387369#m",
-      "timestamp": "2026-05-10T04:35:54+00:00",
-      "timestamp_display": "09/05/2026 22:35 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️   \nLibramiento Cuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2053332083443896738#m",
-      "timestamp": "2026-05-10T04:31:32+00:00",
-      "timestamp_display": "09/05/2026 22:31 CST",
       "segment": null
     }
   ]
