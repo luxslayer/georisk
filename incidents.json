@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-10T15:13:55.304835",
+  "last_update": "2026-05-10T16:11:38.001490",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 290+200, de la carretera Saltillo - Zacatecas. Atienda Indicación Vial.",
@@ -268,6 +268,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 16, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.842430771197243,
+      "lng": -96.76354006611611,
+      "road": 150,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2053498379020218863#m",
+      "timestamp": "2026-05-10T15:32:20+00:00",
+      "timestamp_display": "10/05/2026 09:32 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 86, dirección Acapulco. Continúa cierre a la circulación en carriles laterales por atención de accidente (servicios periciales). Circulación por carriles centrales. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -486,19 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2053371036696006719#m",
       "timestamp": "2026-05-10T07:06:19+00:00",
       "timestamp_display": "10/05/2026 01:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 323, dirección Acapulco. Continúa reducción de carriles por atención de accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 323,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053366555195424811#m",
-      "timestamp": "2026-05-10T06:48:31+00:00",
-      "timestamp_display": "10/05/2026 00:48 CST",
       "segment": null
     }
   ]
