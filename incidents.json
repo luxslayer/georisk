@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-10T11:33:54.812313",
+  "last_update": "2026-05-10T12:41:28.810788",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 072+300, de la carretera Cd. Victoria - Monterrey. Atienda Indicación Vial.",
@@ -268,7 +268,46 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente.\n \nSe recomienda a la ciudadanía tomar las siguientes vías alternas:\n➡  Dirección Champotón, desvío a carretera libre a la altura del km 199 (Poblado La Herradura).\n➡  Dirección Campeche, desvío a carretera libre a la altura del km 160 (Poblado Haltunchén).\n\nConsulta la ruta aquí:\nhttps://maps.app.goo.gl/dbV4TDZvXvxxTg6k6\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175, dirección Campeche. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente.\n\n🔘 Dirección Champotón, opera de manera normal. Sin embargo, en la zona se registra carga vehicular en ambos sentidos.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 175,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053442548245340605#m",
+      "timestamp": "2026-05-10T11:50:29+00:00",
+      "timestamp_display": "10/05/2026 05:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Cuernavaca - Acapulco, km 323, dirección Acapulco. Continúa reducción de carriles por atención de accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 323,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053441505516220788#m",
+      "timestamp": "2026-05-10T11:46:20+00:00",
+      "timestamp_display": "10/05/2026 05:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 25, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 25,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053439425661616169#m",
+      "timestamp": "2026-05-10T11:38:04+00:00",
+      "timestamp_display": "10/05/2026 05:38 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Champotón - Campeche, km 175. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente.\n \nSe recomienda a la ciudadanía tomar las siguientes vías alternas:\n➡  Dirección Champotón, desvío a carretera libre a la altura del km 199 (Poblado La Herradura).\n➡  Dirección Campeche, desvío a carretera libre a la altura del km 160 (Poblado Haltunchén).\n\nConsulta la ruta aquí:\nhttps://maps.app.goo.gl/dbV4TDZvXvxxTg6k6\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -467,48 +506,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 87, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053350901234946287#m",
-      "timestamp": "2026-05-10T05:46:18+00:00",
-      "timestamp_display": "09/05/2026 23:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 41, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.317466269442534,
-      "lng": -98.80654585806539,
-      "road": 150,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053344108324725142#m",
-      "timestamp": "2026-05-10T05:19:19+00:00",
-      "timestamp_display": "09/05/2026 23:19 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 87, dirección Acapulco. Registra cierre a la circulación en carriles centrales por atención de accidente (caída de motociclista). Circulación por carriles laterales. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053342164558533009#m",
-      "timestamp": "2026-05-10T05:11:35+00:00",
-      "timestamp_display": "09/05/2026 23:11 CST",
-      "segment": null
     }
   ]
 }
