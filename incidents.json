@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-11T08:16:53.179050",
+  "last_update": "2026-05-11T11:41:27.613889",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 035+000, de la carretera Monclova - San Pedro de las Colonias. Atienda Indicación Vial.",
@@ -271,6 +271,61 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 9, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.917063764575836,
+      "lng": -94.85508043763208,
+      "road": 145,
+      "km": 9,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2053794677845827613#m",
+      "timestamp": "2026-05-11T11:09:43+00:00",
+      "timestamp_display": "11/05/2026 05:09 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento de Villahermosa, km 12, dirección Frontera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053793772614369368#m",
+      "timestamp": "2026-05-11T11:06:07+00:00",
+      "timestamp_display": "11/05/2026 05:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento de Villahermosa, km 12, dirección Frontera. Continúa reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053774171285401642#m",
+      "timestamp": "2026-05-11T09:48:14+00:00",
+      "timestamp_display": "11/05/2026 03:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 37, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 37,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2053773616362246593#m",
+      "timestamp": "2026-05-11T09:46:02+00:00",
+      "timestamp_display": "11/05/2026 03:46 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 72, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 18.93,
@@ -469,58 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2053671787032936760#m",
       "timestamp": "2026-05-11T03:01:24+00:00",
       "timestamp_display": "10/05/2026 21:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 186, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 186,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053671315165307147#m",
-      "timestamp": "2026-05-11T02:59:31+00:00",
-      "timestamp_display": "10/05/2026 20:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 186, dirección Acatzingo. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 186,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053663919667871925#m",
-      "timestamp": "2026-05-11T02:30:08+00:00",
-      "timestamp_display": "10/05/2026 20:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 62, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino de automóvil). \n\nEn la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2053663339926974829#m",
-      "timestamp": "2026-05-11T02:27:50+00:00",
-      "timestamp_display": "10/05/2026 20:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR🟠   \nAutopista Tijuana - Ensenada, Plaza de Cobro Playas de Tijuana, dirección Tijuana. Registra carga vehicular, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2053661113770762543#m",
-      "timestamp": "2026-05-11T02:18:59+00:00",
-      "timestamp_display": "10/05/2026 20:18 CST",
       "segment": null
     }
   ]
