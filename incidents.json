@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-14T10:42:51.964150",
+  "last_update": "2026-05-14T12:18:32.268826",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 168+500, de la carretera Poza Rica-Veracruz, a la altura del Mpio. de Alto Lucero. Atienda indicación vial.",
@@ -268,6 +268,48 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoPuebla, Plaza de Cobro San Martín. Registra carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2054897889013342361#m",
+      "timestamp": "2026-05-14T12:13:29+00:00",
+      "timestamp_display": "14/05/2026 06:13 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Acatzingo, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2054897591414935949#m",
+      "timestamp": "2026-05-14T12:12:18+00:00",
+      "timestamp_display": "14/05/2026 06:12 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 138, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 138,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2054885609991233871#m",
+      "timestamp": "2026-05-14T11:24:42+00:00",
+      "timestamp_display": "14/05/2026 05:24 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 80, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 32.5127,
@@ -281,7 +323,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAutopista Puebla - Acatzingo, km 138, dirección Acatzingo. Se informa a las personas usuarias que continúa la reducción de carriles, por maniobras de grúa para el retiro de unidad siniestrada.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Puebla - Acatzingo, km 138, dirección Acatzingo. Se informa a las personas usuarias que continúa la reducción de carriles, por maniobras de grúa para el retiro de unidad siniestrada.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 19.0414,
       "lng": -98.2063,
@@ -487,38 +529,6 @@
       "timestamp": "2026-05-14T01:51:51+00:00",
       "timestamp_display": "13/05/2026 19:51 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Concluyen labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2054738782377635967#m",
-      "timestamp": "2026-05-14T01:41:15+00:00",
-      "timestamp_display": "13/05/2026 19:41 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠     \nAutopista Nuevo Teapa - Cosoleacaque, Plaza de Cobro Pte. Ing. Antonio Dovalí Jaime. Registra carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": 180,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2054738084512588087#m",
-      "timestamp": "2026-05-14T01:38:29+00:00",
-      "timestamp_display": "13/05/2026 19:38 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
