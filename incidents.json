@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-14T08:17:49.802806",
+  "last_update": "2026-05-14T10:42:51.964150",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 168+500, de la carretera Poza Rica-Veracruz, a la altura del Mpio. de Alto Lucero. Atienda indicación vial.",
@@ -268,6 +268,45 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 80, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2054871603373027354#m",
+      "timestamp": "2026-05-14T10:29:02+00:00",
+      "timestamp_display": "14/05/2026 04:29 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAutopista Puebla - Acatzingo, km 138, dirección Acatzingo. Se informa a las personas usuarias que continúa la reducción de carriles, por maniobras de grúa para el retiro de unidad siniestrada.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 138,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2054859612042453019#m",
+      "timestamp": "2026-05-14T09:41:23+00:00",
+      "timestamp_display": "14/05/2026 03:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Puebla - Acatzingo, km 138, dirección Acatzingo. Reducción de carriles por atención de choque por alcance entre tracto camión y camioneta. \n\nManeja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/y1PjXB5kkpn5AmvD9",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 138,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2054847670322163919#m",
+      "timestamp": "2026-05-14T08:53:56+00:00",
+      "timestamp_display": "14/05/2026 02:53 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tecate - La Rumorosa, km 76. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -480,48 +519,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 16. Concluyen labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular en ambos sentidos. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2054736786123862129#m",
-      "timestamp": "2026-05-14T01:33:19+00:00",
-      "timestamp_display": "13/05/2026 19:33 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠   \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2054736250205065317#m",
-      "timestamp": "2026-05-14T01:31:11+00:00",
-      "timestamp_display": "13/05/2026 19:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴  CIERRE DE CIRCULACIÓN  🔴\nAutopista Acatzingo - Cd. Mendoza, km 216. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 216,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2054734836124803358#m",
-      "timestamp": "2026-05-14T01:25:34+00:00",
-      "timestamp_display": "13/05/2026 19:25 CST",
-      "segment": null
     }
   ]
 }
