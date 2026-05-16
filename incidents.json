@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-05-16T15:36:59.345533",
+  "last_update": "2026-05-16T16:06:25.131241",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 121+700, de la carretera  Ent La Tinaja - Santa Cruz, a la altura del Mpio. Acayucan La Ventosa, con dir. a Acayucan. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.144880808723908,
+      "lng": -95.51786336493277,
+      "road": 145,
+      "km": 121.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055676093982458178#m",
+      "timestamp": "2026-05-16T15:45:48+00:00",
+      "timestamp_display": "16/05/2026 09:45 CST",
+      "segment": [
+        "la tinaja",
+        "acayucan"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial por #AccidenteVial cerca del km 149+950, de la carretera Querétaro-León, a inmediaciones del Mpio. con dir. a León. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 149.95,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055674898815574387#m",
+      "timestamp": "2026-05-16T15:41:03+00:00",
+      "timestamp_display": "16/05/2026 09:41 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial por #AccidenteVial cerca del km 103+600, de la carretera León-Aguascalientes. Atienda Indicación Vial.",
       "type": "twitter",
@@ -254,6 +283,48 @@
       "segment": null
     },
     {
+      "title": "🟠  CARGA VEHICULAR  🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección La Tinaja, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2055678674536443959#m",
+      "timestamp": "2026-05-16T15:56:03+00:00",
+      "timestamp_display": "16/05/2026 09:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 0. El accidente en la gasa de incorporación a la Aut. Córdoba - Veracruz, dir. Veracruz, ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.8602298,
+      "lng": -96.9105266,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055676863079391294#m",
+      "timestamp": "2026-05-16T15:48:51+00:00",
+      "timestamp_display": "16/05/2026 09:48 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Gómez Palacio - Corralitos, km 159, dirección Gómez Palacio. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 159,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055674463300071544#m",
+      "timestamp": "2026-05-16T15:39:19+00:00",
+      "timestamp_display": "16/05/2026 09:39 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 18, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 18.7603,
@@ -458,48 +529,6 @@
       "segment": [
         "acayucan",
         "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 82. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque contra barrera lateral). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2055634309956931662#m",
-      "timestamp": "2026-05-16T12:59:45+00:00",
-      "timestamp_display": "16/05/2026 06:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 96, dirección Querétaro. Continúa reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2055629928628998565#m",
-      "timestamp": "2026-05-16T12:42:21+00:00",
-      "timestamp_display": "16/05/2026 06:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 104, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 19.201354522745724,
-      "lng": -98.34002671057308,
-      "road": 150,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2055627197537227006#m",
-      "timestamp": "2026-05-16T12:31:30+00:00",
-      "timestamp_display": "16/05/2026 06:31 CST",
-      "segment": [
-        "mexico",
-        "puebla"
       ]
     }
   ]
