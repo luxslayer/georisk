@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-16T19:39:20.498925",
+  "last_update": "2026-05-16T20:05:42.151570",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 24+150, de la carretera  Tinaja - Cosoleacaque, a la altura del Mpio. Jáltipan de Morelos, con dirección a Coatzacoalcos. Atienda Indicación Vial.",
@@ -244,6 +244,19 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 296, dirección Córdoba. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 296,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055740486543921165#m",
+      "timestamp": "2026-05-16T20:01:40+00:00",
+      "timestamp_display": "16/05/2026 14:01 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️Mantener tu distancia puede darte el tiempo que necesitas para reaccionar.⚠️\nCuando salgas a rodar, conserva una distancia segura entre tu motocicleta y los demás vehículos.\n 📞 074 | @CAPUFE\n#SeguridadVial #ConduceSeguro #Motociclistas",
       "type": "twitter",
       "lat": 23.5,
@@ -477,32 +490,6 @@
       "url": "https://nitter.net/CAPUFE/status/2055649529072861641#m",
       "timestamp": "2026-05-16T14:00:14+00:00",
       "timestamp_display": "16/05/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir con tranquilidad también es parte de un buen viaje.\nDisminuir la velocidad ayuda a cuidar de ti y de quienes te acompañan. 🚙💛\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055649469686030351#m",
-      "timestamp": "2026-05-16T14:00:00+00:00",
-      "timestamp_display": "16/05/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 18, dirección Isla. Reducción de carriles por atención de incidente (choque contra semoviente). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 18,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055648027906359736#m",
-      "timestamp": "2026-05-16T13:54:16+00:00",
-      "timestamp_display": "16/05/2026 07:54 CST",
       "segment": null
     }
   ]
