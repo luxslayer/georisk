@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-16T22:03:38.153829",
+  "last_update": "2026-05-16T23:08:28.055734",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 012+300, de la carretera Paso del Toro-Acayucan, a la altura del Mpio. Tlacotalpan. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 12.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055780999691190282#m",
+      "timestamp": "2026-05-16T22:42:39+00:00",
+      "timestamp_display": "16/05/2026 16:42 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 296+340, de la carretera Córdoba-Puebla, a la altura del Mpio. Amatlán de los Reyes, con dirección a Veracruz. Atienda Indicación Vial.",
       "type": "twitter",
@@ -247,6 +260,51 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 52, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.313118041230556,
+      "lng": -98.743145172515,
+      "road": 150,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055781926351368273#m",
+      "timestamp": "2026-05-16T22:46:20+00:00",
+      "timestamp_display": "16/05/2026 16:46 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cd. Mendoza - Córdoba, km 296, dirección Córdoba. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 296,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055779405750796657#m",
+      "timestamp": "2026-05-16T22:36:19+00:00",
+      "timestamp_display": "16/05/2026 16:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 52, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.313118041230556,
+      "lng": -98.743145172515,
+      "road": 150,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055776905727496344#m",
+      "timestamp": "2026-05-16T22:26:23+00:00",
+      "timestamp_display": "16/05/2026 16:26 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 52, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de tracto camión). \n\nEn la zona se registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 19.313118041230556,
@@ -305,7 +363,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 296, dirección Córdoba. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 296, dirección Córdoba. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.8885,
       "lng": -96.9369,
@@ -471,45 +529,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🚗🛣️ Antes de salir a carretera, revisa los niveles de agua, aceite y anticongelante de tu automóvil.\nUn vehículo en buenas condiciones ayuda a que tu viaje sea más seguro. ⚠️\n📞 074 | @CAPUFE\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055664579926192165#m",
-      "timestamp": "2026-05-16T15:00:02+00:00",
-      "timestamp_display": "16/05/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 321, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 321,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2055664151637180876#m",
-      "timestamp": "2026-05-16T14:58:20+00:00",
-      "timestamp_display": "16/05/2026 08:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Acatzingo, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055663249526346158#m",
-      "timestamp": "2026-05-16T14:54:45+00:00",
-      "timestamp_display": "16/05/2026 08:54 CST",
-      "segment": null
     }
   ]
 }
