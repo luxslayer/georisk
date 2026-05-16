@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-16T18:04:18.117774",
+  "last_update": "2026-05-16T18:35:37.198287",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 24+150, de la carretera  Tinaja - Cosoleacaque, a la altura del Mpio. Jáltipan de Morelos, con dirección a Coatzacoalcos. Atienda Indicación Vial.",
@@ -254,32 +254,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2055361361572442260#m",
       "timestamp": "2026-05-15T18:55:10+00:00",
       "timestamp_display": "15/05/2026 12:55 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 042+700, de la carretera Tuxpan - Tampico con dirección a Poza Rica. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 42.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2055354357856534856#m",
-      "timestamp": "2026-05-15T18:27:20+00:00",
-      "timestamp_display": "15/05/2026 12:27 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMex por presencia de personas cerca del km 013+100, de la carretera Toluca - Palmillas a la altura de la caseta de cobro el Dorado. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": 13.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2055353118162919574#m",
-      "timestamp": "2026-05-15T18:22:24+00:00",
-      "timestamp_display": "15/05/2026 12:22 CST",
       "segment": null
     },
     {
