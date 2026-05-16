@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-05-16T21:03:24.934823",
+  "last_update": "2026-05-16T21:32:57.558034",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 296+340, de la carretera Córdoba-Puebla, a la altura del Mpio. Amatlán de los Reyes, con dirección a Veracruz. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.866422722878198,
+      "lng": -96.85060050606184,
+      "road": 150,
+      "km": 187.33999999999997,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055762056997961878#m",
+      "timestamp": "2026-05-16T21:27:23+00:00",
+      "timestamp_display": "16/05/2026 15:27 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 24+150, de la carretera  Tinaja - Cosoleacaque, a la altura del Mpio. Jáltipan de Morelos, con dirección a Coatzacoalcos. Atienda Indicación Vial.",
       "type": "twitter",
@@ -228,19 +244,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2055425811767755031#m",
       "timestamp": "2026-05-15T23:11:16+00:00",
       "timestamp_display": "15/05/2026 17:11 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #EdoMex tras presencia de personas cerca del km 013+100, de la carretera Toluca - Palmillas a la altura de la caseta de cobro el Dorado. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": 13.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2055394334032187395#m",
-      "timestamp": "2026-05-15T21:06:11+00:00",
-      "timestamp_display": "15/05/2026 15:06 CST",
       "segment": null
     },
     {
