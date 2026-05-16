@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-16T16:34:14.061987",
+  "last_update": "2026-05-16T17:08:23.886313",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 24+150, de la carretera  Tinaja - Cosoleacaque, a la altura del Mpio. Jáltipan de Morelos, con dirección a Coatzacoalcos. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 24.15,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055690968116990082#m",
+      "timestamp": "2026-05-16T16:44:54+00:00",
+      "timestamp_display": "16/05/2026 10:44 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 121+700, de la carretera  Ent La Tinaja - Santa Cruz, a la altura del Mpio. Acayucan La Ventosa, con dir. a Acayucan. Atienda Indicación Vial.",
       "type": "twitter",
@@ -267,19 +280,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2055353118162919574#m",
       "timestamp": "2026-05-15T18:22:24+00:00",
       "timestamp_display": "15/05/2026 12:22 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 151+800, de la carretera Gómez Palacio - Jiménez. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 151.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2055340882463805515#m",
-      "timestamp": "2026-05-15T17:33:47+00:00",
-      "timestamp_display": "15/05/2026 11:33 CST",
       "segment": null
     },
     {
