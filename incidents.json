@@ -1,6 +1,212 @@
 {
-  "last_update": "2026-05-17T04:32:06.959843",
+  "last_update": "2026-05-17T07:26:52.780649",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 093+000, de la carretera México-Puebla. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 19.26352634113564,
+      "lng": -98.4197034514841,
+      "road": 150,
+      "km": 75.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055848097029210381#m",
+      "timestamp": "2026-05-17T03:09:16+00:00",
+      "timestamp_display": "16/05/2026 21:09 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 265+300, de la carretera Libramiento de Mazatlán, a la altura del Mpio. Villa Unión. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 265.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055806618944582095#m",
+      "timestamp": "2026-05-17T00:24:27+00:00",
+      "timestamp_display": "16/05/2026 18:24 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Querétaro se registra cierre de circulación por #AccidenteVial cerca del km 008+000, de la carretera Querétaro-León, a la altura del Mpio. Corregidora. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 8.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055797160906510608#m",
+      "timestamp": "2026-05-16T23:46:52+00:00",
+      "timestamp_display": "16/05/2026 17:46 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 012+300, de la carretera Paso del Toro-Acayucan, a la altura del Mpio. Tlacotalpan. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 12.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055780999691190282#m",
+      "timestamp": "2026-05-16T22:42:39+00:00",
+      "timestamp_display": "16/05/2026 16:42 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 296+340, de la carretera Córdoba-Puebla, a la altura del Mpio. Amatlán de los Reyes, con dirección a Veracruz. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.866422722878198,
+      "lng": -96.85060050606184,
+      "road": 150,
+      "km": 187.33999999999997,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055762056997961878#m",
+      "timestamp": "2026-05-16T21:27:23+00:00",
+      "timestamp_display": "16/05/2026 15:27 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 24+150, de la carretera  Tinaja - Cosoleacaque, a la altura del Mpio. Jáltipan de Morelos, con dirección a Coatzacoalcos. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 24.15,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055690968116990082#m",
+      "timestamp": "2026-05-16T16:44:54+00:00",
+      "timestamp_display": "16/05/2026 10:44 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial por #AccidenteVial cerca del km 121+700, de la carretera  Ent La Tinaja - Santa Cruz, a la altura del Mpio. Acayucan La Ventosa, con dir. a Acayucan. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.144880808723908,
+      "lng": -95.51786336493277,
+      "road": 145,
+      "km": 121.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055676093982458178#m",
+      "timestamp": "2026-05-16T15:45:48+00:00",
+      "timestamp_display": "16/05/2026 09:45 CST",
+      "segment": [
+        "la tinaja",
+        "acayucan"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial por #AccidenteVial cerca del km 149+950, de la carretera Querétaro-León, a inmediaciones del Mpio. con dir. a León. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 149.95,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055674898815574387#m",
+      "timestamp": "2026-05-16T15:41:03+00:00",
+      "timestamp_display": "16/05/2026 09:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial por #AccidenteVial cerca del km 103+600, de la carretera León-Aguascalientes. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 21.61906093044596,
+      "lng": -102.27662305585821,
+      "road": 45,
+      "km": 103.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055646213043524031#m",
+      "timestamp": "2026-05-16T13:47:03+00:00",
+      "timestamp_display": "16/05/2026 07:47 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Chihuahua se registra presencia de personas cerca del km 170+500, de la autopista Jiménez - Delicias. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 170.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2055628116979069411#m",
+      "timestamp": "2026-05-16T12:35:09+00:00",
+      "timestamp_display": "16/05/2026 06:35 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 023+500, de la carretera Janos - Agua Prieta. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 30.990621262630537,
+      "lng": -108.11243657848877,
+      "road": 2,
+      "km": 19.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2055612289990939036#m",
+      "timestamp": "2026-05-16T11:32:16+00:00",
+      "timestamp_display": "16/05/2026 05:32 CST",
+      "segment": [
+        "janos",
+        "agua prieta"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Registra carga vehicular, por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Para más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 20.881792345167543,
+      "lng": -100.41649506638463,
+      "road": 57,
+      "km": 37,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2055910915812315384#m",
+      "timestamp": "2026-05-17T07:18:53+00:00",
+      "timestamp_display": "17/05/2026 01:18 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 93, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 19.26352634113564,
+      "lng": -98.4197034514841,
+      "road": 150,
+      "km": 75,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055898255867736438#m",
+      "timestamp": "2026-05-17T06:28:35+00:00",
+      "timestamp_display": "17/05/2026 00:28 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 93, dirección Puebla. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.26352634113564,
+      "lng": -98.4197034514841,
+      "road": 150,
+      "km": 75,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2055884081015988325#m",
+      "timestamp": "2026-05-17T05:32:16+00:00",
+      "timestamp_display": "16/05/2026 23:32 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoPuebla, registra #lluvia a la altura de la Plaza de Cobro San Marcos. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
@@ -236,48 +442,6 @@
       "timestamp": "2026-05-16T23:36:36+00:00",
       "timestamp_display": "16/05/2026 17:36 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 140, dirección Acatzingo. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 140,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2055794171294675063#m",
-      "timestamp": "2026-05-16T23:34:59+00:00",
-      "timestamp_display": "16/05/2026 17:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠   \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055791845909623059#m",
-      "timestamp": "2026-05-16T23:25:45+00:00",
-      "timestamp_display": "16/05/2026 17:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en dirección Veracruz, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055789310989803549#m",
-      "timestamp": "2026-05-16T23:15:41+00:00",
-      "timestamp_display": "16/05/2026 17:15 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
