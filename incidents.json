@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-17T13:52:25.355317",
+  "last_update": "2026-05-17T14:57:36.595511",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 093+000, de la carretera México-Puebla. Atienda Indicación Vial.",
@@ -112,6 +112,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2055674898815574387#m",
       "timestamp": "2026-05-16T15:41:03+00:00",
       "timestamp_display": "16/05/2026 09:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Plan de Ayala - El Porvenir, km 13, dirección Plan de Ayala. Reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056014481293980028#m",
+      "timestamp": "2026-05-17T14:10:25+00:00",
+      "timestamp_display": "17/05/2026 08:10 CST",
+      "segment": null
+    },
+    {
+      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir a velocidad adecuada también es cuidar a los demás.\n👉 Ajusta tu velocidad y viaja seguro. 🚗\nSi necesitas auxilio vial, llama al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056011857048064452#m",
+      "timestamp": "2026-05-17T14:00:00+00:00",
+      "timestamp_display": "17/05/2026 08:00 CST",
       "segment": null
     },
     {
@@ -364,32 +390,6 @@
       "url": "https://nitter.net/CAPUFE/status/2055844027371536741#m",
       "timestamp": "2026-05-17T02:53:06+00:00",
       "timestamp_display": "16/05/2026 20:53 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. La Carbonera - Puerto México, km 227. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 227,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2055842916745031780#m",
-      "timestamp": "2026-05-17T02:48:41+00:00",
-      "timestamp_display": "16/05/2026 20:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055842261292728322#m",
-      "timestamp": "2026-05-17T02:46:05+00:00",
-      "timestamp_display": "16/05/2026 20:46 CST",
       "segment": null
     }
   ]
