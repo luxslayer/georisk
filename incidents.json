@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-17T19:37:36.767309",
+  "last_update": "2026-05-17T20:31:55.299873",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 296+000, de la carretera Coatzacoalcos-Salina Cruz, Puebla la altura del Mpio.  San Juan Evangelista. Atienda Indicación Vial.",
@@ -126,6 +126,45 @@
         "puebla",
         "cordoba"
       ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 52, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056108588641173813#m",
+      "timestamp": "2026-05-17T20:24:22+00:00",
+      "timestamp_display": "17/05/2026 14:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 24 al 27. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056098099236389349#m",
+      "timestamp": "2026-05-17T19:42:41+00:00",
+      "timestamp_display": "17/05/2026 13:42 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 42, dirección CDMX. Continúa reducción de carriles por atención de volcadura de automóvil.\n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/jKr94DrqVKrd5xKs6",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056097892675297633#m",
+      "timestamp": "2026-05-17T19:41:52+00:00",
+      "timestamp_display": "17/05/2026 13:41 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 42, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). En la zona se registra carga vehicular. Maneja con precaución.",
@@ -336,45 +375,6 @@
       "url": "https://nitter.net/CAPUFE/status/2056046104425218111#m",
       "timestamp": "2026-05-17T16:16:05+00:00",
       "timestamp_display": "17/05/2026 10:16 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 287, dirección Cd. Mendoza. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 287,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056042911444210030#m",
-      "timestamp": "2026-05-17T16:03:24+00:00",
-      "timestamp_display": "17/05/2026 10:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Plan de Ayala - El Porvenir, km 13, dirección Plan de Ayala. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 13,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056041307059954010#m",
-      "timestamp": "2026-05-17T15:57:01+00:00",
-      "timestamp_display": "17/05/2026 09:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Acatzingo, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056039671931576448#m",
-      "timestamp": "2026-05-17T15:50:31+00:00",
-      "timestamp_display": "17/05/2026 09:50 CST",
       "segment": null
     }
   ]
