@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-17T21:38:53.900543",
+  "last_update": "2026-05-17T22:37:35.545821",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Chiapas tras presencia de personas cerca del km 016+200, de la carretera Puerto Madero-Tapachula. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 16.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2056139289323311379#m",
+      "timestamp": "2026-05-17T22:26:22+00:00",
+      "timestamp_display": "17/05/2026 16:26 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 197+200, de la carretera Tuxtepec-Oaxaca, a la altura del Mpio. Santa Catarina Ixtepeji. Atienda Indicación Vial.",
       "type": "twitter",
@@ -125,6 +138,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 1, dirección Cuautla. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056140215169732800#m",
+      "timestamp": "2026-05-17T22:30:03+00:00",
+      "timestamp_display": "17/05/2026 16:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 24, dirección CDMX. Registra carga vehicular a la altura de la incorporación al Viaducto Elevado Tlalpan, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056130661958746436#m",
+      "timestamp": "2026-05-17T21:52:05+00:00",
+      "timestamp_display": "17/05/2026 15:52 CST",
+      "segment": null
+    },
+    {
       "title": "🟠  CARGA VEHICULAR  🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -148,32 +187,6 @@
       "url": "https://nitter.net/CAPUFE/status/2056124920095027332#m",
       "timestamp": "2026-05-17T21:29:16+00:00",
       "timestamp_display": "17/05/2026 15:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 42, dirección CDMX. Continúa reducción de carriles por atención de volcadura de automóvil.\n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/jKr94DrqVKrd5xKs6",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 42,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056097892675297633#m",
-      "timestamp": "2026-05-17T19:41:52+00:00",
-      "timestamp_display": "17/05/2026 13:41 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoCuernavaca, km 42, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 42,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056112966420881813#m",
-      "timestamp": "2026-05-17T20:41:46+00:00",
-      "timestamp_display": "17/05/2026 14:41 CST",
       "segment": null
     },
     {
@@ -216,6 +229,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoCuernavaca, km 42, dirección CDMX. Se informa a las personas usuarias que continúa reducción de carriles.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056112966420881813#m",
+      "timestamp": "2026-05-17T20:41:46+00:00",
+      "timestamp_display": "17/05/2026 14:41 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 52, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -239,6 +265,19 @@
       "url": "https://nitter.net/CAPUFE/status/2056098099236389349#m",
       "timestamp": "2026-05-17T19:42:41+00:00",
       "timestamp_display": "17/05/2026 13:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 42, dirección CDMX. Continúa reducción de carriles por atención de volcadura de automóvil.\n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/jKr94DrqVKrd5xKs6",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056097892675297633#m",
+      "timestamp": "2026-05-17T19:41:52+00:00",
+      "timestamp_display": "17/05/2026 13:41 CST",
       "segment": null
     },
     {
@@ -320,38 +359,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 93, dirección Veracruz. Registra reducción de carriles por atención de choque contra muro lateral de un tracto camión tipo pipa que transporta combustóleo.\n\nManeja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/325EJW7RXFFKj2db9",
-      "type": "twitter",
-      "lat": 19.078781967784277,
-      "lng": -96.20075864808888,
-      "road": 150,
-      "km": 93,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2055994199992905802#m",
-      "timestamp": "2026-05-17T12:49:50+00:00",
-      "timestamp_display": "17/05/2026 06:49 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Córdoba - Veracruz, km 93, dirección Veracruz. Se informa a las personas usuarias que continúa reducción de carriles.\n\nEl personal de CAPUFE se encuentra realizando las labores de atención del accidente.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 19.078781967784277,
-      "lng": -96.20075864808888,
-      "road": 150,
-      "km": 93,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056026364549963788#m",
-      "timestamp": "2026-05-17T14:57:39+00:00",
-      "timestamp_display": "17/05/2026 08:57 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Córdoba - Veracruz, km 93, dirección Veracruz. Se informa a las personas usuarias que continúa reducción de carriles.\n\nEl personal de CAPUFE se encuentra realizando las labores de atención del accidente.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 19.078781967784277,
@@ -378,32 +385,6 @@
       "url": "https://nitter.net/CAPUFE/status/2056079006886244861#m",
       "timestamp": "2026-05-17T18:26:49+00:00",
       "timestamp_display": "17/05/2026 12:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CARGA VEHICULAR  🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en dirección La Tinaja, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056076636399792405#m",
-      "timestamp": "2026-05-17T18:17:24+00:00",
-      "timestamp_display": "17/05/2026 12:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056076459886743788#m",
-      "timestamp": "2026-05-17T18:16:42+00:00",
-      "timestamp_display": "17/05/2026 12:16 CST",
       "segment": null
     }
   ]
