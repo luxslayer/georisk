@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-19T05:44:25.071768",
+  "last_update": "2026-05-19T08:48:57.140256",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+300, de la carretera Acatlán de Juárez - Colima, con dirección a Cosamaloapan, Ver,  con dirección a Acatlán, Jal.. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 94.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2056652903964655668#m",
+      "timestamp": "2026-05-19T08:27:17+00:00",
+      "timestamp_display": "19/05/2026 02:27 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+300, de la carretera Ent. La Tinaja - Cosoleacaque, con dirección a Cosamaloapan, Ver. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 94.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2056630108144705778#m",
+      "timestamp": "2026-05-19T06:56:42+00:00",
+      "timestamp_display": "19/05/2026 00:56 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 265+600, de la carretera Uruapan - Lázaro Cárdenas, con dirección a Lázaro Cárdenas, Mich. Atienda Indicación Vial.",
       "type": "twitter",
@@ -251,32 +277,58 @@
       "segment": null
     },
     {
-      "title": "En #Guerrero continúa cierre total de circulación por presencia de personas cerca del km 005+200, de la carretera Chilpancingo - Acapulco, se proporciona vialidad por la carretera libre Chilpancingo-Acapulco. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 50, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 5.2,
+      "km": 50,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2056479144733499882#m",
-      "timestamp": "2026-05-18T20:56:50+00:00",
-      "timestamp_display": "18/05/2026 14:56 CST",
+      "url": "https://nitter.net/CAPUFE/status/2056646848069120363#m",
+      "timestamp": "2026-05-19T08:03:13+00:00",
+      "timestamp_display": "19/05/2026 02:03 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por maniobras de arrastre y salvamento, derivado de un #AccidenteVial cerca del km 039+400, de la carretera Monclova - Piedras Negras. Atienda Indicación Vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 218. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
-      "lat": 27.19503659382455,
-      "lng": -101.23551814885595,
-      "road": 57,
-      "km": 32.4,
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 218,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2056477500281131328#m",
-      "timestamp": "2026-05-18T20:50:18+00:00",
-      "timestamp_display": "18/05/2026 14:50 CST",
+      "url": "https://nitter.net/CAPUFE/status/2056636053096681964#m",
+      "timestamp": "2026-05-19T07:20:20+00:00",
+      "timestamp_display": "19/05/2026 01:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 50, dirección Cuernavaca. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 50,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056635102843613569#m",
+      "timestamp": "2026-05-19T07:16:33+00:00",
+      "timestamp_display": "19/05/2026 01:16 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠 \nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Continúa carga vehicular intensa por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. \n\nPara más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 20.881792345167543,
+      "lng": -100.41649506638463,
+      "road": 57,
+      "km": 37,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056625280173654421#m",
+      "timestamp": "2026-05-19T06:37:31+00:00",
+      "timestamp_display": "19/05/2026 00:37 CST",
       "segment": [
-        "monclova",
-        "piedras negras"
+        "queretaro",
+        "san luis potosi"
       ]
     },
     {
@@ -306,7 +358,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Continúa carga vehicular intensa por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. \n\nPara más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Continúa carga vehicular intensa por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. \n\nPara más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 20.881792345167543,
       "lng": -100.41649506638463,
@@ -512,58 +564,6 @@
       "url": "https://nitter.net/CAPUFE/status/2056548857585013044#m",
       "timestamp": "2026-05-19T01:33:51+00:00",
       "timestamp_display": "18/05/2026 19:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056547423174934658#m",
-      "timestamp": "2026-05-19T01:28:09+00:00",
-      "timestamp_display": "18/05/2026 19:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 192. Continúa el cierre a la circulación en ambos sentidos por maniobras para el retiro de tracto camión siniestrado.\n\nSe desvía el tránsito vehicular hacía carretera libre en los siguientes puntos:\n\n➡️ Dirección Tehuacán, a la altura del km 243 (Poblado San Sebastián Etla).\n➡️ Dirección Oaxaca, a la altura del km 178 (Poblado Asunción Nochixtlán).\n\nLa carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 192,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056547114793021811#m",
-      "timestamp": "2026-05-19T01:26:55+00:00",
-      "timestamp_display": "18/05/2026 19:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Lagos de Moreno - San Luis Potosí, km 45. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056545036179747138#m",
-      "timestamp": "2026-05-19T01:18:40+00:00",
-      "timestamp_display": "18/05/2026 19:18 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Querétaro - Irapuato, Plaza de Cobro Querétaro, dirección Irapuato. Se informa a las personas usuarias que el incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056536944738197706#m",
-      "timestamp": "2026-05-19T00:46:30+00:00",
-      "timestamp_display": "18/05/2026 18:46 CST",
       "segment": null
     }
   ]
