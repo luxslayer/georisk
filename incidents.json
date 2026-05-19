@@ -1,6 +1,87 @@
 {
-  "last_update": "2026-05-19T01:29:11.177256",
+  "last_update": "2026-05-19T05:44:25.071768",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 265+600, de la carretera Uruapan - Lázaro Cárdenas, con dirección a Lázaro Cárdenas, Mich. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 265.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2056592832714911750#m",
+      "timestamp": "2026-05-19T04:28:35+00:00",
+      "timestamp_display": "18/05/2026 22:28 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Querétaro derivado al cierre total de circulación por presencia de personas, se suspende el cobro de peaje de la caseta No. 127 Chichimequillas, esto con la finalidad de evitar más aglomeración vehicular. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2056587035087937743#m",
+      "timestamp": "2026-05-19T04:05:33+00:00",
+      "timestamp_display": "18/05/2026 22:05 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Querétaro continúa cierre total de circulación, ya que los manifestantes solicitan al representante de la Comisión Nacional del Agua, para poder llegar a un acuerdo.\nRuta alterna por la carretera San Miguel Allende - Buenavista y la carretera Libre Querétaro - San Luis Potosí",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": 57,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2056568867749540140#m",
+      "timestamp": "2026-05-19T02:53:21+00:00",
+      "timestamp_display": "18/05/2026 20:53 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "#VíaLibre en #Oaxaca tras #Maniobras de arrastre y salvamento, cerca del km 005+200, de la carretera Cuacnopalan - Oaxaca, con dirección a Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 5.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2056567225230725202#m",
+      "timestamp": "2026-05-19T02:46:50+00:00",
+      "timestamp_display": "18/05/2026 20:46 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Chipas tras #AccidenteVial cerca del km 012+300, de la carretera Tapachula/Puerto madero - Cd. Hidalgo, con dirección a Puerto Madero, Chis. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 12.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2056559442598977729#m",
+      "timestamp": "2026-05-19T02:15:54+00:00",
+      "timestamp_display": "18/05/2026 20:15 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 125+100, de la carretera San Hipólito - Xalapa, con dirección a Xalapa, Ver. Atienda Indicación Vial.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 125.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2056559063790502354#m",
+      "timestamp": "2026-05-19T02:14:24+00:00",
+      "timestamp_display": "18/05/2026 20:14 CST",
+      "segment": null
+    },
     {
       "title": "En #Querétaro continúa cierre total de circulación, ya que los manifestantes solicitan al representante de la Comisión Nacional del Agua.\n\nSe proporciona vialidad por la carretera San Miguel Allende - Buenavista y la carretera Libre Querétaro - San Luis Potosí.",
       "type": "twitter",
@@ -199,87 +280,238 @@
       ]
     },
     {
-      "title": "#VíaLibre en #EdoMéx tras presencia de personas cerca del km 043+000, de la carretera México-Querétaro, a la altura de la caseta de Tepotzotlán. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 92, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 43.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2056470153068482563#m",
-      "timestamp": "2026-05-18T20:21:06+00:00",
-      "timestamp_display": "18/05/2026 14:21 CST",
-      "segment": null
-    },
-    {
-      "title": "En #Querétaro continúa cierre total de circulación por presencia de personas cerca del km 034+400, de la carretera Querétaro-San Luis Potosí, afectando la vialidad en ambos sentidos. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.860612477751676,
-      "lng": -100.4270878280673,
-      "road": 57,
-      "km": 34.4,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2056465002459009433#m",
-      "timestamp": "2026-05-18T20:00:38+00:00",
-      "timestamp_display": "18/05/2026 14:00 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por presencia de personas cerca del km 043+000, de la carretera México-Querétaro, a la altura de la caseta de Tepotzotlán. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 43.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2056449822647808066#m",
-      "timestamp": "2026-05-18T19:00:19+00:00",
-      "timestamp_display": "18/05/2026 13:00 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Guerrero se registra cierre total de circulación por presencia de personas cerca del km 005+200, de la carretera Chilpancingo - Acapulco, proporcionando vialidad por la carretera libre Chilpancingo-Acapulco. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 5.2,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2056436448350400780#m",
-      "timestamp": "2026-05-18T18:07:10+00:00",
-      "timestamp_display": "18/05/2026 12:07 CST",
-      "segment": null
-    },
-    {
-      "title": "En #Querétaro continúa cierre total de circulación por presencia de personas cerca del km 034+400, de la carretera Querétaro-San Luis Potosí, afectando la vialidad en ambos sentidos. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.860612477751676,
-      "lng": -100.4270878280673,
-      "road": 57,
-      "km": 34.4,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2056419560757039309#m",
-      "timestamp": "2026-05-18T17:00:04+00:00",
-      "timestamp_display": "18/05/2026 11:00 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca de la carretera Veracruz-Xalapa, con dirección a Veracruz. Atienda Indicación Vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 180,
-      "km": null,
+      "km": 92,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2056413374691357162#m",
-      "timestamp": "2026-05-18T16:35:29+00:00",
-      "timestamp_display": "18/05/2026 10:35 CST",
+      "url": "https://nitter.net/CAPUFE/status/2056610857543463231#m",
+      "timestamp": "2026-05-19T05:40:13+00:00",
+      "timestamp_display": "18/05/2026 23:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 218. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 218,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056604641769439289#m",
+      "timestamp": "2026-05-19T05:15:31+00:00",
+      "timestamp_display": "18/05/2026 23:15 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Continúa carga vehicular intensa por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. \n\nPara más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 20.881792345167543,
+      "lng": -100.41649506638463,
+      "road": 57,
+      "km": 37,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056594595014664434#m",
+      "timestamp": "2026-05-19T04:35:35+00:00",
+      "timestamp_display": "18/05/2026 22:35 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 192. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 192,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056592450748071983#m",
+      "timestamp": "2026-05-19T04:27:04+00:00",
+      "timestamp_display": "18/05/2026 22:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Córdoba - Veracruz, Plaza de Cobro Paso del Toro, dirección Córdoba. El incidente ha sido atendido. Se restablece la circulación en la zona. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056588193265336593#m",
+      "timestamp": "2026-05-19T04:10:09+00:00",
+      "timestamp_display": "18/05/2026 22:10 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 3, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.859727444106394,
+      "lng": -96.88237816597955,
+      "road": 150,
+      "km": 3,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056586866426626321#m",
+      "timestamp": "2026-05-19T04:04:53+00:00",
+      "timestamp_display": "18/05/2026 22:04 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 75, dirección Córdoba. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.945988971425855,
+      "lng": -96.29855945513744,
+      "road": 150,
+      "km": 75,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056580730700873935#m",
+      "timestamp": "2026-05-19T03:40:30+00:00",
+      "timestamp_display": "18/05/2026 21:40 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 69, dirección Veracruz. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.902821254914883,
+      "lng": -96.33251345888068,
+      "road": 150,
+      "km": 69,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056578135454318979#m",
+      "timestamp": "2026-05-19T03:30:11+00:00",
+      "timestamp_display": "18/05/2026 21:30 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista Córdoba - Veracruz, Plaza de Cobro Paso del Toro, dirección Córdoba. Reducción de carriles por atención de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056572962539442385#m",
+      "timestamp": "2026-05-19T03:09:38+00:00",
+      "timestamp_display": "18/05/2026 21:09 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 75, dirección Córdoba. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.945988971425855,
+      "lng": -96.29855945513744,
+      "road": 150,
+      "km": 75,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056566627324293468#m",
+      "timestamp": "2026-05-19T02:44:27+00:00",
+      "timestamp_display": "18/05/2026 20:44 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Lagos de Moreno - San Luis Potosí, km 45. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 45,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056566000066220161#m",
+      "timestamp": "2026-05-19T02:41:58+00:00",
+      "timestamp_display": "18/05/2026 20:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Tehuacán - Oaxaca, km 192. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos.\n\nSin embargo, en la zona se registra carga vehicular. Atienda las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 192,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056564625135534236#m",
+      "timestamp": "2026-05-19T02:36:30+00:00",
+      "timestamp_display": "18/05/2026 20:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 3, dirección Veracruz. Reducción de carriles por atención de accidente (automóvil siniestrado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.859727444106394,
+      "lng": -96.88237816597955,
+      "road": 150,
+      "km": 3,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056563356979401153#m",
+      "timestamp": "2026-05-19T02:31:28+00:00",
+      "timestamp_display": "18/05/2026 20:31 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Continúa carga vehicular intensa por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. \n\nPara más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 20.881792345167543,
+      "lng": -100.41649506638463,
+      "road": 57,
+      "km": 37,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2056563110098432132#m",
+      "timestamp": "2026-05-19T02:30:29+00:00",
+      "timestamp_display": "18/05/2026 20:30 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Lagos de Moreno - San Luis Potosí, km 45. Se restablece la circulación de manera intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 45,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056553464302342536#m",
+      "timestamp": "2026-05-19T01:52:09+00:00",
+      "timestamp_display": "18/05/2026 19:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Hermosillo - Magdalena, km 154, dirección Hermosillo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 154,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2056548857585013044#m",
+      "timestamp": "2026-05-19T01:33:51+00:00",
+      "timestamp_display": "18/05/2026 19:33 CST",
       "segment": null
     },
     {
@@ -332,184 +564,6 @@
       "url": "https://nitter.net/CAPUFE/status/2056536944738197706#m",
       "timestamp": "2026-05-19T00:46:30+00:00",
       "timestamp_display": "18/05/2026 18:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAut. Hermosillo - Magdalena, km 154, dirección Hermosillo. Reducción de carriles por atención de accidente (salida del camino y volcadura de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 154,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056536563320766830#m",
-      "timestamp": "2026-05-19T00:44:59+00:00",
-      "timestamp_display": "18/05/2026 18:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 119, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 119,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056535537754743207#m",
-      "timestamp": "2026-05-19T00:40:55+00:00",
-      "timestamp_display": "18/05/2026 18:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nAut. Querétaro - Irapuato, del km 31 al 30, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056535313942536285#m",
-      "timestamp": "2026-05-19T00:40:02+00:00",
-      "timestamp_display": "18/05/2026 18:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Querétaro - Irapuato, Plaza de Cobro Querétaro, dirección Irapuato. Reducción de carriles, debido a labores de limpieza por derrame de diésel. Maneja con precaución. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/q1KoJNJBCjEZ3djy6",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056532951567909014#m",
-      "timestamp": "2026-05-19T00:30:38+00:00",
-      "timestamp_display": "18/05/2026 18:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Durango - Mazatlán, km 6. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 6,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056528975728345350#m",
-      "timestamp": "2026-05-19T00:14:50+00:00",
-      "timestamp_display": "18/05/2026 18:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuernavaca - Acapulco, km 119, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 119,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056528574304211236#m",
-      "timestamp": "2026-05-19T00:13:15+00:00",
-      "timestamp_display": "18/05/2026 18:13 CST",
-      "segment": null
-    },
-    {
-      "title": "Conectando caminos, impulsando destinos.\n🚗🛣️ CAPUFE opera una de las redes carreteras más importantes del país para que millones de personas viajen de forma más segura y eficiente. 🇲🇽✨\n#EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056525245519970706#m",
-      "timestamp": "2026-05-19T00:00:01+00:00",
-      "timestamp_display": "18/05/2026 18:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoPuebla, km 89, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.282409700124656,
-      "lng": -98.45193857164863,
-      "road": 150,
-      "km": 71,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056519402250473857#m",
-      "timestamp": "2026-05-18T23:36:48+00:00",
-      "timestamp_display": "18/05/2026 17:36 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco. Carga vehicular en dirección Acapulco, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056518062669479991#m",
-      "timestamp": "2026-05-18T23:31:29+00:00",
-      "timestamp_display": "18/05/2026 17:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nLibramiento Chilpancingo, km 277 (fuera de la cobertura de CAPUFE). Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 277,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056517144184074336#m",
-      "timestamp": "2026-05-18T23:27:50+00:00",
-      "timestamp_display": "18/05/2026 17:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 69, dirección Veracruz. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.902821254914883,
-      "lng": -96.33251345888068,
-      "road": 150,
-      "km": 69,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056514382050304241#m",
-      "timestamp": "2026-05-18T23:16:51+00:00",
-      "timestamp_display": "18/05/2026 17:16 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 37, dirección San Luis Potosí. Continúa carga vehicular por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. \n\nPara más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.881792345167543,
-      "lng": -100.41649506638463,
-      "road": 57,
-      "km": 37,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056512770984829419#m",
-      "timestamp": "2026-05-18T23:10:27+00:00",
-      "timestamp_display": "18/05/2026 17:10 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 192. Continúa el cierre a la circulación en ambos sentidos, por maniobras para el retiro de tracto camión siniestrado.\n\nSe desvía el tránsito vehicular hacía carretera libre en los siguientes puntos:\n\n➡️ Dirección Tehuacán, a la altura del km 243 (Poblado San Sebastián Etla).\n➡️ Dirección Oaxaca, a la altura del km 178 (Poblado Asunción Nochixtlán).\n\nLa carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 192,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2056512145848680695#m",
-      "timestamp": "2026-05-18T23:07:58+00:00",
-      "timestamp_display": "18/05/2026 17:07 CST",
       "segment": null
     }
   ]
