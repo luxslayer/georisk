@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-05-20T08:26:05.692243",
+  "last_update": "2026-05-20T11:27:41.284430",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #SanLuisPotosi se registra cierre parcial de circulación por #AccidenteVial cerca del km 185+015 de la carretera Querétaro-San Luis Potosí, con dir. a Querétaro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.024223320266962,
+      "lng": -100.84583930941855,
+      "road": 57,
+      "km": 185.015,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2057056245635264582#m",
+      "timestamp": "2026-05-20T11:10:01+00:00",
+      "timestamp_display": "20/05/2026 05:10 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
     {
       "title": "#ViaLibre en #Tabasco tras presencia de personas cerca del km 006+100, de la carretera Villahermosa-Ciudad del Carmen, a la altura del Mpio. Villahermosa. Maneje con precaución.",
       "type": "twitter",
@@ -232,45 +248,29 @@
       ]
     },
     {
-      "title": "En #Querétaro continúa cierre total de circulación, ya que los manifestantes solicitan al representante de la Comisión Nacional del Agua.\n\nSe proporciona vialidad por la carretera San Miguel Allende - Buenavista y la carretera Libre Querétaro - San Luis Potosí.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 83, dirección CDMX. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": 57,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2056679510582362278#m",
-      "timestamp": "2026-05-19T10:13:01+00:00",
-      "timestamp_display": "19/05/2026 04:13 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 096+100, de la carretera Tapanatepec-Tuxtla Gutiérrez, con dirección a Ocozocoautla de Espinosa, Chis. Atienda Indicación Vial.",
-      "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 96.1,
+      "km": 83,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2056678963682886103#m",
-      "timestamp": "2026-05-19T10:10:50+00:00",
-      "timestamp_display": "19/05/2026 04:10 CST",
+      "url": "https://nitter.net/CAPUFE/status/2057054626625585293#m",
+      "timestamp": "2026-05-20T11:03:35+00:00",
+      "timestamp_display": "20/05/2026 05:03 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+300, de la carretera Acatlán de Juárez - Colima, con dirección a Cosamaloapan, Ver,  con dirección a Acatlán, Jal.. Atienda Indicación Vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 83, dirección CDMX. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 94.3,
+      "km": 83,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2056652903964655668#m",
-      "timestamp": "2026-05-19T08:27:17+00:00",
-      "timestamp_display": "19/05/2026 02:27 CST",
+      "url": "https://nitter.net/CAPUFE/status/2057049623290675422#m",
+      "timestamp": "2026-05-20T10:43:42+00:00",
+      "timestamp_display": "20/05/2026 04:43 CST",
       "segment": null
     },
     {
@@ -505,32 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2056956332494745613#m",
       "timestamp": "2026-05-20T04:33:00+00:00",
       "timestamp_display": "19/05/2026 22:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 190, dirección Querétaro. El incidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 190,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056955899290198185#m",
-      "timestamp": "2026-05-20T04:31:17+00:00",
-      "timestamp_display": "19/05/2026 22:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Cuernavaca - Acapulco, km 150, dirección Cuernavaca. Reducción de carriles por atención de incidente (tráiler con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 150,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2056953300054938013#m",
-      "timestamp": "2026-05-20T04:20:57+00:00",
-      "timestamp_display": "19/05/2026 22:20 CST",
       "segment": null
     }
   ]
