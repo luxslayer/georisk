@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-23T14:18:06.680592",
+  "last_update": "2026-05-23T15:41:05.033173",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 027+500, de la carretera Ent. La Tinaja- Cosoleacaque. Atienda indicación vial.",
@@ -280,6 +280,77 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 27, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.94252704002794,
+      "lng": -94.68952611912717,
+      "road": 145,
+      "km": 27,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058206711396086258#m",
+      "timestamp": "2026-05-23T15:21:34+00:00",
+      "timestamp_display": "23/05/2026 09:21 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acayucan - Cosoleacaque, km 27, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94252704002794,
+      "lng": -94.68952611912717,
+      "road": 145,
+      "km": 27,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058202299508330736#m",
+      "timestamp": "2026-05-23T15:04:02+00:00",
+      "timestamp_display": "23/05/2026 09:04 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058198654259786053#m",
+      "timestamp": "2026-05-23T14:49:33+00:00",
+      "timestamp_display": "23/05/2026 08:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Tinaja - Isla, km 87, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058195554434208162#m",
+      "timestamp": "2026-05-23T14:37:14+00:00",
+      "timestamp_display": "23/05/2026 08:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 189, dirección Navojoa. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 189,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058192533868482563#m",
+      "timestamp": "2026-05-23T14:25:14+00:00",
+      "timestamp_display": "23/05/2026 08:25 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 165, dirección Acatzingo. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.0414,
@@ -469,77 +540,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista La Tinaja - Isla, km 87. Continúa reducción de carriles en ambos sentidos por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058129949031039177#m",
-      "timestamp": "2026-05-23T10:16:32+00:00",
-      "timestamp_display": "23/05/2026 04:16 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Se informa a las personas usuarias que continúa la reducción de carriles debido a que el personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058125356092015033#m",
-      "timestamp": "2026-05-23T09:58:17+00:00",
-      "timestamp_display": "23/05/2026 03:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 24, dirección Cosoleacaque. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.931785748757985,
-      "lng": -94.71492951124223,
-      "road": 145,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058124586416238665#m",
-      "timestamp": "2026-05-23T09:55:14+00:00",
-      "timestamp_display": "23/05/2026 03:55 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acayucan - Cosoleacaque, km 24, dirección Cosoleacaque. Registra cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.931785748757985,
-      "lng": -94.71492951124223,
-      "road": 145,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058108045222097302#m",
-      "timestamp": "2026-05-23T08:49:30+00:00",
-      "timestamp_display": "23/05/2026 02:49 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y una pick up. \n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/LAQEymyXB7cyb7yN8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 21,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058107421545873826#m",
-      "timestamp": "2026-05-23T08:47:01+00:00",
-      "timestamp_display": "23/05/2026 02:47 CST",
-      "segment": null
     }
   ]
 }
