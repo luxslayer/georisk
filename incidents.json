@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-05-23T22:48:28.470368",
+  "last_update": "2026-05-23T23:22:08.262685",
   "incidents": [
+    {
+      "title": "#Tomesusprecauciones en #Tabasco continua cierre total de la circulación por presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 93.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2058323936346042673#m",
+      "timestamp": "2026-05-23T23:07:22+00:00",
+      "timestamp_display": "23/05/2026 17:07 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 053+500, de la carretera Lázaro Cárdenas – Villa Unión. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 53.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058322609331224890#m",
+      "timestamp": "2026-05-23T23:02:06+00:00",
+      "timestamp_display": "23/05/2026 17:02 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+690, de la carretera La Pera-Cuautla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 66.69,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058319570683691410#m",
+      "timestamp": "2026-05-23T22:50:02+00:00",
+      "timestamp_display": "23/05/2026 16:50 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 021+800 de la carretera Queretaro-Irapuato. Atienda indicación vial.",
       "type": "twitter",
@@ -235,43 +274,88 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 108+000, de la carretera Guadalajara-Tepic, con dirección a Tepic, Nay. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 86, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 108.0,
+      "km": 86,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058037339524304910#m",
-      "timestamp": "2026-05-23T04:08:32+00:00",
-      "timestamp_display": "22/05/2026 22:08 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058324843699851348#m",
+      "timestamp": "2026-05-23T23:10:59+00:00",
+      "timestamp_display": "23/05/2026 17:10 CST",
       "segment": null
     },
     {
-      "title": "En #Coahuila continúa cierre total de circulación por #Maniobras de arrastre y salvamento cerca del km 036+200, de la carretera Libramiento Norponiente-Saltillo. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 36.2,
+      "km": 52,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058033257808085180#m",
-      "timestamp": "2026-05-23T03:52:19+00:00",
-      "timestamp_display": "22/05/2026 21:52 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058323073334489376#m",
+      "timestamp": "2026-05-23T23:03:57+00:00",
+      "timestamp_display": "23/05/2026 17:03 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tlaxcala  se registra cierre parcial de circulación por #AccidenteVial cerca del km 195+600, de la carretera Libramiento Norte de la Ciudad de México. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 189, dirección Navojoa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 195.6,
+      "km": 189,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058030170129211721#m",
-      "timestamp": "2026-05-23T03:40:03+00:00",
-      "timestamp_display": "22/05/2026 21:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058322397229367650#m",
+      "timestamp": "2026-05-23T23:01:15+00:00",
+      "timestamp_display": "23/05/2026 17:01 CST",
       "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 49, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.30615802899093,
+      "lng": -98.75320640645599,
+      "road": 150,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058319243322474540#m",
+      "timestamp": "2026-05-23T22:48:43+00:00",
+      "timestamp_display": "23/05/2026 16:48 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 83, dirección Querétaro. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 83,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058318987549626473#m",
+      "timestamp": "2026-05-23T22:47:43+00:00",
+      "timestamp_display": "23/05/2026 16:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 50, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.2995779576657,
+      "lng": -98.74789740996866,
+      "road": 150,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058318305132196036#m",
+      "timestamp": "2026-05-23T22:45:00+00:00",
+      "timestamp_display": "23/05/2026 16:45 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 86, dirección CDMX. Cierre a la circulación por atención del accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -404,32 +488,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y una pick up. \n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/LAQEymyXB7cyb7yN8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 21,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058107421545873826#m",
-      "timestamp": "2026-05-23T08:47:01+00:00",
-      "timestamp_display": "23/05/2026 02:47 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de unidad siniestrada.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058296532152004873#m",
-      "timestamp": "2026-05-23T21:18:29+00:00",
-      "timestamp_display": "23/05/2026 15:18 CST",
-      "segment": null
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 49, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -466,103 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058302752174866924#m",
       "timestamp": "2026-05-23T21:43:12+00:00",
       "timestamp_display": "23/05/2026 15:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 0, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058293837110345866#m",
-      "timestamp": "2026-05-23T21:07:46+00:00",
-      "timestamp_display": "23/05/2026 15:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 49, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058291735092969651#m",
-      "timestamp": "2026-05-23T20:59:25+00:00",
-      "timestamp_display": "23/05/2026 14:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 49, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.30615802899093,
-      "lng": -98.75320640645599,
-      "road": 150,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058289226777563466#m",
-      "timestamp": "2026-05-23T20:49:27+00:00",
-      "timestamp_display": "23/05/2026 14:49 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 50, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.2995779576657,
-      "lng": -98.74789740996866,
-      "road": 150,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058288731392446844#m",
-      "timestamp": "2026-05-23T20:47:29+00:00",
-      "timestamp_display": "23/05/2026 14:47 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Barranca Larga - Ventanilla, km 12. Cierre a la circulación en ambos sentidos por atención de choque por alcance. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/rWufMa4zRn2vci3w7",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 12,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058244176530034998#m",
-      "timestamp": "2026-05-23T17:50:26+00:00",
-      "timestamp_display": "23/05/2026 11:50 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Barranca Larga - Ventanilla, km 12. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 12,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058281687109275791#m",
-      "timestamp": "2026-05-23T20:19:29+00:00",
-      "timestamp_display": "23/05/2026 14:19 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Barranca Larga - Ventanilla, km 12. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 12,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058284656428998688#m",
-      "timestamp": "2026-05-23T20:31:17+00:00",
-      "timestamp_display": "23/05/2026 14:31 CST",
       "segment": null
     }
   ]
