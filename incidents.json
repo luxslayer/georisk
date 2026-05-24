@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-24T20:36:23.434116",
+  "last_update": "2026-05-24T21:07:24.630394",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del Km 339+000 de la carretera Zinapécuaro-Guadalajara. Se orienta a la ciudadanía #Rutaalterna Maravatio-Zapotlanejo dirección Villachuato y Zacapu. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.610963720074757,
+      "lng": -105.00889732294614,
+      "road": 15,
+      "km": 339.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058649980781355336#m",
+      "timestamp": "2026-05-24T20:42:57+00:00",
+      "timestamp_display": "24/05/2026 14:42 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 004+900 de la carretera Celaya - Ojuelos. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,55 @@
       ]
     },
     {
-      "title": "#Tomeprecauciones en #Coahuila tras cierre total de circulación por labores de reconexión de la red eléctrica, cerca del km 036+500, de la autopista Lib. Norponiente-Saltillo. Se orienta a la ciudadanía que se habilita la circulación solo para automóviles.Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas y labores de limpieza.\n\nEn la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 36.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2058395996879482914#m",
-      "timestamp": "2026-05-24T03:53:43+00:00",
-      "timestamp_display": "23/05/2026 21:53 CST",
+      "km": 242,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058653723488854031#m",
+      "timestamp": "2026-05-24T20:57:50+00:00",
+      "timestamp_display": "24/05/2026 14:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058652787605422351#m",
+      "timestamp": "2026-05-24T20:54:07+00:00",
+      "timestamp_display": "24/05/2026 14:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 50, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 50,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058652301414346979#m",
+      "timestamp": "2026-05-24T20:52:11+00:00",
+      "timestamp_display": "24/05/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058651459525263444#m",
+      "timestamp": "2026-05-24T20:48:50+00:00",
+      "timestamp_display": "24/05/2026 14:48 CST",
       "segment": null
     },
     {
@@ -362,7 +414,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa reducción de carriles por atención de choque por alcance entre tracto camiones.\n\nEn la zona se registra derrame de diésel y carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/7fW7NsBgqJSSeu8S8",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa reducción de carriles por atención de choque por alcance entre tracto camiones.\n\nEn la zona se registra derrame de diésel y carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/7fW7NsBgqJSSeu8S8",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -463,61 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058603722880532621#m",
       "timestamp": "2026-05-24T17:39:09+00:00",
       "timestamp_display": "24/05/2026 11:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058602580322746409#m",
-      "timestamp": "2026-05-24T17:34:36+00:00",
-      "timestamp_display": "24/05/2026 11:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058601989643145337#m",
-      "timestamp": "2026-05-24T17:32:15+00:00",
-      "timestamp_display": "24/05/2026 11:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Nuevo Teapa - Cosoleacaque, km 16. Continúa circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058600105012322809#m",
-      "timestamp": "2026-05-24T17:24:46+00:00",
-      "timestamp_display": "24/05/2026 11:24 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058593046996877755#m",
-      "timestamp": "2026-05-24T16:56:43+00:00",
-      "timestamp_display": "24/05/2026 10:56 CST",
       "segment": null
     }
   ]
