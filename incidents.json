@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-24T17:35:53.095655",
+  "last_update": "2026-05-24T18:07:27.221712",
   "incidents": [
+    {
+      "title": "#Tomesusprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 121+000 de la carretera Cd. Victoria - Monterrey. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 121.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058604751177007124#m",
+      "timestamp": "2026-05-24T17:43:14+00:00",
+      "timestamp_display": "24/05/2026 11:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomesusprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 020+000 de la carretera Cd. Victoria - Monterrey. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 20.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058604199835799696#m",
+      "timestamp": "2026-05-24T17:41:02+00:00",
+      "timestamp_display": "24/05/2026 11:41 CST",
+      "segment": null
+    },
     {
       "title": "#Tomesusprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 050+200 de la carretera Amozoc-Perote. Atienda indicación vial",
       "type": "twitter",
@@ -242,30 +268,85 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 121+900, de la autopista Guadalajara-Tepic. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 121.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058374449469014095#m",
-      "timestamp": "2026-05-24T02:28:06+00:00",
-      "timestamp_display": "23/05/2026 20:28 CST",
+      "km": 194,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058605905663398389#m",
+      "timestamp": "2026-05-24T17:47:49+00:00",
+      "timestamp_display": "24/05/2026 11:47 CST",
       "segment": null
     },
     {
-      "title": "#Tomesusprecauciones en #Coahuila se registra cierre total de circulación por labores de reconexión principal de la red eléctrica, cerca del km 036+500, de la autopista Libramiento Norponiente-Saltillo. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 36.5,
+      "km": 153,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2058365785463009678#m",
-      "timestamp": "2026-05-24T01:53:40+00:00",
-      "timestamp_display": "23/05/2026 19:53 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058605737769668728#m",
+      "timestamp": "2026-05-24T17:47:09+00:00",
+      "timestamp_display": "24/05/2026 11:47 CST",
       "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia a la altura del km 48. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 48,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058603722880532621#m",
+      "timestamp": "2026-05-24T17:39:09+00:00",
+      "timestamp_display": "24/05/2026 11:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058602580322746409#m",
+      "timestamp": "2026-05-24T17:34:36+00:00",
+      "timestamp_display": "24/05/2026 11:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 66,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058601989643145337#m",
+      "timestamp": "2026-05-24T17:32:15+00:00",
+      "timestamp_display": "24/05/2026 11:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Nuevo Teapa - Cosoleacaque, km 16. Continúa circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058600105012322809#m",
+      "timestamp": "2026-05-24T17:24:46+00:00",
+      "timestamp_display": "24/05/2026 11:24 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
@@ -448,87 +529,6 @@
       "timestamp": "2026-05-24T11:53:45+00:00",
       "timestamp_display": "24/05/2026 05:53 CST",
       "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 89. Se informa a las personas usuarias que continúa la circulación intermitente en ambos sentidos por atención de derrumbe de Talud.\n\nEn la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 89,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058510199632036131#m",
-      "timestamp": "2026-05-24T11:27:31+00:00",
-      "timestamp_display": "24/05/2026 05:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gtz. Zamora - Tihuatlán, km 204. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 204,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058508293568373118#m",
-      "timestamp": "2026-05-24T11:19:57+00:00",
-      "timestamp_display": "24/05/2026 05:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058500888122061260#m",
-      "timestamp": "2026-05-24T10:50:31+00:00",
-      "timestamp_display": "24/05/2026 04:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Chamapa - Lechería, km 20, dirección Lechería. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058488765232873501#m",
-      "timestamp": "2026-05-24T10:02:21+00:00",
-      "timestamp_display": "24/05/2026 04:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Tehuacán - Oaxaca, registra #neblina. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058443878789685685#m",
-      "timestamp": "2026-05-24T07:03:59+00:00",
-      "timestamp_display": "24/05/2026 01:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 114, dirección Puebla. El accidente fuera de la jurisdicción a cargo de CAPUFE ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058443031833977080#m",
-      "timestamp": "2026-05-24T07:00:37+00:00",
-      "timestamp_display": "24/05/2026 01:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
