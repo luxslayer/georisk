@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-24T02:47:17.687900",
+  "last_update": "2026-05-24T04:31:15.792994",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Coahuila tras cierre total de circulación por labores de reconexión de la red eléctrica, cerca del km 036+500, de la autopista Lib. Norponiente-Saltillo. Se orienta a la ciudadanía que se habilita la circulación solo para automóviles.Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 36.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2058395996879482914#m",
+      "timestamp": "2026-05-24T03:53:43+00:00",
+      "timestamp_display": "23/05/2026 21:53 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomesusprecauciones en #Puebla se registra cierre total de la circulación por #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 11.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058391564620070988#m",
+      "timestamp": "2026-05-24T03:36:06+00:00",
+      "timestamp_display": "23/05/2026 21:36 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 241+800, de la carretera Maravatío - Zapotlanejo. Atienda indicación vial.",
       "type": "twitter",
@@ -236,55 +262,84 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del km 155+100, de la carretera Zacatecas - Saltillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": 155.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058250739626004901#m",
-      "timestamp": "2026-05-23T18:16:31+00:00",
-      "timestamp_display": "23/05/2026 12:16 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomesusprecauciones en #Tabasco se registra cierre total de la circulación por presencia de personas cerca del Km 093+100 de la carretera Villahermosa-Cuidad del Carmen. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 186, dirección Acatzingo. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 93.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2058220279839576077#m",
-      "timestamp": "2026-05-23T16:15:29+00:00",
-      "timestamp_display": "23/05/2026 10:15 CST",
+      "km": 186,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058399481935057162#m",
+      "timestamp": "2026-05-24T04:07:34+00:00",
+      "timestamp_display": "23/05/2026 22:07 CST",
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 11. Cierre a la circulación en ambos sentidos por atención de choque de frente entre vagoneta y automóvil. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/qkBJj3SPki4tUuJH6",
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Córdoba - Veracruz, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058393756705882348#m",
+      "timestamp": "2026-05-24T03:44:49+00:00",
+      "timestamp_display": "23/05/2026 21:44 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 11. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos. \n\nEl personal se encuentra realizando los servicios periciales en el lugar. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
       "road": null,
       "km": 11,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058369673859649844#m",
-      "timestamp": "2026-05-24T02:09:07+00:00",
-      "timestamp_display": "23/05/2026 20:09 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058388269180522951#m",
+      "timestamp": "2026-05-24T03:23:01+00:00",
+      "timestamp_display": "23/05/2026 21:23 CST",
       "segment": null
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Salina Cruz - La Ventosa, km 47. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Obregón - Guaymas, km 2. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/SsE1sYq3DTMASdZB8",
       "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 47,
+      "km": 2,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058386614670266819#m",
+      "timestamp": "2026-05-24T03:16:26+00:00",
+      "timestamp_display": "23/05/2026 21:16 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 11. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos.\n\nEl personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.\n\nPara más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 11,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058362949463364030#m",
-      "timestamp": "2026-05-24T01:42:24+00:00",
-      "timestamp_display": "23/05/2026 19:42 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058384809462730867#m",
+      "timestamp": "2026-05-24T03:09:16+00:00",
+      "timestamp_display": "23/05/2026 21:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 186, dirección Acatzingo. Reducción de carriles por atención de accidente (choque por alcance entre automóviles). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 186,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058378474239254622#m",
+      "timestamp": "2026-05-24T02:44:05+00:00",
+      "timestamp_display": "23/05/2026 20:44 CST",
       "segment": null
     },
     {
@@ -298,6 +353,19 @@
       "url": "https://nitter.net/CAPUFE/status/2058376360188358968#m",
       "timestamp": "2026-05-24T02:35:41+00:00",
       "timestamp_display": "23/05/2026 20:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 11. Cierre a la circulación en ambos sentidos por atención de choque de frente entre vagoneta y automóvil. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/qkBJj3SPki4tUuJH6",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 11,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058369673859649844#m",
+      "timestamp": "2026-05-24T02:09:07+00:00",
+      "timestamp_display": "23/05/2026 20:09 CST",
       "segment": null
     },
     {
@@ -328,6 +396,19 @@
         "cordoba",
         "veracruz"
       ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Salina Cruz - La Ventosa, km 47. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 47,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058362949463364030#m",
+      "timestamp": "2026-05-24T01:42:24+00:00",
+      "timestamp_display": "23/05/2026 19:42 CST",
+      "segment": null
     },
     {
       "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, continúa #lluvia y tormenta eléctrica. Disminuye tu velocidad y maneja con precaución.",
@@ -434,32 +515,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y una pick up. \n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/LAQEymyXB7cyb7yN8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 21,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058107421545873826#m",
-      "timestamp": "2026-05-23T08:47:01+00:00",
-      "timestamp_display": "23/05/2026 02:47 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las maniobras de grúa para el retiro de la unidad siniestrada. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058304602605490251#m",
-      "timestamp": "2026-05-23T21:50:33+00:00",
-      "timestamp_display": "23/05/2026 15:50 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
@@ -471,87 +526,6 @@
       "timestamp": "2026-05-23T23:28:12+00:00",
       "timestamp_display": "23/05/2026 17:28 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR🟠   \nAutopista Tijuana - Ensenada, Plaza de Cobro Playas de Tijuana, dirección Ensenada. Registra carga vehicular, por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058328538046947671#m",
-      "timestamp": "2026-05-23T23:25:40+00:00",
-      "timestamp_display": "23/05/2026 17:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Navojoa - Cd. Obregón, km 189, dirección Navojoa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 189,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058325612775784777#m",
-      "timestamp": "2026-05-23T23:14:02+00:00",
-      "timestamp_display": "23/05/2026 17:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 86, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058324843699851348#m",
-      "timestamp": "2026-05-23T23:10:59+00:00",
-      "timestamp_display": "23/05/2026 17:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058323073334489376#m",
-      "timestamp": "2026-05-23T23:03:57+00:00",
-      "timestamp_display": "23/05/2026 17:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 189, dirección Navojoa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 189,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058322397229367650#m",
-      "timestamp": "2026-05-23T23:01:15+00:00",
-      "timestamp_display": "23/05/2026 17:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 49, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.30615802899093,
-      "lng": -98.75320640645599,
-      "road": 150,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058319243322474540#m",
-      "timestamp": "2026-05-23T22:48:43+00:00",
-      "timestamp_display": "23/05/2026 16:48 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
