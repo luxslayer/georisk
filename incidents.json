@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-24T09:18:18.184438",
+  "last_update": "2026-05-24T10:10:10.632224",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 11.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058474600657281283#m",
+      "timestamp": "2026-05-24T09:06:04+00:00",
+      "timestamp_display": "24/05/2026 03:06 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 010+500, de la carretera Córdoba - ent. Boticaria. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,16 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #EdoMex tras presencia de personas cerca del Km 035+500 de la carretera Toluca-Morelia. Maneje con precaució.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Chamapa - Lechería, km 20, dirección Lechería. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.7,
-      "lng": -101.18,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 35.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2058304967773999302#m",
-      "timestamp": "2026-05-23T21:52:00+00:00",
-      "timestamp_display": "23/05/2026 15:52 CST",
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058488765232873501#m",
+      "timestamp": "2026-05-24T10:02:21+00:00",
+      "timestamp_display": "24/05/2026 04:02 CST",
       "segment": null
     },
     {
@@ -524,19 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058403819562672364#m",
       "timestamp": "2026-05-24T04:24:48+00:00",
       "timestamp_display": "23/05/2026 22:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 186, dirección Acatzingo. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 186,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058399481935057162#m",
-      "timestamp": "2026-05-24T04:07:34+00:00",
-      "timestamp_display": "23/05/2026 22:07 CST",
       "segment": null
     }
   ]
