@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-24T23:07:16.459566",
+  "last_update": "2026-05-24T23:37:19.927190",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Chiapas tras #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 2.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058688103259283681#m",
+      "timestamp": "2026-05-24T23:14:27+00:00",
+      "timestamp_display": "24/05/2026 17:14 CST",
+      "segment": null
+    },
     {
       "title": "#Tomesusprecauciones #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 002+700 de la carretera Arriaga- Ocozocoautla. Se orienta a la ciudadanía  #Rutaalterna carretera Tapachula-Juchitán de Zaragoza. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 95 al 100, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 11.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058474600657281283#m",
-      "timestamp": "2026-05-24T09:06:04+00:00",
-      "timestamp_display": "24/05/2026 03:06 CST",
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058688352157622431#m",
+      "timestamp": "2026-05-24T23:15:26+00:00",
+      "timestamp_display": "24/05/2026 17:15 CST",
       "segment": null
     },
     {
@@ -512,19 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058637679282012640#m",
       "timestamp": "2026-05-24T19:54:05+00:00",
       "timestamp_display": "24/05/2026 13:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia a la altura del km 38. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 38,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058634885951095020#m",
-      "timestamp": "2026-05-24T19:42:59+00:00",
-      "timestamp_display": "24/05/2026 13:42 CST",
       "segment": null
     }
   ]
