@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-24T10:10:10.632224",
+  "last_update": "2026-05-24T10:49:31.088163",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+000, de la carretera Tepic - Puerto Vallarta. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.502,
+      "lng": -104.89,
+      "road": null,
+      "km": 94.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058499289798578496#m",
+      "timestamp": "2026-05-24T10:44:10+00:00",
+      "timestamp_display": "24/05/2026 04:44 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 121+900, de la carretera Guadalajara-Tepic. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 121.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058496362765783145#m",
+      "timestamp": "2026-05-24T10:32:32+00:00",
+      "timestamp_display": "24/05/2026 04:32 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Puebla tras #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Maneje con precaución.",
       "type": "twitter",
@@ -239,32 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2058322609331224890#m",
       "timestamp": "2026-05-23T23:02:06+00:00",
       "timestamp_display": "23/05/2026 17:02 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 066+690, de la carretera La Pera-Cuautla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 66.69,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058319570683691410#m",
-      "timestamp": "2026-05-23T22:50:02+00:00",
-      "timestamp_display": "23/05/2026 16:50 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 021+800 de la carretera Queretaro-Irapuato. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 21.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058306958956835245#m",
-      "timestamp": "2026-05-23T21:59:55+00:00",
-      "timestamp_display": "23/05/2026 15:59 CST",
       "segment": null
     },
     {
