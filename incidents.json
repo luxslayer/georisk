@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-05-24T00:54:44.030179",
+  "last_update": "2026-05-24T01:44:27.558362",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 098+100, de la carretera Ciudad Mante - Llera de Canales. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 98.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058358756291838308#m",
+      "timestamp": "2026-05-24T01:25:44+00:00",
+      "timestamp_display": "23/05/2026 19:25 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Michoacán tras presencia de personas cerca del Km 276+000 de la carretera Maravatio-Zapotlanejo a la altura de la caseta de Paníndicuaro. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.44305861151621,
+      "lng": -102.83113777583982,
+      "road": 15,
+      "km": 276.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2058356785103110212#m",
+      "timestamp": "2026-05-24T01:17:54+00:00",
+      "timestamp_display": "23/05/2026 19:17 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 011+050, de la carretera Portezuelo - Palmillas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 11.05,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058356239348744531#m",
+      "timestamp": "2026-05-24T01:15:44+00:00",
+      "timestamp_display": "23/05/2026 19:15 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomesusprecauciones en #Jalisco se registra total de la circulación por #AccidenteVial cerca del Km 462+000 de la carretera Lagos de Moreno-San Luis Potosí. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 462.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058354987806118285#m",
+      "timestamp": "2026-05-24T01:10:46+00:00",
+      "timestamp_display": "23/05/2026 19:10 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Morelos tras #AccidenteVial cerca del km 066+690, de la carretera La Pera-Cuautla. Maneje con precaución.",
       "type": "twitter",
@@ -210,62 +262,17 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 033+900, de la carretera San Salvador el Seco-Azumbilla, con dirección a la Esperanza. Atienda indicación vial.",
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, continúa #lluvia y tormenta eléctrica. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 33.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058173241672294603#m",
-      "timestamp": "2026-05-23T13:08:34+00:00",
-      "timestamp_display": "23/05/2026 07:08 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 024+020, de la carretera Ent. La Tinaja- Cosoleacaque, con dirección a La Tinaja, Ver. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 24.02,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058157265484419507#m",
-      "timestamp": "2026-05-23T12:05:05+00:00",
-      "timestamp_display": "23/05/2026 06:05 CST",
-      "segment": null
-    },
-    {
-      "title": "En #Coahuila continúa cuierre total de circulación por #AccidenteVial cerca del km 036+200, de la carretera Libramiento Norponiente-Saltillo.\nSe proporciona vialidad por la carretera Libre Monterrey-Saltillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.567829232801362,
-      "lng": -100.96252484943781,
-      "road": 40,
-      "km": 16.200000000000003,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058120248692179161#m",
-      "timestamp": "2026-05-23T09:37:59+00:00",
-      "timestamp_display": "23/05/2026 03:37 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
-    },
-    {
-      "title": "En seguimiento al hecho de tránsito de #Coahuila cerca del km 036+200, de la carretera Libramiento Norponiente-Saltillo, se proporciona vialidad por la carretera Libre Monterrey-Saltillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.567829232801362,
-      "lng": -100.96252484943781,
-      "road": 40,
-      "km": 16.200000000000003,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2058066168758313216#m",
-      "timestamp": "2026-05-23T06:03:06+00:00",
-      "timestamp_display": "23/05/2026 00:03 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2058358169957474432#m",
+      "timestamp": "2026-05-24T01:23:24+00:00",
+      "timestamp_display": "23/05/2026 19:23 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
@@ -356,6 +363,45 @@
       "url": "https://nitter.net/CAPUFE/status/2058338344384278730#m",
       "timestamp": "2026-05-24T00:04:38+00:00",
       "timestamp_display": "23/05/2026 18:04 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nAnticipa tu trayecto y maneja con precaución.\nCada decisión al volante puede marcar la diferencia en tu trayecto. 🚗\n👉 Respeta las señales y disfruta el camino.\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058246586027954522#m",
+      "timestamp": "2026-05-23T18:00:01+00:00",
+      "timestamp_display": "23/05/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y una pick up. \n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/LAQEymyXB7cyb7yN8",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 21,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058107421545873826#m",
+      "timestamp": "2026-05-23T08:47:01+00:00",
+      "timestamp_display": "23/05/2026 02:47 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 21, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las maniobras de grúa para el retiro de la unidad siniestrada. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058304602605490251#m",
+      "timestamp": "2026-05-23T21:50:33+00:00",
+      "timestamp_display": "23/05/2026 15:50 CST",
       "segment": null
     },
     {
@@ -518,19 +564,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058313194930942411#m",
       "timestamp": "2026-05-23T22:24:41+00:00",
       "timestamp_display": "23/05/2026 16:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Tijuana - Ensenada, km 94, dirección Ensenada. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 94,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058312748098830751#m",
-      "timestamp": "2026-05-23T22:22:55+00:00",
-      "timestamp_display": "23/05/2026 16:22 CST",
       "segment": null
     }
   ]
