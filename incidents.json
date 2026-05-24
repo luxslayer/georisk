@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-24T11:31:37.891030",
+  "last_update": "2026-05-24T12:07:19.853382",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 136+500, de la carretera  Kantunil-Puerto Juárez. Atienda indicación vial.",
@@ -268,6 +268,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Chamapa - Lechería, km 20, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058516799755334108#m",
+      "timestamp": "2026-05-24T11:53:45+00:00",
+      "timestamp_display": "24/05/2026 05:53 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 89. Se informa a las personas usuarias que continúa la circulación intermitente en ambos sentidos por atención de derrumbe de Talud.\n\nEn la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058510199632036131#m",
+      "timestamp": "2026-05-24T11:27:31+00:00",
+      "timestamp_display": "24/05/2026 05:27 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gtz. Zamora - Tihuatlán, km 204. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -420,7 +446,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Tehuacán - Oaxaca, km 89. Registra circulación intermitente en ambos sentidos por atención de derrumbe de Talud. Maneja con precaución. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/aL6kkyRmfvWFhbms8",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Tehuacán - Oaxaca, km 89. Registra circulación intermitente en ambos sentidos por atención de derrumbe de Talud. Maneja con precaución. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/aL6kkyRmfvWFhbms8",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
@@ -509,35 +535,6 @@
       "timestamp": "2026-05-24T04:52:43+00:00",
       "timestamp_display": "23/05/2026 22:52 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058408715363963090#m",
-      "timestamp": "2026-05-24T04:44:15+00:00",
-      "timestamp_display": "23/05/2026 22:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 114, dirección Puebla. Reducción de carriles por atención de accidente fuera de la cobertura de CAPUFE. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058408109056422295#m",
-      "timestamp": "2026-05-24T04:41:51+00:00",
-      "timestamp_display": "23/05/2026 22:41 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
