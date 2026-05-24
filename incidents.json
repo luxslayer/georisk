@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-24T18:39:09.204822",
+  "last_update": "2026-05-24T19:10:47.321820",
   "incidents": [
+    {
+      "title": "#Tomesusprecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del Km 011+000 de la carretera  Libramiento Guadalupe. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 11.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058619215507054943#m",
+      "timestamp": "2026-05-24T18:40:42+00:00",
+      "timestamp_display": "24/05/2026 12:40 CST",
+      "segment": null
+    },
     {
       "title": "#Tomesusprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 121+000 de la carretera Cd. Victoria - Monterrey. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 241+800, de la carretera Maravatío - Zapotlanejo. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": 15,
-      "km": 241.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058376471773667769#m",
-      "timestamp": "2026-05-24T02:36:08+00:00",
-      "timestamp_display": "23/05/2026 20:36 CST",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058623700576985505#m",
+      "timestamp": "2026-05-24T18:58:32+00:00",
+      "timestamp_display": "24/05/2026 12:58 CST",
       "segment": null
     },
     {
@@ -502,32 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058566107858903404#m",
       "timestamp": "2026-05-24T15:09:41+00:00",
       "timestamp_display": "24/05/2026 09:09 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nConducir con tranquilidad también es parte de un buen viaje.\nDisminuir la velocidad ayuda a cuidar de ti y de quienes te acompañan. 🚙💛\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058548572476592241#m",
-      "timestamp": "2026-05-24T14:00:00+00:00",
-      "timestamp_display": "24/05/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Gtz. Zamora - Tihuatlán, km 204. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 204,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058542239932875130#m",
-      "timestamp": "2026-05-24T13:34:50+00:00",
-      "timestamp_display": "24/05/2026 07:34 CST",
       "segment": null
     }
   ]
