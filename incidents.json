@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-24T12:40:00.805911",
+  "last_update": "2026-05-24T13:11:07.600669",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 136+500, de la carretera  Kantunil-Puerto Juárez. Atienda indicación vial.",
@@ -268,6 +268,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Gtz. Zamora - Tihuatlán, km 204. Se restablece la circulación de manera normal. Sin embargo, se continúa con la atención del accidente (choque por alcance), por el momento sin afectación a los carriles de rodamiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 204,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058532204150431782#m",
+      "timestamp": "2026-05-24T12:54:57+00:00",
+      "timestamp_display": "24/05/2026 06:54 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 89. Se informa a las personas usuarias que el incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 89,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058526417483178364#m",
+      "timestamp": "2026-05-24T12:31:58+00:00",
+      "timestamp_display": "24/05/2026 06:31 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Chamapa - Lechería, km 20, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 23.5,
@@ -281,7 +307,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 89. Se informa a las personas usuarias que continúa la circulación intermitente en ambos sentidos por atención de derrumbe de Talud.\n\nEn la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 89. Se informa a las personas usuarias que continúa la circulación intermitente en ambos sentidos por atención de derrumbe de Talud.\n\nEn la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
@@ -508,32 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058416256332529886#m",
       "timestamp": "2026-05-24T05:14:13+00:00",
       "timestamp_display": "23/05/2026 23:14 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 11. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 11,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058411559873913254#m",
-      "timestamp": "2026-05-24T04:55:33+00:00",
-      "timestamp_display": "23/05/2026 22:55 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Salina Cruz - La Ventosa, km 47. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por atención del accidente. \n\nEl personal se encuentra realizando los servicios periciales en el lugar. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 47,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058410844409491734#m",
-      "timestamp": "2026-05-24T04:52:43+00:00",
-      "timestamp_display": "23/05/2026 22:52 CST",
       "segment": null
     }
   ]
