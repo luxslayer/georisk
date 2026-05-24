@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-24T10:49:31.088163",
+  "last_update": "2026-05-24T11:31:37.891030",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Yucatan se registra cierre parcial de circulación por #AccidenteVial cerca del km 136+500, de la carretera  Kantunil-Puerto Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 136.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058508091331633624#m",
+      "timestamp": "2026-05-24T11:19:08+00:00",
+      "timestamp_display": "24/05/2026 05:19 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+000, de la carretera Tepic - Puerto Vallarta. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km 053+500, de la carretera Lázaro Cárdenas – Villa Unión. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Gtz. Zamora - Tihuatlán, km 204. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 53.5,
+      "km": 204,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058322609331224890#m",
-      "timestamp": "2026-05-23T23:02:06+00:00",
-      "timestamp_display": "23/05/2026 17:02 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058508293568373118#m",
+      "timestamp": "2026-05-24T11:19:57+00:00",
+      "timestamp_display": "24/05/2026 05:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Gtz. Zamora - Tihuatlán, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058500888122061260#m",
+      "timestamp": "2026-05-24T10:50:31+00:00",
+      "timestamp_display": "24/05/2026 04:50 CST",
       "segment": null
     },
     {
@@ -512,32 +538,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Cuernavaca - Acapulco, km 99, dirección Cuernavaca. Reducción de carriles por atención de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 99,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058404357272391974#m",
-      "timestamp": "2026-05-24T04:26:56+00:00",
-      "timestamp_display": "23/05/2026 22:26 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 11. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos.\n\nSin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 11,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058403819562672364#m",
-      "timestamp": "2026-05-24T04:24:48+00:00",
-      "timestamp_display": "23/05/2026 22:24 CST",
-      "segment": null
     }
   ]
 }
