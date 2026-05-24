@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-24T19:44:12.208052",
+  "last_update": "2026-05-24T20:13:11.341082",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 004+900 de la carretera Celaya - Ojuelos. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.52,
+      "lng": -100.81,
+      "road": null,
+      "km": 4.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058635957050474746#m",
+      "timestamp": "2026-05-24T19:47:14+00:00",
+      "timestamp_display": "24/05/2026 13:47 CST",
+      "segment": null
+    },
     {
       "title": "#Tomesusprecauciones en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del Km 011+000 de la carretera  Libramiento Guadalupe. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,71 @@
       "segment": null
     },
     {
-      "title": "#Tomesusprecauciones en #Puebla se registra cierre total de la circulación por #Accidentevial cerca del Km 011+000 de la carretera Cuacnopalan - Oaxaca. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠   \n#AutMéxicoCuernavaca, km 42. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 11.0,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058637679282012640#m",
+      "timestamp": "2026-05-24T19:54:05+00:00",
+      "timestamp_display": "24/05/2026 13:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia a la altura del km 38. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 38,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058634885951095020#m",
+      "timestamp": "2026-05-24T19:42:59+00:00",
+      "timestamp_display": "24/05/2026 13:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️   \n#AutMéxicoPuebla, registra #lluvia del km 17 al 33. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058634829332107741#m",
+      "timestamp": "2026-05-24T19:42:45+00:00",
+      "timestamp_display": "24/05/2026 13:42 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque de costado). \n\nEn la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 241,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058391564620070988#m",
-      "timestamp": "2026-05-24T03:36:06+00:00",
-      "timestamp_display": "23/05/2026 21:36 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058634235842269638#m",
+      "timestamp": "2026-05-24T19:40:24+00:00",
+      "timestamp_display": "24/05/2026 13:40 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Continúa reducción de carriles por atención de choque por alcance entre tracto camiones.\n\nEn la zona se registra derrame de diésel y carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/7fW7NsBgqJSSeu8S8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 242,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058633968803529067#m",
+      "timestamp": "2026-05-24T19:39:20+00:00",
+      "timestamp_display": "24/05/2026 13:39 CST",
       "segment": null
     },
     {
@@ -450,71 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058578002137518412#m",
       "timestamp": "2026-05-24T15:56:56+00:00",
       "timestamp_display": "24/05/2026 09:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 173, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 173,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058576167280562204#m",
-      "timestamp": "2026-05-24T15:49:39+00:00",
-      "timestamp_display": "24/05/2026 09:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Puebla - Acatzingo, km 130. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 130,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058573715068043458#m",
-      "timestamp": "2026-05-24T15:39:54+00:00",
-      "timestamp_display": "24/05/2026 09:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058573484855353644#m",
-      "timestamp": "2026-05-24T15:38:59+00:00",
-      "timestamp_display": "24/05/2026 09:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058566651734356470#m",
-      "timestamp": "2026-05-24T15:11:50+00:00",
-      "timestamp_display": "24/05/2026 09:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058566107858903404#m",
-      "timestamp": "2026-05-24T15:09:41+00:00",
-      "timestamp_display": "24/05/2026 09:09 CST",
       "segment": null
     }
   ]
