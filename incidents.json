@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-25T17:14:32.587770",
+  "last_update": "2026-05-25T17:55:01.957019",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 171+800, de la carretera México-Querétaro, con dirección a la Ciudad de México. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 171.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058966809651347961#m",
+      "timestamp": "2026-05-25T17:41:55+00:00",
+      "timestamp_display": "25/05/2026 11:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del km 171+800, de la carretera México-Querétaro, con dirección a la Ciudad de México. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 171.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058966429781651762#m",
+      "timestamp": "2026-05-25T17:40:25+00:00",
+      "timestamp_display": "25/05/2026 11:40 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Sonora se registra cierre parcial de circulación por #Accidentevial cerca del km 2019+000, de la carretera Los Mochis - Cd. Obregón. Atienda indicación vial.",
       "type": "twitter",
@@ -12,6 +38,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2058956501985767611#m",
       "timestamp": "2026-05-25T17:00:58+00:00",
       "timestamp_display": "25/05/2026 11:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chamapa - Lechería, Plaza de Cobro Atizapán. Reducción de carriles en la gaza de salida hacia Atizapán por atención de incidente (incendio de pastizal). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058966136356532278#m",
+      "timestamp": "2026-05-25T17:39:15+00:00",
+      "timestamp_display": "25/05/2026 11:39 CST",
       "segment": null
     },
     {
@@ -268,19 +307,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058917381628456990#m",
       "timestamp": "2026-05-25T14:25:31+00:00",
       "timestamp_display": "25/05/2026 08:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 98 al 97 sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058916204975136984#m",
-      "timestamp": "2026-05-25T14:20:50+00:00",
-      "timestamp_display": "25/05/2026 08:20 CST",
       "segment": null
     }
   ]
