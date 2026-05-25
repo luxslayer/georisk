@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-25T01:21:13.612552",
+  "last_update": "2026-05-25T02:23:23.654373",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del Km 112+000 de la carretera Colima-Tecomán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.912,
+      "lng": -103.874,
+      "road": null,
+      "km": 112.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058723778520117286#m",
+      "timestamp": "2026-05-25T01:36:12+00:00",
+      "timestamp_display": "24/05/2026 19:36 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 185+100 de la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,55 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 094+000, de la carretera Tepic - Puerto Vallarta. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Puente de Ixtla - Iguala, km 28. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. \n\n➡️ Dirección Iguala, por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia la Autopista Zacapalco - Rancho Viejo, a la altura del km 25 (entronque a Zacapalco). \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 21.502,
-      "lng": -104.89,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 94.0,
+      "km": 28,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2058499289798578496#m",
-      "timestamp": "2026-05-24T10:44:10+00:00",
-      "timestamp_display": "24/05/2026 04:44 CST",
+      "url": "https://nitter.net/CAPUFE/status/2058730575658139657#m",
+      "timestamp": "2026-05-25T02:03:13+00:00",
+      "timestamp_display": "24/05/2026 20:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 294, dirección Córdoba. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 294,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058726196473401599#m",
+      "timestamp": "2026-05-25T01:45:49+00:00",
+      "timestamp_display": "24/05/2026 19:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 145, dirección Querétaro. Reducción de carriles por atención de incidente (conato de incendio de tracto camión tipo pipa). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 145,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058725802032734392#m",
+      "timestamp": "2026-05-25T01:44:15+00:00",
+      "timestamp_display": "24/05/2026 19:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 67, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 67,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058721044718866566#m",
+      "timestamp": "2026-05-25T01:25:20+00:00",
+      "timestamp_display": "24/05/2026 19:25 CST",
       "segment": null
     },
     {
@@ -278,7 +330,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puente de Ixtla - Iguala, km 28. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa. \n\nEn la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/sN7k6AkjgPGyZcES9",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puente de Ixtla - Iguala, km 28. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa. \n\nEn la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/sN7k6AkjgPGyZcES9",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -473,58 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2058658523349647819#m",
       "timestamp": "2026-05-24T21:16:54+00:00",
       "timestamp_display": "24/05/2026 15:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción de carriles por atención de accidente (vagoneta siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058657563604906314#m",
-      "timestamp": "2026-05-24T21:13:05+00:00",
-      "timestamp_display": "24/05/2026 15:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). \n\nEn la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 241,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058654151119192318#m",
-      "timestamp": "2026-05-24T20:59:32+00:00",
-      "timestamp_display": "24/05/2026 14:59 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas y labores de limpieza.\n\nEn la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 242,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058653723488854031#m",
-      "timestamp": "2026-05-24T20:57:50+00:00",
-      "timestamp_display": "24/05/2026 14:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058652787605422351#m",
-      "timestamp": "2026-05-24T20:54:07+00:00",
-      "timestamp_display": "24/05/2026 14:54 CST",
       "segment": null
     }
   ]
