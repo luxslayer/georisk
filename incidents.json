@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-25T18:38:42.934485",
+  "last_update": "2026-05-25T19:12:25.922171",
   "incidents": [
+    {
+      "title": "En #Michoacán continúa cierre parcial de circulación por #Maniobras de arrastre y salvamento del km 172+90, de la carretera Uruapan -Lázaro Cárdenas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 172.09,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2058985828043436498#m",
+      "timestamp": "2026-05-25T18:57:30+00:00",
+      "timestamp_display": "25/05/2026 12:57 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Guerrero tras #AccidenteVial cerca del km 029+700, de la carretera Puentes de Ixtla-Iguala. Maneje con precaución.",
       "type": "twitter",
@@ -64,6 +77,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2058956501985767611#m",
       "timestamp": "2026-05-25T17:00:58+00:00",
       "timestamp_display": "25/05/2026 11:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, km 25, dirección Chamapa. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 25,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058984463816613936#m",
+      "timestamp": "2026-05-25T18:52:04+00:00",
+      "timestamp_display": "25/05/2026 12:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 114, dirección Acapulco. Reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 114,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2058983489345552525#m",
+      "timestamp": "2026-05-25T18:48:12+00:00",
+      "timestamp_display": "25/05/2026 12:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 53 al 58. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 53,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2058982466593935762#m",
+      "timestamp": "2026-05-25T18:44:08+00:00",
+      "timestamp_display": "25/05/2026 12:44 CST",
       "segment": null
     },
     {
@@ -295,45 +347,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nTu mejor decisión es respetar los límites.\n👉 Baja la velocidad y disfruta el trayecto con seguridad. 🚗\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2058926061694726643#m",
-      "timestamp": "2026-05-25T15:00:00+00:00",
-      "timestamp_display": "25/05/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Chamapa - Lechería, km 5. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 5,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058922697443233936#m",
-      "timestamp": "2026-05-25T14:46:38+00:00",
-      "timestamp_display": "25/05/2026 08:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 46, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2058921523461673428#m",
-      "timestamp": "2026-05-25T14:41:58+00:00",
-      "timestamp_display": "25/05/2026 08:41 CST",
-      "segment": null
     }
   ]
 }
