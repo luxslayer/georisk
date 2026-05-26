@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-26T18:19:46.615790",
+  "last_update": "2026-05-26T19:18:36.788986",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 178+740, de la carretera Apatzingán - Pátzcuaro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 178.74,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059339018362368084#m",
+      "timestamp": "2026-05-26T18:20:57+00:00",
+      "timestamp_display": "26/05/2026 12:20 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del km 090+800, de la carretera Ent. Santa Cruz-Cananea. Atienda indicación vial.",
       "type": "twitter",
@@ -256,19 +269,6 @@
         "puebla",
         "cordoba"
       ]
-    },
-    {
-      "title": "Arriban a la Loc. de Ranchería Cumuapa, Tab. en el km 147+900, lugar donde pernoctarán, para el día de mañana continuar su marcha.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 147.9,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2059112350435664125#m",
-      "timestamp": "2026-05-26T03:20:15+00:00",
-      "timestamp_display": "25/05/2026 21:20 CST",
-      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 12, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
