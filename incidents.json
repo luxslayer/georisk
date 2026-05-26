@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-26T21:05:16.318633",
+  "last_update": "2026-05-26T21:53:29.912171",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 094+100, de la carretera Cd. Valles -Tampico, con dirección a Villa Cacalilao, Ver. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.997,
+      "lng": -99.01,
+      "road": null,
+      "km": 94.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059388875387068641#m",
+      "timestamp": "2026-05-26T21:39:04+00:00",
+      "timestamp_display": "26/05/2026 15:39 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 039+600, de la carretera Barranca Larga - Ventanilla. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,29 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #BajaCalifornia se registra cierre total de circulación por presencia de personas cerca del km 163+100, de la carretera Ensenada-Lázaro Cárdenas,  a la altura del Ejido Tres Potrillos, sin ruta alterna. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Continúa reducción de carriles por atención del accidente (trasvase de carga). \n\n🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Esperanza, permanece con reducción de carriles en esa dirección.\n\nEn la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 163.1,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059387695001165982#m",
+      "timestamp": "2026-05-26T21:34:22+00:00",
+      "timestamp_display": "26/05/2026 15:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Chapalilla - Compostela, km 16. Circulación en contraflujo por atención de choque de frente y volcadura de vagoneta. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/CiBiNXnSU1NDa4Lp7",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 16,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2059136887747486017#m",
-      "timestamp": "2026-05-26T04:57:45+00:00",
-      "timestamp_display": "25/05/2026 22:57 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059379277112467617#m",
+      "timestamp": "2026-05-26T21:00:55+00:00",
+      "timestamp_display": "26/05/2026 15:00 CST",
       "segment": null
     },
     {
@@ -502,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059316505469243638#m",
       "timestamp": "2026-05-26T16:51:29+00:00",
       "timestamp_display": "26/05/2026 10:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059308716034277872#m",
-      "timestamp": "2026-05-26T16:20:32+00:00",
-      "timestamp_display": "26/05/2026 10:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 80. Concluyen labores de mantenimiento realizadas por CFE. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 80,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059306895773405235#m",
-      "timestamp": "2026-05-26T16:13:18+00:00",
-      "timestamp_display": "26/05/2026 10:13 CST",
       "segment": null
     }
   ]
