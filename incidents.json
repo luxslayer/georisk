@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-26T23:10:00.697370",
+  "last_update": "2026-05-26T23:40:18.571410",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación por #Vehiculoincendiado por falla mecánica cerca del km 176+000, de la autopista Libramiento Norte. Se orienta a la ciudadanía #Rutaalterna  carretera Hidalgo Apan-El Aserradero. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 176.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059413110385991694#m",
+      "timestamp": "2026-05-26T23:15:22+00:00",
+      "timestamp_display": "26/05/2026 17:15 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 085+000, de la carretera Cardel -Poza Rica. Atienda indicación vial.",
       "type": "twitter",
@@ -252,19 +265,32 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 016+900, de la carretera Monclova - Piedras Negras, con dirección al municipio de Allende, Coah. Maneje con precaución.",
+      "title": "🚧  OBRAS Y LABORES DE MANTENIMIENTO  🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 27.019449511922183,
-      "lng": -101.34719213931275,
-      "road": 57,
-      "km": 9.899999999999999,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 194,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059290852476719440#m",
-      "timestamp": "2026-05-26T15:09:33+00:00",
-      "timestamp_display": "26/05/2026 09:09 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059415675416760602#m",
+      "timestamp": "2026-05-26T23:25:33+00:00",
+      "timestamp_display": "26/05/2026 17:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAut. Nuevo Teapa - Cosoleacaque, km 16. Continúa circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059414596318806130#m",
+      "timestamp": "2026-05-26T23:21:16+00:00",
+      "timestamp_display": "26/05/2026 17:21 CST",
       "segment": [
-        "monclova",
-        "piedras negras"
+        "nuevo teapa",
+        "cosoleacaque"
       ]
     },
     {
@@ -511,32 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059371474088013889#m",
       "timestamp": "2026-05-26T20:29:55+00:00",
       "timestamp_display": "26/05/2026 14:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 47, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 47,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059368178036191614#m",
-      "timestamp": "2026-05-26T20:16:49+00:00",
-      "timestamp_display": "26/05/2026 14:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, km 26, dirección Lechería. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 26,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059368005948088794#m",
-      "timestamp": "2026-05-26T20:16:08+00:00",
-      "timestamp_display": "26/05/2026 14:16 CST",
       "segment": null
     }
   ]
