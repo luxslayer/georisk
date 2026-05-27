@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-27T10:09:04.474406",
+  "last_update": "2026-05-27T11:27:11.651499",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 158+500, de la carretera Coatzacoalcos - Villahermosa. Atienda indicación vial.",
@@ -268,6 +268,77 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 295,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2059596930422874175#m",
+      "timestamp": "2026-05-27T11:25:48+00:00",
+      "timestamp_display": "27/05/2026 05:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 168, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 168,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059588633833746443#m",
+      "timestamp": "2026-05-27T10:52:50+00:00",
+      "timestamp_display": "27/05/2026 04:52 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, km 48. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Sin embargo, continúa la carga vehicular intensa en la zona.\n\nUnidades de CAPUFE realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.78185944503198,
+      "lng": -96.4699562751055,
+      "road": 150,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059585273567043706#m",
+      "timestamp": "2026-05-27T10:39:29+00:00",
+      "timestamp_display": "27/05/2026 04:39 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 22, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059584450371952840#m",
+      "timestamp": "2026-05-27T10:36:12+00:00",
+      "timestamp_display": "27/05/2026 04:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 48, dirección Córdoba. Se restablece la circulación de manera normal. Sin embargo, en la zona se registra carga vehicular intensa.\n\nUnidades de CAPUFE realizan operativo de vialidad.\n\n🔘 Dirección Veracruz, continúa la reducción de carriles por la atención del accidente (labores de limpieza).\n \nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.78185944503198,
+      "lng": -96.4699562751055,
+      "road": 150,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059580054598799796#m",
+      "timestamp": "2026-05-27T10:18:44+00:00",
+      "timestamp_display": "27/05/2026 04:18 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Córdoba - Veracruz, km 48, dirección Córdoba. Continúa cierre a la circulación por atención del accidente (trasvase de carga). \n\n🔘 Dirección Veracruz. Se restablece el tránsito vehicular con reducción de carriles.\n \nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 18.78185944503198,
@@ -449,74 +520,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059477535130280287#m",
       "timestamp": "2026-05-27T03:31:22+00:00",
       "timestamp_display": "26/05/2026 21:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 99, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 99,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059476145368662317#m",
-      "timestamp": "2026-05-27T03:25:50+00:00",
-      "timestamp_display": "26/05/2026 21:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Gómez Palacio - Corralitos, registra tolvaneras (remolinos de polvo), a la altura de la Plaza de Cobro Ceballos. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059474972012142960#m",
-      "timestamp": "2026-05-27T03:21:11+00:00",
-      "timestamp_display": "26/05/2026 21:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Córdoba - Veracruz, km 48. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059471954915000410#m",
-      "timestamp": "2026-05-27T03:09:11+00:00",
-      "timestamp_display": "26/05/2026 21:09 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 231,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059467377134248055#m",
-      "timestamp": "2026-05-27T02:51:00+00:00",
-      "timestamp_display": "26/05/2026 20:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 96, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059467003820130616#m",
-      "timestamp": "2026-05-27T02:49:31+00:00",
-      "timestamp_display": "26/05/2026 20:49 CST",
       "segment": null
     }
   ]
