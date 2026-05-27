@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-05-27T16:43:49.266659",
+  "last_update": "2026-05-27T17:48:01.452617",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 042+800, de la carretera Oaxaca-Tehuantepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 42.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059686535696462237#m",
+      "timestamp": "2026-05-27T17:21:51+00:00",
+      "timestamp_display": "27/05/2026 11:21 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 014+500, de la carretera Oaxaca-Puerto Ángel. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 14.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059684903218778487#m",
+      "timestamp": "2026-05-27T17:15:22+00:00",
+      "timestamp_display": "27/05/2026 11:15 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 070+850, de la carretera Lagos de Moreno-Zapotlanejo, con dirección a Tepatitlan, Jal. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": null,
+      "km": 70.85,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059677573534142672#m",
+      "timestamp": "2026-05-27T16:46:15+00:00",
+      "timestamp_display": "27/05/2026 10:46 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del km 182+300, de la carretera Huajuapan de León-Oaxaca, sin rutas alternas. Atienda indicación vial.",
       "type": "twitter",
@@ -226,42 +265,81 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 085+000, de la carretera Cardel -Poza Rica. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 242. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 85.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059409856595984502#m",
-      "timestamp": "2026-05-26T23:02:26+00:00",
-      "timestamp_display": "26/05/2026 17:02 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #BajaCalifornia tras presencia de personas cerca del km 163+100, de la carretera Ensenada-Lázaro Cárdenas. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 163.1,
+      "km": 242,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2059408468465909846#m",
-      "timestamp": "2026-05-26T22:56:55+00:00",
-      "timestamp_display": "26/05/2026 16:56 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059686810335301974#m",
+      "timestamp": "2026-05-27T17:22:57+00:00",
+      "timestamp_display": "27/05/2026 11:22 CST",
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Tabasco tras movimiento de personas, en la carretera Coatzacoalcos-Villahermosa. Maneje con precaución.",
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧             \nAutopista La Carbonera - Puerto México, del km 227 al 230, dirección La Carbonera. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 227,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059685615319331190#m",
+      "timestamp": "2026-05-27T17:18:12+00:00",
+      "timestamp_display": "27/05/2026 11:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Cuernavaca, km 85, dirección CDMX. El accidente en carriles centrales ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 85,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059683914822631700#m",
+      "timestamp": "2026-05-27T17:11:27+00:00",
+      "timestamp_display": "27/05/2026 11:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059682727603962206#m",
+      "timestamp": "2026-05-27T17:06:43+00:00",
+      "timestamp_display": "27/05/2026 11:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoQuerétaro, km 105, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 105,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059679764340690979#m",
+      "timestamp": "2026-05-27T16:54:57+00:00",
+      "timestamp_display": "27/05/2026 10:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco, dirección Cuernavaca. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2059398188537188647#m",
-      "timestamp": "2026-05-26T22:16:04+00:00",
-      "timestamp_display": "26/05/2026 16:16 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059678103291494656#m",
+      "timestamp": "2026-05-27T16:48:21+00:00",
+      "timestamp_display": "27/05/2026 10:48 CST",
       "segment": null
     },
     {
@@ -404,7 +482,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 242. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/SLWg7tbDYfhccCdt5",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 242. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/SLWg7tbDYfhccCdt5",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
@@ -453,61 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059650837232726145#m",
       "timestamp": "2026-05-27T15:00:00+00:00",
       "timestamp_display": "27/05/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 32, dirección Tijuana. Reducción de carriles por atención de incidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 32,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059650084267040969#m",
-      "timestamp": "2026-05-27T14:57:01+00:00",
-      "timestamp_display": "27/05/2026 08:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Plan de Ayala - El Porvenir, km 50, dirección Torreón. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.54,
-      "lng": -103.45,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059643031947485233#m",
-      "timestamp": "2026-05-27T14:28:59+00:00",
-      "timestamp_display": "27/05/2026 08:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧             \nAutopista Córdoba - Veracruz, del km 51 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.783135832439793,
-      "lng": -96.44173987735992,
-      "road": 150,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059638508629708897#m",
-      "timestamp": "2026-05-27T14:11:01+00:00",
-      "timestamp_display": "27/05/2026 08:11 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠  \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059638023537525109#m",
-      "timestamp": "2026-05-27T14:09:05+00:00",
-      "timestamp_display": "27/05/2026 08:09 CST",
       "segment": null
     }
   ]
