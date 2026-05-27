@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-05-27T07:09:09.861848",
+  "last_update": "2026-05-27T08:30:41.294885",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 158+500, de la carretera Coatzacoalcos - Villahermosa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 158.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059540885373665462#m",
+      "timestamp": "2026-05-27T07:43:06+00:00",
+      "timestamp_display": "27/05/2026 01:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+500, de la autopista Tuxtla Gutiérrez - San Cristóbal de Las Casas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 6.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059539906393743398#m",
+      "timestamp": "2026-05-27T07:39:12+00:00",
+      "timestamp_display": "27/05/2026 01:39 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+900, de la carretera  Ramal - Cd. Hidalgo con dirección a Cd Hidalgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 2.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059538874641035312#m",
+      "timestamp": "2026-05-27T07:35:06+00:00",
+      "timestamp_display": "27/05/2026 01:35 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Hidalgo tras #Vehiculoincendiado por falla mecánica cerca del km 176+000, de la autopista Libramiento Norte. Maneje con precaución.",
       "type": "twitter",
@@ -229,43 +268,20 @@
       ]
     },
     {
-      "title": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 094+100, de la carretera Cd. Valles -Tampico, con dirección a Villa Cacalilao, Ver. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Córdoba - Veracruz, km 48, dirección Córdoba. Continúa cierre a la circulación por atención del accidente (trasvase de carga). \n\n🔘 Dirección Veracruz. Se restablece el tránsito vehicular con reducción de carriles.\n \nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
-      "lat": 21.997,
-      "lng": -99.01,
-      "road": null,
-      "km": 94.1,
+      "lat": 18.78185944503198,
+      "lng": -96.4699562751055,
+      "road": 150,
+      "km": 48,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059388875387068641#m",
-      "timestamp": "2026-05-26T21:39:04+00:00",
-      "timestamp_display": "26/05/2026 15:39 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 039+600, de la carretera Barranca Larga - Ventanilla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 39.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059376890922647830#m",
-      "timestamp": "2026-05-26T20:51:26+00:00",
-      "timestamp_display": "26/05/2026 14:51 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 178+740, de la carretera Apatzingán - Pátzcuaro. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 178.74,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059339018362368084#m",
-      "timestamp": "2026-05-26T18:20:57+00:00",
-      "timestamp_display": "26/05/2026 12:20 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2059541482915221790#m",
+      "timestamp": "2026-05-27T07:45:28+00:00",
+      "timestamp_display": "27/05/2026 01:45 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 22, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
@@ -498,19 +514,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059454930969076002#m",
       "timestamp": "2026-05-27T02:01:33+00:00",
       "timestamp_display": "26/05/2026 20:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. \n\nSin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 231,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059454707047768436#m",
-      "timestamp": "2026-05-27T02:00:39+00:00",
-      "timestamp_display": "26/05/2026 20:00 CST",
       "segment": null
     }
   ]
