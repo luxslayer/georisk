@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-27T19:43:36.062294",
+  "last_update": "2026-05-27T20:31:36.701821",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+500, de la carretera Ent. La Tinaja-Santa Cruz, con dirección a La Tinaja, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 19.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059724204908363864#m",
+      "timestamp": "2026-05-27T19:51:32+00:00",
+      "timestamp_display": "27/05/2026 13:51 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación en ambos sentidos por #AccidenteVial cerca del km 208+700, de la carretera Puebla-Córdoba. Atienda indicación vial.",
       "type": "twitter",
@@ -258,16 +271,29 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en el #AeropuertodeOaxaca tras presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAutopista Acatzingo - Cd. Mendoza, km 208. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa. \n\nEn la zona se registra derrame de combustible.\n\nConsultar la ruta alterna aquí:\nhttps://maps.app.goo.gl/Wn3aSK6rM8CsFCULA\n\nLa carretera libre no es operada por CAPUFE. Para más información de la vía alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 0.3,
+      "km": 208,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2059461886261842326#m",
-      "timestamp": "2026-05-27T02:29:11+00:00",
-      "timestamp_display": "26/05/2026 20:29 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059720018854547778#m",
+      "timestamp": "2026-05-27T19:34:54+00:00",
+      "timestamp_display": "27/05/2026 13:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2059719743406317801#m",
+      "timestamp": "2026-05-27T19:33:49+00:00",
+      "timestamp_display": "27/05/2026 13:33 CST",
       "segment": null
     },
     {
@@ -281,19 +307,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059716169997631661#m",
       "timestamp": "2026-05-27T19:19:37+00:00",
       "timestamp_display": "27/05/2026 13:19 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAutopista Acatzingo - Cd. Mendoza, km 208. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa. \n\nEn la zona se registra derrame de combustible.\n\nConsultar la ruta alterna aquí:\nhttps://maps.app.goo.gl/GFqpSSQ2thzXDAHp9\n\nLa carretera libre no es operada por CAPUFE. Para más información de la vía alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 208,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059715298459025893#m",
-      "timestamp": "2026-05-27T19:16:09+00:00",
-      "timestamp_display": "27/05/2026 13:16 CST",
       "segment": null
     },
     {
@@ -521,19 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059666487825051832#m",
       "timestamp": "2026-05-27T16:02:12+00:00",
       "timestamp_display": "27/05/2026 10:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🚑🛣️ En autopistas #CAPUFE, nuestros servicios son gratuitos.\nNo te dejes engañar.\nSi alguien solicita dinero por brindarte apoyo, repórtalo de inmediato.\n📞 800 990 2900 📩 quejas@capufe.gob.mx\n#EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059665943954116879#m",
-      "timestamp": "2026-05-27T16:00:02+00:00",
-      "timestamp_display": "27/05/2026 10:00 CST",
       "segment": null
     }
   ]
