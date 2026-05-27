@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-27T11:27:11.651499",
+  "last_update": "2026-05-27T12:37:44.699942",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 158+500, de la carretera Coatzacoalcos - Villahermosa. Atienda indicación vial.",
@@ -266,6 +266,19 @@
         "monclova",
         "piedras negras"
       ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 168, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 168,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059605737546949090#m",
+      "timestamp": "2026-05-27T12:00:48+00:00",
+      "timestamp_display": "27/05/2026 06:00 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 295, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
