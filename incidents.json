@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-28T06:30:17.426098",
+  "last_update": "2026-05-28T08:07:35.517706",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Zacatecas tras #AccidenteVial cerca del km 057+000, la carretera Libramiento Guadalupe, con dirección a Zacatecas. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 57.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059901491914170699#m",
+      "timestamp": "2026-05-28T07:36:01+00:00",
+      "timestamp_display": "28/05/2026 01:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 123+100, la carretera Atlacomulco-Maravatío, con dirección a Atlacomulco. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": 123.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059900935862690012#m",
+      "timestamp": "2026-05-28T07:33:48+00:00",
+      "timestamp_display": "28/05/2026 01:33 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 071+500, de la carretera Fortín-Cornejos. Atienda indicación vial.",
       "type": "twitter",
@@ -245,32 +271,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 103+300, de la carretera México-Puebla, con dirección a Puebla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 24, dirección San Luis Potosí. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.205510741495647,
-      "lng": -98.34503349680087,
-      "road": 150,
-      "km": 85.3,
+      "lat": 20.772575730421593,
+      "lng": -100.45014438375466,
+      "road": 57,
+      "km": 24,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059779384450470111#m",
-      "timestamp": "2026-05-27T23:30:48+00:00",
-      "timestamp_display": "27/05/2026 17:30 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059901944701796670#m",
+      "timestamp": "2026-05-28T07:37:49+00:00",
+      "timestamp_display": "28/05/2026 01:37 CST",
       "segment": [
-        "mexico",
-        "puebla"
+        "queretaro",
+        "san luis potosi"
       ]
     },
     {
-      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 042+800, de la carretera Oaxaca-Tehuantepec. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuacnopalan - Oaxaca, km 232, dirección Cuacnopalan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 42.8,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059889179157319925#m",
+      "timestamp": "2026-05-28T06:47:05+00:00",
+      "timestamp_display": "28/05/2026 00:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 19,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2059778403650220087#m",
-      "timestamp": "2026-05-27T23:26:54+00:00",
-      "timestamp_display": "27/05/2026 17:26 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059886718782763025#m",
+      "timestamp": "2026-05-28T06:37:19+00:00",
+      "timestamp_display": "28/05/2026 00:37 CST",
       "segment": null
     },
     {
@@ -492,45 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059840934108369321#m",
       "timestamp": "2026-05-28T03:35:23+00:00",
       "timestamp_display": "27/05/2026 21:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 81, dirección Ensenada. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 81,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059838819763917042#m",
-      "timestamp": "2026-05-28T03:26:59+00:00",
-      "timestamp_display": "27/05/2026 21:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059834298337796307#m",
-      "timestamp": "2026-05-28T03:09:01+00:00",
-      "timestamp_display": "27/05/2026 21:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 26, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 26,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059832423626736125#m",
-      "timestamp": "2026-05-28T03:01:34+00:00",
-      "timestamp_display": "27/05/2026 21:01 CST",
       "segment": null
     }
   ]
