@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-05-27T23:30:55.704546",
+  "last_update": "2026-05-28T00:07:36.187096",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 086+800, de la carretera Ent. La Tinaja-Cosoleacaque. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 86.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059780548927586788#m",
+      "timestamp": "2026-05-27T23:35:26+00:00",
+      "timestamp_display": "27/05/2026 17:35 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 103+300, de la carretera México-Puebla, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.205510741495647,
+      "lng": -98.34503349680087,
+      "road": 150,
+      "km": 85.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059779384450470111#m",
+      "timestamp": "2026-05-27T23:30:48+00:00",
+      "timestamp_display": "27/05/2026 17:30 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 042+800, de la carretera Oaxaca-Tehuantepec. Maneje con precaución.",
       "type": "twitter",
@@ -248,32 +277,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+200, de la carretera Nuevo Laredo-Ent. (Monclova-Piedras Negras). Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 26.9583481,
-      "lng": -101.4092046,
-      "road": 57,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059703048004309023#m",
-      "timestamp": "2026-05-27T18:27:28+00:00",
-      "timestamp_display": "27/05/2026 12:27 CST",
-      "segment": [
-        "monclova",
-        "piedras negras"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Yucatán se registra cierre total de circulación por presencia de personas cerca del km 042+800, de la carretera Mérida-Celestún, a la altura del municipio de Celestún, Yuc. Atienda indicación vial.",
+      "title": "🚑 En autopista, recibir ayuda a tiempo puede hacer la diferencia.\nEn #CAPUFE contamos con personas capacitadas para apoyarte ante cualquier emergencia.\n📞 074 | X @CAPUFE\n#EnCAPUFEEstamosParaServirte",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 42.8,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2059699844382364029#m",
-      "timestamp": "2026-05-27T18:14:44+00:00",
-      "timestamp_display": "27/05/2026 12:14 CST",
+      "url": "https://nitter.net/CAPUFE/status/2059786735564009557#m",
+      "timestamp": "2026-05-28T00:00:01+00:00",
+      "timestamp_display": "27/05/2026 18:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \n#AutMéxicoCuernavaca, km 25, dirección CDMX. Reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 25,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059783968933699625#m",
+      "timestamp": "2026-05-27T23:49:01+00:00",
+      "timestamp_display": "27/05/2026 17:49 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAutopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de volcadura de tracto camión tipo pipa. \n\nEn el lugar se registra derrame de combustible.\n\n🔘 Dirección Cd. Mendoza, continúa reducción de carriles y carga vehicular en la zona.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 208,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2059780676660961498#m",
+      "timestamp": "2026-05-27T23:35:56+00:00",
+      "timestamp_display": "27/05/2026 17:35 CST",
       "segment": null
     },
     {
@@ -502,45 +541,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 57, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance múltiple).\n\nEn la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 57,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059752310905995591#m",
-      "timestamp": "2026-05-27T21:43:13+00:00",
-      "timestamp_display": "27/05/2026 15:43 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tehuacán - Oaxaca, km 242. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 242,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059751172265635851#m",
-      "timestamp": "2026-05-27T21:38:42+00:00",
-      "timestamp_display": "27/05/2026 15:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Magdalena - Nogales, km 212, dirección Nogales. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 212,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059749674974617608#m",
-      "timestamp": "2026-05-27T21:32:45+00:00",
-      "timestamp_display": "27/05/2026 15:32 CST",
-      "segment": null
     }
   ]
 }
