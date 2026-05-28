@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-28T22:21:02.580694",
+  "last_update": "2026-05-28T22:58:37.168053",
   "incidents": [
     {
       "title": "#ViaLibre en #Tamaulipas tras #AccidenteVial cerca del km 007+700, de la carretera Nuevo Laredo - Ent. Maneje con precaución.",
@@ -277,6 +277,84 @@
       "segment": null
     },
     {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧\nLibramiento Noreste de Querétaro (Chichimequillas), km 36, dirección CDMX. Registra reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 36,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060131367136940501#m",
+      "timestamp": "2026-05-28T22:49:27+00:00",
+      "timestamp_display": "28/05/2026 16:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 19 al 48. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060129867316781240#m",
+      "timestamp": "2026-05-28T22:43:30+00:00",
+      "timestamp_display": "28/05/2026 16:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠  CARGA VEHICULAR  🟠     \n#AutMéxicoQuerétaro, km 42, dirección Querétaro. Continúa carga vehicular a la altura de la salida al poblado de Teoloyucan (zona industrial). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060128254552330545#m",
+      "timestamp": "2026-05-28T22:37:05+00:00",
+      "timestamp_display": "28/05/2026 16:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060127372507058340#m",
+      "timestamp": "2026-05-28T22:33:35+00:00",
+      "timestamp_display": "28/05/2026 16:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Las Choapas - Ocozocoautla, km 139. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 139,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060126447000334429#m",
+      "timestamp": "2026-05-28T22:29:54+00:00",
+      "timestamp_display": "28/05/2026 16:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Acatzingo - Cd. Mendoza, km 234, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 234,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060123124469743901#m",
+      "timestamp": "2026-05-28T22:16:42+00:00",
+      "timestamp_display": "28/05/2026 16:16 CST",
+      "segment": null
+    },
+    {
       "title": "🚧  OBRAS Y LABORES DE MANTENIMIENTO  🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -446,84 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060097413277233433#m",
       "timestamp": "2026-05-28T20:34:32+00:00",
       "timestamp_display": "28/05/2026 14:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Cd. Mendoza - Córdoba, km 298, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 298,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060096763504062920#m",
-      "timestamp": "2026-05-28T20:31:57+00:00",
-      "timestamp_display": "28/05/2026 14:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ \nAutopista La Pera - Cuautla, registra #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060095897980084364#m",
-      "timestamp": "2026-05-28T20:28:31+00:00",
-      "timestamp_display": "28/05/2026 14:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060095387197735315#m",
-      "timestamp": "2026-05-28T20:26:29+00:00",
-      "timestamp_display": "28/05/2026 14:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠     \n#AutMéxicoQuerétaro, km 42, dirección Querétaro. Continúa carga vehicular a la altura de la salida al poblado de Teoloyucan (zona industrial). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 42,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060094932233175044#m",
-      "timestamp": "2026-05-28T20:24:41+00:00",
-      "timestamp_display": "28/05/2026 14:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 79, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 79,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060093361395052932#m",
-      "timestamp": "2026-05-28T20:18:26+00:00",
-      "timestamp_display": "28/05/2026 14:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060089388063732116#m",
-      "timestamp": "2026-05-28T20:02:39+00:00",
-      "timestamp_display": "28/05/2026 14:02 CST",
       "segment": null
     }
   ]
