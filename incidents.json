@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-28T18:57:28.307613",
+  "last_update": "2026-05-28T19:52:18.735271",
   "incidents": [
     {
       "title": "#ViaLibre en #NuevoLeón tras #AccidenteVial cerca del km 116+900, de la carretera Matehuala – Saltillo. Maneje con precaución.",
@@ -277,6 +277,71 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060081189587718357#m",
+      "timestamp": "2026-05-28T19:30:04+00:00",
+      "timestamp_display": "28/05/2026 13:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠     \nAutopista Isla - Acayucan, km 139, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 139,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060079918457790576#m",
+      "timestamp": "2026-05-28T19:25:01+00:00",
+      "timestamp_display": "28/05/2026 13:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 287, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 287,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060079493495107979#m",
+      "timestamp": "2026-05-28T19:23:20+00:00",
+      "timestamp_display": "28/05/2026 13:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 38, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y automóvil). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 38,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060079174946009246#m",
+      "timestamp": "2026-05-28T19:22:04+00:00",
+      "timestamp_display": "28/05/2026 13:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Las Choapas - Ocozocoautla, km 139. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque de frente entre tracto camión y motocicleta). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 139,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060076235745603863#m",
+      "timestamp": "2026-05-28T19:10:23+00:00",
+      "timestamp_display": "28/05/2026 13:10 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 82, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -472,74 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060041094633525271#m",
       "timestamp": "2026-05-28T16:50:45+00:00",
       "timestamp_display": "28/05/2026 10:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 58, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 58,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060040479681532147#m",
-      "timestamp": "2026-05-28T16:48:18+00:00",
-      "timestamp_display": "28/05/2026 10:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 98, dirección Ensenada. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060039431562711233#m",
-      "timestamp": "2026-05-28T16:44:08+00:00",
-      "timestamp_display": "28/05/2026 10:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \n#AutMéxicoPuebla, km 95, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.25595540149896,
-      "lng": -98.40269957715061,
-      "road": 150,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060031158201512411#m",
-      "timestamp": "2026-05-28T16:11:16+00:00",
-      "timestamp_display": "28/05/2026 10:11 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 58, dirección Cuernavaca. El accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. \n\nUnidades de CAPUFE realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 58,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060030456758726922#m",
-      "timestamp": "2026-05-28T16:08:29+00:00",
-      "timestamp_display": "28/05/2026 10:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 58, dirección Cuernavaca. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Sin embargo, en la zona se registra carga vehicular. \n\nUnidades de CAPUFE realizan operativo de vialidad.  \n\nAtiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 58,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060027312284770698#m",
-      "timestamp": "2026-05-28T15:55:59+00:00",
-      "timestamp_display": "28/05/2026 09:55 CST",
       "segment": null
     }
   ]
