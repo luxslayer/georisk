@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-05-28T11:02:01.288685",
+  "last_update": "2026-05-28T12:25:11.745453",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 008+500, de la carretera Toluca-Palmillas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": 8.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059962608069853427#m",
+      "timestamp": "2026-05-28T11:38:52+00:00",
+      "timestamp_display": "28/05/2026 05:38 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial  de circulación por #AccidenteVial cerca del km 024+360, de la autopista México-Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.315826327776836,
+      "lng": -98.94935720590907,
+      "road": 150,
+      "km": 6.359999999999999,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059962094435332580#m",
+      "timestamp": "2026-05-28T11:36:50+00:00",
+      "timestamp_display": "28/05/2026 05:36 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#VíaLibre en #Zacatecas tras #AccidenteVial cerca del km 057+000, la carretera Libramiento Guadalupe, con dirección a Zacatecas. Maneje con precaución.",
       "type": "twitter",
@@ -242,32 +271,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2059795947857625298#m",
       "timestamp": "2026-05-28T00:36:37+00:00",
       "timestamp_display": "27/05/2026 18:36 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Coahuila tras #AccidenteVial cerca del km 011+500, de la carretera Libramiento Norponiente de Saltillo, con dirección a Saltillo. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": 11.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059792733947015652#m",
-      "timestamp": "2026-05-28T00:23:51+00:00",
-      "timestamp_display": "27/05/2026 18:23 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 086+800, de la carretera Ent. La Tinaja-Cosoleacaque. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 86.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2059780548927586788#m",
-      "timestamp": "2026-05-27T23:35:26+00:00",
-      "timestamp_display": "27/05/2026 17:35 CST",
       "segment": null
     },
     {
