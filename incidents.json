@@ -1,6 +1,294 @@
 {
-  "last_update": "2026-05-28T01:11:59.116613",
+  "last_update": "2026-05-28T01:59:38.142609",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 123+200, de la carretera Chihuahua-Ciudad Juárez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.6776,
+      "lng": -106.4304,
+      "road": 45,
+      "km": 123.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059812390087110955#m",
+      "timestamp": "2026-05-28T01:41:57+00:00",
+      "timestamp_display": "27/05/2026 19:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Puebla tras #Maniobras de arrastre y salvamento cerca del km 208+700, de la carretera Puebla-Córdoba. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.830295394995222,
+      "lng": -97.46625076109463,
+      "road": 150,
+      "km": 99.69999999999999,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059808036382769203#m",
+      "timestamp": "2026-05-28T01:24:39+00:00",
+      "timestamp_display": "27/05/2026 19:24 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 113+800, de la carretera Pachuca-Tuxpan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.575699999999998,
+      "lng": -98.46815000000001,
+      "road": 130,
+      "km": 113.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059795947857625298#m",
+      "timestamp": "2026-05-28T00:36:37+00:00",
+      "timestamp_display": "27/05/2026 18:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Coahuila tras #AccidenteVial cerca del km 011+500, de la carretera Libramiento Norponiente de Saltillo, con dirección a Saltillo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 11.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059792733947015652#m",
+      "timestamp": "2026-05-28T00:23:51+00:00",
+      "timestamp_display": "27/05/2026 18:23 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 086+800, de la carretera Ent. La Tinaja-Cosoleacaque. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 86.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059780548927586788#m",
+      "timestamp": "2026-05-27T23:35:26+00:00",
+      "timestamp_display": "27/05/2026 17:35 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 103+300, de la carretera México-Puebla, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.205510741495647,
+      "lng": -98.34503349680087,
+      "road": 150,
+      "km": 85.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059779384450470111#m",
+      "timestamp": "2026-05-27T23:30:48+00:00",
+      "timestamp_display": "27/05/2026 17:30 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 042+800, de la carretera Oaxaca-Tehuantepec. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 42.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059778403650220087#m",
+      "timestamp": "2026-05-27T23:26:54+00:00",
+      "timestamp_display": "27/05/2026 17:26 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Puebla continúa cierre parcial de circulación por #Maniobras de arrastre y salvamento cerca del km 208+700, de la carretera Puebla-Córdoba, habilitándose un carril de circulación con dirección a Orizaba, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.830295394995222,
+      "lng": -97.46625076109463,
+      "road": 150,
+      "km": 99.69999999999999,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059773383747764535#m",
+      "timestamp": "2026-05-27T23:06:58+00:00",
+      "timestamp_display": "27/05/2026 17:06 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Coahuila se registra cierre total de circulación por #AccidenteVial cerca del km 011+500, de la carretera Libramiento Norponiente de Saltillo, con dirección a Saltillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 11.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059765803122126980#m",
+      "timestamp": "2026-05-27T22:36:50+00:00",
+      "timestamp_display": "27/05/2026 16:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Puebla tras personas cerca del km 089+000, de la carretera México-Puebla, con dirección a Puebla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059760389013807148#m",
+      "timestamp": "2026-05-27T22:15:19+00:00",
+      "timestamp_display": "27/05/2026 16:15 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 182+300, de la carretera Huajuapan de León-Oaxaca, sin rutas alternas. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 182.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059759144228245581#m",
+      "timestamp": "2026-05-27T22:10:23+00:00",
+      "timestamp_display": "27/05/2026 16:10 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 203+000, de la carretera Tuxtepec-Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 203.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059756942591918083#m",
+      "timestamp": "2026-05-27T22:01:38+00:00",
+      "timestamp_display": "27/05/2026 16:01 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 014+500, de la carretera Oaxaca-Puerto Ángel. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 14.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059755899481129400#m",
+      "timestamp": "2026-05-27T21:57:29+00:00",
+      "timestamp_display": "27/05/2026 15:57 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 203+000, de la carretera Tuxtepec-Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 203.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059739444060496233#m",
+      "timestamp": "2026-05-27T20:52:06+00:00",
+      "timestamp_display": "27/05/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación por presencia de personas cerca del km 089+000, de la carretera México-Puebla, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059737067920220230#m",
+      "timestamp": "2026-05-27T20:42:39+00:00",
+      "timestamp_display": "27/05/2026 14:42 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#VíaLibre en #Chiapas tras #AccidenteVial cerca del km 008+600, de la carretera Libramiento de Ocozocoautla, con dirección Ocozocoautla, Chis. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 8.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059736619771470001#m",
+      "timestamp": "2026-05-27T20:40:52+00:00",
+      "timestamp_display": "27/05/2026 14:40 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 042+800, de la carretera Oaxaca-Tehuantepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 42.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059735549485703480#m",
+      "timestamp": "2026-05-27T20:36:37+00:00",
+      "timestamp_display": "27/05/2026 14:36 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Oaxaca continúa cierre total de circulación por presencia de personas cerca del km 014+500, de la carretera Oaxaca-Puerto Ángel. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 14.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059735113500426347#m",
+      "timestamp": "2026-05-27T20:34:53+00:00",
+      "timestamp_display": "27/05/2026 14:34 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Yucatán tras presencia de personas cerca del km 042+800, de la carretera Mérida-Celestún, a la altura del municipio de Celestún, Yuc. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 42.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2059733966790250862#m",
+      "timestamp": "2026-05-27T20:30:20+00:00",
+      "timestamp_display": "27/05/2026 14:30 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+500, de la carretera Ent. La Tinaja-Santa Cruz, con dirección a La Tinaja, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 19.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2059724204908363864#m",
+      "timestamp": "2026-05-27T19:51:32+00:00",
+      "timestamp_display": "27/05/2026 13:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2059808475413090702#m",
+      "timestamp": "2026-05-28T01:26:24+00:00",
+      "timestamp_display": "27/05/2026 19:26 CST",
+      "segment": null
+    },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 26, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
@@ -38,6 +326,32 @@
       "url": "https://nitter.net/CAPUFE/status/2059799789613494654#m",
       "timestamp": "2026-05-28T00:51:53+00:00",
       "timestamp_display": "27/05/2026 18:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 208. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa. \n\nEn la zona se registra derrame de combustible. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/znXyAtSueA7Hp8yFA",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 208,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2059710777875988659#m",
+      "timestamp": "2026-05-27T18:58:11+00:00",
+      "timestamp_display": "27/05/2026 12:58 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. Se informa a las personas usuarias que continúa el cierre a la circulación por maniobras de grúa para el retiro de tracto camión tipo pipa siniestrado.\n\n🔘 Dirección Cd. Mendoza, continúa reducción de carriles y carga vehicular en la zona.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 208,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2059789326129533131#m",
+      "timestamp": "2026-05-28T00:10:19+00:00",
+      "timestamp_display": "27/05/2026 18:10 CST",
       "segment": null
     },
     {
@@ -80,19 +394,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. Se informa a las personas usuarias que continúa el cierre a la circulación por maniobras de grúa para el retiro de tracto camión tipo pipa siniestrado.\n\n🔘 Dirección Cd. Mendoza, continúa reducción de carriles y carga vehicular en la zona.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 208,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059789326129533131#m",
-      "timestamp": "2026-05-28T00:10:19+00:00",
-      "timestamp_display": "27/05/2026 18:10 CST",
-      "segment": null
-    },
-    {
       "title": "🚑 En autopista, recibir ayuda a tiempo puede hacer la diferencia.\nEn #CAPUFE contamos con personas capacitadas para apoyarte ante cualquier emergencia.\n📞 074 | X @CAPUFE\n#EnCAPUFEEstamosParaServirte",
       "type": "twitter",
       "lat": 23.5,
@@ -116,19 +417,6 @@
       "url": "https://nitter.net/CAPUFE/status/2059783968933699625#m",
       "timestamp": "2026-05-27T23:49:01+00:00",
       "timestamp_display": "27/05/2026 17:49 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Acatzingo - Cd. Mendoza, km 208, dirección Acatzingo. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de volcadura de tracto camión tipo pipa. \n\nEn el lugar se registra derrame de combustible.\n\n🔘 Dirección Cd. Mendoza, continúa reducción de carriles y carga vehicular en la zona.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 208,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2059780676660961498#m",
-      "timestamp": "2026-05-27T23:35:56+00:00",
-      "timestamp_display": "27/05/2026 17:35 CST",
       "segment": null
     },
     {
@@ -236,6 +524,38 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n #AutMéxicoPuebla, km 89, dirección Puebla. Cierre a la circulación por presencia de manifestantes a la altura del Poblado de San Martín Texmelucan. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/x6rFBsFtFSf23eBB6",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2059741075263103368#m",
+      "timestamp": "2026-05-27T20:58:35+00:00",
+      "timestamp_display": "27/05/2026 14:58 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoPuebla, km 89, dirección Puebla. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación.\n\nEn la zona se registra carga vehicular. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2059753698662719678#m",
+      "timestamp": "2026-05-27T21:48:44+00:00",
+      "timestamp_display": "27/05/2026 15:48 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\n#AutMéxicoPuebla, km 89, dirección Puebla. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.282409700124656,
@@ -250,19 +570,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 26, dirección Isla. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 26,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2059765626768400842#m",
-      "timestamp": "2026-05-27T22:36:08+00:00",
-      "timestamp_display": "27/05/2026 16:36 CST",
-      "segment": null
     }
   ]
 }
