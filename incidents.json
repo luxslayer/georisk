@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-30T20:37:49.147727",
+  "last_update": "2026-05-30T21:08:48.018530",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación por #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 137.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2060828247537946933#m",
+      "timestamp": "2026-05-30T20:58:37+00:00",
+      "timestamp_display": "30/05/2026 14:58 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 262+100, de la carretera Pachuca - Tuxpan, con dirección a Tuxpan, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.54,
+      "lng": -98.07,
+      "road": 130,
+      "km": 262.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2060826889334219065#m",
+      "timestamp": "2026-05-30T20:53:13+00:00",
+      "timestamp_display": "30/05/2026 14:53 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación por #AccidenteVíal cerca del km 093+000, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Querétaro. Atienda indicación vial.",
       "type": "twitter",
@@ -239,32 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2060556881752461410#m",
       "timestamp": "2026-05-30T03:00:18+00:00",
       "timestamp_display": "29/05/2026 21:00 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre total por presencia de personas, cerca del km 189+430, de la carretera  Pachuca-Tuxpan,  a la altura de la Loc. Zacate Colorado, sin ruta alterna. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.54,
-      "lng": -98.07,
-      "road": 130,
-      "km": 189.43,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2060555663244153202#m",
-      "timestamp": "2026-05-30T02:55:28+00:00",
-      "timestamp_display": "29/05/2026 20:55 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Veracruz tras cierre total de circulación por #AccidenteVial cerca del km 104+500, de la carretera  ent. La tinaja-Cosoleacaque. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 104.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2060550301950570725#m",
-      "timestamp": "2026-05-30T02:34:09+00:00",
-      "timestamp_display": "29/05/2026 20:34 CST",
       "segment": null
     },
     {
