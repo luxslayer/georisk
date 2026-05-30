@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-30T21:36:34.920864",
+  "last_update": "2026-05-30T22:07:56.334780",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVíal cerca del km 366+200, de la carretera Maravatío - Zapotlanejo, con dirección a Morelia. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.134999999999998,
+      "lng": -102.215,
+      "road": 15,
+      "km": 366.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2060843920175587385#m",
+      "timestamp": "2026-05-30T22:00:53+00:00",
+      "timestamp_display": "30/05/2026 16:00 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras presencia de personas cerca del km 262+100, de la carretera Pachuca - Tuxpan, con dirección a Tuxpan, Ver. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.54,
+      "lng": -98.07,
+      "road": 130,
+      "km": 262.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2060838439604658260#m",
+      "timestamp": "2026-05-30T21:39:07+00:00",
+      "timestamp_display": "30/05/2026 15:39 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación por #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Atienda indicación vial.",
       "type": "twitter",
@@ -242,29 +268,42 @@
       "segment": null
     },
     {
-      "title": "En #Oaxaca se retiran las personas que se encontraban en el km 019+000, de la carretera Oaxaca-Tehuantepec,  a la altura de la TAD Pemex, Mpio. Santa María del Tule. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Continúa carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 19.0,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2060557447903826080#m",
-      "timestamp": "2026-05-30T03:02:33+00:00",
-      "timestamp_display": "29/05/2026 21:02 CST",
+      "url": "https://nitter.net/CAPUFE/status/2060839197154410638#m",
+      "timestamp": "2026-05-30T21:42:07+00:00",
+      "timestamp_display": "30/05/2026 15:42 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecaución en #Chiapas se registra #Movimiento de personas de la Caravana Dios Bendice, cerca del km 217+000 de la carretera Tapanatepec-Talismán con ramales a Unión Juárez y Cd. Hidalgo, avanzan con dirección a Arriaga, Chis. Atienda Indicación Vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, Plaza de Cobro Atizapán. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.3708,
-      "lng": -94.1936,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 217.0,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2060556881752461410#m",
-      "timestamp": "2026-05-30T03:00:18+00:00",
-      "timestamp_display": "29/05/2026 21:00 CST",
+      "url": "https://nitter.net/CAPUFE/status/2060838742240174492#m",
+      "timestamp": "2026-05-30T21:40:19+00:00",
+      "timestamp_display": "30/05/2026 15:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 288,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060837854977175774#m",
+      "timestamp": "2026-05-30T21:36:47+00:00",
+      "timestamp_display": "30/05/2026 15:36 CST",
       "segment": null
     },
     {
@@ -495,45 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060788391222894617#m",
       "timestamp": "2026-05-30T18:20:14+00:00",
       "timestamp_display": "30/05/2026 12:20 CST",
-      "segment": null
-    },
-    {
-      "title": "Una falla puede ocurrir en cualquier momento, pero tu tranquilidad es lo más importante. 🚗\nEstamos para acompañarte y brindarte apoyo en el camino.\n📞 074 | X @CAPUFE\n*Aplica en tramos operados por el organismo.\n#EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060783297798758402#m",
-      "timestamp": "2026-05-30T18:00:00+00:00",
-      "timestamp_display": "30/05/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que se restablece la circulación de manera intermitente. El personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 104,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060780773725339856#m",
-      "timestamp": "2026-05-30T17:49:58+00:00",
-      "timestamp_display": "30/05/2026 11:49 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que se registra cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 104,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060779732757536929#m",
-      "timestamp": "2026-05-30T17:45:50+00:00",
-      "timestamp_display": "30/05/2026 11:45 CST",
       "segment": null
     }
   ]
