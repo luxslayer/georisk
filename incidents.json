@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-30T17:09:50.037240",
+  "last_update": "2026-05-30T17:37:47.619377",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVíal cerca del km 036+000, de la carretera Zihuatanejo -La Mira . Atienda indicación vial.",
@@ -268,6 +268,35 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento.\n\nSin embargo, en la zona se registra circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. \n\nAtiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060775367871213599#m",
+      "timestamp": "2026-05-30T17:28:29+00:00",
+      "timestamp_display": "30/05/2026 11:28 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 124. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada y trasvase de carga).\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 124,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060772436111413712#m",
+      "timestamp": "2026-05-30T17:16:50+00:00",
+      "timestamp_display": "30/05/2026 11:16 CST",
+      "segment": null
+    },
+    {
       "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAutopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que continúa la reducción de carriles. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.7603,
@@ -278,6 +307,19 @@
       "url": "https://nitter.net/CAPUFE/status/2060769534403879020#m",
       "timestamp": "2026-05-30T17:05:18+00:00",
       "timestamp_display": "30/05/2026 11:05 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que continúa la reducción de carriles. El personal se encuentra realizando las labores de atención del accidente.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 104,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060745500098228232#m",
+      "timestamp": "2026-05-30T15:29:48+00:00",
+      "timestamp_display": "30/05/2026 09:29 CST",
       "segment": null
     },
     {
@@ -375,19 +417,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060747365787541993#m",
       "timestamp": "2026-05-30T15:37:13+00:00",
       "timestamp_display": "30/05/2026 09:37 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista La Tinaja - Isla, km 104, dirección Isla. Se informa a las personas usuarias que continúa la reducción de carriles. El personal se encuentra realizando las labores de atención del accidente.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 104,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060745500098228232#m",
-      "timestamp": "2026-05-30T15:29:48+00:00",
-      "timestamp_display": "30/05/2026 09:29 CST",
       "segment": null
     },
     {
@@ -508,32 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060720392642113772#m",
       "timestamp": "2026-05-30T13:50:02+00:00",
       "timestamp_display": "30/05/2026 07:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cd. Mendoza - Córdoba, km 284. Registra carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 284,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060717635113722080#m",
-      "timestamp": "2026-05-30T13:39:05+00:00",
-      "timestamp_display": "30/05/2026 07:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠    \nAutopista Cuernavaca - Acapulco, km 332, dirección Acapulco. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 332,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060714014141784443#m",
-      "timestamp": "2026-05-30T13:24:41+00:00",
-      "timestamp_display": "30/05/2026 07:24 CST",
       "segment": null
     }
   ]
