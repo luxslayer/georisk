@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-30T12:08:29.889047",
+  "last_update": "2026-05-30T12:42:34.510645",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EDOMEX se registra cierre  parcial de circulación por #AccidenteVíal cerca del km 118+880, de la carretera Atlacomulco-Maravatio, a inmediaciones de la localidad de Santa María Canchesda, con dir. a Michoacán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": 118.88,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2060693643237765540#m",
+      "timestamp": "2026-05-30T12:03:45+00:00",
+      "timestamp_display": "30/05/2026 06:03 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra  #Incendio cerca del km 203+000, de la carretera Coatzacoalcos-Salina Cruz, a la altura del Mpio. de Matías Romero Avendaño, aprox. 150 mts. fuera de la vía . Atienda indicación vial.",
       "type": "twitter",
@@ -145,19 +158,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se orienta a la población, se está brindando vialidad a un costado de la vía.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2060533820374278399#m",
-      "timestamp": "2026-05-30T01:28:40+00:00",
-      "timestamp_display": "29/05/2026 19:28 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Guerrero se registra cierre  total de circulación por #AccidenteVíal cerca del km 131+800, de la carretera Acapulco-Zihuatanejo, a la altura del poblado San Luis de la Loma, Mpio. de Tecpán de Galeana. Atienda indicación vial.",
       "type": "twitter",
       "lat": 23.5,
@@ -167,6 +167,19 @@
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2060533818176491675#m",
       "timestamp": "2026-05-30T01:28:39+00:00",
+      "timestamp_display": "29/05/2026 19:28 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se orienta a la población, se está brindando vialidad a un costado de la vía.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2060533820374278399#m",
+      "timestamp": "2026-05-30T01:28:40+00:00",
       "timestamp_display": "29/05/2026 19:28 CST",
       "segment": null
     },
@@ -223,19 +236,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se invita a la población a tomar la #RutaAlterna por Autopista Guadalajara-Morelia.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2060504613380296831#m",
-      "timestamp": "2026-05-29T23:32:36+00:00",
-      "timestamp_display": "29/05/2026 17:32 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Michoacan se registra cierre total de circulación por presencia de personas, cerca del km 139+200, de la ctra. Zamora–Tangancícuaro,  a inmediaciones de la Loc. Tangancícuaro de Arista. Atienda indicación vial.",
       "type": "twitter",
       "lat": 23.5,
@@ -249,16 +249,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre  parcial de circulación por #AccidenteVíal cerca del km 118+500, de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Cd. Hidalgo, con dir. a Tapachula. Atienda indicación vial.",
+      "title": "R to @GN_Carreteras: Se invita a la población a tomar la #RutaAlterna por Autopista Guadalajara-Morelia.",
       "type": "twitter",
-      "lat": 16.3708,
-      "lng": -94.1936,
+      "lat": 20.6597,
+      "lng": -103.3496,
       "road": null,
-      "km": 118.5,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2060504613380296831#m",
+      "timestamp": "2026-05-29T23:32:36+00:00",
+      "timestamp_display": "29/05/2026 17:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 163, dirección Acayucan. Continúa reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 163,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2060500941556887894#m",
-      "timestamp": "2026-05-29T23:18:01+00:00",
-      "timestamp_display": "29/05/2026 17:18 CST",
+      "url": "https://nitter.net/CAPUFE/status/2060697607156940996#m",
+      "timestamp": "2026-05-30T12:19:30+00:00",
+      "timestamp_display": "30/05/2026 06:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Durango - Mazatlán, km 124. Continúa circulación de manera intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada y trasvase de carga). Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 124,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060697218235891920#m",
+      "timestamp": "2026-05-30T12:17:57+00:00",
+      "timestamp_display": "30/05/2026 06:17 CST",
       "segment": null
     },
     {
@@ -487,35 +513,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 18, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060604392579932664#m",
-      "timestamp": "2026-05-30T06:09:06+00:00",
-      "timestamp_display": "30/05/2026 00:09 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 57,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060594813330678097#m",
-      "timestamp": "2026-05-30T05:31:02+00:00",
-      "timestamp_display": "29/05/2026 23:31 CST",
-      "segment": null
     }
   ]
 }
