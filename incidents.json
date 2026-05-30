@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-29T23:35:34.951775",
+  "last_update": "2026-05-30T00:09:47.994033",
   "incidents": [
+    {
+      "title": "#ViaLibre en #EDOMX tras presencia de personas, cerca del km 043+000, de la carretera México-Querétaro, a la altura de la caseta de cobro Tepotzotlán.  Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 43.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2060505947077034320#m",
+      "timestamp": "2026-05-29T23:37:54+00:00",
+      "timestamp_display": "29/05/2026 17:37 CST",
+      "segment": null
+    },
     {
       "title": "R to @GN_Carreteras: Se invita a la población a tomar la #RutaAlterna por Autopista Guadalajara-Morelia.",
       "type": "twitter",
@@ -255,16 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre en el acceso principal del Aeropuerto, por presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel, a la altura del Mpio. Santa Cruz Xoxocotlán. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 85, dirección CDMX. Cierre a la circulación en carriles centrales por atención de accidente (choque por alcance múltiple). En la zona se da vialidad por los carriles laterales. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 0.3,
+      "km": 85,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060509183611396334#m",
+      "timestamp": "2026-05-29T23:50:46+00:00",
+      "timestamp_display": "29/05/2026 17:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Cuernavaca, km 87, dirección Acapulco. El incidente ha sido atendido. Se restablece la circulación en carriles centrales. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 87,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2060429218744291722#m",
-      "timestamp": "2026-05-29T18:33:01+00:00",
-      "timestamp_display": "29/05/2026 12:33 CST",
+      "url": "https://nitter.net/CAPUFE/status/2060506614151467308#m",
+      "timestamp": "2026-05-29T23:40:33+00:00",
+      "timestamp_display": "29/05/2026 17:40 CST",
       "segment": null
     },
     {
@@ -492,32 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060481974847091116#m",
       "timestamp": "2026-05-29T22:02:39+00:00",
       "timestamp_display": "29/05/2026 16:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧             \nAutopista La Carbonera - Puerto México, del km 228 al 230, dirección La Carbonera. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 228,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060478713452531959#m",
-      "timestamp": "2026-05-29T21:49:41+00:00",
-      "timestamp_display": "29/05/2026 15:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 112, dirección Acapulco. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 112,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060477963120898451#m",
-      "timestamp": "2026-05-29T21:46:42+00:00",
-      "timestamp_display": "29/05/2026 15:46 CST",
       "segment": null
     }
   ]
