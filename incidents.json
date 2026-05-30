@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-30T10:14:48.780082",
+  "last_update": "2026-05-30T10:53:26.880447",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca se registra  #Incendio cerca del km 203+000, de la carretera Coatzacoalcos-Salina Cruz, a la altura del Mpio. de Matías Romero Avendaño, aprox. 150 mts. fuera de la vía . Atienda indicación vial.",
@@ -262,6 +262,35 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠    \nAutopista Cuernavaca - Acapulco, km 332, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 332,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060675199326945408#m",
+      "timestamp": "2026-05-30T10:50:27+00:00",
+      "timestamp_display": "30/05/2026 04:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 18, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060664757477138640#m",
+      "timestamp": "2026-05-30T10:08:58+00:00",
+      "timestamp_display": "30/05/2026 04:08 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 124. Continúa circulación de manera intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada y trasvase de carga). Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.24,
@@ -486,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060594813330678097#m",
       "timestamp": "2026-05-30T05:31:02+00:00",
       "timestamp_display": "29/05/2026 23:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Durango - Mazatlán, km 124. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada y trasvase de carga).\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 124,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060590156101419376#m",
-      "timestamp": "2026-05-30T05:12:31+00:00",
-      "timestamp_display": "29/05/2026 23:12 CST",
       "segment": null
     }
   ]
