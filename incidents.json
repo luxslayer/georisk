@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T10:27:17.515291",
+  "last_update": "2026-05-31T11:10:12.573621",
   "incidents": [
     {
       "title": "#VíaLibre en #Puebla tras #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Maneje con precaución.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061032909692158161#m",
+      "timestamp": "2026-05-31T10:31:52+00:00",
+      "timestamp_display": "31/05/2026 04:31 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 22, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
       "type": "twitter",
       "lat": 32.5127,
@@ -499,19 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060948746762932448#m",
       "timestamp": "2026-05-31T04:57:26+00:00",
       "timestamp_display": "30/05/2026 22:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nCarretera Cd. del Carmen - Zacatal, km 167. Cierre a la circulación en ambos sentidos, a la altura del Puente El Zacatal por atención de accidente (choque de frente). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 167,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060948280255586790#m",
-      "timestamp": "2026-05-31T04:55:35+00:00",
-      "timestamp_display": "30/05/2026 22:55 CST",
       "segment": null
     }
   ]
