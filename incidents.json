@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-31T13:56:28.713974",
+  "last_update": "2026-05-31T14:39:54.429703",
   "incidents": [
+    {
+      "title": "#VíaLIbre en #Michoacán tras presencia de personas, cerca del km 060+500, de la carretera Acalpican-Manzanillo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 60.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2061086674600304956#m",
+      "timestamp": "2026-05-31T14:05:31+00:00",
+      "timestamp_display": "31/05/2026 08:05 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #VehículoIncendiado derivado a una falla mecánica cerca del km 098+300, de la Tuxpan-Tampico. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación por #AccidenteVíal cerca del km 093+000, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Querétaro. Atienda indicación vial.",
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nLa velocidad también es una decisión que protege vidas.\n👉 Modérala y continúa tu camino con tranquilidad. 🚗\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061085293449494927#m",
+      "timestamp": "2026-05-31T14:00:01+00:00",
+      "timestamp_display": "31/05/2026 08:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 53, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": 93.0,
+      "km": 53,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2060814055317659843#m",
-      "timestamp": "2026-05-30T20:02:13+00:00",
-      "timestamp_display": "30/05/2026 14:02 CST",
+      "url": "https://nitter.net/CAPUFE/status/2061081444164726972#m",
+      "timestamp": "2026-05-31T13:44:43+00:00",
+      "timestamp_display": "31/05/2026 07:44 CST",
       "segment": null
     },
     {
@@ -499,19 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060972976137269300#m",
       "timestamp": "2026-05-31T06:33:43+00:00",
       "timestamp_display": "31/05/2026 00:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 12, dirección Tijuana. Reducción de carriles por atención de accidente (choque contra piedra). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 12,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060960575207678422#m",
-      "timestamp": "2026-05-31T05:44:26+00:00",
-      "timestamp_display": "30/05/2026 23:44 CST",
       "segment": null
     }
   ]
