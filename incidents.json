@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T08:20:38.267364",
+  "last_update": "2026-05-31T09:31:58.699592",
   "incidents": [
     {
       "title": "#VíaLibre en #Puebla tras #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Maneje con precaución.",
@@ -265,6 +265,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 181, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 181,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061011860673982777#m",
+      "timestamp": "2026-05-31T09:08:13+00:00",
+      "timestamp_display": "31/05/2026 03:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 79, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 79,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061000417970950636#m",
+      "timestamp": "2026-05-31T08:22:45+00:00",
+      "timestamp_display": "31/05/2026 02:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060997440447078675#m",
+      "timestamp": "2026-05-31T08:10:55+00:00",
+      "timestamp_display": "31/05/2026 02:10 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 79, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -460,48 +499,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060942696756195775#m",
       "timestamp": "2026-05-31T04:33:24+00:00",
       "timestamp_display": "30/05/2026 22:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 99. Continúa cierre a la circulación en ambos sentidos por atención del accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 99,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060934542500770224#m",
-      "timestamp": "2026-05-31T04:00:59+00:00",
-      "timestamp_display": "30/05/2026 22:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 17, dirección Cosoleacaque. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.926270796488406,
-      "lng": -94.7806339914285,
-      "road": 145,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060934312837468317#m",
-      "timestamp": "2026-05-31T04:00:05+00:00",
-      "timestamp_display": "30/05/2026 22:00 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 19. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060932011741565404#m",
-      "timestamp": "2026-05-31T03:50:56+00:00",
-      "timestamp_display": "30/05/2026 21:50 CST",
       "segment": null
     }
   ]
