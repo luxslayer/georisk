@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T12:34:52.839089",
+  "last_update": "2026-05-31T13:11:58.423230",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #VehículoIncendiado derivado a una falla mecánica cerca del km 098+300, de la Tuxpan-Tampico. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 53, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance y volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 53,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061067487551078751#m",
+      "timestamp": "2026-05-31T12:49:16+00:00",
+      "timestamp_display": "31/05/2026 06:49 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Registra cierres intermitentes por atención de accidente (maniobras para retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -499,19 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060953947506933918#m",
       "timestamp": "2026-05-31T05:18:06+00:00",
       "timestamp_display": "30/05/2026 23:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Acayucan, km 134, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 134,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060953332257013788#m",
-      "timestamp": "2026-05-31T05:15:39+00:00",
-      "timestamp_display": "30/05/2026 23:15 CST",
       "segment": null
     }
   ]
