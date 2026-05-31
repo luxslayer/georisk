@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-31T16:14:58.296083",
+  "last_update": "2026-05-31T16:43:17.027881",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVíal cerca del km 015+000, de la carretera Paso del Toro-Acayucan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 15.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2061118279712649689#m",
+      "timestamp": "2026-05-31T16:11:06+00:00",
+      "timestamp_display": "31/05/2026 10:11 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 118+100, de la carretera Lagos de Moreno-Guadalajara con ramal a Yahualica, con dirección a Lagos de Moreno. Atienda indicación vial.",
       "type": "twitter",
@@ -249,19 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2060838439604658260#m",
       "timestamp": "2026-05-30T21:39:07+00:00",
       "timestamp_display": "30/05/2026 15:39 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación por #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 137.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2060828247537946933#m",
-      "timestamp": "2026-05-30T20:58:37+00:00",
-      "timestamp_display": "30/05/2026 14:58 CST",
       "segment": null
     },
     {
