@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-31T17:13:26.062619",
+  "last_update": "2026-05-31T17:41:04.115531",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 118+100, de la carretera Lagos de Moreno-Guadalajara con ramal a Yahualica, con dirección a Lagos de Moreno. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 118.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2061138358051487907#m",
+      "timestamp": "2026-05-31T17:30:53+00:00",
+      "timestamp_display": "31/05/2026 11:30 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por presencia de personas cerca del km 103+500, de la carretera Cd. Victoria - Monterrey Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 103.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2061134533349535904#m",
+      "timestamp": "2026-05-31T17:15:41+00:00",
+      "timestamp_display": "31/05/2026 11:15 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por presencia #AccidenteVial cerca del km 088+750, de la carretera Chihuahua-Madera, con dirección al Mpio de Cuauhtémoc, Chih. Atienda indicación vial.",
       "type": "twitter",
@@ -242,42 +268,29 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #EdoMéx tras #AccidenteVíal cerca del km 038+100, de la carretera Ent. Morelos Ent. Pachuca - Tuxpan. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.066872717265056,
-      "lng": -98.42174092585755,
-      "road": 130,
-      "km": 38.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2060849870077149506#m",
-      "timestamp": "2026-05-30T22:24:32+00:00",
-      "timestamp_display": "30/05/2026 16:24 CST",
-      "segment": null
-    },
-    {
-      "title": "En #Puebla se registra cierre total de circulación por #Maniobras de salvamento cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tulancingo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 137.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2060846424473080035#m",
-      "timestamp": "2026-05-30T22:10:50+00:00",
-      "timestamp_display": "30/05/2026 16:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puente de Ixtla - Iguala, km 49. Cierre a la circulación en ambos sentidos por atención de volcadura tracto camión. \n\nEn la zona se registra derrame de diésel. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/nxsACx4SsoMrksb89",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Puente de Ixtla - Iguala, km 49. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos por atención de volcadura de tracto camión.\n\nEn la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": 49,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061133050457550993#m",
-      "timestamp": "2026-05-31T17:09:47+00:00",
-      "timestamp_display": "31/05/2026 11:09 CST",
+      "url": "https://nitter.net/CAPUFE/status/2061139015798022160#m",
+      "timestamp": "2026-05-31T17:33:30+00:00",
+      "timestamp_display": "31/05/2026 11:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puente de Ixtla - Iguala, km 49. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión. \n\nEn la zona se registra derrame de diésel. Toma tus precauciones.\n\nConsulta la ubicación aquí: \nhttps://maps.app.goo.gl/nxsACx4SsoMrksb89",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 49,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061135680198049820#m",
+      "timestamp": "2026-05-31T17:20:14+00:00",
+      "timestamp_display": "31/05/2026 11:20 CST",
       "segment": null
     },
     {
@@ -505,32 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2061000417970950636#m",
       "timestamp": "2026-05-31T08:22:45+00:00",
       "timestamp_display": "31/05/2026 02:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060997440447078675#m",
-      "timestamp": "2026-05-31T08:10:55+00:00",
-      "timestamp_display": "31/05/2026 02:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 79, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 79,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060996496716157252#m",
-      "timestamp": "2026-05-31T08:07:10+00:00",
-      "timestamp_display": "31/05/2026 02:07 CST",
       "segment": null
     }
   ]
