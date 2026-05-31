@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-05-31T19:45:25.569740",
+  "last_update": "2026-05-31T20:28:08.450779",
   "incidents": [
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 112, dirección La Tinaja. Reducción de carriles por atención de accidente (incendio de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 112,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061178144703332581#m",
+      "timestamp": "2026-05-31T20:08:59+00:00",
+      "timestamp_display": "31/05/2026 14:08 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Puente de Ixtla - Iguala, km 49. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos por maniobras de grúa para el retiro de tracto camión siniestrado.\n\nEn la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 49,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061174992356684189#m",
+      "timestamp": "2026-05-31T19:56:27+00:00",
+      "timestamp_display": "31/05/2026 13:56 CST",
+      "segment": null
+    },
     {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Puente de Ixtla - Iguala, km 49. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de tracto camión siniestrado.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
@@ -232,32 +258,6 @@
       "url": "https://nitter.net/CAPUFE/status/2061077905489138056#m",
       "timestamp": "2026-05-31T13:30:40+00:00",
       "timestamp_display": "31/05/2026 07:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 110, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 110,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061073879540388030#m",
-      "timestamp": "2026-05-31T13:14:40+00:00",
-      "timestamp_display": "31/05/2026 07:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 53, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance y volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061067487551078751#m",
-      "timestamp": "2026-05-31T12:49:16+00:00",
-      "timestamp_display": "31/05/2026 06:49 CST",
       "segment": null
     }
   ]
