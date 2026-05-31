@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-31T14:39:54.429703",
+  "last_update": "2026-05-31T15:11:49.791456",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 118+100, de la carretera Lagos de Moreno-Guadalajara con ramal a Yahualica, con dirección a Lagos de Moreno. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 118.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2061098750261551554#m",
+      "timestamp": "2026-05-31T14:53:30+00:00",
+      "timestamp_display": "31/05/2026 08:53 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLIbre en #Michoacán tras presencia de personas, cerca del km 060+500, de la carretera Acalpican-Manzanillo. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +265,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por presencia de personas cerca del km 262+100, de la carretera Pachuca - Tuxpan, con dirección a Tuxpan, Ver. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 109, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.54,
-      "lng": -98.07,
-      "road": 130,
-      "km": 262.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2060826889334219065#m",
-      "timestamp": "2026-05-30T20:53:13+00:00",
-      "timestamp_display": "30/05/2026 14:53 CST",
+      "lat": 19.1748816,
+      "lng": -98.3077711,
+      "road": 150,
+      "km": 91,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061099534667641023#m",
+      "timestamp": "2026-05-31T14:56:37+00:00",
+      "timestamp_display": "31/05/2026 08:56 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 207, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 207,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061095515215790253#m",
+      "timestamp": "2026-05-31T14:40:38+00:00",
+      "timestamp_display": "31/05/2026 08:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061094100481298524#m",
+      "timestamp": "2026-05-31T14:35:01+00:00",
+      "timestamp_display": "31/05/2026 08:35 CST",
       "segment": null
     },
     {
@@ -483,48 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060982555159998780#m",
       "timestamp": "2026-05-31T07:11:47+00:00",
       "timestamp_display": "31/05/2026 01:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 22. Registra reducción de carriles en el retorno en dirección Tijuana, por atención de accidente (choque de frente). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 22,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060977730376626668#m",
-      "timestamp": "2026-05-31T06:52:36+00:00",
-      "timestamp_display": "31/05/2026 00:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 17, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 17.926270796488406,
-      "lng": -94.7806339914285,
-      "road": 145,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060976495040876985#m",
-      "timestamp": "2026-05-31T06:47:42+00:00",
-      "timestamp_display": "31/05/2026 00:47 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 12, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 12,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060972976137269300#m",
-      "timestamp": "2026-05-31T06:33:43+00:00",
-      "timestamp_display": "31/05/2026 00:33 CST",
       "segment": null
     }
   ]
