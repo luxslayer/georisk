@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T15:11:49.791456",
+  "last_update": "2026-05-31T15:44:11.389526",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 118+100, de la carretera Lagos de Moreno-Guadalajara con ramal a Yahualica, con dirección a Lagos de Moreno. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 53, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 53,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061103507600482452#m",
+      "timestamp": "2026-05-31T15:12:24+00:00",
+      "timestamp_display": "31/05/2026 09:12 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 109, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 19.1748816,
@@ -512,19 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060986066375422109#m",
       "timestamp": "2026-05-31T07:25:44+00:00",
       "timestamp_display": "31/05/2026 01:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 88, dirección Acapulco. Registra reducción de carriles laterales y en la gasa de salida a Plaza Galerías, por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 88,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060982555159998780#m",
-      "timestamp": "2026-05-31T07:11:47+00:00",
-      "timestamp_display": "31/05/2026 01:11 CST",
       "segment": null
     }
   ]
