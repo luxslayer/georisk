@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-05-31T20:28:08.450779",
+  "last_update": "2026-05-31T20:52:43.882660",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+100, de la carretera Fortín-Conejos, con dirección a Totutla, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 20.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2061185111375098334#m",
+      "timestamp": "2026-05-31T20:36:40+00:00",
+      "timestamp_display": "31/05/2026 14:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 75, dirección Veracruz. Registra reducción de carriles por atención de incidente. Para más información, llama al 088 de @GN_Carreteras. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.945988971425855,
+      "lng": -96.29855945513744,
+      "road": 150,
+      "km": 75,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061185888139333931#m",
+      "timestamp": "2026-05-31T20:39:45+00:00",
+      "timestamp_display": "31/05/2026 14:39 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 96. Registra carga vehicular en dirección Cuernavaca, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061183693071220817#m",
+      "timestamp": "2026-05-31T20:31:02+00:00",
+      "timestamp_display": "31/05/2026 14:31 CST",
+      "segment": null
+    },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 112, dirección La Tinaja. Reducción de carriles por atención de accidente (incendio de tracto camión). Maneja con precaución.",
       "type": "twitter",
@@ -219,45 +261,6 @@
       "url": "https://nitter.net/CAPUFE/status/2061094100481298524#m",
       "timestamp": "2026-05-31T14:35:01+00:00",
       "timestamp_display": "31/05/2026 08:35 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nLa velocidad también es una decisión que protege vidas.\n👉 Modérala y continúa tu camino con tranquilidad. 🚗\nSi necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061085293449494927#m",
-      "timestamp": "2026-05-31T14:00:01+00:00",
-      "timestamp_display": "31/05/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 53, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061081444164726972#m",
-      "timestamp": "2026-05-31T13:44:43+00:00",
-      "timestamp_display": "31/05/2026 07:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061077905489138056#m",
-      "timestamp": "2026-05-31T13:30:40+00:00",
-      "timestamp_display": "31/05/2026 07:30 CST",
       "segment": null
     }
   ]
