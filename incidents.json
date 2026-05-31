@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-05-30T23:36:35.450569",
+  "last_update": "2026-05-31T00:08:34.172908",
   "incidents": [
+    {
+      "title": "En #Puebla continúa cierre total de circulación por #Limpieza y maniobras sobre la vía, cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tulancingo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 137.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2060871801450705225#m",
+      "timestamp": "2026-05-30T23:51:41+00:00",
+      "timestamp_display": "30/05/2026 17:51 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVíal cerca del km 070+500, de la carretera Puebla - Tehuacán, con dirección a Tehuacán, Pue. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre  parcial de circulación por #AccidenteVíal cerca del km 111+100, de la carretera Coatzacoalcos-Salina Cruz, a la altura del Mpio. El Naranjo, con dir. a Acayucan. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 206, dirección Navojoa. Reducción de carriles por atención de accidente (incendio de automóvil). Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 111.1,
+      "km": 206,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2060713787901018192#m",
-      "timestamp": "2026-05-30T13:23:47+00:00",
-      "timestamp_display": "30/05/2026 07:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2060872684100034713#m",
+      "timestamp": "2026-05-30T23:55:11+00:00",
+      "timestamp_display": "30/05/2026 17:55 CST",
       "segment": null
     },
     {
@@ -512,22 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060801398397133219#m",
       "timestamp": "2026-05-30T19:11:55+00:00",
       "timestamp_display": "30/05/2026 13:11 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 17. El accidente ha sido atendido. Continúa circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Atiende las indicaciones viales y maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060797042394366441#m",
-      "timestamp": "2026-05-30T18:54:37+00:00",
-      "timestamp_display": "30/05/2026 12:54 CST",
       "segment": [
         "nuevo teapa",
         "cosoleacaque"
