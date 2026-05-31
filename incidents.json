@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T13:11:58.423230",
+  "last_update": "2026-05-31T13:56:28.713974",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #VehículoIncendiado derivado a una falla mecánica cerca del km 098+300, de la Tuxpan-Tampico. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061077905489138056#m",
+      "timestamp": "2026-05-31T13:30:40+00:00",
+      "timestamp_display": "31/05/2026 07:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 110, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 110,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061073879540388030#m",
+      "timestamp": "2026-05-31T13:14:40+00:00",
+      "timestamp_display": "31/05/2026 07:14 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 53, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance y volcadura de automóvil). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -486,32 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060960575207678422#m",
       "timestamp": "2026-05-31T05:44:26+00:00",
       "timestamp_display": "30/05/2026 23:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060955880821076152#m",
-      "timestamp": "2026-05-31T05:25:47+00:00",
-      "timestamp_display": "30/05/2026 23:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nCarretera Cd. del Carmen - Zacatal, km 167. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (choque de frente). Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 167,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060953947506933918#m",
-      "timestamp": "2026-05-31T05:18:06+00:00",
-      "timestamp_display": "30/05/2026 23:18 CST",
       "segment": null
     }
   ]
