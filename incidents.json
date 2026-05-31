@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T05:35:29.405903",
+  "last_update": "2026-05-31T07:04:13.770939",
   "incidents": [
     {
       "title": "#VíaLibre en #Puebla tras #AccidenteVíal cerca del km 137+200, de la carretera Tulancingo - Tihuatlán, con dirección a Tuxpan, Ver. Maneje con precaución.",
@@ -265,6 +265,61 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 22. Registra reducción de carriles en el retorno en dirección Tijuana, por atención de accidente (choque de frente). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060977730376626668#m",
+      "timestamp": "2026-05-31T06:52:36+00:00",
+      "timestamp_display": "31/05/2026 00:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 17, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 17.926270796488406,
+      "lng": -94.7806339914285,
+      "road": 145,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2060976495040876985#m",
+      "timestamp": "2026-05-31T06:47:42+00:00",
+      "timestamp_display": "31/05/2026 00:47 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 12, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060972976137269300#m",
+      "timestamp": "2026-05-31T06:33:43+00:00",
+      "timestamp_display": "31/05/2026 00:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 12, dirección Tijuana. Reducción de carriles por atención de accidente (choque contra piedra). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2060960575207678422#m",
+      "timestamp": "2026-05-31T05:44:26+00:00",
+      "timestamp_display": "30/05/2026 23:44 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 31, dirección La Tinaja. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -440,71 +495,6 @@
       "url": "https://nitter.net/CAPUFE/status/2060903321871798509#m",
       "timestamp": "2026-05-31T01:56:56+00:00",
       "timestamp_display": "30/05/2026 19:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 19. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060899289597939797#m",
-      "timestamp": "2026-05-31T01:40:54+00:00",
-      "timestamp_display": "30/05/2026 19:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Cd. Mendoza - Córdoba, km 287, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 287,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2060896850761126395#m",
-      "timestamp": "2026-05-31T01:31:13+00:00",
-      "timestamp_display": "30/05/2026 19:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Las Choapas - Ocozocoautla, km 99. Continúa cierre a la circulación en ambos sentidos por atención del accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 99,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060895870829080937#m",
-      "timestamp": "2026-05-31T01:27:19+00:00",
-      "timestamp_display": "30/05/2026 19:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Navojoa - Cd. Obregón, km 206, dirección Navojoa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060893062839058889#m",
-      "timestamp": "2026-05-31T01:16:10+00:00",
-      "timestamp_display": "30/05/2026 19:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 206, dirección Navojoa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2060884249901756597#m",
-      "timestamp": "2026-05-31T00:41:09+00:00",
-      "timestamp_display": "30/05/2026 18:41 CST",
       "segment": null
     }
   ]
