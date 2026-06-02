@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-02T05:39:06.764974",
+  "last_update": "2026-06-02T07:13:03.189199",
   "incidents": [
     {
       "title": "#Tomesusprecauciones en #Coahuila continua cierre total de circulación por presencia de personas cerca del Km 010+500 de la carretera San Pedro-Torreón. Se orienta a la ciudadanía #Rutaalterna carretera San Pedro-Saltillo. Atienda la indicación vial.",
@@ -252,19 +252,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guerrero se registra presencia de personas cerca del km 080+200, de la carretera Acapulco-Zihuatanejo, a la altura de la caseta del Ent. Sta. Rosa-Hacienda de Cabaña. Sin afectación a la circulación. Atienda indicación vial. L",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 80.2,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2061523928926110045#m",
-      "timestamp": "2026-06-01T19:03:00+00:00",
-      "timestamp_display": "01/06/2026 13:03 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Los manifestantes dan paso libre a la circulación después de realizar boteo.",
       "type": "twitter",
       "lat": 23.5,
@@ -275,6 +262,106 @@
       "url": "https://nitter.net/GN_Carreteras/status/2061523931295777004#m",
       "timestamp": "2026-06-01T19:03:01+00:00",
       "timestamp_display": "01/06/2026 13:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 31, dirección Cosoleacaque. Se restablece la circulación con cierres intermitentes en ambos sentidos.\n\nEl personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). \n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.01205595403734,
+      "lng": -94.58080936112958,
+      "road": 180,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061705814075662720#m",
+      "timestamp": "2026-06-02T07:05:45+00:00",
+      "timestamp_display": "02/06/2026 01:05 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Nuevo Teapa - Cosoleacaque, km 31, dirección Cosoleacaque. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada).\n\n🔘 Dirección Nuevo Teapa, continúa reducción de carriles.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.01205595403734,
+      "lng": -94.58080936112958,
+      "road": 180,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061697643617591507#m",
+      "timestamp": "2026-06-02T06:33:17+00:00",
+      "timestamp_display": "02/06/2026 00:33 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nLibramiento Amecameca - Nepantla, registra #neblina. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061694752748085537#m",
+      "timestamp": "2026-06-02T06:21:48+00:00",
+      "timestamp_display": "02/06/2026 00:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 80, dirección Cuernavaca. El accidente en la gaza de salida a la ciudad de Cuernavaca (Glorieta La Paloma de la Paz), ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061693993537171645#m",
+      "timestamp": "2026-06-02T06:18:47+00:00",
+      "timestamp_display": "02/06/2026 00:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Córdoba - Veracruz, registra tormenta eléctrica y #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061691636682309797#m",
+      "timestamp": "2026-06-02T06:09:25+00:00",
+      "timestamp_display": "02/06/2026 00:09 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️   \n#AutMéxicoCuernavaca, registra #neblina densa. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061690506107580501#m",
+      "timestamp": "2026-06-02T06:04:55+00:00",
+      "timestamp_display": "02/06/2026 00:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴CIERRE DE CIRCULACIÓN🔴\n#AutMéxicoCuernavaca, km 80, dirección Cuernavaca. Registra cierre a la circulación en la gaza de salida a la ciudad de Cuernavaca (Glorieta La Paloma de la Paz), por atención del accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061687543913930850#m",
+      "timestamp": "2026-06-02T05:53:09+00:00",
+      "timestamp_display": "01/06/2026 23:53 CST",
       "segment": null
     },
     {
@@ -438,100 +525,6 @@
       "timestamp": "2026-06-02T02:54:31+00:00",
       "timestamp_display": "01/06/2026 20:54 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 288,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061634898629144925#m",
-      "timestamp": "2026-06-02T02:23:57+00:00",
-      "timestamp_display": "01/06/2026 20:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Magdalena - Nogales, km 240, dirección Magdalena. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 240,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061632231081156967#m",
-      "timestamp": "2026-06-02T02:13:21+00:00",
-      "timestamp_display": "01/06/2026 20:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 171. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 171,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061630137255235940#m",
-      "timestamp": "2026-06-02T02:05:02+00:00",
-      "timestamp_display": "01/06/2026 20:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Pera - Cuautla, km 33, dirección Cuautla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). \n\n➡  Por seguridad de las personas usuarias, se desvía el tránsito vehicular a la altura del km 32, hacia carriles laterales (no a cargo de CAPUFE). \n\n🔘 Dirección La Pera, opera de manera normal.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061629601596543464#m",
-      "timestamp": "2026-06-02T02:02:54+00:00",
-      "timestamp_display": "01/06/2026 20:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 33. Reducción de carriles en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061625656111177777#m",
-      "timestamp": "2026-06-02T01:47:14+00:00",
-      "timestamp_display": "01/06/2026 19:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Puebla - Acatzingo, km 162, dirección Puebla. Reducción de carriles por atención a incidente (inundación de carriles). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 162,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061625258122125321#m",
-      "timestamp": "2026-06-02T01:45:39+00:00",
-      "timestamp_display": "01/06/2026 19:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nLibramiento Noreste de Querétaro, km 20, dirección San Luis Potosí. Continúa la reducción de carriles por labores de desmantelamiento de la Plaza de Cobro Chichimequillas. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.73804664167625,
-      "lng": -100.44308176551276,
-      "road": 57,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061624441210081368#m",
-      "timestamp": "2026-06-02T01:42:24+00:00",
-      "timestamp_display": "01/06/2026 19:42 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
     }
   ]
 }
