@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-06-02T22:56:04.895310",
+  "last_update": "2026-06-02T23:39:16.895465",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del km 216+500, de la carretera Monclova-Piedras Negras, con dirección a Piedras Negras Coah. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 27.211920530605287,
+      "lng": -101.2291513509555,
+      "road": 57,
+      "km": 209.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2061951369796272187#m",
+      "timestamp": "2026-06-02T23:21:30+00:00",
+      "timestamp_display": "02/06/2026 17:21 CST",
+      "segment": [
+        "monclova",
+        "piedras negras"
+      ]
+    },
     {
       "title": "#VíaLibre en #CDMX tras #Laboresdelimpieza sobre la vía cerca del Km 022+000 de la carretera Chamapa-La venta con dirección a Toluca. Maneje con precaución.",
       "type": "twitter",
@@ -255,16 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #BajaCalifornia se registra cierre parcial de circulación por presencia de personas cerca del km 147+700, de la carretera Mexicali - Tijuana. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 77, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 32.6255,
-      "lng": -115.4548,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 147.7,
+      "km": 77,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2061853848721920349#m",
-      "timestamp": "2026-06-02T16:53:59+00:00",
-      "timestamp_display": "02/06/2026 10:53 CST",
+      "url": "https://nitter.net/CAPUFE/status/2061954644662685922#m",
+      "timestamp": "2026-06-02T23:34:31+00:00",
+      "timestamp_display": "02/06/2026 17:34 CST",
       "segment": null
     },
     {
@@ -282,6 +298,32 @@
         "cordoba",
         "veracruz"
       ]
+    },
+    {
+      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. \n\nEn la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 230,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2061924337754513447#m",
+      "timestamp": "2026-06-02T21:34:05+00:00",
+      "timestamp_display": "02/06/2026 15:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nCarretera Nuevo Progreso - Progreso, Texas, Puente Internacional Las Flores. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/RTT2DN2mbyjRu2Mb8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061907579245097470#m",
+      "timestamp": "2026-06-02T20:27:29+00:00",
+      "timestamp_display": "02/06/2026 14:27 CST",
+      "segment": null
     },
     {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nCarretera Nuevo Progreso - Progreso, Texas, Puente Internacional Las Flores. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
@@ -459,19 +501,6 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro Esperanza. \n\nEn la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 230,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061924337754513447#m",
-      "timestamp": "2026-06-02T21:34:05+00:00",
-      "timestamp_display": "02/06/2026 15:34 CST",
-      "segment": null
-    },
-    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nLibramiento Oriente de Chihuahua, km 31. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 28.63,
@@ -511,6 +540,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 28, dirección Nuevo Teapa. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y camioneta.\n\nEn la zona se registra carga vehicular. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/9twUa3oJ3Vvac8re7",
+      "type": "twitter",
+      "lat": 18.020739999683713,
+      "lng": -94.55471145861748,
+      "road": 180,
+      "km": 28,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061865564583145798#m",
+      "timestamp": "2026-06-02T17:40:32+00:00",
+      "timestamp_display": "02/06/2026 11:40 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 28, dirección Nuevo Teapa. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.020739999683713,
@@ -525,19 +570,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 168, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 168,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061908190376153452#m",
-      "timestamp": "2026-06-02T20:29:55+00:00",
-      "timestamp_display": "02/06/2026 14:29 CST",
-      "segment": null
     }
   ]
 }
