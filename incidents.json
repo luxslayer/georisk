@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-03T13:12:31.887256",
+  "last_update": "2026-06-03T14:55:54.722879",
   "incidents": [
+    {
+      "title": "En #Sinaloa se continúa cierre parcial de circulación por presencia de personas a un costado de la Caseta de Cobro Costa Rica Sin., cerca del km 170+000, de la carretera Culiacán – Los Mochis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 170.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062176498417582280#m",
+      "timestamp": "2026-06-03T14:16:05+00:00",
+      "timestamp_display": "03/06/2026 08:16 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sinaloa continúa cierre parcial de circulación por presencia de personas cerca del km 132+200, de la carretera Mazatlán - Culiacán, con dirección a Sinaloa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 132.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062176353722528154#m",
+      "timestamp": "2026-06-03T14:15:30+00:00",
+      "timestamp_display": "03/06/2026 08:15 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial de limpieza sobre la vía cerca del km 102+000, de la carretera Ent. Tula - Ciudad Victoria. Atienda indicación vial.",
       "type": "twitter",
@@ -245,29 +271,55 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #SanLuisPotosí tras #AccidenteVial cerca del km 051+000, de la carretera San Luis Potosí-Matehuala, a la altura del Municipio Villa Hidalgo. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 51.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2061976097349152843#m",
-      "timestamp": "2026-06-03T00:59:45+00:00",
-      "timestamp_display": "02/06/2026 18:59 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062181158448759266#m",
+      "timestamp": "2026-06-03T14:34:36+00:00",
+      "timestamp_display": "03/06/2026 08:34 CST",
       "segment": null
     },
     {
-      "title": "En #Sinaloa se continúa cierre total de circulación por presencia de personas a un costado de la Caseta de Cobro Costa Rica, Sin., cerca del km 170+000, de la carretera Culiacán – Los Mochis. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
-      "km": 170.0,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2061968167593730403#m",
-      "timestamp": "2026-06-03T00:28:15+00:00",
-      "timestamp_display": "02/06/2026 18:28 CST",
+      "url": "https://nitter.net/CAPUFE/status/2062173845415506039#m",
+      "timestamp": "2026-06-03T14:05:32+00:00",
+      "timestamp_display": "03/06/2026 08:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 231, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 231,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062169702185509157#m",
+      "timestamp": "2026-06-03T13:49:04+00:00",
+      "timestamp_display": "03/06/2026 07:49 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nCarretera Nuevo Progreso - Progreso, Texas, Puente Internacional Las Flores. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062165907439280141#m",
+      "timestamp": "2026-06-03T13:34:00+00:00",
+      "timestamp_display": "03/06/2026 07:34 CST",
       "segment": null
     },
     {
@@ -477,48 +529,6 @@
       "timestamp": "2026-06-03T04:27:41+00:00",
       "timestamp_display": "02/06/2026 22:27 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 5, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 5,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062024613370995004#m",
-      "timestamp": "2026-06-03T04:12:33+00:00",
-      "timestamp_display": "02/06/2026 22:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 5, dirección La Pera. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 5,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062020561325150587#m",
-      "timestamp": "2026-06-03T03:56:26+00:00",
-      "timestamp_display": "02/06/2026 21:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠    \nLibramiento Noreste de Querétaro, km 20, dirección San Luis Potosí. Continúa reducción de carriles por labores de desmantelamiento de la Plaza de Cobro Chichimequillas. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.73804664167625,
-      "lng": -100.44308176551276,
-      "road": 57,
-      "km": 20,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2062012442176016619#m",
-      "timestamp": "2026-06-03T03:24:11+00:00",
-      "timestamp_display": "02/06/2026 21:24 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
     }
   ]
 }
