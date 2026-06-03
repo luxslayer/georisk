@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-03T05:59:45.055694",
+  "last_update": "2026-06-03T07:59:56.938436",
   "incidents": [
+    {
+      "title": "En #Sinaloa continúa cierre total de circulación por presencia de personas cerca del km 132+200, de la carretera Mazatlán - Culiacán, con dirección a Sinaloa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 132.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062081128048042215#m",
+      "timestamp": "2026-06-03T07:57:07+00:00",
+      "timestamp_display": "03/06/2026 01:57 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre total de circulación por #AccidenteVial cerca del km 054+900, de la carretera Tepic - Mazatlán, con dirección a la Col. Pantano Grande, ruta alterna carretera libre de Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.948339713365453,
+      "lng": -105.11310192351148,
+      "road": 15,
+      "km": 47.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2062048341819564147#m",
+      "timestamp": "2026-06-03T05:46:50+00:00",
+      "timestamp_display": "02/06/2026 23:46 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
     {
       "title": "#VíaLibre en #Coahuila tras presencia de personas cerca del km 002+800, de la carretera Saltillo-Torreón. Maneje con precaución.",
       "type": "twitter",
@@ -168,6 +197,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2061967228858143055#m",
       "timestamp": "2026-06-03T00:24:31+00:00",
       "timestamp_display": "02/06/2026 18:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nCarretera Guamúchil - Guasave, Puente Sinaloa. Reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062078361929728122#m",
+      "timestamp": "2026-06-03T07:46:07+00:00",
+      "timestamp_display": "03/06/2026 01:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 77, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 77,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062063888934293890#m",
+      "timestamp": "2026-06-03T06:48:37+00:00",
+      "timestamp_display": "03/06/2026 00:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \n#AutMéxicoCuernavaca, del km 21 al 23. Registra circulación en contraflujo por labores de mantenimiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 21,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062053984760733901#m",
+      "timestamp": "2026-06-03T06:09:15+00:00",
+      "timestamp_display": "03/06/2026 00:09 CST",
       "segment": null
     },
     {
@@ -383,48 +451,6 @@
       "timestamp": "2026-06-03T02:00:01+00:00",
       "timestamp_display": "02/06/2026 20:00 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #ChamapaLechería 🚧\nDel 3 al 12 de junio se realizarán trabajos de mantenimiento en distintos puntos de la autopista con dirección a Lechería.\nAnticipe sus tiempos de traslado y maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061990488484266470#m",
-      "timestamp": "2026-06-03T01:56:57+00:00",
-      "timestamp_display": "02/06/2026 19:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 77, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 77,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061981269601251586#m",
-      "timestamp": "2026-06-03T01:20:19+00:00",
-      "timestamp_display": "02/06/2026 19:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Continúa carga vehicular en dirección Veracruz, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061975359935897749#m",
-      "timestamp": "2026-06-03T00:56:50+00:00",
-      "timestamp_display": "02/06/2026 18:56 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
