@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-06-03T21:44:47.383130",
+  "last_update": "2026-06-03T22:34:45.937516",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 081+000, de la carretera Tepic-Mazatlán, a inmediaciones de la Localidad San Miguel Cuyutlán, con dir. a Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.069838026058722,
+      "lng": -105.19352006284424,
+      "road": 15,
+      "km": 74.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2062295603304890492#m",
+      "timestamp": "2026-06-03T22:09:22+00:00",
+      "timestamp_display": "03/06/2026 16:09 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#ViaLibre en #Chiapas tras presencia de personas, cerca del km 001+300, de la carretera Tuxtla Gutiérrez-San Cristóbal,  a la altura de la caseta de cobro Chiapa de Corzo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 1.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062294238780420219#m",
+      "timestamp": "2026-06-03T22:03:56+00:00",
+      "timestamp_display": "03/06/2026 16:03 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en el #AeropuertodeOaxaca tras presencia de personas cerca del km 000+300, de la carretera Oaxaca-Puerto Ángel. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 0.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062293358119121072#m",
+      "timestamp": "2026-06-03T22:00:26+00:00",
+      "timestamp_display": "03/06/2026 16:00 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #Grieta sobre la carpeta de rodamiento, cerca del km 140+350, de la ctra. Tulancingo-Tihuatlán, con dir. a Tejotal. Ruta alterna en Tulancingo-Huachinango. Atienda indicación vial.",
       "type": "twitter",
@@ -232,42 +274,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Sinaloa se registra presencia de personas, cerca del km 110+100, de la carretera Autopista Lic. Benito Juárez, a la altura de la caseta las Brisas. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 37, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
-      "lat": 31.69,
-      "lng": -106.42,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 110.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2062240077367935480#m",
-      "timestamp": "2026-06-03T18:28:43+00:00",
-      "timestamp_display": "03/06/2026 12:28 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 213+100, de la carretera México-Tuxpan, a la altura de la localidad las Palmas, con dir. a Tihuatlán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 213.1,
+      "km": 37,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2062238080082260448#m",
-      "timestamp": "2026-06-03T18:20:47+00:00",
-      "timestamp_display": "03/06/2026 12:20 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2062236207421981176#m",
-      "timestamp": "2026-06-03T18:13:21+00:00",
-      "timestamp_display": "03/06/2026 12:13 CST",
+      "url": "https://nitter.net/CAPUFE/status/2062294802343829856#m",
+      "timestamp": "2026-06-03T22:06:11+00:00",
+      "timestamp_display": "03/06/2026 16:06 CST",
       "segment": null
     },
     {
@@ -514,19 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2062238303189909788#m",
       "timestamp": "2026-06-03T18:21:40+00:00",
       "timestamp_display": "03/06/2026 12:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 138, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino a cuneta central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 138,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062233706849354222#m",
-      "timestamp": "2026-06-03T18:03:24+00:00",
-      "timestamp_display": "03/06/2026 12:03 CST",
       "segment": null
     }
   ]
