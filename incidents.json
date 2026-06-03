@@ -1,6 +1,71 @@
 {
-  "last_update": "2026-06-03T02:41:59.114131",
+  "last_update": "2026-06-03T04:12:39.762539",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+500, de la carretera Paso del Toro - Acayucan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 3.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2062019960331772312#m",
+      "timestamp": "2026-06-03T03:54:03+00:00",
+      "timestamp_display": "02/06/2026 21:54 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 188+100, de la carretera Cuernavaca-Chilpancingo, con dirección a Chilpancingo, Gro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 188.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2062013293242290354#m",
+      "timestamp": "2026-06-03T03:27:34+00:00",
+      "timestamp_display": "02/06/2026 21:27 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sinaloa se continúa cierre total de circulación por presencia de personas a un costado de la Caseta de Cobro Costa Rica Sin., cerca del km 170+000, de la carretera Culiacán – Los Mochis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 170.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062010583340253356#m",
+      "timestamp": "2026-06-03T03:16:48+00:00",
+      "timestamp_display": "02/06/2026 21:16 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sinaloa continúa cierre parcial de circulación por presencia de personas cerca del km 132+200, de la carretera Mazatlán - Culiacán, con dirección a Sinaloa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 132.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062010049480765904#m",
+      "timestamp": "2026-06-03T03:14:40+00:00",
+      "timestamp_display": "02/06/2026 21:14 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 365+000, de la carretera Maravatío - Zapotlanejo, con dirección a Zamora Mich. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": 15,
+      "km": 365.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2062005544798363649#m",
+      "timestamp": "2026-06-03T02:56:46+00:00",
+      "timestamp_display": "02/06/2026 20:56 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Michoacán tras #AccidenteVia cerca del km 249+200, de la carretera Guadalajara-Atlacomulco. Maneje con precaución.",
       "type": "twitter",
@@ -80,6 +145,48 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 5, dirección La Pera. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 5,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062020561325150587#m",
+      "timestamp": "2026-06-03T03:56:26+00:00",
+      "timestamp_display": "02/06/2026 21:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠    \nLibramiento Noreste de Querétaro, km 20, dirección San Luis Potosí. Continúa reducción de carriles por labores de desmantelamiento de la Plaza de Cobro Chichimequillas. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.73804664167625,
+      "lng": -100.44308176551276,
+      "road": 57,
+      "km": 20,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062012442176016619#m",
+      "timestamp": "2026-06-03T03:24:11+00:00",
+      "timestamp_display": "02/06/2026 21:24 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/oQ7PwffAnM8uvWTU7",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061971026011984318#m",
+      "timestamp": "2026-06-03T00:39:36+00:00",
+      "timestamp_display": "02/06/2026 18:39 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -93,7 +200,46 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. \nAutopista Las Choapas - Ocozocoautla, km 162. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos. El personal se encuentra realizando las labores de atención del accidente.   \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062010445125374184#m",
+      "timestamp": "2026-06-03T03:16:15+00:00",
+      "timestamp_display": "02/06/2026 21:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nCarretera Guamúchil - Guasave, Puente Sinaloa. Reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062006618355577149#m",
+      "timestamp": "2026-06-03T03:01:02+00:00",
+      "timestamp_display": "02/06/2026 21:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 162. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/v82HVzfL6j7rXd8P6",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 162,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2061965595843731556#m",
+      "timestamp": "2026-06-03T00:18:02+00:00",
+      "timestamp_display": "02/06/2026 18:18 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \nAutopista Las Choapas - Ocozocoautla, km 162. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos. El personal se encuentra realizando las labores de atención del accidente.   \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -104,6 +250,48 @@
       "timestamp": "2026-06-03T02:21:31+00:00",
       "timestamp_display": "02/06/2026 20:21 CST",
       "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Las Choapas - Ocozocoautla, km 162. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 162,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062006469176832112#m",
+      "timestamp": "2026-06-03T03:00:27+00:00",
+      "timestamp_display": "02/06/2026 21:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062004041178034359#m",
+      "timestamp": "2026-06-03T02:50:48+00:00",
+      "timestamp_display": "02/06/2026 20:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠          \nAut. Córdoba - Veracruz, km 45, dirección Veracruz. Registra carga vehicular y circulación lenta a la altura de la gasa de incorporación a la Aut. La Tinaja - Isla, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.785271569357235,
+      "lng": -96.49800250794725,
+      "road": 150,
+      "km": 45,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062002344351416709#m",
+      "timestamp": "2026-06-03T02:44:03+00:00",
+      "timestamp_display": "02/06/2026 20:44 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Isla - Acayucan, km 163, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -239,113 +427,6 @@
       "url": "https://nitter.net/CAPUFE/status/2061971366639726866#m",
       "timestamp": "2026-06-03T00:40:58+00:00",
       "timestamp_display": "02/06/2026 18:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/oQ7PwffAnM8uvWTU7",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061971026011984318#m",
-      "timestamp": "2026-06-03T00:39:36+00:00",
-      "timestamp_display": "02/06/2026 18:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 163, dirección Isla. Reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 163,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061968476290297881#m",
-      "timestamp": "2026-06-03T00:29:28+00:00",
-      "timestamp_display": "02/06/2026 18:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 162. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/v82HVzfL6j7rXd8P6",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 162,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061965595843731556#m",
-      "timestamp": "2026-06-03T00:18:02+00:00",
-      "timestamp_display": "02/06/2026 18:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoPuebla, registra #lluvia a la altura de la Plaza de Cobro San Martín. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061964548110791042#m",
-      "timestamp": "2026-06-03T00:13:52+00:00",
-      "timestamp_display": "02/06/2026 18:13 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061962076671619349#m",
-      "timestamp": "2026-06-03T00:04:03+00:00",
-      "timestamp_display": "02/06/2026 18:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Oriente de Chihuahua, km 31. El accidente ha sido atendido. Se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2061961809838424122#m",
-      "timestamp": "2026-06-03T00:02:59+00:00",
-      "timestamp_display": "02/06/2026 18:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nCarretera Cd. Alemán - Roma Texas, Plaza de Cobro Pte. Miguel Alemán, dirección Roma Texas. Cierre a la circulación por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061960585248382978#m",
-      "timestamp": "2026-06-02T23:58:07+00:00",
-      "timestamp_display": "02/06/2026 17:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Cd. Mendoza, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061956726069305559#m",
-      "timestamp": "2026-06-02T23:42:47+00:00",
-      "timestamp_display": "02/06/2026 17:42 CST",
       "segment": null
     }
   ]
