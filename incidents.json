@@ -1,17 +1,56 @@
 {
-  "last_update": "2026-06-03T07:59:56.938436",
+  "last_update": "2026-06-03T09:51:02.177287",
   "incidents": [
     {
-      "title": "En #Sinaloa continúa cierre total de circulación por presencia de personas cerca del km 132+200, de la carretera Mazatlán - Culiacán, con dirección a Sinaloa. Atienda indicación vial.",
+      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 181+500, de la carretera Cd. Victoria-Monterrey, con dirección a Linares, N.L. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 181.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2062094499635982805#m",
+      "timestamp": "2026-06-03T08:50:15+00:00",
+      "timestamp_display": "03/06/2026 02:50 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 167+000, de la carretera Monterrey-Reynosa, con dirección a Cadereyta, N.L. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 167.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2062092849378734164#m",
+      "timestamp": "2026-06-03T08:43:41+00:00",
+      "timestamp_display": "03/06/2026 02:43 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sinaloa continúa cierre parcial de circulación por presencia de personas cerca del km 132+200, de la carretera Mazatlán - Culiacán, con dirección a Sinaloa. Atienda indicación vial.",
       "type": "twitter",
       "lat": 24.8,
       "lng": -107.39,
       "road": null,
       "km": 132.2,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2062081128048042215#m",
-      "timestamp": "2026-06-03T07:57:07+00:00",
-      "timestamp_display": "03/06/2026 01:57 CST",
+      "url": "https://nitter.net/GN_Carreteras/status/2062082156696940814#m",
+      "timestamp": "2026-06-03T08:01:12+00:00",
+      "timestamp_display": "03/06/2026 02:01 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sinaloa se continúa cierre parcial de circulación por presencia de personas a un costado de la Caseta de Cobro Costa Rica Sin., cerca del km 170+000, de la carretera Culiacán – Los Mochis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 170.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2062081864198672652#m",
+      "timestamp": "2026-06-03T08:00:02+00:00",
+      "timestamp_display": "03/06/2026 02:00 CST",
       "segment": null
     },
     {
@@ -197,6 +236,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2061967228858143055#m",
       "timestamp": "2026-06-03T00:24:31+00:00",
       "timestamp_display": "02/06/2026 18:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \nAutopista La Tinaja - Isla, km 77, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 77,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062107859697979522#m",
+      "timestamp": "2026-06-03T09:43:20+00:00",
+      "timestamp_display": "03/06/2026 03:43 CST",
       "segment": null
     },
     {
@@ -437,19 +489,6 @@
       "url": "https://nitter.net/CAPUFE/status/2061993627212042564#m",
       "timestamp": "2026-06-03T02:09:25+00:00",
       "timestamp_display": "02/06/2026 20:09 CST",
-      "segment": null
-    },
-    {
-      "title": "La carretera también nos conecta. 🛣️\nEn nuestras redes encontrarás información, avisos y recomendaciones para tu viaje.\n👉 Síguenos y mantente al tanto en cada trayecto.\n#CAPUFE #Síguenos #ConectadosEnElCamino #CAPUFEContigo",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2061991260483895499#m",
-      "timestamp": "2026-06-03T02:00:01+00:00",
-      "timestamp_display": "02/06/2026 20:00 CST",
       "segment": null
     }
   ]
