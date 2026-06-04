@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-04T05:57:34.114993",
+  "last_update": "2026-06-04T07:52:40.927434",
   "incidents": [
     {
       "title": "Al momento, cierre total de circulación por maniobras, protección civil trabaja en el trasvase, llevan un avance del 50%. Atienda indicación vial.",
@@ -274,6 +274,158 @@
       ]
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 81, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.98955480355397,
+      "lng": -96.26491681452083,
+      "road": 150,
+      "km": 81,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062439655828602903#m",
+      "timestamp": "2026-06-04T07:41:46+00:00",
+      "timestamp_display": "04/06/2026 01:41 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062437038763241711#m",
+      "timestamp": "2026-06-04T07:31:22+00:00",
+      "timestamp_display": "04/06/2026 01:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nLibramiento Ciudad Valles - Tamuín, km 84. Continúa circulación intermitente en ambos sentidos por atención de accidente (labores de limpieza). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 21.997,
+      "lng": -99.01,
+      "road": null,
+      "km": 84,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062435579585810912#m",
+      "timestamp": "2026-06-04T07:25:35+00:00",
+      "timestamp_display": "04/06/2026 01:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 3, dirección Nuevo Teapa. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.04811716806261,
+      "lng": -94.33298209482555,
+      "road": 180,
+      "km": 3,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062434159587459411#m",
+      "timestamp": "2026-06-04T07:19:56+00:00",
+      "timestamp_display": "04/06/2026 01:19 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Córdoba - Veracruz, km 81, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.98955480355397,
+      "lng": -96.26491681452083,
+      "road": 150,
+      "km": 81,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062433791558213650#m",
+      "timestamp": "2026-06-04T07:18:28+00:00",
+      "timestamp_display": "04/06/2026 01:18 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 152, dirección CDMX. Reducción de carriles centrales por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 152,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062433538058658048#m",
+      "timestamp": "2026-06-04T07:17:28+00:00",
+      "timestamp_display": "04/06/2026 01:17 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062423410378989764#m",
+      "timestamp": "2026-06-04T06:37:13+00:00",
+      "timestamp_display": "04/06/2026 00:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, registra #lluvia del km 96 al 118. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062416984738795930#m",
+      "timestamp": "2026-06-04T06:11:41+00:00",
+      "timestamp_display": "04/06/2026 00:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \n#AutMéxicoCuernavaca, del km 21 al 23. Registra circulación en contraflujo por labores de mantenimiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 21,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062416490721124701#m",
+      "timestamp": "2026-06-04T06:09:43+00:00",
+      "timestamp_display": "04/06/2026 00:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 23 al 38. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 23,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062414325508141561#m",
+      "timestamp": "2026-06-04T06:01:07+00:00",
+      "timestamp_display": "04/06/2026 00:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Ing. Francisco Velasco Durán. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062413871030108406#m",
+      "timestamp": "2026-06-04T05:59:19+00:00",
+      "timestamp_display": "03/06/2026 23:59 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Querétaro - Irapuato, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -313,7 +465,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Registra reducción de carriles por atención de choque contra cabina. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/nYjWMnqSpKf8WjgW8",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Registra reducción de carriles por atención de choque contra cabina. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/nYjWMnqSpKf8WjgW8",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -378,171 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2062393951412273317#m",
       "timestamp": "2026-06-04T04:40:10+00:00",
       "timestamp_display": "03/06/2026 22:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 171, dirección Isla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Dirección Acayucan, se restablece la circulación con reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 171,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062384862418338212#m",
-      "timestamp": "2026-06-04T04:04:03+00:00",
-      "timestamp_display": "03/06/2026 22:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062383101758570831#m",
-      "timestamp": "2026-06-04T03:57:03+00:00",
-      "timestamp_display": "03/06/2026 21:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 96, dirección Ensenada. Reducción de carriles por atención de choque por alcance múltiple entre autobús y automóviles. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/dxysnr4zeGJE1h9y6",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2062350798009336169#m",
-      "timestamp": "2026-06-04T01:48:41+00:00",
-      "timestamp_display": "03/06/2026 19:48 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 96, dirección Ensenada. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062381502067790113#m",
-      "timestamp": "2026-06-04T03:50:41+00:00",
-      "timestamp_display": "03/06/2026 21:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Registra reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062381238560735481#m",
-      "timestamp": "2026-06-04T03:49:39+00:00",
-      "timestamp_display": "03/06/2026 21:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 171. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 171,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062380856287666249#m",
-      "timestamp": "2026-06-04T03:48:07+00:00",
-      "timestamp_display": "03/06/2026 21:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Nuevo Teapa - Cosoleacaque, km 3, dirección Nuevo Teapa. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.04811716806261,
-      "lng": -94.33298209482555,
-      "road": 180,
-      "km": 3,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2062380183227617365#m",
-      "timestamp": "2026-06-04T03:45:27+00:00",
-      "timestamp_display": "03/06/2026 21:45 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 171, dirección Isla. Continúa cierre a la circulación por atención de accidente (choque contra muro central y volcadura de tracto camión). Dirección La Tinaja, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.951639553704897,
-      "lng": -95.10110105158026,
-      "road": 145,
-      "km": 171,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062378282675249621#m",
-      "timestamp": "2026-06-04T03:37:54+00:00",
-      "timestamp_display": "03/06/2026 21:37 CST",
-      "segment": [
-        "la tinaja",
-        "acayucan"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 27, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062376385268629798#m",
-      "timestamp": "2026-06-04T03:30:22+00:00",
-      "timestamp_display": "03/06/2026 21:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 17, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.840824548711325,
-      "lng": -96.75419047929334,
-      "road": 150,
-      "km": 17,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062374761485774973#m",
-      "timestamp": "2026-06-04T03:23:54+00:00",
-      "timestamp_display": "03/06/2026 21:23 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 223, dirección Tehuacán. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 223,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062373009839489360#m",
-      "timestamp": "2026-06-04T03:16:57+00:00",
-      "timestamp_display": "03/06/2026 21:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nLibramiento Ciudad Valles - Tamuín, km 84. Circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 21.997,
-      "lng": -99.01,
-      "road": null,
-      "km": 84,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062369891798188223#m",
-      "timestamp": "2026-06-04T03:04:33+00:00",
-      "timestamp_display": "03/06/2026 21:04 CST",
       "segment": null
     }
   ]
