@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-05T08:32:59.331624",
+  "last_update": "2026-06-05T10:07:37.694338",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 034+900, de la carretera Pachuca - Tuxpan, con dirección a Ciudad de México. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, registra #lluvia del km 100 al 188. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 100,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062838103505502362#m",
+      "timestamp": "2026-06-05T10:05:04+00:00",
+      "timestamp_display": "05/06/2026 04:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Ing. Francisco Velasco Durán. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062828877039153178#m",
+      "timestamp": "2026-06-05T09:28:24+00:00",
+      "timestamp_display": "05/06/2026 03:28 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Plan de Ayala - El Porvenir, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -496,32 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2062737574486069386#m",
       "timestamp": "2026-06-05T03:25:36+00:00",
       "timestamp_display": "04/06/2026 21:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CARGA VEHICULAR🟠\nAutopista Chamapa - Lechería, km 4, dirección Lechería. Continúa carga vehicular por atención a incidencia fuera de la cobertura de CAPUFE. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 4,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2062737226639786429#m",
-      "timestamp": "2026-06-05T03:24:13+00:00",
-      "timestamp_display": "04/06/2026 21:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2062736527583523000#m",
-      "timestamp": "2026-06-05T03:21:26+00:00",
-      "timestamp_display": "04/06/2026 21:21 CST",
       "segment": null
     }
   ]
