@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-05T07:09:42.342905",
+  "last_update": "2026-06-05T08:32:59.331624",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 034+900, de la carretera Pachuca - Tuxpan, con dirección a Ciudad de México. Atienda indicación vial.",
@@ -265,6 +265,45 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Plan de Ayala - El Porvenir, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062802150896378167#m",
+      "timestamp": "2026-06-05T07:42:12+00:00",
+      "timestamp_display": "05/06/2026 01:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. La Carbonera - Puerto México, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2062802043807359214#m",
+      "timestamp": "2026-06-05T07:41:46+00:00",
+      "timestamp_display": "05/06/2026 01:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Noreste de Querétaro (Chichimequillas), km 12, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2062800473900343726#m",
+      "timestamp": "2026-06-05T07:35:32+00:00",
+      "timestamp_display": "05/06/2026 01:35 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 12, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -483,45 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2062736527583523000#m",
       "timestamp": "2026-06-05T03:21:26+00:00",
       "timestamp_display": "04/06/2026 21:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 41, dirección Cuernavaca. Registra reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 41,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062730704316744082#m",
-      "timestamp": "2026-06-05T02:58:18+00:00",
-      "timestamp_display": "04/06/2026 20:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 219, dirección Acatzingo. El incidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 219,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2062728236228821007#m",
-      "timestamp": "2026-06-05T02:48:29+00:00",
-      "timestamp_display": "04/06/2026 20:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, km 165, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 165,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2062727870351327468#m",
-      "timestamp": "2026-06-05T02:47:02+00:00",
-      "timestamp_display": "04/06/2026 20:47 CST",
       "segment": null
     }
   ]
