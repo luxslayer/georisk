@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-06T06:38:42.150357",
+  "last_update": "2026-06-06T07:41:15.718422",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #AccidenteVial cerca del km 104+200, de la carretera Libramiento Perote. Atienda indicación vial.",
@@ -268,6 +268,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 113, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 113,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063159481597366343#m",
+      "timestamp": "2026-06-06T07:22:06+00:00",
+      "timestamp_display": "06/06/2026 01:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Oriente de Chihuahua, km 31. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063156233792573504#m",
+      "timestamp": "2026-06-06T07:09:12+00:00",
+      "timestamp_display": "06/06/2026 01:09 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. \n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. \n\nPersonal de CAPUFE y Guardia Nacional continúan laborando en la atención del accidente. \n\nEn la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063154193968361605#m",
+      "timestamp": "2026-06-06T07:01:06+00:00",
+      "timestamp_display": "06/06/2026 01:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 118, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 118,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063149271973539999#m",
+      "timestamp": "2026-06-06T06:41:32+00:00",
+      "timestamp_display": "06/06/2026 00:41 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 29, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -333,7 +385,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las labores de limpieza en la zona.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las labores de limpieza en la zona.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -476,64 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063121893033496786#m",
       "timestamp": "2026-06-06T04:52:44+00:00",
       "timestamp_display": "05/06/2026 22:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Córdoba - Veracruz, km 79, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.974917774760478,
-      "lng": -96.2759707914177,
-      "road": 150,
-      "km": 79,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063121194279195133#m",
-      "timestamp": "2026-06-06T04:49:58+00:00",
-      "timestamp_display": "05/06/2026 22:49 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 22, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.823866456434764,
-      "lng": -96.71146256794093,
-      "road": 150,
-      "km": 22,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063120754355372431#m",
-      "timestamp": "2026-06-06T04:48:13+00:00",
-      "timestamp_display": "05/06/2026 22:48 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista La Tinaja - Isla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063116277074288986#m",
-      "timestamp": "2026-06-06T04:30:25+00:00",
-      "timestamp_display": "05/06/2026 22:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, continúa #lluvia del km 178 al 179. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 178,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063115962535055871#m",
-      "timestamp": "2026-06-06T04:29:10+00:00",
-      "timestamp_display": "05/06/2026 22:29 CST",
       "segment": null
     }
   ]
