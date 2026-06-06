@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-06-06T08:40:12.343318",
+  "last_update": "2026-06-06T09:31:01.796258",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre total de circulación por #AccidenteVial cerca del km 151+500, de la carretera Lagos de Moreno-Guadalajara con dirección Lagos de Moreno. Se orienta a la ciudadanía #Rutaalterna autopista Lagos de Moreno-Zapotlanejo.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 151.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063190900075909220#m",
+      "timestamp": "2026-06-06T09:26:57+00:00",
+      "timestamp_display": "06/06/2026 03:26 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Jalisco tras #AccidenteVial cerca del km 056+500, de la carretera Acatlán de Juárez - Colima. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 56.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063184327681126857#m",
+      "timestamp": "2026-06-06T09:00:50+00:00",
+      "timestamp_display": "06/06/2026 03:00 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #Accidentevial cerca del km 046+500, de la carretera Las Choapas - Ocozocoautla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 46.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063183683306078432#m",
+      "timestamp": "2026-06-06T08:58:16+00:00",
+      "timestamp_display": "06/06/2026 02:58 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Hidalgo tras #AccidenteVial cerca del km 138+000, de la carretera Libramiento Norte de la Ciudad de México. Maneje con precaución.",
       "type": "twitter",
@@ -229,42 +268,16 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Oaxaca se registra presencia de personas cerca del Km 220+000, de la carretera Cuacnopalan-Oaxaca a la altura de la caseta de cobro No. 79, San Pablo Huitzo. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 220.0,
+      "km": 73,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063015487332610337#m",
-      "timestamp": "2026-06-05T21:49:55+00:00",
-      "timestamp_display": "05/06/2026 15:49 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Aguascalientes se registra cierre total de circulación por presencia de personas cerca del km 031+500, de la carretera Aguascalientes - Zacatecas. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": null,
-      "km": 31.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063013737825452358#m",
-      "timestamp": "2026-06-05T21:42:58+00:00",
-      "timestamp_display": "05/06/2026 15:42 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Morelos tras presencia de personas cerca del km 008+000, de la carretera La Pera - Cuautla a la altura de la caseta de cobro No. 24 Tepoztlán. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 8.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063012002037940271#m",
-      "timestamp": "2026-06-05T21:36:04+00:00",
-      "timestamp_display": "05/06/2026 15:36 CST",
+      "url": "https://nitter.net/CAPUFE/status/2063183852336542090#m",
+      "timestamp": "2026-06-06T08:58:57+00:00",
+      "timestamp_display": "06/06/2026 02:58 CST",
       "segment": null
     },
     {
@@ -515,19 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063127414033580495#m",
       "timestamp": "2026-06-06T05:14:41+00:00",
       "timestamp_display": "05/06/2026 23:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 113, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 113,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063126179750568320#m",
-      "timestamp": "2026-06-06T05:09:46+00:00",
-      "timestamp_display": "05/06/2026 23:09 CST",
       "segment": null
     }
   ]
