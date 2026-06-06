@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-06-06T13:11:23.872715",
+  "last_update": "2026-06-06T13:55:40.283105",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 132+000, de la carretera Culiacán-Los Mochis a la altura de la caseta de cobro No.11 Puente Sinaloa. Se orienta a la ciudadanía, libre acceso vehicular. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 132.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063258088950354250#m",
+      "timestamp": "2026-06-06T13:53:56+00:00",
+      "timestamp_display": "06/06/2026 07:53 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 178+800, de la autopista Mazatlán-Culiacán a la altura de la caseta de cobro Costa Rica. Se orienta a la ciudadanía, libre acceso vehicular. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 178.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063257762604151203#m",
+      "timestamp": "2026-06-06T13:52:38+00:00",
+      "timestamp_display": "06/06/2026 07:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 023+500, de la Autopista Lic. Benito Juárez a la altura de la caseta de cobro El Pisal. Se orienta a la ciudadanía, libre acceso vehicular. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 23.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063257420827082788#m",
+      "timestamp": "2026-06-06T13:51:17+00:00",
+      "timestamp_display": "06/06/2026 07:51 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #Accidentevial cerca del km 032+500, de la carretera  Tampico - Cd. Mante. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 32.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063252873136287998#m",
+      "timestamp": "2026-06-06T13:33:12+00:00",
+      "timestamp_display": "06/06/2026 07:33 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #Accidentevial cerca del km 052+000, de la carretera México-Querétaro. Atienda indicación vial.",
       "type": "twitter",
@@ -213,58 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2063045369513033858#m",
       "timestamp": "2026-06-05T23:48:40+00:00",
       "timestamp_display": "05/06/2026 17:48 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Aguascalientes tras presencia de personas cerca del km 031+500, de la carretera Aguascalientes - Zacatecas. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": null,
-      "km": 31.5,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063044886794801477#m",
-      "timestamp": "2026-06-05T23:46:45+00:00",
-      "timestamp_display": "05/06/2026 17:46 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Tijuana tras presencia de personas cerca del km 036+640, de la carretera  Tijuana - San Miguel a la altura de la caseta de cobro Playas de Rosarito. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 36.64,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063020757051957526#m",
-      "timestamp": "2026-06-05T22:10:52+00:00",
-      "timestamp_display": "05/06/2026 16:10 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Morelos tras presencia de personas cerca del Km 102+200, de la autopista siglo XXI a la altura de la caseta siglo XXI. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 102.2,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063020344521130191#m",
-      "timestamp": "2026-06-05T22:09:13+00:00",
-      "timestamp_display": "05/06/2026 16:09 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Jalisco tras #Accidentevial cerca del Km 006+600 del Libramiento Lagos de Moreno. Maneje con precaución",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 6.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063017108225626577#m",
-      "timestamp": "2026-06-05T21:56:22+00:00",
-      "timestamp_display": "05/06/2026 15:56 CST",
       "segment": null
     },
     {
