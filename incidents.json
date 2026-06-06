@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-06T11:45:50.069398",
+  "last_update": "2026-06-06T12:33:23.683541",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #Accidentevial cerca del km 052+000, de la carretera México-Querétaro. Atienda indicación vial.",
@@ -268,6 +268,35 @@
       "segment": null
     },
     {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN 🟠\nCarretera Guamúchil - Guasave, Puente Sinaloa. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063236959565160721#m",
+      "timestamp": "2026-06-06T12:29:58+00:00",
+      "timestamp_display": "06/06/2026 06:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Córdoba - Veracruz, km 79, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.974917774760478,
+      "lng": -96.2759707914177,
+      "road": 150,
+      "km": 79,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063233650800382288#m",
+      "timestamp": "2026-06-06T12:16:50+00:00",
+      "timestamp_display": "06/06/2026 06:16 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Emiliano Zapata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -499,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063144222299918696#m",
       "timestamp": "2026-06-06T06:21:28+00:00",
       "timestamp_display": "06/06/2026 00:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 113, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas).\n\nEn la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 113,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063143899082735752#m",
-      "timestamp": "2026-06-06T06:20:11+00:00",
-      "timestamp_display": "06/06/2026 00:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️   \nAutopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063142847386144874#m",
-      "timestamp": "2026-06-06T06:16:00+00:00",
-      "timestamp_display": "06/06/2026 00:16 CST",
       "segment": null
     }
   ]
