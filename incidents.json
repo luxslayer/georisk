@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-06T22:38:20.329139",
+  "last_update": "2026-06-06T23:08:44.235684",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre  de circulación en 2 carriles por #Accidentevial cerca del km 104+000, de la ctra. Cd. Victoria-Matamoros, a la altura de la Loc. Sor Juana Inés de la Cruz, con dir. a Cd. Victoria  Atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nLibramiento Cuernavaca, km 95, dirección Acapulco. El incidente en el Distribuidor vial Palmira ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063395747848991038#m",
+      "timestamp": "2026-06-06T23:00:56+00:00",
+      "timestamp_display": "06/06/2026 17:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 95, dirección Acapulco. Registra cierre a la circulación en el Distribuidor Vial Palmira por atención de accidente (choque por alcance múltiple). En la zona se da paso por los carriles laterales. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063391856919281665#m",
+      "timestamp": "2026-06-06T22:45:29+00:00",
+      "timestamp_display": "06/06/2026 16:45 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 94, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -514,32 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063334348351328600#m",
       "timestamp": "2026-06-06T18:56:58+00:00",
       "timestamp_display": "06/06/2026 12:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063324158654648574#m",
-      "timestamp": "2026-06-06T18:16:28+00:00",
-      "timestamp_display": "06/06/2026 12:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063323865040797726#m",
-      "timestamp": "2026-06-06T18:15:18+00:00",
-      "timestamp_display": "06/06/2026 12:15 CST",
       "segment": null
     }
   ]
