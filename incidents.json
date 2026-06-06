@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-06T22:08:48.697521",
+  "last_update": "2026-06-06T22:38:20.329139",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre  de circulación en 2 carriles por #Accidentevial cerca del km 104+000, de la ctra. Cd. Victoria-Matamoros, a la altura de la Loc. Sor Juana Inés de la Cruz, con dir. a Cd. Victoria  Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 104.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063388569595482352#m",
+      "timestamp": "2026-06-06T22:32:25+00:00",
+      "timestamp_display": "06/06/2026 16:32 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre total de circulación por #Accidentevial cerca del km 006+900, de la carretera Libramiento Reynosa Sur II, a la altura del poblado  el Guerreño.  Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 26.0922,
+      "lng": -98.2773,
+      "road": null,
+      "km": 6.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063386985633305010#m",
+      "timestamp": "2026-06-06T22:26:07+00:00",
+      "timestamp_display": "06/06/2026 16:26 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #Accidentevial cerca del km 073+300, de la carretera México-Puebla,  a la altura del Mpio. Santa Rita Tlahuapan, con dir. a Puebla.  Atienda indicación vial.",
       "type": "twitter",
@@ -248,29 +274,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación por #Accidentevial cerca del km 048+600, de la carretera la Chicharrona-Cuencamé, con dir. a Río Grande, se da vialidad por el derecho de vía. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 94, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 48.6,
+      "km": 94,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063282422767128783#m",
-      "timestamp": "2026-06-06T15:30:38+00:00",
-      "timestamp_display": "06/06/2026 09:30 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación por #Accidentevial cerca del km 194+700, de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dir. a Comitán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
-      "road": null,
-      "km": 194.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063280771473829972#m",
-      "timestamp": "2026-06-06T15:24:04+00:00",
-      "timestamp_display": "06/06/2026 09:24 CST",
+      "url": "https://nitter.net/CAPUFE/status/2063387813161173391#m",
+      "timestamp": "2026-06-06T22:29:25+00:00",
+      "timestamp_display": "06/06/2026 16:29 CST",
       "segment": null
     },
     {
@@ -528,22 +541,6 @@
       "timestamp": "2026-06-06T18:15:18+00:00",
       "timestamp_display": "06/06/2026 12:15 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Córdoba - Veracruz, km 79, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.974917774760478,
-      "lng": -96.2759707914177,
-      "road": 150,
-      "km": 79,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063321468142776689#m",
-      "timestamp": "2026-06-06T18:05:47+00:00",
-      "timestamp_display": "06/06/2026 12:05 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
