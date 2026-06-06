@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-06T11:04:41.796835",
+  "last_update": "2026-06-06T11:45:50.069398",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación por #Accidentevial cerca del km 052+000, de la carretera México-Querétaro. Atienda indicación vial.",
@@ -268,6 +268,71 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Emiliano Zapata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063225478949765529#m",
+      "timestamp": "2026-06-06T11:44:21+00:00",
+      "timestamp_display": "06/06/2026 05:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS  🌧️🌩️\nLibramiento de Villahermosa, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063225312477863992#m",
+      "timestamp": "2026-06-06T11:43:42+00:00",
+      "timestamp_display": "06/06/2026 05:43 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles. El personal se encuentra realizando las labores de atención del accidente.\n\nManeja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063224612691824962#m",
+      "timestamp": "2026-06-06T11:40:55+00:00",
+      "timestamp_display": "06/06/2026 05:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063223865497567659#m",
+      "timestamp": "2026-06-06T11:37:57+00:00",
+      "timestamp_display": "06/06/2026 05:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 336, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 336,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063223467105829287#m",
+      "timestamp": "2026-06-06T11:36:22+00:00",
+      "timestamp_display": "06/06/2026 05:36 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista La Pera - Cuautla, registra #lluvia a la altura de la Plaza de Cobro Oacalco. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -398,7 +463,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. \n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. \n\nPersonal de CAPUFE y Guardia Nacional continúan laborando en la atención del accidente. \n\nEn la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. \n\nPersonal de CAPUFE y Guardia Nacional continúan laborando en la atención del accidente. \n\nEn la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -460,71 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063142847386144874#m",
       "timestamp": "2026-06-06T06:16:00+00:00",
       "timestamp_display": "06/06/2026 00:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Oriente de Chihuahua, km 31. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063142506120798556#m",
-      "timestamp": "2026-06-06T06:14:39+00:00",
-      "timestamp_display": "06/06/2026 00:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Las Choapas - Ocozocoautla, km 46. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063140733427532088#m",
-      "timestamp": "2026-06-06T06:07:36+00:00",
-      "timestamp_display": "06/06/2026 00:07 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 52, dirección CDMX. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las labores de limpieza en la zona.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063139746918887912#m",
-      "timestamp": "2026-06-06T06:03:41+00:00",
-      "timestamp_display": "06/06/2026 00:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 162, dirección Isla. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 162,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063135977174958231#m",
-      "timestamp": "2026-06-06T05:48:42+00:00",
-      "timestamp_display": "05/06/2026 23:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 50, dirección CDMX. Cierre a la circulación por atención de incidente (maniobras para el retiro de unidad con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063129661211550156#m",
-      "timestamp": "2026-06-06T05:23:36+00:00",
-      "timestamp_display": "05/06/2026 23:23 CST",
       "segment": null
     }
   ]
