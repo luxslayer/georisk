@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-06-06T16:14:27.468047",
+  "last_update": "2026-06-06T16:42:44.491786",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #DeslavedeySocavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con dir. a Tehuantepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 66.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063300424011047148#m",
+      "timestamp": "2026-06-06T16:42:10+00:00",
+      "timestamp_display": "06/06/2026 10:42 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #Accidentevial cerca del km 301+000, de la carretera Puebla-Córdoba, a la altura del Mpio. Amatlán de los Reyes, con dir. a Veracruz,  Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.85603170906762,
+      "lng": -96.80774952738,
+      "road": 150,
+      "km": 192.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063296289534615954#m",
+      "timestamp": "2026-06-06T16:25:44+00:00",
+      "timestamp_display": "06/06/2026 10:25 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación por #Accidentevial cerca del km 079+500, de la carretera Tuxpan-Tampico, a la altura del Mpio. Naranjos,  Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 79.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063293503229046932#m",
+      "timestamp": "2026-06-06T16:14:39+00:00",
+      "timestamp_display": "06/06/2026 10:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Zacatecas se registra cierre parcial de la circulación por #Accidentevial cerca del km 048+600, de la carretera la Chicharrona-Cuencamé, con dir. a Río Grande, se da vialidad por el derecho de vía. Atienda indicación vial.",
       "type": "twitter",
@@ -223,45 +265,29 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 073+300, de la carretera  México-Puebla. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nLibramiento Chilpancingo, km 278, dirección Acapulco. Parador del Marqués (fuera de la cobertura de CAPUFE). Cierre a la circulación por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 088 de @GN_Carreteras.",
       "type": "twitter",
-      "lat": 19.33694522312358,
-      "lng": -98.58486046702183,
-      "road": 150,
-      "km": 55.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063087989668864192#m",
-      "timestamp": "2026-06-06T02:38:01+00:00",
-      "timestamp_display": "05/06/2026 20:38 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre total de la circulación por #AccidenteVial cerca del km 056+500, de la carretera Acatlán de Juárez - Colima. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 56.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063073235755786652#m",
-      "timestamp": "2026-06-06T01:39:24+00:00",
-      "timestamp_display": "05/06/2026 19:39 CST",
+      "km": 278,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063300394474729762#m",
+      "timestamp": "2026-06-06T16:42:02+00:00",
+      "timestamp_display": "06/06/2026 10:42 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación por #AccidenteVial cerca del km 069+500, de la carretera Matamoros-Reynosa. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 74, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
-      "lat": 26.0922,
-      "lng": -98.2773,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 69.5,
+      "km": 74,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063072792786919637#m",
-      "timestamp": "2026-06-06T01:37:38+00:00",
-      "timestamp_display": "05/06/2026 19:37 CST",
+      "url": "https://nitter.net/CAPUFE/status/2063295110901584009#m",
+      "timestamp": "2026-06-06T16:21:03+00:00",
+      "timestamp_display": "06/06/2026 10:21 CST",
       "segment": null
     },
     {
@@ -463,45 +489,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063262179625751032#m",
       "timestamp": "2026-06-06T14:10:11+00:00",
       "timestamp_display": "06/06/2026 08:10 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nLa velocidad inadecuada incrementa el riesgo en carretera.\n👉 Conduce con precaución y respeta los límites. 🚙\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063259620911800794#m",
-      "timestamp": "2026-06-06T14:00:01+00:00",
-      "timestamp_display": "06/06/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063244310498127894#m",
-      "timestamp": "2026-06-06T12:59:11+00:00",
-      "timestamp_display": "06/06/2026 06:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 86, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance y salida del camino de tracto camión). Tránsito lento en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063241637220741332#m",
-      "timestamp": "2026-06-06T12:48:34+00:00",
-      "timestamp_display": "06/06/2026 06:48 CST",
       "segment": null
     }
   ]
