@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-06-06T02:21:29.573279",
+  "last_update": "2026-06-06T03:46:55.810414",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Puebla tras #AccidenteVial cerca del km 073+300, de la carretera  México-Puebla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.33694522312358,
+      "lng": -98.58486046702183,
+      "road": 150,
+      "km": 55.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063087989668864192#m",
+      "timestamp": "2026-06-06T02:38:01+00:00",
+      "timestamp_display": "05/06/2026 20:38 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre total de la circulación por #AccidenteVial cerca del km 056+500, de la carretera Acatlán de Juárez - Colima. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +268,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guerrero se registra presencia de personas cerca del km 288+900, de la Autopista México - Acapulco a la altura de la caseta de cobro 103 Palo Blanco. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 118, dirección La Tinaja. Registra reducción de carriles por atención de accidente (volcadura de tracto camión y caída de carga). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 288.9,
+      "km": 118,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063103865143112076#m",
+      "timestamp": "2026-06-06T03:41:06+00:00",
+      "timestamp_display": "05/06/2026 21:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2062951364150358120#m",
-      "timestamp": "2026-06-05T17:35:07+00:00",
-      "timestamp_display": "05/06/2026 11:35 CST",
+      "url": "https://nitter.net/CAPUFE/status/2063098982746726824#m",
+      "timestamp": "2026-06-06T03:21:42+00:00",
+      "timestamp_display": "05/06/2026 21:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Oriente de Chihuahua, km 31. Registra circulación intermitente en ambos sentidos por atención de accidente (choque contra barreras metálicas). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063091949104439620#m",
+      "timestamp": "2026-06-06T02:53:45+00:00",
+      "timestamp_display": "05/06/2026 20:53 CST",
       "segment": null
     },
     {
@@ -495,45 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063059632348659911#m",
       "timestamp": "2026-06-06T00:45:20+00:00",
       "timestamp_display": "05/06/2026 18:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Chamapa - Lechería, km 10, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Atizapan, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063057850830630958#m",
-      "timestamp": "2026-06-06T00:38:16+00:00",
-      "timestamp_display": "05/06/2026 18:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 36, dirección CDMX. Continúa circulación intermitente por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063054904151691585#m",
-      "timestamp": "2026-06-06T00:26:33+00:00",
-      "timestamp_display": "05/06/2026 18:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista La Pera - Cuautla, Plaza de Cobro Tepoztlán. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063051435311292604#m",
-      "timestamp": "2026-06-06T00:12:46+00:00",
-      "timestamp_display": "05/06/2026 18:12 CST",
       "segment": null
     }
   ]
