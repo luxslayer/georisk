@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-07T21:41:45.845575",
+  "last_update": "2026-06-07T22:10:59.457090",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #Accidentevial cerca del km 283+600, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, con dir. a Acapulco. Atienda indicación vial.",
@@ -268,6 +268,45 @@
       ]
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063742625845215629#m",
+      "timestamp": "2026-06-07T21:59:19+00:00",
+      "timestamp_display": "07/06/2026 15:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 65, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 65,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063742543905411475#m",
+      "timestamp": "2026-06-07T21:58:59+00:00",
+      "timestamp_display": "07/06/2026 15:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 265,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063742158394241041#m",
+      "timestamp": "2026-06-07T21:57:27+00:00",
+      "timestamp_display": "07/06/2026 15:57 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nLibramiento Amecameca - Nepantla, continúa #lluvia y #neblina a la altura de la Plaza de Cobro Ozumba. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -486,45 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063696057884721241#m",
       "timestamp": "2026-06-07T18:54:16+00:00",
       "timestamp_display": "07/06/2026 12:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cuernavaca - Acapulco, registra #lluvia y #neblina a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063693407566823456#m",
-      "timestamp": "2026-06-07T18:43:44+00:00",
-      "timestamp_display": "07/06/2026 12:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063692675736359009#m",
-      "timestamp": "2026-06-07T18:40:50+00:00",
-      "timestamp_display": "07/06/2026 12:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Barranca Larga - Ventanilla, registra #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063687050759458849#m",
-      "timestamp": "2026-06-07T18:18:29+00:00",
-      "timestamp_display": "07/06/2026 12:18 CST",
       "segment": null
     }
   ]
