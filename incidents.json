@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-07T22:10:59.457090",
+  "last_update": "2026-06-07T22:39:14.178442",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Oaxaca tras presencia de personas cerca del km 220+000, de la carretera Cuacnopalan-Oaxaca,  a la altura de la caseta de cobro No. 79, San Pablo Huitzo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 220.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063746357312008494#m",
+      "timestamp": "2026-06-07T22:14:08+00:00",
+      "timestamp_display": "07/06/2026 16:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #Accidentevial cerca del km 283+600, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, con dir. a Acapulco. Atienda indicación vial.",
       "type": "twitter",
@@ -252,20 +265,56 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #Accidentevial cerca del km 029+000, de la carretera Monterrey-Nuevo Laredo,  a la altura del Parque Industrial las Américas, con dir. a Nuevo Laredo. Atienda indicación vial.",
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Cuernavaca - Acapulco, km 320, dirección Acapulco. Reducción de carriles por atención de derrumbe de talud. Maneja con precaución. \n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/4MjQVRtE8B5MUu1N8",
       "type": "twitter",
-      "lat": 25.924073638222268,
-      "lng": -100.22948554082662,
-      "road": 85,
-      "km": 9.0,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 320,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063750737721466898#m",
+      "timestamp": "2026-06-07T22:31:33+00:00",
+      "timestamp_display": "07/06/2026 16:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 230, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 230,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063493233804443827#m",
-      "timestamp": "2026-06-07T05:28:19+00:00",
-      "timestamp_display": "06/06/2026 23:28 CST",
-      "segment": [
-        "monterrey",
-        "nuevo laredo"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2063749285888335888#m",
+      "timestamp": "2026-06-07T22:25:47+00:00",
+      "timestamp_display": "07/06/2026 16:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 219, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063747818322329654#m",
+      "timestamp": "2026-06-07T22:19:57+00:00",
+      "timestamp_display": "07/06/2026 16:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 265,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063747180247097747#m",
+      "timestamp": "2026-06-07T22:17:24+00:00",
+      "timestamp_display": "07/06/2026 16:17 CST",
+      "segment": null
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
@@ -447,84 +496,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063714845086589118#m",
       "timestamp": "2026-06-07T20:08:55+00:00",
       "timestamp_display": "07/06/2026 14:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cuernavaca - Acapulco, continúa #lluvia del km 225 al 365. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 225,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063708117628530960#m",
-      "timestamp": "2026-06-07T19:42:11+00:00",
-      "timestamp_display": "07/06/2026 13:42 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ \nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063703716465627628#m",
-      "timestamp": "2026-06-07T19:24:42+00:00",
-      "timestamp_display": "07/06/2026 13:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nCarretera Culiacán - Los Mochis, Pte. Culiacán. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063703094257430987#m",
-      "timestamp": "2026-06-07T19:22:14+00:00",
-      "timestamp_display": "07/06/2026 13:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Barranca Larga - Ventanilla, km 55. Circulación intermitente en ambos sentidos por atención de accidente (volcadura de camioneta). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063702890594668795#m",
-      "timestamp": "2026-06-07T19:21:25+00:00",
-      "timestamp_display": "07/06/2026 13:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nLibramiento Poniente Acapulco, continúa #lluvia y #neblina. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063696132065087886#m",
-      "timestamp": "2026-06-07T18:54:34+00:00",
-      "timestamp_display": "07/06/2026 12:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cuernavaca - Acapulco, continúa #lluvia ligera a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063696057884721241#m",
-      "timestamp": "2026-06-07T18:54:16+00:00",
-      "timestamp_display": "07/06/2026 12:54 CST",
       "segment": null
     }
   ]
