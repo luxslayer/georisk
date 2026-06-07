@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-06-07T17:43:26.908223",
+  "last_update": "2026-06-07T18:12:36.194159",
   "incidents": [
+    {
+      "title": "Cierre total de circulación sobre la carretera libre y con afectación en un carril sobre la autopista, ambos con dirección a Toluca, Edo. Méx.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063685067004579880#m",
+      "timestamp": "2026-06-07T18:10:36+00:00",
+      "timestamp_display": "07/06/2026 12:10 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMx se registra presencia de personas cerca del km 036+300, de la carretera México (Ent. Constituyentes)-Toluca (Lerma), a inmediaciones de La Marquesa, con dir. a Toluca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 36.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063685021064478920#m",
+      "timestamp": "2026-06-07T18:10:25+00:00",
+      "timestamp_display": "07/06/2026 12:10 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 102+500, de la carretera Xalapa-Veracruz,  a la altura de la Loc. Ampliación Las Bajadas, con dir. a Paso de Ovejas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 102.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063678559252574548#m",
+      "timestamp": "2026-06-07T17:44:44+00:00",
+      "timestamp_display": "07/06/2026 11:44 CST",
+      "segment": null
+    },
     {
       "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje, dando paso libre a la circulación.",
       "type": "twitter",
@@ -232,42 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #Accidentevial cerca del km 042+600, de la carretera Lagos de moreno-Guadalajara,  a inmediaciones del Mpio. San Juan de Los Lagos, con dir. a Guadalajara. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": 42.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063426779725914469#m",
-      "timestamp": "2026-06-07T01:04:15+00:00",
-      "timestamp_display": "06/06/2026 19:04 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre de circulación por maniobras tras #Accidentevial cerca del km 057+200, de la carretera Pátzcuaro-Copándaro, a la altura del Mpio. Buena Vista. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 57.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063425589986357317#m",
-      "timestamp": "2026-06-07T00:59:31+00:00",
-      "timestamp_display": "06/06/2026 18:59 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del km 141+800, de la carretera Coatzacoalcos-Villahermosa, a la altura de la Loc. Marín, con dir. a Cárdenas. Atienda indicación vial.",
+      "title": "🚗 Mantener la atención al conducir puede hacer la diferencia entre llegar con bien o poner en riesgo tu vida y la de quienes te acompañan.\n📵 Evita distracciones al volante, utiliza el celular únicamente cuando tu vehículo esté detenido y mantén siempre tu atención en el camino.\n🛣️ Conducir con responsabilidad es tarea de todas y todos.\n#seguridadvial #conduceseguro #EnCAPUFEEstamosParaServirte",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 141.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063423151120216291#m",
-      "timestamp": "2026-06-07T00:49:50+00:00",
-      "timestamp_display": "06/06/2026 18:49 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063682400803078278#m",
+      "timestamp": "2026-06-07T18:00:00+00:00",
+      "timestamp_display": "07/06/2026 12:00 CST",
       "segment": null
     },
     {
@@ -489,32 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063628222282039439#m",
       "timestamp": "2026-06-07T14:24:43+00:00",
       "timestamp_display": "07/06/2026 08:24 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nManeja con calma y disfruta el trayecto.\nBajar la velocidad también es proteger a quienes más quieres. 🚙💛\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063622007087149067#m",
-      "timestamp": "2026-06-07T14:00:01+00:00",
-      "timestamp_display": "07/06/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Cuernavaca - Acapulco, registra #lluvia ligera a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063620918354534736#m",
-      "timestamp": "2026-06-07T13:55:41+00:00",
-      "timestamp_display": "07/06/2026 07:55 CST",
       "segment": null
     }
   ]
