@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-07T13:36:42.035235",
+  "last_update": "2026-06-07T14:26:15.022813",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del km 127+200, de la carretera Raudales de Malpaso-el Bellote,  a la altura de la Loc. Santa Rosalía, con dir. a Cárdenas. Atienda indicación vial.",
@@ -274,6 +274,45 @@
       ]
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063628222282039439#m",
+      "timestamp": "2026-06-07T14:24:43+00:00",
+      "timestamp_display": "07/06/2026 08:24 CST",
+      "segment": null
+    },
+    {
+      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nManeja con calma y disfruta el trayecto.\nBajar la velocidad también es proteger a quienes más quieres. 🚙💛\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063622007087149067#m",
+      "timestamp": "2026-06-07T14:00:01+00:00",
+      "timestamp_display": "07/06/2026 08:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Cuernavaca - Acapulco, registra #lluvia ligera a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063620918354534736#m",
+      "timestamp": "2026-06-07T13:55:41+00:00",
+      "timestamp_display": "07/06/2026 07:55 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura sobre carpeta). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -492,74 +531,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063553344656805924#m",
-      "timestamp": "2026-06-07T09:27:10+00:00",
-      "timestamp_display": "07/06/2026 03:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 17, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.840824548711325,
-      "lng": -96.75419047929334,
-      "road": 150,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063552998207324378#m",
-      "timestamp": "2026-06-07T09:25:48+00:00",
-      "timestamp_display": "07/06/2026 03:25 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 77, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). \n\nEn la zona se registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063488064157098342#m",
-      "timestamp": "2026-06-07T05:07:46+00:00",
-      "timestamp_display": "06/06/2026 23:07 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 77, dirección Irapuato. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente.\n\nEl personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. \n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063537174780244427#m",
-      "timestamp": "2026-06-07T08:22:55+00:00",
-      "timestamp_display": "07/06/2026 02:22 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Querétaro - Irapuato, km 77, dirección Irapuato. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063545404810043726#m",
-      "timestamp": "2026-06-07T08:55:37+00:00",
-      "timestamp_display": "07/06/2026 02:55 CST",
-      "segment": null
     }
   ]
 }
