@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-07T18:45:05.436908",
+  "last_update": "2026-06-07T19:17:48.272681",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 132+400, de la carretera San Hipólito-Xalapa, a la altura de la Loc. El Barrial, con dir. a Xalapa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 132.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063698808085569676#m",
+      "timestamp": "2026-06-07T19:05:12+00:00",
+      "timestamp_display": "07/06/2026 13:05 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #Accidentevial cerca del km 133+600, de la carretera Tepic-Puerto Vallarta,   a inmediaciones de la Loc. Las Cinco Cruces, con dir. a Puerto Vallarta. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.502,
+      "lng": -104.89,
+      "road": null,
+      "km": 133.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063697244990136448#m",
+      "timestamp": "2026-06-07T18:58:59+00:00",
+      "timestamp_display": "07/06/2026 12:58 CST",
+      "segment": null
+    },
     {
       "title": "Cierre total de circulación sobre la carretera libre y con afectación en un carril sobre la autopista, ambos con dirección a Toluca, Edo. Méx.",
       "type": "twitter",
@@ -242,32 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #Accidentevial cerca del km 066+300, de la carretera México-Puebla,  a la altura del Mpio. Ixtapaluca, con dir. a Cd. de Mx. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.35197278729657,
-      "lng": -98.64323444746984,
-      "road": 150,
-      "km": 48.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063459931534000282#m",
-      "timestamp": "2026-06-07T03:15:59+00:00",
-      "timestamp_display": "06/06/2026 21:15 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #Accidentevial cerca del km 028+000, de la carretera Chilpancingo-Acapulco,  a la altura del poblado Acahuizotla, con dir. a Ocotito. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nLibramiento Poniente Acapulco, continúa #lluvia y #neblina. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 28.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063455976393511081#m",
-      "timestamp": "2026-06-07T03:00:16+00:00",
-      "timestamp_display": "06/06/2026 21:00 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063696132065087886#m",
+      "timestamp": "2026-06-07T18:54:34+00:00",
+      "timestamp_display": "07/06/2026 12:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cuernavaca - Acapulco, continúa #lluvia ligera a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063696057884721241#m",
+      "timestamp": "2026-06-07T18:54:16+00:00",
+      "timestamp_display": "07/06/2026 12:54 CST",
       "segment": null
     },
     {
@@ -489,32 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063637358507958571#m",
       "timestamp": "2026-06-07T15:01:01+00:00",
       "timestamp_display": "07/06/2026 09:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Cuernavaca - Acapulco, registra #lluvia y #neblina del km 228 al 232. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 228,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063633473970090028#m",
-      "timestamp": "2026-06-07T14:45:35+00:00",
-      "timestamp_display": "07/06/2026 08:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Magdalena - Nogales, km 171, dirección Magdalena. Reducción de carriles por atención de accidente (salida del camino y volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 171,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063632729648837047#m",
-      "timestamp": "2026-06-07T14:42:37+00:00",
-      "timestamp_display": "07/06/2026 08:42 CST",
       "segment": null
     }
   ]
