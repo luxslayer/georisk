@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-07T18:12:36.194159",
+  "last_update": "2026-06-07T18:45:05.436908",
   "incidents": [
     {
       "title": "Cierre total de circulación sobre la carretera libre y con afectación en un carril sobre la autopista, ambos con dirección a Toluca, Edo. Méx.",
@@ -271,6 +271,58 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cuernavaca - Acapulco, registra #lluvia y #neblina a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063693407566823456#m",
+      "timestamp": "2026-06-07T18:43:44+00:00",
+      "timestamp_display": "07/06/2026 12:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 153,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063692675736359009#m",
+      "timestamp": "2026-06-07T18:40:50+00:00",
+      "timestamp_display": "07/06/2026 12:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Barranca Larga - Ventanilla, registra #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063687050759458849#m",
+      "timestamp": "2026-06-07T18:18:29+00:00",
+      "timestamp_display": "07/06/2026 12:18 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063686541143138786#m",
+      "timestamp": "2026-06-07T18:16:27+00:00",
+      "timestamp_display": "07/06/2026 12:16 CST",
+      "segment": null
+    },
+    {
       "title": "🚗 Mantener la atención al conducir puede hacer la diferencia entre llegar con bien o poner en riesgo tu vida y la de quienes te acompañan.\n📵 Evita distracciones al volante, utiliza el celular únicamente cuando tu vehículo esté detenido y mantén siempre tu atención en el camino.\n🛣️ Conducir con responsabilidad es tarea de todas y todos.\n#seguridadvial #conduceseguro #EnCAPUFEEstamosParaServirte",
       "type": "twitter",
       "lat": 23.5,
@@ -463,45 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063632729648837047#m",
       "timestamp": "2026-06-07T14:42:37+00:00",
       "timestamp_display": "07/06/2026 08:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063630474283470941#m",
-      "timestamp": "2026-06-07T14:33:40+00:00",
-      "timestamp_display": "07/06/2026 08:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Acatzingo - Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063628670611165675#m",
-      "timestamp": "2026-06-07T14:26:30+00:00",
-      "timestamp_display": "07/06/2026 08:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063628222282039439#m",
-      "timestamp": "2026-06-07T14:24:43+00:00",
-      "timestamp_display": "07/06/2026 08:24 CST",
       "segment": null
     }
   ]
