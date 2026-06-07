@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-07T21:10:11.418863",
+  "last_update": "2026-06-07T21:41:45.845575",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #Accidentevial cerca del km 283+600, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, con dir. a Acapulco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 283.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063731313857765460#m",
+      "timestamp": "2026-06-07T21:14:22+00:00",
+      "timestamp_display": "07/06/2026 15:14 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #EdoMx tras presencia de personas cerca del km 036+300, de la carretera México (Ent. Constituyentes)-Toluca (Lerma), a inmediaciones de La Marquesa, con dir. a Toluca. Maneje con precaución.",
       "type": "twitter",
@@ -255,16 +268,29 @@
       ]
     },
     {
-      "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nLibramiento Amecameca - Nepantla, continúa #lluvia y #neblina a la altura de la Plaza de Cobro Ozumba. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063487431559573647#m",
-      "timestamp": "2026-06-07T05:05:16+00:00",
-      "timestamp_display": "06/06/2026 23:05 CST",
+      "url": "https://nitter.net/CAPUFE/status/2063738063356829897#m",
+      "timestamp": "2026-06-07T21:41:11+00:00",
+      "timestamp_display": "07/06/2026 15:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063732607263580458#m",
+      "timestamp": "2026-06-07T21:19:30+00:00",
+      "timestamp_display": "07/06/2026 15:19 CST",
       "segment": null
     },
     {
@@ -499,32 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063687050759458849#m",
       "timestamp": "2026-06-07T18:18:29+00:00",
       "timestamp_display": "07/06/2026 12:18 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063686541143138786#m",
-      "timestamp": "2026-06-07T18:16:27+00:00",
-      "timestamp_display": "07/06/2026 12:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🚗 Mantener la atención al conducir puede hacer la diferencia entre llegar con bien o poner en riesgo tu vida y la de quienes te acompañan.\n📵 Evita distracciones al volante, utiliza el celular únicamente cuando tu vehículo esté detenido y mantén siempre tu atención en el camino.\n🛣️ Conducir con responsabilidad es tarea de todas y todos.\n#seguridadvial #conduceseguro #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063682400803078278#m",
-      "timestamp": "2026-06-07T18:00:00+00:00",
-      "timestamp_display": "07/06/2026 12:00 CST",
       "segment": null
     }
   ]
