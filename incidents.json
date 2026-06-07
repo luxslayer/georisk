@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-07T12:48:30.448257",
+  "last_update": "2026-06-07T13:36:42.035235",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del km 127+200, de la carretera Raudales de Malpaso-el Bellote,  a la altura de la Loc. Santa Rosalía, con dir. a Cárdenas. Atienda indicación vial.",
@@ -31,19 +31,6 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 019+300, de la carretera Culiacán-Los Mochis, a la altura de la Caseta de Cobro No. 10 Puente Culiacán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
-      "road": null,
-      "km": 19.3,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2063487429399531973#m",
-      "timestamp": "2026-06-07T05:05:15+00:00",
-      "timestamp_display": "06/06/2026 23:05 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje.",
       "type": "twitter",
       "lat": 23.5,
@@ -53,6 +40,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2063487431559573647#m",
       "timestamp": "2026-06-07T05:05:16+00:00",
+      "timestamp_display": "06/06/2026 23:05 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sinaloa se registra presencia de personas cerca del km 019+300, de la carretera Culiacán-Los Mochis, a la altura de la Caseta de Cobro No. 10 Puente Culiacán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": 19.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063487429399531973#m",
+      "timestamp": "2026-06-07T05:05:15+00:00",
       "timestamp_display": "06/06/2026 23:05 CST",
       "segment": null
     },
@@ -272,6 +272,32 @@
         "mexico",
         "puebla"
       ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura sobre carpeta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063615040565961159#m",
+      "timestamp": "2026-06-07T13:32:20+00:00",
+      "timestamp_display": "07/06/2026 07:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 51, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 51,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063609074294329699#m",
+      "timestamp": "2026-06-07T13:08:37+00:00",
+      "timestamp_display": "07/06/2026 07:08 CST",
+      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 142, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -497,16 +523,16 @@
       ]
     },
     {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Querétaro - Irapuato, km 77, dirección Irapuato. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 77, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). \n\nEn la zona se registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
       "km": 77,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063545404810043726#m",
-      "timestamp": "2026-06-07T08:55:37+00:00",
-      "timestamp_display": "07/06/2026 02:55 CST",
+      "url": "https://nitter.net/CAPUFE/status/2063488064157098342#m",
+      "timestamp": "2026-06-07T05:07:46+00:00",
+      "timestamp_display": "06/06/2026 23:07 CST",
       "segment": null
     },
     {
@@ -523,16 +549,16 @@
       "segment": null
     },
     {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Querétaro - Irapuato, km 77, dirección Irapuato. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 63,
+      "km": 77,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063533524729188376#m",
-      "timestamp": "2026-06-07T08:08:25+00:00",
-      "timestamp_display": "07/06/2026 02:08 CST",
+      "url": "https://nitter.net/CAPUFE/status/2063545404810043726#m",
+      "timestamp": "2026-06-07T08:55:37+00:00",
+      "timestamp_display": "07/06/2026 02:55 CST",
       "segment": null
     }
   ]
