@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-07T16:34:22.073858",
+  "last_update": "2026-06-07T17:10:39.838625",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #Accidentevial cerca del km 009+700, de la carretera Matamoros–Reynosa, a la altura de la localidad Pájaros Azules, con dir. a Matamoros. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 26.0922,
+      "lng": -98.2773,
+      "road": null,
+      "km": 9.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063663435271795150#m",
+      "timestamp": "2026-06-07T16:44:38+00:00",
+      "timestamp_display": "07/06/2026 10:44 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #Accidentevial cerca del km 035+000, de la carretera Zihuatanejo-La Mira, a la altura del poblado Los Llanos de Temalhuacán, con dir. a Zihuatanejo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 35.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063661798352437311#m",
+      "timestamp": "2026-06-07T16:38:08+00:00",
+      "timestamp_display": "07/06/2026 10:38 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 033+600, de la carretera Xalapa-Veracruz,  a la altura del Mpio. Cerro Gordo. Atienda indicación vial.",
       "type": "twitter",
@@ -245,29 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #Accidentevial cerca del km 250+800, de la carretera Cd. Victoria-Matamoros, a la altura de la Loc. la Comunidad, con dir. a Matamoros. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 250.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063414932444459227#m",
-      "timestamp": "2026-06-07T00:17:10+00:00",
-      "timestamp_display": "06/06/2026 18:17 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del km 004+850, de la carretera Libramiento-Villahermosa, a la altura de la Loc. Ranchería Emiliano Zapata, con dir. a Villahermosa. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 4.85,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063413917838139403#m",
-      "timestamp": "2026-06-07T00:13:09+00:00",
-      "timestamp_display": "06/06/2026 18:13 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063662106302410758#m",
+      "timestamp": "2026-06-07T16:39:21+00:00",
+      "timestamp_display": "07/06/2026 10:39 CST",
       "segment": null
     },
     {
@@ -502,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063615040565961159#m",
       "timestamp": "2026-06-07T13:32:20+00:00",
       "timestamp_display": "07/06/2026 07:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 51, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063609074294329699#m",
-      "timestamp": "2026-06-07T13:08:37+00:00",
-      "timestamp_display": "07/06/2026 07:08 CST",
       "segment": null
     }
   ]
