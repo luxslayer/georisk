@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-07T23:09:30.975031",
+  "last_update": "2026-06-07T23:38:07.093576",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sonora se registra cierre parcial de circulación por #Accidentevial cerca del km 142+000, de la carretera Imuris -Cananea, a inmediaciones del poblado Imuris, con dir. a Cananea. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 142.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2063761038596563254#m",
+      "timestamp": "2026-06-07T23:12:29+00:00",
+      "timestamp_display": "07/06/2026 17:12 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #Accidentevial cerca del km 374+300, de la carretera Maravatío-Zapotlanejo, a inmediaciones de la Loc. Tinaja de Vargas, con dir. a Zapotlanejo. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 128+500, de la carretera Poza rica-Veracruz,  a la altura de la Loc. Emilio Carranza, con dir. a Poza Rica. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Cuernavaca - Acapulco, registra #neblina a la altura del km 230. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 128.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063634689735143572#m",
-      "timestamp": "2026-06-07T14:50:25+00:00",
-      "timestamp_display": "07/06/2026 08:50 CST",
+      "km": 230,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063763276387741844#m",
+      "timestamp": "2026-06-07T23:21:22+00:00",
+      "timestamp_display": "07/06/2026 17:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063760849664155925#m",
+      "timestamp": "2026-06-07T23:11:44+00:00",
+      "timestamp_display": "07/06/2026 17:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063760764146425967#m",
+      "timestamp": "2026-06-07T23:11:23+00:00",
+      "timestamp_display": "07/06/2026 17:11 CST",
       "segment": null
     },
     {
@@ -460,45 +499,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063732607263580458#m",
       "timestamp": "2026-06-07T21:19:30+00:00",
       "timestamp_display": "07/06/2026 15:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \n #AutMéxicoCuernavaca, registra #lluvia del km 23 al 27. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063726197075284189#m",
-      "timestamp": "2026-06-07T20:54:02+00:00",
-      "timestamp_display": "07/06/2026 14:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 230, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 230,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063725497868026010#m",
-      "timestamp": "2026-06-07T20:51:15+00:00",
-      "timestamp_display": "07/06/2026 14:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Barranca Larga - Ventanilla, km 55. Continúa circulación intermitente en ambos sentidos por atención de accidente (volcadura de camioneta). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063724222212346366#m",
-      "timestamp": "2026-06-07T20:46:11+00:00",
-      "timestamp_display": "07/06/2026 14:46 CST",
       "segment": null
     }
   ]
