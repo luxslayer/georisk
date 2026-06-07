@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-07T17:10:39.838625",
+  "last_update": "2026-06-07T17:43:26.908223",
   "incidents": [
+    {
+      "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje, dando paso libre a la circulación.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063673514935148611#m",
+      "timestamp": "2026-06-07T17:24:41+00:00",
+      "timestamp_display": "07/06/2026 11:24 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra presencia de personas cerca del km 220+000, de la carretera Cuacnopalan-Oaxaca,  a la altura de la caseta de cobro No. 79, San Pablo Huitzo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 220.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2063673512892486023#m",
+      "timestamp": "2026-06-07T17:24:41+00:00",
+      "timestamp_display": "07/06/2026 11:24 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #Accidentevial cerca del km 009+700, de la carretera Matamoros–Reynosa, a la altura de la localidad Pájaros Azules, con dir. a Matamoros. Atienda indicación vial.",
       "type": "twitter",
@@ -245,29 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMx se registra cierre parcial de circulación por #Accidentevial cerca del km 093+400, de la carretera México-Querétaro, a inmediaciones del Mpio. San Francisco Soyaniquilpan, con dir. a Cd. de Mx. Atienda indicación vial.",
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 93.4,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063422088564646179#m",
-      "timestamp": "2026-06-07T00:45:37+00:00",
-      "timestamp_display": "06/06/2026 18:45 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del km 043+900, de la carretera Xalapa-Veracruz, a la altura del Mpio. Rinconada. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.3574,
-      "lng": -96.5341,
-      "road": 180,
-      "km": 43.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2063419475114828151#m",
-      "timestamp": "2026-06-07T00:35:14+00:00",
-      "timestamp_display": "06/06/2026 18:35 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2063670122431103248#m",
+      "timestamp": "2026-06-07T17:11:12+00:00",
+      "timestamp_display": "07/06/2026 11:11 CST",
       "segment": null
     },
     {
@@ -502,19 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063620918354534736#m",
       "timestamp": "2026-06-07T13:55:41+00:00",
       "timestamp_display": "07/06/2026 07:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 232, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura sobre carpeta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063615040565961159#m",
-      "timestamp": "2026-06-07T13:32:20+00:00",
-      "timestamp_display": "07/06/2026 07:32 CST",
       "segment": null
     }
   ]
