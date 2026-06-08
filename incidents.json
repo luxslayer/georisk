@@ -1,6 +1,84 @@
 {
-  "last_update": "2026-06-08T23:10:18.352600",
+  "last_update": "2026-06-08T23:42:07.269783",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 139+400, de la carretera  Perote - Banderilla, con dirección Perote. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 139.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2064130835180097704#m",
+      "timestamp": "2026-06-08T23:41:55+00:00",
+      "timestamp_display": "08/06/2026 17:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMex se registra presencia de personas cerca del km 013+100, de la carretera Toluca - Palmillas a la altura de la caseta de cobro El Dorado. Se orienta a la ciudadanía, la caseta se mantiene libre de peaje. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": 13.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2064128277359313017#m",
+      "timestamp": "2026-06-08T23:31:45+00:00",
+      "timestamp_display": "08/06/2026 17:31 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Michoacán tras presencia de personas cerca del km 360+100, de la autopista Guadalajara–Morelia a la altura de la caseta de cobro Ecuandureo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 360.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2064127391014765053#m",
+      "timestamp": "2026-06-08T23:28:14+00:00",
+      "timestamp_display": "08/06/2026 17:28 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Tabasco tras presencia de personas cerca del km 070+100, de la carretera Coatzacoalcos - Villahermosa  a la altura de la caseta de cobro Sánchez Magallanes. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 70.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2064126812305678695#m",
+      "timestamp": "2026-06-08T23:25:56+00:00",
+      "timestamp_display": "08/06/2026 17:25 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de la circulación por #AccidenteVial cerca del km 283+700, de la carretera Chilpancingo-Acapulco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 283.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2064125270878003348#m",
+      "timestamp": "2026-06-08T23:19:48+00:00",
+      "timestamp_display": "08/06/2026 17:19 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Chiapas tras presencia de personas cerca del km 001+300, de la carretera Tuxtla Gutiérrez-San Cristóbal a la altura de la caseta de cobro Chiapa de Corzo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 1.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2064124790915338582#m",
+      "timestamp": "2026-06-08T23:17:54+00:00",
+      "timestamp_display": "08/06/2026 17:17 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Michoacán tras presencia de personas cerca del km 134+300, de la autopista Guadalajara–Atlacomulco a la altura de la caseta de cobro Contepec. Maneje con precaución.",
       "type": "twitter",
@@ -25,19 +103,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2064120814086095261#m",
       "timestamp": "2026-06-08T23:02:06+00:00",
       "timestamp_display": "08/06/2026 17:02 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra presencia de personas cerca del km 360+100, de la autopista Guadalajara–Morelia a la altura de la caseta de cobro Ecuandureo. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": 360.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2064120382202826989#m",
-      "timestamp": "2026-06-08T23:00:23+00:00",
-      "timestamp_display": "08/06/2026 17:00 CST",
       "segment": null
     },
     {
@@ -158,6 +223,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2064064341675008278#m",
       "timestamp": "2026-06-08T19:17:42+00:00",
       "timestamp_display": "08/06/2026 13:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 39, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 39,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064129504281297278#m",
+      "timestamp": "2026-06-08T23:36:38+00:00",
+      "timestamp_display": "08/06/2026 17:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Cierre a la circulación en la gaza de salida hacia Av. Morelos Sur, por labores de mantenimiento. Circulación por el Distribuidor vial Palmira. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064127751179612552#m",
+      "timestamp": "2026-06-08T23:29:40+00:00",
+      "timestamp_display": "08/06/2026 17:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 99, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 99,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064126087479664715#m",
+      "timestamp": "2026-06-08T23:23:03+00:00",
+      "timestamp_display": "08/06/2026 17:23 CST",
       "segment": null
     },
     {
@@ -388,45 +492,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 99, dirección Cuernavaca. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 99,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064103843558760541#m",
-      "timestamp": "2026-06-08T21:54:40+00:00",
-      "timestamp_display": "08/06/2026 15:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Gómez Palacio - Corralitos, km 164, dirección Gómez Palacio. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 164,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064103678642999788#m",
-      "timestamp": "2026-06-08T21:54:00+00:00",
-      "timestamp_display": "08/06/2026 15:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064103617422827643#m",
-      "timestamp": "2026-06-08T21:53:46+00:00",
-      "timestamp_display": "08/06/2026 15:53 CST",
-      "segment": null
     }
   ]
 }
