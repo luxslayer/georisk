@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-08T07:16:35.692797",
+  "last_update": "2026-06-08T09:07:05.970180",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 047+600, de la carretera Cuacnopalan-Oaxaca , a la altura del Mpio. Tehuacán, con dir. a Puebla. Atienda indicación vial.",
@@ -271,6 +271,100 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 152, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente.\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 152,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063905962470064129#m",
+      "timestamp": "2026-06-08T08:48:21+00:00",
+      "timestamp_display": "08/06/2026 02:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 152, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 152,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063898779896430985#m",
+      "timestamp": "2026-06-08T08:19:49+00:00",
+      "timestamp_display": "08/06/2026 02:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 47, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 47,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063897729873453249#m",
+      "timestamp": "2026-06-08T08:15:38+00:00",
+      "timestamp_display": "08/06/2026 02:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 90. Circulación intermitente en ambos sentidos por atención de accidente (volcadura de vagoneta).\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 90,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063890777894252758#m",
+      "timestamp": "2026-06-08T07:48:01+00:00",
+      "timestamp_display": "08/06/2026 01:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 65, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 65,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063889142258323669#m",
+      "timestamp": "2026-06-08T07:41:31+00:00",
+      "timestamp_display": "08/06/2026 01:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoPuebla, km 52. Reducción de carriles en ambos sentidos por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.313118041230556,
+      "lng": -98.743145172515,
+      "road": 150,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063887893454561606#m",
+      "timestamp": "2026-06-08T07:36:33+00:00",
+      "timestamp_display": "08/06/2026 01:36 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 47, dirección CDMX. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 47,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2063887030430380372#m",
+      "timestamp": "2026-06-08T07:33:07+00:00",
+      "timestamp_display": "08/06/2026 01:33 CST",
+      "segment": null
+    },
+    {
       "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cd. Mendoza - Córdoba, km 284, dirección Córdoba. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y camioneta. En la zona se registra #lluvia.\n\n🔘Dirección Cd. Mendoza, registra reducción de carriles. \n\nConsulta la ubicación aquí: https://maps.app.goo.gl/Ape1yfS5WcQa1Mme8",
       "type": "twitter",
       "lat": 18.8885,
@@ -427,97 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2063850744835354801#m",
       "timestamp": "2026-06-08T05:08:56+00:00",
       "timestamp_display": "07/06/2026 23:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 150, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 150,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063849905001517564#m",
-      "timestamp": "2026-06-08T05:05:36+00:00",
-      "timestamp_display": "07/06/2026 23:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063849012516593696#m",
-      "timestamp": "2026-06-08T05:02:03+00:00",
-      "timestamp_display": "07/06/2026 23:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 64,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063847563606794451#m",
-      "timestamp": "2026-06-08T04:56:18+00:00",
-      "timestamp_display": "07/06/2026 22:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 64, dirección Querétaro. Registra cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 64,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063845698739548267#m",
-      "timestamp": "2026-06-08T04:48:53+00:00",
-      "timestamp_display": "07/06/2026 22:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 30, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063843798736589044#m",
-      "timestamp": "2026-06-08T04:41:20+00:00",
-      "timestamp_display": "07/06/2026 22:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 64, dirección Querétaro. Continúa reducción de carriles por atención de accidente (salida del camino y choque contra barreras metálicas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 64,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2063842044523462807#m",
-      "timestamp": "2026-06-08T04:34:22+00:00",
-      "timestamp_display": "07/06/2026 22:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Cuernavaca - Acapulco, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2063840170558808531#m",
-      "timestamp": "2026-06-08T04:26:55+00:00",
-      "timestamp_display": "07/06/2026 22:26 CST",
       "segment": null
     }
   ]
