@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-10T19:39:03.025541",
+  "last_update": "2026-06-10T20:38:59.775644",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación por #AccidenteVial cerca del km 177+700, de la carretera Poza Rica - Veracruz,  a la altura de la localidad de Playa Villa Rica, Ver. Atienda indicación vial",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 177.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2064795323852013859#m",
+      "timestamp": "2026-06-10T19:42:21+00:00",
+      "timestamp_display": "10/06/2026 13:42 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guerrero se registra presencia de personas cerca del km 062+000, de la carretera Puente de Ixtla - Iguala, a la altura del poblado de Tuxpan, Gro., sin afectación a la circulación. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +262,55 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en la caseta de cobro Morfín Chávez, tras presencia de personas. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Cierre a la circulación en ambos sentidos por atención de incidente.  \n\n🔘 Se sugiere a la ciudadanía tomar como vía alterna el Viaducto Elevado Tlalpan o carretera Federal Libre. \n\nEn la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064801325716541686#m",
+      "timestamp": "2026-06-10T20:06:12+00:00",
+      "timestamp_display": "10/06/2026 14:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 5, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
+      "km": 5,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064799705972760742#m",
+      "timestamp": "2026-06-10T19:59:46+00:00",
+      "timestamp_display": "10/06/2026 13:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\n#AutMéxicoQuerétaro, registra #lluvia a la altura del Poblado de Jorobas. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2064476485617152296#m",
-      "timestamp": "2026-06-09T22:35:24+00:00",
-      "timestamp_display": "09/06/2026 16:35 CST",
+      "url": "https://nitter.net/CAPUFE/status/2064798987115262127#m",
+      "timestamp": "2026-06-10T19:56:55+00:00",
+      "timestamp_display": "10/06/2026 13:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 7, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 7,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064797692300018106#m",
+      "timestamp": "2026-06-10T19:51:46+00:00",
+      "timestamp_display": "10/06/2026 13:51 CST",
       "segment": null
     },
     {
@@ -474,61 +526,6 @@
       "timestamp": "2026-06-10T17:58:48+00:00",
       "timestamp_display": "10/06/2026 11:58 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 80, dirección CDMX. Continúa cierre a la circulación por atención de incidente.\n\nToma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 80,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064764275390906749#m",
-      "timestamp": "2026-06-10T17:38:59+00:00",
-      "timestamp_display": "10/06/2026 11:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Reducción de carriles en ambos sentidos por atención de incidente.  \n\n🔘 Se sugiere a la ciudadanía tomar como vía alterna el Viaducto Elevado Tlalpan o carretera Federal Libre. \n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064764074689278030#m",
-      "timestamp": "2026-06-10T17:38:11+00:00",
-      "timestamp_display": "10/06/2026 11:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 90, dirección CDMX. Continúa reducción de carriles (paso por carriles laterales). El personal se encuentra realizando las labores de atención del incidente.\n\nAtiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 90,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064763776075796791#m",
-      "timestamp": "2026-06-10T17:37:00+00:00",
-      "timestamp_display": "10/06/2026 11:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Córdoba - Veracruz, km 10, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.85883790754683,
-      "lng": -96.8177527251154,
-      "road": 150,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064762443830538326#m",
-      "timestamp": "2026-06-10T17:31:42+00:00",
-      "timestamp_display": "10/06/2026 11:31 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
