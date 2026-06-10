@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-10T18:37:35.923495",
+  "last_update": "2026-06-10T19:39:03.025541",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra presencia de personas cerca del km 062+000, de la carretera Puente de Ixtla - Iguala, a la altura del poblado de Tuxpan, Gro., sin afectación a la circulación. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.97,
+      "lng": -97.41,
+      "road": null,
+      "km": 62.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2064788973818368390#m",
+      "timestamp": "2026-06-10T19:17:07+00:00",
+      "timestamp_display": "10/06/2026 13:17 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guerrero se registra presencia de personas cerca del km 048+000, de la carretera Zihuatanejo - La Mira, a la altura del Mpio. La Unión de Isidoro Montes de Oca, Gro., sin afectación a la circulación. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +262,139 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre tras presencia de personas en la caseta de cobro Calera. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Reducción de carriles en ambos sentidos por atención de incidente.  \n\n🔘 Se sugiere a la ciudadanía tomar como vía alterna el Viaducto Elevado Tlalpan o carretera Federal Libre. \n\nEn la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064793746450137271#m",
+      "timestamp": "2026-06-10T19:36:05+00:00",
+      "timestamp_display": "10/06/2026 13:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAut. Córdoba - Veracruz, km 10, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.85883790754683,
+      "lng": -96.8177527251154,
+      "road": 150,
+      "km": 10,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064791160942420266#m",
+      "timestamp": "2026-06-10T19:25:49+00:00",
+      "timestamp_display": "10/06/2026 13:25 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 5, dirección La Pera. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 5,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064789666147045783#m",
+      "timestamp": "2026-06-10T19:19:53+00:00",
+      "timestamp_display": "10/06/2026 13:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 7, dirección La Pera. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 7,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064789341587550592#m",
+      "timestamp": "2026-06-10T19:18:35+00:00",
+      "timestamp_display": "10/06/2026 13:18 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️\nLibramiento Chilpancingo, km 276. Parador del Marqués (fuera de la cobertura de CAPUFE). Cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 088 de @GN_Carreteras.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 276,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064788087008280883#m",
+      "timestamp": "2026-06-10T19:13:36+00:00",
+      "timestamp_display": "10/06/2026 13:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Córdoba - Veracruz, km 10, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.85883790754683,
+      "lng": -96.8177527251154,
+      "road": 150,
+      "km": 10,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064783864107581891#m",
+      "timestamp": "2026-06-10T18:56:49+00:00",
+      "timestamp_display": "10/06/2026 12:56 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 80, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064783038920179812#m",
+      "timestamp": "2026-06-10T18:53:32+00:00",
+      "timestamp_display": "10/06/2026 12:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️\nAutopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2064460666082340963#m",
-      "timestamp": "2026-06-09T21:32:33+00:00",
-      "timestamp_display": "09/06/2026 15:32 CST",
+      "url": "https://nitter.net/CAPUFE/status/2064779634546205090#m",
+      "timestamp": "2026-06-10T18:40:01+00:00",
+      "timestamp_display": "10/06/2026 12:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nCarretera Culiacán - Los Mochis, Pte. Culiacán. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064779520888971546#m",
+      "timestamp": "2026-06-10T18:39:34+00:00",
+      "timestamp_display": "10/06/2026 12:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2064779042763518399#m",
+      "timestamp": "2026-06-10T18:37:40+00:00",
+      "timestamp_display": "10/06/2026 12:37 CST",
       "segment": null
     },
     {
@@ -340,7 +476,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 80, dirección CDMX. Continúa cierre a la circulación por atención de incidente.\n\nToma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 80, dirección CDMX. Continúa cierre a la circulación por atención de incidente.\n\nToma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -393,142 +529,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧             \n#AutMexicoPuebla , km 88, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.2871137157128,
-      "lng": -98.46005911337981,
-      "road": 150,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064761386471756140#m",
-      "timestamp": "2026-06-10T17:27:30+00:00",
-      "timestamp_display": "10/06/2026 11:27 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 94, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064755216562499758#m",
-      "timestamp": "2026-06-10T17:02:59+00:00",
-      "timestamp_display": "10/06/2026 11:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064753794517200926#m",
-      "timestamp": "2026-06-10T16:57:20+00:00",
-      "timestamp_display": "10/06/2026 10:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧  OBRAS Y LABORES DE MANTENIMIENTO  🚧\n#AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064752950556188839#m",
-      "timestamp": "2026-06-10T16:53:59+00:00",
-      "timestamp_display": "10/06/2026 10:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ \nAutopista Córdoba - Veracruz, continúa #lluvia a la altura de la Plaza de Cobro Paso del Toro. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064751763895300382#m",
-      "timestamp": "2026-06-10T16:49:16+00:00",
-      "timestamp_display": "10/06/2026 10:49 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 11, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 11,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064749378728857957#m",
-      "timestamp": "2026-06-10T16:39:47+00:00",
-      "timestamp_display": "10/06/2026 10:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧   \nAutopista Cd. Mendoza - Córdoba, km 287, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 287,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064748802469163344#m",
-      "timestamp": "2026-06-10T16:37:30+00:00",
-      "timestamp_display": "10/06/2026 10:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 52, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064748230210965709#m",
-      "timestamp": "2026-06-10T16:35:13+00:00",
-      "timestamp_display": "10/06/2026 10:35 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Puente de Ixtla - Iguala, Plaza de Cobro Iguala. Registra presencia de manifestantes, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064746649432273369#m",
-      "timestamp": "2026-06-10T16:28:57+00:00",
-      "timestamp_display": "10/06/2026 10:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 11, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 11,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064745543729910062#m",
-      "timestamp": "2026-06-10T16:24:33+00:00",
-      "timestamp_display": "10/06/2026 10:24 CST",
-      "segment": null
     }
   ]
 }
