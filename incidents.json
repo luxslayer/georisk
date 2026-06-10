@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-10T08:14:12.774661",
+  "last_update": "2026-06-10T09:33:39.576391",
   "incidents": [
     {
       "title": "#ViaLibre en #Sonora tras presencia de personas cerca del km 046+300, de la carretera Cd. Obregón-Hermosillo, a la altura del Mpio. Vicam. Maneje con precaución.",
@@ -262,6 +262,48 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 97, dirección Veracruz. Reducción de carriles por atención de incidente (conato de incendio de tracto camión y caída de carga). Tránsito lento en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.107256681152716,
+      "lng": -96.1775251201279,
+      "road": 150,
+      "km": 97,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064638766807920983#m",
+      "timestamp": "2026-06-10T09:20:15+00:00",
+      "timestamp_display": "10/06/2026 03:20 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 163, dirección Isla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas).\n\nEn la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064636615696252984#m",
+      "timestamp": "2026-06-10T09:11:42+00:00",
+      "timestamp_display": "10/06/2026 03:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Isla - Acayucan, km 163, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064629831367573637#m",
+      "timestamp": "2026-06-10T08:44:45+00:00",
+      "timestamp_display": "10/06/2026 02:44 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nCarretera Culiacán - Los Mochis, Pte. Culiacán. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
       "type": "twitter",
       "lat": 24.8,
@@ -467,45 +509,6 @@
       "url": "https://nitter.net/CAPUFE/status/2064560172870123615#m",
       "timestamp": "2026-06-10T04:07:57+00:00",
       "timestamp_display": "09/06/2026 22:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 50, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064553387195056620#m",
-      "timestamp": "2026-06-10T03:40:59+00:00",
-      "timestamp_display": "09/06/2026 21:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS 🌧️🌩️  \n#AutMéxicoCuernavaca, continúa #neblina. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2064547983509643637#m",
-      "timestamp": "2026-06-10T03:19:31+00:00",
-      "timestamp_display": "09/06/2026 21:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 79, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 79,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064539576513781965#m",
-      "timestamp": "2026-06-10T02:46:06+00:00",
-      "timestamp_display": "09/06/2026 20:46 CST",
       "segment": null
     }
   ]
