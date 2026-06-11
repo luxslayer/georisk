@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-11T10:11:25.791980",
+  "last_update": "2026-06-11T11:48:37.743243",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 032+300, de la autopista ent. La Tinaja - Cosoleacaque con dirección Minatitlán. Atienda indicación vial.",
@@ -268,7 +268,72 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 90, dirección CDMX. Se realizan cierres intermitentes a la circulación en carriles centrales, por labores de mantenimiento.  Paso por carriles laterales.\n\nEn la zona se registra carga vehicular. Por lo que, se sugiere a la ciudadanía considerar vías alternas. \n\nAtiende las indicaciones viales y maneja con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 99, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 99,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065038482800562353#m",
+      "timestamp": "2026-06-11T11:48:35+00:00",
+      "timestamp_display": "11/06/2026 05:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 136, dirección Cuernavaca. Reducción de carriles por atención de incidente (vehículo abandonado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 136,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065037960215478389#m",
+      "timestamp": "2026-06-11T11:46:30+00:00",
+      "timestamp_display": "11/06/2026 05:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 52, dir. CDMX. Registra cierre a la circulación por caída de ramas de árboles.\nEl personal se encuentra en la zona realizando las labores de limpieza.\n\nCualquier novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣.\n\nToma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065026867178917920#m",
+      "timestamp": "2026-06-11T11:02:26+00:00",
+      "timestamp_display": "11/06/2026 05:02 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🔴CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 76, dir. CDMX. Registra cierre a la circulación por caída de ramas de árboles.\nEl personal se encuentra en la zona realizando las labores de limpieza.\n\nCualquier novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣.\n\nToma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 76,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065022807285674032#m",
+      "timestamp": "2026-06-11T10:46:18+00:00",
+      "timestamp_display": "11/06/2026 04:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 172, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 172,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065015469212373207#m",
+      "timestamp": "2026-06-11T10:17:08+00:00",
+      "timestamp_display": "11/06/2026 04:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 90, dirección CDMX. Se realizan cierres intermitentes a la circulación en carriles centrales, por labores de mantenimiento.  Paso por carriles laterales.\n\nEn la zona se registra carga vehicular. Por lo que, se sugiere a la ciudadanía considerar vías alternas. \n\nAtiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -320,6 +385,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Cierre a la circulación por atención de accidentes:\n\n🔘 Choque por alcance entre autobús y unidad de carga. \n\n🔘 Volcadura sobre carpeta de vehículo. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/VbRL3iQtq7YLD4jQ8",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064987420777480598#m",
+      "timestamp": "2026-06-11T08:25:41+00:00",
+      "timestamp_display": "11/06/2026 02:25 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que los accidentes han sido atendidos, por lo que se restablece la circulación.\n\nSin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2064994622674223339#m",
+      "timestamp": "2026-06-11T08:54:18+00:00",
+      "timestamp_display": "11/06/2026 02:54 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -343,19 +434,6 @@
       "url": "https://nitter.net/CAPUFE/status/2064996190580572520#m",
       "timestamp": "2026-06-11T09:00:32+00:00",
       "timestamp_display": "11/06/2026 03:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que los accidentes han sido atendidos, por lo que se restablece la circulación.\n\nSin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064994622674223339#m",
-      "timestamp": "2026-06-11T08:54:18+00:00",
-      "timestamp_display": "11/06/2026 02:54 CST",
       "segment": null
     },
     {
@@ -388,19 +466,6 @@
       ]
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Cierre a la circulación por atención de accidentes:\n\n🔘 Choque por alcance entre autobús y unidad de carga. \n\n🔘 Volcadura sobre carpeta de vehículo. \n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/VbRL3iQtq7YLD4jQ8",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064987420777480598#m",
-      "timestamp": "2026-06-11T08:25:41+00:00",
-      "timestamp_display": "11/06/2026 02:25 CST",
-      "segment": null
-    },
-    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAut. Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Ing. Francisco Velasco Durán. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -411,19 +476,6 @@
       "url": "https://nitter.net/CAPUFE/status/2064978989203013652#m",
       "timestamp": "2026-06-11T07:52:11+00:00",
       "timestamp_display": "11/06/2026 01:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nutopista Cuernavaca - Acapulco, km 99, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 99,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064976697154257049#m",
-      "timestamp": "2026-06-11T07:43:04+00:00",
-      "timestamp_display": "11/06/2026 01:43 CST",
       "segment": null
     },
     {
@@ -450,45 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2064973689204965811#m",
       "timestamp": "2026-06-11T07:31:07+00:00",
       "timestamp_display": "11/06/2026 01:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 99, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance entre motociclista). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 99,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064972488900071531#m",
-      "timestamp": "2026-06-11T07:26:21+00:00",
-      "timestamp_display": "11/06/2026 01:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064964106495410468#m",
-      "timestamp": "2026-06-11T06:53:02+00:00",
-      "timestamp_display": "11/06/2026 00:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 32, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino de camión de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2064960367386566894#m",
-      "timestamp": "2026-06-11T06:38:11+00:00",
-      "timestamp_display": "11/06/2026 00:38 CST",
       "segment": null
     }
   ]
