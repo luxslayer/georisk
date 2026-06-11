@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-11T20:53:14.492000",
+  "last_update": "2026-06-11T21:43:50.754486",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 244+500, de la carretera Puebla-Córdoba, a la altura del Mpio. Maltrata. con dirección a Veracruz. Atienda indicación vial.",
@@ -148,6 +148,19 @@
       "segment": null
     },
     {
+      "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro del peaje.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2065140775776583915#m",
+      "timestamp": "2026-06-11T18:35:04+00:00",
+      "timestamp_display": "11/06/2026 12:35 CST",
+      "segment": null
+    },
+    {
       "title": "#TomePrecauciones en #Chihuahua se registra presencia de personas cerca del km 011+800, de la carretera Gómez Palacios-Jiménez, a la altura de la Caseta de Cobro Jiménez. Atienda indicación vial.",
       "type": "twitter",
       "lat": 28.63,
@@ -168,9 +181,9 @@
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065140775776583915#m",
-      "timestamp": "2026-06-11T18:35:04+00:00",
-      "timestamp_display": "11/06/2026 12:35 CST",
+      "url": "https://nitter.net/GN_Carreteras/status/2065136182309036191#m",
+      "timestamp": "2026-06-11T18:16:48+00:00",
+      "timestamp_display": "11/06/2026 12:16 CST",
       "segment": null
     },
     {
@@ -187,16 +200,16 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro del peaje.",
+      "title": "R to @GN_Carreteras: Con afectación total a la circulación con dirección a Cd. Méx., sin ruta alterna.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065136182309036191#m",
-      "timestamp": "2026-06-11T18:16:48+00:00",
-      "timestamp_display": "11/06/2026 12:16 CST",
+      "url": "https://nitter.net/GN_Carreteras/status/2065133812011475425#m",
+      "timestamp": "2026-06-11T18:07:23+00:00",
+      "timestamp_display": "11/06/2026 12:07 CST",
       "segment": null
     },
     {
@@ -208,19 +221,6 @@
       "km": 278.0,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2065133810107228368#m",
-      "timestamp": "2026-06-11T18:07:23+00:00",
-      "timestamp_display": "11/06/2026 12:07 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @GN_Carreteras: Con afectación total a la circulación con dirección a Cd. Méx., sin ruta alterna.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065133812011475425#m",
       "timestamp": "2026-06-11T18:07:23+00:00",
       "timestamp_display": "11/06/2026 12:07 CST",
       "segment": null
@@ -262,6 +262,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2065128764602773857#m",
       "timestamp": "2026-06-11T17:47:20+00:00",
       "timestamp_display": "11/06/2026 11:47 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Entronque Cd. Cuauhtémoc - Osiris, Plaza de Cobro Zacatecas. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065178458506871182#m",
+      "timestamp": "2026-06-11T21:04:48+00:00",
+      "timestamp_display": "11/06/2026 15:04 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Continúa cierre a la circulación en ambos sentidos por presencia de manifestantes.  \n\n🔘 Se sugiere a la ciudadanía tomar como vía alterna el Viaducto Elevado Tlalpan o desviarse a la carretera Federal Libre en el km 53 (Poblado Tres Marías). \n\nToma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 53,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065175982907023593#m",
+      "timestamp": "2026-06-11T20:54:58+00:00",
+      "timestamp_display": "11/06/2026 14:54 CST",
       "segment": null
     },
     {
@@ -504,19 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065150197538152860#m",
       "timestamp": "2026-06-11T19:12:30+00:00",
       "timestamp_display": "11/06/2026 13:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuauhtémoc – Osiris, Plaza de Cobro Zacatecas. Reducción de carriles en ambos sentidos, por presencia de manifestantes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065148633683509744#m",
-      "timestamp": "2026-06-11T19:06:17+00:00",
-      "timestamp_display": "11/06/2026 13:06 CST",
       "segment": null
     }
   ]
