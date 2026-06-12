@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-12T10:10:22.878774",
+  "last_update": "2026-06-12T11:30:13.357695",
   "incidents": [
     {
       "title": "R to @GN_Carreteras: Cierre total a la circulación con dirección a Jilotepec, Edo. Méx.\nSin Ruta alterna.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa cierre a la circulación por atención de accidente (choque por alcance y salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065385661712961621#m",
+      "timestamp": "2026-06-12T10:48:09+00:00",
+      "timestamp_display": "12/06/2026 04:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 21, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065377033228562651#m",
+      "timestamp": "2026-06-12T10:13:52+00:00",
+      "timestamp_display": "12/06/2026 04:13 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 48, dirección CDMX. Cierre a la circulación por atención de accidente (choque por alcance y salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -499,32 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065274011798376562#m",
       "timestamp": "2026-06-12T03:24:30+00:00",
       "timestamp_display": "11/06/2026 21:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Puente de Ixtla - Iguala, km 46, dirección Puente de Ixtla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065268436301713803#m",
-      "timestamp": "2026-06-12T03:02:20+00:00",
-      "timestamp_display": "11/06/2026 21:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 264,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065265135254409507#m",
-      "timestamp": "2026-06-12T02:49:13+00:00",
-      "timestamp_display": "11/06/2026 20:49 CST",
       "segment": null
     }
   ]
