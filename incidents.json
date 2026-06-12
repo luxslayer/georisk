@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-12T06:52:29.602760",
+  "last_update": "2026-06-12T08:32:51.126682",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Tabasco tras presencia de personas cerca del km 070+000, de la carretera Coatzacoalcos-Villahermosa, a la altura de la Caseta de Cobro Sánchez Magallanes. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 70.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2065327715968831659#m",
+      "timestamp": "2026-06-12T06:57:54+00:00",
+      "timestamp_display": "12/06/2026 00:57 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tabasco se registra  presencia de personas cerca del km 070+000, de la carretera Coatzacoalcos-Villahermosa, a la altura de la Caseta de Cobro Sánchez Magallanes. Sin afectación a la circulación. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,32 @@
       "segment": null
     },
     {
-      "title": "Sin afectación a la circulación, los manifestantes mantienen levantadas las plumas evitando el cobro de peaje.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ \nAutopista Córdoba - Veracruz, registra #lluvia a la altura de la Plaza de Cobro Paso del Toro. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": 150,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065128791660196209#m",
-      "timestamp": "2026-06-11T17:47:26+00:00",
-      "timestamp_display": "11/06/2026 11:47 CST",
+      "url": "https://nitter.net/CAPUFE/status/2065341353463021669#m",
+      "timestamp": "2026-06-12T07:52:05+00:00",
+      "timestamp_display": "12/06/2026 01:52 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 21, dirección La Tinaja. Reducción de carriles por atención de accidente (salida de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065335322439782461#m",
+      "timestamp": "2026-06-12T07:28:07+00:00",
+      "timestamp_display": "12/06/2026 01:28 CST",
       "segment": null
     },
     {
@@ -496,32 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065259828948107410#m",
       "timestamp": "2026-06-12T02:28:08+00:00",
       "timestamp_display": "11/06/2026 20:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 86, dirección CDMX. Reducción de carriles centrales por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065246680505520607#m",
-      "timestamp": "2026-06-12T01:35:53+00:00",
-      "timestamp_display": "11/06/2026 19:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \n#AutMéxicoCuernavaca, registra #lluvia del km 19 al 24. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065245763051897193#m",
-      "timestamp": "2026-06-12T01:32:14+00:00",
-      "timestamp_display": "11/06/2026 19:32 CST",
       "segment": null
     }
   ]
