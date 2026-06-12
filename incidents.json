@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-12T21:06:45.778183",
+  "last_update": "2026-06-12T21:53:49.481934",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Chiapas tras presencia de personas cerca del km 001+300, de la carretera Tuxtla Gutiérrez-San Cristóbal, en la Caseta de Cobro Chiapa de Corzo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 1.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2065550967802572906#m",
+      "timestamp": "2026-06-12T21:45:01+00:00",
+      "timestamp_display": "12/06/2026 15:45 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #EdoMX tras #AccidenteVial cerca del km 000+010, de la carretera Lib. Arco Norte,  a inmediaciones de la intercepción del Arco Norte y Maravatío-Atlacomulco. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": 0.01,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065549199186268228#m",
+      "timestamp": "2026-06-12T21:37:59+00:00",
+      "timestamp_display": "12/06/2026 15:37 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #EdoMéx tras #AccidenteVial cerca del km 071+000, de la carretera México-Querétaro, a la altura de la localidad de Tepeji del Río de Ocampo. Maneje con precaución.",
       "type": "twitter",
@@ -236,30 +262,46 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Cierre total a la circulación con dirección a Jilotepec, Edo. Méx.\nSin Ruta alterna.",
+      "title": "Pinned: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nSe informa a las personas usuarias que se restablece la circulación en los siguientes puntos de la #AutMéxicoCuernavaca: \n\n➡️ Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan, operan de manera normal en ambos sentidos. \n\n➡️ Dirección CDMX, km 71, opera de manera normal.\n\nManeja con precaución.  🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.9539,
-      "lng": -99.5345,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": null,
+      "km": 71,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065353429325643886#m",
-      "timestamp": "2026-06-12T08:40:04+00:00",
-      "timestamp_display": "12/06/2026 02:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2065547927129567521#m",
+      "timestamp": "2026-06-12T21:32:56+00:00",
+      "timestamp_display": "12/06/2026 15:32 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecaucion en #EdoMX se registra cierre total de circulación por maniobras tras #AccidenteVial cerca del km 000+010, de la carretera Lib. Arco Norte,  a inmediaciones de la intercepción del Arco Norte y Maravatío-Atlacomulco. Atienda indicación vial.",
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.8002,
-      "lng": -99.8759,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 0.01,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065353427513676077#m",
-      "timestamp": "2026-06-12T08:40:04+00:00",
-      "timestamp_display": "12/06/2026 02:40 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065546428470940080#m",
+      "timestamp": "2026-06-12T21:26:59+00:00",
+      "timestamp_display": "12/06/2026 15:26 CST",
       "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 89, dirección Veracruz. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.049219348006474,
+      "lng": -96.22244294929851,
+      "road": 150,
+      "km": 89,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065541571240501541#m",
+      "timestamp": "2026-06-12T21:07:41+00:00",
+      "timestamp_display": "12/06/2026 15:07 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAut. Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -369,7 +411,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 71, dirección CDMX. Se desvía la vialidad a la Aut. La Pera - Cuautla por cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan por presencia de manifestantes, para tomar la siguiente vía alterna:\nhttps://maps.app.goo.gl/LGh2zVnJLvRSxMS57\n\n➡️ Así mismo, se sugiere a la ciudadanía que viaja con dirección a CDMX, desviarse en el km 80 (Glorieta de La Paloma de la Paz) de la Aut. México - Cuernavaca hacia la  carretera Federal Libre.\n\nLa carretera libre no es administrada por CAPUFE. Para más información, llama al 088 de @GN_Carreteras.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 71, dirección CDMX. Se desvía la vialidad a la Aut. La Pera - Cuautla por cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan por presencia de manifestantes, para tomar la siguiente vía alterna:\nhttps://maps.app.goo.gl/LGh2zVnJLvRSxMS57\n\n➡️ Así mismo, se sugiere a la ciudadanía que viaja con dirección a CDMX, desviarse en el km 80 (Glorieta de La Paloma de la Paz) de la Aut. México - Cuernavaca hacia la  carretera Federal Libre.\n\nLa carretera libre no es administrada por CAPUFE. Para más información, llama al 088 de @GN_Carreteras.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -486,45 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065507251683533187#m",
       "timestamp": "2026-06-12T18:51:18+00:00",
       "timestamp_display": "12/06/2026 12:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 53 (Poblado Tres Marías), dirección CDMX. Se desvía la vialidad a la carretera Federal Libre por cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan por presencia de manifestantes.\n\n➡️ Así mismo, se sugiere a la ciudadanía que viaja con dirección a CDMX, desviarse en el km 71 de la Aut. México - Cuernavaca y tomar la siguiente vía alterna: https://maps.app.goo.gl/LGh2zVnJLvRSxMS57\n\nLa carretera libre no es administrada por CAPUFE. Para más información, llama al 088 de @GN_Carreteras.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 53,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065505975931449612#m",
-      "timestamp": "2026-06-12T18:46:14+00:00",
-      "timestamp_display": "12/06/2026 12:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca. Registra cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan, en ambos sentidos por presencia de manifestantes.\n\n➡️ Se sugiere a la ciudadanía que viaja con dirección a CDMX y se encuentra en las inmediaciones de la caseta, retornar en el acceso habilitado hacia Cuernavaca para salir en el km 38 (Parres) a la carretera federal libre.\n\nLa carretera libre no es administrada por CAPUFE. Para más información, llama al 088 de GN_Carreteras.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 38,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065504700338970822#m",
-      "timestamp": "2026-06-12T18:41:10+00:00",
-      "timestamp_display": "12/06/2026 12:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Reducción de carriles por atención de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065501578635698313#m",
-      "timestamp": "2026-06-12T18:28:46+00:00",
-      "timestamp_display": "12/06/2026 12:28 CST",
       "segment": null
     }
   ]
