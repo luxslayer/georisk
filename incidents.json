@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-06-12T22:35:34.508680",
+  "last_update": "2026-06-12T23:11:04.927913",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 036+600, de la carretera Morelia-Pátzcuaro, en la localidad de El Carmen, con dirección a El Sauz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": 14,
+      "km": 36.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065570754737881285#m",
+      "timestamp": "2026-06-12T23:03:39+00:00",
+      "timestamp_display": "12/06/2026 17:03 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #CdMéx tras presencia de personas cerca del km 178+000, de la carretera México-Cuernavaca, en la Caseta de Cobro Tlalpan, No. 01. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 178.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2065568351020015803#m",
+      "timestamp": "2026-06-12T22:54:05+00:00",
+      "timestamp_display": "12/06/2026 16:54 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Oaxaca tras presencia de personas cerca del km 219+920, de la carretera Cuacnopalan-Oaxaca, en la caseta de cobro No. 79, San Pablo Huitzo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 219.92,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2065565457172541550#m",
+      "timestamp": "2026-06-12T22:42:35+00:00",
+      "timestamp_display": "12/06/2026 16:42 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en el #AeropuertodeOaxaca tras presencia de personas cerca del km 000+300, de la carretera Oaxaca-Puerto Ángel. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 0.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2065563852100587895#m",
+      "timestamp": "2026-06-12T22:36:13+00:00",
+      "timestamp_display": "12/06/2026 16:36 CST",
+      "segment": null
+    },
     {
       "title": "R to @GN_Carreteras: Se orienta a al ciudadanía #Rutaalterna por Carr. Libre 180 Poza Rica-Veracruz.",
       "type": "twitter",
@@ -213,56 +265,46 @@
       "segment": null
     },
     {
-      "title": "En #Morelos se registra cierre parcial de circulación tras #AccidenteVial cerca del km 089+000, de la carretera México-Cuernavaca (directo), a inmediaciones del Mpio. de Cuernavaca. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
-      "km": 89.0,
+      "km": 63,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065474685416923478#m",
-      "timestamp": "2026-06-12T16:41:54+00:00",
-      "timestamp_display": "12/06/2026 10:41 CST",
+      "url": "https://nitter.net/CAPUFE/status/2065567985905918454#m",
+      "timestamp": "2026-06-12T22:52:38+00:00",
+      "timestamp_display": "12/06/2026 16:52 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra presencia de personas cerca del km 219+920, de la carretera Cuacnopalan-Oaxaca, en la caseta de cobro No. 79, San Pablo Huitzo, sin afectación a la circulación. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 219.92,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065468054473969926#m",
-      "timestamp": "2026-06-12T16:15:33+00:00",
-      "timestamp_display": "12/06/2026 10:15 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @GN_Carreteras: Se mantiene el acceso a pasajeros de manera peatonal, sin afectaciones a las operaciones aéreas.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 187, dirección Acatzingo. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065440661592060286#m",
-      "timestamp": "2026-06-12T14:26:42+00:00",
-      "timestamp_display": "12/06/2026 08:26 CST",
+      "km": 187,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065567065411297501#m",
+      "timestamp": "2026-06-12T22:48:59+00:00",
+      "timestamp_display": "12/06/2026 16:48 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en el #AeropuertodeOaxaca se registra cierre total al acceso principal del interior del Aeropuerto, por presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel. Atienda indicación vial.",
+      "title": "🟠  CIERRE PARCIAL DE CIRCULACIÓN  🟠\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino a cuneta central). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 0.3,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065440659280966092#m",
-      "timestamp": "2026-06-12T14:26:41+00:00",
-      "timestamp_display": "12/06/2026 08:26 CST",
-      "segment": null
+      "lat": 17.967838729227932,
+      "lng": -94.65045909607852,
+      "road": 145,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065566318087012354#m",
+      "timestamp": "2026-06-12T22:46:01+00:00",
+      "timestamp_display": "12/06/2026 16:46 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
@@ -356,7 +398,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nSe informa a las personas usuarias que se restablece la circulación en los siguientes puntos de la #AutMéxicoCuernavaca: \n\n➡️ Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan, operan de manera normal en ambos sentidos. \n\n➡️ Dirección CDMX, km 71, opera de manera normal.\n\nManeja con precaución.  🚌🚙🚗🏍️",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nSe informa a las personas usuarias que se restablece la circulación en los siguientes puntos de la #AutMéxicoCuernavaca: \n\n➡️ Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan, operan de manera normal en ambos sentidos. \n\n➡️ Dirección CDMX, km 71, opera de manera normal.\n\nManeja con precaución.  🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -490,48 +532,6 @@
       "timestamp": "2026-06-12T20:15:29+00:00",
       "timestamp_display": "12/06/2026 14:15 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065527600986870133#m",
-      "timestamp": "2026-06-12T20:12:10+00:00",
-      "timestamp_display": "12/06/2026 14:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoCuernavaca, km 71, dirección CDMX. Se desvía la vialidad a la Aut. La Pera - Cuautla por cierre a la circulación en el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan por presencia de manifestantes, para tomar la siguiente vía alterna:\nhttps://maps.app.goo.gl/LGh2zVnJLvRSxMS57\n\n➡️ Así mismo, se sugiere a la ciudadanía que viaja con dirección a CDMX, desviarse en el km 80 (Glorieta de La Paloma de la Paz) de la Aut. México - Cuernavaca hacia la  carretera Federal Libre.\n\nLa carretera libre no es administrada por CAPUFE. Para más información, llama al 088 de @GN_Carreteras.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 71,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065526083362103410#m",
-      "timestamp": "2026-06-12T20:06:08+00:00",
-      "timestamp_display": "12/06/2026 14:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 35, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.797176859242946,
-      "lng": -96.59132662984878,
-      "road": 150,
-      "km": 35,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065523851862192258#m",
-      "timestamp": "2026-06-12T19:57:16+00:00",
-      "timestamp_display": "12/06/2026 13:57 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
