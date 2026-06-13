@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-13T10:13:44.388263",
+  "last_update": "2026-06-13T11:04:21.694611",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación por #AccidenteVial cerca del km 049+950, de la carretera Querétaro-San Luis Potosí, cerca del Mpio. de San Jerónimo, con dirección a San Luis Potosí. Atienda indicación vial.",
@@ -280,6 +280,61 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. \n\nUnidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065750540265431149#m",
+      "timestamp": "2026-06-13T10:58:03+00:00",
+      "timestamp_display": "13/06/2026 04:58 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 19, dirección Cosoleacaque. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/tJfDbvG1298vZiTp8",
+      "type": "twitter",
+      "lat": 17.92587965936017,
+      "lng": -94.76173555179093,
+      "road": 145,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065748717940965710#m",
+      "timestamp": "2026-06-13T10:50:48+00:00",
+      "timestamp_display": "13/06/2026 04:50 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza).  \n\nEn la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065746387182997546#m",
+      "timestamp": "2026-06-13T10:41:33+00:00",
+      "timestamp_display": "13/06/2026 04:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista La Tinaja - Isla, km 38, dirección La Tinaja. Reducción de carriles por atención de incidente (vagoneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 38,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065743001591173338#m",
+      "timestamp": "2026-06-13T10:28:05+00:00",
+      "timestamp_display": "13/06/2026 04:28 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 64, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -488,61 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065677203900100973#m",
       "timestamp": "2026-06-13T06:06:38+00:00",
       "timestamp_display": "13/06/2026 00:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 25, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065670318769762326#m",
-      "timestamp": "2026-06-13T05:39:16+00:00",
-      "timestamp_display": "12/06/2026 23:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. Reducción de carriles por atención de accidente (automóviles siniestrados). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.967838729227932,
-      "lng": -94.65045909607852,
-      "road": 145,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065667401442533398#m",
-      "timestamp": "2026-06-13T05:27:41+00:00",
-      "timestamp_display": "12/06/2026 23:27 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 95, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 95,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065663709045837997#m",
-      "timestamp": "2026-06-13T05:13:01+00:00",
-      "timestamp_display": "12/06/2026 23:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Estación Don - Navojoa, km 104, dirección Navojoa. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 104,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065663284322185496#m",
-      "timestamp": "2026-06-13T05:11:19+00:00",
-      "timestamp_display": "12/06/2026 23:11 CST",
       "segment": null
     }
   ]
