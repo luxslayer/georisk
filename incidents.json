@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-13T23:09:01.011261",
+  "last_update": "2026-06-13T23:39:55.939801",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 220+300, de la carretera Libramiento Norte con dirección a Tula, Hgo. Atienda indicación vial.",
@@ -277,6 +277,32 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \n #AutMéxicoQuerétaro, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065942260781343182#m",
+      "timestamp": "2026-06-13T23:39:52+00:00",
+      "timestamp_display": "13/06/2026 17:39 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠  \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065938706771431931#m",
+      "timestamp": "2026-06-13T23:25:45+00:00",
+      "timestamp_display": "13/06/2026 17:25 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 100, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -510,32 +536,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065884932598013979#m",
       "timestamp": "2026-06-13T19:52:04+00:00",
       "timestamp_display": "13/06/2026 13:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 196. Continúa cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre vagonetas).\n\n➡  Dir. Tehuacán, por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura de la Plaza de Cobro Huitzo.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 196,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065882088591548726#m",
-      "timestamp": "2026-06-13T19:40:46+00:00",
-      "timestamp_display": "13/06/2026 13:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Las Choapas - Ocozocoautla, km 54. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065872224368660612#m",
-      "timestamp": "2026-06-13T19:01:34+00:00",
-      "timestamp_display": "13/06/2026 13:01 CST",
       "segment": null
     }
   ]
