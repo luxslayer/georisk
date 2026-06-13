@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-13T22:39:58.217075",
+  "last_update": "2026-06-13T23:09:01.011261",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 220+300, de la carretera Libramiento Norte con dirección a Tula, Hgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.0529,
+      "lng": -99.3408,
+      "road": null,
+      "km": 220.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065928530433568829#m",
+      "timestamp": "2026-06-13T22:45:19+00:00",
+      "timestamp_display": "13/06/2026 16:45 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial.",
       "type": "twitter",
@@ -264,19 +277,32 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación por #AccidenteVial cerca del km 049+950, de la carretera Querétaro-San Luis Potosí, cerca del Mpio. de San Jerónimo, con dirección a San Luis Potosí. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 100, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.99051745748244,
-      "lng": -100.4374942480258,
-      "road": 57,
-      "km": 49.95,
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 100,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065738747845517566#m",
-      "timestamp": "2026-06-13T10:11:11+00:00",
-      "timestamp_display": "13/06/2026 04:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2065933512864133344#m",
+      "timestamp": "2026-06-13T23:05:07+00:00",
+      "timestamp_display": "13/06/2026 17:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 39, dirección Veracruz. Reducción de carriles por atención de incidente (pick up con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.78791266440779,
+      "lng": -96.55464492800833,
+      "road": 150,
+      "km": 39,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065933012118757808#m",
+      "timestamp": "2026-06-13T23:03:07+00:00",
+      "timestamp_display": "13/06/2026 17:03 CST",
       "segment": [
-        "queretaro",
-        "san luis potosi"
+        "cordoba",
+        "veracruz"
       ]
     },
     {
@@ -406,19 +432,6 @@
       "segment": null
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 196. Continúa cierre a la circulación en ambos sentidos por atención de choque de frente entre vagonetas.\n\nSe sugiere a la ciudadanía tomar las siguientes vías alternas:\n➡ Dir. Oaxaca, desvío hacia carretera libre a la altura del km 175 (Poblado de Nochixtlán).\n➡ Dir. Tehuacán, desvío hacia carretera libre a la altura de la Plaza de Cobro Huitzo.\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/frkDE551uJStP4YG9",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 196,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065893411555532858#m",
-      "timestamp": "2026-06-13T20:25:46+00:00",
-      "timestamp_display": "13/06/2026 14:25 CST",
-      "segment": null
-    },
-    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Córdoba - Veracruz, registra #lluvia ligera a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 19.1748,
@@ -458,6 +471,19 @@
       "url": "https://nitter.net/CAPUFE/status/2065895170969596166#m",
       "timestamp": "2026-06-13T20:32:45+00:00",
       "timestamp_display": "13/06/2026 14:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 196. Continúa cierre a la circulación en ambos sentidos por atención de choque de frente entre vagonetas.\n\nSe sugiere a la ciudadanía tomar las siguientes vías alternas:\n➡ Dir. Oaxaca, desvío hacia carretera libre a la altura del km 175 (Poblado de Nochixtlán).\n➡ Dir. Tehuacán, desvío hacia carretera libre a la altura de la Plaza de Cobro Huitzo.\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/frkDE551uJStP4YG9",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 196,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065893411555532858#m",
+      "timestamp": "2026-06-13T20:25:46+00:00",
+      "timestamp_display": "13/06/2026 14:25 CST",
       "segment": null
     },
     {
@@ -510,32 +536,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065872224368660612#m",
       "timestamp": "2026-06-13T19:01:34+00:00",
       "timestamp_display": "13/06/2026 13:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia a la altura de la Plaza de Cobro Tlalpan. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065868775593762997#m",
-      "timestamp": "2026-06-13T18:47:52+00:00",
-      "timestamp_display": "13/06/2026 12:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Agua Dulce - Cárdenas, km 51, dirección Cárdenas. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065868573864542659#m",
-      "timestamp": "2026-06-13T18:47:04+00:00",
-      "timestamp_display": "13/06/2026 12:47 CST",
       "segment": null
     }
   ]
