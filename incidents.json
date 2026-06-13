@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-13T11:04:21.694611",
+  "last_update": "2026-06-13T11:54:35.843834",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación por #AccidenteVial cerca del km 049+950, de la carretera Querétaro-San Luis Potosí, cerca del Mpio. de San Jerónimo, con dirección a San Luis Potosí. Atienda indicación vial.",
@@ -280,6 +280,45 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 54. Cierre a la circulación en ambos sentidos por atención del accidente (choque de frente e incendio de autobús). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 54,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065762943325868502#m",
+      "timestamp": "2026-06-13T11:47:20+00:00",
+      "timestamp_display": "13/06/2026 05:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 86, dirección Acapulco. Cierre a la circulación en carriles laterales por atención de accidente (servicios periciales). En la zona se da paso por los carriles centrales. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065759847572963613#m",
+      "timestamp": "2026-06-13T11:35:02+00:00",
+      "timestamp_display": "13/06/2026 05:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065757375970119761#m",
+      "timestamp": "2026-06-13T11:25:13+00:00",
+      "timestamp_display": "13/06/2026 05:25 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. El accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. \n\nUnidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -501,48 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065687990710538269#m",
       "timestamp": "2026-06-13T06:49:30+00:00",
       "timestamp_display": "13/06/2026 00:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Acayucan - Cosoleacaque, km 32, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.967838729227932,
-      "lng": -94.65045909607852,
-      "road": 145,
-      "km": 32,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065685152139825619#m",
-      "timestamp": "2026-06-13T06:38:13+00:00",
-      "timestamp_display": "13/06/2026 00:38 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Agua Dulce - Cárdenas, km 69, dirección Agua Dulce. Se restablece la circulación con reducción de carriles.\n\nEl personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 69,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065684909809623086#m",
-      "timestamp": "2026-06-13T06:37:15+00:00",
-      "timestamp_display": "13/06/2026 00:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Agua Dulce - Cárdenas, km 69, dirección Agua Dulce. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 69,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065677203900100973#m",
-      "timestamp": "2026-06-13T06:06:38+00:00",
-      "timestamp_display": "13/06/2026 00:06 CST",
       "segment": null
     }
   ]
