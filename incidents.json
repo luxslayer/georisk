@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-13T21:10:53.158167",
+  "last_update": "2026-06-13T21:42:29.803011",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.906211997746116,
+      "lng": -100.40538047188811,
+      "road": 57,
+      "km": 40.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065910427800781303#m",
+      "timestamp": "2026-06-13T21:33:23+00:00",
+      "timestamp_display": "13/06/2026 15:33 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 240+000, de la carretera Maravatío - Zapotlanejo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": 15,
+      "km": 240.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065909448015532474#m",
+      "timestamp": "2026-06-13T21:29:29+00:00",
+      "timestamp_display": "13/06/2026 15:29 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del km 132+900, de la carretera Matehuala- Monterrey. Atienda indicación vial.",
       "type": "twitter",
@@ -251,29 +280,32 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 063+800, de la carretera Puerto Vallarta-Melaque, cerca del Mpio. de La Huerta, con dirección a Puerto Vallarta. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 23, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.821521538385486,
+      "lng": -96.70228993274256,
+      "road": 150,
+      "km": 23,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065911178761470050#m",
+      "timestamp": "2026-06-13T21:36:22+00:00",
+      "timestamp_display": "13/06/2026 15:36 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 63.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065698121808486714#m",
-      "timestamp": "2026-06-13T07:29:45+00:00",
-      "timestamp_display": "13/06/2026 01:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 184+000, de la carretera Tihuatlán-El Palmar, cerca del Mpio. de Papantla, con dirección a El Palmar. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 184.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065689135805870399#m",
-      "timestamp": "2026-06-13T06:54:03+00:00",
-      "timestamp_display": "13/06/2026 00:54 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065908609725108605#m",
+      "timestamp": "2026-06-13T21:26:09+00:00",
+      "timestamp_display": "13/06/2026 15:26 CST",
       "segment": null
     },
     {
@@ -498,32 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065846909332341079#m",
       "timestamp": "2026-06-13T17:20:59+00:00",
       "timestamp_display": "13/06/2026 11:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🚫⚽ #TarjetaRojaALaTrata\nInfórmate, identifica las señales y contribuye a su prevención.\n📢 ¡Denuncia!",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065841631010677218#m",
-      "timestamp": "2026-06-13T17:00:00+00:00",
-      "timestamp_display": "13/06/2026 11:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Acatzingo - Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065840873921773630#m",
-      "timestamp": "2026-06-13T16:57:00+00:00",
-      "timestamp_display": "13/06/2026 10:57 CST",
       "segment": null
     }
   ]
