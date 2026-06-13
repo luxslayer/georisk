@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-06-13T09:15:09.424425",
+  "last_update": "2026-06-13T10:13:44.388263",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guanajuato se registra cierre total de circulación por #AccidenteVial cerca del km 049+950, de la carretera Querétaro-San Luis Potosí, cerca del Mpio. de San Jerónimo, con dirección a San Luis Potosí. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.99051745748244,
+      "lng": -100.4374942480258,
+      "road": 57,
+      "km": 49.95,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065738747845517566#m",
+      "timestamp": "2026-06-13T10:11:11+00:00",
+      "timestamp_display": "13/06/2026 04:11 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 063+800, de la carretera Puerto Vallarta-Melaque, cerca del Mpio. de La Huerta, con dirección a Puerto Vallarta. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +280,55 @@
       "segment": null
     },
     {
-      "title": "Continúa en #Veracruz cierre parcial de circulación por #AccidenteVial cerca del km 088+200, de la carretera Ent. La Tinaja-Veracruz (directo), a la altura de la localidad de San Miguel, con dirección a Veracruz. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 64, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 88.2,
+      "km": 64,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065579675783409924#m",
-      "timestamp": "2026-06-12T23:39:05+00:00",
-      "timestamp_display": "12/06/2026 17:39 CST",
+      "url": "https://nitter.net/CAPUFE/status/2065739334108467431#m",
+      "timestamp": "2026-06-13T10:13:31+00:00",
+      "timestamp_display": "13/06/2026 04:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central y volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 64,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065735258536829412#m",
+      "timestamp": "2026-06-13T09:57:19+00:00",
+      "timestamp_display": "13/06/2026 03:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAut. Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065729394094538766#m",
+      "timestamp": "2026-06-13T09:34:01+00:00",
+      "timestamp_display": "13/06/2026 03:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 86, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065724931757752500#m",
+      "timestamp": "2026-06-13T09:16:17+00:00",
+      "timestamp_display": "13/06/2026 03:16 CST",
       "segment": null
     },
     {
@@ -488,58 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065663284322185496#m",
       "timestamp": "2026-06-13T05:11:19+00:00",
       "timestamp_display": "12/06/2026 23:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 25, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central y salida del camino de automóvil). En la zona se registra carga vehicular y #lluvia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065660145950929147#m",
-      "timestamp": "2026-06-13T04:58:51+00:00",
-      "timestamp_display": "12/06/2026 22:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, dirección Cuernavaca. El incidente fuera de la jurisdicción a cargo de CAPUFE ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065658016775442713#m",
-      "timestamp": "2026-06-13T04:50:23+00:00",
-      "timestamp_display": "12/06/2026 22:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (desprendimiento y volcadura de remolque). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 231,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065653441842626575#m",
-      "timestamp": "2026-06-13T04:32:13+00:00",
-      "timestamp_display": "12/06/2026 22:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 92, dirección Ensenada. Reducción de carriles por atención de accidente (salida del camino de automóvil). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 92,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065650966444089570#m",
-      "timestamp": "2026-06-13T04:22:22+00:00",
-      "timestamp_display": "12/06/2026 22:22 CST",
       "segment": null
     }
   ]
