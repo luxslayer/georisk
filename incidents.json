@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-13T22:11:59.571383",
+  "last_update": "2026-06-13T22:39:58.217075",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 040+000, de la carretera Querétaro-San Luis Potosí. Atienda indicación vial.",
@@ -280,6 +280,48 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 19, dirección Veracruz. Reducción de carriles por atención de incidente (automóviles con ponchadura de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.837570554824964,
+      "lng": -96.73550027819867,
+      "road": 150,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065924224087212189#m",
+      "timestamp": "2026-06-13T22:28:12+00:00",
+      "timestamp_display": "13/06/2026 16:28 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠CARGA VEHICULAR🟠\nAutopista Chamapa - Lechería, km 4, dirección Lechería. Registra carga vehicular por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 4,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065923602264822055#m",
+      "timestamp": "2026-06-13T22:25:44+00:00",
+      "timestamp_display": "13/06/2026 16:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \n #AutMéxicoQuerétaro, registra #lluvia a la altura del km 93. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 93,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065920285962875347#m",
+      "timestamp": "2026-06-13T22:12:33+00:00",
+      "timestamp_display": "13/06/2026 16:12 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 23, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.821521538385486,
@@ -364,6 +406,19 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 196. Continúa cierre a la circulación en ambos sentidos por atención de choque de frente entre vagonetas.\n\nSe sugiere a la ciudadanía tomar las siguientes vías alternas:\n➡ Dir. Oaxaca, desvío hacia carretera libre a la altura del km 175 (Poblado de Nochixtlán).\n➡ Dir. Tehuacán, desvío hacia carretera libre a la altura de la Plaza de Cobro Huitzo.\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/frkDE551uJStP4YG9",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 196,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065893411555532858#m",
+      "timestamp": "2026-06-13T20:25:46+00:00",
+      "timestamp_display": "13/06/2026 14:25 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Córdoba - Veracruz, registra #lluvia ligera a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 19.1748,
@@ -403,19 +458,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065895170969596166#m",
       "timestamp": "2026-06-13T20:32:45+00:00",
       "timestamp_display": "13/06/2026 14:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 196. Continúa cierre a la circulación en ambos sentidos por atención de choque de frente entre vagonetas.\n\nSe sugiere a la ciudadanía tomar las siguientes vías alternas:\n➡ Dir. Oaxaca, desvío hacia carretera libre a la altura del km 175 (Poblado de Nochixtlán).\n➡ Dir. Tehuacán, desvío hacia carretera libre a la altura de la Plaza de Cobro Huitzo.\n\nLa carretera libre no es operada por CAPUFE. Para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/frkDE551uJStP4YG9",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 196,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065893411555532858#m",
-      "timestamp": "2026-06-13T20:25:46+00:00",
-      "timestamp_display": "13/06/2026 14:25 CST",
       "segment": null
     },
     {
@@ -494,45 +536,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065868573864542659#m",
       "timestamp": "2026-06-13T18:47:04+00:00",
       "timestamp_display": "13/06/2026 12:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tehuacán - Oaxaca, km 196. Cierre a la circulación en ambos sentidos por atención de accidente (choque de frente entre vagonetas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 196,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065863258100105340#m",
-      "timestamp": "2026-06-13T18:25:57+00:00",
-      "timestamp_display": "13/06/2026 12:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Las Choapas - Ocozocoautla, km 54. El accidente ha sido atendido. En la zona se registra carga vehicular en ambos sentidos. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065850663498649914#m",
-      "timestamp": "2026-06-13T17:35:54+00:00",
-      "timestamp_display": "13/06/2026 11:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️   \n#AutMéxicoCuernavaca, registra #neblina a la altura del Poblado de Tres Marías. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065848192399278255#m",
-      "timestamp": "2026-06-13T17:26:05+00:00",
-      "timestamp_display": "13/06/2026 11:26 CST",
       "segment": null
     }
   ]
