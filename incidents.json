@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-13T16:34:54.435364",
+  "last_update": "2026-06-13T17:11:43.953694",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 012+920, de la carretera Zihuatanejo - La Mira con dirección Zihuatanejo. Atienda indicación vial.",
@@ -280,6 +280,32 @@
       ]
     },
     {
+      "title": "🚫⚽ #TarjetaRojaALaTrata\nInfórmate, identifica las señales y contribuye a su prevención.\n📢 ¡Denuncia!",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065841631010677218#m",
+      "timestamp": "2026-06-13T17:00:00+00:00",
+      "timestamp_display": "13/06/2026 11:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️ \nAutopista Acatzingo - Cd. Mendoza, registra #neblina en la zona de las Cumbres de Maltrata. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065840873921773630#m",
+      "timestamp": "2026-06-13T16:57:00+00:00",
+      "timestamp_display": "13/06/2026 10:57 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Champotón - Campeche, km 173, dirección Campeche. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -514,32 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065808584881901637#m",
       "timestamp": "2026-06-13T14:48:42+00:00",
       "timestamp_display": "13/06/2026 08:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 54. Continúa cierre a la circulación en ambos sentidos por atención del accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065807973625053577#m",
-      "timestamp": "2026-06-13T14:46:16+00:00",
-      "timestamp_display": "13/06/2026 08:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 74,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065807004694688163#m",
-      "timestamp": "2026-06-13T14:42:25+00:00",
-      "timestamp_display": "13/06/2026 08:42 CST",
       "segment": null
     }
   ]
