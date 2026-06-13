@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-13T06:38:26.300436",
+  "last_update": "2026-06-13T07:58:43.903531",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 063+800, de la carretera Puerto Vallarta-Melaque, cerca del Mpio. de La Huerta, con dirección a Puerto Vallarta. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 63.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065698121808486714#m",
+      "timestamp": "2026-06-13T07:29:45+00:00",
+      "timestamp_display": "13/06/2026 01:29 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 184+000, de la carretera Tihuatlán-El Palmar, cerca del Mpio. de Papantla, con dirección a El Palmar. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 184.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2065689135805870399#m",
+      "timestamp": "2026-06-13T06:54:03+00:00",
+      "timestamp_display": "13/06/2026 00:54 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 141+700, de la carr. Poza Rica-Veracruz, en la localidad de Santa Ana, con dirección a Cardel. Maneje con precaución.",
       "type": "twitter",
@@ -251,29 +277,55 @@
       "segment": null
     },
     {
-      "title": "En #Sinaloa continúa la presencia de personas cerca del km 019+300, de la carretera Culiacán-Los Mochis, a la altura de la Caseta de Cobro No. 10, Puente Culiacán. La Caseta labora libre de peaje. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada).\n\nEn la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 19.3,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2065578024318152968#m",
-      "timestamp": "2026-06-12T23:32:32+00:00",
-      "timestamp_display": "12/06/2026 17:32 CST",
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065705121351082429#m",
+      "timestamp": "2026-06-13T07:57:34+00:00",
+      "timestamp_display": "13/06/2026 01:57 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del km 174+950, de la carretera Gomez Palacios-Jiménez, en la localidad de Analco, con dirección a Jiménez. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 92, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
+      "lat": 32.5127,
+      "lng": -116.9301,
       "road": null,
-      "km": 174.95,
+      "km": 92,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065572776371490940#m",
-      "timestamp": "2026-06-12T23:11:41+00:00",
-      "timestamp_display": "12/06/2026 17:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2065694657439297910#m",
+      "timestamp": "2026-06-13T07:15:59+00:00",
+      "timestamp_display": "13/06/2026 01:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 231, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 231,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2065690968360186040#m",
+      "timestamp": "2026-06-13T07:01:20+00:00",
+      "timestamp_display": "13/06/2026 01:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​\nAutopista Cuernavaca - Acapulco, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065687990710538269#m",
+      "timestamp": "2026-06-13T06:49:30+00:00",
+      "timestamp_display": "13/06/2026 00:49 CST",
       "segment": null
     },
     {
@@ -488,61 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2065642334931317003#m",
       "timestamp": "2026-06-13T03:48:05+00:00",
       "timestamp_display": "12/06/2026 21:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular y #lluvia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065641880684048601#m",
-      "timestamp": "2026-06-13T03:46:16+00:00",
-      "timestamp_display": "12/06/2026 21:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 89, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.049219348006474,
-      "lng": -96.22244294929851,
-      "road": 150,
-      "km": 89,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065637635884794336#m",
-      "timestamp": "2026-06-13T03:29:24+00:00",
-      "timestamp_display": "12/06/2026 21:29 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2065634065902932480#m",
-      "timestamp": "2026-06-13T03:15:13+00:00",
-      "timestamp_display": "12/06/2026 21:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 75, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 75,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2065634002854146136#m",
-      "timestamp": "2026-06-13T03:14:58+00:00",
-      "timestamp_display": "12/06/2026 21:14 CST",
       "segment": null
     }
   ]
