@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-14T22:30:47.091479",
+  "last_update": "2026-06-14T23:09:32.491501",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Zacatecas tras #Accidentevial, cerca del km 030+700, de la carretera Zacatecas - Durango con dirección Zacatecas. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 30.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066289131999690909#m",
+      "timestamp": "2026-06-14T22:38:13+00:00",
+      "timestamp_display": "14/06/2026 16:38 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Morelos tras #Accidentevial, cerca del km 063+450, de la autopista México - Cuernavaca con dirección Cuernavaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 63.45,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066287699519009231#m",
+      "timestamp": "2026-06-14T22:32:31+00:00",
+      "timestamp_display": "14/06/2026 16:32 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación por #Accidentevial, cerca del km 022+500, de la carretera Aguascalientes - Zacatecas con dirección Aguascalientes. Atienda indicación vial.",
       "type": "twitter",
@@ -233,32 +259,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2066115156019458326#m",
       "timestamp": "2026-06-14T11:06:54+00:00",
       "timestamp_display": "14/06/2026 05:06 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Guerrero tras #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a Julián Blanco, Gro. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 317.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2066114922665116035#m",
-      "timestamp": "2026-06-14T11:05:58+00:00",
-      "timestamp_display": "14/06/2026 05:05 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial, cerca del km 209+600, de la autopista Libramiento Norte. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 209.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2066114433487618099#m",
-      "timestamp": "2026-06-14T11:04:02+00:00",
-      "timestamp_display": "14/06/2026 05:04 CST",
       "segment": null
     },
     {
