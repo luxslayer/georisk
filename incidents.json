@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-06-14T09:58:40.513684",
+  "last_update": "2026-06-14T11:06:05.643589",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Guerrero tras #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a Julián Blanco, Gro. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 317.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066114922665116035#m",
+      "timestamp": "2026-06-14T11:05:58+00:00",
+      "timestamp_display": "14/06/2026 05:05 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial, cerca del km 209+600, de la autopista Libramiento Norte. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 209.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066114433487618099#m",
+      "timestamp": "2026-06-14T11:04:02+00:00",
+      "timestamp_display": "14/06/2026 05:04 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #Accidentevial, cerca del km 083+100, de la carretera Los Reyes - Zacatepec con dirección Apizaco Tlax. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 83.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066113592621981741#m",
+      "timestamp": "2026-06-14T11:00:41+00:00",
+      "timestamp_display": "14/06/2026 05:00 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #Vehiculoincendiado por falla mecánica, cerca del km 014+100, de la carretera Arriaga- Ocozocoautla. Atienda indicación vial.",
       "type": "twitter",
@@ -226,42 +265,16 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Michoacán tras cierre parcial de circulación por #AccidenteVial cerca del km 240+000, de la carretera Maravatío-Zapotlanejo. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tijuana - Ensenada, km 56, dirección Ensenada. Continúa cierre a la circulación por atención de accidente (servicios periciales). \n \n➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura del km 53 (retorno Cantamar).\n\nLa carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": 15,
-      "km": 240.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065953119540826199#m",
-      "timestamp": "2026-06-14T00:23:01+00:00",
-      "timestamp_display": "13/06/2026 18:23 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Morelos tras cierre parcial de circulación por #AccidenteVial cerca del km 054+200, de la autopista México- Cuernavaca. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
+      "lat": 32.5127,
+      "lng": -116.9301,
       "road": null,
-      "km": 54.2,
+      "km": 56,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065952141177417738#m",
-      "timestamp": "2026-06-14T00:19:08+00:00",
-      "timestamp_display": "13/06/2026 18:19 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Chiapas tras #AccidenteVial cerca del km 151+900, de la carretera Las Choapas-Ocozocoautla, con dirección Ocuilapa de Juárez, Chis. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 31.69,
-      "lng": -106.42,
-      "road": null,
-      "km": 151.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065950759343079711#m",
-      "timestamp": "2026-06-14T00:13:39+00:00",
-      "timestamp_display": "13/06/2026 18:13 CST",
+      "url": "https://nitter.net/CAPUFE/status/2066104724365922686#m",
+      "timestamp": "2026-06-14T10:25:27+00:00",
+      "timestamp_display": "14/06/2026 04:25 CST",
       "segment": null
     },
     {
@@ -509,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066007238049730911#m",
       "timestamp": "2026-06-14T03:58:04+00:00",
       "timestamp_display": "13/06/2026 21:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066005209751429612#m",
-      "timestamp": "2026-06-14T03:50:01+00:00",
-      "timestamp_display": "13/06/2026 21:50 CST",
       "segment": null
     }
   ]
