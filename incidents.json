@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-13T23:39:55.939801",
+  "last_update": "2026-06-14T00:09:29.932008",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 220+300, de la carretera Libramiento Norte con dirección a Tula, Hgo. Atienda indicación vial.",
@@ -275,6 +275,22 @@
       "timestamp": "2026-06-13T13:09:48+00:00",
       "timestamp_display": "13/06/2026 07:09 CST",
       "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 19, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.837570554824964,
+      "lng": -96.73550027819867,
+      "road": 150,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2065949080774234502#m",
+      "timestamp": "2026-06-14T00:06:58+00:00",
+      "timestamp_display": "13/06/2026 18:06 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \n #AutMéxicoQuerétaro, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
