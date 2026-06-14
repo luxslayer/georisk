@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-14T13:35:43.534357",
+  "last_update": "2026-06-14T14:30:46.790522",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #Accidentevial, cerca del km 007+900, de la autopista La pera - Cuautla a la altura de la caseta de cobro No. 24 Tepoztlán. Atienda indicación vial.",
@@ -265,6 +265,71 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 60, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 60,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066165754580398489#m",
+      "timestamp": "2026-06-14T14:27:58+00:00",
+      "timestamp_display": "14/06/2026 08:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Querétaro - Irapuato, km 76, dirección Irapuato. Reducción de carriles por atención de accidente (choque de costado y salida del camino). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 76,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066162173785546928#m",
+      "timestamp": "2026-06-14T14:13:44+00:00",
+      "timestamp_display": "14/06/2026 08:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Las Choapas - Ocozocoautla, km 85. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 85,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066160127531532727#m",
+      "timestamp": "2026-06-14T14:05:36+00:00",
+      "timestamp_display": "14/06/2026 08:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nCarretera Culiacán - Los Mochis, Pte. Culiacán. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066159731601727778#m",
+      "timestamp": "2026-06-14T14:04:02+00:00",
+      "timestamp_display": "14/06/2026 08:04 CST",
+      "segment": null
+    },
+    {
+      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nAnticipa tu trayecto y maneja con precaución.\nCada decisión al volante puede marcar la diferencia en tu trayecto. 🚗\n👉 Respeta las señales y disfruta el camino.\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066158719742701814#m",
+      "timestamp": "2026-06-14T14:00:00+00:00",
+      "timestamp_display": "14/06/2026 08:00 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 8, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -457,71 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066063124847886840#m",
       "timestamp": "2026-06-14T07:40:09+00:00",
       "timestamp_display": "14/06/2026 01:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 56, dirección Ensenada. Circulación intermitente por atención de accidente (choque contra muro central). \n\nPor seguridad de las personas usuarias se permite la circulación únicamente a vehículos ligeros. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 56,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066062178793279904#m",
-      "timestamp": "2026-06-14T07:36:23+00:00",
-      "timestamp_display": "14/06/2026 01:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Cuernavaca - Acapulco, km 317, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 317,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066046387674907046#m",
-      "timestamp": "2026-06-14T06:33:38+00:00",
-      "timestamp_display": "14/06/2026 00:33 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 82, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación.\n\nEn la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066045991774568565#m",
-      "timestamp": "2026-06-14T06:32:04+00:00",
-      "timestamp_display": "14/06/2026 00:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nLibramiento Oriente de Saltillo, km 14, dirección Puerto México. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 14,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066030230603452687#m",
-      "timestamp": "2026-06-14T05:29:26+00:00",
-      "timestamp_display": "13/06/2026 23:29 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\n#AutMéxicoQuerétaro, km 82, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066027430754537622#m",
-      "timestamp": "2026-06-14T05:18:19+00:00",
-      "timestamp_display": "13/06/2026 23:18 CST",
       "segment": null
     }
   ]
