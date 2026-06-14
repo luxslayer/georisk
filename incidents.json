@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-14T20:12:05.510700",
+  "last_update": "2026-06-14T20:44:21.396636",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de circulación por #Accidentevial, cerca del km 006+550, de la carretera Toluca - Palmillas con dirección Atlacomulco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": 6.55,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066258486514639198#m",
+      "timestamp": "2026-06-14T20:36:27+00:00",
+      "timestamp_display": "14/06/2026 14:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Accidentevial, cerca del km 095+200, de la carretera Oaxaca-Tehuantepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 95.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066255708471845347#m",
+      "timestamp": "2026-06-14T20:25:24+00:00",
+      "timestamp_display": "14/06/2026 14:25 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #Accidentevial, cerca del km 063+450, de la autopista México - Cuernavaca con dirección Cuernavaca. Atienda indicación vial.",
       "type": "twitter",
@@ -236,29 +262,45 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a Julián Blanco, Gro. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 26, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 317.0,
+      "lat": 18.815133487698663,
+      "lng": -96.67460265649935,
+      "road": 150,
+      "km": 26,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2066026375975219527#m",
-      "timestamp": "2026-06-14T05:14:07+00:00",
-      "timestamp_display": "13/06/2026 23:14 CST",
+      "url": "https://nitter.net/CAPUFE/status/2066256794133966927#m",
+      "timestamp": "2026-06-14T20:29:43+00:00",
+      "timestamp_display": "14/06/2026 14:29 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 283, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 283,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066256584150294972#m",
+      "timestamp": "2026-06-14T20:28:53+00:00",
+      "timestamp_display": "14/06/2026 14:28 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+200, de la carretera Francisco Escarcega con ramales a Nuevo Coahuila con dirección a Villahermosa. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 19.2,
+      "km": null,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2066025696594374877#m",
-      "timestamp": "2026-06-14T05:11:25+00:00",
-      "timestamp_display": "13/06/2026 23:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2066252793577414666#m",
+      "timestamp": "2026-06-14T20:13:49+00:00",
+      "timestamp_display": "14/06/2026 14:13 CST",
       "segment": null
     },
     {
@@ -483,45 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066200594453352615#m",
       "timestamp": "2026-06-14T16:46:24+00:00",
       "timestamp_display": "14/06/2026 10:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Tinaja - Isla, km 34, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 34,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066197741319967058#m",
-      "timestamp": "2026-06-14T16:35:04+00:00",
-      "timestamp_display": "14/06/2026 10:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoQuerétaro, km 161, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 161,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066196862550294739#m",
-      "timestamp": "2026-06-14T16:31:34+00:00",
-      "timestamp_display": "14/06/2026 10:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 76, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 76,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066195759574196611#m",
-      "timestamp": "2026-06-14T16:27:11+00:00",
-      "timestamp_display": "14/06/2026 10:27 CST",
       "segment": null
     }
   ]
