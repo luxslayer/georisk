@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-14T14:30:46.790522",
+  "last_update": "2026-06-14T15:24:33.064883",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre total de circulación por #AccidenteVial cerca del km 055+900, de la carretera Ciudad Victoria - Monterrey con dirección a Oyama Tamps. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "road": null,
+      "km": 55.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066179461880357272#m",
+      "timestamp": "2026-06-14T15:22:26+00:00",
+      "timestamp_display": "14/06/2026 09:22 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Morelos se registra cierre parcial a la circulación por #AccidenteVial cerca del Km 060+100 de la carretera México-Cuernavaca con dirección Cuernavaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 60.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066166528089751773#m",
+      "timestamp": "2026-06-14T14:31:02+00:00",
+      "timestamp_display": "14/06/2026 08:31 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #Accidentevial, cerca del km 007+900, de la autopista La pera - Cuautla a la altura de la caseta de cobro No. 24 Tepoztlán. Atienda indicación vial.",
       "type": "twitter",
@@ -239,29 +265,29 @@
       ]
     },
     {
-      "title": "En #Oaxaca continua #AccidenteVial cerca del km 095+500, de la carretera Tehuacán - Oaxaca. Se orienta a la ciudadanía que se habilita vialidad por el carril  derecho. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 95.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065967098182959124#m",
-      "timestamp": "2026-06-14T01:18:34+00:00",
-      "timestamp_display": "13/06/2026 19:18 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMex se registra cierre total de circulación por maniobras de arrastre tras #AccidenteVial cerca del km 083+000, de la carretera México-Querétaro con dirección a Cd. México. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 161, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": 83.0,
+      "km": 161,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065963152798269947#m",
-      "timestamp": "2026-06-14T01:02:54+00:00",
-      "timestamp_display": "13/06/2026 19:02 CST",
+      "url": "https://nitter.net/CAPUFE/status/2066174198171468264#m",
+      "timestamp": "2026-06-14T15:01:31+00:00",
+      "timestamp_display": "14/06/2026 09:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 57,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066171728884043849#m",
+      "timestamp": "2026-06-14T14:51:42+00:00",
+      "timestamp_display": "14/06/2026 08:51 CST",
       "segment": null
     },
     {
@@ -317,7 +343,7 @@
       "segment": null
     },
     {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nAnticipa tu trayecto y maneja con precaución.\nCada decisión al volante puede marcar la diferencia en tu trayecto. 🚗\n👉 Respeta las señales y disfruta el camino.\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️\nAnticipa tu trayecto y maneja con precaución.\nCada decisión al volante puede marcar la diferencia en tu trayecto. 🚗\n👉 Respeta las señales y disfruta el camino.\nSi requieres apoyo, comunícate al 074.  Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft\n#seguridadvial #conduceseguro",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -496,32 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066065525801668716#m",
       "timestamp": "2026-06-14T07:49:41+00:00",
       "timestamp_display": "14/06/2026 01:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Cuernavaca - Acapulco, km 120, dirección Cuernavaca. Reducción de carriles por atención de accidente (incendio de vagoneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 120,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066064460498735523#m",
-      "timestamp": "2026-06-14T07:45:27+00:00",
-      "timestamp_display": "14/06/2026 01:45 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 82, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 82,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066063124847886840#m",
-      "timestamp": "2026-06-14T07:40:09+00:00",
-      "timestamp_display": "14/06/2026 01:40 CST",
       "segment": null
     }
   ]
