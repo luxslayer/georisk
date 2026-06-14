@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-14T11:06:05.643589",
+  "last_update": "2026-06-14T11:55:12.267310",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 019+200, de la carretera Francisco Escárcega con ramales a Nuevo Coahuila con dirección a Villahermosa. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 19.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066115156019458326#m",
+      "timestamp": "2026-06-14T11:06:54+00:00",
+      "timestamp_display": "14/06/2026 05:06 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Guerrero tras #AccidenteVial cerca del km 317+000, de la carretera Acapulco-Chilpancingo con dirección a Julián Blanco, Gro. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 176+000, de la carretera Paso del Toro-Acayucan. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 8, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 176.0,
+      "km": 8,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2065955614979715362#m",
-      "timestamp": "2026-06-14T00:32:56+00:00",
-      "timestamp_display": "13/06/2026 18:32 CST",
+      "url": "https://nitter.net/CAPUFE/status/2066118856112759051#m",
+      "timestamp": "2026-06-14T11:21:36+00:00",
+      "timestamp_display": "14/06/2026 05:21 CST",
       "segment": null
     },
     {
@@ -509,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066008341160083707#m",
       "timestamp": "2026-06-14T04:02:27+00:00",
       "timestamp_display": "13/06/2026 22:02 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 196. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 196,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066007238049730911#m",
-      "timestamp": "2026-06-14T03:58:04+00:00",
-      "timestamp_display": "13/06/2026 21:58 CST",
       "segment": null
     }
   ]
