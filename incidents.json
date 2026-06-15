@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-15T08:28:33.310509",
+  "last_update": "2026-06-15T10:40:10.229362",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #Accidentevial, cerca del km 143+400, de la carretera Cuacnopalan - Huitzo con dirección . Atienda indicación vial.",
@@ -268,6 +268,61 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 90, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de camioneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 90,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066470450230640860#m",
+      "timestamp": "2026-06-15T10:38:43+00:00",
+      "timestamp_display": "15/06/2026 04:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 \nAutopista Tijuana - Ensenada, km 30, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066451811326730653#m",
+      "timestamp": "2026-06-15T09:24:39+00:00",
+      "timestamp_display": "15/06/2026 03:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Tijuana - Ensenada, km 30, dirección Tijuana. Continúa cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066441835707338913#m",
+      "timestamp": "2026-06-15T08:45:00+00:00",
+      "timestamp_display": "15/06/2026 02:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 90, dirección Córdoba. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.05661339493505,
+      "lng": -96.21702816325065,
+      "road": 150,
+      "km": 90,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066441304418976249#m",
+      "timestamp": "2026-06-15T08:42:54+00:00",
+      "timestamp_display": "15/06/2026 02:42 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 \nAut. Acatzingo - Cd. Mendoza, km 238, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -463,58 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066371545279172733#m",
       "timestamp": "2026-06-15T04:05:42+00:00",
       "timestamp_display": "14/06/2026 22:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 80, dirección Cuernavaca. Reducción de carriles en la gaza de salida a la ciudad de Cuernavaca (Glorieta La Paloma de la Paz), por atención de accidente (salida del camino de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066370670162845702#m",
-      "timestamp": "2026-06-15T04:02:13+00:00",
-      "timestamp_display": "14/06/2026 22:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 \n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066370290628632801#m",
-      "timestamp": "2026-06-15T04:00:43+00:00",
-      "timestamp_display": "14/06/2026 22:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Navojoa - Cd. Obregón, km 161, dirección Navojoa. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 161,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066365773912625288#m",
-      "timestamp": "2026-06-15T03:42:46+00:00",
-      "timestamp_display": "14/06/2026 21:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 43. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 43,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066359033238323267#m",
-      "timestamp": "2026-06-15T03:15:59+00:00",
-      "timestamp_display": "14/06/2026 21:15 CST",
       "segment": null
     }
   ]
