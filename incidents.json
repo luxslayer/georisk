@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-14T23:41:56.535565",
+  "last_update": "2026-06-15T00:12:05.644084",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #Accidentevial, cerca del km 127+900, de la carretera Acatlán de Juárez-Colima con dirección Guadalajara. Atienda indicación vial.",
@@ -262,6 +262,19 @@
       "segment": null
     },
     {
+      "title": "🚫⚽#RedCardOnHumanTrafficking\nGet informed, recognize the warning signs, and help prevent it.  \n📢 Report it!",
+      "type": "twitter",
+      "lat": 20.88,
+      "lng": -89.62,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066309714418507791#m",
+      "timestamp": "2026-06-15T00:00:00+00:00",
+      "timestamp_display": "14/06/2026 18:00 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Magdalena - Nogales, km 252, dirección Magdalena. Reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -518,19 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066219119645745240#m",
       "timestamp": "2026-06-14T18:00:01+00:00",
       "timestamp_display": "14/06/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066218064593514874#m",
-      "timestamp": "2026-06-14T17:55:49+00:00",
-      "timestamp_display": "14/06/2026 11:55 CST",
       "segment": null
     }
   ]
