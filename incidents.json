@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-06-15T19:58:10.539821",
+  "last_update": "2026-06-15T21:07:15.202518",
   "incidents": [
+    {
+      "title": "#ViaLibre en #BajaCalifornia tras presencia de personas cerca del km 098+600, de la carretera Puente Tijuana-San Miguel, en la Caseta de Cobro No. 36 \"San Miguel\". Maneje con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 98.6,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2066626244603478107#m",
+      "timestamp": "2026-06-15T20:57:47+00:00",
+      "timestamp_display": "15/06/2026 14:57 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Guerreo tras presencia de personas cerca del km 088+800, de la carretera Chilpancingo–Acapulco, en la Caseta de Cobro No. 103, Palo Blanco. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 88.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2066625037050708466#m",
+      "timestamp": "2026-06-15T20:52:59+00:00",
+      "timestamp_display": "15/06/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Guerrero tras presencia de personas cerca del km 364+900, de la carretera Chilpancingo–Acapulco, en la Caseta de Cobro  No. 104, La Venta, Mpio. de Acapulco. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 364.9,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2066623928903115125#m",
+      "timestamp": "2026-06-15T20:48:35+00:00",
+      "timestamp_display": "15/06/2026 14:48 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMx se registra cierre total de circulación en ambos sentidos por #Accidentevial cerca del km 059+300, de la carretera México–Puebla,  a la altura de la Loc. de Río Frio. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.330998576845865,
+      "lng": -98.69207111333593,
+      "road": 150,
+      "km": 41.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066622566916034881#m",
+      "timestamp": "2026-06-15T20:43:10+00:00",
+      "timestamp_display": "15/06/2026 14:43 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#ViaLibre en #Guerrero tras presencia de personas cerca del km 062+000, de la carretera Puente de Ixtla-Iguala, en la Caseta de Cobro No. 03, Iguala, Gro. Maneje con precaución.",
       "type": "twitter",
@@ -54,6 +109,242 @@
       "segment": null
     },
     {
+      "title": "🚧🚑 En autopistas de #CAPUFE, los servicios de apoyo son gratuitos.\nNo permitas abusos.\nSi alguien solicita dinero por brindarte asistencia, denuncia de inmediato.\n👉 800 990 2900 📩 quejas@capufe.gob.mx\n#EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066626802307776710#m",
+      "timestamp": "2026-06-15T21:00:00+00:00",
+      "timestamp_display": "15/06/2026 15:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 161, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 161,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066626361158951401#m",
+      "timestamp": "2026-06-15T20:58:15+00:00",
+      "timestamp_display": "15/06/2026 14:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 37, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.304815529828517,
+      "lng": -98.84104582903784,
+      "road": 150,
+      "km": 19,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066625897218654637#m",
+      "timestamp": "2026-06-15T20:56:24+00:00",
+      "timestamp_display": "15/06/2026 14:56 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nSe informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE, sin cierre a la circulación.\n\n🔘 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo, en ambos sentidos.\n🔘 Autopista Tijuana - Ensenada, Plaza de Cobro Playas de Tijuana, en ambos sentidos.\n\nCualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066623639718412660#m",
+      "timestamp": "2026-06-15T20:47:26+00:00",
+      "timestamp_display": "15/06/2026 14:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tijuana - Ensenada, Plazas de Cobro Ensenada. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066623015048052994#m",
+      "timestamp": "2026-06-15T20:44:57+00:00",
+      "timestamp_display": "15/06/2026 14:44 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nSe informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE, sin cierre a la circulación.\n\n🔘 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo, en ambos sentidos.\n🔘 Autopista Tijuana - Ensenada, Plazas de Cobro Playas de Tijuana y Ensenada, en ambos sentidos.\n\nCualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066619964769898608#m",
+      "timestamp": "2026-06-15T20:32:50+00:00",
+      "timestamp_display": "15/06/2026 14:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066619700067311811#m",
+      "timestamp": "2026-06-15T20:31:47+00:00",
+      "timestamp_display": "15/06/2026 14:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠   \n#AutMéxicoPuebla, km 37, dirección CDMX. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.304815529828517,
+      "lng": -98.84104582903784,
+      "road": 150,
+      "km": 19,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066619433695506819#m",
+      "timestamp": "2026-06-15T20:30:43+00:00",
+      "timestamp_display": "15/06/2026 14:30 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nCarretera Culiacán - Los Mochis, Pte. Culiacán. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066619207593164940#m",
+      "timestamp": "2026-06-15T20:29:49+00:00",
+      "timestamp_display": "15/06/2026 14:29 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nSe informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE.\n\n➡️ Sin cierre a la circulación:\n🔘 #AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, en ambos sentidos.\n🔘 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo, en ambos sentidos.\n🔘 Autopista Tijuana - Ensenada, Plazas de Cobro Playas de Tijuana y Ensenada, en ambos sentidos.\n\n➡️ Con reducción de carriles:\n🔘 Carretera Culiacán - Los Mochis, Pte. Culiacán, en ambos sentidos.\n\nCualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066618200402358728#m",
+      "timestamp": "2026-06-15T20:25:49+00:00",
+      "timestamp_display": "15/06/2026 14:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\n#AutMéxicoPuebla, Plaza de Cobro San Marcos. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066617942666510454#m",
+      "timestamp": "2026-06-15T20:24:48+00:00",
+      "timestamp_display": "15/06/2026 14:24 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, Continúa #lluvia a la altura de la Plaza de Cobro Tlalpan. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066616670966165724#m",
+      "timestamp": "2026-06-15T20:19:44+00:00",
+      "timestamp_display": "15/06/2026 14:19 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 46. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.29830009070919,
+      "lng": -98.77561290982601,
+      "road": 150,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066615921519603744#m",
+      "timestamp": "2026-06-15T20:16:46+00:00",
+      "timestamp_display": "15/06/2026 14:16 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠\n#AutMéxicoQuerétaro, km 161, dirección CDMX. Reducción de carriles por atención de incidente (caída de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 161,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066615625875701965#m",
+      "timestamp": "2026-06-15T20:15:35+00:00",
+      "timestamp_display": "15/06/2026 14:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 86, dirección Acapulco. Cierre a la circulación en carriles centrales por atención de accidente (choque por alcance). En la zona se da vialidad por los carriles laterales. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066613116037644574#m",
+      "timestamp": "2026-06-15T20:05:37+00:00",
+      "timestamp_display": "15/06/2026 14:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Pera - Cuautla, km 11, dirección La Pera. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 11,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066612340280217821#m",
+      "timestamp": "2026-06-15T20:02:32+00:00",
+      "timestamp_display": "15/06/2026 14:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 59, dirección CDMX. Continúa cierre a la circulación por atención de accidente (salida del camino y volcadura de tracto camión).\n\n➡ Dir. Puebla, se restablece la circulación con reducción de carriles.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.331674540802503,
+      "lng": -98.69475909769841,
+      "road": 150,
+      "km": 41,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066611828772180153#m",
+      "timestamp": "2026-06-15T20:00:30+00:00",
+      "timestamp_display": "15/06/2026 14:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección Querétaro, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -97,242 +388,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Pera - Cuautla, km 11, dirección La Pera. Reducción de carriles por atención de incidente. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 11,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066603216209416494#m",
-      "timestamp": "2026-06-15T19:26:17+00:00",
-      "timestamp_display": "15/06/2026 13:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nAutopista Tehuacán - Oaxaca, km 145. Continúa circulación intermitente en ambos sentidos. El personal se encuentra laborando en la atención del accidente (trasvase de carga).\n\nAtiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 145,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066601867681910991#m",
-      "timestamp": "2026-06-15T19:20:55+00:00",
-      "timestamp_display": "15/06/2026 13:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Puente de Ixtla - Iguala, Plaza de Cobro Iguala. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066599634781302943#m",
-      "timestamp": "2026-06-15T19:12:03+00:00",
-      "timestamp_display": "15/06/2026 13:12 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nSe informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE.\n\n➡️ Sin cierre a la circulación:\n🔘 #AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, en ambos sentidos.\n🔘 #AutMéxicoPuebla, Plaza de Cobro San Marcos, en ambos sentidos.\n🔘 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo, en ambos sentidos.\n🔘 Autopista Tijuana - Ensenada, Plazas de Cobro Playas de Tijuana y Ensenada, en ambos sentidos.\n\n➡️ Con reducción de carriles:\n🔘 Carretera Culiacán - Los Mochis, Pte. Culiacán, en ambos sentidos.\n\nCualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066599570058973672#m",
-      "timestamp": "2026-06-15T19:11:47+00:00",
-      "timestamp_display": "15/06/2026 13:11 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Cuernavaca - Acapulco, Plaza de Cobro La Venta. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066599494796407159#m",
-      "timestamp": "2026-06-15T19:11:29+00:00",
-      "timestamp_display": "15/06/2026 13:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066597180631068818#m",
-      "timestamp": "2026-06-15T19:02:18+00:00",
-      "timestamp_display": "15/06/2026 13:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \n#AutMéxicoCuernavaca, registra #lluvia a la altura de la Plaza de Cobro Tlalpan. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066595910532874712#m",
-      "timestamp": "2026-06-15T18:57:15+00:00",
-      "timestamp_display": "15/06/2026 12:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \n#AutMéxicoPuebla, km 37, dirección CDMX. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.304815529828517,
-      "lng": -98.84104582903784,
-      "road": 150,
-      "km": 19,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066594774585368851#m",
-      "timestamp": "2026-06-15T18:52:44+00:00",
-      "timestamp_display": "15/06/2026 12:52 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 289, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 289,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066590575206232117#m",
-      "timestamp": "2026-06-15T18:36:03+00:00",
-      "timestamp_display": "15/06/2026 12:36 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nSe informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE.\n\n➡️ Sin cierre a la circulación:\n🔘#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan, en ambos sentidos.\n🔘#AutMéxicoPuebla, Plaza de Cobro San Marcos, en ambos sentidos.\n🔘Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo, en ambos sentidos.\n🔘Autopista Tijuana - Ensenada, Plazas de Cobro Playas de Tijuana y Ensenada, en ambos sentidos.\n\n➡️ Con reducción de carriles:\n🔘Autopista Cuernavaca - Acapulco, Plazas de Cobro Palo Blanco y La Venta, en ambos sentidos.\n🔘Autopista Puente de Ixtla - Iguala, Plaza de Cobro Iguala, en ambos sentidos.\n\nCualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066586767919063246#m",
-      "timestamp": "2026-06-15T18:20:55+00:00",
-      "timestamp_display": "15/06/2026 12:20 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. \n#AutMéxicoPuebla, km 46. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles en ambos sentidos. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas y labores de limpieza.\n\nEn la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.29830009070919,
-      "lng": -98.77561290982601,
-      "road": 150,
-      "km": 28,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066586536901066784#m",
-      "timestamp": "2026-06-15T18:20:00+00:00",
-      "timestamp_display": "15/06/2026 12:20 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuernavaca - Acapulco, km 289, dirección Cuernavaca. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 289,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066585591399972905#m",
-      "timestamp": "2026-06-15T18:16:14+00:00",
-      "timestamp_display": "15/06/2026 12:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Puente de Ixtla - Iguala, Plaza de Cobro Iguala. Continúa reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066581507792314649#m",
-      "timestamp": "2026-06-15T18:00:01+00:00",
-      "timestamp_display": "15/06/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\n#AutMéxicoPuebla, Plaza de Cobro San Marcos. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066581507641430407#m",
-      "timestamp": "2026-06-15T18:00:01+00:00",
-      "timestamp_display": "15/06/2026 12:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco. Reducción de carriles en ambos sentidos por presencia de manifestantes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066581506978726153#m",
-      "timestamp": "2026-06-15T18:00:01+00:00",
-      "timestamp_display": "15/06/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Cuernavaca - Acapulco, Plaza de Cobro La Venta. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066581505204527448#m",
-      "timestamp": "2026-06-15T18:00:00+00:00",
-      "timestamp_display": "15/06/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\n#AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066581504361398553#m",
-      "timestamp": "2026-06-15T18:00:00+00:00",
-      "timestamp_display": "15/06/2026 12:00 CST",
-      "segment": null
     }
   ]
 }
