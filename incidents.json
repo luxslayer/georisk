@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-16T06:11:45.527443",
+  "last_update": "2026-06-16T08:20:32.584013",
   "incidents": [
     {
       "title": "#ViaLibre en #CDMX tras cierre total de circulación por presencia de personas cerca del km 032+400, de la carretera México (Ent. Constituyentes)–Toluca,  a la altura de la Loc. de Puerto las Cruces. Maneje con precaución.",
@@ -152,6 +152,51 @@
       "timestamp": "2026-06-15T21:52:40+00:00",
       "timestamp_display": "15/06/2026 15:52 CST",
       "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Nuevo Teapa - Cosoleacaque, km 12, dirección Cosoleacaque. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.010433873941935,
+      "lng": -94.40556529123313,
+      "road": 180,
+      "km": 12,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066795341010067505#m",
+      "timestamp": "2026-06-16T08:09:43+00:00",
+      "timestamp_display": "16/06/2026 02:09 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 60, dirección Cuernavaca. Reducción de carriles por atención de accidente (incendio de camioneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 60,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066790394847773177#m",
+      "timestamp": "2026-06-16T07:50:03+00:00",
+      "timestamp_display": "16/06/2026 01:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Córdoba - Veracruz, km 32, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.802478018836407,
+      "lng": -96.61926554224883,
+      "road": 150,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066782475724947811#m",
+      "timestamp": "2026-06-16T07:18:35+00:00",
+      "timestamp_display": "16/06/2026 01:18 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Noreste de Querétaro (Chichimequillas), km 16, dirección San Luis Potosí. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
@@ -385,32 +430,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 100. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 100,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066698738601451972#m",
-      "timestamp": "2026-06-16T01:45:51+00:00",
-      "timestamp_display": "15/06/2026 19:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066693942398025774#m",
-      "timestamp": "2026-06-16T01:26:47+00:00",
-      "timestamp_display": "15/06/2026 19:26 CST",
-      "segment": null
     }
   ]
 }
