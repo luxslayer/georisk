@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-15T23:40:27.867051",
+  "last_update": "2026-06-16T00:17:12.133522",
   "incidents": [
+    {
+      "title": "La carretera Mx-Puebla aún no se encuentra abierta en su totalidad, se mantiene cerrado en el km 059+300 por maniobras de limpieza tras #AccidenteVial. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 59.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066672029382688865#m",
+      "timestamp": "2026-06-15T23:59:43+00:00",
+      "timestamp_display": "15/06/2026 17:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #EdoMx tras cierre parcial de circulación por #Accidentevial cerca del km 046+800, de la carretera México–Puebla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.299597923378407,
+      "lng": -98.76860629616553,
+      "road": 150,
+      "km": 28.799999999999997,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2066667691012751793#m",
+      "timestamp": "2026-06-15T23:42:29+00:00",
+      "timestamp_display": "15/06/2026 17:42 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#ViaLibre en el #AeropuertodeOaxaca tras presencia de personas cerca del km 000+300, de la carretera Oaxaca- Puerto Ángel. Maneje con precaución.",
       "type": "twitter",
@@ -67,6 +96,116 @@
       "url": "https://nitter.net/GN_Carreteras/status/2066640057771982883#m",
       "timestamp": "2026-06-15T21:52:40+00:00",
       "timestamp_display": "15/06/2026 15:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 42, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066675706495467929#m",
+      "timestamp": "2026-06-16T00:14:20+00:00",
+      "timestamp_display": "15/06/2026 18:14 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Carbonera - Puerto México, km 204, dirección Puerto México. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 204,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066674578034770115#m",
+      "timestamp": "2026-06-16T00:09:51+00:00",
+      "timestamp_display": "15/06/2026 18:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066672607542247653#m",
+      "timestamp": "2026-06-16T00:02:01+00:00",
+      "timestamp_display": "15/06/2026 18:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista La Tinaja - Isla, km 48, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066672247016673409#m",
+      "timestamp": "2026-06-16T00:00:35+00:00",
+      "timestamp_display": "15/06/2026 18:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 32, dirección Córdoba. Reducción de carriles por atención de accidente (salida de neumático y volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.802478018836407,
+      "lng": -96.61926554224883,
+      "road": 150,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066671522572304483#m",
+      "timestamp": "2026-06-15T23:57:42+00:00",
+      "timestamp_display": "15/06/2026 17:57 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista La Carbonera - Puerto México, km 204, dirección Puerto México. Continúa cierre a la circulación por atención de incidente (maniobras para retiro de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 204,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066671027661246963#m",
+      "timestamp": "2026-06-15T23:55:44+00:00",
+      "timestamp_display": "15/06/2026 17:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Córdoba - Veracruz, registra #lluvia intensa a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2066669845207208247#m",
+      "timestamp": "2026-06-15T23:51:02+00:00",
+      "timestamp_display": "15/06/2026 17:51 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tehuacán - Oaxaca, km 145. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 145,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2066667923586900371#m",
+      "timestamp": "2026-06-15T23:43:24+00:00",
+      "timestamp_display": "15/06/2026 17:43 CST",
       "segment": null
     },
     {
@@ -214,113 +353,6 @@
       "timestamp": "2026-06-15T22:51:43+00:00",
       "timestamp_display": "15/06/2026 16:51 CST",
       "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066652822184038779#m",
-      "timestamp": "2026-06-15T22:43:24+00:00",
-      "timestamp_display": "15/06/2026 16:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 100. Circulación intermitente en ambos sentidos por atención de accidente (salida del camino y choque contra barreras metálicas). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 100,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066651686869848551#m",
-      "timestamp": "2026-06-15T22:38:53+00:00",
-      "timestamp_display": "15/06/2026 16:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista La Tinaja - Isla, km 48, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino y volcadura de camión de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066647562342338592#m",
-      "timestamp": "2026-06-15T22:22:29+00:00",
-      "timestamp_display": "15/06/2026 16:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Isla - Acayucan, km 160, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino y volcadura de camión de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 160,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066647292170428453#m",
-      "timestamp": "2026-06-15T22:21:25+00:00",
-      "timestamp_display": "15/06/2026 16:21 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066645767029227880#m",
-      "timestamp": "2026-06-15T22:15:21+00:00",
-      "timestamp_display": "15/06/2026 16:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️  CONDICIONES CLIMÁTICAS  🌧️🌩️  \nAutopista Cd. Mendoza - Córdoba, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066644963698360814#m",
-      "timestamp": "2026-06-15T22:12:10+00:00",
-      "timestamp_display": "15/06/2026 16:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tijuana - Ensenada, Plazas de Cobro Playas de Tijuana y Ensenada. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066644392132104619#m",
-      "timestamp": "2026-06-15T22:09:54+00:00",
-      "timestamp_display": "15/06/2026 16:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\n#AutMéxicoPuebla, km 59, dirección CDMX. Continúa cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada).\n\n➡ Dir. Puebla, se restablece la circulación con reducción de carriles. En la zona se registra reducción de carriles.\n\nToma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.331674540802503,
-      "lng": -98.69475909769841,
-      "road": 150,
-      "km": 41,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066641278964511100#m",
-      "timestamp": "2026-06-15T21:57:31+00:00",
-      "timestamp_display": "15/06/2026 15:57 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
