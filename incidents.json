@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-16T23:04:26.546017",
+  "last_update": "2026-06-16T23:47:19.950719",
   "incidents": [
     {
       "title": "#ViaLibre en #Zacatecas tras presencia de personas cerca del Km 103+000 de la carretera Aguascalientes- Zacatecas a la altura de la Unidad Regional de Seguridad Trancoso. Maneje con precaución.",
@@ -262,6 +262,71 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoQuerétaro, km 42, dirección Querétaro. Continúa carga vehicular a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2067028073866813682#m",
+      "timestamp": "2026-06-16T23:34:30+00:00",
+      "timestamp_display": "16/06/2026 17:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠  \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2067027967994106065#m",
+      "timestamp": "2026-06-16T23:34:05+00:00",
+      "timestamp_display": "16/06/2026 17:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Barranca Larga - Ventanilla, registra #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2067025427630006483#m",
+      "timestamp": "2026-06-16T23:24:00+00:00",
+      "timestamp_display": "16/06/2026 17:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Acatzingo - Cd. Mendoza, km 205, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (volcadura de pick up). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 205,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067024265480663077#m",
+      "timestamp": "2026-06-16T23:19:23+00:00",
+      "timestamp_display": "16/06/2026 17:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Isla - Acayucan, km 135, dirección Acayucan. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 135,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067021326137672024#m",
+      "timestamp": "2026-06-16T23:07:42+00:00",
+      "timestamp_display": "16/06/2026 17:07 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoCuernavaca, km 51, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -447,71 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2066987102542176287#m",
       "timestamp": "2026-06-16T20:51:42+00:00",
       "timestamp_display": "16/06/2026 14:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ \nAut. Tehuacán - Oaxaca, registra #lluvia a la altura de la Plaza de Cobro Suchixtlahuaca. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066981865911669236#m",
-      "timestamp": "2026-06-16T20:30:54+00:00",
-      "timestamp_display": "16/06/2026 14:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066981396246073661#m",
-      "timestamp": "2026-06-16T20:29:02+00:00",
-      "timestamp_display": "16/06/2026 14:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoQuerétaro, km 42, dirección Querétaro. Registra carga vehicular a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 42,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066970068345368803#m",
-      "timestamp": "2026-06-16T19:44:01+00:00",
-      "timestamp_display": "16/06/2026 13:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CARGA VEHICULAR  🟠\nAutopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento.\n\nEn la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2066968836725727725#m",
-      "timestamp": "2026-06-16T19:39:07+00:00",
-      "timestamp_display": "16/06/2026 13:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠  CARGA VEHICULAR  🟠\nAutopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2066968406247530573#m",
-      "timestamp": "2026-06-16T19:37:25+00:00",
-      "timestamp_display": "16/06/2026 13:37 CST",
       "segment": null
     }
   ]
