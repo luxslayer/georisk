@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-17T22:51:26.713399",
+  "last_update": "2026-06-17T23:36:07.746982",
   "incidents": [
     {
       "title": "#VíaLibre en el #AeropuertodeOaxaca tras presencia de personas cerca del km 000+300, de la carretera Oaxaca-Puerto Ángel. Maneje con precaución.",
@@ -280,6 +280,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 57,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067390843594436674#m",
+      "timestamp": "2026-06-17T23:36:02+00:00",
+      "timestamp_display": "17/06/2026 17:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista La Tinaja - Isla, km 0, dirección Isla. Continúa reducción de carriles en la gaza de incorporación a la autopista por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067390103782047824#m",
+      "timestamp": "2026-06-17T23:33:05+00:00",
+      "timestamp_display": "17/06/2026 17:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 \nLibramiento Villahermosa, km 7, dirección Cárdenas. Se restablece la circulación con reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 7,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067387646767190052#m",
+      "timestamp": "2026-06-17T23:23:19+00:00",
+      "timestamp_display": "17/06/2026 17:23 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Barranca Larga - Ventanilla, km 29. Circulación intermitente en ambos sentidos por atención de accidente (salida del camino y volcadura de camioneta). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -492,48 +531,6 @@
       "timestamp": "2026-06-17T20:52:10+00:00",
       "timestamp_display": "17/06/2026 14:52 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\nAutopista Querétaro - Irapuato, km 25, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067349259318333729#m",
-      "timestamp": "2026-06-17T20:50:47+00:00",
-      "timestamp_display": "17/06/2026 14:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tijuana - Ensenada, Plaza de Cobro Ensenada. Se retiran los manifestantes. Sin embargo, en el km 52 de la autopista, se registra cierre a la circulación en ambos sentidos por atención de accidente. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067346678982594568#m",
-      "timestamp": "2026-06-17T20:40:32+00:00",
-      "timestamp_display": "17/06/2026 14:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoPuebla, km 99, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.230902384039,
-      "lng": -98.37592142152968,
-      "road": 150,
-      "km": 81,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067345697196638638#m",
-      "timestamp": "2026-06-17T20:36:38+00:00",
-      "timestamp_display": "17/06/2026 14:36 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
