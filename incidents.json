@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-18T18:14:29.345765",
+  "last_update": "2026-06-18T19:09:23.065638",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Chiapas se registra presencia de personas cerca del Km 001+300 de la carretera Tuxtla Gutiérrez-San Cristóbal de las Casas a la altura de la caseta de cobro Chiapa de Corzo. Se orienta a la ciudadanía que la caseta labora libre de peaje.",
@@ -274,6 +274,48 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\n#AutMéxicoQuerétaro, km 55, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 55,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067684110873575492#m",
+      "timestamp": "2026-06-18T19:01:22+00:00",
+      "timestamp_display": "18/06/2026 13:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 55, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 55,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067677427078164660#m",
+      "timestamp": "2026-06-18T18:34:48+00:00",
+      "timestamp_display": "18/06/2026 12:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 43, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.785540139085967,
+      "lng": -96.51698625324337,
+      "road": 150,
+      "km": 43,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2067675779278717393#m",
+      "timestamp": "2026-06-18T18:28:15+00:00",
+      "timestamp_display": "18/06/2026 12:28 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 55, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -326,7 +368,7 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 182, dirección Navojoa. Reducción de carriles por atención de volcadura de vagoneta. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/tF8nY8TnreYiHosV8",
+      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 182, dirección Navojoa. Reducción de carriles por atención de volcadura de vagoneta. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/tF8nY8TnreYiHosV8",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -499,54 +541,6 @@
       "timestamp": "2026-06-18T15:26:36+00:00",
       "timestamp_display": "18/06/2026 09:26 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoPuebla, km 75, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.33604506530859,
-      "lng": -98.56978248197332,
-      "road": 150,
-      "km": 57,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067628159667683439#m",
-      "timestamp": "2026-06-18T15:19:02+00:00",
-      "timestamp_display": "18/06/2026 09:19 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoPuebla, km 91, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.273621526680866,
-      "lng": -98.43533949924917,
-      "road": 150,
-      "km": 73,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067627858537636099#m",
-      "timestamp": "2026-06-18T15:17:50+00:00",
-      "timestamp_display": "18/06/2026 09:17 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoPuebla, del km 82 al 83, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.3168036338057,
-      "lng": -98.50776871788372,
-      "road": 150,
-      "km": 64,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067627023330168902#m",
-      "timestamp": "2026-06-18T15:14:31+00:00",
-      "timestamp_display": "18/06/2026 09:14 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
