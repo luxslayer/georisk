@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-06-18T02:26:27.014663",
+  "last_update": "2026-06-18T03:49:42.369879",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del Km 015+322 de la autopista León-Aguascalientes con dirección Guadalajara. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.078372149285848,
+      "lng": -101.71521944451229,
+      "road": 45,
+      "km": 15.322,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2067453473784807691#m",
+      "timestamp": "2026-06-18T03:44:54+00:00",
+      "timestamp_display": "17/06/2026 21:44 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
+    {
+      "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 021+300, de la carretera Tuxtla Gutiérrez-San Cristóbal de las Casas, con dirección a San Cristóbal. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 21.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2067450965192536244#m",
+      "timestamp": "2026-06-18T03:34:56+00:00",
+      "timestamp_display": "17/06/2026 21:34 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del Km 050+200, de la carretera México-Querétaro (directo), con dirección a Cd. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 50.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2067441049509724672#m",
+      "timestamp": "2026-06-18T02:55:32+00:00",
+      "timestamp_display": "17/06/2026 20:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 255+500, de la carretera Pachuca-Tuxpan, con dirección a Tampico. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.54,
+      "lng": -98.07,
+      "road": 130,
+      "km": 255.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2067439720951435443#m",
+      "timestamp": "2026-06-18T02:50:15+00:00",
+      "timestamp_display": "17/06/2026 20:50 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Jalisco se registra cierre total de circulación por #AccidenteVial cerca del Km 079+8000, de la carretera Entronque Ameca-Mascota, con dirección a Mascota. Atienda indicación vial.",
       "type": "twitter",
@@ -216,61 +271,29 @@
       ]
     },
     {
-      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del Km 072+500 de la carretera México-Puebla, con dirección Puebla. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 50, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.34245149551006,
-      "lng": -98.58974117656867,
-      "road": 150,
-      "km": 54.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2067321398029099501#m",
-      "timestamp": "2026-06-17T19:00:04+00:00",
-      "timestamp_display": "17/06/2026 13:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "#Tomeprecauciones en #BC presencia de personas cerca del km 098+600, de la carretera Tijuana-Ensenada, a la altura de la Caseta de Cobro No. 36, San Miguel Ensenada. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 98.6,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2067315043125899475#m",
-      "timestamp": "2026-06-17T18:34:49+00:00",
-      "timestamp_display": "17/06/2026 12:34 CST",
+      "km": 50,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067447528988024840#m",
+      "timestamp": "2026-06-18T03:21:16+00:00",
+      "timestamp_display": "17/06/2026 21:21 CST",
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del Km 029+600 de la carretera Nuevo Teapa-Cosoleacaque, con dirección Acayucan. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMexicoCuernavaca, km 75, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.955720021185318,
-      "lng": -94.66923422483399,
-      "road": 145,
-      "km": 29.6,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 75,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2067309616803815777#m",
-      "timestamp": "2026-06-17T18:13:16+00:00",
-      "timestamp_display": "17/06/2026 12:13 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 373+800, de la carretera Maravatío-Zapotlanejo, con dirección Morelia. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.134999999999998,
-      "lng": -102.215,
-      "road": 15,
-      "km": 373.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2067294868137754796#m",
-      "timestamp": "2026-06-17T17:14:39+00:00",
-      "timestamp_display": "17/06/2026 11:14 CST",
+      "url": "https://nitter.net/CAPUFE/status/2067440886615511547#m",
+      "timestamp": "2026-06-18T02:54:53+00:00",
+      "timestamp_display": "17/06/2026 20:54 CST",
       "segment": null
     },
     {
@@ -495,35 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2067409227014979945#m",
       "timestamp": "2026-06-18T00:49:04+00:00",
       "timestamp_display": "17/06/2026 18:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Córdoba - Veracruz, km 49, dirección Veracruz. El accidente ha sido atendido. Sin embargo, continúa la reducción de carriles en el km 45 por labores de mantenimiento. Carga vehicular en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78125342547725,
-      "lng": -96.46048084845553,
-      "road": 150,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067405875598242023#m",
-      "timestamp": "2026-06-18T00:35:45+00:00",
-      "timestamp_display": "17/06/2026 18:35 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Barranca Larga - Ventanilla, km 29. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 29,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067402455894102227#m",
-      "timestamp": "2026-06-18T00:22:10+00:00",
-      "timestamp_display": "17/06/2026 18:22 CST",
       "segment": null
     }
   ]
