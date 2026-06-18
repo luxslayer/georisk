@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-06-18T17:13:07.932587",
+  "last_update": "2026-06-18T18:14:29.345765",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Chiapas se registra presencia de personas cerca del Km 001+300 de la carretera Tuxtla Gutiérrez-San Cristóbal de las Casas a la altura de la caseta de cobro Chiapa de Corzo. Se orienta a la ciudadanía que la caseta labora libre de peaje.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 1.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2067668441939460104#m",
+      "timestamp": "2026-06-18T17:59:06+00:00",
+      "timestamp_display": "18/06/2026 11:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Michoacan se registra cierre total de circulación tras #AccidenteVial cerca del Km 201+156 de la carretera Maravatio-Zapotlanejo, direccion Morelia, Mich. Atienda atención vial.",
+      "type": "twitter",
+      "lat": 20.175197131200395,
+      "lng": -102.2059369455296,
+      "road": 15,
+      "km": 201.156,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2067664537625546908#m",
+      "timestamp": "2026-06-18T17:43:35+00:00",
+      "timestamp_display": "18/06/2026 11:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Zacatecas se registra presencia de personas cerca del Km 098+600 de la carretera Aguascalientes-Zacatecas a la altura de la caseta de cobro Osiris. se orienta a la ciudadanía que la caseta labora libre de peaje. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.8841,
+      "lng": -102.2918,
+      "road": null,
+      "km": 98.6,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2067657473893314990#m",
+      "timestamp": "2026-06-18T17:15:31+00:00",
+      "timestamp_display": "18/06/2026 11:15 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Zacatecas se registra presencia de personas cerca del km 057+050, de la carretera Zacatecas - Durango, a la altura de la Caseta de Cobro Morfín Chávez. Atienda indicación vial.",
       "type": "twitter",
@@ -235,42 +274,68 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del Km 255+500, de la carretera Pachuca-Tuxpan, con dirección a Tampico. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 55, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.54,
-      "lng": -98.07,
-      "road": 130,
-      "km": 255.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2067473467788685548#m",
-      "timestamp": "2026-06-18T05:04:21+00:00",
-      "timestamp_display": "17/06/2026 23:04 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Veracruz tras #Vehiculoincendiado por falla mecánica cerca del Km 189+000 de la carretera Poza Rica-Veracruz con dirección Actopan, Ver. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 189.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2067472142900355431#m",
-      "timestamp": "2026-06-18T04:59:05+00:00",
-      "timestamp_display": "17/06/2026 22:59 CST",
+      "km": 55,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067671509078859901#m",
+      "timestamp": "2026-06-18T18:11:17+00:00",
+      "timestamp_display": "18/06/2026 12:11 CST",
       "segment": null
     },
     {
-      "title": "En #Jalisco continúa el cierre total de circulación por #AccidenteVial cerca del Km 079+8000, de la carretera Entronque Ameca-Mascota, con dirección a Mascota. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista La Carbonera - Puerto México, km 228, dirección La Carbonera. El accidente ha sido atendido, por lo que se restablece la circulación desde las Plazas de Cobro Los Chorros y Huachichil. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 228,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067665530505330973#m",
+      "timestamp": "2026-06-18T17:47:32+00:00",
+      "timestamp_display": "18/06/2026 11:47 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 141,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2067663992537952463#m",
+      "timestamp": "2026-06-18T17:41:25+00:00",
+      "timestamp_display": "18/06/2026 11:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cuauhtémoc – Osiris, Plaza de Cobro Zacatecas. Continúa reducción de carriles en ambos sentidos, por presencia de manifestantes. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 87.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2067463129961750690#m",
-      "timestamp": "2026-06-18T04:23:16+00:00",
-      "timestamp_display": "17/06/2026 22:23 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2067663220249072021#m",
+      "timestamp": "2026-06-18T17:38:21+00:00",
+      "timestamp_display": "18/06/2026 11:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Navojoa - Cd. Obregón, km 182, dirección Navojoa. Reducción de carriles por atención de volcadura de vagoneta. Maneja con precaución.\n\nConsulta la ubicación aquí:\nhttps://maps.app.goo.gl/tF8nY8TnreYiHosV8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 182,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2067660789402447967#m",
+      "timestamp": "2026-06-18T17:28:42+00:00",
+      "timestamp_display": "18/06/2026 11:28 CST",
       "segment": null
     },
     {
@@ -365,7 +430,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. \n\nSin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. \n\nSin embargo, en la zona se registra carga vehicular.\n\nManeja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 19.0414,
       "lng": -98.2063,
@@ -375,32 +440,6 @@
       "url": "https://nitter.net/CAPUFE/status/2067634848215208440#m",
       "timestamp": "2026-06-18T15:45:37+00:00",
       "timestamp_display": "18/06/2026 09:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camión y camión de carga). En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 141,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067602749479333947#m",
-      "timestamp": "2026-06-18T13:38:04+00:00",
-      "timestamp_display": "18/06/2026 07:38 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Puebla - Acatzingo, km 141, dirección Acatzingo. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles.\n\nEl personal continúa realizando las maniobras de grúa para el retiro de las unidades siniestradas.\n\nEn la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 141,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067625351736385695#m",
-      "timestamp": "2026-06-18T15:07:53+00:00",
-      "timestamp_display": "18/06/2026 09:07 CST",
       "segment": null
     },
     {
@@ -508,64 +547,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧             \nAutopista Córdoba - Veracruz, km 45, dirección Veracruz. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.785271569357235,
-      "lng": -96.49800250794725,
-      "road": 150,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067625926100124024#m",
-      "timestamp": "2026-06-18T15:10:10+00:00",
-      "timestamp_display": "18/06/2026 09:10 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧             \nAutopista Córdoba - Veracruz, del km 51 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.783135832439793,
-      "lng": -96.44173987735992,
-      "road": 150,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067625861700870410#m",
-      "timestamp": "2026-06-18T15:09:54+00:00",
-      "timestamp_display": "18/06/2026 09:09 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧\n#AutMéxicoCuernavaca, km 26, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 26,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2067624481791566129#m",
-      "timestamp": "2026-06-18T15:04:25+00:00",
-      "timestamp_display": "18/06/2026 09:04 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Entronque Cd. Cuauhtémoc – Osiris, Plaza de Cobro Zacatecas. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2067623366916223157#m",
-      "timestamp": "2026-06-18T14:59:59+00:00",
-      "timestamp_display": "18/06/2026 08:59 CST",
-      "segment": null
     }
   ]
 }
