@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-19T22:49:41.365377",
+  "last_update": "2026-06-19T23:26:27.706986",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Oaxaca tras presencia de personas cerca del Km 220+000, de la carretera Cuacnopalan-Oaxaca, en la Caseta de Cobro No. 79. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 220.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2068110386092535879#m",
+      "timestamp": "2026-06-19T23:15:14+00:00",
+      "timestamp_display": "19/06/2026 17:15 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Zacatecas tras presencia de personas cerca del Km 057+050, de la carretera Zacatecas-Durango, en la caseta de Cobro Morfin Chávez. Maneje con precaución.",
       "type": "twitter",
@@ -181,6 +194,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2068032450073174259#m",
       "timestamp": "2026-06-19T18:05:32+00:00",
       "timestamp_display": "19/06/2026 12:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 89, dirección Acapulco. Cierre a la circulación en carriles centrales por atención de accidente (choque contra muro central). Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 89,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068112425098821928#m",
+      "timestamp": "2026-06-19T23:23:20+00:00",
+      "timestamp_display": "19/06/2026 17:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Cuernavaca - Acapulco, km 97, dirección Cuernavaca. Cierre a la circulación por atención de incidente (autobús con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 97,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068111820611620951#m",
+      "timestamp": "2026-06-19T23:20:56+00:00",
+      "timestamp_display": "19/06/2026 17:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Cd. Mendoza - Córdoba, km 284, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 284,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068105119254671783#m",
+      "timestamp": "2026-06-19T22:54:18+00:00",
+      "timestamp_display": "19/06/2026 16:54 CST",
       "segment": null
     },
     {
@@ -389,48 +441,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068065635410579488#m",
       "timestamp": "2026-06-19T20:17:24+00:00",
       "timestamp_display": "19/06/2026 14:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068061579371753885#m",
-      "timestamp": "2026-06-19T20:01:17+00:00",
-      "timestamp_display": "19/06/2026 14:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 20, dirección Veracruz. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.83390991687994,
-      "lng": -96.72699438264952,
-      "road": 150,
-      "km": 20,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068061321300512822#m",
-      "timestamp": "2026-06-19T20:00:16+00:00",
-      "timestamp_display": "19/06/2026 14:00 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢\nAutopista Tehuacán - Oaxaca, km 178. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 178,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068059851347947925#m",
-      "timestamp": "2026-06-19T19:54:25+00:00",
-      "timestamp_display": "19/06/2026 13:54 CST",
       "segment": null
     }
   ]
