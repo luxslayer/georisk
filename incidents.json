@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-19T23:26:27.706986",
+  "last_update": "2026-06-19T23:53:41.595065",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Zacatecas tras presencia de personas cerca del Km 026+850, de la carretera Zacatecas-Durango, en la \"Caseta de Cobro Calera\". Maneje con precaución.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 26.85,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2068115584680661172#m",
+      "timestamp": "2026-06-19T23:35:53+00:00",
+      "timestamp_display": "19/06/2026 17:35 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Oaxaca tras presencia de personas cerca del Km 220+000, de la carretera Cuacnopalan-Oaxaca, en la Caseta de Cobro No. 79. Maneje con precaución.",
       "type": "twitter",
@@ -194,6 +207,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2068032450073174259#m",
       "timestamp": "2026-06-19T18:05:32+00:00",
       "timestamp_display": "19/06/2026 12:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Cuernavaca - Acapulco, km 97, dirección Cuernavaca. El incidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 97,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068117290877387203#m",
+      "timestamp": "2026-06-19T23:42:40+00:00",
+      "timestamp_display": "19/06/2026 17:42 CST",
       "segment": null
     },
     {
@@ -428,19 +454,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068067272778752352#m",
       "timestamp": "2026-06-19T20:23:55+00:00",
       "timestamp_display": "19/06/2026 14:23 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ \nAutopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068065635410579488#m",
-      "timestamp": "2026-06-19T20:17:24+00:00",
-      "timestamp_display": "19/06/2026 14:17 CST",
       "segment": null
     }
   ]
