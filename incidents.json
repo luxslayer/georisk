@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-19T20:55:36.407778",
+  "last_update": "2026-06-19T21:29:43.332389",
   "incidents": [
     {
       "title": "#ViaLibre en #Guerrero tras presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-Acapulco, en la Caseta de Cobro No. 103, Palo Blanco. Maneje con precaución.",
@@ -129,6 +129,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2068032450073174259#m",
       "timestamp": "2026-06-19T18:05:32+00:00",
       "timestamp_display": "19/06/2026 12:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️\nAutopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Ing. Francisco Velasco Durán. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068083639850602854#m",
+      "timestamp": "2026-06-19T21:28:57+00:00",
+      "timestamp_display": "19/06/2026 15:28 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Querétaro - Irapuato, km 62. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes.\n\nToma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 62,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068076012449955919#m",
+      "timestamp": "2026-06-19T20:58:39+00:00",
+      "timestamp_display": "19/06/2026 14:58 CST",
       "segment": null
     },
     {
@@ -369,32 +395,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068037875472490737#m",
       "timestamp": "2026-06-19T18:27:06+00:00",
       "timestamp_display": "19/06/2026 12:27 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068036906336563512#m",
-      "timestamp": "2026-06-19T18:23:15+00:00",
-      "timestamp_display": "19/06/2026 12:23 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️\nAutopista Entronque Cd. Cuauhtémoc – Osiris, Plaza de Cobro Zacatecas. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068035276820086862#m",
-      "timestamp": "2026-06-19T18:16:46+00:00",
-      "timestamp_display": "19/06/2026 12:16 CST",
       "segment": null
     }
   ]
