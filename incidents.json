@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-20T15:22:50.930770",
+  "last_update": "2026-06-20T16:00:45.689663",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 160+000, de la carretera Guadalajara-Tepic (directo), con dirección a la caseta de cobro Santa María del Oro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 160.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068355628532203783#m",
+      "timestamp": "2026-06-20T15:29:44+00:00",
+      "timestamp_display": "20/06/2026 09:29 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 103+500, de la carretera Zacatecas-Saltillo, a altura del Mpio. de San Felipe, con Dir. a San Antonio de la Rosa. Atienda indicación vial.",
       "type": "twitter",
@@ -249,19 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2068068938378772762#m",
       "timestamp": "2026-06-19T20:30:32+00:00",
       "timestamp_display": "19/06/2026 14:30 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Guerrero tras presencia de personas cerca del Km 062+000, de la carretera Puente de Ixtla-Iguala, en la Caseta de Cobro No. 03, Iguala. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 62.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2068063310273028304#m",
-      "timestamp": "2026-06-19T20:08:10+00:00",
-      "timestamp_display": "19/06/2026 14:08 CST",
       "segment": null
     },
     {
