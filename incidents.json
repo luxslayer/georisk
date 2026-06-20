@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-20T17:33:54.471371",
+  "last_update": "2026-06-20T18:10:02.917679",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 160+000, de la carretera Guadalajara-Tepic (directo) a altura del Mpio. de El Refugio, con Dir. a El Sauce. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Poniente Acapulco, km 10, dirección Bajos del Ejido. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068395815547109405#m",
+      "timestamp": "2026-06-20T18:09:26+00:00",
+      "timestamp_display": "20/06/2026 12:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🚑 Tu seguridad es lo más importante.\nEn nuestras autopistas cuentas con apoyo gratuito cuando lo necesites.\n📞 074 | @CAPUFE\n#EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068393444024766598#m",
+      "timestamp": "2026-06-20T18:00:00+00:00",
+      "timestamp_display": "20/06/2026 12:00 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Córdoba - Veracruz, km 44, dirección Veracruz. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.785528292615844,
@@ -505,32 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068299507960307919#m",
       "timestamp": "2026-06-20T11:46:44+00:00",
       "timestamp_display": "20/06/2026 05:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴  CIERRE DE CIRCULACIÓN  🔴\nAutopista Querétaro - Irapuato, km 62, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068293587222028354#m",
-      "timestamp": "2026-06-20T11:23:12+00:00",
-      "timestamp_display": "20/06/2026 05:23 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️  \nAutopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068289997334082000#m",
-      "timestamp": "2026-06-20T11:08:56+00:00",
-      "timestamp_display": "20/06/2026 05:08 CST",
       "segment": null
     }
   ]
