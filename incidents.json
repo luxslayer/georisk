@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-20T11:17:31.495715",
+  "last_update": "2026-06-20T12:09:20.911669",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 030+300, de la carretera  Nuevo Teapa-Cosoleacaque, a altura de la Loc. Ixhuatlán del Sureste, con Dir. a Coatzacoalcos. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 107. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 107,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068299507960307919#m",
+      "timestamp": "2026-06-20T11:46:44+00:00",
+      "timestamp_display": "20/06/2026 05:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴  CIERRE DE CIRCULACIÓN  🔴\nAutopista Querétaro - Irapuato, km 62, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 62,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068293587222028354#m",
+      "timestamp": "2026-06-20T11:23:12+00:00",
+      "timestamp_display": "20/06/2026 05:23 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️  \nAutopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -492,32 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068241310276891016#m",
       "timestamp": "2026-06-20T07:55:29+00:00",
       "timestamp_display": "20/06/2026 01:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🌩️🌧️ CONDICIONES CLIMÁTICAS 🌧️🌩️  \nAutopista Zacapalco - Rancho Viejo, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068241102545522994#m",
-      "timestamp": "2026-06-20T07:54:39+00:00",
-      "timestamp_display": "20/06/2026 01:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​   \nAutopista Puente de Ixtla - Iguala, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068240682242777266#m",
-      "timestamp": "2026-06-20T07:52:59+00:00",
-      "timestamp_display": "20/06/2026 01:52 CST",
       "segment": null
     }
   ]
