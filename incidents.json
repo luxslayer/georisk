@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-20T09:14:52.741329",
+  "last_update": "2026-06-20T10:17:06.314272",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 030+300, de la carretera  Nuevo Teapa-Cosoleacaque, a altura de la Loc. Ixhuatlán del Sureste, con Dir. a Coatzacoalcos. Atienda indicación vial.",
@@ -265,7 +265,104 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 27. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos. El personal se encuentra realizando las labores de atención del accidente.\n\nSe recomienda a la ciudadanía tomar la siguiente vía alterna:\n➡ Dirección Tehuacán, desvío hacia carretera libre a la altura de la Plaza de Cobro Tehuacán.\n\nLa carretera libre no es operada por CAPUFE. Para más información de las rutas alternas, por favor llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Querétaro - Irapuato, km 63, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068275192682393853#m",
+      "timestamp": "2026-06-20T10:10:07+00:00",
+      "timestamp_display": "20/06/2026 04:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 30, dirección Nuevo Teapa. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.01596139798018,
+      "lng": -94.57229084553778,
+      "road": 180,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068270977453093300#m",
+      "timestamp": "2026-06-20T09:53:22+00:00",
+      "timestamp_display": "20/06/2026 03:53 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 59, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 59,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068267316672966670#m",
+      "timestamp": "2026-06-20T09:38:49+00:00",
+      "timestamp_display": "20/06/2026 03:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 30, dirección Nuevo Teapa. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.01596139798018,
+      "lng": -94.57229084553778,
+      "road": 180,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068266966280749188#m",
+      "timestamp": "2026-06-20T09:37:25+00:00",
+      "timestamp_display": "20/06/2026 03:37 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 27. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos.\n\nSin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE, realizan operativo de vialidad.\n\nAtiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 27,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068266533613195379#m",
+      "timestamp": "2026-06-20T09:35:42+00:00",
+      "timestamp_display": "20/06/2026 03:35 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️  AVISO IMPORTANTE  ⚠️\nAutopista Cuernavaca - Acapulco, km 107. Reducción de carriles en ambos sentidos por atención de incidente (desbordamiento de canal). Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 107,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068266167660089368#m",
+      "timestamp": "2026-06-20T09:34:15+00:00",
+      "timestamp_display": "20/06/2026 03:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Zacapalco - Rancho Viejo, km 14. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 14,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068262061092536760#m",
+      "timestamp": "2026-06-20T09:17:56+00:00",
+      "timestamp_display": "20/06/2026 03:17 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN.\nAutopista Tehuacán - Oaxaca, km 27. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos. El personal se encuentra realizando las labores de atención del accidente.\n\nSe recomienda a la ciudadanía tomar la siguiente vía alterna:\n➡ Dirección Tehuacán, desvío hacia carretera libre a la altura de la Plaza de Cobro Tehuacán.\n\nLa carretera libre no es operada por CAPUFE. Para más información de las rutas alternas, por favor llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
@@ -425,103 +522,6 @@
       "timestamp": "2026-06-20T07:37:30+00:00",
       "timestamp_display": "20/06/2026 01:37 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAut. Nuevo Teapa - Cosoleacaque, km 21, dirección Nuevo Teapa. El accidente ha sido atendido en la zona. Sin embargo, continúa la circulación intermitente por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.01470851885426,
-      "lng": -94.4895698065253,
-      "road": 180,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068235763615953126#m",
-      "timestamp": "2026-06-20T07:33:26+00:00",
-      "timestamp_display": "20/06/2026 01:33 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tehuacán - Oaxaca, km 221. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 221,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068234779728732578#m",
-      "timestamp": "2026-06-20T07:29:32+00:00",
-      "timestamp_display": "20/06/2026 01:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴  CIERRE DE CIRCULACIÓN  🔴\n#AutMéxicoQuerétaro, km 59, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 59,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068233283926647120#m",
-      "timestamp": "2026-06-20T07:23:35+00:00",
-      "timestamp_display": "20/06/2026 01:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴  CIERRE DE CIRCULACIÓN  🔴\nAutopista Querétaro - Irapuato, km 63, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068216121476481422#m",
-      "timestamp": "2026-06-20T06:15:23+00:00",
-      "timestamp_display": "20/06/2026 00:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoQuerétaro, km 59, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino de tracto camión).\n\nEn la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 59,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068210550425657507#m",
-      "timestamp": "2026-06-20T05:53:15+00:00",
-      "timestamp_display": "19/06/2026 23:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​    \nLibramiento Cuernavaca, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068200598206312546#m",
-      "timestamp": "2026-06-20T05:13:42+00:00",
-      "timestamp_display": "19/06/2026 23:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAut. Nuevo Teapa - Cosoleacaque, km 21, dirección Nuevo Teapa. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.01470851885426,
-      "lng": -94.4895698065253,
-      "road": 180,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068196821097222598#m",
-      "timestamp": "2026-06-20T04:58:42+00:00",
-      "timestamp_display": "19/06/2026 22:58 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
