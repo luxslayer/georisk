@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-20T20:44:26.226351",
+  "last_update": "2026-06-20T21:16:25.883928",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 101+100, de la carretera Córdoba-Ent. Boticaria, a la altura del poblado Juan de Alfaro, con Dir. a Córdoba. Atienda indicación vial.",
@@ -268,6 +268,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Acatzingo - Cd. Mendoza, km 207, dirección Cd Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 207,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068438430510379060#m",
+      "timestamp": "2026-06-20T20:58:46+00:00",
+      "timestamp_display": "20/06/2026 14:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\n#AutMéxicoCuernavaca, km 21, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068437390385918440#m",
+      "timestamp": "2026-06-20T20:54:38+00:00",
+      "timestamp_display": "20/06/2026 14:54 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nLibramiento Cuernavaca, km 88, dirección CDMX. Cierre a la circulación en carriles centrales por atención de accidente (choque por alcance). Circulación por carriles laterales. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -511,32 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068369954320105582#m",
       "timestamp": "2026-06-20T16:26:40+00:00",
       "timestamp_display": "20/06/2026 10:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠\nAutopista Acatzingo - Cd. Mendoza, km 207, dirección Cd Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 207,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068366081312329793#m",
-      "timestamp": "2026-06-20T16:11:16+00:00",
-      "timestamp_display": "20/06/2026 10:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 \nAutopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068334424194683296#m",
-      "timestamp": "2026-06-20T14:05:29+00:00",
-      "timestamp_display": "20/06/2026 08:05 CST",
       "segment": null
     }
   ]
