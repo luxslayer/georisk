@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-20T14:31:33.438194",
+  "last_update": "2026-06-20T15:22:50.930770",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Zacatecas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 103+500, de la carretera Zacatecas-Saltillo, a altura del Mpio. de San Felipe, con Dir. a San Antonio de la Rosa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 103.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068352111432097826#m",
+      "timestamp": "2026-06-20T15:15:46+00:00",
+      "timestamp_display": "20/06/2026 09:15 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 089+600, de la carretera Ent. La Tinaja-Cosoleacaque, a altura del Mpio. de Cosamaloapan, con Dir. a Cosoleacaque. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 89.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068348844480311661#m",
+      "timestamp": "2026-06-20T15:02:47+00:00",
+      "timestamp_display": "20/06/2026 09:02 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 030+300, de la carretera  Nuevo Teapa-Cosoleacaque, a altura de la Loc. Ixhuatlán del Sureste, con Dir. a Coatzacoalcos. Atienda indicación vial.",
       "type": "twitter",
@@ -236,32 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2068063310273028304#m",
       "timestamp": "2026-06-19T20:08:10+00:00",
       "timestamp_display": "19/06/2026 14:08 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Guerrero se registra presencia de personas cerca del Km 088+800, de la carretera Chilpancingo-Acapulco, en la Caseta de Cobro No. 103, Palo Blanco, sin afectación a la circulación, solicitan una cooperación. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 88.8,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2068055393612259335#m",
-      "timestamp": "2026-06-19T19:36:43+00:00",
-      "timestamp_display": "19/06/2026 13:36 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Sonora tras presencia de personas cerca del Km 195+300, de la carretera Los Mochis-Cd. Obregón, en la Caseta de Cobro No. 149, Fundición. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 195.3,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2068047355195040133#m",
-      "timestamp": "2026-06-19T19:04:46+00:00",
-      "timestamp_display": "19/06/2026 13:04 CST",
       "segment": null
     },
     {
