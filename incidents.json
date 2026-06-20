@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-20T22:55:38.966515",
+  "last_update": "2026-06-20T23:31:23.826009",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 093+300 de la carretera Ocozocoautla-Arriaga, a la altura del Mpio. de Ocozocoautla de Espinosa, con Dir. a Cintalapa. Atienda indicación vial.",
@@ -274,6 +274,74 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Tijuana - Ensenada, km 79, dirección Ensenada. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 79,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068474392674275584#m",
+      "timestamp": "2026-06-20T23:21:40+00:00",
+      "timestamp_display": "20/06/2026 17:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 \nAutopista Nuevo Teapa - Cosoleacaque, km 17. Cierre a la circulación en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068470398052663636#m",
+      "timestamp": "2026-06-20T23:05:47+00:00",
+      "timestamp_display": "20/06/2026 17:05 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠\nAutopista Tijuana - Ensenada, km 79, dirección Ensenada. Continúa reducción de carriles por atención de incidente (incendio de pastizal). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 79,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068469358737690835#m",
+      "timestamp": "2026-06-20T23:01:40+00:00",
+      "timestamp_display": "20/06/2026 17:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠  \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068468174849249663#m",
+      "timestamp": "2026-06-20T22:56:57+00:00",
+      "timestamp_display": "20/06/2026 16:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\n#AutMéxicoQuerétaro, km 52, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068468119182442821#m",
+      "timestamp": "2026-06-20T22:56:44+00:00",
+      "timestamp_display": "20/06/2026 16:56 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠\nAutopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 19.0414,
@@ -460,74 +528,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴\nAutopista Acatzingo - Cd. Mendoza, km 207, dirección Cd Mendoza. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 207,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068423315635470786#m",
-      "timestamp": "2026-06-20T19:58:42+00:00",
-      "timestamp_display": "20/06/2026 13:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠  \nAutopista Nuevo Teapa - Cosoleacaque, km 17. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. \n\nEn la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068419133960569006#m",
-      "timestamp": "2026-06-20T19:42:05+00:00",
-      "timestamp_display": "20/06/2026 13:42 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 \nAutopista Acatzingo - Cd. Mendoza, km 207, dirección Cd Mendoza. Continúa reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 207,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068413704438223087#m",
-      "timestamp": "2026-06-20T19:20:31+00:00",
-      "timestamp_display": "20/06/2026 13:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢\nAutopista Cuernavaca - Acapulco, km 170, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 170,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068411928150507822#m",
-      "timestamp": "2026-06-20T19:13:27+00:00",
-      "timestamp_display": "20/06/2026 13:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 \n#AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068410118971031689#m",
-      "timestamp": "2026-06-20T19:06:16+00:00",
-      "timestamp_display": "20/06/2026 13:06 CST",
-      "segment": null
     }
   ]
 }
