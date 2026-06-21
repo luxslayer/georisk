@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-21T10:42:00.661183",
+  "last_update": "2026-06-21T11:42:54.946604",
   "incidents": [
     {
       "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 148+000, de la carretera Puebla-Córdova, a la altura del poblado de San Jerónimo Ocotitlán, con Dir. a Córdova. Maneje con precaución.",
@@ -265,6 +265,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 15, dirección Lechería. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 15,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068659866336432483#m",
+      "timestamp": "2026-06-21T11:38:40+00:00",
+      "timestamp_display": "21/06/2026 05:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Ing. Francisco Velasco Durán. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068658573756801517#m",
+      "timestamp": "2026-06-21T11:33:32+00:00",
+      "timestamp_display": "21/06/2026 05:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular intensa. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068657284599656936#m",
+      "timestamp": "2026-06-21T11:28:25+00:00",
+      "timestamp_display": "21/06/2026 05:28 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Continúa cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.7603,
@@ -482,32 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068558718413820324#m",
       "timestamp": "2026-06-21T04:56:45+00:00",
       "timestamp_display": "20/06/2026 22:56 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 154, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 154,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068556675657650681#m",
-      "timestamp": "2026-06-21T04:48:38+00:00",
-      "timestamp_display": "20/06/2026 22:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 117, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 117,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068555302018994632#m",
-      "timestamp": "2026-06-21T04:43:10+00:00",
-      "timestamp_display": "20/06/2026 22:43 CST",
       "segment": null
     }
   ]
