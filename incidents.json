@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-21T19:34:17.809871",
+  "last_update": "2026-06-21T20:16:19.409826",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 294+800, de la carretera Uruapan-Lázaro Cárdenas, a la altura del poblado Surcua, con Dir. a Lázaro Cárdenas. Atienda indicación vial.",
@@ -265,6 +265,84 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068789060441641346#m",
+      "timestamp": "2026-06-21T20:12:02+00:00",
+      "timestamp_display": "21/06/2026 14:12 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 208, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 208,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068787932207448491#m",
+      "timestamp": "2026-06-21T20:07:33+00:00",
+      "timestamp_display": "21/06/2026 14:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 8, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 8,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068787691525664791#m",
+      "timestamp": "2026-06-21T20:06:36+00:00",
+      "timestamp_display": "21/06/2026 14:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068786110415663290#m",
+      "timestamp": "2026-06-21T20:00:19+00:00",
+      "timestamp_display": "21/06/2026 14:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 208, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 208,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068782846018224367#m",
+      "timestamp": "2026-06-21T19:47:21+00:00",
+      "timestamp_display": "21/06/2026 13:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068782185025343812#m",
+      "timestamp": "2026-06-21T19:44:43+00:00",
+      "timestamp_display": "21/06/2026 13:44 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 148, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
@@ -431,87 +509,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068728013588402216#m",
       "timestamp": "2026-06-21T16:09:28+00:00",
       "timestamp_display": "21/06/2026 10:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068726929188921366#m",
-      "timestamp": "2026-06-21T16:05:09+00:00",
-      "timestamp_display": "21/06/2026 10:05 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 179, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 179,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068723636047880209#m",
-      "timestamp": "2026-06-21T15:52:04+00:00",
-      "timestamp_display": "21/06/2026 09:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 74,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068722250304401522#m",
-      "timestamp": "2026-06-21T15:46:34+00:00",
-      "timestamp_display": "21/06/2026 09:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068719075602104655#m",
-      "timestamp": "2026-06-21T15:33:57+00:00",
-      "timestamp_display": "21/06/2026 09:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (trasvase de carga). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 232,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068717885027979491#m",
-      "timestamp": "2026-06-21T15:29:13+00:00",
-      "timestamp_display": "21/06/2026 09:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central y volcadura). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 74,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068704687302303788#m",
-      "timestamp": "2026-06-21T14:36:46+00:00",
-      "timestamp_display": "21/06/2026 08:36 CST",
       "segment": null
     }
   ]
