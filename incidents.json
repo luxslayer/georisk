@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-21T12:26:31.015703",
+  "last_update": "2026-06-21T13:15:53.832127",
   "incidents": [
+    {
+      "title": "Continúa en #Veracruz cierre parcial de circulación por #AccidenteVial cerca del km 069+900 de la carretera Tuxpan-Tampico, a la altura del localidad de Naranjos, con Dir. a Tuxpan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 69.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068682546590749126#m",
+      "timestamp": "2026-06-21T13:08:48+00:00",
+      "timestamp_display": "21/06/2026 07:08 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 148+000, de la carretera Puebla-Córdova, a la altura del poblado de San Jerónimo Ocotitlán, con Dir. a Córdova. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +265,42 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del Km 007+500, de la carretera Poza Rica-Veracruz, a la altura del Mpio. de Palo Hueco, con Dir. a Tecolutla. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 7.5,
+      "km": 74,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068481863874666970#m",
-      "timestamp": "2026-06-20T23:51:21+00:00",
-      "timestamp_display": "20/06/2026 17:51 CST",
+      "url": "https://nitter.net/CAPUFE/status/2068681928576848092#m",
+      "timestamp": "2026-06-21T13:06:20+00:00",
+      "timestamp_display": "21/06/2026 07:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 74,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068678462684971234#m",
+      "timestamp": "2026-06-21T12:52:34+00:00",
+      "timestamp_display": "21/06/2026 06:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068672880192180573#m",
+      "timestamp": "2026-06-21T12:30:23+00:00",
+      "timestamp_display": "21/06/2026 06:30 CST",
       "segment": null
     },
     {
@@ -489,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068591843957243909#m",
       "timestamp": "2026-06-21T07:08:22+00:00",
       "timestamp_display": "21/06/2026 01:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Las Choapas - Ocozocoautla, km 197, dirección Ocozocoautla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 197,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068585697104019881#m",
-      "timestamp": "2026-06-21T06:43:57+00:00",
-      "timestamp_display": "21/06/2026 00:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Ocozocoautla, km 197, dirección Ocozocoautla. Continúa cierre a la circulación por atención de accidente (trasvase de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 197,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068581932787511690#m",
-      "timestamp": "2026-06-21T06:28:59+00:00",
-      "timestamp_display": "21/06/2026 00:28 CST",
       "segment": null
     }
   ]
