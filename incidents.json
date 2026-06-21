@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-21T23:10:56.959528",
+  "last_update": "2026-06-21T23:46:28.106019",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 091+000, de la carretera Amozoc-Teziutlán, a la altura del Mpio. de Libres, con Dir. a Amozoc. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 91.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068838073744380194#m",
+      "timestamp": "2026-06-21T23:26:48+00:00",
+      "timestamp_display": "21/06/2026 17:26 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 002+500, de la carretera Libramiento Veracruz, a la altura del Mpio. Juan de Alfaro, con Dir. a Minatitlán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.9969,
+      "lng": -94.561,
+      "road": null,
+      "km": 2.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068836378641645654#m",
+      "timestamp": "2026-06-21T23:20:04+00:00",
+      "timestamp_display": "21/06/2026 17:20 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 087+000, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan, con Dir. a Ent. La Tinaja. Maneje con precaución.",
       "type": "twitter",
@@ -242,29 +268,29 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del km 270+000, de la carretera Pinotepa Nacional-Salina Cruz, a la altura del poblado de Escobilla, con Dir. a Puerto Ángel. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 8, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 270.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068568272207851900#m",
-      "timestamp": "2026-06-21T05:34:42+00:00",
-      "timestamp_display": "20/06/2026 23:34 CST",
+      "km": 8,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068839014317146308#m",
+      "timestamp": "2026-06-21T23:30:32+00:00",
+      "timestamp_display": "21/06/2026 17:30 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 110+300, de la carretera Las Cruces-Pinotepa Nacional, a la altura del poblado El Carrizo, con Dir. a Cruz Grande. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 77, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 110.3,
+      "km": 77,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068564295613374735#m",
-      "timestamp": "2026-06-21T05:18:54+00:00",
-      "timestamp_display": "20/06/2026 23:18 CST",
+      "url": "https://nitter.net/CAPUFE/status/2068838753536295158#m",
+      "timestamp": "2026-06-21T23:29:30+00:00",
+      "timestamp_display": "21/06/2026 17:29 CST",
       "segment": null
     },
     {
@@ -502,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068782846018224367#m",
       "timestamp": "2026-06-21T19:47:21+00:00",
       "timestamp_display": "21/06/2026 13:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068782185025343812#m",
-      "timestamp": "2026-06-21T19:44:43+00:00",
-      "timestamp_display": "21/06/2026 13:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 148, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 148,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068772303299596745#m",
-      "timestamp": "2026-06-21T19:05:27+00:00",
-      "timestamp_display": "21/06/2026 13:05 CST",
       "segment": null
     }
   ]
