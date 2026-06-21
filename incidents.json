@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-06-21T18:02:49.553266",
+  "last_update": "2026-06-21T18:48:02.642169",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 132+000, de la carretera Puebla-Córdoba, a la altura del Mpio. de Xonacatepec, con Dir. a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.070427635182476,
+      "lng": -98.13047460740873,
+      "road": 150,
+      "km": 23.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068767512880124341#m",
+      "timestamp": "2026-06-21T18:46:25+00:00",
+      "timestamp_display": "21/06/2026 12:46 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#Tomeprecauciones en #Oaxaca continua cierre parcial de circulación por #Afectaciónclimatologica (socavón) cerca del Km 066+200 de la carretera Oaxaca-Tehuantepec, con dirección Tehuantepec. Se recomienda a la ciudadanía disminuir la velocidad y atender indicaciones viales.",
       "type": "twitter",
@@ -249,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Tabasco se registra presencia de personas cerca del km 017+000, de la carretera Villahermosa-Ciudad del Carmen, a la altura del Mpio. de Villahermosa, con afectación parcial a la circulación, con Dir. a Villahermosa. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Circulación ointermitente por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 17.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2068529304325984411#m",
-      "timestamp": "2026-06-21T02:59:52+00:00",
-      "timestamp_display": "20/06/2026 20:59 CST",
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068766355520713150#m",
+      "timestamp": "2026-06-21T18:41:49+00:00",
+      "timestamp_display": "21/06/2026 12:41 CST",
       "segment": null
     },
     {
@@ -496,19 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068690095071260683#m",
       "timestamp": "2026-06-21T13:38:47+00:00",
       "timestamp_display": "21/06/2026 07:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 74, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 74,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068688360449642721#m",
-      "timestamp": "2026-06-21T13:31:54+00:00",
-      "timestamp_display": "21/06/2026 07:31 CST",
       "segment": null
     }
   ]
