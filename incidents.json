@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-21T07:53:34.009741",
+  "last_update": "2026-06-21T09:20:30.695322",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 069+900 de la carretera Tuxpan-Tampico, a la altura del localidad de Naranjos, con Dir. a Tuxpan. Atienda indicación vial.",
@@ -268,6 +268,61 @@
       ]
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Cuernavaca - Acapulco, continúa #lluvia a la altura de la Plaza de Cobro Alpuyeca y Paso Morelos. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068619198377402420#m",
+      "timestamp": "2026-06-21T08:57:04+00:00",
+      "timestamp_display": "21/06/2026 02:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 232, dirección La Carbonera. Cierre a la circulación por atención de accidente (volcadura de tracto camión). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068615574251343956#m",
+      "timestamp": "2026-06-21T08:42:40+00:00",
+      "timestamp_display": "21/06/2026 02:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 80, dirección Veracruz. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.982238307917118,
+      "lng": -96.27044692068596,
+      "road": 150,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068607921609486732#m",
+      "timestamp": "2026-06-21T08:12:16+00:00",
+      "timestamp_display": "21/06/2026 02:12 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2068604079501115421#m",
+      "timestamp": "2026-06-21T07:57:00+00:00",
+      "timestamp_display": "21/06/2026 01:57 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 87, dirección La Tinaja. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.7603,
@@ -391,19 +446,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 154, dirección Querétaro. Reducción de carriles por atención de choque de costado entre tracto camión tipo pipa que transporta combustible y autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/zFCBeLXV51tChVW36",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 154,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068540365963923495#m",
-      "timestamp": "2026-06-21T03:43:49+00:00",
-      "timestamp_display": "20/06/2026 21:43 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 154, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
@@ -466,45 +508,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068541428246970429#m",
       "timestamp": "2026-06-21T03:48:02+00:00",
       "timestamp_display": "20/06/2026 21:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Las Choapas - Ocozocoautla, km 197, dirección Ocozocoautla. Continúa cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 197,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068539478893830459#m",
-      "timestamp": "2026-06-21T03:40:18+00:00",
-      "timestamp_display": "20/06/2026 21:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 117, dirección La Tinaja. Reducción de carriles por atención de incidente (pick up con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 117,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068534058628370580#m",
-      "timestamp": "2026-06-21T03:18:45+00:00",
-      "timestamp_display": "20/06/2026 21:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068524572354195688#m",
-      "timestamp": "2026-06-21T02:41:04+00:00",
-      "timestamp_display": "20/06/2026 20:41 CST",
       "segment": null
     }
   ]
