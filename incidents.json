@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-21T20:56:27.862617",
+  "last_update": "2026-06-21T21:35:57.090910",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 079+200, de la carretera Pátzcuaro-Uruapan, a la altura del Mpio. Jujúcato, con Dir. a Tarascon. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 79.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2068800275146510529#m",
+      "timestamp": "2026-06-21T20:56:36+00:00",
+      "timestamp_display": "21/06/2026 14:56 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 294+800, de la carretera Uruapan-Lázaro Cárdenas, a la altura del poblado Surcua, con Dir. a Lázaro Cárdenas. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,29 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Tabasco tras presencia de personas cerca del km 017+000, de la carretera Villahermosa-Ciudad del Carmen, a la altura del Mpio. de Villahermosa, con Dir. a Villahermosa. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Palmillas, dirección Querétaro. Reducción de carriles por atención de accidente (choque de camión de carga contra barreras metálicas en las inmediaciones de la plaza de cobro). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 17.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2068546435587412259#m",
-      "timestamp": "2026-06-21T04:07:56+00:00",
-      "timestamp_display": "20/06/2026 22:07 CST",
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068807471460745276#m",
+      "timestamp": "2026-06-21T21:25:12+00:00",
+      "timestamp_display": "21/06/2026 15:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 134,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2068803523626537300#m",
+      "timestamp": "2026-06-21T21:09:31+00:00",
+      "timestamp_display": "21/06/2026 15:09 CST",
       "segment": null
     },
     {
@@ -486,32 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2068753603385557451#m",
       "timestamp": "2026-06-21T17:51:09+00:00",
       "timestamp_display": "21/06/2026 11:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuauhtémoc - Osiris, km 70. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2068748817583710502#m",
-      "timestamp": "2026-06-21T17:32:08+00:00",
-      "timestamp_display": "21/06/2026 11:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🚫⚽ #TarjetaRojaALaTrata Infórmate, identifica las señales y contribuye a su prevención. 📢 ¡Denuncia!",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2068740735495766298#m",
-      "timestamp": "2026-06-21T17:00:01+00:00",
-      "timestamp_display": "21/06/2026 11:00 CST",
       "segment": null
     }
   ]
