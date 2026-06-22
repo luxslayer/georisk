@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-22T21:14:48.945744",
+  "last_update": "2026-06-22T22:01:52.259402",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Toluca se registra cierre parcial de circulación por #AccidenteVial cerca del km 041+800 de la carretera México-Toluca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 41.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069175436370645337#m",
+      "timestamp": "2026-06-22T21:47:22+00:00",
+      "timestamp_display": "22/06/2026 15:47 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+500 de la carretera Palenque-Benemérito. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 2.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069174489909195120#m",
+      "timestamp": "2026-06-22T21:43:36+00:00",
+      "timestamp_display": "22/06/2026 15:43 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del Km 169+000 de la carretera Coatzacoalcos-Salina Cruz con dirección a San Pablo Huitzo. Se orienta #Rutaalterna por el Mpio. de San Lorenzo Cacaotepecque en ambos sentidos.",
       "type": "twitter",
@@ -242,30 +268,36 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 069+900 de la carretera Tuxpan-Tampico, a la altura del localidad de Naranjos, con Dir. a Tuxpan. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 15, dirección Córdoba. Registra cierre a la circulación por atención de incidente (conato de incendio de tracto camión). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 69.9,
+      "lat": 18.844696930678527,
+      "lng": -96.77272649280773,
+      "road": 150,
+      "km": 15,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068890976131629326#m",
-      "timestamp": "2026-06-22T02:57:01+00:00",
-      "timestamp_display": "21/06/2026 20:57 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2069173338409247108#m",
+      "timestamp": "2026-06-22T21:39:01+00:00",
+      "timestamp_display": "22/06/2026 15:39 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
-      "title": "#Tomeprecauciones en #Toluca se registra cierre parcial de circulación por #AccidenteVial cerca del km 161+500, de la carretera Toluca-Palmillas, a la altura del Mpio. Atlacomulco, con Dir. a Atlacomulco. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 18, dirección Acayucan. Reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.8002,
-      "lng": -99.8759,
-      "road": null,
-      "km": 161.5,
+      "lat": 17.92610679354882,
+      "lng": -94.7711844990925,
+      "road": 145,
+      "km": 18,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068889207511072973#m",
-      "timestamp": "2026-06-22T02:49:59+00:00",
-      "timestamp_display": "21/06/2026 20:49 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2069171905878171896#m",
+      "timestamp": "2026-06-22T21:33:20+00:00",
+      "timestamp_display": "22/06/2026 15:33 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 52, dirección Irapuato. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). Maneja con precaución.",
@@ -404,6 +436,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 51, dirección Querétaro. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/JpZjeCT627wtuEyk8",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 51,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069049671377416366#m",
+      "timestamp": "2026-06-22T13:27:37+00:00",
+      "timestamp_display": "22/06/2026 07:27 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 51, dirección Querétaro. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal se encuentra realizando las labores de atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 51,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069058231243038875#m",
+      "timestamp": "2026-06-22T14:01:38+00:00",
+      "timestamp_display": "22/06/2026 08:01 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 51, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
@@ -483,48 +541,6 @@
       "timestamp": "2026-06-22T15:29:00+00:00",
       "timestamp_display": "22/06/2026 09:29 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069079963442057598#m",
-      "timestamp": "2026-06-22T15:27:59+00:00",
-      "timestamp_display": "22/06/2026 09:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 51, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de pick up). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069077916860727615#m",
-      "timestamp": "2026-06-22T15:19:51+00:00",
-      "timestamp_display": "22/06/2026 09:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 17, dirección Cosoleacaque. Cierre a la circulación por atención de incidente (tracto camión con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069076063238476203#m",
-      "timestamp": "2026-06-22T15:12:29+00:00",
-      "timestamp_display": "22/06/2026 09:12 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
