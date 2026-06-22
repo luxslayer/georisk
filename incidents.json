@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-22T17:17:44.765786",
+  "last_update": "2026-06-22T18:47:06.431068",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Guerrero se registra presencia de personas en movimiento cerca del Km 002+300 de la carretera Cuernavaca-Chilpancingo de los Bravos. Se orienta a la ciudadanía que el transito se mantiene con fluido lento por el carril central.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 2.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069129227513868578#m",
+      "timestamp": "2026-06-22T18:43:45+00:00",
+      "timestamp_display": "22/06/2026 12:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Zacatecas tras #AccidenteVial cerca del km 010+000, de la carretera Zacatecas -Durango, a la altura del Mpio. San Antonio del Ciprés, con Dir. a Libramiento Víctor Rosales. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": 10.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069108098300542985#m",
+      "timestamp": "2026-06-22T17:19:47+00:00",
+      "timestamp_display": "22/06/2026 11:19 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por #Afectaciónclimitologica (inundación) cerca del km 100+750, de la autopista Cuernavaca-Acapulco, a la altura del Mpio. Emiliano Zapata, Atienda indicación vial.",
       "type": "twitter",
@@ -242,29 +268,45 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 088+900, de la carretera Pátzcuaro-Uruapan (directo), a la altura de la Col. Bicentenario, con Dir. a Morelia. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 1, dirección Acayucan. Reducción de carriles por atención de accidente (choque de costado entre tracto camiones). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": 14,
-      "km": 88.9,
+      "lat": 17.910408217315624,
+      "lng": -94.93024936733168,
+      "road": 145,
+      "km": 1,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068885934184046637#m",
-      "timestamp": "2026-06-22T02:36:59+00:00",
-      "timestamp_display": "21/06/2026 20:36 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069122216692789709#m",
+      "timestamp": "2026-06-22T18:15:53+00:00",
+      "timestamp_display": "22/06/2026 12:15 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 52, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069113095838908516#m",
+      "timestamp": "2026-06-22T17:39:38+00:00",
+      "timestamp_display": "22/06/2026 11:39 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Tabasco se registra cierre total de circulación por presencia de personas, cerca del Km 044+000, de la carretera Villahermosa-Ciudad del Carmen, a la altura de la localidad de Simón Sarlat. Ruta alterna carr. El Bellote-Santa Cruz. Atienda indicación vial.",
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Puebla - Acatzingo, del km 129 al 132, dirección Acatzingo. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
-      "km": 44.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2068882714233557122#m",
-      "timestamp": "2026-06-22T02:24:11+00:00",
-      "timestamp_display": "21/06/2026 20:24 CST",
+      "km": 129,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069111915716980835#m",
+      "timestamp": "2026-06-22T17:34:57+00:00",
+      "timestamp_display": "22/06/2026 11:34 CST",
       "segment": null
     },
     {
@@ -498,54 +540,6 @@
       "segment": [
         "cordoba",
         "veracruz"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 85, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.301425455536624,
-      "lng": -98.48428506273167,
-      "road": 150,
-      "km": 67,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069072927052660874#m",
-      "timestamp": "2026-06-22T15:00:01+00:00",
-      "timestamp_display": "22/06/2026 09:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 78, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.330706817428805,
-      "lng": -98.54276255814574,
-      "road": 150,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069072923864752515#m",
-      "timestamp": "2026-06-22T15:00:01+00:00",
-      "timestamp_display": "22/06/2026 09:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Nuevo Teapa - Cosoleacaque, del km 15 al 18. Reducción de carriles en ambos sentidos por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.012905443599106,
-      "lng": -94.43344555755947,
-      "road": 180,
-      "km": 15,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069072922090803212#m",
-      "timestamp": "2026-06-22T15:00:00+00:00",
-      "timestamp_display": "22/06/2026 09:00 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
       ]
     }
   ]
