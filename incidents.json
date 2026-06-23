@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-23T18:58:47.175191",
+  "last_update": "2026-06-23T19:43:50.740557",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 013+500 de la carretera Libramiento de Xalapa. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 13.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069497726253859167#m",
+      "timestamp": "2026-06-23T19:08:02+00:00",
+      "timestamp_display": "23/06/2026 13:08 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 095+500 de la carretera Xalapa - Veracruz. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 95.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069495536034500754#m",
+      "timestamp": "2026-06-23T18:59:19+00:00",
+      "timestamp_display": "23/06/2026 12:59 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 135+500 de la carretera Poza rica-Veracruz. Maneje con precaución.",
       "type": "twitter",
@@ -239,29 +265,71 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 033+500 de la carretera Coatzacoalcos- Salina Cruz, con dirección Cosoleacaque. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 183, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": 33.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2069256450367508626#m",
-      "timestamp": "2026-06-23T03:09:17+00:00",
-      "timestamp_display": "22/06/2026 21:09 CST",
+      "km": 183,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069506579905327574#m",
+      "timestamp": "2026-06-23T19:43:12+00:00",
+      "timestamp_display": "23/06/2026 13:43 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #BC continua presencia de personas cerca del Km 036+640 de la carretera Tijuana-San Miguel a la altura de la plaza de cobro No. 35 Playas de Rosarito. Se orienta a la ciudadanía que la caseta labora con normalidad y no hay afectaciones a la circulación.",
+      "title": "🔴CIERRE DE CIRCULACIÓN🔴 Autopista Agua Dulce - Cárdenas, km 63, dirección Cárdenas. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 36.64,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069505292828606695#m",
+      "timestamp": "2026-06-23T19:38:06+00:00",
+      "timestamp_display": "23/06/2026 13:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 323, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 323,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069500482322657596#m",
+      "timestamp": "2026-06-23T19:18:59+00:00",
+      "timestamp_display": "23/06/2026 13:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17, dirección Cosoleacaque. Circulación intermitente por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069251523037557217#m",
-      "timestamp": "2026-06-23T02:49:42+00:00",
-      "timestamp_display": "22/06/2026 20:49 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069497824807457094#m",
+      "timestamp": "2026-06-23T19:08:25+00:00",
+      "timestamp_display": "23/06/2026 13:08 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🚨 ¿Visitas México de manera temporal? ¡Esta información es para ti! 🇲🇽🧳 Queremos que tu ingreso y tránsito por el país sea seguro, respetando siempre tus derechos. Para lograrlo, el programa Heroínas y Héroes Paisanos pone a tu disposición módulos de atención en puntos clave. Acércate a los \"Observadores\" están listos para orientarte y recibir tus quejas en caso de que sufras algún abuso por parte de servidores públicos. ¡Tu mejor defensa es estar informado! Revisa la guía aquí: 🛡️💻 https://www.gob.mx/.../1082677/GUIA_COMPLETA_HHP_ESP_2.pdf",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069495711675073024#m",
+      "timestamp": "2026-06-23T19:00:01+00:00",
+      "timestamp_display": "23/06/2026 13:00 CST",
       "segment": null
     },
     {
@@ -451,87 +519,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 153, dirección Isla. Continúa reducción de carriles por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 153,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069452022181482656#m",
-      "timestamp": "2026-06-23T16:06:25+00:00",
-      "timestamp_display": "23/06/2026 10:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 129, dirección Isla. Cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 129,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069446809894670349#m",
-      "timestamp": "2026-06-23T15:45:42+00:00",
-      "timestamp_display": "23/06/2026 09:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🚑🛣️ En autopistas #CAPUFE, nuestros servicios son gratuitos. No te dejes engañar. Si alguien solicita dinero por brindarte apoyo, repórtalo de inmediato. 📞 800 990 2900 📩 quejas@capufe.gob.mx #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069442857551724699#m",
-      "timestamp": "2026-06-23T15:30:00+00:00",
-      "timestamp_display": "23/06/2026 09:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CARGA VEHICULAR🟠 Autopista Chamapa - Lechería, km 27, dirección Chamapa. Registra carga vehicular por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 27,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069438656608178650#m",
-      "timestamp": "2026-06-23T15:13:18+00:00",
-      "timestamp_display": "23/06/2026 09:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Noreste de Querétaro, km 20, dirección San Luis Potosí. Reducción de carriles por labores de desmantelamiento de la Plaza de Cobro Chichimequillas. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.73804664167625,
-      "lng": -100.44308176551276,
-      "road": 57,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069435317762117653#m",
-      "timestamp": "2026-06-23T15:00:02+00:00",
-      "timestamp_display": "23/06/2026 09:00 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069435316990251234#m",
-      "timestamp": "2026-06-23T15:00:02+00:00",
-      "timestamp_display": "23/06/2026 09:00 CST",
-      "segment": null
     }
   ]
 }
