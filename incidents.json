@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-23T18:11:29.557405",
+  "last_update": "2026-06-23T18:58:47.175191",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 135+500 de la carretera Poza rica-Veracruz. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 135.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069490968449917102#m",
+      "timestamp": "2026-06-23T18:41:10+00:00",
+      "timestamp_display": "23/06/2026 12:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación, dirección Cd. Méx., por #AccidenteVial cerca del km 018+300 cerca de la carretera México–Pirámides. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 18.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069487657114050756#m",
+      "timestamp": "2026-06-23T18:28:01+00:00",
+      "timestamp_display": "23/06/2026 12:28 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 029+950 en la carr. Libramiento de Xalapa. Maneje con precaución.",
       "type": "twitter",
@@ -239,29 +265,68 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Guerrero tras presencia de personas cerca del Km 002+300 de la carretera Cuernavaca-Chilpancingo de los Bravos. Maneje con precaución.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Gómez Palacio - Corralitos, km 102. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 2.3,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069250951102234720#m",
-      "timestamp": "2026-06-23T02:47:26+00:00",
-      "timestamp_display": "22/06/2026 20:47 CST",
+      "km": 102,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069494727888814245#m",
+      "timestamp": "2026-06-23T18:56:07+00:00",
+      "timestamp_display": "23/06/2026 12:56 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Hidalgo se registra cierre total de la circulación por presencia de personas cerca del Km 143+200 de la carretera Pachuca-Tempoal. Se Orienta a la ciudadanía #Rutaalterna por localidades aledañas. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 63, dirección Cárdenas. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 143.2,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069492852346748949#m",
+      "timestamp": "2026-06-23T18:48:39+00:00",
+      "timestamp_display": "23/06/2026 12:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Puebla - Acatzingo, del km 134 al 136, dirección Acatzingo. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 134,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069491993298764144#m",
+      "timestamp": "2026-06-23T18:45:15+00:00",
+      "timestamp_display": "23/06/2026 12:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 63, dirección Cárdenas. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069488834388054361#m",
+      "timestamp": "2026-06-23T18:32:42+00:00",
+      "timestamp_display": "23/06/2026 12:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Mendoza - Córdoba, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069235437428744536#m",
-      "timestamp": "2026-06-23T01:45:47+00:00",
-      "timestamp_display": "22/06/2026 19:45 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069484247648211201#m",
+      "timestamp": "2026-06-23T18:14:28+00:00",
+      "timestamp_display": "23/06/2026 12:14 CST",
       "segment": null
     },
     {
@@ -278,7 +343,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Gómez Palacio - Corralitos, km 102. Se informa a las personas usuarias que continúa circulación en contraflujo. El personal se encuentra realizando las maniobras de grúa para el retiro de tracto camión siniestrado. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Gómez Palacio - Corralitos, km 102. Se informa a las personas usuarias que continúa circulación en contraflujo. El personal se encuentra realizando las maniobras de grúa para el retiro de tracto camión siniestrado. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -466,74 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069435316990251234#m",
       "timestamp": "2026-06-23T15:00:02+00:00",
       "timestamp_display": "23/06/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Puebla - Acatzingo, del km 132 al 134, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 132,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069435316025376850#m",
-      "timestamp": "2026-06-23T15:00:02+00:00",
-      "timestamp_display": "23/06/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 76, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.336837657936986,
-      "lng": -98.56065935520853,
-      "road": 150,
-      "km": 58,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069435311562903931#m",
-      "timestamp": "2026-06-23T15:00:01+00:00",
-      "timestamp_display": "23/06/2026 09:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069435310531117299#m",
-      "timestamp": "2026-06-23T15:00:00+00:00",
-      "timestamp_display": "23/06/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 230,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069435307632521527#m",
-      "timestamp": "2026-06-23T15:00:00+00:00",
-      "timestamp_display": "23/06/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 163. Continúa circulación en contraflujo, por labores de mantenimiento sobre Puente El Carrizo. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069435027079704695#m",
-      "timestamp": "2026-06-23T14:58:53+00:00",
-      "timestamp_display": "23/06/2026 08:58 CST",
       "segment": null
     }
   ]
