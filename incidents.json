@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-23T13:16:16.152735",
+  "last_update": "2026-06-23T14:19:28.313703",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Oaxaca tras presencia de personas cerca del Km 220+000 de la carretera Cuacnopalan-Oaxaca a la altura de la caseta No. 79 Huitzo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 220.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069423166137520478#m",
+      "timestamp": "2026-06-23T14:11:45+00:00",
+      "timestamp_display": "23/06/2026 08:11 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Chiapas se registra presencia de personas en movimiento por el acotamiento cerca del Km 018+500 se dirigen de la carretera Tepanatepec, Talismán con Ramales a Unión de Juárez. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": 18.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069422542947852493#m",
+      "timestamp": "2026-06-23T14:09:16+00:00",
+      "timestamp_display": "23/06/2026 08:09 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Oaxaca se registra presencia de personas cerca del Km 220+000 de la carretera Cuacnopalan-Oaxaca a la altura de la caseta No. 79 Huitzo. Se orienta a la ciudadanía que la caseta se labora libre de peaje, los manifestantes piden cooperación voluntaria.",
       "type": "twitter",
@@ -239,29 +265,45 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Guerrero se registra presencia de personas en movimiento cerca del Km 002+300 de la carretera Cuernavaca-Chilpancingo de los Bravos. Se orienta a la ciudadanía que el transito se mantiene con fluido lento por el carril central.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 153, dirección Isla. Reducción de carriles por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 153,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069417820597649499#m",
+      "timestamp": "2026-06-23T13:50:31+00:00",
+      "timestamp_display": "23/06/2026 07:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 68, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.350063724419037,
+      "lng": -98.62993772965349,
+      "road": 150,
+      "km": 50,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069414260837384560#m",
+      "timestamp": "2026-06-23T13:36:22+00:00",
+      "timestamp_display": "23/06/2026 07:36 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
-      "km": 2.3,
+      "km": 96,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069129227513868578#m",
-      "timestamp": "2026-06-22T18:43:45+00:00",
-      "timestamp_display": "22/06/2026 12:43 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #Zacatecas tras #AccidenteVial cerca del km 010+000, de la carretera Zacatecas -Durango, a la altura del Mpio. San Antonio del Ciprés, con Dir. a Libramiento Víctor Rosales. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
-      "road": null,
-      "km": 10.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2069108098300542985#m",
-      "timestamp": "2026-06-22T17:19:47+00:00",
-      "timestamp_display": "22/06/2026 11:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069411322257662444#m",
+      "timestamp": "2026-06-23T13:24:41+00:00",
+      "timestamp_display": "23/06/2026 07:24 CST",
       "segment": null
     },
     {
@@ -483,32 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069290216272081192#m",
       "timestamp": "2026-06-23T05:23:27+00:00",
       "timestamp_display": "22/06/2026 23:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Poniente Tampico, km 6. Continúa cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 6,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069288852049609121#m",
-      "timestamp": "2026-06-23T05:18:02+00:00",
-      "timestamp_display": "22/06/2026 23:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Pera - Cuautla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069288380039409817#m",
-      "timestamp": "2026-06-23T05:16:09+00:00",
-      "timestamp_display": "22/06/2026 23:16 CST",
       "segment": null
     }
   ]
