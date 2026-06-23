@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-23T08:14:14.217381",
+  "last_update": "2026-06-23T09:31:24.874805",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+400 de la carretera Libramiento Poniente Tampico, con dirección Tampico. Atienda indicación vial.",
@@ -262,6 +262,19 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069341906455208172#m",
+      "timestamp": "2026-06-23T08:48:51+00:00",
+      "timestamp_display": "23/06/2026 02:48 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 Libramiento Poniente Tampico, Plaza de Cobro Tampico. Carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -496,19 +509,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069264196945018908#m",
       "timestamp": "2026-06-23T03:40:04+00:00",
       "timestamp_display": "22/06/2026 21:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 52, dirección Irapuato. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069261677791449513#m",
-      "timestamp": "2026-06-23T03:30:03+00:00",
-      "timestamp_display": "22/06/2026 21:30 CST",
       "segment": null
     }
   ]
