@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-22T23:33:28.999611",
+  "last_update": "2026-06-23T00:09:10.890977",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Oaxaca tras cierre total de circulación por presencia de personas cerca del Km 169+000 de la carretera Coatzacoalcos-Salina Cruz con dirección a San Pablo Huitzo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 169.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069208892072984816#m",
+      "timestamp": "2026-06-23T00:00:18+00:00",
+      "timestamp_display": "22/06/2026 18:00 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 108+000 de la autopista Guadalajara-Tepic. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 108.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069203444645212330#m",
+      "timestamp": "2026-06-22T23:38:39+00:00",
+      "timestamp_display": "22/06/2026 17:38 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Toluca se registra cierre parcial de circulación por #AccidenteVial cerca del km 041+800 de la carretera México-Toluca. Atienda indicación vial.",
       "type": "twitter",
@@ -242,29 +268,29 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Veracruz tras presencia de personas, cerca del Km 072+500, de la carretera Alazan-Canoas, a la altura del Mpio. de Tantoyuca, con Dir. a Tempoal. Maneje con precaución.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Cd. Mendoza - Córdoba, registra #lluvia a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 72.5,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2068893299885088812#m",
-      "timestamp": "2026-06-22T03:06:15+00:00",
-      "timestamp_display": "21/06/2026 21:06 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069206346344366525#m",
+      "timestamp": "2026-06-22T23:50:11+00:00",
+      "timestamp_display": "22/06/2026 17:50 CST",
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 058+700, de la carretera Coatzacoalcos-Salina Cruz, a la altura del Mpio. de Soconusco, con Dir. a Veracruz. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 52, dirección Irapuato. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 58.7,
+      "km": 52,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068892200654557204#m",
-      "timestamp": "2026-06-22T03:01:53+00:00",
-      "timestamp_display": "21/06/2026 21:01 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069203207591457254#m",
+      "timestamp": "2026-06-22T23:37:43+00:00",
+      "timestamp_display": "22/06/2026 17:37 CST",
       "segment": null
     },
     {
@@ -494,35 +520,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069130407786770513#m",
       "timestamp": "2026-06-22T18:48:26+00:00",
       "timestamp_display": "22/06/2026 12:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 1, dirección Acayucan. Reducción de carriles por atención de accidente (choque de costado entre tracto camiones). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.910408217315624,
-      "lng": -94.93024936733168,
-      "road": 145,
-      "km": 1,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069122216692789709#m",
-      "timestamp": "2026-06-22T18:15:53+00:00",
-      "timestamp_display": "22/06/2026 12:15 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 52, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069113095838908516#m",
-      "timestamp": "2026-06-22T17:39:38+00:00",
-      "timestamp_display": "22/06/2026 11:39 CST",
       "segment": null
     }
   ]
