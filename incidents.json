@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-23T01:15:28.373999",
+  "last_update": "2026-06-23T02:21:25.650042",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Hidalgo se registra cierre total de la circulación por presencia de personas cerca del Km 143+200 de la carretera Pachuca-Tempoal. Se Orienta a la ciudadanía #Rutaalterna por localidades aledañas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.11,
+      "lng": -98.73,
+      "road": null,
+      "km": 143.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069235437428744536#m",
+      "timestamp": "2026-06-23T01:45:47+00:00",
+      "timestamp_display": "22/06/2026 19:45 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #BC se registra presencia de personas cerca del Km 036+640 de la carretera Tijuana-San Miguel a la altura de la plaza de cobro No. 35 Playas de Rosarito. Se orienta a la ciudadanía que la caseta labora con normalidad y no hay afectaciones a la circulación.",
       "type": "twitter",
@@ -252,20 +265,17 @@
       ]
     },
     {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 059+000, de la carretera Córdoba-Ent. Boticaria, a la altura del Mpio. de Cotaxtla, con Dir. a Tierra Blanca. Maneje con precaución.",
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 18.8263987204178,
-      "lng": -96.38233614767307,
-      "road": 150,
-      "km": 59.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2068916426207830372#m",
-      "timestamp": "2026-06-22T04:38:09+00:00",
-      "timestamp_display": "21/06/2026 22:38 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 278,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069227873815171106#m",
+      "timestamp": "2026-06-23T01:15:44+00:00",
+      "timestamp_display": "22/06/2026 19:15 CST",
+      "segment": null
     },
     {
       "title": "🚫⚽#RedCardOnHumanTrafficking Get informed, recognize the warning signs, and help prevent it. 📢 Report it!",
