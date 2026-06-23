@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-06-23T09:31:24.874805",
+  "last_update": "2026-06-23T10:48:38.607131",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 088+200 de la carretera México - Puebla con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.286173815505048,
+      "lng": -98.458434403072,
+      "road": 150,
+      "km": 70.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069355165640003698#m",
+      "timestamp": "2026-06-23T09:41:32+00:00",
+      "timestamp_display": "23/06/2026 03:41 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#Tomeprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del km 006+400 de la carretera Libramiento Poniente Tampico, con dirección Tampico. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 061+000, de la carretera Libramiento Sur Guadalajara, a la altura del Mpio. El Ventarrón, con Dir. a la caseta de cobro Santa Cecilia. Atienda indicación vial.",
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 61.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2069064993488736323#m",
-      "timestamp": "2026-06-22T14:28:30+00:00",
-      "timestamp_display": "22/06/2026 08:28 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069358793364803792#m",
+      "timestamp": "2026-06-23T09:55:57+00:00",
+      "timestamp_display": "23/06/2026 03:55 CST",
       "segment": null
     },
     {
@@ -495,19 +511,6 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2069264386175201749#m",
       "timestamp": "2026-06-23T03:40:49+00:00",
-      "timestamp_display": "22/06/2026 21:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Tehuacán - Oaxaca, Plaza de Cobro Suchixtlahuaca, dirección Tehuacán. Registra carga vehicular por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069264196945018908#m",
-      "timestamp": "2026-06-23T03:40:04+00:00",
       "timestamp_display": "22/06/2026 21:40 CST",
       "segment": null
     }
