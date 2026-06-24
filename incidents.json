@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-24T11:27:36.858420",
+  "last_update": "2026-06-24T12:20:22.042976",
   "incidents": [
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera libre, México - Cuernavaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069755371942469760#m",
+      "timestamp": "2026-06-24T12:11:49+00:00",
+      "timestamp_display": "24/06/2026 06:11 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #CDMX se registra cierre de circulación por #AccidenteVial cerca del km 032+100 de la autopista México-Cuernavaca, con dirección Cd. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 32.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069755369803383021#m",
+      "timestamp": "2026-06-24T12:11:49+00:00",
+      "timestamp_display": "24/06/2026 06:11 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre de circulación con dirección Puebla, por #AccidenteVial cerca del km 076+900 de la autopista Cuacnopalan - Oaxaca, atienda indicación vial.",
       "type": "twitter",
@@ -245,29 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 192+300 de la carretera Tuxpan–Tampico, con dirección Tuxpan, atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 77. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (trasvase de carga). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 192.3,
+      "km": 77,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2069577809966580037#m",
-      "timestamp": "2026-06-24T00:26:15+00:00",
-      "timestamp_display": "23/06/2026 18:26 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 022+300 de la carretera Libramiento - Veracruz, atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 22.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2069572398035149253#m",
-      "timestamp": "2026-06-24T00:04:45+00:00",
-      "timestamp_display": "23/06/2026 18:04 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069752123164672404#m",
+      "timestamp": "2026-06-24T11:58:54+00:00",
+      "timestamp_display": "24/06/2026 05:58 CST",
       "segment": null
     },
     {
@@ -509,22 +522,6 @@
       "timestamp": "2026-06-24T04:08:22+00:00",
       "timestamp_display": "23/06/2026 22:08 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 0, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0721054,
-      "lng": -94.3207189,
-      "road": 180,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069632036374012057#m",
-      "timestamp": "2026-06-24T04:01:44+00:00",
-      "timestamp_display": "23/06/2026 22:01 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
