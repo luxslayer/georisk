@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-24T23:08:46.951455",
+  "last_update": "2026-06-24T23:40:27.230412",
   "incidents": [
     {
       "title": "#VialidadLibre en #Veracruz tras presencia de personas, cerca del km 238+000, de la carretera Poza Rica-Veracruz. Maneje con precaución.",
@@ -274,6 +274,32 @@
       ]
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 19. Cierre a la circulación en ambos sentidos por deslizamiento de talud. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/1hFcS8BNy9NBaciu7",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069927296052425172#m",
+      "timestamp": "2026-06-24T23:34:59+00:00",
+      "timestamp_display": "24/06/2026 17:34 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ⚠️AVISO IMPORTANTE⚠️ Se informa a las personas usuarias que, a partir del 24 de junio de 2026, se restablece el sistema de cobro en efectivo y Telepeaje de la Plaza de cobro Tlalpan. 🔘 Si tu pago es en efectivo, anticipa tu cuota. 🔘 Si tu pago es con un dispositivo de Telepeaje, asegúrate de tenerlo en un lugar adecuado para su lectura. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069926780249469140#m",
+      "timestamp": "2026-06-24T23:32:56+00:00",
+      "timestamp_display": "24/06/2026 17:32 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Barranca Larga - Ventanilla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -384,7 +410,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Se informa a las personas usuarias que se retiran los manifestantes. Sin embargo, en la zona se registra carga vehicular en ambos sentidos. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Se informa a las personas usuarias que se retiran los manifestantes. Sin embargo, en la zona se registra carga vehicular en ambos sentidos. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -514,19 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069867119135584508#m",
       "timestamp": "2026-06-24T19:35:52+00:00",
       "timestamp_display": "24/06/2026 13:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 95,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069866334440063143#m",
-      "timestamp": "2026-06-24T19:32:45+00:00",
-      "timestamp_display": "24/06/2026 13:32 CST",
       "segment": null
     }
   ]
