@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-24T01:13:47.663520",
+  "last_update": "2026-06-24T02:02:26.427306",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Oaxaca tras accidente cerca del km 298+900 de la carretera Pinotepa Nacional - Salina Cruz, maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.34,
+      "lng": -98.05,
+      "road": null,
+      "km": 298.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069599839524946327#m",
+      "timestamp": "2026-06-24T01:53:47+00:00",
+      "timestamp_display": "23/06/2026 19:53 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Puebla tras accidente cerca del km 067+000 en la autopista México - Puebla, con dirección Cd. Méx., maneje con precaución.",
       "type": "twitter",
@@ -258,16 +271,29 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 135+500 de la carretera Poza rica-Veracruz. Maneje con precaución.",
+      "title": "Pinned: ⚠️ AVISO IMPORTANTE ⚠️ Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Toma tus precauciones. Para más información llama al 088 de @GN_Carreteras.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 135.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2069490968449917102#m",
-      "timestamp": "2026-06-23T18:41:10+00:00",
-      "timestamp_display": "23/06/2026 12:41 CST",
+      "km": 278,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069598836461281340#m",
+      "timestamp": "2026-06-24T01:49:48+00:00",
+      "timestamp_display": "23/06/2026 19:49 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️ Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Circulación intermitente en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 088 de @GN_Carreteras.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 278,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069596355941527687#m",
+      "timestamp": "2026-06-24T01:39:57+00:00",
+      "timestamp_display": "23/06/2026 19:39 CST",
       "segment": null
     },
     {
@@ -388,7 +414,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ⚠️ AVISO IMPORTANTE ⚠️ Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 088 de @GN_Carreteras.",
+      "title": "⚠️ AVISO IMPORTANTE ⚠️ Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 088 de @GN_Carreteras.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -492,35 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069567120103346502#m",
       "timestamp": "2026-06-23T23:43:46+00:00",
       "timestamp_display": "23/06/2026 17:43 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Isla - Acayucan, km 152, dirección Acayucan. Reducción de carriles por labores de mantenimiento, sin reporte de incidentes. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 152,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069564883331354932#m",
-      "timestamp": "2026-06-23T23:34:53+00:00",
-      "timestamp_display": "23/06/2026 17:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17, dirección Cosoleacaque. Continúa circulación intermitente por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069559483009728716#m",
-      "timestamp": "2026-06-23T23:13:25+00:00",
-      "timestamp_display": "23/06/2026 17:13 CST",
       "segment": [
         "nuevo teapa",
         "cosoleacaque"
