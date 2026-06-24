@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-24T06:23:03.365167",
+  "last_update": "2026-06-24T07:46:34.721337",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+800 de la autopista Ent. la tinaja - Cosoleacaque, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 20.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2069675471831171287#m",
+      "timestamp": "2026-06-24T06:54:19+00:00",
+      "timestamp_display": "24/06/2026 00:54 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 000+250 de la carretera Nuevo Teapa - Cosoleacaque, maneje con precaución.",
       "type": "twitter",
@@ -112,19 +125,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Carretera Luis Feriño. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069608611773300951#m",
-      "timestamp": "2026-06-24T02:28:39+00:00",
-      "timestamp_display": "23/06/2026 20:28 CST",
-      "segment": null
-    },
-    {
       "title": "#EviteLaZona en #Coahuila se registra cierre total de circulación en ambos sentidos por presencia de personas, cerca del km. 031+100 de la carretera La Cuchilla - Torreón. Atienda indicación vial.",
       "type": "twitter",
       "lat": 25.54,
@@ -134,6 +134,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2069608609722335551#m",
       "timestamp": "2026-06-24T02:28:38+00:00",
+      "timestamp_display": "23/06/2026 20:28 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Carretera Luis Feriño. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069608611773300951#m",
+      "timestamp": "2026-06-24T02:28:39+00:00",
       "timestamp_display": "23/06/2026 20:28 CST",
       "segment": null
     },
@@ -255,19 +268,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2069571798996308296#m",
       "timestamp": "2026-06-24T00:02:22+00:00",
       "timestamp_display": "23/06/2026 18:02 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 012+300 de la carretera Fortín-Conejos, con dirección a Totula, atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 12.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2069569890369888608#m",
-      "timestamp": "2026-06-23T23:54:47+00:00",
-      "timestamp_display": "23/06/2026 17:54 CST",
       "segment": null
     },
     {
