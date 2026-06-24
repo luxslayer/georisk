@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-24T17:59:14.063174",
+  "last_update": "2026-06-24T18:45:46.630059",
   "incidents": [
+    {
+      "title": "#PrecauciónVial en #Durango se registra cierre parcial de circulación por presencia de personas, cerca del km. 011+600 en la carretera Gómez Palacio-Jiménez, con dirección a Bermejillo, Dgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2069850147144556669#m",
+      "timestamp": "2026-06-24T18:28:25+00:00",
+      "timestamp_display": "24/06/2026 12:28 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Tlaxcala se registra cierre parcial de circulación por presencia de personas, cerca del km. 061+800 en la carretera Calpulalpan-Apizaco. Atienda indicación vial.",
       "type": "twitter",
@@ -261,33 +274,85 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas se registra cierre  parcial de circulación tras presencia de personas, aproximadamente en el km. 031+400 de la carretera Tampico- Ciudad Mante,con dirección Tampico, Tamps. Atienda indicación vial.",
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Cosoleacaque. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
+      "lat": 18.01910647240051,
+      "lng": -94.54541169577793,
+      "road": 180,
+      "km": 27,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069805600125465086#m",
-      "timestamp": "2026-06-24T15:31:24+00:00",
-      "timestamp_display": "24/06/2026 09:31 CST",
+      "url": "https://nitter.net/CAPUFE/status/2069853310891225580#m",
+      "timestamp": "2026-06-24T18:40:59+00:00",
+      "timestamp_display": "24/06/2026 12:40 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoQuerétaro, km 41 dirección CDMX. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 41,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069853050890592416#m",
+      "timestamp": "2026-06-24T18:39:57+00:00",
+      "timestamp_display": "24/06/2026 12:39 CST",
       "segment": null
     },
     {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Se informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE. ➡️ Sin cierre a la circulación: 🔘 #AutMéxicoQuerétaro, Plaza de Cobro Palmillas, en ambos sentidos. ➡️ Con circulación intermitente: 🔘 Autopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán, en ambos sentidos. ➡️ Con cierre a la circulación: 🔘 Autopista Puebla - Acatzingo, km 156, dirección Acatzingo. Los manifestantes ocupan todos los carriles de rodamiento y avanzan lentamente. 🔘 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Desvío de la circulación en el km 98, a la altura de la salida a Burgos. 🔘Autopista Cuernavaca - Acapulco, km 94, dirección Acapulco. 🔘 Autopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, en ambos sentidos. 🔘 #AutMéxicoCuernavaca, km 80, en ambos sentidos. En las gazas de entrada y salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz). La carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Cualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Toma tus precauciones.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución",
       "type": "twitter",
-      "lat": 18.000999999999998,
-      "lng": -97.97,
-      "road": 150,
-      "km": 138,
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069842447925235972#m",
-      "timestamp": "2026-06-24T17:57:50+00:00",
-      "timestamp_display": "24/06/2026 11:57 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2069852732966478277#m",
+      "timestamp": "2026-06-24T18:38:42+00:00",
+      "timestamp_display": "24/06/2026 12:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Puebla - Acatzingo, km 137. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 137,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069852556709232918#m",
+      "timestamp": "2026-06-24T18:38:00+00:00",
+      "timestamp_display": "24/06/2026 12:38 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Se informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE. ➡️ Sin cierre a la circulación: 🔘 #AutMéxicoQuerétaro, Plaza de Cobro Palmillas, en ambos sentidos. ➡️ Con cierre a la circulación: 🔘 #AutMéxicoCuernavaca, km 80, en ambos sentidos. En las gazas de entrada y salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz). 🔘Autopista Cuernavaca - Acapulco, km 94, dirección Acapulco. 🔘 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Desvío de la circulación en el km 98, a la altura de la salida a Burgos. 🔘 Autopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, en ambos sentidos. Cualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069851061746065814#m",
+      "timestamp": "2026-06-24T18:32:03+00:00",
+      "timestamp_display": "24/06/2026 12:32 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Se informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE. ➡️ Sin cierre a la circulación: 🔘 #AutMéxicoQuerétaro, Plaza de Cobro Palmillas, en ambos sentidos. ➡️ Con circulación intermitente: 🔘 Autopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán, en ambos sentidos. ➡️ Con cierre a la circulación: 🔘 #AutMéxicoCuernavaca, km 80, en ambos sentidos. En las gazas de entrada y salida a la Ciudad de Cuernavaca (Glorieta La Paloma de la Paz). 🔘Autopista Cuernavaca - Acapulco, km 94, dirección Acapulco. 🔘 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Desvío de la circulación en el km 98, a la altura de la salida a Burgos. 🔘 Autopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, en ambos sentidos. Cualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 80,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069843215620923862#m",
+      "timestamp": "2026-06-24T18:00:53+00:00",
+      "timestamp_display": "24/06/2026 12:00 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -372,93 +437,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069829849212998140#m",
-      "timestamp": "2026-06-24T17:07:46+00:00",
-      "timestamp_display": "24/06/2026 11:07 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🚫⚽ #TarjetaRojaALaTrata Infórmate, identifica las señales y contribuye a su prevención. 📢 ¡Denuncia!",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069827898803167611#m",
-      "timestamp": "2026-06-24T17:00:01+00:00",
-      "timestamp_display": "24/06/2026 11:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069826062389854625#m",
-      "timestamp": "2026-06-24T16:52:43+00:00",
-      "timestamp_display": "24/06/2026 10:52 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 77. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069821510441668947#m",
-      "timestamp": "2026-06-24T16:34:38+00:00",
-      "timestamp_display": "24/06/2026 10:34 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Se informa a las personas usuarias que se registra presencia de manifestantes en diversos puntos de las autopistas administradas por CAPUFE. ➡️ Sin cierre a la circulación: 🔘 #AutMéxicoQuerétaro, Plaza de Cobro Palmillas, en ambos sentidos. ➡️ Con reducción de carriles: 🔘 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Cosoleacaque. ➡️ Con circulación intermitente: 🔘 Autopista Tehuacán - Oaxaca, Plaza de Cobro Tehuacán, en ambos sentidos. ➡️ Con cierre a la circulación: 🔘 Autopista Puebla - Acatzingo, km 137, en ambos sentidos. 🔘 Autopista Puebla - Acatzingo, km 166, dirección Puebla. Los manifestantes ocupan todos los carriles de rodamiento y avanzan lentamente. 🔘 Autopista Cuernavaca - Acapulco, km 103, dirección Cuernavaca. Desvío de la circulación hacia carretera libre en el km 105, a la altura de la Plaza de Cobro Aeropuerto. La carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Cualquier cambio o novedad se dará a conocer por este medio o en el 0️⃣7️⃣4️⃣. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.01910647240051,
-      "lng": -94.54541169577793,
-      "road": 180,
-      "km": 27,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069821058933297405#m",
-      "timestamp": "2026-06-24T16:32:50+00:00",
-      "timestamp_display": "24/06/2026 10:32 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 77. Continúa circulación de manera intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069819397569663222#m",
-      "timestamp": "2026-06-24T16:26:14+00:00",
-      "timestamp_display": "24/06/2026 10:26 CST",
-      "segment": null
     }
   ]
 }
