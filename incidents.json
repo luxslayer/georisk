@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-24T09:12:18.488435",
+  "last_update": "2026-06-24T10:26:02.145222",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+800 de la autopista Ent. la tinaja - Cosoleacaque, atienda indicación vial.",
@@ -271,6 +271,45 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 33, dirección CDMX. Cierre a la circulación por atención de accidente (choque de costado entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 33,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069727524414701604#m",
+      "timestamp": "2026-06-24T10:21:10+00:00",
+      "timestamp_display": "24/06/2026 04:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 104, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 104,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069724540821803145#m",
+      "timestamp": "2026-06-24T10:09:18+00:00",
+      "timestamp_display": "24/06/2026 04:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 157, dirección Querétaro. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 157,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2069717624859038037#m",
+      "timestamp": "2026-06-24T09:41:49+00:00",
+      "timestamp_display": "24/06/2026 03:41 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 82, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -492,45 +531,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 105, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 105,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069614382439375320#m",
-      "timestamp": "2026-06-24T02:51:35+00:00",
-      "timestamp_display": "23/06/2026 20:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 63, dirección Cárdenas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069611677050372315#m",
-      "timestamp": "2026-06-24T02:40:49+00:00",
-      "timestamp_display": "23/06/2026 20:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 82, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 82,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069606336313086444#m",
-      "timestamp": "2026-06-24T02:19:36+00:00",
-      "timestamp_display": "23/06/2026 20:19 CST",
-      "segment": null
     }
   ]
 }
