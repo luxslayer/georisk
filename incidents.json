@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-24T21:04:19.256076",
+  "last_update": "2026-06-24T21:46:32.741921",
   "incidents": [
     {
       "title": "#PrecauciónVial en #Durango se registra cierre parcial de circulación por presencia de personas, cerca del km. 011+600 en la carretera Gómez Palacio-Jiménez, con dirección a Bermejillo, Dgo. Atienda indicación vial.",
@@ -274,7 +274,46 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/exePBXKh3FYK8czH6",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Se informa a las personas usuarias que se retiran los manifestantes. Sin embargo, en la zona se registra carga vehicular en ambos sentidos. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069897045339488407#m",
+      "timestamp": "2026-06-24T21:34:47+00:00",
+      "timestamp_display": "24/06/2026 15:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Villahermosa - Escárcega, Plaza de Cobro Puente Grijalva. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069895014071537913#m",
+      "timestamp": "2026-06-24T21:26:42+00:00",
+      "timestamp_display": "24/06/2026 15:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 93, dirección Acapulco. Reducción de carriles centrales por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 93,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069892787319849105#m",
+      "timestamp": "2026-06-24T21:17:51+00:00",
+      "timestamp_display": "24/06/2026 15:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/exePBXKh3FYK8czH6",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -482,45 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069857846184079370#m",
       "timestamp": "2026-06-24T18:59:01+00:00",
       "timestamp_display": "24/06/2026 12:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #MéxicoQuerétaro 🚧 Se realizarán trabajos de mantenimiento en la carpeta asfáltica del km 125 al 126, con dirección a Querétaro. Tome sus precauciones. 🚗⚠️ #CAPUFEInforma",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 125,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069856753303581009#m",
-      "timestamp": "2026-06-24T18:54:40+00:00",
-      "timestamp_display": "24/06/2026 12:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán, dirección CDMX. Reducción de carriles por atención de choque contra cabina. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/4stLqs7yyGxEAAuD9",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069856302994485534#m",
-      "timestamp": "2026-06-24T18:52:53+00:00",
-      "timestamp_display": "24/06/2026 12:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Puebla - Acatzingo, km 156, dirección Acatzingo. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 156,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069855697643204883#m",
-      "timestamp": "2026-06-24T18:50:29+00:00",
-      "timestamp_display": "24/06/2026 12:50 CST",
       "segment": null
     }
   ]
