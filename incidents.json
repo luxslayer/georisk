@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-24T20:20:51.334252",
+  "last_update": "2026-06-24T21:04:19.256076",
   "incidents": [
     {
       "title": "#PrecauciónVial en #Durango se registra cierre parcial de circulación por presencia de personas, cerca del km. 011+600 en la carretera Gómez Palacio-Jiménez, con dirección a Bermejillo, Dgo. Atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Cuchilla - Matamoros, Plaza de Cobro La Cuchilla. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/exePBXKh3FYK8czH6",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069883989863678014#m",
+      "timestamp": "2026-06-24T20:42:54+00:00",
+      "timestamp_display": "24/06/2026 14:42 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Villahermosa - Escárcega, Plaza de Cobro Puente Grijalva. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069881651652358513#m",
+      "timestamp": "2026-06-24T20:33:36+00:00",
+      "timestamp_display": "24/06/2026 14:33 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Continúa circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 18.014957284594626,
@@ -496,35 +522,6 @@
       "timestamp": "2026-06-24T18:50:29+00:00",
       "timestamp_display": "24/06/2026 12:50 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 161, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 161,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069854999824220662#m",
-      "timestamp": "2026-06-24T18:47:42+00:00",
-      "timestamp_display": "24/06/2026 12:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 27, dirección Cosoleacaque. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.01910647240051,
-      "lng": -94.54541169577793,
-      "road": 180,
-      "km": 27,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069853310891225580#m",
-      "timestamp": "2026-06-24T18:40:59+00:00",
-      "timestamp_display": "24/06/2026 12:40 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
