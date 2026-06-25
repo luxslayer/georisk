@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-24T23:40:27.230412",
+  "last_update": "2026-06-25T00:10:36.792083",
   "incidents": [
     {
       "title": "#VialidadLibre en #Veracruz tras presencia de personas, cerca del km 238+000, de la carretera Poza Rica-Veracruz. Maneje con precaución.",
@@ -274,6 +274,48 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.014957284594626,
+      "lng": -94.45221223111746,
+      "road": 180,
+      "km": 17,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069935222909542426#m",
+      "timestamp": "2026-06-25T00:06:29+00:00",
+      "timestamp_display": "24/06/2026 18:06 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Continúa cierre a la circulación en ambos sentidos por deslizamiento de talud. Toma tus precauciones. Se recomienda a la ciudadanía tomar las siguientes vías alternas: ➡️ Dir. Oaxaca, se desvía la circulación a carretera libre en el km 0 (Cuacnopalan). ➡️ Dir. Cuacnopalan, se desvía la circulación a carretera libre a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069933206695014489#m",
+      "timestamp": "2026-06-24T23:58:28+00:00",
+      "timestamp_display": "24/06/2026 17:58 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ⚠️AVISO IMPORTANTE⚠️ Se informa a las personas usuarias que, a partir del 24 de junio de 2026 a las 22:00 horas, se restablece el sistema de cobro en efectivo y Telepeaje de la Plaza de cobro Tlalpan. 🔘 Si tu pago es en efectivo, anticipa tu cuota. 🔘 Si tu pago es con un dispositivo de Telepeaje, asegúrate de tenerlo en un lugar adecuado para su lectura. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2069929451064885437#m",
+      "timestamp": "2026-06-24T23:43:33+00:00",
+      "timestamp_display": "24/06/2026 17:43 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 19. Cierre a la circulación en ambos sentidos por deslizamiento de talud. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/1hFcS8BNy9NBaciu7",
       "type": "twitter",
       "lat": 17.072,
@@ -284,19 +326,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069927296052425172#m",
       "timestamp": "2026-06-24T23:34:59+00:00",
       "timestamp_display": "24/06/2026 17:34 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ⚠️AVISO IMPORTANTE⚠️ Se informa a las personas usuarias que, a partir del 24 de junio de 2026, se restablece el sistema de cobro en efectivo y Telepeaje de la Plaza de cobro Tlalpan. 🔘 Si tu pago es en efectivo, anticipa tu cuota. 🔘 Si tu pago es con un dispositivo de Telepeaje, asegúrate de tenerlo en un lugar adecuado para su lectura. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069926780249469140#m",
-      "timestamp": "2026-06-24T23:32:56+00:00",
-      "timestamp_display": "24/06/2026 17:32 CST",
       "segment": null
     },
     {
@@ -501,45 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069874161334595881#m",
       "timestamp": "2026-06-24T20:03:51+00:00",
       "timestamp_display": "24/06/2026 14:03 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 33, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069871461355897122#m",
-      "timestamp": "2026-06-24T19:53:07+00:00",
-      "timestamp_display": "24/06/2026 13:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Cuernavaca - Acapulco, km 94, dirección Acapulco. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 94,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069868128721408372#m",
-      "timestamp": "2026-06-24T19:39:52+00:00",
-      "timestamp_display": "24/06/2026 13:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoQuerétaro, Plaza de Cobro Palmillas. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069867119135584508#m",
-      "timestamp": "2026-06-24T19:35:52+00:00",
-      "timestamp_display": "24/06/2026 13:35 CST",
       "segment": null
     }
   ]
