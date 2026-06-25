@@ -1,6 +1,38 @@
 {
-  "last_update": "2026-06-25T19:59:11.173176",
+  "last_update": "2026-06-25T20:48:54.416137",
   "incidents": [
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la autopista Tepic - Mazatlán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": 15,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070241432716075415#m",
+      "timestamp": "2026-06-25T20:23:15+00:00",
+      "timestamp_display": "25/06/2026 14:23 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#EviteLaZona en #Sinaloa se registra cierre total en ambos sentidos de circulación por incidente, cerca del km 198+100 de la carretera Tecualilla (Ent. Aut. Tepic -Villa Unión) Ent. Rosario, con dirección al Mpio. de Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.298833681897836,
+      "lng": -104.64947174787406,
+      "road": 15,
+      "km": 191.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070241430858080681#m",
+      "timestamp": "2026-06-25T20:23:14+00:00",
+      "timestamp_display": "25/06/2026 14:23 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
     {
       "title": "#VialidadLibre en #Jalisco tras accidente cerca del km 049+300 de la carretera Lagos de Moreno-Guadalajara /Con Ramal a Yahualica. Maneje con precaución.",
       "type": "twitter",
@@ -232,6 +264,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 47, dirección Cuernavaca. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 47,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070246926147035139#m",
+      "timestamp": "2026-06-25T20:45:05+00:00",
+      "timestamp_display": "25/06/2026 14:45 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070244629773967607#m",
+      "timestamp": "2026-06-25T20:35:57+00:00",
+      "timestamp_display": "25/06/2026 14:35 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, continúa reducción de carriles por labores de mantenimiento del km 125 al 126. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 125,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070240087024062555#m",
+      "timestamp": "2026-06-25T20:17:54+00:00",
+      "timestamp_display": "25/06/2026 14:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Tehuacán - Oaxaca, Plaza de Cobro Suchixtlahuaca. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070238167026856240#m",
+      "timestamp": "2026-06-25T20:10:16+00:00",
+      "timestamp_display": "25/06/2026 14:10 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 17. Circulación intermitente en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.014957284594626,
@@ -277,7 +361,7 @@
       ]
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camioneta, camión y tracto camión. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ipqUmbfNoPVSsj938",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camioneta, camión y tracto camión. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ipqUmbfNoPVSsj938",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -452,61 +536,6 @@
       "url": "https://nitter.net/CAPUFE/status/2070195924924506481#m",
       "timestamp": "2026-06-25T17:22:25+00:00",
       "timestamp_display": "25/06/2026 11:22 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 131, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 131,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070195335247355978#m",
-      "timestamp": "2026-06-25T17:20:04+00:00",
-      "timestamp_display": "25/06/2026 11:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Barranca Larga - Ventanilla, km 9. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 9,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070193133736829264#m",
-      "timestamp": "2026-06-25T17:11:20+00:00",
-      "timestamp_display": "25/06/2026 11:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🚫⚽ #TarjetaRojaALaTrata Infórmate, identifica las señales y contribuye a su prevención. 📢 ¡Denuncia!",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070190283653070994#m",
-      "timestamp": "2026-06-25T17:00:00+00:00",
-      "timestamp_display": "25/06/2026 11:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 17, dirección Cosoleacaque. Cierre a la circulación por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. Dir. Nuevo Teapa, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070186237575499954#m",
-      "timestamp": "2026-06-25T16:43:55+00:00",
-      "timestamp_display": "25/06/2026 10:43 CST",
       "segment": [
         "nuevo teapa",
         "cosoleacaque"
