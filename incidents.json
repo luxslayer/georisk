@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-25T22:12:36.729198",
+  "last_update": "2026-06-25T22:48:43.721991",
   "incidents": [
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna desviando a los usuarios sobre las calles del Mpio. San Juan Mazatlán Mixe, Oax. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070269373340643351#m",
+      "timestamp": "2026-06-25T22:14:17+00:00",
+      "timestamp_display": "25/06/2026 16:14 CST",
+      "segment": null
+    },
+    {
+      "title": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 169.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070269371306385875#m",
+      "timestamp": "2026-06-25T22:14:16+00:00",
+      "timestamp_display": "25/06/2026 16:14 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km 126+200 de la carretera San Hipólito — Xalapa. Maneje con precaución.",
       "type": "twitter",
@@ -15,22 +41,6 @@
       "segment": null
     },
     {
-      "title": "#EviteLaZona en #Sinaloa se registra cierre total en ambos sentidos de circulación por incidente, cerca del km 198+100 de la carretera Tecualilla (Ent. Aut. Tepic -Villa Unión) Ent. Rosario, con dirección al Mpio. de Mazatlán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.298833681897836,
-      "lng": -104.64947174787406,
-      "road": 15,
-      "km": 191.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070241430858080681#m",
-      "timestamp": "2026-06-25T20:23:14+00:00",
-      "timestamp_display": "25/06/2026 14:23 CST",
-      "segment": [
-        "tepic",
-        "mazatlan"
-      ]
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la autopista Tepic - Mazatlán. Maneje con precaución.",
       "type": "twitter",
       "lat": 23.24,
@@ -40,6 +50,22 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070241432716075415#m",
       "timestamp": "2026-06-25T20:23:15+00:00",
+      "timestamp_display": "25/06/2026 14:23 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#EviteLaZona en #Sinaloa se registra cierre total en ambos sentidos de circulación por incidente, cerca del km 198+100 de la carretera Tecualilla (Ent. Aut. Tepic -Villa Unión) Ent. Rosario, con dirección al Mpio. de Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.298833681897836,
+      "lng": -104.64947174787406,
+      "road": 15,
+      "km": 191.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070241430858080681#m",
+      "timestamp": "2026-06-25T20:23:14+00:00",
       "timestamp_display": "25/06/2026 14:23 CST",
       "segment": [
         "tepic",
@@ -60,19 +86,6 @@
       "segment": null
     },
     {
-      "title": "#EviteLaZona en #Oaxaca se registra cierre total ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 169.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070207026542551505#m",
-      "timestamp": "2026-06-25T18:06:32+00:00",
-      "timestamp_display": "25/06/2026 12:06 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna desviando a los usuarios sobre las calles del Mpio. San Juan Mazatlán Mixe, Oax. Maneje con precaución.",
       "type": "twitter",
       "lat": 23.24,
@@ -81,6 +94,19 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070207028329337168#m",
+      "timestamp": "2026-06-25T18:06:32+00:00",
+      "timestamp_display": "25/06/2026 12:06 CST",
+      "segment": null
+    },
+    {
+      "title": "#EviteLaZona en #Oaxaca se registra cierre total ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 169.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070207026542551505#m",
       "timestamp": "2026-06-25T18:06:32+00:00",
       "timestamp_display": "25/06/2026 12:06 CST",
       "segment": null
@@ -251,29 +277,16 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Veracruz tras presencia de personas, cerca del km 238+000, de la carretera Poza Rica-Veracruz. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 297, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 238.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069918914113405324#m",
-      "timestamp": "2026-06-24T23:01:41+00:00",
-      "timestamp_display": "24/06/2026 17:01 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Puebla se registra cierre total de circulación por presencia de personas, cerca del km. 145+500 en la carretera Pachuca-Tuxpan. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
-      "road": 130,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2069916396931125588#m",
-      "timestamp": "2026-06-24T22:51:40+00:00",
-      "timestamp_display": "24/06/2026 16:51 CST",
+      "km": 297,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070269720507404294#m",
+      "timestamp": "2026-06-25T22:15:39+00:00",
+      "timestamp_display": "25/06/2026 16:15 CST",
       "segment": null
     },
     {
@@ -523,19 +536,6 @@
       "url": "https://nitter.net/CAPUFE/status/2070213086477218186#m",
       "timestamp": "2026-06-25T18:30:37+00:00",
       "timestamp_display": "25/06/2026 12:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070202996055503041#m",
-      "timestamp": "2026-06-25T17:50:31+00:00",
-      "timestamp_display": "25/06/2026 11:50 CST",
       "segment": null
     }
   ]
