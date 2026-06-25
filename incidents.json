@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-25T06:48:01.383247",
+  "last_update": "2026-06-25T08:10:35.756699",
   "incidents": [
     {
       "title": "#VialidadLibre en #Veracruz tras presencia de personas, cerca del km 238+000, de la carretera Poza Rica-Veracruz. Maneje con precaución.",
@@ -274,6 +274,45 @@
       ]
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Isla - Acayucan, continúa #lluvia a la altura de la Plaza de Cobro Acayucan. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070056622227960055#m",
+      "timestamp": "2026-06-25T08:08:53+00:00",
+      "timestamp_display": "25/06/2026 02:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 57,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070051069313360372#m",
+      "timestamp": "2026-06-25T07:46:49+00:00",
+      "timestamp_display": "25/06/2026 01:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 9, dirección Cuautla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070037197244211373#m",
+      "timestamp": "2026-06-25T06:51:41+00:00",
+      "timestamp_display": "25/06/2026 00:51 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -495,45 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069963616590221699#m",
       "timestamp": "2026-06-25T01:59:18+00:00",
       "timestamp_display": "24/06/2026 19:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2069958946119369093#m",
-      "timestamp": "2026-06-25T01:40:45+00:00",
-      "timestamp_display": "24/06/2026 19:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Atizapán, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069952726264418540#m",
-      "timestamp": "2026-06-25T01:16:02+00:00",
-      "timestamp_display": "24/06/2026 19:16 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal se encuentra realizando las labores de limpieza. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069952311212871821#m",
-      "timestamp": "2026-06-25T01:14:23+00:00",
-      "timestamp_display": "24/06/2026 19:14 CST",
       "segment": null
     }
   ]
