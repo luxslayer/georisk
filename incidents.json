@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-25T20:48:54.416137",
+  "last_update": "2026-06-25T21:35:45.992706",
   "incidents": [
     {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la autopista Tepic - Mazatlán. Maneje con precaución.",
@@ -264,6 +264,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 47, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 47,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070256705305182276#m",
+      "timestamp": "2026-06-25T21:23:56+00:00",
+      "timestamp_display": "25/06/2026 15:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 106, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 106,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070250104196374834#m",
+      "timestamp": "2026-06-25T20:57:42+00:00",
+      "timestamp_display": "25/06/2026 14:57 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 47, dirección Cuernavaca. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -498,48 +524,6 @@
       "timestamp": "2026-06-25T17:46:59+00:00",
       "timestamp_display": "25/06/2026 11:46 CST",
       "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Tehuacán - Oaxaca, Plaza de Cobro Suchixtlahuaca. Presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070201656667471903#m",
-      "timestamp": "2026-06-25T17:45:12+00:00",
-      "timestamp_display": "25/06/2026 11:45 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal se encuentra realizando las labores de atención del incidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070200554207465481#m",
-      "timestamp": "2026-06-25T17:40:49+00:00",
-      "timestamp_display": "25/06/2026 11:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Se restablece la circulación con reducción de carriles en ambos sentidos, por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070195924924506481#m",
-      "timestamp": "2026-06-25T17:22:25+00:00",
-      "timestamp_display": "25/06/2026 11:22 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
