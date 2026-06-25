@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-25T08:10:35.756699",
+  "last_update": "2026-06-25T09:25:04.726973",
   "incidents": [
     {
       "title": "#VialidadLibre en #Veracruz tras presencia de personas, cerca del km 238+000, de la carretera Poza Rica-Veracruz. Maneje con precaución.",
@@ -274,6 +274,32 @@
       ]
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 9, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070061546332459311#m",
+      "timestamp": "2026-06-25T08:28:27+00:00",
+      "timestamp_display": "25/06/2026 02:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 57,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070059111471796235#m",
+      "timestamp": "2026-06-25T08:18:46+00:00",
+      "timestamp_display": "25/06/2026 02:18 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Isla - Acayucan, continúa #lluvia a la altura de la Plaza de Cobro Acayucan. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -508,32 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2069971629254300018#m",
       "timestamp": "2026-06-25T02:31:09+00:00",
       "timestamp_display": "24/06/2026 20:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Tehuacán - Oaxaca, Plaza de Cobro Suchixtlahuaca. Continúa reducción de carriles en ambos sentidos por atención de incidencia. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069967741746819159#m",
-      "timestamp": "2026-06-25T02:15:42+00:00",
-      "timestamp_display": "24/06/2026 20:15 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2069963616590221699#m",
-      "timestamp": "2026-06-25T01:59:18+00:00",
-      "timestamp_display": "24/06/2026 19:59 CST",
       "segment": null
     }
   ]
