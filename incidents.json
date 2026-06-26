@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-26T21:43:39.186733",
+  "last_update": "2026-06-26T22:14:43.593972",
   "incidents": [
     {
       "title": "#ViaLibre en #EdoMex tras cierre total de circulación por presencia de personas, cerca del km. 036+000 de la autopista México-Puebla con dirección Puebla. Maneje con precaución.",
@@ -271,17 +271,33 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 165, dirección Navojoa. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 165, dirección Navojoa. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": 165,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070621407734628702#m",
-      "timestamp": "2026-06-26T21:33:08+00:00",
-      "timestamp_display": "26/06/2026 15:33 CST",
+      "url": "https://nitter.net/CAPUFE/status/2070626790268149801#m",
+      "timestamp": "2026-06-26T21:54:31+00:00",
+      "timestamp_display": "26/06/2026 15:54 CST",
       "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Marcos. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070624253007773959#m",
+      "timestamp": "2026-06-26T21:44:26+00:00",
+      "timestamp_display": "26/06/2026 15:44 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, Plaza de Cobro San Marcos. Se retiran los manifestantes, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular en dirección CDMX. Maneja con precaución.",
@@ -479,48 +495,6 @@
       "timestamp": "2026-06-26T18:04:38+00:00",
       "timestamp_display": "26/06/2026 12:04 CST",
       "segment": null
-    },
-    {
-      "title": "🚗 Mantente al tanto antes y durante tu viaje. Conoce recomendaciones, información útil y novedades sobre nuestras autopistas a través de las redes sociales de #CAPUFE. 📲🛣️ Únete a nuestra comunidad digital y viaja en compañía en cada trayecto. ✨ #CAPUFE #Síguenos #ConectadosEnElCamino #CAPUFEContigo",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070567775068962839#m",
-      "timestamp": "2026-06-26T18:00:01+00:00",
-      "timestamp_display": "26/06/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070565388731961491#m",
-      "timestamp": "2026-06-26T17:50:32+00:00",
-      "timestamp_display": "26/06/2026 11:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.815133487698663,
-      "lng": -96.67460265649935,
-      "road": 150,
-      "km": 26,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070561187591241795#m",
-      "timestamp": "2026-06-26T17:33:50+00:00",
-      "timestamp_display": "26/06/2026 11:33 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
