@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-26T22:45:45.433047",
+  "last_update": "2026-06-26T23:29:20.780388",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 037+700 de la carretera México-Toluca con dirección Toluca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 37.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070650171663294556#m",
+      "timestamp": "2026-06-26T23:27:26+00:00",
+      "timestamp_display": "26/06/2026 17:27 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Oaxaca tras cierre total de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 169.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070640326813913496#m",
+      "timestamp": "2026-06-26T22:48:19+00:00",
+      "timestamp_display": "26/06/2026 16:48 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #EdoMex tras cierre total de circulación por presencia de personas, cerca del km. 036+000 de la autopista México-Puebla con dirección Puebla. Maneje con precaución.",
       "type": "twitter",
@@ -31,19 +57,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por conclusión de maniobras tras deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan - Oaxaca, con dirección Oaxaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070585617604288612#m",
-      "timestamp": "2026-06-26T19:10:55+00:00",
-      "timestamp_display": "26/06/2026 13:10 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna con dirección Orizaba, hacia la desviación de Texcoco para retornar a Quecholat y tomar la vía libre. Maneje con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -57,20 +70,17 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMex continua cierre total de circulación por presencia de personas, cerca del km. 036+000 de la autopista México-Puebla con dirección Puebla. Atienda indicación vial.",
+      "title": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por conclusión de maniobras tras deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan - Oaxaca, con dirección Oaxaca. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
       "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070578679676063745#m",
-      "timestamp": "2026-06-26T18:43:21+00:00",
-      "timestamp_display": "26/06/2026 12:43 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070585617604288612#m",
+      "timestamp": "2026-06-26T19:10:55+00:00",
+      "timestamp_display": "26/06/2026 13:10 CST",
+      "segment": null
     },
     {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera libre México - Puebla, dirección Puebla. Maneje con precaución.",
@@ -81,6 +91,22 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070578681085313082#m",
+      "timestamp": "2026-06-26T18:43:21+00:00",
+      "timestamp_display": "26/06/2026 12:43 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMex continua cierre total de circulación por presencia de personas, cerca del km. 036+000 de la autopista México-Puebla con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070578679676063745#m",
       "timestamp": "2026-06-26T18:43:21+00:00",
       "timestamp_display": "26/06/2026 12:43 CST",
       "segment": [
@@ -154,19 +180,6 @@
       "segment": null
     },
     {
-      "title": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 169.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070487635735294319#m",
-      "timestamp": "2026-06-26T12:41:34+00:00",
-      "timestamp_display": "26/06/2026 06:41 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera Tuxtepec - Ent. Palomares, Tramo Tuxtepec- Ent. Palomares. Maneje con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -176,6 +189,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070487637438222610#m",
       "timestamp": "2026-06-26T12:41:35+00:00",
+      "timestamp_display": "26/06/2026 06:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 169.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070487635735294319#m",
+      "timestamp": "2026-06-26T12:41:34+00:00",
       "timestamp_display": "26/06/2026 06:41 CST",
       "segment": null
     },
@@ -219,19 +245,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Sonora continua cierre total de circulación por presencia de personas, cerca del km 248+000 en la carretera Cd. Obregón - Hermosillo, con dirección Hermosillo, a la altura de El Fraccionamiento Haciendas del Sur, Son. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 248.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070448515222794262#m",
-      "timestamp": "2026-06-26T10:06:07+00:00",
-      "timestamp_display": "26/06/2026 04:06 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Libramiento Hermosillo. Maneje con precaución.",
       "type": "twitter",
       "lat": 29.07,
@@ -245,29 +258,68 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Puebla tras accidente cerca del km 149+500 de la carretera Amozoc -Teziutlán. Maneje con precaución.",
+      "title": "#TomePrecauciones en #Sonora continua cierre total de circulación por presencia de personas, cerca del km 248+000 en la carretera Cd. Obregón - Hermosillo, con dirección Hermosillo, a la altura de El Fraccionamiento Haciendas del Sur, Son. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 29.07,
+      "lng": -110.96,
       "road": null,
-      "km": 149.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070392168808607791#m",
-      "timestamp": "2026-06-26T06:22:13+00:00",
-      "timestamp_display": "26/06/2026 00:22 CST",
+      "km": 248.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070448515222794262#m",
+      "timestamp": "2026-06-26T10:06:07+00:00",
+      "timestamp_display": "26/06/2026 04:06 CST",
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 242+930 de la autopista Puebla - Córdova, dirección Veracruz. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070649832193036676#m",
+      "timestamp": "2026-06-26T23:26:05+00:00",
+      "timestamp_display": "26/06/2026 17:26 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ La velocidad también es una decisión que protege vidas. 👉 Modérala y continúa tu camino con tranquilidad. 🚗 Si necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070384270598647891#m",
-      "timestamp": "2026-06-26T05:50:50+00:00",
-      "timestamp_display": "25/06/2026 23:50 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070522485179634101#m",
+      "timestamp": "2026-06-26T15:00:03+00:00",
+      "timestamp_display": "26/06/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070582973317963899#m",
+      "timestamp": "2026-06-26T19:00:25+00:00",
+      "timestamp_display": "26/06/2026 13:00 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070644796134138092#m",
+      "timestamp": "2026-06-26T23:06:04+00:00",
+      "timestamp_display": "26/06/2026 17:06 CST",
       "segment": null
     },
     {
@@ -474,32 +526,6 @@
       "url": "https://nitter.net/CAPUFE/status/2070594367992066117#m",
       "timestamp": "2026-06-26T19:45:41+00:00",
       "timestamp_display": "26/06/2026 13:45 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070582973317963899#m",
-      "timestamp": "2026-06-26T19:00:25+00:00",
-      "timestamp_display": "26/06/2026 13:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #CuacnopalanOaxaca 🚧 Se habilita el paso alternado en ambos sentidos a la altura del km 19+535. Maneje con precaución y reduzca la velocidad al aproximarse a la zona. 🚗⚠️ #CAPUFEInforma",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19.535,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070580416214434099#m",
-      "timestamp": "2026-06-26T18:50:15+00:00",
-      "timestamp_display": "26/06/2026 12:50 CST",
       "segment": null
     }
   ]
