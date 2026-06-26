@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-26T08:25:51.566134",
+  "last_update": "2026-06-26T09:45:59.126327",
   "incidents": [
     {
       "title": "#VialidadLibre en #Puebla tras accidente cerca del km 149+500 de la carretera Amozoc -Teziutlán. Maneje con precaución.",
@@ -271,6 +271,61 @@
       ]
     },
     {
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Guaymas - Hermosillo, km 248. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 248,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070441133612671429#m",
+      "timestamp": "2026-06-26T09:36:47+00:00",
+      "timestamp_display": "26/06/2026 03:36 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que que se cierra nuevamente la circulación. El personal continúa realizando las labores de atención del accidente. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 61,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070436342090060040#m",
+      "timestamp": "2026-06-26T09:17:45+00:00",
+      "timestamp_display": "26/06/2026 03:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 75, dirección Córdoba. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.945988971425855,
+      "lng": -96.29855945513744,
+      "road": 150,
+      "km": 75,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070433583399927974#m",
+      "timestamp": "2026-06-26T09:06:47+00:00",
+      "timestamp_display": "26/06/2026 03:06 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Las Choapas - Ocozocoautla, km 124. Se restablece la circulación de manera intermitente para ambos sentidos. El personal continúa realizando las labores de atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 124,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070430195819909141#m",
+      "timestamp": "2026-06-26T08:53:20+00:00",
+      "timestamp_display": "26/06/2026 02:53 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 67, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 19.35385448450614,
@@ -300,7 +355,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de atención del accidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de atención del accidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.7603,
       "lng": -96.4616,
@@ -476,61 +531,6 @@
       "timestamp": "2026-06-26T02:55:58+00:00",
       "timestamp_display": "25/06/2026 20:55 CST",
       "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070334226440794328#m",
-      "timestamp": "2026-06-26T02:31:59+00:00",
-      "timestamp_display": "25/06/2026 20:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070329956844929242#m",
-      "timestamp": "2026-06-26T02:15:01+00:00",
-      "timestamp_display": "25/06/2026 20:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco. Reducción de carriles en ambos sentidos por presencia de manifestantes. Únicamente se da circulación a vehículos ligeros. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/na9GuTRRUpNsz3xUA",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070329317528084520#m",
-      "timestamp": "2026-06-26T02:12:28+00:00",
-      "timestamp_display": "25/06/2026 20:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070324809293058433#m",
-      "timestamp": "2026-06-26T01:54:33+00:00",
-      "timestamp_display": "25/06/2026 19:54 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
