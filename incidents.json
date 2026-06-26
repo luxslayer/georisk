@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-26T15:51:49.885301",
+  "last_update": "2026-06-26T16:44:31.501018",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Sinaloa se registra presencia de personas en la entrada de acceso al Aeropuerto Los Mochis, sin afectación a las actividades aéreas.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Isla, km 126, dirección Isla. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 126,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070536416556159084#m",
+      "timestamp": "2026-06-26T15:55:25+00:00",
+      "timestamp_display": "26/06/2026 09:55 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 60, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -343,6 +356,32 @@
       "url": "https://nitter.net/CAPUFE/status/2070513865780007401#m",
       "timestamp": "2026-06-26T14:25:48+00:00",
       "timestamp_display": "26/06/2026 08:25 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070268323720515615#m",
+      "timestamp": "2026-06-25T22:10:06+00:00",
+      "timestamp_display": "25/06/2026 16:10 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070462540765618288#m",
+      "timestamp": "2026-06-26T11:01:51+00:00",
+      "timestamp_display": "26/06/2026 05:01 CST",
       "segment": null
     },
     {
@@ -437,6 +476,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/RNcoxsNTezBgY1UY6",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 61,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070393414781169684#m",
+      "timestamp": "2026-06-26T06:27:10+00:00",
+      "timestamp_display": "26/06/2026 00:27 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 61,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070462456002904533#m",
+      "timestamp": "2026-06-26T11:01:31+00:00",
+      "timestamp_display": "26/06/2026 05:01 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -521,19 +586,6 @@
       "url": "https://nitter.net/CAPUFE/status/2070466420027060314#m",
       "timestamp": "2026-06-26T11:17:16+00:00",
       "timestamp_display": "26/06/2026 05:17 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070462540765618288#m",
-      "timestamp": "2026-06-26T11:01:51+00:00",
-      "timestamp_display": "26/06/2026 05:01 CST",
       "segment": null
     }
   ]
