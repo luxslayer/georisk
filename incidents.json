@@ -1,19 +1,6 @@
 {
-  "last_update": "2026-06-26T13:48:40.062285",
+  "last_update": "2026-06-26T14:57:59.290816",
   "incidents": [
-    {
-      "title": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 169.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070487635735294319#m",
-      "timestamp": "2026-06-26T12:41:34+00:00",
-      "timestamp_display": "26/06/2026 06:41 CST",
-      "segment": null
-    },
     {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera Tuxtepec - Ent. Palomares, Tramo Tuxtepec- Ent. Palomares. Maneje con precaución.",
       "type": "twitter",
@@ -24,6 +11,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070487637438222610#m",
       "timestamp": "2026-06-26T12:41:35+00:00",
+      "timestamp_display": "26/06/2026 06:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 169.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070487635735294319#m",
+      "timestamp": "2026-06-26T12:41:34+00:00",
       "timestamp_display": "26/06/2026 06:41 CST",
       "segment": null
     },
@@ -67,19 +67,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Sonora continua cierre total de circulación por presencia de personas, cerca del km 248+000 en la carretera Cd. Obregón - Hermosillo, con dirección Hermosillo, a la altura de El Fraccionamiento Haciendas del Sur, Son. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 248.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070448515222794262#m",
-      "timestamp": "2026-06-26T10:06:07+00:00",
-      "timestamp_display": "26/06/2026 04:06 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Libramiento Hermosillo. Maneje con precaución.",
       "type": "twitter",
       "lat": 29.07,
@@ -89,6 +76,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070448516996931750#m",
       "timestamp": "2026-06-26T10:06:08+00:00",
+      "timestamp_display": "26/06/2026 04:06 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sonora continua cierre total de circulación por presencia de personas, cerca del km 248+000 en la carretera Cd. Obregón - Hermosillo, con dirección Hermosillo, a la altura de El Fraccionamiento Haciendas del Sur, Son. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 248.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070448515222794262#m",
+      "timestamp": "2026-06-26T10:06:07+00:00",
       "timestamp_display": "26/06/2026 04:06 CST",
       "segment": null
     },
@@ -268,6 +268,113 @@
       ]
     },
     {
+      "title": "Pinned: 🚧 #AVISO a las personas usuarias de la autopista #CuacnopalanOaxaca🚧 El día 26 de junio, de 08:00 a 11:00 horas, la circulación permanecerá cerrada por trabajos de estabilización de taludes en el km 19+535. Anticipe su traslado, considere rutas alternas y tome sus precauciones. 🚗⚠️#CAPUFEInforma",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19.535,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070517754596061638#m",
+      "timestamp": "2026-06-26T14:41:15+00:00",
+      "timestamp_display": "26/06/2026 08:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.78185944503198,
+      "lng": -96.4699562751055,
+      "road": 150,
+      "km": 48,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070516035363520549#m",
+      "timestamp": "2026-06-26T14:34:25+00:00",
+      "timestamp_display": "26/06/2026 08:34 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 68, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 68,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070513865780007401#m",
+      "timestamp": "2026-06-26T14:25:48+00:00",
+      "timestamp_display": "26/06/2026 08:25 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Se sugiere a la ciudadanía tomar las siguientes vías alternas hacia la carretera libre: ➡️ Dirección Oaxaca: a la altura del km 181 de la Autopista Acatzingo - Cd. Mendoza, en el Poblado de Tecamachalco. ➡️ Dirección Tehuacán: a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070513555787469165#m",
+      "timestamp": "2026-06-26T14:24:34+00:00",
+      "timestamp_display": "26/06/2026 08:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Las Choapas - Ocozocoautla, km 124. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 124,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070512689005109533#m",
+      "timestamp": "2026-06-26T14:21:07+00:00",
+      "timestamp_display": "26/06/2026 08:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 68, dirección CDMX. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 68,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070512160665452806#m",
+      "timestamp": "2026-06-26T14:19:02+00:00",
+      "timestamp_display": "26/06/2026 08:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070507751470457226#m",
+      "timestamp": "2026-06-26T14:01:30+00:00",
+      "timestamp_display": "26/06/2026 08:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 67, dirección La Tinaja. Registra carga vehicular, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 67,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070505420758630693#m",
+      "timestamp": "2026-06-26T13:52:15+00:00",
+      "timestamp_display": "26/06/2026 07:52 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -381,7 +488,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
@@ -434,116 +541,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Guaymas - Hermosillo, km 248. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 248,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070441133612671429#m",
-      "timestamp": "2026-06-26T09:36:47+00:00",
-      "timestamp_display": "26/06/2026 03:36 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que que se cierra nuevamente la circulación. El personal continúa realizando las labores de atención del accidente. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 61,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070436342090060040#m",
-      "timestamp": "2026-06-26T09:17:45+00:00",
-      "timestamp_display": "26/06/2026 03:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 75, dirección Córdoba. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.945988971425855,
-      "lng": -96.29855945513744,
-      "road": 150,
-      "km": 75,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070433583399927974#m",
-      "timestamp": "2026-06-26T09:06:47+00:00",
-      "timestamp_display": "26/06/2026 03:06 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Las Choapas - Ocozocoautla, km 124. Se restablece la circulación de manera intermitente para ambos sentidos. El personal continúa realizando las labores de atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 124,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070430195819909141#m",
-      "timestamp": "2026-06-26T08:53:20+00:00",
-      "timestamp_display": "26/06/2026 02:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 67, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.35385448450614,
-      "lng": -98.63710057533287,
-      "road": 150,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070420599814373694#m",
-      "timestamp": "2026-06-26T08:15:12+00:00",
-      "timestamp_display": "26/06/2026 02:15 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Guaymas - Hermosillo, km 248. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 248,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070417137588457887#m",
-      "timestamp": "2026-06-26T08:01:26+00:00",
-      "timestamp_display": "26/06/2026 02:01 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 61, dirección La Tinaja. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de atención del accidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 61,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070414335524942332#m",
-      "timestamp": "2026-06-26T07:50:18+00:00",
-      "timestamp_display": "26/06/2026 01:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Magdalena, km 181, dirección Hermosillo. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 181,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070407240918450659#m",
-      "timestamp": "2026-06-26T07:22:07+00:00",
-      "timestamp_display": "26/06/2026 01:22 CST",
-      "segment": null
     }
   ]
 }
