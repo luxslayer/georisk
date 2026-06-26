@@ -1,19 +1,6 @@
 {
-  "last_update": "2026-06-26T12:59:20.433221",
+  "last_update": "2026-06-26T13:48:40.062285",
   "incidents": [
-    {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera Tuxtepec - Ent. Palomares, Tramo Tuxtepec- Ent. Palomares. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070487637438222610#m",
-      "timestamp": "2026-06-26T12:41:35+00:00",
-      "timestamp_display": "26/06/2026 06:41 CST",
-      "segment": null
-    },
     {
       "title": "#EviteLaZona en #Oaxaca continua cierre total en ambos sentidos de circulación, por presencia de personas, cerca del km 169+000 de la carretera Coatzacoalcos - Salina Cruz, atienda indicación vial.",
       "type": "twitter",
@@ -24,6 +11,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070487635735294319#m",
       "timestamp": "2026-06-26T12:41:34+00:00",
+      "timestamp_display": "26/06/2026 06:41 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera Tuxtepec - Ent. Palomares, Tramo Tuxtepec- Ent. Palomares. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070487637438222610#m",
+      "timestamp": "2026-06-26T12:41:35+00:00",
       "timestamp_display": "26/06/2026 06:41 CST",
       "segment": null
     },
@@ -67,19 +67,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Libramiento Hermosillo. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070448516996931750#m",
-      "timestamp": "2026-06-26T10:06:08+00:00",
-      "timestamp_display": "26/06/2026 04:06 CST",
-      "segment": null
-    },
-    {
       "title": "#TomePrecauciones en #Sonora continua cierre total de circulación por presencia de personas, cerca del km 248+000 en la carretera Cd. Obregón - Hermosillo, con dirección Hermosillo, a la altura de El Fraccionamiento Haciendas del Sur, Son. Atienda indicación vial.",
       "type": "twitter",
       "lat": 29.07,
@@ -89,6 +76,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070448515222794262#m",
       "timestamp": "2026-06-26T10:06:07+00:00",
+      "timestamp_display": "26/06/2026 04:06 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Libramiento Hermosillo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070448516996931750#m",
+      "timestamp": "2026-06-26T10:06:08+00:00",
       "timestamp_display": "26/06/2026 04:06 CST",
       "segment": null
     },
@@ -266,6 +266,19 @@
         "mexico",
         "puebla"
       ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Registra carga vehicular, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070503351058305458#m",
+      "timestamp": "2026-06-26T13:44:01+00:00",
+      "timestamp_display": "26/06/2026 07:44 CST",
+      "segment": null
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 124. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -531,22 +544,6 @@
       "timestamp": "2026-06-26T07:22:07+00:00",
       "timestamp_display": "26/06/2026 01:22 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 75, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance y volcadura de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.945988971425855,
-      "lng": -96.29855945513744,
-      "road": 150,
-      "km": 75,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070397643247783976#m",
-      "timestamp": "2026-06-26T06:43:58+00:00",
-      "timestamp_display": "26/06/2026 00:43 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
