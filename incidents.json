@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-26T23:29:20.780388",
+  "last_update": "2026-06-26T23:55:08.496846",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 037+700 de la carretera México-Toluca con dirección Toluca. Atienda indicación vial.",
@@ -271,6 +271,35 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 12, dirección San Luis Potosí. Continúa cierre a la circulación por atención de accidente (maniobras para retiro de las unidades siniestradas). 🔘 Dirección CDMX, se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.667110491752265,
+      "lng": -100.43326210124533,
+      "road": 57,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070657115283448203#m",
+      "timestamp": "2026-06-26T23:55:01+00:00",
+      "timestamp_display": "26/06/2026 17:55 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 12. Registra cierre a la circulación en ambos sentidos por atención de accidente (reacomodo de muros). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070652245251670266#m",
+      "timestamp": "2026-06-26T23:35:40+00:00",
+      "timestamp_display": "26/06/2026 17:35 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -281,32 +310,6 @@
       "url": "https://nitter.net/CAPUFE/status/2070649832193036676#m",
       "timestamp": "2026-06-26T23:26:05+00:00",
       "timestamp_display": "26/06/2026 17:26 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ La velocidad también es una decisión que protege vidas. 👉 Modérala y continúa tu camino con tranquilidad. 🚗 Si necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070522485179634101#m",
-      "timestamp": "2026-06-26T15:00:03+00:00",
-      "timestamp_display": "26/06/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070582973317963899#m",
-      "timestamp": "2026-06-26T19:00:25+00:00",
-      "timestamp_display": "26/06/2026 13:00 CST",
       "segment": null
     },
     {
@@ -501,32 +504,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070594643910176795#m",
-      "timestamp": "2026-06-26T19:46:47+00:00",
-      "timestamp_display": "26/06/2026 13:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Cd. Mendoza, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070594367992066117#m",
-      "timestamp": "2026-06-26T19:45:41+00:00",
-      "timestamp_display": "26/06/2026 13:45 CST",
-      "segment": null
     }
   ]
 }
