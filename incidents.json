@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-26T19:35:43.343288",
+  "last_update": "2026-06-26T20:20:56.845803",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 060+200 de la carretera México - Cuernavaca, con dirección Tepoztlán, a la altura de la localidad de Coajomulco. Atienda indicación vial.",
@@ -268,6 +268,116 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 10, dirección Cosoleacaque. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.91907192064595,
+      "lng": -94.84586754284857,
+      "road": 145,
+      "km": 10,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070603126130794958#m",
+      "timestamp": "2026-06-26T20:20:29+00:00",
+      "timestamp_display": "26/06/2026 14:20 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070601341831897461#m",
+      "timestamp": "2026-06-26T20:13:24+00:00",
+      "timestamp_display": "26/06/2026 14:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, Plaza de Cobro San Marcos. Continúa reducción de carriles en ambos sentidos, por presencia de manifestantes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070599094075031817#m",
+      "timestamp": "2026-06-26T20:04:28+00:00",
+      "timestamp_display": "26/06/2026 14:04 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 286,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070594643910176795#m",
+      "timestamp": "2026-06-26T19:46:47+00:00",
+      "timestamp_display": "26/06/2026 13:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Cd. Mendoza, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070594367992066117#m",
+      "timestamp": "2026-06-26T19:45:41+00:00",
+      "timestamp_display": "26/06/2026 13:45 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ La velocidad también es una decisión que protege vidas. 👉 Modérala y continúa tu camino con tranquilidad. 🚗 Si necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070522485179634101#m",
+      "timestamp": "2026-06-26T15:00:03+00:00",
+      "timestamp_display": "26/06/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070268323720515615#m",
+      "timestamp": "2026-06-25T22:10:06+00:00",
+      "timestamp_display": "25/06/2026 16:10 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Se sugiere a la ciudadanía tomar las siguientes vías alternas hacia la carretera libre: ➡️ Dirección Oaxaca: a la altura del km 181 de la Autopista Acatzingo - Cd. Mendoza, en el Poblado de Tecamachalco. ➡️ Dirección Tehuacán: a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Cualquier novedad se dará a conocer a través de este medio y en el 0️⃣7️⃣4️⃣. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070558646161846279#m",
+      "timestamp": "2026-06-26T17:23:45+00:00",
+      "timestamp_display": "26/06/2026 11:23 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del incidente. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 17.072,
@@ -281,7 +391,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🚧 #AVISO a las personas usuarias de la autopista #CuacnopalanOaxaca 🚧 Se habilita el paso alternado en ambos sentidos a la altura del km 19+535. Maneje con precaución y reduzca la velocidad al aproximarse a la zona. 🚗⚠️ #CAPUFEInforma",
+      "title": "🚧 #AVISO a las personas usuarias de la autopista #CuacnopalanOaxaca 🚧 Se habilita el paso alternado en ambos sentidos a la altura del km 19+535. Maneje con precaución y reduzca la velocidad al aproximarse a la zona. 🚗⚠️ #CAPUFEInforma",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
@@ -404,19 +514,6 @@
       ]
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos. El personal de CAPUFE se encuentra realizando las labores de atención del incidente. Se sugiere a la ciudadanía tomar las siguientes vías alternas hacia la carretera libre: ➡️ Dirección Oaxaca: a la altura del km 181 de la Autopista Acatzingo - Cd. Mendoza, en el Poblado de Tecamachalco. ➡️ Dirección Tehuacán: a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Cualquier novedad se dará a conocer a través de este medio y en el 0️⃣7️⃣4️⃣. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070558646161846279#m",
-      "timestamp": "2026-06-26T17:23:45+00:00",
-      "timestamp_display": "26/06/2026 11:23 CST",
-      "segment": null
-    },
-    {
       "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -467,74 +564,6 @@
       "timestamp": "2026-06-26T16:47:03+00:00",
       "timestamp_display": "26/06/2026 10:47 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Isla, km 126, dirección Isla. Reducción de carriles por atención de incidente (camioneta con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 126,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070536416556159084#m",
-      "timestamp": "2026-06-26T15:55:25+00:00",
-      "timestamp_display": "26/06/2026 09:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 60, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070532305697775836#m",
-      "timestamp": "2026-06-26T15:39:04+00:00",
-      "timestamp_display": "26/06/2026 09:39 CST",
-      "segment": null
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ La velocidad también es una decisión que protege vidas. 👉 Modérala y continúa tu camino con tranquilidad. 🚗 Si necesitas auxilio vial, llama al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070522485179634101#m",
-      "timestamp": "2026-06-26T15:00:03+00:00",
-      "timestamp_display": "26/06/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070522106111000713#m",
-      "timestamp": "2026-06-26T14:58:33+00:00",
-      "timestamp_display": "26/06/2026 08:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070516035363520549#m",
-      "timestamp": "2026-06-26T14:34:25+00:00",
-      "timestamp_display": "26/06/2026 08:34 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
