@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-27T09:49:05.553148",
+  "last_update": "2026-06-27T10:42:40.177703",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones #Tabasco se registra cierre total de circulación por presencia de personas cerca del 017+000 de la carretera Villahermosa-Ciudad del Carmen. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070808177851945032#m",
+      "timestamp": "2026-06-27T09:55:18+00:00",
+      "timestamp_display": "27/06/2026 03:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones #Veracruz se registra cierre total de circulación por presencia de personas cerca del 014+000 de la carretera Coatzacoalcos -Salina Cruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070807364005941578#m",
+      "timestamp": "2026-06-27T09:52:03+00:00",
+      "timestamp_display": "27/06/2026 03:52 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Hidalgo tras presencia de personas cerca del Km 074+200 de la carretera Actopan-Ixmiquilpan con dirección Portezuelos Hgo. Maneje con precaución.",
       "type": "twitter",
@@ -245,32 +271,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2070534718580314379#m",
       "timestamp": "2026-06-26T15:48:40+00:00",
       "timestamp_display": "26/06/2026 09:48 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Sinaloa se registra presencia de personas en la entrada de acceso al Aeropuerto Culiacán, sin afectación a las actividades aéreas.",
-      "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070534448731295928#m",
-      "timestamp": "2026-06-26T15:47:35+00:00",
-      "timestamp_display": "26/06/2026 09:47 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera Tuxtepec - Ent. Palomares, Tramo Tuxtepec- Ent. Palomares. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070487637438222610#m",
-      "timestamp": "2026-06-26T12:41:35+00:00",
-      "timestamp_display": "26/06/2026 06:41 CST",
       "segment": null
     },
     {
