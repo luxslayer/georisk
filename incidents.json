@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-27T01:43:14.841856",
+  "last_update": "2026-06-27T02:45:06.938536",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Queretaro se registra cierre parcial de circulación por #AccidenteVial cerca del Km 011+500 de la carretera Querétaro-León con dirección Apaseo el Alto Gto. Atienda indicación vial.",
@@ -274,6 +274,48 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.815133487698663,
+      "lng": -96.67460265649935,
+      "road": 150,
+      "km": 26,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070691850109829320#m",
+      "timestamp": "2026-06-27T02:13:03+00:00",
+      "timestamp_display": "26/06/2026 20:13 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070691002327732380#m",
+      "timestamp": "2026-06-27T02:09:41+00:00",
+      "timestamp_display": "26/06/2026 20:09 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 19. Se informa a las personas usuarias que el incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070690788430729267#m",
+      "timestamp": "2026-06-27T02:08:50+00:00",
+      "timestamp_display": "26/06/2026 20:08 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -516,35 +558,6 @@
       "segment": [
         "acayucan",
         "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 165, dirección Navojoa. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 165,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070626790268149801#m",
-      "timestamp": "2026-06-26T21:54:31+00:00",
-      "timestamp_display": "26/06/2026 15:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Marcos. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070624253007773959#m",
-      "timestamp": "2026-06-26T21:44:26+00:00",
-      "timestamp_display": "26/06/2026 15:44 CST",
-      "segment": [
-        "mexico",
-        "puebla"
       ]
     }
   ]
