@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-06-27T22:50:53.718340",
+  "last_update": "2026-06-27T23:25:44.577245",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Veracruz tras cierre total de circulación, por presencia de personas, cerca del km 014+000 de la carretera Coatzacoalcos-Salina Cruz. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 14.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071006588547051556#m",
+      "timestamp": "2026-06-27T23:03:42+00:00",
+      "timestamp_display": "27/06/2026 17:03 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Puebla continua cierre parcial de circulación tras labores de limpieza por deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca, con dirección Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071005169228132864#m",
+      "timestamp": "2026-06-27T22:58:04+00:00",
+      "timestamp_display": "27/06/2026 16:58 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Puebla continua cierre parcial de circulación por labores de limpieza tras deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca, con dirección Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071004411438973376#m",
+      "timestamp": "2026-06-27T22:55:03+00:00",
+      "timestamp_display": "27/06/2026 16:55 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones #Oaxaca se registra cierre total de circulación por presencia de personas cerca del 294+400 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
       "type": "twitter",
@@ -226,45 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 281+000 de la carretera Córdoba-Ent. La Boticaria, con dirección Puebla. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 230, dirección La Carbonera. Cierre a la circulación por atención de accidente (incendio de tracto camión). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070893178513768685#m",
-      "timestamp": "2026-06-27T15:33:03+00:00",
-      "timestamp_display": "27/06/2026 09:33 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 141+900 de la carretera Zacatecas - Durango, a la altura de la localidad Felipe Carrillo Puerto, Zac. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 24.03,
-      "lng": -104.67,
+      "lat": 25.1685,
+      "lng": -100.7189,
       "road": null,
-      "km": null,
+      "km": 230,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070891207656345736#m",
-      "timestamp": "2026-06-27T15:25:13+00:00",
-      "timestamp_display": "27/06/2026 09:25 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 031+500 de la carretera Manzanillo - Ent. Barra de Navidad. a inmediaciones de la localidad Los Robles, Mpio. de Manzanillo, Col. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070888359484899434#m",
-      "timestamp": "2026-06-27T15:13:54+00:00",
-      "timestamp_display": "27/06/2026 09:13 CST",
+      "url": "https://nitter.net/CAPUFE/status/2071006815798665319#m",
+      "timestamp": "2026-06-27T23:04:36+00:00",
+      "timestamp_display": "27/06/2026 17:04 CST",
       "segment": null
     },
     {
@@ -521,19 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2070952617807671753#m",
       "timestamp": "2026-06-27T19:29:15+00:00",
       "timestamp_display": "27/06/2026 13:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia y #granizo del km 31 al 38. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 31,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070946643881455619#m",
-      "timestamp": "2026-06-27T19:05:30+00:00",
-      "timestamp_display": "27/06/2026 13:05 CST",
       "segment": null
     }
   ]
