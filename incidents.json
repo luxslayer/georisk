@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-27T18:41:18.040555",
+  "last_update": "2026-06-27T19:12:11.762264",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #EdoMéx tras accidente cerca del km. 154+500 de la carretera Libramiento Arco Norte de la Ciudad, con dirección Pachuca, Hgo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.11,
+      "lng": -98.73,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070942452068839852#m",
+      "timestamp": "2026-06-27T18:48:51+00:00",
+      "timestamp_display": "27/06/2026 12:48 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #EdoMex continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -54,19 +67,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMex continua cierre total en ambos sentidos de circulación por #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.5851,
-      "lng": -98.5654,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070913146181537989#m",
-      "timestamp": "2026-06-27T16:52:24+00:00",
-      "timestamp_display": "27/06/2026 10:52 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Carretera Ecatepec - Tulancingo, maneje con precaución.",
       "type": "twitter",
       "lat": 20.0529,
@@ -75,6 +75,19 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070913148140298249#m",
+      "timestamp": "2026-06-27T16:52:24+00:00",
+      "timestamp_display": "27/06/2026 10:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMex continua cierre total en ambos sentidos de circulación por #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.5851,
+      "lng": -98.5654,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070913146181537989#m",
       "timestamp": "2026-06-27T16:52:24+00:00",
       "timestamp_display": "27/06/2026 10:52 CST",
       "segment": null
@@ -258,29 +271,16 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones #Veracruz se registra cierre total de circulación por presencia de personas cerca del 014+000 de la carretera Coatzacoalcos -Salina Cruz. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia y #granizo del km 31 al 38. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": null,
+      "km": 31,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070807364005941578#m",
-      "timestamp": "2026-06-27T09:52:03+00:00",
-      "timestamp_display": "27/06/2026 03:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 43, dirección CDMX. Continúa reducción de carriles por atención de choque por alcance entre tracto camión y autobús. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/f6bY1bwnptTwkopE6",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 43,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070914302320554103#m",
-      "timestamp": "2026-06-27T16:57:00+00:00",
-      "timestamp_display": "27/06/2026 10:57 CST",
+      "url": "https://nitter.net/CAPUFE/status/2070946643881455619#m",
+      "timestamp": "2026-06-27T19:05:30+00:00",
+      "timestamp_display": "27/06/2026 13:05 CST",
       "segment": null
     },
     {
@@ -423,6 +423,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 43, dirección CDMX. Continúa reducción de carriles por atención de choque por alcance entre tracto camión y autobús. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/f6bY1bwnptTwkopE6",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 43,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070914302320554103#m",
+      "timestamp": "2026-06-27T16:57:00+00:00",
+      "timestamp_display": "27/06/2026 10:57 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 244, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -531,22 +544,6 @@
       "timestamp": "2026-06-27T15:23:39+00:00",
       "timestamp_display": "27/06/2026 09:23 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.815133487698663,
-      "lng": -96.67460265649935,
-      "road": 150,
-      "km": 26,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070886373058302003#m",
-      "timestamp": "2026-06-27T15:06:01+00:00",
-      "timestamp_display": "27/06/2026 09:06 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
