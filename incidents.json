@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-27T21:51:21.837600",
+  "last_update": "2026-06-27T22:26:12.374616",
   "incidents": [
+    {
+      "title": "En #Veracruz se registra cierre total de circulación tras presencia de personas cerca del 014+000 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070996274141143275#m",
+      "timestamp": "2026-06-27T22:22:43+00:00",
+      "timestamp_display": "27/06/2026 16:22 CST",
+      "segment": null
+    },
     {
       "title": "#Tomesuspreucaciones en #EdoMex continua cierre parcial de circulación tras #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -258,16 +271,58 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 004+400 de la carretera Gonzáles - Llera de Canales, con dirección a González, Tamps. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070996951680573938#m",
+      "timestamp": "2026-06-27T22:25:25+00:00",
+      "timestamp_display": "27/06/2026 16:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 286,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070996825943707891#m",
+      "timestamp": "2026-06-27T22:24:55+00:00",
+      "timestamp_display": "27/06/2026 16:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz, registra #lluvia intensa a la altura de la Plaza de Cobro Paso del Toro. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070995687093784690#m",
+      "timestamp": "2026-06-27T22:20:23+00:00",
+      "timestamp_display": "27/06/2026 16:20 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 9, dirección La Pera. Registra cierre a la circulación en la gaza de salida al poblado de Tepoztlán, por atención de accidente (salida del camino). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 9,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070872816598077816#m",
-      "timestamp": "2026-06-27T14:12:09+00:00",
-      "timestamp_display": "27/06/2026 08:12 CST",
+      "url": "https://nitter.net/CAPUFE/status/2070994378999382207#m",
+      "timestamp": "2026-06-27T22:15:11+00:00",
+      "timestamp_display": "27/06/2026 16:15 CST",
       "segment": null
     },
     {
@@ -501,61 +556,6 @@
       "segment": [
         "mexico",
         "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070924691649249549#m",
-      "timestamp": "2026-06-27T17:38:17+00:00",
-      "timestamp_display": "27/06/2026 11:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070924266283942284#m",
-      "timestamp": "2026-06-27T17:36:35+00:00",
-      "timestamp_display": "27/06/2026 11:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias del #LibramientoCuernavaca 🚧 Del 29 de junio al 2 de julio habrá cierres nocturnos por trabajos en el Viaducto Palmira. Anticipe su traslado y maneje con precaución. 🚗⚠️ #CAPUFEInforma",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070924202937299022#m",
-      "timestamp": "2026-06-27T17:36:20+00:00",
-      "timestamp_display": "27/06/2026 11:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 40. El incidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.0029507,
-      "lng": -94.5949982,
-      "road": 145,
-      "km": 40,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070922660763009145#m",
-      "timestamp": "2026-06-27T17:30:12+00:00",
-      "timestamp_display": "27/06/2026 11:30 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
       ]
     }
   ]
