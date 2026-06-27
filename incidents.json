@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-27T14:39:23.310888",
+  "last_update": "2026-06-27T15:10:54.997780",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 012+000 de la carretera Córdoba - Ent. La Boticaria, con dirección Cuitláhuac. Atienda indicación vial.",
@@ -277,6 +277,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.815133487698663,
+      "lng": -96.67460265649935,
+      "road": 150,
+      "km": 26,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070886373058302003#m",
+      "timestamp": "2026-06-27T15:06:01+00:00",
+      "timestamp_display": "27/06/2026 09:06 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.8885,
@@ -537,19 +553,6 @@
         "queretaro",
         "san luis potosi"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 93, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado y caída de motociclista). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 93,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2070715487139271167#m",
-      "timestamp": "2026-06-27T03:46:58+00:00",
-      "timestamp_display": "26/06/2026 21:46 CST",
-      "segment": null
     }
   ]
 }
