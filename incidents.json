@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-27T13:56:46.698564",
+  "last_update": "2026-06-27T14:39:23.310888",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 012+000 de la carretera Córdoba - Ent. La Boticaria, con dirección Cuitláhuac. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.852973281521233,
+      "lng": -96.79983785257589,
+      "road": 150,
+      "km": 12.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070879288216125590#m",
+      "timestamp": "2026-06-27T14:37:52+00:00",
+      "timestamp_display": "27/06/2026 08:37 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 004+400 de la carretera Gonzáles - Llera de Canales, con dirección a González, Tamps. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070872816598077816#m",
+      "timestamp": "2026-06-27T14:12:09+00:00",
+      "timestamp_display": "27/06/2026 08:12 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones #Tabasco se registra cierre total de circulación por presencia de personas cerca del 017+000 de la carretera Villahermosa-Ciudad del Carmen. Atienda indicación vial.",
       "type": "twitter",
@@ -248,29 +277,45 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Sinaloa tras presencia de personas en la entrada de acceso al Aeropuerto Los Mochis.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070560794496864483#m",
-      "timestamp": "2026-06-26T17:32:17+00:00",
-      "timestamp_display": "26/06/2026 11:32 CST",
+      "km": 286,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070876996083601762#m",
+      "timestamp": "2026-06-27T14:28:45+00:00",
+      "timestamp_display": "27/06/2026 08:28 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Sinaloa se registra presencia de personas en la entrada de acceso al Aeropuerto Los Mochis, sin afectación a las actividades aéreas.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 39, dirección CDMX. Continúa reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 19.313022793196463,
+      "lng": -98.82413683783133,
+      "road": 150,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070875522091901012#m",
+      "timestamp": "2026-06-27T14:22:54+00:00",
+      "timestamp_display": "27/06/2026 08:22 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ Tu mejor decisión es respetar los límites. 👉 Baja la velocidad y disfruta el trayecto con seguridad. 🚗 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070534718580314379#m",
-      "timestamp": "2026-06-26T15:48:40+00:00",
-      "timestamp_display": "26/06/2026 09:48 CST",
+      "url": "https://nitter.net/CAPUFE/status/2070869760850432240#m",
+      "timestamp": "2026-06-27T14:00:00+00:00",
+      "timestamp_display": "27/06/2026 08:00 CST",
       "segment": null
     },
     {
@@ -504,32 +549,6 @@
       "url": "https://nitter.net/CAPUFE/status/2070715487139271167#m",
       "timestamp": "2026-06-27T03:46:58+00:00",
       "timestamp_display": "26/06/2026 21:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, continúa #lluvia a la altura de la Plaza de Cobro Tlalpan. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070705858737041584#m",
-      "timestamp": "2026-06-27T03:08:43+00:00",
-      "timestamp_display": "26/06/2026 21:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070704146613682210#m",
-      "timestamp": "2026-06-27T03:01:55+00:00",
-      "timestamp_display": "26/06/2026 21:01 CST",
       "segment": null
     }
   ]
