@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-27T06:44:07.454861",
+  "last_update": "2026-06-27T07:46:13.424762",
   "incidents": [
     {
       "title": "#ViaLibre en #Hidalgo tras presencia de personas cerca del Km 074+200 de la carretera Actopan-Ixmiquilpan con dirección Portezuelos Hgo. Maneje con precaución.",
@@ -274,6 +274,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección La Pera. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070772783521403363#m",
+      "timestamp": "2026-06-27T07:34:39+00:00",
+      "timestamp_display": "27/06/2026 01:34 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección La Pera. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -521,19 +534,6 @@
         "queretaro",
         "san luis potosi"
       ]
-    },
-    {
-      "title": "🚫⚽#RedCardOnHumanTrafficking Get informed, recognize the warning signs, and help prevent it. 📢 Report it!",
-      "type": "twitter",
-      "lat": 20.88,
-      "lng": -89.62,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070673475677942106#m",
-      "timestamp": "2026-06-27T01:00:02+00:00",
-      "timestamp_display": "26/06/2026 19:00 CST",
-      "segment": null
     }
   ]
 }
