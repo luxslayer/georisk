@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-27T17:39:07.817173",
+  "last_update": "2026-06-27T18:08:44.984181",
   "incidents": [
+    {
+      "title": "#PrecauciónVial en #Aguascalientes continua cierre parcial de circulación tras #AccidenteVial cerca del km. 008+900 de la carretera Libramiento Sur de Aguascalientes, con dirección a Peñuelas, Ags. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.8841,
+      "lng": -102.2918,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070930305205080462#m",
+      "timestamp": "2026-06-27T18:00:35+00:00",
+      "timestamp_display": "27/06/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomesuspreucaciones en #Veracruz continua cierre parcial de circulación por caída de cable de alta tensión, cerca del km. 039+100 de la carretera Ent. La Tinaja-Cosoleacaque con dirección a Coatzacoalcos, Ver. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2070927507809882480#m",
+      "timestamp": "2026-06-27T17:49:28+00:00",
+      "timestamp_display": "27/06/2026 11:49 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Oaxaca tras accidente cerca del km. 294+500 de la carretera Coatzacoalcos-Salina Cruz, con dirección a Salina Cruz, Oax. Maneje con precaución.",
       "type": "twitter",
@@ -245,30 +271,20 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación tras presencia de personas cerca del Km 074+200 de la carretera Actopan-Ixmiquilpan con dirección Portezuelos Hgo. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 39, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 74.2,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070747518481134075#m",
-      "timestamp": "2026-06-27T05:54:15+00:00",
-      "timestamp_display": "26/06/2026 23:54 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por labores de limpieza tras deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca, con dirección Oaxaca. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070738666683523428#m",
-      "timestamp": "2026-06-27T05:19:05+00:00",
-      "timestamp_display": "26/06/2026 23:19 CST",
-      "segment": null
+      "lat": 19.313022793196463,
+      "lng": -98.82413683783133,
+      "road": 150,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2070930127505031332#m",
+      "timestamp": "2026-06-27T17:59:53+00:00",
+      "timestamp_display": "27/06/2026 11:59 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -518,32 +534,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "Pinned: Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ Tu mejor decisión es respetar los límites. 👉 Baja la velocidad y disfruta el trayecto con seguridad. 🚗 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070869760850432240#m",
-      "timestamp": "2026-06-27T14:00:00+00:00",
-      "timestamp_display": "27/06/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070866908329468211#m",
-      "timestamp": "2026-06-27T13:48:40+00:00",
-      "timestamp_display": "27/06/2026 07:48 CST",
-      "segment": null
     }
   ]
 }
