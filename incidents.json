@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-27T13:12:26.697914",
+  "last_update": "2026-06-27T13:56:46.698564",
   "incidents": [
     {
       "title": "#Tomeprecauciones #Tabasco se registra cierre total de circulación por presencia de personas cerca del 017+000 de la carretera Villahermosa-Ciudad del Carmen. Atienda indicación vial.",
@@ -274,6 +274,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2070866908329468211#m",
+      "timestamp": "2026-06-27T13:48:40+00:00",
+      "timestamp_display": "27/06/2026 07:48 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 39, dirección CDMX. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
       "type": "twitter",
       "lat": 19.313022793196463,
@@ -518,22 +531,6 @@
       "timestamp": "2026-06-27T03:01:55+00:00",
       "timestamp_display": "26/06/2026 21:01 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 26, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.815133487698663,
-      "lng": -96.67460265649935,
-      "road": 150,
-      "km": 26,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2070691850109829320#m",
-      "timestamp": "2026-06-27T02:13:03+00:00",
-      "timestamp_display": "26/06/2026 20:13 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
