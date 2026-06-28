@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-28T22:25:19.655785",
+  "last_update": "2026-06-28T22:49:46.253367",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 036+000 de la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071364749099495846#m",
+      "timestamp": "2026-06-28T22:46:54+00:00",
+      "timestamp_display": "28/06/2026 16:46 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Puebla continua cierre parcial de circulación tras labores de limpieza ocasionado por deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan-Oaxaca, con dirección Oaxaca. Maneje con precaución.",
       "type": "twitter",
@@ -248,16 +261,29 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones #Oaxaca se registra cierre total de circulación por presencia de personas cerca del 294+400 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 143, dirección Acatzingo. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 143,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071361342632612260#m",
+      "timestamp": "2026-06-28T22:33:22+00:00",
+      "timestamp_display": "28/06/2026 16:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Puebla - Acatzingo, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070997364802715842#m",
-      "timestamp": "2026-06-27T22:27:03+00:00",
-      "timestamp_display": "27/06/2026 16:27 CST",
+      "url": "https://nitter.net/CAPUFE/status/2071359753993809922#m",
+      "timestamp": "2026-06-28T22:27:04+00:00",
+      "timestamp_display": "28/06/2026 16:27 CST",
       "segment": null
     },
     {
@@ -498,35 +524,6 @@
       "timestamp": "2026-06-28T17:54:41+00:00",
       "timestamp_display": "28/06/2026 11:54 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 16, dirección La Pera. Continúa reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071290898973859892#m",
-      "timestamp": "2026-06-28T17:53:27+00:00",
-      "timestamp_display": "28/06/2026 11:53 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Se sugiere a la ciudadanía tomar las siguientes vías alternas: ➡ Dir. CDMX, desvío hacia la Autopista Arco Norte a la altura del km 92. ➡ Dir. Puebla, desvío hacia el Libramiento Amecameca - Nepantla a la altura del km 32. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras y al 0️⃣7️⃣4️⃣. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 19.282409700124656,
-      "lng": -98.45193857164863,
-      "road": 150,
-      "km": 71,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071290302652948605#m",
-      "timestamp": "2026-06-28T17:51:05+00:00",
-      "timestamp_display": "28/06/2026 11:51 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
