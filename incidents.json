@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-28T06:31:04.750461",
+  "last_update": "2026-06-28T07:59:32.264263",
   "incidents": [
     {
       "title": "En #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del 294+400 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
@@ -184,19 +184,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMex continua cierre total en ambos sentidos de circulación por #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.5851,
-      "lng": -98.5654,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070913146181537989#m",
-      "timestamp": "2026-06-27T16:52:24+00:00",
-      "timestamp_display": "27/06/2026 10:52 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Carretera Ecatepec - Tulancingo, maneje con precaución.",
       "type": "twitter",
       "lat": 20.0529,
@@ -205,6 +192,19 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070913148140298249#m",
+      "timestamp": "2026-06-27T16:52:24+00:00",
+      "timestamp_display": "27/06/2026 10:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMex continua cierre total en ambos sentidos de circulación por #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.5851,
+      "lng": -98.5654,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070913146181537989#m",
       "timestamp": "2026-06-27T16:52:24+00:00",
       "timestamp_display": "27/06/2026 10:52 CST",
       "segment": null
@@ -259,6 +259,45 @@
       "url": "https://nitter.net/GN_Carreteras/status/2070900294678974541#m",
       "timestamp": "2026-06-27T16:01:20+00:00",
       "timestamp_display": "27/06/2026 10:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071135718177444346#m",
+      "timestamp": "2026-06-28T07:36:49+00:00",
+      "timestamp_display": "28/06/2026 01:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Isla - Cosoleacaque, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071124392763858998#m",
+      "timestamp": "2026-06-28T06:51:49+00:00",
+      "timestamp_display": "28/06/2026 00:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071120421773017271#m",
+      "timestamp": "2026-06-28T06:36:02+00:00",
+      "timestamp_display": "28/06/2026 00:36 CST",
       "segment": null
     },
     {
@@ -483,45 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071051525422559338#m",
       "timestamp": "2026-06-28T02:02:16+00:00",
       "timestamp_display": "27/06/2026 20:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Carretera Cd. Alemán - Tuxtepec, Plaza de Cobro Puente El Caracol. Registra carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071051240599876075#m",
-      "timestamp": "2026-06-28T02:01:08+00:00",
-      "timestamp_display": "27/06/2026 20:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Navojoa - Cd. Obregón, km 209, dirección Cd. Obregón. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 209,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071046724576014615#m",
-      "timestamp": "2026-06-28T01:43:11+00:00",
-      "timestamp_display": "27/06/2026 19:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 53, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 53,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071045659478651027#m",
-      "timestamp": "2026-06-28T01:38:58+00:00",
-      "timestamp_display": "27/06/2026 19:38 CST",
       "segment": null
     }
   ]
