@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-28T11:01:33.807961",
+  "last_update": "2026-06-28T11:52:58.236072",
   "incidents": [
     {
       "title": "#Tomesuspreucacion en #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del 294+400 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
@@ -262,6 +262,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 194, dirección Cd. Obregón. Reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 194,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071188828669227383#m",
+      "timestamp": "2026-06-28T11:07:52+00:00",
+      "timestamp_display": "28/06/2026 05:07 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -509,19 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071053077432373510#m",
       "timestamp": "2026-06-28T02:08:26+00:00",
       "timestamp_display": "27/06/2026 20:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 0, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071051525422559338#m",
-      "timestamp": "2026-06-28T02:02:16+00:00",
-      "timestamp_display": "27/06/2026 20:02 CST",
       "segment": null
     }
   ]
