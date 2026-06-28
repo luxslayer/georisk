@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-28T19:46:39.467342",
+  "last_update": "2026-06-28T20:29:59.443504",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #BCS tras accidente cerca del km. 032+050 de la carretera Cabo San Lucas-La Paz, a la altura de la Localidad San Jose del Cabo, B.C.S. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071329015705620762#m",
+      "timestamp": "2026-06-28T20:24:55+00:00",
+      "timestamp_display": "28/06/2026 14:24 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 017+100 de la carretera Libramiento de Xalapa , con dirección a Veracruz. Maneje con precaución.",
       "type": "twitter",
@@ -232,6 +245,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Cuchilla - Matamoros, km 22, dirección Matamoros. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071325489612898767#m",
+      "timestamp": "2026-06-28T20:10:54+00:00",
+      "timestamp_display": "28/06/2026 14:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 16, dirección La Pera. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 16,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071323519674368181#m",
+      "timestamp": "2026-06-28T20:03:05+00:00",
+      "timestamp_display": "28/06/2026 14:03 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 28, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.811254171324467,
@@ -245,6 +284,38 @@
       "segment": [
         "cordoba",
         "veracruz"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 89, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ZACK5RUv8pV2foq46",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071254443945873526#m",
+      "timestamp": "2026-06-28T15:28:36+00:00",
+      "timestamp_display": "28/06/2026 09:28 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071299733054804432#m",
+      "timestamp": "2026-06-28T18:28:33+00:00",
+      "timestamp_display": "28/06/2026 12:28 CST",
+      "segment": [
+        "mexico",
+        "puebla"
       ]
     },
     {
@@ -264,7 +335,7 @@
       ]
     },
     {
-      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 16, dirección La Pera. Cierre a la circulación por atención de accidente (servicios periciales). 🔘 Se desvía la vialidad hacia la carretera libre a la altura de la Plaza de Cobro Oacalco. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 16, dirección La Pera. Cierre a la circulación por atención de accidente (servicios periciales). 🔘 Se desvía la vialidad hacia la carretera libre a la altura de la Plaza de Cobro Oacalco. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
@@ -275,22 +346,6 @@
       "timestamp": "2026-06-28T18:33:07+00:00",
       "timestamp_display": "28/06/2026 12:33 CST",
       "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.282409700124656,
-      "lng": -98.45193857164863,
-      "road": 150,
-      "km": 71,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071299733054804432#m",
-      "timestamp": "2026-06-28T18:28:33+00:00",
-      "timestamp_display": "28/06/2026 12:28 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 103, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -372,22 +427,6 @@
       "timestamp": "2026-06-28T17:53:27+00:00",
       "timestamp_display": "28/06/2026 11:53 CST",
       "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por presencia de manifestantes. Se sugiere a la ciudadanía tomar las siguientes vías alternas: ➡ Dir. CDMX, desvío hacia la Autopista Arco Norte a la altura del km 92. ➡ Dir. Puebla, desvío hacia el Libramiento Amecameca - Nepantla a la altura del km 32. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras y al 0️⃣7️⃣4️⃣. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 19.282409700124656,
-      "lng": -98.45193857164863,
-      "road": 150,
-      "km": 71,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071290302652948605#m",
-      "timestamp": "2026-06-28T17:51:05+00:00",
-      "timestamp_display": "28/06/2026 11:51 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -482,35 +521,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 23, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.93047039481086,
-      "lng": -94.72428020345104,
-      "road": 145,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071273310227177901#m",
-      "timestamp": "2026-06-28T16:43:34+00:00",
-      "timestamp_display": "28/06/2026 10:43 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071264418508247088#m",
-      "timestamp": "2026-06-28T16:08:14+00:00",
-      "timestamp_display": "28/06/2026 10:08 CST",
-      "segment": null
     }
   ]
 }
