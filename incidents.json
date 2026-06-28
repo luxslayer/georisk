@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-28T16:15:23.350918",
+  "last_update": "2026-06-28T16:50:54.783068",
   "incidents": [
     {
       "title": "#PreucaciónVial en #Puebla se registra cierre total de la circulación tras presencia de personas cerca del 089+000 de la carretera México-Puebla. Atienda indicación vial.",
@@ -268,6 +268,38 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 34, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.976249306132775,
+      "lng": -94.63375057321109,
+      "road": 145,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071274422099493019#m",
+      "timestamp": "2026-06-28T16:47:59+00:00",
+      "timestamp_display": "28/06/2026 10:47 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 23, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.93047039481086,
+      "lng": -94.72428020345104,
+      "road": 145,
+      "km": 23,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071273310227177901#m",
+      "timestamp": "2026-06-28T16:43:34+00:00",
+      "timestamp_display": "28/06/2026 10:43 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -509,38 +541,6 @@
       "timestamp": "2026-06-28T13:37:55+00:00",
       "timestamp_display": "28/06/2026 07:37 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 34, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra muro central y por alcance entre tracto camiones). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.976249306132775,
-      "lng": -94.63375057321109,
-      "road": 145,
-      "km": 34,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071225857226510633#m",
-      "timestamp": "2026-06-28T13:35:00+00:00",
-      "timestamp_display": "28/06/2026 07:35 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 23, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.93047039481086,
-      "lng": -94.72428020345104,
-      "road": 145,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071225365117468939#m",
-      "timestamp": "2026-06-28T13:33:03+00:00",
-      "timestamp_display": "28/06/2026 07:33 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
