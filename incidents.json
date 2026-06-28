@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-06-28T09:14:32.646586",
+  "last_update": "2026-06-28T10:13:34.347095",
   "incidents": [
+    {
+      "title": "#Tomesuspreucacion en #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del 294+400 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071168461305176422#m",
+      "timestamp": "2026-06-28T09:46:56+00:00",
+      "timestamp_display": "28/06/2026 03:46 CST",
+      "segment": null
+    },
     {
       "title": "En #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del 294+400 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
       "type": "twitter",
@@ -184,19 +197,6 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMex continua cierre total en ambos sentidos de circulación por #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.5851,
-      "lng": -98.5654,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070913146181537989#m",
-      "timestamp": "2026-06-27T16:52:24+00:00",
-      "timestamp_display": "27/06/2026 10:52 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en Carretera Ecatepec - Tulancingo, maneje con precaución.",
       "type": "twitter",
       "lat": 20.0529,
@@ -205,6 +205,19 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2070913148140298249#m",
+      "timestamp": "2026-06-27T16:52:24+00:00",
+      "timestamp_display": "27/06/2026 10:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMex continua cierre total en ambos sentidos de circulación por #AccidenteVial cerca del km. 002+500 de la carretera Texcoco-Calpulalpan, a la altura de la Hacienda la Flor, Edo. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.5851,
+      "lng": -98.5654,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2070913146181537989#m",
       "timestamp": "2026-06-27T16:52:24+00:00",
       "timestamp_display": "27/06/2026 10:52 CST",
       "segment": null
@@ -246,19 +259,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2070902550077788232#m",
       "timestamp": "2026-06-27T16:10:18+00:00",
       "timestamp_display": "27/06/2026 10:10 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMex continua cierre parcial de circulación por #AccidenteVial cerca del km. 154+500 de la carretera Libramiento Arco Norte de la Ciudad, con dirección Pachuca, Hgo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070900294678974541#m",
-      "timestamp": "2026-06-27T16:01:20+00:00",
-      "timestamp_display": "27/06/2026 10:01 CST",
       "segment": null
     },
     {
