@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-28T13:11:48.379228",
+  "last_update": "2026-06-28T13:56:11.175832",
   "incidents": [
     {
       "title": "#Tomesuspreucacion en #Oaxaca se registra cierre total de circulación tras presencia de personas cerca del 294+400 de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
@@ -262,6 +262,64 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 38, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 38,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071227996237627811#m",
+      "timestamp": "2026-06-28T13:43:30+00:00",
+      "timestamp_display": "28/06/2026 07:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 103, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de tracto camión y caída de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 103,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071226591921791011#m",
+      "timestamp": "2026-06-28T13:37:55+00:00",
+      "timestamp_display": "28/06/2026 07:37 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 34, dirección Acayucan. Reducción de carriles por atención de accidente (choque contra muro central y por alcance entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.976249306132775,
+      "lng": -94.63375057321109,
+      "road": 145,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071225857226510633#m",
+      "timestamp": "2026-06-28T13:35:00+00:00",
+      "timestamp_display": "28/06/2026 07:35 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 23, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.93047039481086,
+      "lng": -94.72428020345104,
+      "road": 145,
+      "km": 23,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071225365117468939#m",
+      "timestamp": "2026-06-28T13:33:03+00:00",
+      "timestamp_display": "28/06/2026 07:33 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 176. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
       "type": "twitter",
       "lat": 29.07,
@@ -467,61 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071065670939206038#m",
       "timestamp": "2026-06-28T02:58:29+00:00",
       "timestamp_display": "27/06/2026 20:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 251, dirección Acatzingo. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 251,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071064219743621588#m",
-      "timestamp": "2026-06-28T02:52:43+00:00",
-      "timestamp_display": "27/06/2026 20:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071057873644216503#m",
-      "timestamp": "2026-06-28T02:27:30+00:00",
-      "timestamp_display": "27/06/2026 20:27 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Mendoza - Córdoba, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071057383447474615#m",
-      "timestamp": "2026-06-28T02:25:33+00:00",
-      "timestamp_display": "27/06/2026 20:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 251, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 251,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071055587836633419#m",
-      "timestamp": "2026-06-28T02:18:25+00:00",
-      "timestamp_display": "27/06/2026 20:18 CST",
       "segment": null
     }
   ]
