@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-28T15:44:22.129930",
+  "last_update": "2026-06-28T16:15:23.350918",
   "incidents": [
+    {
+      "title": "#PreucaciónVial en #Puebla se registra cierre total de la circulación tras presencia de personas cerca del 089+000 de la carretera México-Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071265856345034762#m",
+      "timestamp": "2026-06-28T16:13:57+00:00",
+      "timestamp_display": "28/06/2026 10:13 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#PreucaciónVial en #Oaxaca se registra cierre intermitente de la circulación tras presencia de personas cerca del 220+000 de la carretera Cuacnopalan-Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071265025109442714#m",
+      "timestamp": "2026-06-28T16:10:38+00:00",
+      "timestamp_display": "28/06/2026 10:10 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Sonora continua cierre total de la circulación tras accidente cerca del km. 083+200 de la carretera Sonoyta - San Luis Rio Colorado, a la altura del Puerto, Son. Atienda indicación vial.",
       "type": "twitter",
@@ -239,29 +268,42 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Tabasco tras retiro de personas cerca del 017+000 de la carretera Villahermosa-Ciudad del Carmen. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 25,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071264418508247088#m",
+      "timestamp": "2026-06-28T16:08:14+00:00",
+      "timestamp_display": "28/06/2026 10:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 103, dirección CDMX. Continúa reducción de carriles por atención de accidente (volcadura de tracto camión y caída de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 103,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071263299501494706#m",
+      "timestamp": "2026-06-28T16:03:47+00:00",
+      "timestamp_display": "28/06/2026 10:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 22, dirección Matamoros. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2070909939585867889#m",
-      "timestamp": "2026-06-27T16:39:39+00:00",
-      "timestamp_display": "27/06/2026 10:39 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Aguascalientes se registra cierre parcial de circulación por #AccidenteVial cerca del km. 088+900 de la carretera Libramiento Sur de Aguascalientes, con dirección Peñuelas, Ags. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": null,
-      "km": null,
+      "km": 22,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070907115355488433#m",
-      "timestamp": "2026-06-27T16:28:26+00:00",
-      "timestamp_display": "27/06/2026 10:28 CST",
+      "url": "https://nitter.net/CAPUFE/status/2071259968230097231#m",
+      "timestamp": "2026-06-28T15:50:33+00:00",
+      "timestamp_display": "28/06/2026 09:50 CST",
       "segment": null
     },
     {
@@ -499,45 +541,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 176. Reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 176,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071217258488017158#m",
-      "timestamp": "2026-06-28T13:00:50+00:00",
-      "timestamp_display": "28/06/2026 07:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Carretera Alvarado - Tlacotalpan, Puente Tlacotalpan, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071214527392178195#m",
-      "timestamp": "2026-06-28T12:49:59+00:00",
-      "timestamp_display": "28/06/2026 06:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. La Tinaja - Isla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071211684866232449#m",
-      "timestamp": "2026-06-28T12:38:41+00:00",
-      "timestamp_display": "28/06/2026 06:38 CST",
-      "segment": null
     }
   ]
 }
