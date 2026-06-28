@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-28T18:30:35.188037",
+  "last_update": "2026-06-28T19:10:40.028239",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Oaxaca tras cierre total de circulación, por presencia de personas, cerca del km. 220+000 de la carretera Cuacnopalan-Oaxaca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071306426950041835#m",
+      "timestamp": "2026-06-28T18:55:09+00:00",
+      "timestamp_display": "28/06/2026 12:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Puebla tras cierre total de circulación, por presencia de personas, cerca del km 089+000 de la carretera México-Puebla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071302886147990012#m",
+      "timestamp": "2026-06-28T18:41:05+00:00",
+      "timestamp_display": "28/06/2026 12:41 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #Deslave_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con direccion a Tehuantepec. Atienda indicación vial.",
       "type": "twitter",
@@ -190,16 +219,16 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #EdoMéx tras accidente cerca del km. 154+500 de la carretera Libramiento Arco Norte de la Ciudad, con dirección Pachuca, Hgo. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 16, dirección La Pera. Cierre a la circulación por atención de accidente (servicios periciales). 🔘 Se desvía la vialidad hacia la carretera libre a la altura de la Plaza de Cobro Oacalco. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 16,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2070942452068839852#m",
-      "timestamp": "2026-06-27T18:48:51+00:00",
-      "timestamp_display": "27/06/2026 12:48 CST",
+      "url": "https://nitter.net/CAPUFE/status/2071300880909869379#m",
+      "timestamp": "2026-06-28T18:33:07+00:00",
+      "timestamp_display": "28/06/2026 12:33 CST",
       "segment": null
     },
     {
@@ -463,22 +492,6 @@
       "timestamp": "2026-06-28T15:50:33+00:00",
       "timestamp_display": "28/06/2026 09:50 CST",
       "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 89. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 19.282409700124656,
-      "lng": -98.45193857164863,
-      "road": 150,
-      "km": 71,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071256664737542419#m",
-      "timestamp": "2026-06-28T15:37:25+00:00",
-      "timestamp_display": "28/06/2026 09:37 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
