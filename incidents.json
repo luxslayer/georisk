@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-28T21:27:03.877234",
+  "last_update": "2026-06-28T21:51:55.113064",
   "incidents": [
+    {
+      "title": "#PrecauciónVial en #Puebla continua cierre parcial de la circulación tras accidente cerca del km. 201+100 de la carretera Puebla-Cordoba. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071347846658363565#m",
+      "timestamp": "2026-06-28T21:39:45+00:00",
+      "timestamp_display": "28/06/2026 15:39 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#PrecauciónVial en #Michoacán continua cierre parcial de la circulación tras accidente cerca del km. 202+200 de la carretera Maravatío-Zapotlanejo, a la altura de la plaza de cobro Zinapécuaro, Mich. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": 15,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071345872567193800#m",
+      "timestamp": "2026-06-28T21:31:54+00:00",
+      "timestamp_display": "28/06/2026 15:31 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #BCS tras accidente cerca del km. 032+050 de la carretera Cabo San Lucas-La Paz, a la altura de la Localidad San Jose del Cabo, B.C.S. Maneje con precaución.",
       "type": "twitter",
