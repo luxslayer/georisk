@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-29T18:16:22.777324",
+  "last_update": "2026-06-29T19:12:47.867970",
   "incidents": [
     {
       "title": "#ViaLibre en #EdoMéx tras cierre parcial de circulación por presencia de personas, cerca del km. 023+300 de la carretera México - Querétaro, a la altura de la caseta de cobro No. 4 Tepotzotlán. Maneje con precaución.",
@@ -177,19 +177,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Vereda los Robles del poblado lo Robles. Maneje con precaución. |",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071618253131055178#m",
-      "timestamp": "2026-06-29T15:34:15+00:00",
-      "timestamp_display": "29/06/2026 09:34 CST",
-      "segment": null
-    },
-    {
       "title": "#EviteLaZona en #Veracruz se registra cierre total de circulación en ambos sentidos de circulación por presencia de personas, cerca del km. 003+500 de la carretera Paso del Toro - Acayucan, a la altura del Mpio. Paso del Toro. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.02,
@@ -199,6 +186,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2071618251138699430#m",
       "timestamp": "2026-06-29T15:34:14+00:00",
+      "timestamp_display": "29/06/2026 09:34 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Vereda los Robles del poblado lo Robles. Maneje con precaución. |",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071618253131055178#m",
+      "timestamp": "2026-06-29T15:34:15+00:00",
       "timestamp_display": "29/06/2026 09:34 CST",
       "segment": null
     },
@@ -216,19 +216,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en retorno con dirección a las Matas y por la caseta de cobro Allende. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071614497588924572#m",
-      "timestamp": "2026-06-29T15:19:19+00:00",
-      "timestamp_display": "29/06/2026 09:19 CST",
-      "segment": null
-    },
-    {
       "title": "#EviteLaZona en #Veracruz se registra cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 006+500 de la carretera Coatzacoalcos - Villahermosa, a la altura del crucero de Nanchital. Atienda indicación vial.",
       "type": "twitter",
       "lat": 19.1748,
@@ -237,6 +224,19 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2071614495512723715#m",
+      "timestamp": "2026-06-29T15:19:19+00:00",
+      "timestamp_display": "29/06/2026 09:19 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en retorno con dirección a las Matas y por la caseta de cobro Allende. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071614497588924572#m",
       "timestamp": "2026-06-29T15:19:19+00:00",
       "timestamp_display": "29/06/2026 09:19 CST",
       "segment": null
@@ -255,6 +255,19 @@
       "segment": null
     },
     {
+      "title": "#EviteLaZona en #Zacatecas continua cierre total en ambos sentidos de circulación por Incendio de vehículo, cerca del km. 075+000 de la carretera Aguascalientes-Zacatecas, a la altura de la localidad de Piedra Gorda, Zac. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.8841,
+      "lng": -102.2918,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071607287467159598#m",
+      "timestamp": "2026-06-29T14:50:40+00:00",
+      "timestamp_display": "29/06/2026 08:50 CST",
+      "segment": null
+    },
+    {
       "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera libre Rincón de Romos -Guadalupe. Maneje con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -265,6 +278,64 @@
       "url": "https://nitter.net/GN_Carreteras/status/2071607290281476176#m",
       "timestamp": "2026-06-29T14:50:41+00:00",
       "timestamp_display": "29/06/2026 08:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Circulación intermitente en la gaza de incorporación y salida a la Plaza de Cobro Bis Puente Antonio Dovalí Jaime, por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071668216561095115#m",
+      "timestamp": "2026-06-29T18:52:47+00:00",
+      "timestamp_display": "29/06/2026 12:52 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, del km 16 al 18. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071666858235687089#m",
+      "timestamp": "2026-06-29T18:47:23+00:00",
+      "timestamp_display": "29/06/2026 12:47 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071666426495041563#m",
+      "timestamp": "2026-06-29T18:45:40+00:00",
+      "timestamp_display": "29/06/2026 12:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuauhtémoc - Osiris, km 75. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Zacatecas, permanecerá cerrada en dirección Cuauhtémoc. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 75,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071665711047479405#m",
+      "timestamp": "2026-06-29T18:42:49+00:00",
+      "timestamp_display": "29/06/2026 12:42 CST",
       "segment": null
     },
     {
@@ -489,64 +560,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Marcos, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071613060897226976#m",
-      "timestamp": "2026-06-29T15:13:37+00:00",
-      "timestamp_display": "29/06/2026 09:13 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Querétaro - Irapuato, km 24, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071612236636827986#m",
-      "timestamp": "2026-06-29T15:10:20+00:00",
-      "timestamp_display": "29/06/2026 09:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Noreste de Querétaro, km 20, dirección San Luis Potosí. Reducción de carriles por labores de desmantelamiento de la Plaza de Cobro Chichimequillas. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.73804664167625,
-      "lng": -100.44308176551276,
-      "road": 57,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071612018478514553#m",
-      "timestamp": "2026-06-29T15:09:28+00:00",
-      "timestamp_display": "29/06/2026 09:09 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071611823225176080#m",
-      "timestamp": "2026-06-29T15:08:42+00:00",
-      "timestamp_display": "29/06/2026 09:08 CST",
-      "segment": null
     }
   ]
 }
