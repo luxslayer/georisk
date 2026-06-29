@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-29T23:07:59.793386",
+  "last_update": "2026-06-29T23:36:52.174922",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 206+800, de la carretera Maravatio-Zapotlanejo, a la altura del Mpio. San Nicolás Simirao, con dirección a San Bartolomé. Atienda indicación vial.",
@@ -277,6 +277,93 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 63, dirección Irapuato. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071739558597636522#m",
+      "timestamp": "2026-06-29T23:36:16+00:00",
+      "timestamp_display": "29/06/2026 17:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071738020726722919#m",
+      "timestamp": "2026-06-29T23:30:09+00:00",
+      "timestamp_display": "29/06/2026 17:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 41, dirección Veracruz. Continúa reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.78488248852856,
+      "lng": -96.53597064194156,
+      "road": 150,
+      "km": 41,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071737185204629693#m",
+      "timestamp": "2026-06-29T23:26:50+00:00",
+      "timestamp_display": "29/06/2026 17:26 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 16, dirección Cosoleacaque. Concluyen labores de mantenimiento en la gaza de incorporación y salida a la Plaza de Cobro Bis Puente Antonio Dovalí Jaime. Sin embargo, continúa la circulación en contraflujo del km 16 al 18, por labores de mantenimiento. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.013764470675966,
+      "lng": -94.44283904508849,
+      "road": 180,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071736927301287963#m",
+      "timestamp": "2026-06-29T23:25:49+00:00",
+      "timestamp_display": "29/06/2026 17:25 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. La incidencia ha sido atendida. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071735045832790410#m",
+      "timestamp": "2026-06-29T23:18:20+00:00",
+      "timestamp_display": "29/06/2026 17:18 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuauhtémoc - Osiris, km 75. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de las unidades siniestradas y labores de limpieza). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 75,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071733955485643056#m",
+      "timestamp": "2026-06-29T23:14:00+00:00",
+      "timestamp_display": "29/06/2026 17:14 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 268, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.8885,
@@ -460,90 +547,6 @@
       "timestamp": "2026-06-29T22:00:02+00:00",
       "timestamp_display": "29/06/2026 16:00 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 125,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715339449073935#m",
-      "timestamp": "2026-06-29T22:00:02+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Agua Dulce - Cárdenas, km 71, dirección Cárdenas. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 71,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715337092108719#m",
-      "timestamp": "2026-06-29T22:00:01+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Continúa circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715336542454139#m",
-      "timestamp": "2026-06-29T22:00:01+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715335628013890#m",
-      "timestamp": "2026-06-29T22:00:01+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Isla - Acayucan, km 160, dirección Isla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 160,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715334281703615#m",
-      "timestamp": "2026-06-29T22:00:00+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Nuevo Teapa - Cosoleacaque, del km 16 al 18. Continúa circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715331945771109#m",
-      "timestamp": "2026-06-29T22:00:00+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
