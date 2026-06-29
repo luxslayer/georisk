@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-29T19:58:18.436458",
+  "last_update": "2026-06-29T20:43:56.112457",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 002+100, de la carretera Amozoc-Perote, a inmediaciones del Mpio. de Amozoc, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 2.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071695346443399627#m",
+      "timestamp": "2026-06-29T20:40:35+00:00",
+      "timestamp_display": "29/06/2026 14:40 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #Accidentevial cerca del Km 095+000, de la carretera Cd. Valles-Tampico, a la altura del Mpio. Pánuco, con dirección a Pánuco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.997,
+      "lng": -99.01,
+      "road": null,
+      "km": 95.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071690174010966105#m",
+      "timestamp": "2026-06-29T20:20:02+00:00",
+      "timestamp_display": "29/06/2026 14:20 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #EdoMéx tras cierre parcial de circulación por presencia de personas, cerca del km. 023+300 de la carretera México - Querétaro, a la altura de la caseta de cobro No. 4 Tepotzotlán. Maneje con precaución.",
       "type": "twitter",
@@ -242,29 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 083+500 de la carretera San Hipólito - Xalapa. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 63, dirección Irapuato. Reducción de carriles por atención de accidente (desprendimiento de remolque tipo pipa). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": null,
+      "km": 63,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2071609605067624737#m",
-      "timestamp": "2026-06-29T14:59:53+00:00",
-      "timestamp_display": "29/06/2026 08:59 CST",
+      "url": "https://nitter.net/CAPUFE/status/2071691967117901922#m",
+      "timestamp": "2026-06-29T20:27:09+00:00",
+      "timestamp_display": "29/06/2026 14:27 CST",
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en carretera libre Rincón de Romos -Guadalupe. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 34, dirección CDMX. Registra carga vehicular por labores de mantenimiento en los carriles laterales (no a cargo de CAPUFE). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": null,
+      "km": 34,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071607290281476176#m",
-      "timestamp": "2026-06-29T14:50:41+00:00",
-      "timestamp_display": "29/06/2026 08:50 CST",
+      "url": "https://nitter.net/CAPUFE/status/2071685469419511831#m",
+      "timestamp": "2026-06-29T20:01:20+00:00",
+      "timestamp_display": "29/06/2026 14:01 CST",
       "segment": null
     },
     {
@@ -524,32 +550,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco, Plaza de Cobro Aeropuerto, dirección Acapulco. Cierre a la circulación por atención de accidente (incendio de automóvil). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071630479963386099#m",
-      "timestamp": "2026-06-29T16:22:50+00:00",
-      "timestamp_display": "29/06/2026 10:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Agua Dulce - Cárdenas, km 71, dirección Cárdenas. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 71,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071629180828057943#m",
-      "timestamp": "2026-06-29T16:17:40+00:00",
-      "timestamp_display": "29/06/2026 10:17 CST",
-      "segment": null
     }
   ]
 }
