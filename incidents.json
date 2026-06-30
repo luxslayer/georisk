@@ -1,6 +1,71 @@
 {
-  "last_update": "2026-06-30T18:11:27.590870",
+  "last_update": "2026-06-30T18:56:17.829094",
   "incidents": [
+    {
+      "title": "#Tomeprecaución en #Tamaulipas continúa cierre parcial de circulación por #AccidenteVial cerca del Km 006+600, de la carretera Altamira Puerto Industrial, a la altura de la localidad Puerto Industrial Altamira, Tamps. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 6.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072031319937188268#m",
+      "timestamp": "2026-06-30T18:55:37+00:00",
+      "timestamp_display": "30/06/2026 12:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecaución en #Michoacan continúa cierre parcial de circulación por #AccidenteVial cerca del Km 118+500, de la carretera Uruapan-Lázaro Cárdenas, con dirección a Lázaro Cardenas, Mich. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 118.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072029700952605016#m",
+      "timestamp": "2026-06-30T18:49:11+00:00",
+      "timestamp_display": "30/06/2026 12:49 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Colima se registra cierre parcial de la circulación tras presencia de personas, cerca del km 002+300, de la carretera Acalpican-Manzanillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 2.3,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2072028083893182625#m",
+      "timestamp": "2026-06-30T18:42:46+00:00",
+      "timestamp_display": "30/06/2026 12:42 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecaución en #Veracruz continúa cierre parcial de circulación por #AccidenteVial cerca del Km 116+450, de la carretera Xalapa-Puebla, con dirección a Xalapa, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.419204766898154,
+      "lng": -96.38733586538058,
+      "road": 180,
+      "km": 116.45,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072026945580110028#m",
+      "timestamp": "2026-06-30T18:38:14+00:00",
+      "timestamp_display": "30/06/2026 12:38 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Oaxaca continúa cierre intermitente de la circulación en ambos sentidos por presencia de personas, cerca del km 007+800, de la carretera Huajuapan de León-Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 7.8,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2072025396451615195#m",
+      "timestamp": "2026-06-30T18:32:05+00:00",
+      "timestamp_display": "30/06/2026 12:32 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 009+000, de la carretera Puebla - Tlaxcala, con dirección a Puebla. Atienda indicación vial.",
       "type": "twitter",
@@ -212,77 +277,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2071814671040929985#m",
       "timestamp": "2026-06-30T04:34:44+00:00",
       "timestamp_display": "29/06/2026 22:34 CST",
-      "segment": null
-    },
-    {
-      "title": "#EviteLaZona en #Veracruz se registra cierre total de circulación en ambos sentidos por presencia de personas, cerca del km 241+400, de la carretera Poza Rica-Veracruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 241.4,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071798234658332713#m",
-      "timestamp": "2026-06-30T03:29:25+00:00",
-      "timestamp_display": "29/06/2026 21:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#EviteLaZona en #Hidalgo se registra cierre total de circulación en ambos sentidos por presencia de personas, cerca del km 083+000, de la carretera Ent. Col-Cd. Valles, a la altura del Mpio. de Tasquillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.997,
-      "lng": -99.01,
-      "road": null,
-      "km": 83.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071793412722876494#m",
-      "timestamp": "2026-06-30T03:10:16+00:00",
-      "timestamp_display": "29/06/2026 21:10 CST",
-      "segment": null
-    },
-    {
-      "title": "#ViaLibre en #NuevoLeón tras cierre total de circulación por #AccidenteVial cerca del Km 047+100, de la carretera Saltillo-Monterrey, a la altura del poblado Rinconada. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 25.620626696158492,
-      "lng": -100.87764715192758,
-      "road": 40,
-      "km": 27.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2071777310768759198#m",
-      "timestamp": "2026-06-30T02:06:17+00:00",
-      "timestamp_display": "29/06/2026 20:06 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
-    },
-    {
-      "title": "#ViaLibre en #NuevoLeón tras cierre total de circulación por #AccidenteVial cerca del Km 041+900, de la carretera Saltillo-Monterrey, a la altura de la Col. Misión San Juan, con Dir. a Saltillo. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 25.60464655727509,
-      "lng": -100.92363197494149,
-      "road": 40,
-      "km": 21.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2071777096326578661#m",
-      "timestamp": "2026-06-30T02:05:26+00:00",
-      "timestamp_display": "29/06/2026 20:05 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
-    },
-    {
-      "title": "#ViaLibre en #Zacatecas tras cierre de circulación por #VehículoIncendiado cerca del km 075+000, de la carretera Aguascalientes-Zacatecas, a la altura de la localidad de Piedra Gorda, Zac. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": null,
-      "km": 75.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071776395970175088#m",
-      "timestamp": "2026-06-30T02:02:39+00:00",
-      "timestamp_display": "29/06/2026 20:02 CST",
       "segment": null
     },
     {
