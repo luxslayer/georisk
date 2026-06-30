@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-06-30T17:24:06.143249",
+  "last_update": "2026-06-30T18:11:27.590870",
   "incidents": [
+    {
+      "title": "#Tomeprecaución en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 009+000, de la carretera Puebla - Tlaxcala, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 9.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072012459246821807#m",
+      "timestamp": "2026-06-30T17:40:41+00:00",
+      "timestamp_display": "30/06/2026 11:40 CST",
+      "segment": null
+    },
+    {
+      "title": "#ViaLibre en #Puebla tras cierre de circulación por #AccidenteVial cerca del Km 231+600, de la ctra. Puebla-Córdoba. Maneje con precaución",
+      "type": "twitter",
+      "lat": 18.831416623443317,
+      "lng": -97.29535064234561,
+      "road": 150,
+      "km": 122.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072011752519131516#m",
+      "timestamp": "2026-06-30T17:37:52+00:00",
+      "timestamp_display": "30/06/2026 11:37 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#EviteLaZona en #Oaxaca se registra cierre total de circulación en ambos sentidos por presencia de personas, cerca del km 007+800, de la carretera Huajuapan de León - Oaxaca. Atienda indicación vial.",
       "type": "twitter",
@@ -257,29 +286,29 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Personal de carreteras proporciona acompañamiento y vialidad, con el fin de prevenir algún posible hecho de tránsito.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": null,
+      "km": 178,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071751723429900756#m",
-      "timestamp": "2026-06-30T00:24:36+00:00",
-      "timestamp_display": "29/06/2026 18:24 CST",
+      "url": "https://nitter.net/CAPUFE/status/2072020072671961379#m",
+      "timestamp": "2026-06-30T18:10:56+00:00",
+      "timestamp_display": "30/06/2026 12:10 CST",
       "segment": null
     },
     {
-      "title": "#AlMomento en #Chiapas se registra seguimiento a la caravana \"De la mano de Dios filipenses\", cerca del km 171+000, de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Ciudad Hidalgo. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 42, dirección Querétaro. Registra carga vehicular a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.3708,
-      "lng": -94.1936,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 171.0,
+      "km": 42,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071751721684972024#m",
-      "timestamp": "2026-06-30T00:24:36+00:00",
-      "timestamp_display": "29/06/2026 18:24 CST",
+      "url": "https://nitter.net/CAPUFE/status/2072017644694212852#m",
+      "timestamp": "2026-06-30T18:01:17+00:00",
+      "timestamp_display": "30/06/2026 12:01 CST",
       "segment": null
     },
     {
@@ -532,32 +561,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071982748995051585#m",
       "timestamp": "2026-06-30T15:42:37+00:00",
       "timestamp_display": "30/06/2026 09:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 156, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona continúa carga vehicular y #lluvia ligera. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 156,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071981636355285255#m",
-      "timestamp": "2026-06-30T15:38:12+00:00",
-      "timestamp_display": "30/06/2026 09:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 229, dirección Acatzingo. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 229,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071979543057862997#m",
-      "timestamp": "2026-06-30T15:29:53+00:00",
-      "timestamp_display": "30/06/2026 09:29 CST",
       "segment": null
     }
   ]
