@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-06-30T12:47:07.736826",
+  "last_update": "2026-06-30T13:39:22.877572",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del Km 232+800, de la ctra. Puebla-Córdoba, a la altura del Mpio. de Maltrata. Maneje con precaución",
+      "type": "twitter",
+      "lat": 18.82655166634209,
+      "lng": -97.28603027325879,
+      "road": 150,
+      "km": 123.80000000000001,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071941588159258899#m",
+      "timestamp": "2026-06-30T12:59:04+00:00",
+      "timestamp_display": "30/06/2026 06:59 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#Tomeprecaución en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del Km 232+800, de la ctra. Puebla-Córdoba, a la altura del Mpio. de Maltrata, con Dir. a Ver., se habilita circulación sobre el derecho de vía. Atienda indicación vial.",
       "type": "twitter",
@@ -270,20 +286,30 @@
       ]
     },
     {
-      "title": "#EviteLaZona en #NuevoLeón se registra cierre total de circulación por #AccidenteVial cerca del Km 041+900, de la carretera Saltillo-Monterrey, a la altura de la Col. Misión San Juan, con Dir. a Saltillo. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 34, dirección CDMX. Registra carga vehicular por labores de mantenimiento en los carriles laterales (no a cargo de CAPUFE). Maneja con precaución.",
       "type": "twitter",
-      "lat": 25.60464655727509,
-      "lng": -100.92363197494149,
-      "road": 40,
-      "km": 21.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2071713896486842705#m",
-      "timestamp": "2026-06-29T21:54:18+00:00",
-      "timestamp_display": "29/06/2026 15:54 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 34,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071947856139682276#m",
+      "timestamp": "2026-06-30T13:23:58+00:00",
+      "timestamp_display": "30/06/2026 07:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección CDMX. Reducción de carriles por atención de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 83,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071943809726865661#m",
+      "timestamp": "2026-06-30T13:07:53+00:00",
+      "timestamp_display": "30/06/2026 07:07 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 18, dirección CDMX. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
@@ -529,32 +555,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071826001718288765#m",
       "timestamp": "2026-06-30T05:19:46+00:00",
       "timestamp_display": "29/06/2026 23:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 161, dirección Cd. Obregón. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 161,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071823605533471047#m",
-      "timestamp": "2026-06-30T05:10:14+00:00",
-      "timestamp_display": "29/06/2026 23:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 60, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 60,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071821170433761747#m",
-      "timestamp": "2026-06-30T05:00:34+00:00",
-      "timestamp_display": "29/06/2026 23:00 CST",
       "segment": null
     }
   ]
