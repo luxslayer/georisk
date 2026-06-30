@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-30T11:45:53.150476",
+  "last_update": "2026-06-30T12:47:07.736826",
   "incidents": [
     {
       "title": "#Tomeprecaución en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del Km 232+800, de la ctra. Puebla-Córdoba, a la altura del Mpio. de Maltrata, con Dir. a Ver., se habilita circulación sobre el derecho de vía. Atienda indicación vial.",
@@ -286,6 +286,61 @@
       ]
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 18, dirección CDMX. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071936843495461185#m",
+      "timestamp": "2026-06-30T12:40:12+00:00",
+      "timestamp_display": "30/06/2026 06:40 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 78, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 78,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071933628225925128#m",
+      "timestamp": "2026-06-30T12:27:26+00:00",
+      "timestamp_display": "30/06/2026 06:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 60, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 60,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071926630226747663#m",
+      "timestamp": "2026-06-30T11:59:37+00:00",
+      "timestamp_display": "30/06/2026 05:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071926291637399648#m",
+      "timestamp": "2026-06-30T11:58:17+00:00",
+      "timestamp_display": "30/06/2026 05:58 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Isla - Acayucan, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -500,61 +555,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071821170433761747#m",
       "timestamp": "2026-06-30T05:00:34+00:00",
       "timestamp_display": "29/06/2026 23:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Acatzingo - Cd. Mendoza, km 189, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 189,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071820740848992258#m",
-      "timestamp": "2026-06-30T04:58:51+00:00",
-      "timestamp_display": "29/06/2026 22:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 17, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumáticos). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.840824548711325,
-      "lng": -96.75419047929334,
-      "road": 150,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071819510990925910#m",
-      "timestamp": "2026-06-30T04:53:58+00:00",
-      "timestamp_display": "29/06/2026 22:53 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 73 al 74. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071814821331210283#m",
-      "timestamp": "2026-06-30T04:35:20+00:00",
-      "timestamp_display": "29/06/2026 22:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tecate - La Rumorosa, km 106, dirección Tecate. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 106,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071810668177584379#m",
-      "timestamp": "2026-06-30T04:18:50+00:00",
-      "timestamp_display": "29/06/2026 22:18 CST",
       "segment": null
     }
   ]
