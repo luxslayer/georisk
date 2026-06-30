@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-06-29T23:36:52.174922",
+  "last_update": "2026-06-30T00:08:54.714254",
   "incidents": [
+    {
+      "title": "#Tomeprecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 268+000, de la carretera Córdoba-Puebla, a la altura del Mpio. Huiloapan, con dirección a Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.852532485879106,
+      "lng": -97.069506597113,
+      "road": 150,
+      "km": 159.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2071740970505326601#m",
+      "timestamp": "2026-06-29T23:41:53+00:00",
+      "timestamp_display": "29/06/2026 17:41 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 206+800, de la carretera Maravatio-Zapotlanejo, a la altura del Mpio. San Nicolás Simirao, con dirección a San Bartolomé. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +280,58 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #CdMéx se registra cierre parcial de circulación por presencia de personas, cerca del km. 023+300 de la carretera México - Cuernavaca, a la altura de la caseta de cobro Tlalpan. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 268, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 268,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071745393910534523#m",
+      "timestamp": "2026-06-29T23:59:27+00:00",
+      "timestamp_display": "29/06/2026 17:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 41, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.78488248852856,
+      "lng": -96.53597064194156,
+      "road": 150,
+      "km": 41,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071744887133720925#m",
+      "timestamp": "2026-06-29T23:57:26+00:00",
+      "timestamp_display": "29/06/2026 17:57 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Libramiento Poniente Tampico, del km 3 al 7. Registra circulación intermitente en ambos sentidos por labores de mantenimiento. En la zona se registra carga vehicular. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 3,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071742386934264193#m",
+      "timestamp": "2026-06-29T23:47:30+00:00",
+      "timestamp_display": "29/06/2026 17:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
-      "km": null,
+      "km": 19,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071619942164693240#m",
-      "timestamp": "2026-06-29T15:40:57+00:00",
-      "timestamp_display": "29/06/2026 09:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2071742284555583806#m",
+      "timestamp": "2026-06-29T23:47:06+00:00",
+      "timestamp_display": "29/06/2026 17:47 CST",
       "segment": null
     },
     {
@@ -494,58 +552,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071718972337140221#m",
       "timestamp": "2026-06-29T22:14:28+00:00",
       "timestamp_display": "29/06/2026 16:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 25, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071716623996645733#m",
-      "timestamp": "2026-06-29T22:05:08+00:00",
-      "timestamp_display": "29/06/2026 16:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 89, dirección Isla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 89,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071716152733016413#m",
-      "timestamp": "2026-06-29T22:03:16+00:00",
-      "timestamp_display": "29/06/2026 16:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715341592367421#m",
-      "timestamp": "2026-06-29T22:00:02+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 86, dirección Acapulco. Reducción de carriles laterales por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071715340481118546#m",
-      "timestamp": "2026-06-29T22:00:02+00:00",
-      "timestamp_display": "29/06/2026 16:00 CST",
       "segment": null
     }
   ]
