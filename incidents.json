@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-06-30T00:08:54.714254",
+  "last_update": "2026-06-30T01:18:00.006003",
   "incidents": [
+    {
+      "title": "R to @GN_Carreteras: Personal de carreteras proporciona acompañamiento y vialidad, con el fin de prevenir algún posible hecho de tránsito.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071751723429900756#m",
+      "timestamp": "2026-06-30T00:24:36+00:00",
+      "timestamp_display": "29/06/2026 18:24 CST",
+      "segment": null
+    },
+    {
+      "title": "#AlMomento en #Chiapas se registra seguimiento a la caravana \"De la mano de Dios filipenses\", cerca del km 171+000, de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Ciudad Hidalgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": 171.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2071751721684972024#m",
+      "timestamp": "2026-06-30T00:24:36+00:00",
+      "timestamp_display": "29/06/2026 18:24 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecaución en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 268+000, de la carretera Córdoba-Puebla, a la altura del Mpio. Huiloapan, con dirección a Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -251,33 +277,98 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por presencia de personas, cerca del km. 023+300 de la carretera México - Querétaro, a la altura de la caseta de cobro No. 4 Tepotzotlán. Se orienta a la ciudadanía que la caseta labora sin cobro de peaje.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 16, dirección Veracruz. Continúan los cierres intermitentes por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.842430771197243,
+      "lng": -96.76354006611611,
+      "road": 150,
+      "km": 16,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071764044109811723#m",
+      "timestamp": "2026-06-30T01:13:34+00:00",
+      "timestamp_display": "29/06/2026 19:13 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Chamapa - Lechería, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071761848098029636#m",
+      "timestamp": "2026-06-30T01:04:50+00:00",
+      "timestamp_display": "29/06/2026 19:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 63, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071623228389253412#m",
-      "timestamp": "2026-06-29T15:54:01+00:00",
-      "timestamp_display": "29/06/2026 09:54 CST",
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071761519252005373#m",
+      "timestamp": "2026-06-30T01:03:32+00:00",
+      "timestamp_display": "29/06/2026 19:03 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por presencia de personas, cerca del km. 033+300 de la autopista México-Puebla, a la altura de la caseta de cobro No. 7 “San Marcos”. Se orienta a la ciudadanía que la caseta labora sin cobro de peaje.",
+      "title": "🚫⚽ #CartonRougeÀLaTraite Informez-vous, identifiez les signes d'alerte et contribuez à la prévention. 📢 Dénoncez!",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2071622064293749102#m",
-      "timestamp": "2026-06-29T15:49:23+00:00",
-      "timestamp_display": "29/06/2026 09:49 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2071760633352102365#m",
+      "timestamp": "2026-06-30T01:00:01+00:00",
+      "timestamp_display": "29/06/2026 19:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 63, dirección Querétaro. Registra reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. 🔘 Dirección Irapuato, se restablece la circulación de manera normal. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 63,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071758668496880003#m",
+      "timestamp": "2026-06-30T00:52:12+00:00",
+      "timestamp_display": "29/06/2026 18:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuauhtémoc - Osiris, km 75. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular en ambos sentidos. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 75,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2071756833945972757#m",
+      "timestamp": "2026-06-30T00:44:55+00:00",
+      "timestamp_display": "29/06/2026 18:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 125,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2071756069194313989#m",
+      "timestamp": "2026-06-30T00:41:52+00:00",
+      "timestamp_display": "29/06/2026 18:41 CST",
+      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 268, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -458,100 +549,6 @@
       "url": "https://nitter.net/CAPUFE/status/2071729118614335637#m",
       "timestamp": "2026-06-29T22:54:47+00:00",
       "timestamp_display": "29/06/2026 16:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 16, dirección Veracruz. Registra cierres intermitentes por atención de accidente (maniobras para retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.842430771197243,
-      "lng": -96.76354006611611,
-      "road": 150,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071726818210578559#m",
-      "timestamp": "2026-06-29T22:45:38+00:00",
-      "timestamp_display": "29/06/2026 16:45 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 89, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 89,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071725975985930689#m",
-      "timestamp": "2026-06-29T22:42:18+00:00",
-      "timestamp_display": "29/06/2026 16:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 99, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 99,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2071725888912105731#m",
-      "timestamp": "2026-06-29T22:41:57+00:00",
-      "timestamp_display": "29/06/2026 16:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 1, dirección Irapuato. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071724549956104280#m",
-      "timestamp": "2026-06-29T22:36:38+00:00",
-      "timestamp_display": "29/06/2026 16:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Chamapa – Lechería, registra #lluvia ligera a la altura de la Plaza de Cobro Atizapán. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071723240460837162#m",
-      "timestamp": "2026-06-29T22:31:25+00:00",
-      "timestamp_display": "29/06/2026 16:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Tinaja - Isla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071721495852654683#m",
-      "timestamp": "2026-06-29T22:24:29+00:00",
-      "timestamp_display": "29/06/2026 16:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 1, dirección Irapuato. Registra cierre a la circulación por atención de incidente. Para más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 1,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2071718972337140221#m",
-      "timestamp": "2026-06-29T22:14:28+00:00",
-      "timestamp_display": "29/06/2026 16:14 CST",
       "segment": null
     }
   ]
