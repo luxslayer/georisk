@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-01T07:10:11.516841",
+  "last_update": "2026-07-01T08:37:19.017770",
   "incidents": [
     {
       "title": "#VialidadLibre en #Guerrero tras cierre de circulación por #AccidenteVial cerca del Km 015+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. Chilpancingo de los Bravo, Gro. Maneje con precaución.",
@@ -277,6 +277,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 13, dirección Lechería. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072231647433355690#m",
+      "timestamp": "2026-07-01T08:11:39+00:00",
+      "timestamp_display": "01/07/2026 02:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 77, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 77,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072223854282309648#m",
+      "timestamp": "2026-07-01T07:40:41+00:00",
+      "timestamp_display": "01/07/2026 01:40 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 99, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -517,32 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072111795951513736#m",
       "timestamp": "2026-07-01T00:15:24+00:00",
       "timestamp_display": "30/06/2026 18:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072105873283928570#m",
-      "timestamp": "2026-06-30T23:51:52+00:00",
-      "timestamp_display": "30/06/2026 17:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Pera - Cuautla, registra #lluvia a la altura de la Plaza de Cobro Tepoztlán. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072105599282684084#m",
-      "timestamp": "2026-06-30T23:50:47+00:00",
-      "timestamp_display": "30/06/2026 17:50 CST",
       "segment": null
     }
   ]
