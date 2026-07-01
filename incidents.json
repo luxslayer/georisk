@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-01T05:37:23.998363",
+  "last_update": "2026-07-01T07:10:11.516841",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Guerrero tras cierre de circulación por #AccidenteVial cerca del Km 015+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. Chilpancingo de los Bravo, Gro. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 15.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072194173348815239#m",
+      "timestamp": "2026-07-01T05:42:45+00:00",
+      "timestamp_display": "30/06/2026 23:42 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecaución en #Nayarit continúa cierre parcial de circulación por #AccidenteVial cerca del Km 008+100, de la carretera Tepic-Mazatlán, con dirección a Mazatlán, Sin. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +277,16 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Michoacan tras cierre de circulación por #AccidenteVial cerca del Km 118+500, de la carretera Uruapan-Lázaro Cárdenas, con dirección a Lázaro Cardenas, Mich. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 99, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 118.5,
+      "km": 99,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072077310014922848#m",
-      "timestamp": "2026-06-30T21:58:22+00:00",
-      "timestamp_display": "30/06/2026 15:58 CST",
+      "url": "https://nitter.net/CAPUFE/status/2072213151257416118#m",
+      "timestamp": "2026-07-01T06:58:09+00:00",
+      "timestamp_display": "01/07/2026 00:58 CST",
       "segment": null
     },
     {
@@ -530,19 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072105599282684084#m",
       "timestamp": "2026-06-30T23:50:47+00:00",
       "timestamp_display": "30/06/2026 17:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, del km 40 al 33. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 40,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072104682109948113#m",
-      "timestamp": "2026-06-30T23:47:08+00:00",
-      "timestamp_display": "30/06/2026 17:47 CST",
       "segment": null
     }
   ]
