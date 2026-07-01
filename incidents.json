@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-01T19:38:08.136041",
+  "last_update": "2026-07-01T20:27:41.206019",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Guanajuato se registra cierre parcial de circulación por #Accidentevial cerca del Km 058+200 de la carretera Querétaro-Salamanca, dirección Celaya. Atienda indicación vial.",
@@ -274,6 +274,48 @@
       "segment": null
     },
     {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 91, dirección CDMX. Cierre a la circulación por presencia de manifestantes a la altura del Poblado de San Martín Texmelucan. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/DRRi5RA9g9Go9hYc7",
+      "type": "twitter",
+      "lat": 19.273621526680866,
+      "lng": -98.43533949924917,
+      "road": 150,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072414748738470305#m",
+      "timestamp": "2026-07-01T20:19:14+00:00",
+      "timestamp_display": "01/07/2026 14:19 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072404930929864994#m",
+      "timestamp": "2026-07-01T19:40:13+00:00",
+      "timestamp_display": "01/07/2026 13:40 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 166,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072404598317273281#m",
+      "timestamp": "2026-07-01T19:38:54+00:00",
+      "timestamp_display": "01/07/2026 13:38 CST",
+      "segment": null
+    },
+    {
       "title": "🚨 ¿Visitas México de manera temporal? ¡Esta información es para ti! 🇲🇽🧳 Queremos que tu ingreso y tránsito por el país sea seguro, respetando siempre tus derechos. Para lograrlo, el programa Heroínas y Héroes Paisanos pone a tu disposición módulos de atención en puntos clave. Acércate a los \"Observadores\" están listos para orientarte y recibir tus quejas en caso de que sufras algún abuso por parte de servidores públicos. ¡Tu mejor defensa es estar informado! Revisa la guía aquí: 🛡️💻 https://www.gob.mx/.../1082677/GUIA_COMPLETA_HHP_ESP_2.pdf",
       "type": "twitter",
       "lat": 19.4326,
@@ -287,7 +329,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/1bE1yq7QvFwhh5988",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/1bE1yq7QvFwhh5988",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
@@ -501,19 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072359035517481465#m",
       "timestamp": "2026-07-01T16:37:51+00:00",
       "timestamp_display": "01/07/2026 10:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 45, dirección CDMX. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 45,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072358009544524096#m",
-      "timestamp": "2026-07-01T16:33:46+00:00",
-      "timestamp_display": "01/07/2026 10:33 CST",
       "segment": null
     }
   ]
