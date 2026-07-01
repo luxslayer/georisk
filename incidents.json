@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-07-01T08:37:19.017770",
+  "last_update": "2026-07-01T10:07:03.268284",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Nayarit tras cierre parcial de circulación por #AccidenteVial cerca del Km 008+100, de la carretera Tepic-Mazatlán, con dirección a Mazatlán, Sin.Maneje con precaución..",
+      "type": "twitter",
+      "lat": 21.567688833549116,
+      "lng": -104.98209184591954,
+      "road": 15,
+      "km": 1.0999999999999996,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072241072256799211#m",
+      "timestamp": "2026-07-01T08:49:06+00:00",
+      "timestamp_display": "01/07/2026 02:49 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#VialidadLibre en #Michoacan tras cierre de circulación por #AccidenteVial cerca del Km 360+000, de la carretera Maravatío-Zapotlanejo, a la altura de la localidad Ecuadureo, Mpio. Homónimo, Mich. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": 15,
+      "km": 360.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072240409628082217#m",
+      "timestamp": "2026-07-01T08:46:28+00:00",
+      "timestamp_display": "01/07/2026 02:46 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Jalisco tras cierre parcial de la circulación por #AccidenteVial cerca del Km 124+900, de la carretera Lagos de Moreno-Guadalajara/con Ramal a Yahualica, a la altura del poblado Agua de Obispo, Mpio. San Juan de los Lagos, Jal. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 124.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072239572092641602#m",
+      "timestamp": "2026-07-01T08:43:08+00:00",
+      "timestamp_display": "01/07/2026 02:43 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Guerrero tras cierre de circulación por #AccidenteVial cerca del Km 015+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. Chilpancingo de los Bravo, Gro. Maneje con precaución.",
       "type": "twitter",
@@ -235,45 +277,42 @@
       ]
     },
     {
-      "title": "#Tomeprecaución en #Guerrero continúa cierre parcial de circulación por #AccidenteVial cerca del Km 024+800, de la carretera Chilpancingo-Acapulco, con dirección a Chilpancingo de los Bravo, Gro. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 48, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 24.8,
+      "km": 48,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072083737848824155#m",
-      "timestamp": "2026-06-30T22:23:55+00:00",
-      "timestamp_display": "30/06/2026 16:23 CST",
+      "url": "https://nitter.net/CAPUFE/status/2072260084923605000#m",
+      "timestamp": "2026-07-01T10:04:39+00:00",
+      "timestamp_display": "01/07/2026 04:04 CST",
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Veracruz tras cierre de circulación por #AccidenteVial cerca del Km 009+900, de la carretera Córdoba-Ent La Boticaria, a la altura de la localidad Manuel León, Ver. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 18.85906728621983,
-      "lng": -96.81867164999097,
-      "road": 150,
-      "km": 9.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072082147062538549#m",
-      "timestamp": "2026-06-30T22:17:35+00:00",
-      "timestamp_display": "30/06/2026 16:17 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "#ViaLibre en #Tamaulipas tras cierre de circulación por #AccidenteVial cerca del Km 006+600, de la carretera Altamira Puerto Industrial, a la altura de la localidad Puerto Industrial Altamira, Tamps. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 13, dirección Lechería. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 6.6,
+      "km": 13,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072077787872067724#m",
-      "timestamp": "2026-06-30T22:00:16+00:00",
-      "timestamp_display": "30/06/2026 16:00 CST",
+      "url": "https://nitter.net/CAPUFE/status/2072243283653185666#m",
+      "timestamp": "2026-07-01T08:57:53+00:00",
+      "timestamp_display": "01/07/2026 02:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 13, dirección Lechería. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072239406295957946#m",
+      "timestamp": "2026-07-01T08:42:29+00:00",
+      "timestamp_display": "01/07/2026 02:42 CST",
       "segment": null
     },
     {
@@ -501,48 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072120972174352726#m",
       "timestamp": "2026-07-01T00:51:52+00:00",
       "timestamp_display": "30/06/2026 18:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 16, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.842430771197243,
-      "lng": -96.76354006611611,
-      "road": 150,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072115035078365672#m",
-      "timestamp": "2026-07-01T00:28:17+00:00",
-      "timestamp_display": "30/06/2026 18:28 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072111921189257276#m",
-      "timestamp": "2026-07-01T00:15:54+00:00",
-      "timestamp_display": "30/06/2026 18:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Querétaro - Irapuato, registra #lluvia intensa a la altura de la Plaza de Cobro Querétaro. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072111795951513736#m",
-      "timestamp": "2026-07-01T00:15:24+00:00",
-      "timestamp_display": "30/06/2026 18:15 CST",
       "segment": null
     }
   ]
