@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-01T22:32:30.028604",
+  "last_update": "2026-07-01T23:10:38.189305",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del Km 161+400 de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial.",
@@ -138,19 +138,6 @@
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se recomienda a la población a tomar la ruta alterna por la carretera Cananea-Ent. Santa Cruz, transitando por un camino de tercer orden con dirección a Nogales.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2072315862275485948#m",
-      "timestamp": "2026-07-01T13:46:17+00:00",
-      "timestamp_display": "01/07/2026 07:46 CST",
-      "segment": null
-    },
-    {
       "title": "#Tomeprecaución en #Sonora se registra cierre total de circulación por #AccidenteVial cerca del Km 143+100, de la carretera Imuris-Agua Prieta, con dirección a Agua Prieta, Son. Atienda indicación vial.",
       "type": "twitter",
       "lat": 31.3177,
@@ -159,6 +146,19 @@
       "km": 143.1,
       "risk": "high",
       "url": "https://nitter.net/GN_Carreteras/status/2072315860220342479#m",
+      "timestamp": "2026-07-01T13:46:17+00:00",
+      "timestamp_display": "01/07/2026 07:46 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se recomienda a la población a tomar la ruta alterna por la carretera Cananea-Ent. Santa Cruz, transitando por un camino de tercer orden con dirección a Nogales.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2072315862275485948#m",
       "timestamp": "2026-07-01T13:46:17+00:00",
       "timestamp_display": "01/07/2026 07:46 CST",
       "segment": null
@@ -274,6 +274,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2072166008794616266#m",
       "timestamp": "2026-07-01T03:50:50+00:00",
       "timestamp_display": "30/06/2026 21:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, continúa #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072457288929976736#m",
+      "timestamp": "2026-07-01T23:08:16+00:00",
+      "timestamp_display": "01/07/2026 17:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Mendoza - Córdoba, registra #lluvia a la altura del Poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072456482524664114#m",
+      "timestamp": "2026-07-01T23:05:04+00:00",
+      "timestamp_display": "01/07/2026 17:05 CST",
       "segment": null
     },
     {
@@ -533,32 +559,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072404930929864994#m",
-      "timestamp": "2026-07-01T19:40:13+00:00",
-      "timestamp_display": "01/07/2026 13:40 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 166, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 166,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072404598317273281#m",
-      "timestamp": "2026-07-01T19:38:54+00:00",
-      "timestamp_display": "01/07/2026 13:38 CST",
-      "segment": null
     }
   ]
 }
