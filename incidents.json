@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-01T23:10:38.189305",
+  "last_update": "2026-07-01T23:46:03.153765",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 156+200 de la carretera Cuernavaca-Chilpancingo con dirección La Vente. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 156.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072461603564302827#m",
+      "timestamp": "2026-07-01T23:25:25+00:00",
+      "timestamp_display": "01/07/2026 17:25 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Tabasco se registra cierre parcial de circulación por #Accidentevial cerca del Km 161+400 de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial.",
       "type": "twitter",
@@ -138,19 +151,6 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecaución en #Sonora se registra cierre total de circulación por #AccidenteVial cerca del Km 143+100, de la carretera Imuris-Agua Prieta, con dirección a Agua Prieta, Son. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 31.3177,
-      "lng": -109.5504,
-      "road": null,
-      "km": 143.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072315860220342479#m",
-      "timestamp": "2026-07-01T13:46:17+00:00",
-      "timestamp_display": "01/07/2026 07:46 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se recomienda a la población a tomar la ruta alterna por la carretera Cananea-Ent. Santa Cruz, transitando por un camino de tercer orden con dirección a Nogales.",
       "type": "twitter",
       "lat": 23.5,
@@ -159,6 +159,19 @@
       "km": null,
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2072315862275485948#m",
+      "timestamp": "2026-07-01T13:46:17+00:00",
+      "timestamp_display": "01/07/2026 07:46 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecaución en #Sonora se registra cierre total de circulación por #AccidenteVial cerca del Km 143+100, de la carretera Imuris-Agua Prieta, con dirección a Agua Prieta, Son. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.3177,
+      "lng": -109.5504,
+      "road": null,
+      "km": 143.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072315860220342479#m",
       "timestamp": "2026-07-01T13:46:17+00:00",
       "timestamp_display": "01/07/2026 07:46 CST",
       "segment": null
@@ -261,19 +274,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2072189298481221648#m",
       "timestamp": "2026-07-01T05:23:22+00:00",
       "timestamp_display": "30/06/2026 23:23 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecaución en #Jalisco continúa cierre parcial de circulación por #AccidenteVial cerca del Km 124+900, de la carretera Lagos de Moreno-Guadalajara/con Ramal a Yahualica, a la altura del poblado Agua de Obispo, Mpio. San Juan de los Lagos, Jal. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": 124.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072166008794616266#m",
-      "timestamp": "2026-07-01T03:50:50+00:00",
-      "timestamp_display": "30/06/2026 21:50 CST",
       "segment": null
     },
     {
