@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-01T11:24:34.000391",
+  "last_update": "2026-07-01T12:24:10.100251",
   "incidents": [
     {
       "title": "#VialidadLibre en #Nayarit tras cierre parcial de circulación por #AccidenteVial cerca del Km 008+100, de la carretera Tepic-Mazatlán, con dirección a Mazatlán, Sin.Maneje con precaución..",
@@ -277,6 +277,71 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 178,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072294253246513371#m",
+      "timestamp": "2026-07-01T12:20:25+00:00",
+      "timestamp_display": "01/07/2026 06:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 161, dirección Querétaro. Reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 161,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072293952816890138#m",
+      "timestamp": "2026-07-01T12:19:14+00:00",
+      "timestamp_display": "01/07/2026 06:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 77, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 77,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072292981760012295#m",
+      "timestamp": "2026-07-01T12:15:22+00:00",
+      "timestamp_display": "01/07/2026 06:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 172, dirección Campeche. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 172,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072284419210018847#m",
+      "timestamp": "2026-07-01T11:41:21+00:00",
+      "timestamp_display": "01/07/2026 05:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 48, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072283823572738449#m",
+      "timestamp": "2026-07-01T11:38:59+00:00",
+      "timestamp_display": "01/07/2026 05:38 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 99, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -472,74 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072148609525572069#m",
       "timestamp": "2026-07-01T02:41:41+00:00",
       "timestamp_display": "30/06/2026 20:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Magdalena - Nogales, km 187, dirección Magdalena. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 187,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072142995873317091#m",
-      "timestamp": "2026-07-01T02:19:23+00:00",
-      "timestamp_display": "30/06/2026 20:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, del km 27 al 29, dirección CDMX. Continúa reducción en carriles centrales por atención de incidente (encharcamiento). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.299995320524488,
-      "lng": -98.93060917729386,
-      "road": 150,
-      "km": 9,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072139233964273916#m",
-      "timestamp": "2026-07-01T02:04:26+00:00",
-      "timestamp_display": "30/06/2026 20:04 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 178,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072134239420563545#m",
-      "timestamp": "2026-07-01T01:44:35+00:00",
-      "timestamp_display": "30/06/2026 19:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Chamapa - Lechería, registra #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072130110979797082#m",
-      "timestamp": "2026-07-01T01:28:11+00:00",
-      "timestamp_display": "30/06/2026 19:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 187, dirección Magdalena. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 187,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072129033949643221#m",
-      "timestamp": "2026-07-01T01:23:54+00:00",
-      "timestamp_display": "30/06/2026 19:23 CST",
       "segment": null
     }
   ]
