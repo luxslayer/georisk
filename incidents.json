@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-01T12:24:10.100251",
+  "last_update": "2026-07-01T13:25:29.266072",
   "incidents": [
     {
       "title": "#VialidadLibre en #Nayarit tras cierre parcial de circulación por #AccidenteVial cerca del Km 008+100, de la carretera Tepic-Mazatlán, con dirección a Mazatlán, Sin.Maneje con precaución..",
@@ -277,6 +277,32 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 148, dirección Acatzingo. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 148,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072310234991751654#m",
+      "timestamp": "2026-07-01T13:23:56+00:00",
+      "timestamp_display": "01/07/2026 07:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Champotón - Campeche, km 172, dirección Campeche. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 172,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072307427479822808#m",
+      "timestamp": "2026-07-01T13:12:46+00:00",
+      "timestamp_display": "01/07/2026 07:12 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 178, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -511,32 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072169915822309421#m",
       "timestamp": "2026-07-01T04:06:21+00:00",
       "timestamp_display": "30/06/2026 22:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Mendoza - Córdoba, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072159746862243872#m",
-      "timestamp": "2026-07-01T03:25:57+00:00",
-      "timestamp_display": "30/06/2026 21:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Querétaro - Irapuato, registra #lluvia intensa a la altura de la Plaza de Cobro Salamanca. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072148609525572069#m",
-      "timestamp": "2026-07-01T02:41:41+00:00",
-      "timestamp_display": "30/06/2026 20:41 CST",
       "segment": null
     }
   ]
