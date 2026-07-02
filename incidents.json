@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-07-01T23:46:03.153765",
+  "last_update": "2026-07-02T00:55:11.370247",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Tlaxcala se registra cierre total de circulación en ambos sentidos por #AccidenteVial cerca del Km 082+000 de la carretera Calpulalpan-Apizaco. Se recomienda a la población tomar #Rutaalterna por la autopista Arco Norte. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.5851,
+      "lng": -98.5654,
+      "road": null,
+      "km": 82.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072479658138906735#m",
+      "timestamp": "2026-07-02T00:37:09+00:00",
+      "timestamp_display": "01/07/2026 18:37 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Sonora continua cierre de circulación por #AccidenteVial cerca del Km 143+100, de la carretera Imuris-Agua Prieta, con dirección a Agua Prieta. Se orienta a la población que se habilita un carril de circulación por maniobras de arrastre. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 31.3177,
+      "lng": -109.5504,
+      "road": null,
+      "km": 143.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072471767931638181#m",
+      "timestamp": "2026-07-02T00:05:48+00:00",
+      "timestamp_display": "01/07/2026 18:05 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 002+200 de la carretera San Blas-Tepic con dirección Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.5623274,
+      "lng": -104.9731871,
+      "road": 15,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072469832453267807#m",
+      "timestamp": "2026-07-01T23:58:07+00:00",
+      "timestamp_display": "01/07/2026 17:58 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#Tomeprecuaciones en #EdoMex se registra circulación lenta por maniobras de mantenimiento sobre el Libramiento a Querétaro, dirección Atlacomulco a la altura de la curva del Fresno. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2072467642619748397#m",
+      "timestamp": "2026-07-01T23:49:25+00:00",
+      "timestamp_display": "01/07/2026 17:49 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 156+200 de la carretera Cuernavaca-Chilpancingo con dirección La Vente. Atienda indicación vial.",
       "type": "twitter",
@@ -222,58 +277,100 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Jalisco tras cierre parcial de la circulación por #AccidenteVial cerca del Km 124+900, de la carretera Lagos de Moreno-Guadalajara/con Ramal a Yahualica, a la altura del poblado Agua de Obispo, Mpio. San Juan de los Lagos, Jal. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, del km 286 al 288, dir. Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular . Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 124.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072239572092641602#m",
-      "timestamp": "2026-07-01T08:43:08+00:00",
-      "timestamp_display": "01/07/2026 02:43 CST",
+      "km": 286,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072483503594184789#m",
+      "timestamp": "2026-07-02T00:52:26+00:00",
+      "timestamp_display": "01/07/2026 18:52 CST",
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Guerrero tras cierre de circulación por #AccidenteVial cerca del Km 015+800, de la carretera Chilpancingo-Acapulco, a la altura del poblado Petaquillas, Mpio. Chilpancingo de los Bravo, Gro. Maneje con precaución.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072479291552518400#m",
+      "timestamp": "2026-07-02T00:35:42+00:00",
+      "timestamp_display": "01/07/2026 18:35 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Mendoza - Córdoba, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072477716008370227#m",
+      "timestamp": "2026-07-02T00:29:26+00:00",
+      "timestamp_display": "01/07/2026 18:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz, registra #lluvia intensa a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072476967618691297#m",
+      "timestamp": "2026-07-02T00:26:28+00:00",
+      "timestamp_display": "01/07/2026 18:26 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia intensa a la altura del Poblado de Tres Marías. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072474877810868252#m",
+      "timestamp": "2026-07-02T00:18:10+00:00",
+      "timestamp_display": "01/07/2026 18:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🚨 Ante un accidente en nuestras autopistas, tu reacción es clave. No te quedes indiferente. 📱 Llama al 074. Tu aviso puede marcar la diferencia. Servicio disponible las 24 horas, los 7 días de la semana. #EnCAPUFEEstamosParaServirte",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 15.8,
+      "km": null,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072194173348815239#m",
-      "timestamp": "2026-07-01T05:42:45+00:00",
-      "timestamp_display": "30/06/2026 23:42 CST",
+      "url": "https://nitter.net/CAPUFE/status/2072470308850729021#m",
+      "timestamp": "2026-07-02T00:00:00+00:00",
+      "timestamp_display": "01/07/2026 18:00 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecaución en #Nayarit continúa cierre parcial de circulación por #AccidenteVial cerca del Km 008+100, de la carretera Tepic-Mazatlán, con dirección a Mazatlán, Sin. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, del km 0 al 1, dirección Isla. Continúa reducción de carriles en la gaza de incorporación a la autopista, por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 21.567688833549116,
-      "lng": -104.98209184591954,
-      "road": 15,
-      "km": 1.0999999999999996,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072192601441042477#m",
-      "timestamp": "2026-07-01T05:36:30+00:00",
-      "timestamp_display": "30/06/2026 23:36 CST",
-      "segment": [
-        "tepic",
-        "mazatlan"
-      ]
-    },
-    {
-      "title": "#Tomeprecaución en #Colima continúa cierre parcial de circulación por #AccidenteVial cerca del Km 311+000, de la carretera Acalpican-Manzanillo, a la altura del poblado Garcero, Mpio. Manzanillo, Col. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 311.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072189298481221648#m",
-      "timestamp": "2026-07-01T05:23:22+00:00",
-      "timestamp_display": "30/06/2026 23:23 CST",
+      "km": 0,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072467763382059366#m",
+      "timestamp": "2026-07-01T23:49:54+00:00",
+      "timestamp_display": "01/07/2026 17:49 CST",
       "segment": null
     },
     {
@@ -442,35 +539,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, km 91, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.273621526680866,
-      "lng": -98.43533949924917,
-      "road": 150,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072426603590582524#m",
-      "timestamp": "2026-07-01T21:06:20+00:00",
-      "timestamp_display": "01/07/2026 15:06 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072421890040164607#m",
-      "timestamp": "2026-07-01T20:47:36+00:00",
-      "timestamp_display": "01/07/2026 14:47 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 91, dirección CDMX. Se informa a las personas usuarias que se registra circulación intermitente por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 19.273621526680866,
@@ -487,74 +555,16 @@
       ]
     },
     {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, km 45, dirección Veracruz. Registra carga vehicular en la gaza de incorporación a la Aut. La Tinaja - Isla, por labores de mantenimiento del km 0 al 1. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.785271569357235,
-      "lng": -96.49800250794725,
-      "road": 150,
-      "km": 45,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072420146103431176#m",
-      "timestamp": "2026-07-01T20:40:41+00:00",
-      "timestamp_display": "01/07/2026 14:40 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 91, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, km 91, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.273621526680866,
       "lng": -98.43533949924917,
       "road": 150,
       "km": 73,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072418123970761094#m",
-      "timestamp": "2026-07-01T20:32:39+00:00",
-      "timestamp_display": "01/07/2026 14:32 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 172, dirección Campeche. Continúa circulación con reducción de carriles por atención de accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 172,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072417714837336248#m",
-      "timestamp": "2026-07-01T20:31:01+00:00",
-      "timestamp_display": "01/07/2026 14:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección CDMX. Cierre a la circulación en carriles centrales por atención de accidente (choque por alcance). En la zona se da vialidad por los carriles laterales. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072417476303040943#m",
-      "timestamp": "2026-07-01T20:30:04+00:00",
-      "timestamp_display": "01/07/2026 14:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 91, dirección CDMX. Cierre a la circulación por presencia de manifestantes a la altura del Poblado de San Martín Texmelucan. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/DRRi5RA9g9Go9hYc7",
-      "type": "twitter",
-      "lat": 19.273621526680866,
-      "lng": -98.43533949924917,
-      "road": 150,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072414748738470305#m",
-      "timestamp": "2026-07-01T20:19:14+00:00",
-      "timestamp_display": "01/07/2026 14:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2072426603590582524#m",
+      "timestamp": "2026-07-01T21:06:20+00:00",
+      "timestamp_display": "01/07/2026 15:06 CST",
       "segment": [
         "mexico",
         "puebla"
