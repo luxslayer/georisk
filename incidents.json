@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-02T00:55:11.370247",
+  "last_update": "2026-07-02T01:45:57.564654",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Tlaxcala se registra cierre total de circulación en ambos sentidos por #AccidenteVial cerca del Km 082+000 de la carretera Calpulalpan-Apizaco. Se recomienda a la población tomar #Rutaalterna por la autopista Arco Norte. Atienda indicación vial.",
@@ -277,6 +277,71 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072496725764308995#m",
+      "timestamp": "2026-07-02T01:44:59+00:00",
+      "timestamp_display": "01/07/2026 19:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 172, dirección Campeche. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 172,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072493655814766690#m",
+      "timestamp": "2026-07-02T01:32:47+00:00",
+      "timestamp_display": "01/07/2026 19:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072490717516087321#m",
+      "timestamp": "2026-07-02T01:21:06+00:00",
+      "timestamp_display": "01/07/2026 19:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Atizapán, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072490324509761614#m",
+      "timestamp": "2026-07-02T01:19:33+00:00",
+      "timestamp_display": "01/07/2026 19:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 42, dirección Querétaro. Registra carga vehicular a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072487768211550322#m",
+      "timestamp": "2026-07-02T01:09:23+00:00",
+      "timestamp_display": "01/07/2026 19:09 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, del km 286 al 288, dir. Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular . Maneja con precaución.",
       "type": "twitter",
       "lat": 18.8885,
@@ -475,96 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072440107873800615#m",
       "timestamp": "2026-07-01T22:00:00+00:00",
       "timestamp_display": "01/07/2026 16:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Continúa circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072440107869643200#m",
-      "timestamp": "2026-07-01T22:00:00+00:00",
-      "timestamp_display": "01/07/2026 16:00 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 78, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.330706817428805,
-      "lng": -98.54276255814574,
-      "road": 150,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072440107844751719#m",
-      "timestamp": "2026-07-01T22:00:00+00:00",
-      "timestamp_display": "01/07/2026 16:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072434555781296454#m",
-      "timestamp": "2026-07-01T21:37:56+00:00",
-      "timestamp_display": "01/07/2026 15:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección CDMX. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072433347989540953#m",
-      "timestamp": "2026-07-01T21:33:08+00:00",
-      "timestamp_display": "01/07/2026 15:33 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 91, dirección CDMX. Se informa a las personas usuarias que se registra circulación intermitente por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.273621526680866,
-      "lng": -98.43533949924917,
-      "road": 150,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072421221657174332#m",
-      "timestamp": "2026-07-01T20:44:57+00:00",
-      "timestamp_display": "01/07/2026 14:44 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, km 91, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.273621526680866,
-      "lng": -98.43533949924917,
-      "road": 150,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072426603590582524#m",
-      "timestamp": "2026-07-01T21:06:20+00:00",
-      "timestamp_display": "01/07/2026 15:06 CST",
       "segment": [
         "mexico",
         "puebla"
