@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-03T07:36:24.632078",
+  "last_update": "2026-07-03T10:18:04.809190",
   "incidents": [
     {
       "title": "#ViaLibre en #EdoMex tras cierre parcial de circulación por presencia de personas cerca del km 023+300, de la carretera México-Querétaro, en la plaza de cobro No.4, Tepotzotlán. Maneje con precaución.",
@@ -262,6 +262,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 15, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 15,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072988031338885600#m",
+      "timestamp": "2026-07-03T10:17:15+00:00",
+      "timestamp_display": "03/07/2026 04:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Noreste de Querétaro (Chichimequillas), km 15, dirección CDMX. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 15,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2072970403375395176#m",
+      "timestamp": "2026-07-03T09:07:12+00:00",
+      "timestamp_display": "03/07/2026 03:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Las Choapas - Ocozocoautla, cotinúa #lluvia a la altura de la Plaza de Cobro Las Choapas. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2072954581949039005#m",
+      "timestamp": "2026-07-03T08:04:20+00:00",
+      "timestamp_display": "03/07/2026 02:04 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Libramiento Cuernavaca, km 90, dirección Acapulco. Cierre a la circulación en la gaza de incorporación a la autopista por labores de mantenimiento. Toma tus precauciones.",
       "type": "twitter",
       "lat": 18.93,
@@ -480,45 +519,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072833664388386885#m",
       "timestamp": "2026-07-03T00:03:51+00:00",
       "timestamp_display": "02/07/2026 18:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Plan de Ayala - El Porvenir, km 36, dirección El Porvenir. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072831073172521302#m",
-      "timestamp": "2026-07-02T23:53:33+00:00",
-      "timestamp_display": "02/07/2026 17:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 160, dirección Cuernavaca. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 160,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072830517691494589#m",
-      "timestamp": "2026-07-02T23:51:21+00:00",
-      "timestamp_display": "02/07/2026 17:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura del km 289. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 289,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072830143903486074#m",
-      "timestamp": "2026-07-02T23:49:52+00:00",
-      "timestamp_display": "02/07/2026 17:49 CST",
       "segment": null
     }
   ]
