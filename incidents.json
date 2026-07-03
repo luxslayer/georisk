@@ -1,6 +1,38 @@
 {
-  "last_update": "2026-07-03T12:25:39.039098",
+  "last_update": "2026-07-03T14:41:46.743733",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del Km 075+800,de la carretera México-Puebla, a la altura de la Loc. Santa Rita Tlahuapan, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.33641196415425,
+      "lng": -98.56248826737324,
+      "road": 150,
+      "km": 57.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2073051096184934514#m",
+      "timestamp": "2026-07-03T14:27:51+00:00",
+      "timestamp_display": "03/07/2026 08:27 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#PrecauciónVial en #Nayarit continúa cierre parcial de la circulación por #AccidenteVial cerca del Km. 117+200 de la carretera Tepic-Mazatlán, con dirección a Mazatlán, Sin. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": 15,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2073040279343370299#m",
+      "timestamp": "2026-07-03T13:44:52+00:00",
+      "timestamp_display": "03/07/2026 07:44 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
     {
       "title": "#PrecauciónVial en #Veracruz continúa cierre parcial de la circulación por #AccidenteVial cerca del Km. 129+750 de la carretera Ent. La Tinaja - Cosoleacaque, con dirección a Acayucan, Ver. Atienda indicación vial.",
       "type": "twitter",
@@ -239,30 +271,133 @@
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 060+000 Ocozocoautla-Arriaga. Se orienta a la población #Rutalaterna sobre inmediaciones del Mpio. de Ocozocoautla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 207, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 60.0,
+      "km": 207,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072761961909993836#m",
-      "timestamp": "2026-07-02T19:18:56+00:00",
-      "timestamp_display": "02/07/2026 13:18 CST",
+      "url": "https://nitter.net/CAPUFE/status/2073049661384863959#m",
+      "timestamp": "2026-07-03T14:22:09+00:00",
+      "timestamp_display": "03/07/2026 08:22 CST",
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Colima continua cierre de circulación por #AccidenteVial cerca del Km 002+000 de la carretera Manzanillo-Colima. Se orienta a la población que se habilita un carril de circulación con dirección a Manzanillo. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 15, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 2.0,
+      "km": 15,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2072760166777299040#m",
-      "timestamp": "2026-07-02T19:11:48+00:00",
-      "timestamp_display": "02/07/2026 13:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2073046442948616551#m",
+      "timestamp": "2026-07-03T14:09:21+00:00",
+      "timestamp_display": "03/07/2026 08:09 CST",
       "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 76, dirección Puebla. Continúa reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.336837657936986,
+      "lng": -98.56065935520853,
+      "road": 150,
+      "km": 58,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2073044598738284941#m",
+      "timestamp": "2026-07-03T14:02:02+00:00",
+      "timestamp_display": "03/07/2026 08:02 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 130, dirección Isla. Se restablece la circulación con reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 130,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2073042894802260213#m",
+      "timestamp": "2026-07-03T13:55:16+00:00",
+      "timestamp_display": "03/07/2026 07:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 37, dirección Córdoba. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.792638354283888,
+      "lng": -96.572954898864,
+      "road": 150,
+      "km": 37,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2073039053490942369#m",
+      "timestamp": "2026-07-03T13:40:00+00:00",
+      "timestamp_display": "03/07/2026 07:40 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 130, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 130,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2073035047691518354#m",
+      "timestamp": "2026-07-03T13:24:05+00:00",
+      "timestamp_display": "03/07/2026 07:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 130, dirección Isla. Se restablece la circulación. El personal continúa con la atención del accidente, por el momento sin afectar los carriles de rodamiento. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 130,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2073034201918591050#m",
+      "timestamp": "2026-07-03T13:20:43+00:00",
+      "timestamp_display": "03/07/2026 07:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz, registra #lluvia intensa a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2073023491381551307#m",
+      "timestamp": "2026-07-03T12:38:09+00:00",
+      "timestamp_display": "03/07/2026 06:38 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 76, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.336837657936986,
+      "lng": -98.56065935520853,
+      "road": 150,
+      "km": 58,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2073022923162386878#m",
+      "timestamp": "2026-07-03T12:35:54+00:00",
+      "timestamp_display": "03/07/2026 06:35 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 15, dirección CDMX. Continúa reducción de carriles por atención de accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
@@ -392,136 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2072911679302566367#m",
       "timestamp": "2026-07-03T05:13:51+00:00",
       "timestamp_display": "02/07/2026 23:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Querétaro - Irapuato, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072905921559154712#m",
-      "timestamp": "2026-07-03T04:50:59+00:00",
-      "timestamp_display": "02/07/2026 22:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 178 al 179. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 178,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072902291259031844#m",
-      "timestamp": "2026-07-03T04:36:33+00:00",
-      "timestamp_display": "02/07/2026 22:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Las Choapas - Ocozocoautla, registra #lluvia a la altura de la Plaza de Cobro Las Choapas. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072897509362442635#m",
-      "timestamp": "2026-07-03T04:17:33+00:00",
-      "timestamp_display": "02/07/2026 22:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro, Plaza de Cobro Chichimequillas. Registra carga vehicular en ambos sentidos, por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072894481620234489#m",
-      "timestamp": "2026-07-03T04:05:31+00:00",
-      "timestamp_display": "02/07/2026 22:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072891936923345279#m",
-      "timestamp": "2026-07-03T03:55:24+00:00",
-      "timestamp_display": "02/07/2026 21:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 160, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 160,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072871982001983830#m",
-      "timestamp": "2026-07-03T02:36:07+00:00",
-      "timestamp_display": "02/07/2026 20:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 97, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 97,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072871779282932112#m",
-      "timestamp": "2026-07-03T02:35:18+00:00",
-      "timestamp_display": "02/07/2026 20:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072862562601865567#m",
-      "timestamp": "2026-07-03T01:58:41+00:00",
-      "timestamp_display": "02/07/2026 19:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Querétaro - Irapuato, registra #lluvia a la altura de la Plaza de Cobro Salamanca. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2072857685909782638#m",
-      "timestamp": "2026-07-03T01:39:18+00:00",
-      "timestamp_display": "02/07/2026 19:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Plan de Ayala - El Porvenir, km 36, dirección El Porvenir. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 36,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2072849135019975153#m",
-      "timestamp": "2026-07-03T01:05:20+00:00",
-      "timestamp_display": "02/07/2026 19:05 CST",
       "segment": null
     }
   ]
