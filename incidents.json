@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-06T22:38:19.298032",
+  "last_update": "2026-07-06T23:45:28.057579",
   "incidents": [
+    {
+      "title": "#ViaLibre en #EdoMx tras presencia de personas, cerca del Km 040+200, de la carretera Naucalpan–Toluca. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": 40.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2074266162590818526#m",
+      "timestamp": "2026-07-06T22:56:05+00:00",
+      "timestamp_display": "06/07/2026 16:56 CST",
+      "segment": null
+    },
+    {
+      "title": "#EviteLaZona en #Colima se registra cierre total de circulación por #AccidenteVial cerca del Km 060+500, de la carretera Colima-Manzanillo, a inmediaciones del Mpio. Cuyutlán, con dirección a Colima, se da paso a contra flujo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 60.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2074265160550625547#m",
+      "timestamp": "2026-07-06T22:52:06+00:00",
+      "timestamp_display": "06/07/2026 16:52 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del Km 236+800, de la carretera Cd. Obregón-Hermosillo, a la altura del Rancho Los Pinos, con dirección a Guaymas. Atienda indicación vial.",
       "type": "twitter",
@@ -242,32 +268,71 @@
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 234+300, de la carretera Córdoba-Puebla, con dirección a Orizaba, Ver. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 302, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.83615918431937,
-      "lng": -97.28322993366837,
-      "road": 150,
-      "km": 125.30000000000001,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 302,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074111716154101868#m",
-      "timestamp": "2026-07-06T12:42:22+00:00",
-      "timestamp_display": "06/07/2026 06:42 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2074278513629106530#m",
+      "timestamp": "2026-07-06T23:45:10+00:00",
+      "timestamp_display": "06/07/2026 17:45 CST",
+      "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Querétaro se registra cierre parcial de circulación por #AccidenteVial cerca del Km 016+500, de la carretera Macrolibramiento de Querétaro, con dirección a Edo. Mex. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": 16.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074101700546212229#m",
-      "timestamp": "2026-07-06T12:02:35+00:00",
-      "timestamp_display": "06/07/2026 06:02 CST",
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074278056479404121#m",
+      "timestamp": "2026-07-06T23:43:21+00:00",
+      "timestamp_display": "06/07/2026 17:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, km 10, dirección Lechería. Registra carga vehicular a la altura de la Plaza de Cobro Atizapan, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 10,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074277814333796513#m",
+      "timestamp": "2026-07-06T23:42:23+00:00",
+      "timestamp_display": "06/07/2026 17:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 39, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.78791266440779,
+      "lng": -96.55464492800833,
+      "road": 150,
+      "km": 39,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074270392861053245#m",
+      "timestamp": "2026-07-06T23:12:54+00:00",
+      "timestamp_display": "06/07/2026 17:12 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074268692397838841#m",
+      "timestamp": "2026-07-06T23:06:08+00:00",
+      "timestamp_display": "06/07/2026 17:06 CST",
       "segment": null
     },
     {
@@ -355,7 +420,7 @@
       ]
     },
     {
-      "title": "Pinned: 🟢 SE RETIRAN MANIFESTANTES 🟢 Aut. Cuernavaca - Acapulco, km 216. Se informa a las personas usuarias que se retiran los manifestantes. Por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Aut. Cuernavaca - Acapulco, km 216. Se informa a las personas usuarias que se retiran los manifestantes. Por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
@@ -443,74 +508,6 @@
       "url": "https://nitter.net/CAPUFE/status/2074216630209368489#m",
       "timestamp": "2026-07-06T19:39:16+00:00",
       "timestamp_display": "06/07/2026 13:39 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 23, dirección Chamapa. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074216247391117731#m",
-      "timestamp": "2026-07-06T19:37:45+00:00",
-      "timestamp_display": "06/07/2026 13:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 39, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78791266440779,
-      "lng": -96.55464492800833,
-      "road": 150,
-      "km": 39,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074212930648690926#m",
-      "timestamp": "2026-07-06T19:24:34+00:00",
-      "timestamp_display": "06/07/2026 13:24 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 283, dirección Córdoba. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 283,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074209331214537197#m",
-      "timestamp": "2026-07-06T19:10:16+00:00",
-      "timestamp_display": "06/07/2026 13:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074209020085190901#m",
-      "timestamp": "2026-07-06T19:09:01+00:00",
-      "timestamp_display": "06/07/2026 13:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular intensa. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 125,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074208644435005492#m",
-      "timestamp": "2026-07-06T19:07:32+00:00",
-      "timestamp_display": "06/07/2026 13:07 CST",
       "segment": null
     }
   ]
