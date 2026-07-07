@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-07T21:40:57.678710",
+  "last_update": "2026-07-07T22:44:29.359689",
   "incidents": [
+    {
+      "title": "#EviteLaZona en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 159+500, de la carretera Las Choapas-Ocozocoautla, a la altura del poblado de Peña Fuerte, Chis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 159.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2074617075008499869#m",
+      "timestamp": "2026-07-07T22:10:29+00:00",
+      "timestamp_display": "07/07/2026 16:10 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Tamaulipas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 013+900, de la carretera Ciudad Victoria-Matamoros, a inmediaciones del municipio de San Fernando, Tamps. Atienda indicación vial.",
       "type": "twitter",
@@ -258,17 +271,133 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 048+700, de la carretera Teziutlán-Nautla, a la altura de la Loc. La Piedrilla, con dirección a Tlapacoyan. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Las Choapas - Ocozocoautla, km 159. Se restablece la circulación de manera normal en ambos sentidos. Sin embargo, se continúa con la atención del accidente, por el momento sin afectación a los carriles de rodamiento. Se apertura la vialidad desde la Plaza de Cobro Ocozocoautla en dirección Las Choapas. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 48.7,
+      "km": 159,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074396021732295036#m",
-      "timestamp": "2026-07-07T07:32:06+00:00",
-      "timestamp_display": "07/07/2026 01:32 CST",
+      "url": "https://nitter.net/CAPUFE/status/2074624687464743024#m",
+      "timestamp": "2026-07-07T22:40:44+00:00",
+      "timestamp_display": "07/07/2026 16:40 CST",
       "segment": null
+    },
+    {
+      "title": "Pinned: 🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 30. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/zqGNNXgjJb77o5tr9",
+      "type": "twitter",
+      "lat": 19.291227804850323,
+      "lng": -98.90581065740561,
+      "road": 150,
+      "km": 12,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074621886416228835#m",
+      "timestamp": "2026-07-07T22:29:36+00:00",
+      "timestamp_display": "07/07/2026 16:29 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Cierre a la circulación por atención de accidente (trasvase de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 224,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074619834944397639#m",
+      "timestamp": "2026-07-07T22:21:27+00:00",
+      "timestamp_display": "07/07/2026 16:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 153,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074618680181182829#m",
+      "timestamp": "2026-07-07T22:16:52+00:00",
+      "timestamp_display": "07/07/2026 16:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 125,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074618326081241364#m",
+      "timestamp": "2026-07-07T22:15:28+00:00",
+      "timestamp_display": "07/07/2026 16:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 90 al 91, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.2777077896781,
+      "lng": -98.44381692139521,
+      "road": 150,
+      "km": 72,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074618226055479547#m",
+      "timestamp": "2026-07-07T22:15:04+00:00",
+      "timestamp_display": "07/07/2026 16:15 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 72, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.343303368676928,
+      "lng": -98.59431936391876,
+      "road": 150,
+      "km": 54,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074615119057752370#m",
+      "timestamp": "2026-07-07T22:02:43+00:00",
+      "timestamp_display": "07/07/2026 16:02 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Mendoza - Córdoba, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074613478375973244#m",
+      "timestamp": "2026-07-07T21:56:12+00:00",
+      "timestamp_display": "07/07/2026 15:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074612041797562655#m",
+      "timestamp": "2026-07-07T21:50:29+00:00",
+      "timestamp_display": "07/07/2026 15:50 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 159. Cierre a la circulación en ambos sentidos por atención de accidente (incendio de automóvil). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Ocozocoautla permanecerá cerrada en dirección Las Choapas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -310,19 +439,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/mTcDt2nacSDMa3Fd9",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 125,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074578136407179424#m",
-      "timestamp": "2026-07-07T19:35:46+00:00",
-      "timestamp_display": "07/07/2026 13:35 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, continúa la reducción de carriles por labores de mantenimiento en el km 125. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -349,32 +465,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Durango - Mazatlán, km 48, dirección Mazatlán. Se atiende volcadura de tracto camión tipo pipa. Por el momento, sin afectación los carriles de circulación. Sin embargo, en la zona se registra derrame de combustible. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/oHgtsGo6VVZ8VUoL8",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 48,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074528256288596276#m",
-      "timestamp": "2026-07-07T16:17:33+00:00",
-      "timestamp_display": "07/07/2026 10:17 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 48, dirección Mazatlán. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación. Sin embargo, en la zona se registra derrame de combustible. Personal de CAPUFE, SEDENA y Guardia Nacional se encuentran laborando en el lugar. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074558531408138606#m",
-      "timestamp": "2026-07-07T18:17:51+00:00",
-      "timestamp_display": "07/07/2026 12:17 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 48, dirección Mazatlán. Se informa a las personas usuarias que continúa la atención del accidente, al momento sin afectación a los carriles de circulación. Sin embargo, en la zona se registra derrame de combustible. Personal de CAPUFE, SEDENA y Guardia Nacional se encuentran laborando en el lugar. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 23.24,
@@ -398,6 +488,19 @@
       "url": "https://nitter.net/CAPUFE/status/2074579856596033676#m",
       "timestamp": "2026-07-07T19:42:36+00:00",
       "timestamp_display": "07/07/2026 13:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/mTcDt2nacSDMa3Fd9",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 125,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074578136407179424#m",
+      "timestamp": "2026-07-07T19:35:46+00:00",
+      "timestamp_display": "07/07/2026 13:35 CST",
       "segment": null
     },
     {
@@ -441,113 +544,6 @@
       "timestamp": "2026-07-07T19:03:08+00:00",
       "timestamp_display": "07/07/2026 13:03 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca, km 51, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074569526604091851#m",
-      "timestamp": "2026-07-07T19:01:33+00:00",
-      "timestamp_display": "07/07/2026 13:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 265, dirección Cd. Mendoza. Registra cierre a la circulación por atención de accidente (reacomodo de muros). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 265,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074565832873500890#m",
-      "timestamp": "2026-07-07T18:46:52+00:00",
-      "timestamp_display": "07/07/2026 12:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 31, dirección Cuernavaca. Cierre a la circulación por presencia de manifestantes a la altura del Poblado de Topilejo. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/KiMhKEgeRXxYMZkw5",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 31,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074527190884958377#m",
-      "timestamp": "2026-07-07T16:13:19+00:00",
-      "timestamp_display": "07/07/2026 10:13 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 31, dirección Cuernavaca. Se informa a las personas usuarias que se retiran los manifestantes. Sin embargo, se registra carga vehicular en Plaza de Cobro Tlalpan. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 31,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074555441787363812#m",
-      "timestamp": "2026-07-07T18:05:35+00:00",
-      "timestamp_display": "07/07/2026 12:05 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoCuernavaca, km 31, dirección Cuernavaca. Se informa a las personas usuarias que se retiran los manifestantes. Por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 31,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074560720058843631#m",
-      "timestamp": "2026-07-07T18:26:33+00:00",
-      "timestamp_display": "07/07/2026 12:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 78, dirección CDMX. Circulación intermitente por labores de mantenimiento (poda de árboles). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 78,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074559286915584343#m",
-      "timestamp": "2026-07-07T18:20:52+00:00",
-      "timestamp_display": "07/07/2026 12:20 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @Yericayala: Buenos días, #AutMéxicoCuernavaca, km 31, dirección Cuernavaca. Se restablece la circulación desde el Viaducto Elevado de Tlalpan y la Plaza de Cobro Tlalpan. Sin embargo, los manifestantes se encuentran replegados a la altura del Poblado de Topilejo, por el momento sin afectación a los carriles de rodamiento. En el lugar se registra carga vehicular. Maneja con precaución. Para más información llama al 074.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 31,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074550981598036380#m",
-      "timestamp": "2026-07-07T17:47:51+00:00",
-      "timestamp_display": "07/07/2026 11:47 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: Buenos días, Autopista Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074551732017803684#m",
-      "timestamp": "2026-07-07T17:50:50+00:00",
-      "timestamp_display": "07/07/2026 11:50 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
