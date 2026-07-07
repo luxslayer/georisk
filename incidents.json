@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-07T07:01:47.693058",
+  "last_update": "2026-07-07T10:31:56.099517",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 075+500, de la carretera Tuxpan-Tampico, a la altura del Mpio. de Tuxpan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 75.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2074414365986488825#m",
+      "timestamp": "2026-07-07T08:45:00+00:00",
+      "timestamp_display": "07/07/2026 02:45 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 048+700, de la carretera Teziutlán-Nautla, a la altura de la Loc. La Piedrilla, con dirección a Tlapacoyan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 48.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2074396021732295036#m",
+      "timestamp": "2026-07-07T07:32:06+00:00",
+      "timestamp_display": "07/07/2026 01:32 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del Km 065+600, de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez y Cd. Hgo., a la altura del monumento Mariano Matamoros. Atienda indicación vial.",
       "type": "twitter",
@@ -239,29 +265,32 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 169+500, de la carretera Quiroga-Tepalcatepec, a inmediaciones de la Loc. Nueva Italia de Ruiz. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz, registra #lluvia intensa a la altura de la Plaza de Cobro Paso del Toro. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 169.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074145193058529552#m",
-      "timestamp": "2026-07-06T14:55:24+00:00",
-      "timestamp_display": "06/07/2026 08:55 CST",
-      "segment": null
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074412649761153274#m",
+      "timestamp": "2026-07-07T08:38:11+00:00",
+      "timestamp_display": "07/07/2026 02:38 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
-      "title": "#PrecauciónVial en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del Km 060+000, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Tula, Hgo. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuacnopalan - Oaxaca, km 117. Cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance entre tracto camión y camioneta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": 60.0,
+      "km": 117,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074137795224801371#m",
-      "timestamp": "2026-07-06T14:26:00+00:00",
-      "timestamp_display": "06/07/2026 08:26 CST",
+      "url": "https://nitter.net/CAPUFE/status/2074407100541755415#m",
+      "timestamp": "2026-07-07T08:16:08+00:00",
+      "timestamp_display": "07/07/2026 02:16 CST",
       "segment": null
     },
     {
@@ -495,35 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2074252444238754291#m",
       "timestamp": "2026-07-06T22:01:35+00:00",
       "timestamp_display": "06/07/2026 16:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 90 al 92, dirección Puebla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.2777077896781,
-      "lng": -98.44381692139521,
-      "road": 150,
-      "km": 72,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074252178483486963#m",
-      "timestamp": "2026-07-06T22:00:31+00:00",
-      "timestamp_display": "06/07/2026 16:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Aut. Cuernavaca - Acapulco, km 216. Se informa a las personas usuarias que se retiran los manifestantes. Por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 216,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074248478998310944#m",
-      "timestamp": "2026-07-06T21:45:49+00:00",
-      "timestamp_display": "06/07/2026 15:45 CST",
       "segment": null
     }
   ]
