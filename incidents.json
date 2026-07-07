@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-07T10:31:56.099517",
+  "last_update": "2026-07-07T13:04:57.245358",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 178+500, de la carretera Tuxpan–Tampico, a la altura del poblado Tampico Alto, con dirección a Tampico. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 178.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2074468131586650589#m",
+      "timestamp": "2026-07-07T12:18:38+00:00",
+      "timestamp_display": "07/07/2026 06:18 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial cerca del Km 118+800, de la carretera Cuacnopalan-Oaxaca, a la altura del poblado Puerto Mixteco, con dirección a Oaxaca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 118.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2074459379378598359#m",
+      "timestamp": "2026-07-07T11:43:52+00:00",
+      "timestamp_display": "07/07/2026 05:43 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 075+500, de la carretera Tuxpan-Tampico, a la altura del Mpio. de Tuxpan. Atienda indicación vial.",
       "type": "twitter",
@@ -239,29 +265,55 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Nayarit se registra presencia de personas cerca del km 005+100, de la ctra. Tepic-Compostela, a la altura de la Caseta de Cobro No. 53 Compostela, sin afectación a la circulación. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 26, dirección CDMX. Reducción de carriles por atención de accidente (incendio de camión de carga). Maneja con precaución.",
       "type": "twitter",
-      "lat": 21.502,
-      "lng": -104.89,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 5.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2074205455534927965#m",
-      "timestamp": "2026-07-06T18:54:52+00:00",
-      "timestamp_display": "06/07/2026 12:54 CST",
+      "km": 26,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074475030268793190#m",
+      "timestamp": "2026-07-07T12:46:03+00:00",
+      "timestamp_display": "07/07/2026 06:46 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 045+000, de la carretera Perote-Teziutlán, a la altura del Mpio. de Perote, con dirección a Perote. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 45.0,
+      "km": 265,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074166011377394002#m",
-      "timestamp": "2026-07-06T16:18:07+00:00",
-      "timestamp_display": "06/07/2026 10:18 CST",
+      "url": "https://nitter.net/CAPUFE/status/2074462192892592368#m",
+      "timestamp": "2026-07-07T11:55:03+00:00",
+      "timestamp_display": "07/07/2026 05:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuacnopalan - Oaxaca, km 117. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 117,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074459104278389245#m",
+      "timestamp": "2026-07-07T11:42:46+00:00",
+      "timestamp_display": "07/07/2026 05:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuacnopalan - Oaxaca, km 117. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 117,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074441581864661017#m",
+      "timestamp": "2026-07-07T10:33:09+00:00",
+      "timestamp_display": "07/07/2026 04:33 CST",
       "segment": null
     },
     {
@@ -350,6 +402,32 @@
         "cordoba",
         "veracruz"
       ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 237, dirección Hermosillo. Se informa a las personas usuarias que se registra reducción de carriles por atención de salida del camino y volcadura de autobús. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣. Consulta la ubicación aquí: https://maps.app.goo.gl/GvtrMqSKr9hb8kqo7",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 237,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074223846333329673#m",
+      "timestamp": "2026-07-06T20:07:56+00:00",
+      "timestamp_display": "06/07/2026 14:07 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Guaymas - Hermosillo, km 237, dirección Hermosillo. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 237,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074255542227481029#m",
+      "timestamp": "2026-07-06T22:13:53+00:00",
+      "timestamp_display": "06/07/2026 16:13 CST",
+      "segment": null
     },
     {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Guaymas - Hermosillo, km 237, dirección Hermosillo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -469,61 +547,6 @@
       "url": "https://nitter.net/CAPUFE/status/2074258350464794914#m",
       "timestamp": "2026-07-06T22:25:03+00:00",
       "timestamp_display": "06/07/2026 16:25 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Guaymas - Hermosillo, km 237, dirección Hermosillo. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 237,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074255542227481029#m",
-      "timestamp": "2026-07-06T22:13:53+00:00",
-      "timestamp_display": "06/07/2026 16:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 125,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074253940892344763#m",
-      "timestamp": "2026-07-06T22:07:31+00:00",
-      "timestamp_display": "06/07/2026 16:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 75, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.33604506530859,
-      "lng": -98.56978248197332,
-      "road": 150,
-      "km": 57,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074253555557433796#m",
-      "timestamp": "2026-07-06T22:06:00+00:00",
-      "timestamp_display": "06/07/2026 16:06 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 245, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 245,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074252444238754291#m",
-      "timestamp": "2026-07-06T22:01:35+00:00",
-      "timestamp_display": "06/07/2026 16:01 CST",
       "segment": null
     }
   ]
