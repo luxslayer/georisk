@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-08T11:46:29.867240",
+  "last_update": "2026-07-08T14:09:09.102222",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km. 010+700, de la carretera Morelia-Salamanca, a inmediaciones de la Loc. San Andrés Curú, con dirección a Salamanca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.7,
+      "lng": -101.18,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2074838458795782164#m",
+      "timestamp": "2026-07-08T12:50:11+00:00",
+      "timestamp_display": "08/07/2026 06:50 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Chihuahua se registra cierre parcial de circulación por #AccidenteVial cerca del Km. 204+900, de la carretera Gómez Palacio-Jiménez, a la altura de la Cd. José Mariano Jiménez, Chih. Atienda indicación vial.",
       "type": "twitter",
@@ -261,19 +274,260 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 035+800, de la carretera Tepic-Mazatlán, a inmediaciones del Mpio. El Jicote, Col. Atienda indicación vial",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 21, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 21.784204020480903,
-      "lng": -105.0728690944825,
-      "road": 15,
-      "km": 28.799999999999997,
+      "lat": 18.82940471308146,
+      "lng": -96.7188460443534,
+      "road": 150,
+      "km": 21,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074569858264543345#m",
-      "timestamp": "2026-07-07T19:02:52+00:00",
-      "timestamp_display": "07/07/2026 13:02 CST",
+      "url": "https://nitter.net/CAPUFE/status/2074857628157485425#m",
+      "timestamp": "2026-07-08T14:06:22+00:00",
+      "timestamp_display": "08/07/2026 08:06 CST",
       "segment": [
-        "tepic",
-        "mazatlan"
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 14, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.847331202511704,
+      "lng": -96.78181234962122,
+      "road": 150,
+      "km": 14,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074857543512338780#m",
+      "timestamp": "2026-07-08T14:06:02+00:00",
+      "timestamp_display": "08/07/2026 08:06 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 38, dirección Cosoleacaque. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (trasvase de carga). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.994936917463246,
+      "lng": -94.60185349774528,
+      "road": 145,
+      "km": 38,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074857355972386824#m",
+      "timestamp": "2026-07-08T14:05:17+00:00",
+      "timestamp_display": "08/07/2026 08:05 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 6, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.91341888003502,
+      "lng": -94.88309921941682,
+      "road": 145,
+      "km": 6,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074856638301790268#m",
+      "timestamp": "2026-07-08T14:02:26+00:00",
+      "timestamp_display": "08/07/2026 08:02 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 268, dirección Córdoba. Reducción de carriles por atención de accidente (volcadura de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 268,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074855268941210030#m",
+      "timestamp": "2026-07-08T13:56:59+00:00",
+      "timestamp_display": "08/07/2026 07:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 21, dirección Córdoba. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.82940471308146,
+      "lng": -96.7188460443534,
+      "road": 150,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074854417988256045#m",
+      "timestamp": "2026-07-08T13:53:36+00:00",
+      "timestamp_display": "08/07/2026 07:53 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 25, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.933265058017096,
+      "lng": -94.70561143361095,
+      "road": 145,
+      "km": 25,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074848921306681643#m",
+      "timestamp": "2026-07-08T13:31:46+00:00",
+      "timestamp_display": "08/07/2026 07:31 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 168. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 168,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074845471948910793#m",
+      "timestamp": "2026-07-08T13:18:03+00:00",
+      "timestamp_display": "08/07/2026 07:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 14, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). 🔘 Dirección Veracruz, se restablece la circulación de manera normal. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.847331202511704,
+      "lng": -96.78181234962122,
+      "road": 150,
+      "km": 14,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074844726742634570#m",
+      "timestamp": "2026-07-08T13:15:06+00:00",
+      "timestamp_display": "08/07/2026 07:15 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 25, dirección Cosoleacaque. Continúa reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.933265058017096,
+      "lng": -94.70561143361095,
+      "road": 145,
+      "km": 25,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074843918781288668#m",
+      "timestamp": "2026-07-08T13:11:53+00:00",
+      "timestamp_display": "08/07/2026 07:11 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 173, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 173,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074840591939096804#m",
+      "timestamp": "2026-07-08T12:58:40+00:00",
+      "timestamp_display": "08/07/2026 06:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 28, dirección CDMX. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 28,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074837038017249732#m",
+      "timestamp": "2026-07-08T12:44:33+00:00",
+      "timestamp_display": "08/07/2026 06:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 14, dirección Córdoba. Cierre a la circulación por atención de accidente (reacomodo de muros). 🔘 Dirección Veracruz, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.847331202511704,
+      "lng": -96.78181234962122,
+      "road": 150,
+      "km": 14,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074835973100216326#m",
+      "timestamp": "2026-07-08T12:40:19+00:00",
+      "timestamp_display": "08/07/2026 06:40 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074831211126493416#m",
+      "timestamp": "2026-07-08T12:21:23+00:00",
+      "timestamp_display": "08/07/2026 06:21 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Gómez Palacio - Corralitos, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2074828332672172415#m",
+      "timestamp": "2026-07-08T12:09:57+00:00",
+      "timestamp_display": "08/07/2026 06:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 14. Se restablece la circulación con reducción de carriles en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.847331202511704,
+      "lng": -96.78181234962122,
+      "road": 150,
+      "km": 14,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074827657556935109#m",
+      "timestamp": "2026-07-08T12:07:16+00:00",
+      "timestamp_display": "08/07/2026 06:07 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 38, dirección Cosoleacaque. Se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.994936917463246,
+      "lng": -94.60185349774528,
+      "road": 145,
+      "km": 38,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2074827193272639717#m",
+      "timestamp": "2026-07-08T12:05:25+00:00",
+      "timestamp_display": "08/07/2026 06:05 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
       ]
     },
     {
@@ -303,267 +557,6 @@
       "url": "https://nitter.net/CAPUFE/status/2074817163093786793#m",
       "timestamp": "2026-07-08T11:25:34+00:00",
       "timestamp_display": "08/07/2026 05:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acayucan - Cosoleacaque, km 38, dirección Cosoleacaque. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.994936917463246,
-      "lng": -94.60185349774528,
-      "road": 145,
-      "km": 38,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074816353286963553#m",
-      "timestamp": "2026-07-08T11:22:21+00:00",
-      "timestamp_display": "08/07/2026 05:22 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 6, dirección Cosoleacaque. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.91341888003502,
-      "lng": -94.88309921941682,
-      "road": 145,
-      "km": 6,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074813112813761011#m",
-      "timestamp": "2026-07-08T11:09:28+00:00",
-      "timestamp_display": "08/07/2026 05:09 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 38, dirección Cosoleacaque. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.994936917463246,
-      "lng": -94.60185349774528,
-      "road": 145,
-      "km": 38,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074810300734337414#m",
-      "timestamp": "2026-07-08T10:58:18+00:00",
-      "timestamp_display": "08/07/2026 04:58 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 25, dirección Cosoleacaque. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.933265058017096,
-      "lng": -94.70561143361095,
-      "road": 145,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074810151853310367#m",
-      "timestamp": "2026-07-08T10:57:42+00:00",
-      "timestamp_display": "08/07/2026 04:57 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 14. Reducción de carriles en ambos sentidos por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.847331202511704,
-      "lng": -96.78181234962122,
-      "road": 150,
-      "km": 14,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074797144557470051#m",
-      "timestamp": "2026-07-08T10:06:01+00:00",
-      "timestamp_display": "08/07/2026 04:06 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 228, dirección Guaymas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 228,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074794174415528090#m",
-      "timestamp": "2026-07-08T09:54:13+00:00",
-      "timestamp_display": "08/07/2026 03:54 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, km 30. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.291227804850323,
-      "lng": -98.90581065740561,
-      "road": 150,
-      "km": 12,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074793090984907019#m",
-      "timestamp": "2026-07-08T09:49:55+00:00",
-      "timestamp_display": "08/07/2026 03:49 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 47. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 47,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074780272118178202#m",
-      "timestamp": "2026-07-08T08:58:59+00:00",
-      "timestamp_display": "08/07/2026 02:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 47. Continúa reducción de carriles en ambos sentidos por atención de accidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 47,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074774293821460711#m",
-      "timestamp": "2026-07-08T08:35:13+00:00",
-      "timestamp_display": "08/07/2026 02:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 38, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.994936917463246,
-      "lng": -94.60185349774528,
-      "road": 145,
-      "km": 38,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074773607985639724#m",
-      "timestamp": "2026-07-08T08:32:30+00:00",
-      "timestamp_display": "08/07/2026 02:32 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 30. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución. Para más información, llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.291227804850323,
-      "lng": -98.90581065740561,
-      "road": 150,
-      "km": 12,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074763217973231670#m",
-      "timestamp": "2026-07-08T07:51:13+00:00",
-      "timestamp_display": "08/07/2026 01:51 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guaymas - Hermosillo, km 228, dirección Guaymas. Continúa cierre a la circulación por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 228,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074762358635794859#m",
-      "timestamp": "2026-07-08T07:47:48+00:00",
-      "timestamp_display": "08/07/2026 01:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 47. Continúa reducción de carriles en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 47,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074747965495726362#m",
-      "timestamp": "2026-07-08T06:50:36+00:00",
-      "timestamp_display": "08/07/2026 00:50 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 48, dirección Mazatlán. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074744632865386869#m",
-      "timestamp": "2026-07-08T06:37:22+00:00",
-      "timestamp_display": "08/07/2026 00:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, continúa #lluvia del km 96 al 101. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074743456203702463#m",
-      "timestamp": "2026-07-08T06:32:41+00:00",
-      "timestamp_display": "08/07/2026 00:32 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 30, dirección CDMX. Se informa a las personas usuarias que continúa cierre a la circulación por presencia de manifestantes. ➡️ Dirección CDMX, se desvía el tránsito vehicular hacia carretera libre a la altura del km 33 (Poblado de Ixtapaluca). ➡️ Dirección Puebla, se restablece el tránsito vehicular en carriles laterales. Continúa cierre a la circulación en carriles centrales. La ruta alterna no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 19.291227804850323,
-      "lng": -98.90581065740561,
-      "road": 150,
-      "km": 12,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2074741953812398493#m",
-      "timestamp": "2026-07-08T06:26:43+00:00",
-      "timestamp_display": "08/07/2026 00:26 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 48, dirección Mazatlán. Se informa a las personas usuarias que se restablece la circulación. El personal continúa laborando en la atención del accidente, por el momento sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074738366784967128#m",
-      "timestamp": "2026-07-08T06:12:28+00:00",
-      "timestamp_display": "08/07/2026 00:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guaymas - Hermosillo, km 228, dirección Guaymas. Cierre a la circulación por atención de accidente (salida del camino de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 228,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2074735435574620416#m",
-      "timestamp": "2026-07-08T06:00:49+00:00",
-      "timestamp_display": "08/07/2026 00:00 CST",
       "segment": null
     }
   ]
