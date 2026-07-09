@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-09T08:08:05.819736",
+  "last_update": "2026-07-09T11:18:47.274716",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 035+800, de la carretera Ent. La tinaja-Cosoleacaque, a la altura de Loma de los Pichones. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 35.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2075144175238914103#m",
+      "timestamp": "2026-07-09T09:05:00+00:00",
+      "timestamp_display": "09/07/2026 03:05 CST",
+      "segment": null
+    },
     {
       "title": "#AlMomento en #EdoMx se registra #AccidenteVial cerca del Km 023+500, de la carretera Venta de Carpio-Teotihuacana, a la altura de la Colonia Azteca. Sin afectación a la circulación. Maneje con precaución.",
       "type": "twitter",
@@ -270,20 +283,43 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #EDOMX se registra #AccidenteVial cerca del Km 043+300, de la carretera México-Puebla, a la altura del Mpio. San Marcos Huixtoco, sin afectación a la circulación. Maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 19. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.307744887050557,
-      "lng": -98.79287873953146,
-      "road": 150,
-      "km": 25.299999999999997,
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 19,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2074928389052342689#m",
-      "timestamp": "2026-07-08T18:47:32+00:00",
-      "timestamp_display": "08/07/2026 12:47 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2075166105140634078#m",
+      "timestamp": "2026-07-09T10:32:08+00:00",
+      "timestamp_display": "09/07/2026 04:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 33, dirección Cuernavaca. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 33,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2075165989843402970#m",
+      "timestamp": "2026-07-09T10:31:41+00:00",
+      "timestamp_display": "09/07/2026 04:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 169. Cierre a la circulación en ambos sentidos por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 169,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2075165041347658124#m",
+      "timestamp": "2026-07-09T10:27:55+00:00",
+      "timestamp_display": "09/07/2026 04:27 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 33, dirección La Tinaja. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
@@ -504,45 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2075063244058681497#m",
       "timestamp": "2026-07-09T03:43:24+00:00",
       "timestamp_display": "08/07/2026 21:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 39, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 39,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075062600690274808#m",
-      "timestamp": "2026-07-09T03:40:51+00:00",
-      "timestamp_display": "08/07/2026 21:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 48, dirección CDMX. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075059971952091468#m",
-      "timestamp": "2026-07-09T03:30:24+00:00",
-      "timestamp_display": "08/07/2026 21:30 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, km 261, dirección Acatzingo. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. En la zona se registra carga vehicular. Unidades de CAPUFE, realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 261,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075059455150948375#m",
-      "timestamp": "2026-07-09T03:28:21+00:00",
-      "timestamp_display": "08/07/2026 21:28 CST",
       "segment": null
     }
   ]
