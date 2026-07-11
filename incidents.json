@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-11T10:01:59.702292",
+  "last_update": "2026-07-11T11:18:36.238587",
   "incidents": [
     {
       "title": "#ViaLibre en #Puebla tras cierre parcial por #AccidenteVial cerca del Km 065+500, de la carretera México-Puebla, a la altura de El Pipirín, con dirección a Puebla. Maneje con precaución.",
@@ -274,6 +274,84 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 30, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2075901756039397614#m",
+      "timestamp": "2026-07-11T11:15:21+00:00",
+      "timestamp_display": "11/07/2026 05:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 22. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2075897408118985102#m",
+      "timestamp": "2026-07-11T10:58:05+00:00",
+      "timestamp_display": "11/07/2026 04:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 33, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 33,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2075896506062643220#m",
+      "timestamp": "2026-07-11T10:54:29+00:00",
+      "timestamp_display": "11/07/2026 04:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 22. Se restablece la circulación con reducción de carriles en ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2075892040206852193#m",
+      "timestamp": "2026-07-11T10:36:45+00:00",
+      "timestamp_display": "11/07/2026 04:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 186, dirección Gómez Palacio. Reducción de carriles por atención de accidente (incendio de caja de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 186,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2075889481429778826#m",
+      "timestamp": "2026-07-11T10:26:35+00:00",
+      "timestamp_display": "11/07/2026 04:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 22, dirección Cuautla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). ➡ Dirección La Pera, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 22,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2075885165264449768#m",
+      "timestamp": "2026-07-11T10:09:26+00:00",
+      "timestamp_display": "11/07/2026 04:09 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 148. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.24,
@@ -459,84 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2075779893103661299#m",
       "timestamp": "2026-07-11T03:11:07+00:00",
       "timestamp_display": "10/07/2026 21:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2075779584302186529#m",
-      "timestamp": "2026-07-11T03:09:53+00:00",
-      "timestamp_display": "10/07/2026 21:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 210, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075764617242927320#m",
-      "timestamp": "2026-07-11T02:10:25+00:00",
-      "timestamp_display": "10/07/2026 20:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075764371213410774#m",
-      "timestamp": "2026-07-11T02:09:26+00:00",
-      "timestamp_display": "10/07/2026 20:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CARGA VEHICULAR🟠 #AutMéxicoQuerétaro, km 56. Carga vehicular en ambos sentidos por atención de incidente a la altura de la salida al Poblado de Jorobas (fuera de la jurisdicción a cargo de CAPUFE). Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2075763710421868654#m",
-      "timestamp": "2026-07-11T02:06:49+00:00",
-      "timestamp_display": "10/07/2026 20:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 210, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (salida del camino de camioneta). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075761457849876815#m",
-      "timestamp": "2026-07-11T01:57:51+00:00",
-      "timestamp_display": "10/07/2026 19:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075757024323768452#m",
-      "timestamp": "2026-07-11T01:40:14+00:00",
-      "timestamp_display": "10/07/2026 19:40 CST",
       "segment": null
     }
   ]
