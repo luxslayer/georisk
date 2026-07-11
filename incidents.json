@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-07-11T08:28:07.908696",
+  "last_update": "2026-07-11T10:01:59.702292",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Puebla tras cierre parcial por #AccidenteVial cerca del Km 065+500, de la carretera México-Puebla, a la altura de El Pipirín, con dirección a Puebla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.350461862209347,
+      "lng": -98.65050420441624,
+      "road": 150,
+      "km": 47.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2075862934681464857#m",
+      "timestamp": "2026-07-11T08:41:05+00:00",
+      "timestamp_display": "11/07/2026 02:41 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#ViaLibre en #Hidalgo tras cierre parcial de circulación por #AccidenteVial Km 071+800, de la carretera Lib. Arco Norte Ciudad de México, a la altura del Mpio. Tlalminulpa, con dirección a Querétaro. Maneje con precaución.",
       "type": "twitter",
@@ -258,16 +274,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial por #AccidenteVial cerca del Km 032+000, de la carretera Villahermosa-Francisco Escárcega Con Ramales a Nuevo Coahuila y Palizada, a la altura de la comunidad Ramón Grande. Atienda indicación vial.",
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 148. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 148,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2075871113486160021#m",
+      "timestamp": "2026-07-11T09:13:35+00:00",
+      "timestamp_display": "11/07/2026 03:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 22. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 32.0,
+      "km": 22,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2075704798070947857#m",
-      "timestamp": "2026-07-10T22:12:43+00:00",
-      "timestamp_display": "10/07/2026 16:12 CST",
+      "url": "https://nitter.net/CAPUFE/status/2075869526856519906#m",
+      "timestamp": "2026-07-11T09:07:17+00:00",
+      "timestamp_display": "11/07/2026 03:07 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 148. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos. El personal se encuentra realizando las labores de limpieza. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 148,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2075863822275887595#m",
+      "timestamp": "2026-07-11T08:44:37+00:00",
+      "timestamp_display": "11/07/2026 02:44 CST",
       "segment": null
     },
     {
@@ -366,19 +408,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 148. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos. El personal se encuentra realizando las labores de limpieza. Toma tus precacuiones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 148,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2075826839243682157#m",
-      "timestamp": "2026-07-11T06:17:40+00:00",
-      "timestamp_display": "11/07/2026 00:17 CST",
-      "segment": null
     },
     {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 148. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. El personal se encuentra realizando las labores de atención del incidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
@@ -509,35 +538,6 @@
       "timestamp": "2026-07-11T01:40:14+00:00",
       "timestamp_display": "10/07/2026 19:40 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 298, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 298,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075755511539015917#m",
-      "timestamp": "2026-07-11T01:34:14+00:00",
-      "timestamp_display": "10/07/2026 19:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 17, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.840824548711325,
-      "lng": -96.75419047929334,
-      "road": 150,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2075752740462981307#m",
-      "timestamp": "2026-07-11T01:23:13+00:00",
-      "timestamp_display": "10/07/2026 19:23 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
