@@ -1,19 +1,6 @@
 {
-  "last_update": "2026-07-11T20:29:44.043556",
+  "last_update": "2026-07-11T21:26:41.790316",
   "incidents": [
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre total por #AccidenteVial cerca del Km 198+500, de la carretera Uruapan-Lázaro Cárdenas (Pátzcuaro-Uruapan)-Lázaro Cárdenas, a la altura del Mpio. de El Ingenio, con dirección a Uruapan. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 198.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2076020433736884598#m",
-      "timestamp": "2026-07-11T19:06:56+00:00",
-      "timestamp_display": "11/07/2026 13:06 CST",
-      "segment": null
-    },
     {
       "title": "R to @GN_Carreteras: Se invita a la población a tomar la Ruta Alterna hacia el km 179+000, de la Carretera Libre San Pedro Barajas-Las Cañas.",
       "type": "twitter",
@@ -24,6 +11,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2076020435389485489#m",
       "timestamp": "2026-07-11T19:06:57+00:00",
+      "timestamp_display": "11/07/2026 13:06 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre total por #AccidenteVial cerca del Km 198+500, de la carretera Uruapan-Lázaro Cárdenas (Pátzcuaro-Uruapan)-Lázaro Cárdenas, a la altura del Mpio. de El Ingenio, con dirección a Uruapan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 198.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2076020433736884598#m",
+      "timestamp": "2026-07-11T19:06:56+00:00",
       "timestamp_display": "11/07/2026 13:06 CST",
       "segment": null
     },
@@ -274,16 +274,94 @@
       ]
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 166, dirección Acapulco. Reducción de carriles por atención de accidente (incendio de automóvil). Maneja con precaución.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Pera - Cuautla, registra #lluvia y tormenta eléctrica a la altura de la Plaza de Cobro Tepoztlán. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076052835179859975#m",
+      "timestamp": "2026-07-11T21:15:41+00:00",
+      "timestamp_display": "11/07/2026 15:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 173, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 173,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2076051307459174659#m",
+      "timestamp": "2026-07-11T21:09:37+00:00",
+      "timestamp_display": "11/07/2026 15:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Continúa carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076048704985862295#m",
+      "timestamp": "2026-07-11T20:59:17+00:00",
+      "timestamp_display": "11/07/2026 14:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 185, dirección Guaymas. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 185,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2076048480049451369#m",
+      "timestamp": "2026-07-11T20:58:23+00:00",
+      "timestamp_display": "11/07/2026 14:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 166, dirección Cuernavaca. Reducción de carriles por atención de accidente (incendio de automóvil). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
       "km": 166,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076041022484754897#m",
-      "timestamp": "2026-07-11T20:28:45+00:00",
-      "timestamp_display": "11/07/2026 14:28 CST",
+      "url": "https://nitter.net/CAPUFE/status/2076044798922809564#m",
+      "timestamp": "2026-07-11T20:43:45+00:00",
+      "timestamp_display": "11/07/2026 14:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2076044163351474337#m",
+      "timestamp": "2026-07-11T20:41:14+00:00",
+      "timestamp_display": "11/07/2026 14:41 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076043557710840135#m",
+      "timestamp": "2026-07-11T20:38:49+00:00",
+      "timestamp_display": "11/07/2026 14:38 CST",
       "segment": null
     },
     {
@@ -326,7 +404,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 168, dirección Acayucan. Reducción de carriles por atención de volcadura de camioneta. El personal de CAPUFE se encuentra realizando las labores de atención. En la zona se registra carga vehicular. ➡️ Dirección Isla, opera de manera normal. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/9FWFKKTLXztkvxWr7",
+      "title": "R to @CAPUFE: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 168, dirección Acayucan. Reducción de carriles por atención de volcadura de camioneta. El personal de CAPUFE se encuentra realizando las labores de atención. En la zona se registra carga vehicular. ➡️ Dirección Isla, opera de manera normal. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/9FWFKKTLXztkvxWr7",
       "type": "twitter",
       "lat": 17.94,
       "lng": -94.91,
@@ -443,100 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2075961040848736729#m",
       "timestamp": "2026-07-11T15:10:56+00:00",
       "timestamp_display": "11/07/2026 09:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 42, dirección Ensenada. Reducción de carriles por atención de accidente (salida del camino y choque contra defensas metálicas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 42,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075956615098863866#m",
-      "timestamp": "2026-07-11T14:53:21+00:00",
-      "timestamp_display": "11/07/2026 08:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 186, dirección Gómez Palacio. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 186,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075953947009802480#m",
-      "timestamp": "2026-07-11T14:42:44+00:00",
-      "timestamp_display": "11/07/2026 08:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 7, dirección Acayucan. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.91398847195084,
-      "lng": -94.87366678840068,
-      "road": 145,
-      "km": 7,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075946138843185433#m",
-      "timestamp": "2026-07-11T14:11:43+00:00",
-      "timestamp_display": "11/07/2026 08:11 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ Tu mejor decisión es respetar los límites. 👉 Baja la velocidad y disfruta el trayecto con seguridad. 🚗 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2075943192608850328#m",
-      "timestamp": "2026-07-11T14:00:00+00:00",
-      "timestamp_display": "11/07/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2075939627614032303#m",
-      "timestamp": "2026-07-11T13:45:50+00:00",
-      "timestamp_display": "11/07/2026 07:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2075934391549784389#m",
-      "timestamp": "2026-07-11T13:25:02+00:00",
-      "timestamp_display": "11/07/2026 07:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 186, dirección Gómez Palacio. Continúa reducción de carriles por atención de accidente (labores de limpieza). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 186,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2075915142294810713#m",
-      "timestamp": "2026-07-11T12:08:33+00:00",
-      "timestamp_display": "11/07/2026 06:08 CST",
       "segment": null
     }
   ]
