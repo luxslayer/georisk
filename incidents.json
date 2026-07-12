@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-12T22:23:44.663905",
+  "last_update": "2026-07-12T23:26:23.146787",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tlaxcala se registra #AccidenteVial cerca del Km 199+200, de la carretera Libramiento Norte de la Cd. de México, en la localidad de Sanctórum, con dirección a Tlaxcala. Atienda indicación vial.",
@@ -292,6 +292,71 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 1, dirección Cuautla. Reducción de carriles por atención de accidente (salida del camino de automóvil y choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2076447781607092578#m",
+      "timestamp": "2026-07-12T23:25:04+00:00",
+      "timestamp_display": "12/07/2026 17:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Poniente Acapulco, km 15, dirección Bajos del Ejido. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 15,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2076447097755242829#m",
+      "timestamp": "2026-07-12T23:22:21+00:00",
+      "timestamp_display": "12/07/2026 17:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076442319650214179#m",
+      "timestamp": "2026-07-12T23:03:22+00:00",
+      "timestamp_display": "12/07/2026 17:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076435513557360762#m",
+      "timestamp": "2026-07-12T22:36:19+00:00",
+      "timestamp_display": "12/07/2026 16:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🚑🛣️ En autopistas #CAPUFE, nuestros servicios son gratuitos. No te dejes engañar. Si alguien solicita dinero por brindarte apoyo, repórtalo de inmediato. 📞 800 990 2900 📩 quejas@capufe.gob.mx #EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076433924004204819#m",
+      "timestamp": "2026-07-12T22:30:00+00:00",
+      "timestamp_display": "12/07/2026 16:30 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Libramiento Poniente Acapulco, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -481,77 +546,6 @@
       "timestamp": "2026-07-12T20:33:19+00:00",
       "timestamp_display": "12/07/2026 14:33 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Continúa carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2076403579942772787#m",
-      "timestamp": "2026-07-12T20:29:25+00:00",
-      "timestamp_display": "12/07/2026 14:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 203, dirección Guaymas. Continúa reducción de carriles por atención de accidente (incendio de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 203,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076403127905882250#m",
-      "timestamp": "2026-07-12T20:27:38+00:00",
-      "timestamp_display": "12/07/2026 14:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 11, dirección Veracruz. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.856496016994058,
-      "lng": -96.80857847858043,
-      "road": 150,
-      "km": 11,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076401494014689538#m",
-      "timestamp": "2026-07-12T20:21:08+00:00",
-      "timestamp_display": "12/07/2026 14:21 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular del km 19 al 23, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2076400733302272286#m",
-      "timestamp": "2026-07-12T20:18:07+00:00",
-      "timestamp_display": "12/07/2026 14:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia a la altura de la Plaza de Cobro San Martín. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2076393654889914392#m",
-      "timestamp": "2026-07-12T19:49:59+00:00",
-      "timestamp_display": "12/07/2026 13:49 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
