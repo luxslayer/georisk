@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-12T11:59:47.431327",
+  "last_update": "2026-07-12T13:47:25.659098",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Tlaxcala se registra #AccidenteVial cerca del Km 025+400, de la carretera Ent. Carr. (México - Puebla) Ocotoxco, a inmediaciones de la comunidad de Totolac, con dirección a Apizaco. Atienda indicación vial.",
@@ -280,6 +280,35 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz registra #lluvia a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076301247934570787#m",
+      "timestamp": "2026-07-12T13:42:47+00:00",
+      "timestamp_display": "12/07/2026 07:42 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 120, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 120,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2076289261708468666#m",
+      "timestamp": "2026-07-12T12:55:10+00:00",
+      "timestamp_display": "12/07/2026 06:55 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 120, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -514,32 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2076139619607806210#m",
       "timestamp": "2026-07-12T03:00:32+00:00",
       "timestamp_display": "11/07/2026 21:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Carbonera - Puerto México, continúa #lluvia a la altura de la Plaza de Cobro Los Chorros. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2076137778291552722#m",
-      "timestamp": "2026-07-12T02:53:13+00:00",
-      "timestamp_display": "11/07/2026 20:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 136, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 136,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2076135320458813738#m",
-      "timestamp": "2026-07-12T02:43:27+00:00",
-      "timestamp_display": "11/07/2026 20:43 CST",
       "segment": null
     }
   ]
