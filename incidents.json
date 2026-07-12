@@ -1,6 +1,38 @@
 {
-  "last_update": "2026-07-12T10:54:26.313111",
+  "last_update": "2026-07-12T11:59:47.431327",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra #AccidenteVial cerca del Km 025+400, de la carretera Ent. Carr. (México - Puebla) Ocotoxco, a inmediaciones de la comunidad de Totolac, con dirección a Apizaco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.30959400284047,
+      "lng": -98.94196752584831,
+      "road": 150,
+      "km": 7.399999999999999,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2076273670717067296#m",
+      "timestamp": "2026-07-12T11:53:13+00:00",
+      "timestamp_display": "12/07/2026 05:53 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit se registra #AccidenteVial cerca del Km 021+500, de la carretera Tepic-Mazatlán, a la altura del Mpio. de Tepic, con dirección a Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.66753631931084,
+      "lng": -105.03438649620354,
+      "road": 15,
+      "km": 14.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2076264925068988747#m",
+      "timestamp": "2026-07-12T11:18:27+00:00",
+      "timestamp_display": "12/07/2026 05:18 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra #AccidenteVial cerca del Km 004+900, de la carretera Morelia - Salamanca, a la altura del Mpio. de Morelia, con dirección a Salamanca. Atienda indicación vial.",
       "type": "twitter",
@@ -248,29 +280,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tabasco se registra #AccidenteVial cerca del Km 007+900, de la carretera Villahermosa-Escopetazo, a la altura de la localidad de Río Viejo, con dirección a Villahermosa. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 120, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 7.9,
+      "km": 120,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2076009196231774251#m",
-      "timestamp": "2026-07-11T18:22:17+00:00",
-      "timestamp_display": "11/07/2026 12:22 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMéx se registra #AccidenteVial cerca del Km 013+500, de la carretera México (Ecatepec)-Ent. Tizayuca, a la altura del Mpio. San Pedro Xalostoc, con dirección a Cd. Méx. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": 13.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2076006793478631918#m",
-      "timestamp": "2026-07-11T18:12:44+00:00",
-      "timestamp_display": "11/07/2026 12:12 CST",
+      "url": "https://nitter.net/CAPUFE/status/2076269853497852081#m",
+      "timestamp": "2026-07-12T11:38:02+00:00",
+      "timestamp_display": "12/07/2026 05:38 CST",
       "segment": null
     },
     {
@@ -522,22 +541,6 @@
       "timestamp": "2026-07-12T02:43:27+00:00",
       "timestamp_display": "11/07/2026 20:43 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 31, dirección Cosoleacaque. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.01205595403734,
-      "lng": -94.58080936112958,
-      "road": 180,
-      "km": 31,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2076135226644848766#m",
-      "timestamp": "2026-07-12T02:43:05+00:00",
-      "timestamp_display": "11/07/2026 20:43 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
     }
   ]
 }
