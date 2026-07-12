@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-07-12T19:40:15.385417",
+  "last_update": "2026-07-12T20:27:05.858578",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del Km 245+500, de la carretera Puebla - Córdoba (directo), en el Mpio. de Carlos Salinas de Gortari. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.809735343793957,
+      "lng": -97.23943448076626,
+      "road": 150,
+      "km": 136.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2076392879509872643#m",
+      "timestamp": "2026-07-12T19:46:54+00:00",
+      "timestamp_display": "12/07/2026 13:46 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra #AccidenteVial cerca del Km 276+340, de la carretera Puebla-Córdoba (directo), en el Mpio. de Ixtaczoquitlán, con dirección a Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -270,16 +286,74 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chiapas se registra #AccidenteVial cerca del Km 000+050, de la carretera Tuxtla Gutiérrez - Cd. Cuauhtémoc, a la altura del Mpio. de Tuxtla Gutiérrez, con dirección a Tuxtla Gutiérrez. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 11, dirección Veracruz. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
-      "road": null,
-      "km": 0.05,
+      "lat": 18.856496016994058,
+      "lng": -96.80857847858043,
+      "road": 150,
+      "km": 11,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2076118860906778699#m",
-      "timestamp": "2026-07-12T01:38:03+00:00",
-      "timestamp_display": "11/07/2026 19:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2076401494014689538#m",
+      "timestamp": "2026-07-12T20:21:08+00:00",
+      "timestamp_display": "12/07/2026 14:21 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, dirección CDMX. Registra carga vehicular del km 19 al 23, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076400733302272286#m",
+      "timestamp": "2026-07-12T20:18:07+00:00",
+      "timestamp_display": "12/07/2026 14:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia a la altura de la Plaza de Cobro San Martín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076393654889914392#m",
+      "timestamp": "2026-07-12T19:49:59+00:00",
+      "timestamp_display": "12/07/2026 13:49 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076393091242611195#m",
+      "timestamp": "2026-07-12T19:47:45+00:00",
+      "timestamp_display": "12/07/2026 13:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076390975828644152#m",
+      "timestamp": "2026-07-12T19:39:20+00:00",
+      "timestamp_display": "12/07/2026 13:39 CST",
       "segment": null
     },
     {
@@ -491,58 +565,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 84, dirección Ensenada. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 84,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076340531131458030#m",
-      "timestamp": "2026-07-12T16:18:53+00:00",
-      "timestamp_display": "12/07/2026 10:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 100, dirección Acapulco. Continúa reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 100,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076338955511808489#m",
-      "timestamp": "2026-07-12T16:12:38+00:00",
-      "timestamp_display": "12/07/2026 10:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 100, dirección Acapulco. Reducción de carriles por atención de accidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 100,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076334409666445514#m",
-      "timestamp": "2026-07-12T15:54:34+00:00",
-      "timestamp_display": "12/07/2026 09:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Mendoza - Córdoba, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2076333571212538328#m",
-      "timestamp": "2026-07-12T15:51:14+00:00",
-      "timestamp_display": "12/07/2026 09:51 CST",
-      "segment": null
     }
   ]
 }
