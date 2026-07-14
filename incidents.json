@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-07-14T22:39:34.474359",
+  "last_update": "2026-07-14T23:34:04.874429",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 079+835, de la carretera Libramiento Norte de la Cd. de México, a la altura del Mpio. de Teocalco, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.324927054314287,
+      "lng": -98.52638220458503,
+      "road": 150,
+      "km": 61.834999999999994,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077166054120231304#m",
+      "timestamp": "2026-07-14T22:59:13+00:00",
+      "timestamp_display": "14/07/2026 16:59 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 003+900, de la carretera Tuxtla Gutiérrez - San Cristóbal de las Casas, a la altura del Mpio. de Chiapa de Corzo, con dirección a Tuxtla Gutiérrez. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre de circulación por #AccidenteVial cerca del km 139+400, de la carretera Perote-Xalapa, a la altura del Mpio. Acajete. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección Acapulco. Reducción de carriles laterales por atención de accidente (persona atropellada). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.3574,
-      "lng": -96.5341,
-      "road": 180,
-      "km": 139.4,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 88,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2076910646046708211#m",
-      "timestamp": "2026-07-14T06:04:19+00:00",
-      "timestamp_display": "14/07/2026 00:04 CST",
+      "url": "https://nitter.net/CAPUFE/status/2077174047696187762#m",
+      "timestamp": "2026-07-14T23:30:59+00:00",
+      "timestamp_display": "14/07/2026 17:30 CST",
       "segment": null
     },
     {
@@ -533,19 +549,6 @@
       "url": "https://nitter.net/CAPUFE/status/2077105459203289572#m",
       "timestamp": "2026-07-14T18:58:26+00:00",
       "timestamp_display": "14/07/2026 12:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Cd. Mendoza - Córdoba, del km 264 al 266, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 264,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077104375596503313#m",
-      "timestamp": "2026-07-14T18:54:08+00:00",
-      "timestamp_display": "14/07/2026 12:54 CST",
       "segment": null
     }
   ]
