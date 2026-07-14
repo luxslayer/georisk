@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-14T08:17:09.643569",
+  "last_update": "2026-07-14T10:16:18.271052",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 043+800, de la carretera Teziutlan-Nautla, a la altura del Mpio. La Tapona, con dirección a la Cuenca de las Tortugas. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 139, dirección Guaymas. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": 139,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2076970796577136806#m",
+      "timestamp": "2026-07-14T10:03:20+00:00",
+      "timestamp_display": "14/07/2026 04:03 CST",
+      "segment": null
+    },
+    {
       "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que se retiran los manifestantes. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 18.7603,
@@ -515,19 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2076844882950344963#m",
       "timestamp": "2026-07-14T01:43:00+00:00",
       "timestamp_display": "13/07/2026 19:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 60, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076841634906493028#m",
-      "timestamp": "2026-07-14T01:30:06+00:00",
-      "timestamp_display": "13/07/2026 19:30 CST",
       "segment": null
     }
   ]
