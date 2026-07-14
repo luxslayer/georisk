@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-14T10:16:18.271052",
+  "last_update": "2026-07-14T11:54:00.053350",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 002+100, de la carretera Apizaco-Tejocotal, a la altura de la Loc. Plan de Ayala, con dirección Huamantla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 2.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2076997942762688743#m",
+      "timestamp": "2026-07-14T11:51:12+00:00",
+      "timestamp_display": "14/07/2026 05:51 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 043+800, de la carretera Teziutlan-Nautla, a la altura del Mpio. La Tapona, con dirección a la Cuenca de las Tortugas. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra #AccidenteVial cerca del Km 139+600, de la carretera Tulancingo - Tihuatlán, en el Mpio. de Huauchinango, con dirección a Tihuatlán. Atienda indicación vial.",
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 139.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2076659310654881962#m",
-      "timestamp": "2026-07-13T13:25:36+00:00",
-      "timestamp_display": "13/07/2026 07:25 CST",
+      "km": 83,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2076979072333148339#m",
+      "timestamp": "2026-07-14T10:36:13+00:00",
+      "timestamp_display": "14/07/2026 04:36 CST",
       "segment": null
     },
     {
@@ -278,7 +291,7 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que se retiran los manifestantes. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 83, dirección Isla. Se informa a las personas usuarias que se retiran los manifestantes. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 18.7603,
       "lng": -96.4616,
@@ -515,19 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2076845379534934155#m",
       "timestamp": "2026-07-14T01:44:59+00:00",
       "timestamp_display": "13/07/2026 19:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 0. Continúa reducción de carriles en la gaza de incorporación a la Autopista Acatzingo - Cd. Mendoza, dir. Acatzingo, por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2076844882950344963#m",
-      "timestamp": "2026-07-14T01:43:00+00:00",
-      "timestamp_display": "13/07/2026 19:43 CST",
       "segment": null
     }
   ]
