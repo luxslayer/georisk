@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-15T10:58:47.263639",
+  "last_update": "2026-07-15T12:20:27.992995",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 013+000, de la carretera Ent. (Aut. Puebla - Tlaxcala)- Santa Ana Chiautempa, a la altura del Mpio. de Papalotla de Xicotencatl, con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 30.5391,
+      "lng": -111.1212,
+      "road": null,
+      "km": 13.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077366864179540083#m",
+      "timestamp": "2026-07-15T12:17:10+00:00",
+      "timestamp_display": "15/07/2026 06:17 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+500, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Xicotepec, con dirección a Tuxpan. Atienda indicación vial.",
       "type": "twitter",
@@ -252,17 +265,52 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 142+000, de la carretera Coatzacoalcos - Villahermosa, a la altura del Mpio. de Villahermosa, con dirección a Villahermosa. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 46, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 142.0,
+      "lat": 18.782959449358756,
+      "lng": -96.4888243883913,
+      "road": 150,
+      "km": 46,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077363876908163403#m",
+      "timestamp": "2026-07-15T12:05:18+00:00",
+      "timestamp_display": "15/07/2026 06:05 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 47, dirección CDMX. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.30034324802179,
+      "lng": -98.76687197911097,
+      "road": 150,
+      "km": 29,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077176599863034122#m",
-      "timestamp": "2026-07-14T23:41:08+00:00",
-      "timestamp_display": "14/07/2026 17:41 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2077360116718797127#m",
+      "timestamp": "2026-07-15T11:50:21+00:00",
+      "timestamp_display": "15/07/2026 05:50 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 46, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.782959449358756,
+      "lng": -96.4888243883913,
+      "road": 150,
+      "km": 46,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077356176006590939#m",
+      "timestamp": "2026-07-15T11:34:42+00:00",
+      "timestamp_display": "15/07/2026 05:34 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 47, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
@@ -490,51 +538,6 @@
       "timestamp": "2026-07-14T23:55:08+00:00",
       "timestamp_display": "14/07/2026 17:55 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 88, dirección Acapulco. Reducción de carriles laterales por atención de accidente (persona atropellada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 88,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077174047696187762#m",
-      "timestamp": "2026-07-14T23:30:59+00:00",
-      "timestamp_display": "14/07/2026 17:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077159416344821910#m",
-      "timestamp": "2026-07-14T22:32:51+00:00",
-      "timestamp_display": "14/07/2026 16:32 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 72, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.343303368676928,
-      "lng": -98.59431936391876,
-      "road": 150,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077158105981280464#m",
-      "timestamp": "2026-07-14T22:27:38+00:00",
-      "timestamp_display": "14/07/2026 16:27 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
