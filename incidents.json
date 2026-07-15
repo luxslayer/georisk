@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-15T17:38:30.934922",
+  "last_update": "2026-07-15T18:45:24.802131",
   "incidents": [
     {
       "title": "R to @GN_Carreteras: Se invita a la población a tomar la Ruta Alterna por el carril lateral de la carretera México-Cuernavaca.",
@@ -275,6 +275,84 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Camargo - Río Grande, Plaza de Cobro Pte. Camargo. Registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Consulta la ubicación aquí: https://maps.app.goo.gl/GpnCR6fnt7qwYWzT9",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077430220966015177#m",
+      "timestamp": "2026-07-15T16:28:56+00:00",
+      "timestamp_display": "15/07/2026 10:28 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Camargo - Río Grande, Plaza de Cobro Pte. Camargo. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077456938627964968#m",
+      "timestamp": "2026-07-15T18:15:06+00:00",
+      "timestamp_display": "15/07/2026 12:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🚨 ¿Visitas México de manera temporal? ¡Esta información es para ti! 🇲🇽🧳 Queremos que tu ingreso y tránsito por el país sea seguro, respetando siempre tus derechos. Para lograrlo, el programa Heroínas y Héroes Paisanos pone a tu disposición módulos de atención en puntos clave. Acércate a los \"Observadores\" están listos para orientarte y recibir tus quejas en caso de que sufras algún abuso por parte de servidores públicos. ¡Tu mejor defensa es estar informado! Revisa la guía aquí: 🛡️💻 https://www.gob.mx/.../1082677/GUIA_COMPLETA_HHP_ESP_2.pdf",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077453145383514315#m",
+      "timestamp": "2026-07-15T18:00:01+00:00",
+      "timestamp_display": "15/07/2026 12:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠CARGA VEHICULAR🟠 Autopista Chamapa - Lechería, Plaza de Cobro Chamapa, dirección Chamapa. Registra carga vehicular por labores de mantenimiento fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077450935781949829#m",
+      "timestamp": "2026-07-15T17:51:14+00:00",
+      "timestamp_display": "15/07/2026 11:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Cuernavaca, km 88, dirección Acapulco. Cierre a la circulación en carriles centrales y laterales por atención de accidente (choque contra muro central). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 88,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2077423183238451301#m",
+      "timestamp": "2026-07-15T16:00:58+00:00",
+      "timestamp_display": "15/07/2026 10:00 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Cuernavaca, km 88, dirección Acapulco. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de choque contra muro central. En la zona se registra derrame de combustible. Se sugiere a la ciudadanía desviarse hacia la Ciudad de Cuernavaca, en los siguientes puntos: ➡️ Km 81, a la altura de la Av. Vicente Guerrero. ➡️ Km 86, a la altura de la Colonia Antonio Barona. Toma tus precauciones. Cualquier novedad se dará a conocer a través de este medio y en el 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 88,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077437500658741566#m",
+      "timestamp": "2026-07-15T16:57:51+00:00",
+      "timestamp_display": "15/07/2026 10:57 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Navojoa - Cd. Obregón, Plaza de Cobro Fundición. Reducción de carriles en ambos sentidos por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -301,19 +379,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Cuernavaca, km 88, dirección Acapulco. Se informa a las personas usuarias que continúa el cierre a la circulación por atención de choque contra muro central. En la zona se registra derrame de combustible. Se sugiere a la ciudadanía desviarse hacia la Ciudad de Cuernavaca, en los siguientes puntos: ➡️ Km 81, a la altura de la Av. Vicente Guerrero. ➡️ Km 86, a la altura de la Colonia Antonio Barona. Toma tus precauciones. Cualquier novedad se dará a conocer a través de este medio y en el 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 88,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077437500658741566#m",
-      "timestamp": "2026-07-15T16:57:51+00:00",
-      "timestamp_display": "15/07/2026 10:57 CST",
-      "segment": null
-    },
-    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 231, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -324,19 +389,6 @@
       "url": "https://nitter.net/CAPUFE/status/2077432795496882555#m",
       "timestamp": "2026-07-15T16:39:09+00:00",
       "timestamp_display": "15/07/2026 10:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Camargo - Río Grande, Plaza de Cobro Pte. Camargo. Registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Consulta la ubicación aquí: https://maps.app.goo.gl/GpnCR6fnt7qwYWzT9",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077430220966015177#m",
-      "timestamp": "2026-07-15T16:28:56+00:00",
-      "timestamp_display": "15/07/2026 10:28 CST",
       "segment": null
     },
     {
@@ -353,16 +405,29 @@
       "segment": null
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Cuernavaca, km 88, dirección Acapulco. Cierre a la circulación en carriles centrales y laterales por atención de accidente (choque contra muro central). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco, Plaza de Cobro La Venta. Registra cierre a la circulación en ambos sentidos por presencia de manifestantes. ➡️ Dirección Cuernavaca, se desvía el tránsito vehicular a tramo libre a la altura de la Plaza de Cobro La Venta. La carretera libre no es administrada por CAPUFE. Para más información, llama al 088 de GN_Carreteras. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/SeZ5hypAZp5fL5Ms9",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
-      "km": 88,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077423183238451301#m",
-      "timestamp": "2026-07-15T16:00:58+00:00",
-      "timestamp_display": "15/07/2026 10:00 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077382358085296539#m",
+      "timestamp": "2026-07-15T13:18:44+00:00",
+      "timestamp_display": "15/07/2026 07:18 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cuernavaca - Acapulco, Plaza de Cobro La Venta. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes. Se desvía el tránsito vehicular hacia tramo libre en los siguientes puntos: ➡️ Dirección Cuernavaca, Plaza de Cobro La Venta. ➡️ Dirección Acapulco, a la altura del km 321 (Poblado Tierra Colorada). La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 321,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077392114288087354#m",
+      "timestamp": "2026-07-15T13:57:30+00:00",
+      "timestamp_display": "15/07/2026 07:57 CST",
       "segment": null
     },
     {
@@ -429,64 +494,6 @@
       "timestamp": "2026-07-15T15:22:59+00:00",
       "timestamp_display": "15/07/2026 09:22 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Nuevo Teapa - Cosoleacaque, km 16. Circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077413583630070015#m",
-      "timestamp": "2026-07-15T15:22:49+00:00",
-      "timestamp_display": "15/07/2026 09:22 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077413515665494256#m",
-      "timestamp": "2026-07-15T15:22:33+00:00",
-      "timestamp_display": "15/07/2026 09:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077413368428695872#m",
-      "timestamp": "2026-07-15T15:21:58+00:00",
-      "timestamp_display": "15/07/2026 09:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077413304620741071#m",
-      "timestamp": "2026-07-15T15:21:42+00:00",
-      "timestamp_display": "15/07/2026 09:21 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
