@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-07-15T09:00:04.226137",
+  "last_update": "2026-07-15T10:58:47.263639",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 141+500, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Xicotepec, con dirección a Tuxpan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.575699999999998,
+      "lng": -98.46815000000001,
+      "road": 130,
+      "km": 141.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077344395372736938#m",
+      "timestamp": "2026-07-15T10:47:53+00:00",
+      "timestamp_display": "15/07/2026 04:47 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+100, de la carretera Zapotlanejo - El Desperdicio, a la altura del Mpio. Tepatitlán de Morelos, con dirección El Desperdicio. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": null,
+      "km": 20.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077341369568268350#m",
+      "timestamp": "2026-07-15T10:35:52+00:00",
+      "timestamp_display": "15/07/2026 04:35 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 068+500, de la carretera Acatlán de Juárez - Colima, en el Mpio. de Cd. Guzmán, con dirección a Colima. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 68.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077340673951273196#m",
+      "timestamp": "2026-07-15T10:33:06+00:00",
+      "timestamp_display": "15/07/2026 04:33 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 109+900, de la carretera Los Reyes-Zacapetec , a la altura del Mpio. de Yauhquemehcan, con dirección Zacapetec. Atienda indicación vial.",
       "type": "twitter",
@@ -81,19 +120,6 @@
         "puebla",
         "cordoba"
       ]
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 020+100, de la carretera Zapotlanejo - El Desperdicio, a la altura del Mpio. Tepatitlán de Morelos, con dirección El Desperdicio. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": null,
-      "km": 20.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077248959571964227#m",
-      "timestamp": "2026-07-15T04:28:40+00:00",
-      "timestamp_display": "14/07/2026 22:28 CST",
-      "segment": null
     },
     {
       "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 360+000, de la carretera Maravatío - Zapotlanejo, a inmediaciones de la Caseta de Cobro Ecuandureo. Maneje con precaución.",
@@ -239,29 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km 151+600, de la carretera Tapanatepec - Talismán, a la altura del Mpio. de Echegaray, con dirección a Tapachula. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 47, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.3708,
-      "lng": -94.1936,
-      "road": null,
-      "km": 151.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077175641208676561#m",
-      "timestamp": "2026-07-14T23:37:19+00:00",
-      "timestamp_display": "14/07/2026 17:37 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación por #AccidenteVial cerca del km 079+835, de la carretera Libramiento Norte de la Cd. de México, a la altura del Mpio. de Teocalco, con dirección a Puebla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.324927054314287,
-      "lng": -98.52638220458503,
+      "lat": 19.30034324802179,
+      "lng": -98.76687197911097,
       "road": 150,
-      "km": 61.834999999999994,
+      "km": 29,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077166054120231304#m",
-      "timestamp": "2026-07-14T22:59:13+00:00",
-      "timestamp_display": "14/07/2026 16:59 CST",
+      "url": "https://nitter.net/CAPUFE/status/2077328979724288046#m",
+      "timestamp": "2026-07-15T09:46:38+00:00",
+      "timestamp_display": "15/07/2026 03:46 CST",
       "segment": [
         "mexico",
         "puebla"
@@ -522,19 +535,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Registra carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077155726598734002#m",
-      "timestamp": "2026-07-14T22:18:11+00:00",
-      "timestamp_display": "14/07/2026 16:18 CST",
-      "segment": null
     }
   ]
 }
