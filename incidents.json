@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-16T20:12:10.902788",
+  "last_update": "2026-07-16T20:34:52.437133",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 084+400, de la carretera Carapan - Playa Azul Uruapan - Playa Azul, a la altura del Mpio. El Rastro. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 84.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077852146393890969#m",
+      "timestamp": "2026-07-16T20:25:30+00:00",
+      "timestamp_display": "16/07/2026 14:25 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #NL tras #AccidenteVial cerca del km 066+000, de la carretera Matehuala-Saltillo, a la altura del Mpio. de Doctor Arroyo. Maneje con precaución.",
       "type": "twitter",
@@ -261,19 +274,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2077747558802243939#m",
       "timestamp": "2026-07-16T13:29:55+00:00",
       "timestamp_display": "16/07/2026 07:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Oaxaca se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 267+500, de la carretera Coatzacoalcos-Salina Cruz, a la altura del aeropuerto de Ciudad Ixtepec, Mpio. El Espinal, Oax. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 267.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077713414017765846#m",
-      "timestamp": "2026-07-16T11:14:14+00:00",
-      "timestamp_display": "16/07/2026 05:14 CST",
       "segment": null
     },
     {
