@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-16T11:18:11.204432",
+  "last_update": "2026-07-16T12:59:21.050317",
   "incidents": [
     {
       "title": "#PrecauciónVial en #Oaxaca se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 267+500, de la carretera Coatzacoalcos-Salina Cruz, a la altura del aeropuerto de Ciudad Ixtepec, Mpio. El Espinal, Oax. Atienda indicación vial.",
@@ -265,6 +265,84 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 174, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 174,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2077725265824829937#m",
+      "timestamp": "2026-07-16T12:01:20+00:00",
+      "timestamp_display": "16/07/2026 06:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Acatzingo - Cd. Mendoza, continúa #neblina en la zona de las Cumbres de Maltrata. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077723806454436236#m",
+      "timestamp": "2026-07-16T11:55:32+00:00",
+      "timestamp_display": "16/07/2026 05:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Plan de Ayala - El Porvenir, Plaza de Cobro Plan de Ayala. Continúa carga vehicular en ambos sentidos por atención de incidencia. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077723190546038990#m",
+      "timestamp": "2026-07-16T11:53:05+00:00",
+      "timestamp_display": "16/07/2026 05:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 163, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 163,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077723103468138867#m",
+      "timestamp": "2026-07-16T11:52:44+00:00",
+      "timestamp_display": "16/07/2026 05:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Ciudad Valles - Tamuín, km 118, dirección Ciudad Valles. Reducción de carriles en la gaza de salida al Poblado de Tamuín por atención de accidente (choque de tracto camión contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 21.997,
+      "lng": -99.01,
+      "road": null,
+      "km": 118,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2077722761632293219#m",
+      "timestamp": "2026-07-16T11:51:23+00:00",
+      "timestamp_display": "16/07/2026 05:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tijuana - Ensenada, km 41. Cierre a la circulación en ambos sentidos por atención de incidente (fuga de agua). Se desvía el tránsito vehicular hacia tramo libre en los siguientes puntos: ➡️ Dirección Tijuana, a la altura del km 49. ➡️ Dirección Ensenada, a la altura de la Plaza de Cobro Rosarito. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras y al 0⃣7⃣4⃣. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 41,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077719628852220116#m",
+      "timestamp": "2026-07-16T11:38:56+00:00",
+      "timestamp_display": "16/07/2026 05:38 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Villahermosa, km 3. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -444,84 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2077628611922665587#m",
       "timestamp": "2026-07-16T05:37:16+00:00",
       "timestamp_display": "15/07/2026 23:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077625695019135328#m",
-      "timestamp": "2026-07-16T05:25:40+00:00",
-      "timestamp_display": "15/07/2026 23:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 250, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 250,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077625576756568266#m",
-      "timestamp": "2026-07-16T05:25:12+00:00",
-      "timestamp_display": "15/07/2026 23:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 265,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077623435618877689#m",
-      "timestamp": "2026-07-16T05:16:42+00:00",
-      "timestamp_display": "15/07/2026 23:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 265,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077618702883639659#m",
-      "timestamp": "2026-07-16T04:57:53+00:00",
-      "timestamp_display": "15/07/2026 22:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cuernavaca - Acapulco, km 356, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 356,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077614139522916544#m",
-      "timestamp": "2026-07-16T04:39:45+00:00",
-      "timestamp_display": "15/07/2026 22:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 173, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 173,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077609080949022887#m",
-      "timestamp": "2026-07-16T04:19:39+00:00",
-      "timestamp_display": "15/07/2026 22:19 CST",
       "segment": null
     }
   ]
