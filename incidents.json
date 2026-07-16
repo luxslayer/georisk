@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-16T20:34:52.437133",
+  "last_update": "2026-07-16T21:08:38.090308",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 268+000, de la carretera Tapanatepec-Talismán, a la altura del Mpio. de Huehuetán, con dirección a Tapachula. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": 268.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077860803324047616#m",
+      "timestamp": "2026-07-16T20:59:54+00:00",
+      "timestamp_display": "16/07/2026 14:59 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 084+400, de la carretera Carapan - Playa Azul Uruapan - Playa Azul, a la altura del Mpio. El Rastro. Maneje con precaución.",
       "type": "twitter",
@@ -264,16 +277,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 218+200, de la carretera Pinotepa Nacional-Salina Cruz, a la altura del poblado Palotada, Mpio. San Pedro Pochutla, Oax. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 187, dirección Acapulco. Continúa reducción de carriles por atención de incidente (tracto camión con ponchadura de neumático). Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 218.2,
+      "km": 187,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077862784897851509#m",
+      "timestamp": "2026-07-16T21:07:47+00:00",
+      "timestamp_display": "16/07/2026 15:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 335, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión tipo pipa con falla eléctrica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 335,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077858972246130767#m",
+      "timestamp": "2026-07-16T20:52:38+00:00",
+      "timestamp_display": "16/07/2026 14:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 164. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 164,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077747558802243939#m",
-      "timestamp": "2026-07-16T13:29:55+00:00",
-      "timestamp_display": "16/07/2026 07:29 CST",
+      "url": "https://nitter.net/CAPUFE/status/2077855539392815320#m",
+      "timestamp": "2026-07-16T20:38:59+00:00",
+      "timestamp_display": "16/07/2026 14:38 CST",
       "segment": null
     },
     {
@@ -462,45 +501,6 @@
       "url": "https://nitter.net/CAPUFE/status/2077828962789494843#m",
       "timestamp": "2026-07-16T18:53:23+00:00",
       "timestamp_display": "16/07/2026 12:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca, Plaza de Cobro Tlalpan. Registra reducción de carriles en ambos sentidos por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077828086393901529#m",
-      "timestamp": "2026-07-16T18:49:54+00:00",
-      "timestamp_display": "16/07/2026 12:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 187, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumático). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 187,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077811819427627141#m",
-      "timestamp": "2026-07-16T17:45:16+00:00",
-      "timestamp_display": "16/07/2026 11:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, Plaza de Cobro Fundición. Continúa reducción de carriles en ambos sentidos por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077808060072915334#m",
-      "timestamp": "2026-07-16T17:30:19+00:00",
-      "timestamp_display": "16/07/2026 11:30 CST",
       "segment": null
     }
   ]
