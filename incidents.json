@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T10:21:39.138358",
+  "last_update": "2026-07-17T11:02:58.792985",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 241+100, de la carretera Puebla-Córdoba (directo), a la altura del Mpio. de Maltrata, con dirección a Veracruz. Atienda indicación vial.",
@@ -283,6 +283,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232, dirección Puerto México. Se informa a las personas usuarias que continúa cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. ➡ Dirección La Carbonera, se restablece la circulación desde las Plazas de Cobro Los Chorros y Huachichil. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 232,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078071079394767334#m",
+      "timestamp": "2026-07-17T10:55:28+00:00",
+      "timestamp_display": "17/07/2026 04:55 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. El accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -540,19 +553,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Acatzingo. Continúa reducción de carriles por atención de incidencia. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077973939028926491#m",
-      "timestamp": "2026-07-17T04:29:28+00:00",
-      "timestamp_display": "16/07/2026 22:29 CST",
-      "segment": null
     }
   ]
 }
