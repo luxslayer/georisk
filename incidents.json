@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T21:32:18.182217",
+  "last_update": "2026-07-17T22:04:03.570905",
   "incidents": [
     {
       "title": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 023+000 de la carretera Villahermosa - Escopetazo, a la altura del fraccionamiento Villa El Cielo, Tab. Maneje con precaución.",
@@ -44,6 +44,19 @@
       ]
     },
     {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna por la localidad Huachichil, Coah. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2078182508345045484#m",
+      "timestamp": "2026-07-17T18:18:15+00:00",
+      "timestamp_display": "17/07/2026 12:18 CST",
+      "segment": null
+    },
+    {
       "title": "#EviteLaZona en #Coahuila continua cierre total de circulación por #AccidenteVial cerca del km. 231+500 de la carretera Puerto México - Ojo Caliente, a la altura del Mpio. Arteaga, Coah. Atienda indicación vial.",
       "type": "twitter",
       "lat": 25.1685,
@@ -58,19 +71,6 @@
         "puerto mexico",
         "ojo caliente"
       ]
-    },
-    {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna por la localidad Huachichil, Coah. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2078182508345045484#m",
-      "timestamp": "2026-07-17T18:18:15+00:00",
-      "timestamp_display": "17/07/2026 12:18 CST",
-      "segment": null
     },
     {
       "title": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 059+500 de la carretera México - Pachuca, a la altura de la localidad General Felipe Ángeles, Edo. Méx. Atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "📞 Activa la marcación corta con tu compañía telefónica para usar el 074. Solicita ayuda siempre que lo necesites. #EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078238313060729123#m",
+      "timestamp": "2026-07-17T22:00:00+00:00",
+      "timestamp_display": "17/07/2026 16:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078237032741028026#m",
+      "timestamp": "2026-07-17T21:54:55+00:00",
+      "timestamp_display": "17/07/2026 15:54 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 56, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -368,6 +394,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 204, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ze4UKbGq5LanJKtV8",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 204,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078167207440261383#m",
+      "timestamp": "2026-07-17T17:17:27+00:00",
+      "timestamp_display": "17/07/2026 11:17 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 204, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, continúa la reducción de carriles por labores de mantenimiento del km 194 al 207. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -436,19 +475,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 204, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ze4UKbGq5LanJKtV8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 204,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078167207440261383#m",
-      "timestamp": "2026-07-17T17:17:27+00:00",
-      "timestamp_display": "17/07/2026 11:17 CST",
-      "segment": null
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 4, dirección Cosoleacaque. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.04010047227731,
@@ -504,35 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078158292296048786#m",
       "timestamp": "2026-07-17T16:42:01+00:00",
       "timestamp_display": "17/07/2026 10:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078156732870610994#m",
-      "timestamp": "2026-07-17T16:35:50+00:00",
-      "timestamp_display": "17/07/2026 10:35 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento de Villahermosa, Plaza de Cobro Nacajuca I, dirección Frontera. Continúa reducción de carriles por atención de incidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078152741713522830#m",
-      "timestamp": "2026-07-17T16:19:58+00:00",
-      "timestamp_display": "17/07/2026 10:19 CST",
       "segment": null
     }
   ]
