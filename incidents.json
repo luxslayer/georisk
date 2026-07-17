@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T20:32:11.678352",
+  "last_update": "2026-07-17T21:05:01.572048",
   "incidents": [
     {
       "title": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 023+000 de la carretera Villahermosa - Escopetazo, a la altura del fraccionamiento Villa El Cielo, Tab. Maneje con precaución.",
@@ -274,6 +274,19 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078218428221923748#m",
+      "timestamp": "2026-07-17T20:40:59+00:00",
+      "timestamp_display": "17/07/2026 14:40 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 241, dirección Cd. Mendoza. Continúa registra reducción de carriles por atención de incidente (caída de carga). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -521,22 +534,6 @@
       "timestamp": "2026-07-17T16:18:15+00:00",
       "timestamp_display": "17/07/2026 10:18 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 80, dirección Córdoba. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.982238307917118,
-      "lng": -96.27044692068596,
-      "road": 150,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078149422639190320#m",
-      "timestamp": "2026-07-17T16:06:47+00:00",
-      "timestamp_display": "17/07/2026 10:06 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
