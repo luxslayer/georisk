@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-16T23:34:19.230788",
+  "last_update": "2026-07-17T00:07:09.189584",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Chihuahua se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 003+500, de la carretera Jiménez-Delicias, a la altura de la Localidad San Gerardo, con direccion a Delicias. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 28.63,
+      "lng": -106.08,
+      "road": null,
+      "km": 3.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077902151838286120#m",
+      "timestamp": "2026-07-16T23:44:13+00:00",
+      "timestamp_display": "16/07/2026 17:44 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 117+000, de la carretera Acatlán de Juárez - Colima, a la altura de la Localidad Platanar, con direccion a Colima. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": 117.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2077899825241116984#m",
+      "timestamp": "2026-07-16T23:34:58+00:00",
+      "timestamp_display": "16/07/2026 17:34 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 007+500, de la carretera Libramiento Tlaxcala, a la altura del Mpio. de San Hipólito Chimalpa, con dirección a Tlaxcala. Atienda indicación vial.",
       "type": "twitter",
@@ -251,30 +277,20 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 084+400, de la carretera Carapan - Playa Azul Uruapan - Playa Azul, a la altura del Mpio. El Rastro, con direccion a Uruapan. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 73, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 84.4,
+      "lat": 19.33905663544507,
+      "lng": -98.58664046523603,
+      "road": 150,
+      "km": 55,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077816566352138553#m",
-      "timestamp": "2026-07-16T18:04:08+00:00",
-      "timestamp_display": "16/07/2026 12:04 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 132+500, de la carretera Coatzacoalcos Villahermosa, a la altura de la localidad en la 4ta. Secc. Plátano y Cacao, con direccion a Coatzacoalcos. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 132.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077815018456752203#m",
-      "timestamp": "2026-07-16T17:57:58+00:00",
-      "timestamp_display": "16/07/2026 11:57 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2077907581754905073#m",
+      "timestamp": "2026-07-17T00:05:47+00:00",
+      "timestamp_display": "16/07/2026 18:05 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, Plaza de Cobro Fundición. Continúa reducción de carriles en ambos sentidos por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -494,19 +510,6 @@
       "url": "https://nitter.net/CAPUFE/status/2077858972246130767#m",
       "timestamp": "2026-07-16T20:52:38+00:00",
       "timestamp_display": "16/07/2026 14:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 164. Registra circulación intermitente en ambos sentidos por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 164,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077855539392815320#m",
-      "timestamp": "2026-07-16T20:38:59+00:00",
-      "timestamp_display": "16/07/2026 14:38 CST",
       "segment": null
     }
   ]
