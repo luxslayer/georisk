@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T02:39:42.530267",
+  "last_update": "2026-07-17T03:50:17.385335",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 073+300, de la carretera México - Puebla (directo), a la altura del Mpio. de Santa Catarina, con dirección a Puebla. Atienda indicación vial.",
@@ -280,6 +280,77 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd Mendoza - Córdoba, km 265, dirección Cd Mendoza. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 265,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2077960229766000775#m",
+      "timestamp": "2026-07-17T03:35:00+00:00",
+      "timestamp_display": "16/07/2026 21:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 22, dirección CDMX. Reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.330034972804544,
+      "lng": -98.96606363556693,
+      "road": 150,
+      "km": 4,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2077957878401409117#m",
+      "timestamp": "2026-07-17T03:25:39+00:00",
+      "timestamp_display": "16/07/2026 21:25 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd Mendoza - Córdoba, km 265, dirección Cd Mendoza. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 265,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2077953028477325712#m",
+      "timestamp": "2026-07-17T03:06:23+00:00",
+      "timestamp_display": "16/07/2026 21:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🚨🚨🚨 #COMUNICADO🚨🚨🚨 #CAPUFE pone en marcha el Operativo Verano 2026. Más información en: https://www.gob.mx/capufe/prensa/caminos-y-puentes-federales-pone-en-marcha-su-operativo-verano-2026",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077952400640372876#m",
+      "timestamp": "2026-07-17T03:03:53+00:00",
+      "timestamp_display": "16/07/2026 21:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 73. Reducción de carriles en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/7bi7gRuLVsWnYjQx8",
+      "type": "twitter",
+      "lat": 19.33905663544507,
+      "lng": -98.58664046523603,
+      "road": 150,
+      "km": 55,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2077946452995694872#m",
+      "timestamp": "2026-07-17T02:40:15+00:00",
+      "timestamp_display": "16/07/2026 20:40 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 335, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -472,80 +543,6 @@
       "timestamp": "2026-07-17T00:16:26+00:00",
       "timestamp_display": "16/07/2026 18:16 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 335, dirección Acapulco. Continúa reducción de carriles por atención de incidente (tracto camión tipo pipa con falla eléctrica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 335,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077909032862367989#m",
-      "timestamp": "2026-07-17T00:11:33+00:00",
-      "timestamp_display": "16/07/2026 18:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 58, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.81904512737901,
-      "lng": -96.38780460000115,
-      "road": 150,
-      "km": 58,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077908628783190404#m",
-      "timestamp": "2026-07-17T00:09:57+00:00",
-      "timestamp_display": "16/07/2026 18:09 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, km 73, dirección Puebla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.33905663544507,
-      "lng": -98.58664046523603,
-      "road": 150,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077907581754905073#m",
-      "timestamp": "2026-07-17T00:05:47+00:00",
-      "timestamp_display": "16/07/2026 18:05 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, Plaza de Cobro Fundición. Continúa reducción de carriles en ambos sentidos por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077896134727475475#m",
-      "timestamp": "2026-07-16T23:20:18+00:00",
-      "timestamp_display": "16/07/2026 17:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 7, dirección Córdoba. Reducción de carriles por atención de accidente (salida del camino y volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.86571926773676,
-      "lng": -96.84532047138298,
-      "road": 150,
-      "km": 7,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077891150443159893#m",
-      "timestamp": "2026-07-16T23:00:30+00:00",
-      "timestamp_display": "16/07/2026 17:00 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
