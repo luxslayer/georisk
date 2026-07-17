@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T21:05:01.572048",
+  "last_update": "2026-07-17T21:32:18.182217",
   "incidents": [
     {
       "title": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 023+000 de la carretera Villahermosa - Escopetazo, a la altura del fraccionamiento Villa El Cielo, Tab. Maneje con precaución.",
@@ -44,19 +44,6 @@
       ]
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna por la localidad Huachichil, Coah. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2078182508345045484#m",
-      "timestamp": "2026-07-17T18:18:15+00:00",
-      "timestamp_display": "17/07/2026 12:18 CST",
-      "segment": null
-    },
-    {
       "title": "#EviteLaZona en #Coahuila continua cierre total de circulación por #AccidenteVial cerca del km. 231+500 de la carretera Puerto México - Ojo Caliente, a la altura del Mpio. Arteaga, Coah. Atienda indicación vial.",
       "type": "twitter",
       "lat": 25.1685,
@@ -71,6 +58,19 @@
         "puerto mexico",
         "ojo caliente"
       ]
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna por la localidad Huachichil, Coah. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2078182508345045484#m",
+      "timestamp": "2026-07-17T18:18:15+00:00",
+      "timestamp_display": "17/07/2026 12:18 CST",
+      "segment": null
     },
     {
       "title": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 059+500 de la carretera México - Pachuca, a la altura de la localidad General Felipe Ángeles, Edo. Méx. Atienda indicación vial.",
@@ -271,6 +271,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2078091695732781219#m",
       "timestamp": "2026-07-17T12:17:23+00:00",
       "timestamp_display": "17/07/2026 06:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 56, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 56,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078230071865729071#m",
+      "timestamp": "2026-07-17T21:27:15+00:00",
+      "timestamp_display": "17/07/2026 15:27 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️ Aut. Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. Cierre a la circulación en las gaza de salida al poblado de Nogales, por presencia de manifestantes fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 264,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078227601147953329#m",
+      "timestamp": "2026-07-17T21:17:26+00:00",
+      "timestamp_display": "17/07/2026 15:17 CST",
       "segment": null
     },
     {
@@ -507,32 +533,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078152741713522830#m",
       "timestamp": "2026-07-17T16:19:58+00:00",
       "timestamp_display": "17/07/2026 10:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 72, dirección Querétaro. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 72,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078152479590543389#m",
-      "timestamp": "2026-07-17T16:18:55+00:00",
-      "timestamp_display": "17/07/2026 10:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 102, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 102,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078152311214330206#m",
-      "timestamp": "2026-07-17T16:18:15+00:00",
-      "timestamp_display": "17/07/2026 10:18 CST",
       "segment": null
     }
   ]
