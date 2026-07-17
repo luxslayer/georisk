@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T09:37:14.889985",
+  "last_update": "2026-07-17T10:21:39.138358",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 241+100, de la carretera Puebla-Córdoba (directo), a la altura del Mpio. de Maltrata, con dirección a Veracruz. Atienda indicación vial.",
@@ -283,6 +283,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. El accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 102,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078058645724492275#m",
+      "timestamp": "2026-07-17T10:06:04+00:00",
+      "timestamp_display": "17/07/2026 04:06 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Carbonera - Puerto México, km 232. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de las unidades siniestradas. 🔘 Por seguridad, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en dirección La Carbonera. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 25.1685,
@@ -539,19 +552,6 @@
       "url": "https://nitter.net/CAPUFE/status/2077973939028926491#m",
       "timestamp": "2026-07-17T04:29:28+00:00",
       "timestamp_display": "16/07/2026 22:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 102,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077973724620271855#m",
-      "timestamp": "2026-07-17T04:28:37+00:00",
-      "timestamp_display": "16/07/2026 22:28 CST",
       "segment": null
     }
   ]
