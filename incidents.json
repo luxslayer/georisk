@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-17T19:09:33.644522",
+  "last_update": "2026-07-17T19:39:17.006502",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 023+000 de la carretera Villahermosa - Escopetazo, a la altura del fraccionamiento Villa El Cielo, Tab. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2078199432957329792#m",
+      "timestamp": "2026-07-17T19:25:30+00:00",
+      "timestamp_display": "17/07/2026 13:25 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 084+700 de la carretera Libramiento Arco Norte de la Cd. de México, a la altura de la localidad Tlalminulpa. Atienda indicación vial.",
       "type": "twitter",
@@ -259,22 +272,6 @@
       "timestamp": "2026-07-17T12:17:23+00:00",
       "timestamp_display": "17/07/2026 06:17 CST",
       "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 241+100, de la carretera Puebla-Córdoba (directo), a la altura del Mpio. de Maltrata, con dirección a Veracruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.840486268775177,
-      "lng": -97.2620717094525,
-      "road": 150,
-      "km": 132.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078033701561045500#m",
-      "timestamp": "2026-07-17T08:26:57+00:00",
-      "timestamp_display": "17/07/2026 02:26 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Cd. Mendoza. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
