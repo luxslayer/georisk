@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-17T13:16:33.843185",
+  "last_update": "2026-07-17T14:06:39.372107",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 104+400, de la carretera Zapotlanejo - Lagos de Moreno, a la altura del Mpio. San Juan de los Lagos, con dirección a Lagos de Moreno. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": null,
+      "km": 104.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078114779567104195#m",
+      "timestamp": "2026-07-17T13:49:07+00:00",
+      "timestamp_display": "17/07/2026 07:49 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km 280+900, de la carretera Uruapan - Lázaro Cárdenas, a la altura de la Plaza de Cobro Feliciano, con dirección a Zihuatanejo. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +277,84 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 077+200, de la carretera Tuxpan-Tampico, a la altura del Mpio. de Tamalin, con dirección a Tampico. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance múltiple). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 77.2,
+      "km": 98,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2077893453539610961#m",
-      "timestamp": "2026-07-16T23:09:39+00:00",
-      "timestamp_display": "16/07/2026 17:09 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078118848742515010#m",
+      "timestamp": "2026-07-17T14:05:17+00:00",
+      "timestamp_display": "17/07/2026 08:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE continúan realizando operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 102,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078118187657204167#m",
+      "timestamp": "2026-07-17T14:02:40+00:00",
+      "timestamp_display": "17/07/2026 08:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 153, dirección Isla. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 153,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078116781508477040#m",
+      "timestamp": "2026-07-17T13:57:04+00:00",
+      "timestamp_display": "17/07/2026 07:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 144, dirección Querétaro. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 144,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078115048052928922#m",
+      "timestamp": "2026-07-17T13:50:11+00:00",
+      "timestamp_display": "17/07/2026 07:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 4, dirección Cosoleacaque. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.04010047227731,
+      "lng": -94.33725030436048,
+      "road": 180,
+      "km": 4,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078114537945858171#m",
+      "timestamp": "2026-07-17T13:48:10+00:00",
+      "timestamp_display": "17/07/2026 07:48 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento de Villahermosa, Plaza de Cobro Nacajuca I, dirección Frontera. Reducción de carriles por atención de incidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078112617923584444#m",
+      "timestamp": "2026-07-17T13:40:32+00:00",
+      "timestamp_display": "17/07/2026 07:40 CST",
       "segment": null
     },
     {
@@ -456,90 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2077997680958058535#m",
       "timestamp": "2026-07-17T06:03:49+00:00",
       "timestamp_display": "17/07/2026 00:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 102, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 102,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077989677617877482#m",
-      "timestamp": "2026-07-17T05:32:00+00:00",
-      "timestamp_display": "16/07/2026 23:32 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 73. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.33905663544507,
-      "lng": -98.58664046523603,
-      "road": 150,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077985616751476981#m",
-      "timestamp": "2026-07-17T05:15:52+00:00",
-      "timestamp_display": "16/07/2026 23:15 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd Mendoza - Córdoba, km 265, dirección Cd Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 265,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077983907211853928#m",
-      "timestamp": "2026-07-17T05:09:05+00:00",
-      "timestamp_display": "16/07/2026 23:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 22, dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.330034972804544,
-      "lng": -98.96606363556693,
-      "road": 150,
-      "km": 4,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2077983614411657527#m",
-      "timestamp": "2026-07-17T05:07:55+00:00",
-      "timestamp_display": "16/07/2026 23:07 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 25, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida de neumático de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 25,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077983316582506927#m",
-      "timestamp": "2026-07-17T05:06:44+00:00",
-      "timestamp_display": "16/07/2026 23:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 102, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 102,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2077983009488113945#m",
-      "timestamp": "2026-07-17T05:05:31+00:00",
-      "timestamp_display": "16/07/2026 23:05 CST",
       "segment": null
     }
   ]
