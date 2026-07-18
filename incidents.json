@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T12:02:48.101176",
+  "last_update": "2026-07-18T12:34:26.927429",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+000 de la carretera México - Cuernavaca, a la altura de la localidad San Juan Tlacotenco. Atienda indicación vial.",
@@ -280,6 +280,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (maquinaria pesada con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 36,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078457746265981213#m",
+      "timestamp": "2026-07-18T12:31:57+00:00",
+      "timestamp_display": "18/07/2026 06:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 108, dirección Isla. Cierre a la circulación por atención de accidente (incendio de autobús). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 108,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078457306874819022#m",
+      "timestamp": "2026-07-18T12:30:12+00:00",
+      "timestamp_display": "18/07/2026 06:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 20, dirección Chamapa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078454918411657338#m",
+      "timestamp": "2026-07-18T12:20:43+00:00",
+      "timestamp_display": "18/07/2026 06:20 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 20, dirección Chamapa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -498,45 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078335781576364476#m",
       "timestamp": "2026-07-18T04:27:18+00:00",
       "timestamp_display": "17/07/2026 22:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078335036755955926#m",
-      "timestamp": "2026-07-18T04:24:21+00:00",
-      "timestamp_display": "17/07/2026 22:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 90, dirección Acapulco. Se restablece la circulación en carriles laterales. Sin embargo, se continúa con la atención del accidente (choque por alcance), por el momento sin afectación a los carriles de rodamiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 90,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078331508243251546#m",
-      "timestamp": "2026-07-18T04:10:19+00:00",
-      "timestamp_display": "17/07/2026 22:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 97,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078330815092560185#m",
-      "timestamp": "2026-07-18T04:07:34+00:00",
-      "timestamp_display": "17/07/2026 22:07 CST",
       "segment": null
     }
   ]
