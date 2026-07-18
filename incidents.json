@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T23:19:50.361972",
+  "last_update": "2026-07-18T23:48:02.593013",
   "incidents": [
     {
       "title": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 005+000 de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dirección al Aeropuerto Internacional “Ángel Albino Corzo”. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 198, dirección CDMX. Se retiran los peregrinos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 198,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078621078839030108#m",
+      "timestamp": "2026-07-18T23:20:58+00:00",
+      "timestamp_display": "18/07/2026 17:20 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Magdalena - Nogales, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -518,22 +531,6 @@
       "segment": [
         "mexico",
         "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en dirección Veracruz, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078579811304210693#m",
-      "timestamp": "2026-07-18T20:36:59+00:00",
-      "timestamp_display": "18/07/2026 14:36 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
       ]
     }
   ]
