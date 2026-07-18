@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T05:50:07.627677",
+  "last_update": "2026-07-18T06:42:53.052978",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 208+500 de la carretera Poza Rica - Veracruz. Atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 145, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 145,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078366556954714317#m",
+      "timestamp": "2026-07-18T06:29:36+00:00",
+      "timestamp_display": "18/07/2026 00:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 110, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 110,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078360229247320502#m",
+      "timestamp": "2026-07-18T06:04:27+00:00",
+      "timestamp_display": "18/07/2026 00:04 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -509,32 +535,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cuernavaca - Acapulco, km 96, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078317559837860114#m",
-      "timestamp": "2026-07-18T03:14:54+00:00",
-      "timestamp_display": "17/07/2026 21:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cuernavaca - Acapulco, km 302, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 302,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078316609182027978#m",
-      "timestamp": "2026-07-18T03:11:07+00:00",
-      "timestamp_display": "17/07/2026 21:11 CST",
-      "segment": null
     }
   ]
 }
