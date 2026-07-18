@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T13:47:24.978633",
+  "last_update": "2026-07-18T14:27:30.126759",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 108+200 de la carretera Ent. La Tinaja - Cosoleacaque, a la altura del Mpio. Mata Limones. Atienda indicación vial.",
@@ -280,6 +280,61 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Cuchilla - Matamoros, km 2, dirección La Cuchilla. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 2,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078485129509343596#m",
+      "timestamp": "2026-07-18T14:20:45+00:00",
+      "timestamp_display": "18/07/2026 08:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 88, dirección Puebla. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.2871137157128,
+      "lng": -98.46005911337981,
+      "road": 150,
+      "km": 70,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078481756815016158#m",
+      "timestamp": "2026-07-18T14:07:21+00:00",
+      "timestamp_display": "18/07/2026 08:07 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ La velocidad inadecuada incrementa el riesgo en carretera. 👉 Conduce con precaución y respeta los límites. 🚙 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078479906502009059#m",
+      "timestamp": "2026-07-18T14:00:00+00:00",
+      "timestamp_display": "18/07/2026 08:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja- Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078476804399010242#m",
+      "timestamp": "2026-07-18T13:47:41+00:00",
+      "timestamp_display": "18/07/2026 07:47 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 57, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y choque contra árbol). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -485,58 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078419935773036867#m",
       "timestamp": "2026-07-18T10:01:42+00:00",
       "timestamp_display": "18/07/2026 04:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 20, dirección Chamapa. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078413843064127984#m",
-      "timestamp": "2026-07-18T09:37:29+00:00",
-      "timestamp_display": "18/07/2026 03:37 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 145, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 145,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078393952944652644#m",
-      "timestamp": "2026-07-18T08:18:27+00:00",
-      "timestamp_display": "18/07/2026 02:18 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 145, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 145,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078366556954714317#m",
-      "timestamp": "2026-07-18T06:29:36+00:00",
-      "timestamp_display": "18/07/2026 00:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 110, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 110,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078360229247320502#m",
-      "timestamp": "2026-07-18T06:04:27+00:00",
-      "timestamp_display": "18/07/2026 00:04 CST",
       "segment": null
     }
   ]
