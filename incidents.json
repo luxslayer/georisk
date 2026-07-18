@@ -1,6 +1,38 @@
 {
-  "last_update": "2026-07-18T07:19:28.284607",
+  "last_update": "2026-07-18T08:09:03.681838",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 157+400 de la carretera Puebla - Cordoba. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078383051080405147#m",
+      "timestamp": "2026-07-18T07:35:08+00:00",
+      "timestamp_display": "18/07/2026 01:35 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León - Aguascalientes, a inmediaciones del municipio de Aguascalientes. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.077417082689756,
+      "lng": -101.71229048424787,
+      "road": 45,
+      "km": 15.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078381330132246987#m",
+      "timestamp": "2026-07-18T07:28:18+00:00",
+      "timestamp_display": "18/07/2026 01:28 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 208+500 de la carretera Poza Rica - Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -245,32 +277,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2078258003220873357#m",
       "timestamp": "2026-07-17T23:18:14+00:00",
       "timestamp_display": "17/07/2026 17:18 CST",
-      "segment": null
-    },
-    {
-      "title": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 023+000 de la carretera Villahermosa - Escopetazo, a la altura del fraccionamiento Villa El Cielo, Tab. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2078199432957329792#m",
-      "timestamp": "2026-07-17T19:25:30+00:00",
-      "timestamp_display": "17/07/2026 13:25 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 084+700 de la carretera Libramiento Arco Norte de la Cd. de México, a la altura de la localidad Tlalminulpa. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078189655262990745#m",
-      "timestamp": "2026-07-17T18:46:39+00:00",
-      "timestamp_display": "17/07/2026 12:46 CST",
       "segment": null
     },
     {
