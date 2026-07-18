@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T05:00:03.397900",
+  "last_update": "2026-07-18T05:50:07.627677",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km 208+500 de la carretera Poza Rica - Veracruz. Atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078355896179057147#m",
+      "timestamp": "2026-07-18T05:47:14+00:00",
+      "timestamp_display": "17/07/2026 23:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 31, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 31,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078346049178005974#m",
+      "timestamp": "2026-07-18T05:08:06+00:00",
+      "timestamp_display": "17/07/2026 23:08 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 184. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal se encuentra laborando en la atención del accidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 17.072,
@@ -508,32 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078316609182027978#m",
       "timestamp": "2026-07-18T03:11:07+00:00",
       "timestamp_display": "17/07/2026 21:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078313232268206412#m",
-      "timestamp": "2026-07-18T02:57:42+00:00",
-      "timestamp_display": "17/07/2026 20:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 159, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). 🔘 Dirección Isla, continúa reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 159,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078307356761317817#m",
-      "timestamp": "2026-07-18T02:34:21+00:00",
-      "timestamp_display": "17/07/2026 20:34 CST",
       "segment": null
     }
   ]
