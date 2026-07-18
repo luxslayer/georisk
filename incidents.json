@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-18T11:35:58.951930",
+  "last_update": "2026-07-18T12:02:48.101176",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+000 de la carretera México - Cuernavaca, a la altura de la localidad San Juan Tlacotenco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078446291613372704#m",
+      "timestamp": "2026-07-18T11:46:26+00:00",
+      "timestamp_display": "18/07/2026 05:46 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #Accidentevial cerca del km. 101+000 de la carretera Toluca-Palmillas, a la altura de la localidad de San Ana Oxtoc Toxhié, Edo. Atienda indicación vial.",
       "type": "twitter",
@@ -267,16 +280,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #BJ continua cierre parcial de circulación por #AccidenteVial cerca del km. 053+500 de la carretera Mexicali - Tijuana, a la altura de la Localidad La Rumorosa. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 20, dirección Chamapa. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 32.6255,
-      "lng": -115.4548,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 20,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078259471948607602#m",
-      "timestamp": "2026-07-17T23:24:04+00:00",
-      "timestamp_display": "17/07/2026 17:24 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078449310404895120#m",
+      "timestamp": "2026-07-18T11:58:25+00:00",
+      "timestamp_display": "18/07/2026 05:58 CST",
       "segment": null
     },
     {
@@ -524,19 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078330815092560185#m",
       "timestamp": "2026-07-18T04:07:34+00:00",
       "timestamp_display": "17/07/2026 22:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. Reducción de carriles por atención de incidente (maquinaria pesada con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 36,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078330443233890598#m",
-      "timestamp": "2026-07-18T04:06:05+00:00",
-      "timestamp_display": "17/07/2026 22:06 CST",
       "segment": null
     }
   ]
