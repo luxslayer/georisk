@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-18T22:47:23.970825",
+  "last_update": "2026-07-18T23:19:50.361972",
   "incidents": [
+    {
+      "title": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 005+000 de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dirección al Aeropuerto Internacional “Ángel Albino Corzo”. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078620328213860535#m",
+      "timestamp": "2026-07-18T23:17:59+00:00",
+      "timestamp_display": "18/07/2026 17:17 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accidente cerca del km.000+300 de la carretera Tihuatlán (T.C. Alazan Canoas), con dirección a Alamo, Ver. Atienda indicación vial.",
       "type": "twitter",
@@ -255,17 +268,59 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #Accidentevial cerca del km. 101+000 de la carretera Toluca-Palmillas, a la altura de la localidad de San Ana Oxtoc Toxhié, Edo. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Magdalena - Nogales, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078443120870531193#m",
-      "timestamp": "2026-07-18T11:33:50+00:00",
-      "timestamp_display": "18/07/2026 05:33 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078619119478313055#m",
+      "timestamp": "2026-07-18T23:13:11+00:00",
+      "timestamp_display": "18/07/2026 17:13 CST",
       "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Hermosillo - Magdalena, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078615800790097973#m",
+      "timestamp": "2026-07-18T23:00:00+00:00",
+      "timestamp_display": "18/07/2026 17:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 198. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 198,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078613795644092498#m",
+      "timestamp": "2026-07-18T22:52:02+00:00",
+      "timestamp_display": "18/07/2026 16:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, Plaza de Cobro San Martín. Continúa carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078613029156004083#m",
+      "timestamp": "2026-07-18T22:48:59+00:00",
+      "timestamp_display": "18/07/2026 16:48 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Acatzingo. Continúa reducción de carriles por atención de incidencia. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -480,58 +535,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN #AutMéxicoQuerétaro, km 189, dirección CDMX. Se informa a las personas usuarias que se continúa reducción de carriles por avance de peregrinos. Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 189,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078578064036946173#m",
-      "timestamp": "2026-07-18T20:30:03+00:00",
-      "timestamp_display": "18/07/2026 14:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Acatzingo. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078577577870897425#m",
-      "timestamp": "2026-07-18T20:28:07+00:00",
-      "timestamp_display": "18/07/2026 14:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078577365169373627#m",
-      "timestamp": "2026-07-18T20:27:16+00:00",
-      "timestamp_display": "18/07/2026 14:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078577152207798439#m",
-      "timestamp": "2026-07-18T20:26:25+00:00",
-      "timestamp_display": "18/07/2026 14:26 CST",
-      "segment": null
     }
   ]
 }
