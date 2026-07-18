@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T10:43:39.122576",
+  "last_update": "2026-07-18T11:12:33.670397",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 157+400 de la carretera Puebla - Cordoba. Atienda indicación vial.",
@@ -280,6 +280,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 108, dirección Isla. Reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 108,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078432913045995607#m",
+      "timestamp": "2026-07-18T10:53:16+00:00",
+      "timestamp_display": "18/07/2026 04:53 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 36, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (maquinaria pesada con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -524,19 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078330443233890598#m",
       "timestamp": "2026-07-18T04:06:05+00:00",
       "timestamp_display": "17/07/2026 22:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 90,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078328087570214943#m",
-      "timestamp": "2026-07-18T03:56:44+00:00",
-      "timestamp_display": "17/07/2026 21:56 CST",
       "segment": null
     }
   ]
