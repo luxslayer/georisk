@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T18:21:19.804667",
+  "last_update": "2026-07-18T18:48:41.774151",
   "incidents": [
     {
       "title": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación tras accidente cerca del km. 160+000 de la carretera Libramiento Norte de la Ciudad de México, a la altura de la Caseta de Cobro Tulancingo 1, con dirección a Tula de Allende, Hgo. Atienda indicación vial.",
@@ -277,6 +277,45 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja- Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078550577735237986#m",
+      "timestamp": "2026-07-18T18:40:49+00:00",
+      "timestamp_display": "18/07/2026 12:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 55, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 55,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078549921536356410#m",
+      "timestamp": "2026-07-18T18:38:13+00:00",
+      "timestamp_display": "18/07/2026 12:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 32, dirección Tijuana. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078548473641603409#m",
+      "timestamp": "2026-07-18T18:32:28+00:00",
+      "timestamp_display": "18/07/2026 12:32 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 32, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
       "lat": 32.5127,
@@ -495,45 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078501943312277685#m",
       "timestamp": "2026-07-18T15:27:34+00:00",
       "timestamp_display": "18/07/2026 09:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 55, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078500155490197535#m",
-      "timestamp": "2026-07-18T15:20:28+00:00",
-      "timestamp_display": "18/07/2026 09:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Cd. Mendoza. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078498343664095437#m",
-      "timestamp": "2026-07-18T15:13:16+00:00",
-      "timestamp_display": "18/07/2026 09:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 131, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 131,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078497593093394486#m",
-      "timestamp": "2026-07-18T15:10:17+00:00",
-      "timestamp_display": "18/07/2026 09:10 CST",
       "segment": null
     }
   ]
