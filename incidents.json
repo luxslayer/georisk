@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-18T17:48:42.451074",
+  "last_update": "2026-07-18T18:21:19.804667",
   "incidents": [
+    {
+      "title": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación tras accidente cerca del km. 160+000 de la carretera Libramiento Norte de la Ciudad de México, a la altura de la Caseta de Cobro Tulancingo 1, con dirección a Tula de Allende, Hgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078540225257595346#m",
+      "timestamp": "2026-07-18T17:59:41+00:00",
+      "timestamp_display": "18/07/2026 11:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Zacatecas se registra cierre total de la circulación tras #AccidenteVial cerca del km. 144+000 de la carretera Zacatecas-Saltillo, a la altura de la localidad de Majoma, Zac., con dirección a Zac. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078538416162021675#m",
+      "timestamp": "2026-07-18T17:52:30+00:00",
+      "timestamp_display": "18/07/2026 11:52 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación tras accidente cerca del km.176+000 de la carretera Cuernavaca-Chilpancingo, a la altura del puente de Quetzalapa, Mpio. Huitzuco de los Figueroa, Gro., codirección a Cuernavaca, Mor. Atienda indicación vial",
       "type": "twitter",
@@ -251,29 +277,42 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Hidalgo tras retiro de personas, cerca del km. 015+800 de la carretera Pachuca - Tempoal, a la altura del Mpio. Huejutla, Hgo. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 32, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
+      "lat": 32.5127,
+      "lng": -116.9301,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2078312005564268677#m",
-      "timestamp": "2026-07-18T02:52:49+00:00",
-      "timestamp_display": "17/07/2026 20:52 CST",
+      "km": 32,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078541647466340861#m",
+      "timestamp": "2026-07-18T18:05:20+00:00",
+      "timestamp_display": "18/07/2026 12:05 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Yucatán continua cierre parcial de circulación por #AccidenteVial cerca del km. 000+900 de la carretera Mérida - Tizimín, dirección Mérida, a la altura del Mpio. de Cholul. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 48. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 17.072,
+      "lng": -96.72,
       "road": null,
-      "km": null,
+      "km": 48,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078294892892074133#m",
-      "timestamp": "2026-07-18T01:44:49+00:00",
-      "timestamp_display": "17/07/2026 19:44 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078540737432473922#m",
+      "timestamp": "2026-07-18T18:01:43+00:00",
+      "timestamp_display": "18/07/2026 12:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN #AutMéxicoQuerétaro, km 198, dirección CDMX. Se informa a las personas usuarias que se registra reducción de carriles por avance de peregrinos. Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 198,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078539395875963132#m",
+      "timestamp": "2026-07-18T17:56:24+00:00",
+      "timestamp_display": "18/07/2026 11:56 CST",
       "segment": null
     },
     {
@@ -495,45 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078497593093394486#m",
       "timestamp": "2026-07-18T15:10:17+00:00",
       "timestamp_display": "18/07/2026 09:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🚛 Si una falla mecánica detiene tu viaje, en los tramos operados por #CAPUFE cuentas con el servicio de grúa. 📞 Ante cualquier eventualidad, comunícate al 074 o escríbenos por @CAPUFE. #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078495007481192856#m",
-      "timestamp": "2026-07-18T15:00:01+00:00",
-      "timestamp_display": "18/07/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078493494964810182#m",
-      "timestamp": "2026-07-18T14:54:00+00:00",
-      "timestamp_display": "18/07/2026 08:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 161, dirección Magdalena. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 161,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078492914204774739#m",
-      "timestamp": "2026-07-18T14:51:41+00:00",
-      "timestamp_display": "18/07/2026 08:51 CST",
       "segment": null
     }
   ]
