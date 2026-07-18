@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-18T11:12:33.670397",
+  "last_update": "2026-07-18T11:35:58.951930",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #Accidentevial cerca del km. 101+000 de la carretera Toluca-Palmillas, a la altura de la localidad de San Ana Oxtoc Toxhié, Edo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078443120870531193#m",
+      "timestamp": "2026-07-18T11:33:50+00:00",
+      "timestamp_display": "18/07/2026 05:33 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 157+400 de la carretera Puebla - Cordoba. Atienda indicación vial.",
       "type": "twitter",
@@ -264,19 +277,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2078259471948607602#m",
       "timestamp": "2026-07-17T23:24:04+00:00",
       "timestamp_display": "17/07/2026 17:24 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 154+000 de la autopista Ent. La Tinaja - Cosoleacaque. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078258003220873357#m",
-      "timestamp": "2026-07-17T23:18:14+00:00",
-      "timestamp_display": "17/07/2026 17:18 CST",
       "segment": null
     },
     {
