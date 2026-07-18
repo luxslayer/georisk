@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-17T23:33:07.728132",
+  "last_update": "2026-07-18T00:04:29.218059",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Hidalgo continua cierre parcial de circulación por presencia de personas, cerca del km. 015+800 de la carretera Pachuca - Tempoal, a la altura del Mpio. Huejutla, Hgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.11,
+      "lng": -98.73,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2078262879472537863#m",
+      "timestamp": "2026-07-17T23:37:37+00:00",
+      "timestamp_display": "17/07/2026 17:37 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #SLP continua cierre parcial de circulación por #AccidenteVial cerca del km. 053+000 de la carretera Corbera - Entorque, a inmediaciones del Mpio Vanegas. Atienda indicación vial.",
       "type": "twitter",
@@ -259,19 +272,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 104+400, de la carretera Zapotlanejo - Lagos de Moreno, a la altura del Mpio. San Juan de los Lagos, con dirección a Lagos de Moreno. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": null,
-      "km": 104.4,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078114779567104195#m",
-      "timestamp": "2026-07-17T13:49:07+00:00",
-      "timestamp_display": "17/07/2026 07:49 CST",
-      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN🟠 Aut. Cd. Mendoza - Córdoba, km 263, dirección Córdoba. Reducción de carriles por presencia de manifestantes. En la zona se registra carga vehicular. Maneja con precaución.",
