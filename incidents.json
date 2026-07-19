@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-19T09:26:09.015197",
+  "last_update": "2026-07-19T10:03:57.160999",
   "incidents": [
     {
       "title": "#EviteLaZona en #Puebla se registra cierre parcial de circulación, por presencia de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Atienda indicación vial.",
@@ -274,6 +274,22 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, Plaza de Cobro San Martín. Se informa a las personas usuarias que continúa presencia de manifestantes. 🔘 Dirección Puebla, con reducción de carriles. 🔘 Dirección CDMX, sin cierre a la circulación. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078780239556337975#m",
+      "timestamp": "2026-07-19T09:53:25+00:00",
+      "timestamp_display": "19/07/2026 03:53 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -514,19 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078630259818217883#m",
       "timestamp": "2026-07-18T23:57:27+00:00",
       "timestamp_display": "18/07/2026 17:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 198, dirección CDMX. Se retiran los peregrinos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 198,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078621078839030108#m",
-      "timestamp": "2026-07-18T23:20:58+00:00",
-      "timestamp_display": "18/07/2026 17:20 CST",
       "segment": null
     }
   ]
