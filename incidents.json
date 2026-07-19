@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-19T03:12:50.821889",
+  "last_update": "2026-07-19T04:26:52.467753",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continúa cierre parcial de circulación tras accidente cerca del km. 000+050 de la carretera Ent. La tinaja-Cosoleacaque, dirección Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078687707220299946#m",
+      "timestamp": "2026-07-19T03:45:44+00:00",
+      "timestamp_display": "18/07/2026 21:45 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 105+500 de la carretera Acapulco-Zihuatanejo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078686787925340247#m",
+      "timestamp": "2026-07-19T03:42:05+00:00",
+      "timestamp_display": "18/07/2026 21:42 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente, cerca del km. 205+800 de la carretera Pachuca-Tuxpan. Maneje con precaución.",
       "type": "twitter",
@@ -248,29 +274,16 @@
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación tras accidente cerca del km. 160+000 de la carretera Libramiento Norte de la Ciudad de México, a la altura de la Caseta de Cobro Tulancingo 1, con dirección a Tula de Allende, Hgo. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078540225257595346#m",
-      "timestamp": "2026-07-18T17:59:41+00:00",
-      "timestamp_display": "18/07/2026 11:59 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Zacatecas se registra cierre total de la circulación tras #AccidenteVial cerca del km. 144+000 de la carretera Zacatecas-Saltillo, a la altura de la localidad de Majoma, Zac., con dirección a Zac. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078538416162021675#m",
-      "timestamp": "2026-07-18T17:52:30+00:00",
-      "timestamp_display": "18/07/2026 11:52 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078681416657740286#m",
+      "timestamp": "2026-07-19T03:20:44+00:00",
+      "timestamp_display": "18/07/2026 21:20 CST",
       "segment": null
     },
     {
@@ -509,19 +522,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Acatzingo. Continúa reducción de carriles por atención de incidencia. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078612326744252820#m",
-      "timestamp": "2026-07-18T22:46:12+00:00",
-      "timestamp_display": "18/07/2026 16:46 CST",
-      "segment": null
     }
   ]
 }
