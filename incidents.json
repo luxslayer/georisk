@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-07-18T23:48:02.593013",
+  "last_update": "2026-07-19T00:39:39.911832",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León-Aguascalientes, a inmediaciones del municipio de Aguascalientes. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 21.077417082689756,
+      "lng": -101.71229048424787,
+      "road": 45,
+      "km": 15.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078639037582123447#m",
+      "timestamp": "2026-07-19T00:32:20+00:00",
+      "timestamp_display": "18/07/2026 18:32 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #SLP se registra cierre parcial de circulación tras accidente cerca del km.007+000 de la carretera Huizache-Ant. Morelos, a la altura del poblado San Gabriel, S.L.P. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078635388273361035#m",
+      "timestamp": "2026-07-19T00:17:50+00:00",
+      "timestamp_display": "18/07/2026 18:17 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 005+000 de la carretera Tuxtla Gutiérrez-Cd. Cuauhtémoc, con dirección al Aeropuerto Internacional “Ángel Albino Corzo”. Atienda indicación vial.",
       "type": "twitter",
@@ -242,29 +271,55 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 033+000 de la carretera Salamanca - León, a la altura del Mpio. León de los Aldama. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
-      "lat": 21.122,
-      "lng": -101.68,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": null,
+      "km": 27,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078466683593801813#m",
-      "timestamp": "2026-07-18T13:07:28+00:00",
-      "timestamp_display": "18/07/2026 07:07 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078640367499370628#m",
+      "timestamp": "2026-07-19T00:37:37+00:00",
+      "timestamp_display": "18/07/2026 18:37 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+000 de la carretera México - Cuernavaca, a la altura de la localidad San Juan Tlacotenco. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
+      "lat": 32.5127,
+      "lng": -116.9301,
       "road": null,
-      "km": null,
+      "km": 97,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078446291613372704#m",
-      "timestamp": "2026-07-18T11:46:26+00:00",
-      "timestamp_display": "18/07/2026 05:46 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078637891639443967#m",
+      "timestamp": "2026-07-19T00:27:47+00:00",
+      "timestamp_display": "18/07/2026 18:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tehuacán - Oaxaca, km 198. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 198,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078635357977924022#m",
+      "timestamp": "2026-07-19T00:17:43+00:00",
+      "timestamp_display": "18/07/2026 18:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. Continúa reducción de carriles por atención de accidente (salida del camino de vagoneta). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": 97,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078630259818217883#m",
+      "timestamp": "2026-07-18T23:57:27+00:00",
+      "timestamp_display": "18/07/2026 17:57 CST",
       "segment": null
     },
     {
@@ -477,61 +532,6 @@
       "timestamp": "2026-07-18T21:32:15+00:00",
       "timestamp_display": "18/07/2026 15:32 CST",
       "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia a la altura del poblado de Topilejo. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078591532903383201#m",
-      "timestamp": "2026-07-18T21:23:34+00:00",
-      "timestamp_display": "18/07/2026 15:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 32 al 42. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 32,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078584019260760251#m",
-      "timestamp": "2026-07-18T20:53:43+00:00",
-      "timestamp_display": "18/07/2026 14:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Hermosillo - Magdalena, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078583863119430132#m",
-      "timestamp": "2026-07-18T20:53:05+00:00",
-      "timestamp_display": "18/07/2026 14:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, Plaza de Cobro San Martín. Carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078580422955405776#m",
-      "timestamp": "2026-07-18T20:39:25+00:00",
-      "timestamp_display": "18/07/2026 14:39 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
