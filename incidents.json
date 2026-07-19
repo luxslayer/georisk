@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-19T10:03:57.160999",
+  "last_update": "2026-07-19T10:45:04.944809",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente, cerca del 148+000 de la carretera Puebla-Huajuapan de León. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078790345827995754#m",
+      "timestamp": "2026-07-19T10:33:35+00:00",
+      "timestamp_display": "19/07/2026 04:33 CST",
+      "segment": null
+    },
     {
       "title": "#EviteLaZona en #Puebla se registra cierre parcial de circulación, por presencia de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Atienda indicación vial.",
       "type": "twitter",
@@ -258,19 +271,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2078587129303556462#m",
       "timestamp": "2026-07-18T21:06:04+00:00",
       "timestamp_display": "18/07/2026 15:06 CST",
-      "segment": null
-    },
-    {
-      "title": "#VialidadLibre en #Zacatecas tras accidente cerca del km. 144+000 de la carretera Zacatecas-Saltillo, a la altura de la localidad de Majoma, Zac., con dirección a Zac. Vialidad Libre.",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078582451081715943#m",
-      "timestamp": "2026-07-18T20:47:29+00:00",
-      "timestamp_display": "18/07/2026 14:47 CST",
       "segment": null
     },
     {
