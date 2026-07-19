@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-19T20:08:33.258641",
+  "last_update": "2026-07-19T20:30:17.183514",
   "incidents": [
+    {
+      "title": "En #Oaxaca se registra cierre parcial de circulación por #Deslave_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con direccion a Tehuantepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": 66.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2078938873669844998#m",
+      "timestamp": "2026-07-19T20:23:46+00:00",
+      "timestamp_display": "19/07/2026 14:23 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 055+200 de la carretera Tapanatepec-Tuxtla Gutiérrez, a la altura poblado Coronel Luis Espinosa, Mpio. Cintalapa, con dirección a Tapanatepec, Chis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078936450687463534#m",
+      "timestamp": "2026-07-19T20:14:09+00:00",
+      "timestamp_display": "19/07/2026 14:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tamaulipas continúa cierre parcial de circulación tras accidente cerca del km. 016+000 de la carretera Cd. Victoria-Soto la Marina, a la altura de la localidad La Quinta, Tamps., con dirección Cd. Victoria, Tamps. Atienda indicación vial.",
       "type": "twitter",
@@ -242,29 +268,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accidente cerca del km. 000+050 de la carretera Ent. La tinaja - Cosoleacaque, dirección Ver. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Ciudad Mendoza–Córdoba, km 268. Cierre a la circulación en el retorno de incorporación a Córdoba, por atención de incidente (incendio). Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": null,
+      "km": 268,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078663322799390872#m",
-      "timestamp": "2026-07-19T02:08:50+00:00",
-      "timestamp_display": "18/07/2026 20:08 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 195+350 de la carretera Iguala-Ent. (Aut. Cuernavaca-Chilpancingo), con dirección a Iguala, Gro. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078658732989227507#m",
-      "timestamp": "2026-07-19T01:50:36+00:00",
-      "timestamp_display": "18/07/2026 19:50 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078936028488896759#m",
+      "timestamp": "2026-07-19T20:12:28+00:00",
+      "timestamp_display": "19/07/2026 14:12 CST",
       "segment": null
     },
     {
@@ -518,19 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078868033502630034#m",
       "timestamp": "2026-07-19T15:42:17+00:00",
       "timestamp_display": "19/07/2026 09:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 175,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078867735405015504#m",
-      "timestamp": "2026-07-19T15:41:06+00:00",
-      "timestamp_display": "19/07/2026 09:41 CST",
       "segment": null
     }
   ]
