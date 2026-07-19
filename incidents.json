@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-19T23:05:35.191196",
+  "last_update": "2026-07-19T23:34:57.703135",
   "incidents": [
     {
       "title": "#EviteLaZona en #Puebla se registra cierre total de circulación, por presencia de personas, cerca del km 090+000 de la carretera Puebla-Tehuacán. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 229, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 229,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078982498210443683#m",
+      "timestamp": "2026-07-19T23:17:07+00:00",
+      "timestamp_display": "19/07/2026 17:17 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 344, dirección Acapulco. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -508,19 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078920762317250878#m",
       "timestamp": "2026-07-19T19:11:48+00:00",
       "timestamp_display": "19/07/2026 13:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078918321173381148#m",
-      "timestamp": "2026-07-19T19:02:06+00:00",
-      "timestamp_display": "19/07/2026 13:02 CST",
       "segment": null
     }
   ]
