@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-19T17:07:51.136184",
+  "last_update": "2026-07-19T17:36:09.413159",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sonora continúa cierre parcial de circulación tras accidente cerca del km. 169+200 de la carretera Los Mochis-Cd Obregón, a la altura de la localidad de Agiabampo, Son. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078895194271777273#m",
+      "timestamp": "2026-07-19T17:30:12+00:00",
+      "timestamp_display": "19/07/2026 11:30 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 086+700 de la carretera Zapotlanejo-El Desperdicio, con dirección a el Desperdicio, Jal. Atienda indicación vial.",
       "type": "twitter",
@@ -261,20 +274,17 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Aguascalientes tras accidente, cerca del km 015+000 de la carretera León-Aguascalientes, a inmediaciones del municipio de Aguascalientes. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 177, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 21.077417082689756,
-      "lng": -101.71229048424787,
-      "road": 45,
-      "km": 15.0,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 177,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078639037582123447#m",
-      "timestamp": "2026-07-19T00:32:20+00:00",
-      "timestamp_display": "18/07/2026 18:32 CST",
-      "segment": [
-        "leon",
-        "aguascalientes"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2078890461037547589#m",
+      "timestamp": "2026-07-19T17:11:24+00:00",
+      "timestamp_display": "19/07/2026 11:11 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en dirección Veracruz, sin reporte de incidente. Maneja con precaución.",
@@ -534,19 +544,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd. Obregón. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 169,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078840778709741680#m",
-      "timestamp": "2026-07-19T13:53:59+00:00",
-      "timestamp_display": "19/07/2026 07:53 CST",
-      "segment": null
     }
   ]
 }
