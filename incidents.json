@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-19T12:21:36.460149",
+  "last_update": "2026-07-19T12:49:20.387684",
   "incidents": [
     {
       "title": "#VialidadLibre en #Puebla tras retiro de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Maneje con precaución.",
@@ -277,6 +277,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 65, dirección Puebla. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.34927042491837,
+      "lng": -98.65499777635974,
+      "road": 150,
+      "km": 47,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078824314443321408#m",
+      "timestamp": "2026-07-19T12:48:33+00:00",
+      "timestamp_display": "19/07/2026 06:48 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -306,16 +322,16 @@
       ]
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/UcB4c1RnnxAN6Q2o7",
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Martín. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.4326,
       "lng": -99.1332,
       "road": 150,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078732007207530512#m",
-      "timestamp": "2026-07-19T06:41:46+00:00",
-      "timestamp_display": "19/07/2026 00:41 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078793513563471876#m",
+      "timestamp": "2026-07-19T10:46:10+00:00",
+      "timestamp_display": "19/07/2026 04:46 CST",
       "segment": [
         "mexico",
         "puebla"
@@ -338,22 +354,6 @@
       ]
     },
     {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Martín. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078793513563471876#m",
-      "timestamp": "2026-07-19T10:46:10+00:00",
-      "timestamp_display": "19/07/2026 04:46 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -365,6 +365,54 @@
       "timestamp": "2026-07-19T09:25:13+00:00",
       "timestamp_display": "19/07/2026 03:25 CST",
       "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078769407698895132#m",
+      "timestamp": "2026-07-19T09:10:23+00:00",
+      "timestamp_display": "19/07/2026 03:10 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Se informa a las personas usuarias que se restablece la circulación de manera intermitente por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078740963887812753#m",
+      "timestamp": "2026-07-19T07:17:21+00:00",
+      "timestamp_display": "19/07/2026 01:17 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/UcB4c1RnnxAN6Q2o7",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078732007207530512#m",
+      "timestamp": "2026-07-19T06:41:46+00:00",
+      "timestamp_display": "19/07/2026 00:41 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
@@ -494,19 +542,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078646003356561842#m",
       "timestamp": "2026-07-19T01:00:01+00:00",
       "timestamp_display": "18/07/2026 19:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 27, dirección Irapuato. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078640367499370628#m",
-      "timestamp": "2026-07-19T00:37:37+00:00",
-      "timestamp_display": "18/07/2026 18:37 CST",
       "segment": null
     }
   ]
