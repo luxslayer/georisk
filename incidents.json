@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-19T14:40:21.836786",
+  "last_update": "2026-07-19T15:06:51.480846",
   "incidents": [
     {
       "title": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 086+700 de la carretera Zapotlanejo-El Desperdicio, con dirección a el Desperdicio, Jal. Atienda indicación vial.",
@@ -277,6 +277,32 @@
       ]
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 169,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078856409408581802#m",
+      "timestamp": "2026-07-19T14:56:05+00:00",
+      "timestamp_display": "19/07/2026 08:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd. Obregón. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada) Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 169,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2078852829867819122#m",
+      "timestamp": "2026-07-19T14:41:52+00:00",
+      "timestamp_display": "19/07/2026 08:41 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd. Obregón. Cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -432,16 +458,16 @@
       ]
     },
     {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Martín. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/UcB4c1RnnxAN6Q2o7",
       "type": "twitter",
       "lat": 19.4326,
       "lng": -99.1332,
       "road": 150,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078793513563471876#m",
-      "timestamp": "2026-07-19T10:46:10+00:00",
-      "timestamp_display": "19/07/2026 04:46 CST",
+      "url": "https://nitter.net/CAPUFE/status/2078732007207530512#m",
+      "timestamp": "2026-07-19T06:41:46+00:00",
+      "timestamp_display": "19/07/2026 00:41 CST",
       "segment": [
         "mexico",
         "puebla"
@@ -464,6 +490,22 @@
       ]
     },
     {
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Martín. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078793513563471876#m",
+      "timestamp": "2026-07-19T10:46:10+00:00",
+      "timestamp_display": "19/07/2026 04:46 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 175, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -477,54 +519,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078769407698895132#m",
-      "timestamp": "2026-07-19T09:10:23+00:00",
-      "timestamp_display": "19/07/2026 03:10 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Se informa a las personas usuarias que se restablece la circulación de manera intermitente por presencia de manifestantes. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078740963887812753#m",
-      "timestamp": "2026-07-19T07:17:21+00:00",
-      "timestamp_display": "19/07/2026 01:17 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, Plaza de Cobro San Martín, dirección Puebla. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/UcB4c1RnnxAN6Q2o7",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078732007207530512#m",
-      "timestamp": "2026-07-19T06:41:46+00:00",
-      "timestamp_display": "19/07/2026 00:41 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -535,32 +529,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078681416657740286#m",
       "timestamp": "2026-07-19T03:20:44+00:00",
       "timestamp_display": "18/07/2026 21:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078677202489479442#m",
-      "timestamp": "2026-07-19T03:03:59+00:00",
-      "timestamp_display": "18/07/2026 21:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078673424377921974#m",
-      "timestamp": "2026-07-19T02:48:58+00:00",
-      "timestamp_display": "18/07/2026 20:48 CST",
       "segment": null
     }
   ]
