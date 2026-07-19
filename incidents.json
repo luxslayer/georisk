@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-19T04:26:52.467753",
+  "last_update": "2026-07-19T05:35:12.701997",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Veracruz tras accidente, cerca del 000+050 de la carretera Ent. La tinaja-Cosoleacaque, dirección Ver. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078709710778228927#m",
+      "timestamp": "2026-07-19T05:13:10+00:00",
+      "timestamp_display": "18/07/2026 23:13 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz continúa cierre parcial de circulación tras accidente cerca del km. 000+050 de la carretera Ent. La tinaja-Cosoleacaque, dirección Ver. Atienda indicación vial.",
       "type": "twitter",
@@ -258,19 +271,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2078574506487005618#m",
       "timestamp": "2026-07-18T20:15:55+00:00",
       "timestamp_display": "18/07/2026 14:15 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por deslave de talud, cerca del km. 019+600 de la autopista Cuacnopalan - Oaxaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2078561603339903368#m",
-      "timestamp": "2026-07-18T19:24:38+00:00",
-      "timestamp_display": "18/07/2026 13:24 CST",
       "segment": null
     },
     {
