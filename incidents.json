@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-07-19T07:34:47.765904",
+  "last_update": "2026-07-19T08:32:11.036119",
   "incidents": [
+    {
+      "title": "#EviteLaZona en #Puebla se registra cierre parcial de circulación, por presencia de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.25595540149896,
+      "lng": -98.40269957715061,
+      "road": 150,
+      "km": 77.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2078751570099941528#m",
+      "timestamp": "2026-07-19T07:59:30+00:00",
+      "timestamp_display": "19/07/2026 01:59 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#PrecauciónVial en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del km. 085+600 de la carretera Armería-Manzanillo,a la altura del Mpio. Manzanillo, con dirección a Manzanillo, Col. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078746145937854925#m",
+      "timestamp": "2026-07-19T07:37:57+00:00",
+      "timestamp_display": "19/07/2026 01:37 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km. 009+900 de la carretera Gómez Palacio-Tlahualilo. Atienda indicación vial.",
       "type": "twitter",
@@ -242,32 +271,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2078582451081715943#m",
       "timestamp": "2026-07-18T20:47:29+00:00",
       "timestamp_display": "18/07/2026 14:47 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km. 045+000 de la carretera México-Querétaro, con dirección a Querétaro. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078581633024709119#m",
-      "timestamp": "2026-07-18T20:44:14+00:00",
-      "timestamp_display": "18/07/2026 14:44 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #DeslavedeCarpetaAsfaltica cerca del km 092+000, de la carretera Pachuca-Tuxpan, con dir. a Pachuca, Hgo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.091060706162544,
-      "lng": -98.71416947350048,
-      "road": 130,
-      "km": 92.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2078577725174862116#m",
-      "timestamp": "2026-07-18T20:28:42+00:00",
-      "timestamp_display": "18/07/2026 14:28 CST",
       "segment": null
     },
     {
