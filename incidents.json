@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-19T05:35:12.701997",
+  "last_update": "2026-07-19T06:38:09.961086",
   "incidents": [
+    {
+      "title": "#PrecauciónVial en #Durango se registra cierre parcial de circulación por #AccidenteVial cerca del km. 009+900 de la carretera Gómez Palacio-Tlahualilo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078717758452158701#m",
+      "timestamp": "2026-07-19T05:45:08+00:00",
+      "timestamp_display": "18/07/2026 23:45 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Oaxaca tras accidente, cerca del 194+000 de la carretera Cuacnopalan-Oaxaca, con dirección Oaxaca de Juárez, Oax. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 31.69,
+      "lng": -106.42,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2078716916483367182#m",
+      "timestamp": "2026-07-19T05:41:48+00:00",
+      "timestamp_display": "18/07/2026 23:41 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente, cerca del 000+050 de la carretera Ent. La tinaja-Cosoleacaque, dirección Ver. Maneje con precaución.",
       "type": "twitter",
@@ -242,35 +268,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2078577725174862116#m",
       "timestamp": "2026-07-18T20:28:42+00:00",
       "timestamp_display": "18/07/2026 14:28 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Jalisco se registra cierre total de circulación por #Accidentevial cerca del km. 100+000 de la carretera León-Aguascalientes, con dirección a Aguascalientes. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": 45,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078577311914336676#m",
-      "timestamp": "2026-07-18T20:27:03+00:00",
-      "timestamp_display": "18/07/2026 14:27 CST",
-      "segment": [
-        "leon",
-        "aguascalientes"
-      ]
-    },
-    {
-      "title": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #Accidentevial cerca del km. 022+100 de la carretera Acatlán de Juárez-Colima, con dirección a Colima. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078574506487005618#m",
-      "timestamp": "2026-07-18T20:15:55+00:00",
-      "timestamp_display": "18/07/2026 14:15 CST",
       "segment": null
     },
     {
