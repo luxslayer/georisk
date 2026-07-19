@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-07-19T10:45:04.944809",
+  "last_update": "2026-07-19T11:15:34.552943",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Puebla tras retiro de personas, cerca del km 095+000 de la carretera México-Puebla, con dirección Pue. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.25595540149896,
+      "lng": -98.40269957715061,
+      "road": 150,
+      "km": 77.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2078798019525238921#m",
+      "timestamp": "2026-07-19T11:04:04+00:00",
+      "timestamp_display": "19/07/2026 05:04 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#VialidadLibre en #Puebla tras accidente, cerca del 148+000 de la carretera Puebla-Huajuapan de León. Maneje con precaución.",
       "type": "twitter",
@@ -261,17 +277,20 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras accidente cerca del km.000+300 de la carretera Tihuatlán (T.C. Alazan Canoas), con dirección a Alamo, Ver. Atienda indicación vial.",
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, Plaza de Cobro San Martín. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078587129303556462#m",
-      "timestamp": "2026-07-18T21:06:04+00:00",
-      "timestamp_display": "18/07/2026 15:06 CST",
-      "segment": null
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078793513563471876#m",
+      "timestamp": "2026-07-19T10:46:10+00:00",
+      "timestamp_display": "19/07/2026 04:46 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, Plaza de Cobro San Martín. Se informa a las personas usuarias que continúa presencia de manifestantes. 🔘 Dirección Puebla, con reducción de carriles. 🔘 Dirección CDMX, sin cierre a la circulación. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -517,19 +536,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078635357977924022#m",
       "timestamp": "2026-07-19T00:17:43+00:00",
       "timestamp_display": "18/07/2026 18:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Tijuana - Ensenada, km 97, dirección Ensenada. Continúa reducción de carriles por atención de accidente (salida del camino de vagoneta). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 97,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2078630259818217883#m",
-      "timestamp": "2026-07-18T23:57:27+00:00",
-      "timestamp_display": "18/07/2026 17:57 CST",
       "segment": null
     }
   ]
