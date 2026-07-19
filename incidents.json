@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-19T15:06:51.480846",
+  "last_update": "2026-07-19T15:34:29.956363",
   "incidents": [
     {
       "title": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 086+700 de la carretera Zapotlanejo-El Desperdicio, con dirección a el Desperdicio, Jal. Atienda indicación vial.",
@@ -277,6 +277,35 @@
       ]
     },
     {
+      "title": "🚧 #AVISO a las personas usuarias del #LibramientoCuernavaca 🚧 Del 20 al 30 de julio habrá cierre total de la gaza de incorporación hacia Av. Morelos Sur y del retorno a Temixco, en dirección a la Ciudad de México. Anticipe sus tiempos de traslado y maneje con precaución. #CAPUFEInforma",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078865221712593188#m",
+      "timestamp": "2026-07-19T15:31:06+00:00",
+      "timestamp_display": "19/07/2026 09:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 13, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.925096576302256,
+      "lng": -94.81822918330707,
+      "road": 145,
+      "km": 13,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2078859238491721958#m",
+      "timestamp": "2026-07-19T15:07:20+00:00",
+      "timestamp_display": "19/07/2026 09:07 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Navojoa - Cd. Obregón, km 169, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -516,19 +545,6 @@
       "url": "https://nitter.net/CAPUFE/status/2078773141531132237#m",
       "timestamp": "2026-07-19T09:25:13+00:00",
       "timestamp_display": "19/07/2026 03:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2078681416657740286#m",
-      "timestamp": "2026-07-19T03:20:44+00:00",
-      "timestamp_display": "18/07/2026 21:20 CST",
       "segment": null
     }
   ]
