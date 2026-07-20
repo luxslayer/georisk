@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-20T20:13:52.771946",
+  "last_update": "2026-07-20T20:46:42.627005",
   "incidents": [
     {
       "title": "#EviteLaZona en #Puebla se registra cierre total de circulación, por presencia de personas, cerca del km 055+000, de la carretera Tehuacán - Puebla, a la altura del Mpio. de Santa Maria la Alta, con dirección a Puebla. Atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 214. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 214,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079306943613567099#m",
+      "timestamp": "2026-07-20T20:46:21+00:00",
+      "timestamp_display": "20/07/2026 14:46 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE ⚠️ Libramiento Chilpancingo, km 278. Parador del Marqués (fuera de la cobertura de CAPUFE). Registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 278,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079299517069844782#m",
+      "timestamp": "2026-07-20T20:16:51+00:00",
+      "timestamp_display": "20/07/2026 14:16 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Agua Dulce - Cárdenas, km 67, dirección Cárdenas. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -284,19 +310,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079297432454680887#m",
       "timestamp": "2026-07-20T20:08:34+00:00",
       "timestamp_display": "20/07/2026 14:08 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE ⚠️ Libramiento Chilpancingo, km 278, dirección Acapulco. Parador del Marqués (fuera de la cobertura de CAPUFE). Cierre a la circulación por presencia de manifestantes. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 278,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079296122779017367#m",
-      "timestamp": "2026-07-20T20:03:21+00:00",
-      "timestamp_display": "20/07/2026 14:03 CST",
       "segment": null
     },
     {
@@ -501,19 +514,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079256251645526352#m",
       "timestamp": "2026-07-20T17:24:55+00:00",
       "timestamp_display": "20/07/2026 11:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 66, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida de neumático de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079255627407225234#m",
-      "timestamp": "2026-07-20T17:22:26+00:00",
-      "timestamp_display": "20/07/2026 11:22 CST",
       "segment": null
     }
   ]
