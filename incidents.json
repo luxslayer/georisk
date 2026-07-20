@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-07-20T16:04:48.416562",
+  "last_update": "2026-07-20T16:45:10.094731",
   "incidents": [
+    {
+      "title": "#EviteLaZona en #EdoMéx se registra cierre intermitente de circulación, por presencia de personas, cerca del km 023+200, de la carretera México-Puebla, a la altura del Mpio. de Valle de Chalco Solidaridad, con dirección Cd. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.3227877777903,
+      "lng": -98.95759009275456,
+      "road": 150,
+      "km": 5.199999999999999,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2079240937960554816#m",
+      "timestamp": "2026-07-20T16:24:04+00:00",
+      "timestamp_display": "20/07/2026 10:24 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por accidente en el km 015+000, de la carretera Villahermosa - Escopetazo, a la altura del Poblado Teapa, con dirección a Villahermosa. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +265,45 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Puebla tras retiro de personas, cerca del km 090+000 de la carretera Puebla-Tehuacán. Maneje con precaución.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 23, dirección CDMX. Se informa a las personas usuarias que continúa el cierre a la circulación por presencia de manifestantes. ➡️ Se desvía el tránsito vehicular hacia tramo libre a la altura de la Plaza de Cobro San Marcos. 🔘 Dirección Puebla, opera de manera normal. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 90.0,
+      "lat": 19.32400725208062,
+      "lng": -98.95899113582371,
+      "road": 150,
+      "km": 5,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2079008979812778143#m",
-      "timestamp": "2026-07-20T01:02:21+00:00",
-      "timestamp_display": "19/07/2026 19:02 CST",
+      "url": "https://nitter.net/CAPUFE/status/2079242466029384030#m",
+      "timestamp": "2026-07-20T16:30:09+00:00",
+      "timestamp_display": "20/07/2026 10:30 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 269, dirección Cd. Mendoza. Registra cierre a la circulación por atención de accidente (choque contra muro central y volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 269,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079240784730010092#m",
+      "timestamp": "2026-07-20T16:23:28+00:00",
+      "timestamp_display": "20/07/2026 10:23 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 67, dirección Cárdenas. Continúa la reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 67,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079237154446733667#m",
+      "timestamp": "2026-07-20T16:09:02+00:00",
+      "timestamp_display": "20/07/2026 10:09 CST",
       "segment": null
     },
     {
@@ -476,32 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079186527687438590#m",
       "timestamp": "2026-07-20T12:47:52+00:00",
       "timestamp_display": "20/07/2026 06:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 124, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino y volcadura de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 124,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079184784740299190#m",
-      "timestamp": "2026-07-20T12:40:56+00:00",
-      "timestamp_display": "20/07/2026 06:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 67, dirección Cárdenas. Se restablece la circulación con reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 67,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079182329470226498#m",
-      "timestamp": "2026-07-20T12:31:11+00:00",
-      "timestamp_display": "20/07/2026 06:31 CST",
       "segment": null
     }
   ]
