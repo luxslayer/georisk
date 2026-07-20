@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-20T12:28:41.331751",
+  "last_update": "2026-07-20T13:15:48.366103",
   "incidents": [
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 029+200 de la carretera Xalapa-Veracruz, a la altura del Municipio Acajete. Maneje con precaución.",
@@ -262,6 +262,58 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Estación Don - Navojoa, km 127, dirección Navojoa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 127,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079192583859802426#m",
+      "timestamp": "2026-07-20T13:11:56+00:00",
+      "timestamp_display": "20/07/2026 07:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Estación Don - Navojoa, km 127, dirección Navojoa. Se restablece la circulación con reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 127,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079186527687438590#m",
+      "timestamp": "2026-07-20T12:47:52+00:00",
+      "timestamp_display": "20/07/2026 06:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 124, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino y volcadura de camioneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 124,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079184784740299190#m",
+      "timestamp": "2026-07-20T12:40:56+00:00",
+      "timestamp_display": "20/07/2026 06:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 67, dirección Cárdenas. Se restablece la circulación con reducción de carriles por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 67,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079182329470226498#m",
+      "timestamp": "2026-07-20T12:31:11+00:00",
+      "timestamp_display": "20/07/2026 06:31 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 67, dirección Cárdenas. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
@@ -460,74 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079060163890237458#m",
       "timestamp": "2026-07-20T04:25:44+00:00",
       "timestamp_display": "19/07/2026 22:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 2, dirección Veracruz. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.858509915954144,
-      "lng": -96.89170951779185,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079057079482954213#m",
-      "timestamp": "2026-07-20T04:13:29+00:00",
-      "timestamp_display": "19/07/2026 22:13 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Continúa carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079054168421978544#m",
-      "timestamp": "2026-07-20T04:01:55+00:00",
-      "timestamp_display": "19/07/2026 22:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. La Rumorosa - Tecate, km 62, dirección La Rumorosa. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079049910968602979#m",
-      "timestamp": "2026-07-20T03:45:00+00:00",
-      "timestamp_display": "19/07/2026 21:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Rumorosa - Tecate, km 62, dirección La Rumorosa. Cierre a la circulación por atención de accidente (choque por alcance múltiple). Por seguridad de las personas usuarias, se desvía la vialidad a carretera libre en la Plaza de Cobro El Hongo. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079048396623532158#m",
-      "timestamp": "2026-07-20T03:38:59+00:00",
-      "timestamp_display": "19/07/2026 21:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 91, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 91,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079045692761211129#m",
-      "timestamp": "2026-07-20T03:28:14+00:00",
-      "timestamp_display": "19/07/2026 21:28 CST",
       "segment": null
     }
   ]
