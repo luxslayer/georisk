@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-20T07:10:34.529915",
+  "last_update": "2026-07-20T08:17:39.439849",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Michoacan tras accidente cerca del km. 029+500 de la carretera Quiroga-Cuatro Caminos, con dirección a Opopeo, Mich. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079104911044702359#m",
+      "timestamp": "2026-07-20T07:23:33+00:00",
+      "timestamp_display": "20/07/2026 01:23 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 060+800 de la carretera Puebla Huajuapan de León, a la altura de Izúcar de Matamoros. Maneje con precaución.",
       "type": "twitter",
@@ -249,16 +262,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #EdoMéx continúa cierre parcial de circulación tras accidente cerca del km. 044+600 de la carretera México-Palmillas, del Mpio. Acambay, Edo. Méx., con dirección a Acambay, Edo. Méx. Atienda indicación vial.",
+      "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Autopista Navojoa - Cd. Obregón, km 127. Circulación a contraflujo por atención de accidente (volcadura de tracto camión). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 127,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078901295058956406#m",
-      "timestamp": "2026-07-19T17:54:27+00:00",
-      "timestamp_display": "19/07/2026 11:54 CST",
+      "url": "https://nitter.net/CAPUFE/status/2079117021564870810#m",
+      "timestamp": "2026-07-20T08:11:40+00:00",
+      "timestamp_display": "20/07/2026 02:11 CST",
       "segment": null
     },
     {
@@ -301,6 +314,19 @@
       "url": "https://nitter.net/CAPUFE/status/2079091945121763344#m",
       "timestamp": "2026-07-20T06:32:02+00:00",
       "timestamp_display": "20/07/2026 00:32 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, Plaza de Cobro Salamanca, dirección Irapuato. Reducción de carriles por atención de choque contra barrera de concreto y muro central de tracto camión. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/wz7X8bbjuncjJ9N56",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079043171544449030#m",
+      "timestamp": "2026-07-20T03:18:13+00:00",
+      "timestamp_display": "19/07/2026 21:18 CST",
       "segment": null
     },
     {
@@ -453,19 +479,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, Plaza de Cobro Salamanca, dirección Irapuato. Reducción de carriles por atención de choque contra barrera de concreto y muro central de tracto camión. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/wz7X8bbjuncjJ9N56",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079043171544449030#m",
-      "timestamp": "2026-07-20T03:18:13+00:00",
-      "timestamp_display": "19/07/2026 21:18 CST",
-      "segment": null
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 62, dirección CDMX. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -516,22 +529,6 @@
       "timestamp": "2026-07-20T02:07:22+00:00",
       "timestamp_display": "19/07/2026 20:07 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 2, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.858509915954144,
-      "lng": -96.89170951779185,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079020833918382548#m",
-      "timestamp": "2026-07-20T01:49:27+00:00",
-      "timestamp_display": "19/07/2026 19:49 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
