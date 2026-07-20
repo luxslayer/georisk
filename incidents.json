@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-20T14:16:24.007884",
+  "last_update": "2026-07-20T15:15:52.474126",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Zacatecas continúa cierre parcial de circulación tras maniobras por accidente en el km. 071+300 de la carretera Ent. la Chicharrona-Cuencamé, con dirección a Gómez Palacio, Dur. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079211216241648044#m",
+      "timestamp": "2026-07-20T14:25:58+00:00",
+      "timestamp_display": "20/07/2026 08:25 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del km. 044+400 de la carretera Zihuatanejo-La Mira, a la altura poblado Los Llanos de Temalhuacan, Mpio. La Unión de Isidoro Montes de Oca, Gro. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +262,55 @@
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Chiapas se registra cierre parcial de circulación por #AccidenteVial cerca del km. 055+200 de la carretera Tapanatepec-Tuxtla Gutiérrez, a la altura poblado Coronel Luis Espinosa, Mpio. Cintalapa, con dirección a Tapanatepec, Chis. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 100, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": null,
+      "km": 100,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079221832868143179#m",
+      "timestamp": "2026-07-20T15:08:09+00:00",
+      "timestamp_display": "20/07/2026 09:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 124, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 124,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2078936450687463534#m",
-      "timestamp": "2026-07-19T20:14:09+00:00",
-      "timestamp_display": "19/07/2026 14:14 CST",
+      "url": "https://nitter.net/CAPUFE/status/2079221610343444558#m",
+      "timestamp": "2026-07-20T15:07:16+00:00",
+      "timestamp_display": "20/07/2026 09:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 98 al 100, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079218518621409613#m",
+      "timestamp": "2026-07-20T14:54:59+00:00",
+      "timestamp_display": "20/07/2026 08:54 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 100, dirección Acapulco. Reducción de carriles por atención de incidente (automóvil con ponchadura de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 100,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079217850175086978#m",
+      "timestamp": "2026-07-20T14:52:20+00:00",
+      "timestamp_display": "20/07/2026 08:52 CST",
       "segment": null
     },
     {
@@ -444,74 +496,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079080440426832091#m",
       "timestamp": "2026-07-20T05:46:19+00:00",
       "timestamp_display": "19/07/2026 23:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 62, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079073341076287986#m",
-      "timestamp": "2026-07-20T05:18:06+00:00",
-      "timestamp_display": "19/07/2026 23:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 2, dirección Veracruz. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.858509915954144,
-      "lng": -96.89170951779185,
-      "road": 150,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079072724614271128#m",
-      "timestamp": "2026-07-20T05:15:39+00:00",
-      "timestamp_display": "19/07/2026 23:15 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Oriente de Chihuahua, km 40. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079066340090839064#m",
-      "timestamp": "2026-07-20T04:50:17+00:00",
-      "timestamp_display": "19/07/2026 22:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Oriente de Chihuahua, km 40. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079061601554923971#m",
-      "timestamp": "2026-07-20T04:31:27+00:00",
-      "timestamp_display": "19/07/2026 22:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Rumorosa - Tecate, km 62, dirección La Rumorosa. Cierre a la circulación por atención de accidente (choque por alcance múltiple). ➡ Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre a la altura del km 67 (Poblado de Vallecitos). La carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079060163890237458#m",
-      "timestamp": "2026-07-20T04:25:44+00:00",
-      "timestamp_display": "19/07/2026 22:25 CST",
       "segment": null
     }
   ]
