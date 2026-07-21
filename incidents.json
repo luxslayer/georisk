@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-21T21:28:46.727151",
+  "last_update": "2026-07-21T21:54:27.344996",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial en el km 041+300, de la carretera México-Toluca, a la altura del Mpio. Ocoyoacac, Edo. Méx., con dirección a Toluca, Edo. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": 41.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079684280360247798#m",
+      "timestamp": "2026-07-21T21:45:45+00:00",
+      "timestamp_display": "21/07/2026 15:45 CST",
+      "segment": null
+    },
     {
       "title": "#EviteLaZona en #Oaxaca continúa cierre intermitente de circulación, tras presencia de personas, cerca del km 007+200, de la carretera Huajuapan de León-Oaxaca, a la altura del poblado El Molino, Mpio. Huajuapan de León, Oax. Atienda indicación vial.",
       "type": "twitter",
@@ -70,6 +83,19 @@
       ]
     },
     {
+      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2079623393846940061#m",
+      "timestamp": "2026-07-21T17:43:49+00:00",
+      "timestamp_display": "21/07/2026 11:43 CST",
+      "segment": null
+    },
+    {
       "title": "#PrecauciónVial en #SLP continúa cierre total de circulación por #AccidenteVial en el km 146+000, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. de San María del Río, con dirección a Querétaro y San Luis Potosí. Atienda indicación vial.",
       "type": "twitter",
       "lat": 21.728930187580662,
@@ -84,19 +110,6 @@
         "queretaro",
         "san luis potosi"
       ]
-    },
-    {
-      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2079623393846940061#m",
-      "timestamp": "2026-07-21T17:43:49+00:00",
-      "timestamp_display": "21/07/2026 11:43 CST",
-      "segment": null
     },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 015+000, de la carretera Cordoba-Entroque la Tinaja, con dirección a Puebla. Atienda indicación vial.",
@@ -264,19 +277,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2079562317834973370#m",
       "timestamp": "2026-07-21T13:41:07+00:00",
       "timestamp_display": "21/07/2026 07:41 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial en el km 284+900, de la carretera Pinotepa Nacional - Salina Cruz, a la altura del Mpio. San Pedro Huamelula, con dirección a Salina Cruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
-      "road": null,
-      "km": 284.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2079545374490984490#m",
-      "timestamp": "2026-07-21T12:33:48+00:00",
-      "timestamp_display": "21/07/2026 06:33 CST",
       "segment": null
     },
     {
