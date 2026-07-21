@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-21T10:33:03.191358",
+  "last_update": "2026-07-21T11:23:46.285575",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero se registra cierre intermitente de circulación por #AccidenteVial en el km 286+500, de la carretera Uruapan - Lázaro Cárdenas, a la altura de Playa Boca de Leña, con dirección a Lázaro Cárdenas. Atienda indicación vial.",
@@ -235,6 +235,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 362, dirección Acapulco. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 362,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079525930167406759#m",
+      "timestamp": "2026-07-21T11:16:32+00:00",
+      "timestamp_display": "21/07/2026 05:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 31. Cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa que transporta combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ByJJwSSMibH1GKb1A",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 31,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079387166090637470#m",
+      "timestamp": "2026-07-21T02:05:08+00:00",
+      "timestamp_display": "20/07/2026 20:05 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. En la zona se registra derrame de combustible. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
@@ -248,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Sin embargo, en la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079518793773031638#m",
+      "timestamp": "2026-07-21T10:48:10+00:00",
+      "timestamp_display": "21/07/2026 04:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 187. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 187,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079517217855512580#m",
+      "timestamp": "2026-07-21T10:41:54+00:00",
+      "timestamp_display": "21/07/2026 04:41 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 86, dirección CDMX. El accidente en carriles centrales ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -258,19 +310,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079473132545437715#m",
       "timestamp": "2026-07-21T07:46:44+00:00",
       "timestamp_display": "21/07/2026 01:46 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente En la zona se registra derrame de combustible. El personal de CAPUFE, continúa realizando las labores de atención. Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre en los siguientes puntos: ➡️ Dirección Oaxaca, a la altura del km 1 (Poblado Cuacnopalan). ➡️ Dirección Cuacnopalan, a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079468467896389679#m",
-      "timestamp": "2026-07-21T07:28:12+00:00",
-      "timestamp_display": "21/07/2026 01:28 CST",
       "segment": null
     },
     {
@@ -298,6 +337,22 @@
       "timestamp": "2026-07-21T06:35:37+00:00",
       "timestamp_display": "21/07/2026 00:35 CST",
       "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 94, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre camiones de carga y camioneta. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/hCmEL2hHSyGUvonj8",
+      "type": "twitter",
+      "lat": 19.258745794920074,
+      "lng": -98.41175545207888,
+      "road": 150,
+      "km": 76,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079426643722969148#m",
+      "timestamp": "2026-07-21T04:42:00+00:00",
+      "timestamp_display": "20/07/2026 22:42 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 94, dirección CDMX. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -384,19 +439,6 @@
       ]
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente En la zona se registra derrame de combustible. El personal de CAPUFE, continúa realizando las labores de atención. Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre en los siguientes puntos: ➡️ Dirección Oaxaca, a la altura del km 1 (Poblado Cuacnopalan). ➡️ Dirección Cuacnopalan, a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 31,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079431519475490981#m",
-      "timestamp": "2026-07-21T05:01:22+00:00",
-      "timestamp_display": "20/07/2026 23:01 CST",
-      "segment": null
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, dirección Isla. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -436,22 +478,6 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 94, dirección CDMX. Reducción de carriles por atención de choque por alcance múltiple entre camiones de carga y camioneta. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/hCmEL2hHSyGUvonj8",
-      "type": "twitter",
-      "lat": 19.258745794920074,
-      "lng": -98.41175545207888,
-      "road": 150,
-      "km": 76,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079426643722969148#m",
-      "timestamp": "2026-07-21T04:42:00+00:00",
-      "timestamp_display": "20/07/2026 22:42 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 25, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -462,48 +488,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079411680379867283#m",
       "timestamp": "2026-07-21T03:42:32+00:00",
       "timestamp_display": "20/07/2026 21:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 9, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.861131694276807,
-      "lng": -96.82694197387126,
-      "road": 150,
-      "km": 9,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079411373080018963#m",
-      "timestamp": "2026-07-21T03:41:19+00:00",
-      "timestamp_display": "20/07/2026 21:41 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 31. Continúa cierre a la circulación en ambos sentidos por atención de volcadura de tracto camión tipo pipa que transporta combustible. Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre en los siguientes puntos: ➡️ Dirección Oaxaca, a la altura del km 1 (Poblado Cuacnopalan). ➡️ Dirección Cuacnopalan, a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 31,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079406938891100342#m",
-      "timestamp": "2026-07-21T03:23:42+00:00",
-      "timestamp_display": "20/07/2026 21:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 297,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079403137455001924#m",
-      "timestamp": "2026-07-21T03:08:36+00:00",
-      "timestamp_display": "20/07/2026 21:08 CST",
       "segment": null
     }
   ]
