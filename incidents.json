@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-07-21T13:19:00.236163",
+  "last_update": "2026-07-21T14:15:17.380626",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 169+000, de la carretera Puebla-Córdoba, a la altura del Mpio. Amozoc de Mota, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.973452478806227,
+      "lng": -97.80021085591285,
+      "road": 150,
+      "km": 60.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079564782718345530#m",
+      "timestamp": "2026-07-21T13:50:55+00:00",
+      "timestamp_display": "21/07/2026 07:50 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial en el km 092+200, de la carretera Arriaga-Tapachula, a la altura del poblado José Castillo Tielmans, con dirección a Pijijiapan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 92.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079563074185437195#m",
+      "timestamp": "2026-07-21T13:44:07+00:00",
+      "timestamp_display": "21/07/2026 07:44 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de circulación por #AccidenteVial en el km 124+000, de la carretera Las Choapas - Ocozocoautla, a la altura del poblado El Progreso, con dirección a Tuxtla Gutiérrez. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 124.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079562317834973370#m",
+      "timestamp": "2026-07-21T13:41:07+00:00",
+      "timestamp_display": "21/07/2026 07:41 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación por #AccidenteVial en el km 284+900, de la carretera Pinotepa Nacional - Salina Cruz, a la altura del Mpio. San Pedro Huamelula, con dirección a Salina Cruz. Atienda indicación vial.",
       "type": "twitter",
@@ -70,6 +112,19 @@
       "segment": null
     },
     {
+      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2079446161987981519#m",
+      "timestamp": "2026-07-21T05:59:33+00:00",
+      "timestamp_display": "20/07/2026 23:59 CST",
+      "segment": null
+    },
+    {
       "title": "#TomePrecauciones en #SLP se registra cierre total de circulación por #AccidenteVial en el km 146+000, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. de San María del Río, con dirección a Querétaro y San Luis Potosí. Atienda indicación vial.",
       "type": "twitter",
       "lat": 21.728930187580662,
@@ -84,19 +139,6 @@
         "queretaro",
         "san luis potosi"
       ]
-    },
-    {
-      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2079446161987981519#m",
-      "timestamp": "2026-07-21T05:59:33+00:00",
-      "timestamp_display": "20/07/2026 23:59 CST",
-      "segment": null
     },
     {
       "title": "#VíaLibre en #Nayarit tras #AccidenteVial en el km 124+500, de la carretera Tepic - Puerto Vallarta, a la altura del Mpio. de Bucerias, con dirección a Tepic. Maneje con precaución.",
@@ -141,19 +183,6 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación por #AccidenteVial en el km 031+300, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Tehuacán, con dirección a Cuacnopalan y Tehuacán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 31.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2079422210989511062#m",
-      "timestamp": "2026-07-21T04:24:23+00:00",
-      "timestamp_display": "20/07/2026 22:24 CST",
-      "segment": null
-    },
-    {
       "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Orizaba - Tehuacán.",
       "type": "twitter",
       "lat": 23.5,
@@ -163,6 +192,19 @@
       "risk": "normal",
       "url": "https://nitter.net/GN_Carreteras/status/2079422212948230588#m",
       "timestamp": "2026-07-21T04:24:24+00:00",
+      "timestamp_display": "20/07/2026 22:24 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación por #AccidenteVial en el km 031+300, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Tehuacán, con dirección a Cuacnopalan y Tehuacán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 31.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079422210989511062#m",
+      "timestamp": "2026-07-21T04:24:23+00:00",
       "timestamp_display": "20/07/2026 22:24 CST",
       "segment": null
     },
@@ -235,29 +277,55 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Puebla tras #AccidenteVial en el km 130+200, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Xicotepec de Juárez. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco, km 362, dirección Acapulco. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.575699999999998,
-      "lng": -98.46815000000001,
-      "road": 130,
-      "km": 130.2,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 362,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2079395977895559423#m",
-      "timestamp": "2026-07-21T02:40:09+00:00",
-      "timestamp_display": "20/07/2026 20:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2079566159007850923#m",
+      "timestamp": "2026-07-21T13:56:23+00:00",
+      "timestamp_display": "21/07/2026 07:56 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 054+100, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. de Tehuacán, con dirección a Cuacnopalan. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección Querétaro. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 17,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079562683662160346#m",
+      "timestamp": "2026-07-21T13:42:34+00:00",
+      "timestamp_display": "21/07/2026 07:42 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
       "road": null,
-      "km": 54.1,
+      "km": 31,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2079395090179490177#m",
-      "timestamp": "2026-07-21T02:36:37+00:00",
-      "timestamp_display": "20/07/2026 20:36 CST",
+      "url": "https://nitter.net/CAPUFE/status/2079559462390554976#m",
+      "timestamp": "2026-07-21T13:29:46+00:00",
+      "timestamp_display": "21/07/2026 07:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 129, dirección Gómez Palacio. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 129,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079557404895633648#m",
+      "timestamp": "2026-07-21T13:21:36+00:00",
+      "timestamp_display": "21/07/2026 07:21 CST",
       "segment": null
     },
     {
@@ -473,61 +541,6 @@
       "timestamp": "2026-07-21T05:38:18+00:00",
       "timestamp_display": "20/07/2026 23:38 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 187. Continúa circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 187,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079437016287023470#m",
-      "timestamp": "2026-07-21T05:23:13+00:00",
-      "timestamp_display": "20/07/2026 23:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079436783687758015#m",
-      "timestamp": "2026-07-21T05:22:17+00:00",
-      "timestamp_display": "20/07/2026 23:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección CDMX. Cierre a la circulación en carriles centrales por atención de accidente (persona atropellada). Circulación por carriles laterales. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 86,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079436159348785607#m",
-      "timestamp": "2026-07-21T05:19:49+00:00",
-      "timestamp_display": "20/07/2026 23:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 5, dirección Cosoleacaque. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.912779141103,
-      "lng": -94.89252637367647,
-      "road": 145,
-      "km": 5,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079435771358896239#m",
-      "timestamp": "2026-07-21T05:18:16+00:00",
-      "timestamp_display": "20/07/2026 23:18 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
     }
   ]
 }
