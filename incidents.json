@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-21T08:38:46.349135",
+  "last_update": "2026-07-21T09:35:04.773718",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre intermitente de circulación por #AccidenteVial en el km 286+500, de la carretera Uruapan - Lázaro Cárdenas, a la altura de Playa Boca de Leña, con dirección a Lázaro Cárdenas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 286.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079486782127657408#m",
+      "timestamp": "2026-07-21T08:40:58+00:00",
+      "timestamp_display": "21/07/2026 02:40 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial en el km 093+500, de la carretera México-Puebla, a la altura del Mpio. de San Martin Texmelucan, con dirección a Cd. Méx. Atienda indicación vial.",
       "type": "twitter",
