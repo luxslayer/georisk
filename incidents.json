@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-21T21:54:27.344996",
+  "last_update": "2026-07-21T22:20:33.334729",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial en el km 041+300, de la carretera México-Toluca, a la altura del Mpio. Ocoyoacac, Edo. Méx., con dirección a Toluca, Edo. Méx. Atienda indicación vial.",
@@ -83,19 +83,6 @@
       ]
     },
     {
-      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2079623393846940061#m",
-      "timestamp": "2026-07-21T17:43:49+00:00",
-      "timestamp_display": "21/07/2026 11:43 CST",
-      "segment": null
-    },
-    {
       "title": "#PrecauciónVial en #SLP continúa cierre total de circulación por #AccidenteVial en el km 146+000, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. de San María del Río, con dirección a Querétaro y San Luis Potosí. Atienda indicación vial.",
       "type": "twitter",
       "lat": 21.728930187580662,
@@ -110,6 +97,19 @@
         "queretaro",
         "san luis potosi"
       ]
+    },
+    {
+      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2079623393846940061#m",
+      "timestamp": "2026-07-21T17:43:49+00:00",
+      "timestamp_display": "21/07/2026 11:43 CST",
+      "segment": null
     },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 015+000, de la carretera Cordoba-Entroque la Tinaja, con dirección a Puebla. Atienda indicación vial.",
@@ -278,6 +278,35 @@
       "timestamp": "2026-07-21T13:41:07+00:00",
       "timestamp_display": "21/07/2026 07:41 CST",
       "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 123, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por maniobras de trasvase de carga. Personal de CAPUFE y Protección Civil, se encuentran laborando en el lugar. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 123,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079691973766905977#m",
+      "timestamp": "2026-07-21T22:16:20+00:00",
+      "timestamp_display": "21/07/2026 16:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 6, dirección Acayucan. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.91341888003502,
+      "lng": -94.88309921941682,
+      "road": 145,
+      "km": 6,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079687795967184964#m",
+      "timestamp": "2026-07-21T21:59:43+00:00",
+      "timestamp_display": "21/07/2026 15:59 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 284, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -505,32 +534,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 17,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079624455903416614#m",
-      "timestamp": "2026-07-21T17:48:02+00:00",
-      "timestamp_display": "21/07/2026 11:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧OBRAS Y LABORES DE MANTENIMIENTO🚧 Autopista Acatzingo - Cd. Mendoza, km 242, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 242,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079623786853171439#m",
-      "timestamp": "2026-07-21T17:45:22+00:00",
-      "timestamp_display": "21/07/2026 11:45 CST",
-      "segment": null
     }
   ]
 }
