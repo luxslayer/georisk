@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-21T06:37:53.372687",
+  "last_update": "2026-07-21T07:38:17.074225",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 000+200, de la carretera Tamarindo - Cardel, a la altura del Mpio. de La Antigua, con dirección a Cardel. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 0.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079470298781384910#m",
+      "timestamp": "2026-07-21T07:35:28+00:00",
+      "timestamp_display": "21/07/2026 01:35 CST",
+      "segment": null
+    },
     {
       "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
       "type": "twitter",
@@ -190,6 +203,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2079395090179490177#m",
       "timestamp": "2026-07-21T02:36:37+00:00",
       "timestamp_display": "20/07/2026 20:36 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 31. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente En la zona se registra derrame de combustible. El personal de CAPUFE, continúa realizando las labores de atención. Por seguridad de las personas usuarias, se desvía el tránsito vehicular hacia carretera libre en los siguientes puntos: ➡️ Dirección Oaxaca, a la altura del km 1 (Poblado Cuacnopalan). ➡️ Dirección Cuacnopalan, a la altura de la Plaza de Cobro Tehuacán. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 31,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079468467896389679#m",
+      "timestamp": "2026-07-21T07:28:12+00:00",
+      "timestamp_display": "21/07/2026 01:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 102, dirección Isla. Continúa reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 102,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079460741065695667#m",
+      "timestamp": "2026-07-21T06:57:29+00:00",
+      "timestamp_display": "21/07/2026 00:57 CST",
       "segment": null
     },
     {
@@ -440,32 +479,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 187. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Tránsito lento en la zona. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 187,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079400371173138846#m",
-      "timestamp": "2026-07-21T02:57:36+00:00",
-      "timestamp_display": "20/07/2026 20:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Chamapa - Lechería, Plaza de Cobro Chamapa, dirección Chamapa. Carga vehicular por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079392541133230251#m",
-      "timestamp": "2026-07-21T02:26:29+00:00",
-      "timestamp_display": "20/07/2026 20:26 CST",
-      "segment": null
     }
   ]
 }
