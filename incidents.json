@@ -1,18 +1,34 @@
 {
-  "last_update": "2026-07-21T17:46:47.594497",
+  "last_update": "2026-07-21T18:32:03.770873",
   "incidents": [
     {
-      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
+      "title": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km. 027+500 de la carretera Ciudad Guzmán-Colima, a la altura del Mpio. Tonila, Jal. Atienda indicación vial.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 19.246,
+      "lng": -103.724,
       "road": null,
       "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2079623393846940061#m",
-      "timestamp": "2026-07-21T17:43:49+00:00",
-      "timestamp_display": "21/07/2026 11:43 CST",
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079631094513639547#m",
+      "timestamp": "2026-07-21T18:14:25+00:00",
+      "timestamp_display": "21/07/2026 12:14 CST",
       "segment": null
+    },
+    {
+      "title": "#VíaLibre en #EdoMéx tras retiro de personas, cerca del km 023+200, de la carretera México-Puebla, a la altura del Mpio. Emiliano Zapata, Edo. Méx., con dirección a CDMX. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.3227877777903,
+      "lng": -98.95759009275456,
+      "road": 150,
+      "km": 5.199999999999999,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2079624550107512991#m",
+      "timestamp": "2026-07-21T17:48:24+00:00",
+      "timestamp_display": "21/07/2026 11:48 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "#PrecauciónVial en #SLP continúa cierre total de circulación por #AccidenteVial en el km 146+000, de la carretera Querétaro-San Luis Potosí, a la altura del Mpio. de San María del Río, con dirección a Querétaro y San Luis Potosí. Atienda indicación vial.",
@@ -29,6 +45,19 @@
         "queretaro",
         "san luis potosi"
       ]
+    },
+    {
+      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2079623393846940061#m",
+      "timestamp": "2026-07-21T17:43:49+00:00",
+      "timestamp_display": "21/07/2026 11:43 CST",
+      "segment": null
     },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 015+000, de la carretera Cordoba-Entroque la Tinaja, con dirección a Puebla. Atienda indicación vial.",
@@ -254,29 +283,100 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial en el km 000+200, de la carretera Tamarindo - Cardel, a la altura del Mpio. de La Antigua, con dirección a Cardel. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 0.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2079470298781384910#m",
-      "timestamp": "2026-07-21T07:35:28+00:00",
-      "timestamp_display": "21/07/2026 01:35 CST",
+      "km": 297,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079635232253256136#m",
+      "timestamp": "2026-07-21T18:30:51+00:00",
+      "timestamp_display": "21/07/2026 12:30 CST",
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera Villa de Reyes, con dirección a Querétaro.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 297,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079631534424748222#m",
+      "timestamp": "2026-07-21T18:16:10+00:00",
+      "timestamp_display": "21/07/2026 12:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 92, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.26920343360605,
+      "lng": -98.42709160468759,
+      "road": 150,
+      "km": 74,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079630883653325115#m",
+      "timestamp": "2026-07-21T18:13:34+00:00",
+      "timestamp_display": "21/07/2026 12:13 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 17, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": null,
+      "km": 17,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079630054686896318#m",
+      "timestamp": "2026-07-21T18:10:17+00:00",
+      "timestamp_display": "21/07/2026 12:10 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 126, dirección CDMX. Se informa a las personas usuarias que se registra reducción de carriles, por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 126,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2079446161987981519#m",
-      "timestamp": "2026-07-21T05:59:33+00:00",
-      "timestamp_display": "20/07/2026 23:59 CST",
+      "url": "https://nitter.net/CAPUFE/status/2079625949339856997#m",
+      "timestamp": "2026-07-21T17:53:58+00:00",
+      "timestamp_display": "21/07/2026 11:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoPuebla, km 22, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.330034972804544,
+      "lng": -98.96606363556693,
+      "road": 150,
+      "km": 4,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079624916328980617#m",
+      "timestamp": "2026-07-21T17:49:52+00:00",
+      "timestamp_display": "21/07/2026 11:49 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 17,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079624455903416614#m",
+      "timestamp": "2026-07-21T17:48:02+00:00",
+      "timestamp_display": "21/07/2026 11:48 CST",
       "segment": null
     },
     {
@@ -430,93 +530,6 @@
       "timestamp": "2026-07-21T15:48:09+00:00",
       "timestamp_display": "21/07/2026 09:48 CST",
       "segment": null
-    },
-    {
-      "title": "Image",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079592591176180031#m",
-      "timestamp": "2026-07-21T15:41:25+00:00",
-      "timestamp_display": "21/07/2026 09:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 92, dirección Puebla. Continúa circulación intermitente por atención de accidente (maniobras para retiro de las unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.26920343360605,
-      "lng": -98.42709160468759,
-      "road": 150,
-      "km": 74,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079592571932655655#m",
-      "timestamp": "2026-07-21T15:41:20+00:00",
-      "timestamp_display": "21/07/2026 09:41 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 17, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 17,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079591433753825368#m",
-      "timestamp": "2026-07-21T15:36:49+00:00",
-      "timestamp_display": "21/07/2026 09:36 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, Plaza de Cobro Palmillas, dirección CDMX. Se informa a las personas usuarias que se registra reducción de carriles, por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079589478453170581#m",
-      "timestamp": "2026-07-21T15:29:03+00:00",
-      "timestamp_display": "21/07/2026 09:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 92, dirección Puebla. Registra circulación intermitente por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.26920343360605,
-      "lng": -98.42709160468759,
-      "road": 150,
-      "km": 74,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079587669185564681#m",
-      "timestamp": "2026-07-21T15:21:51+00:00",
-      "timestamp_display": "21/07/2026 09:21 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 75, dirección Puebla. Reducción de carriles por labores de mantenimiento. Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.33604506530859,
-      "lng": -98.56978248197332,
-      "road": 150,
-      "km": 57,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079582180104437926#m",
-      "timestamp": "2026-07-21T15:00:03+00:00",
-      "timestamp_display": "21/07/2026 09:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
