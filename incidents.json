@@ -1,6 +1,38 @@
 {
-  "last_update": "2026-07-22T16:46:38.871920",
+  "last_update": "2026-07-22T17:31:15.941216",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca km. 275+200 de la autopista Puebla - Córdoba, con dirección Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079976902744289736#m",
+      "timestamp": "2026-07-22T17:08:32+00:00",
+      "timestamp_display": "22/07/2026 11:08 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 005+200 de la autopista Nuevo Teapa - Cosoleacaque, con dirección Villahermosa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": 180,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2079973461577896055#m",
+      "timestamp": "2026-07-22T16:54:51+00:00",
+      "timestamp_display": "22/07/2026 10:54 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #NL continua cierre parcial de circulación por #AccidenteVial cerca del km. 160+800 de la carretera Cd. Victoria - Monterrey, con dirección Montemorelos, a a la altura del poblado Hualahuises, N.L. Atienda indicación vial.",
       "type": "twitter",
@@ -273,16 +305,71 @@
       "segment": null
     },
     {
-      "title": "#VíalidadLibre en #Puebla tras #AccidenteVial en el km 054+100, de la carretera San Hipólito-Xalapa, a la altura del Mpio. Tepeyahualco, Pue. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 93, dirección Puebla. Registra cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/67HpREtmToaBH88o8",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 19.26352634113564,
+      "lng": -98.4197034514841,
+      "road": 150,
+      "km": 75,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079979765725790590#m",
+      "timestamp": "2026-07-22T17:19:54+00:00",
+      "timestamp_display": "22/07/2026 11:19 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🚫⚽ #TarjetaRojaALaTrata Infórmate, identifica las señales y contribuye a su prevención. 📢 ¡Denuncia!",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 54.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2079698499549942135#m",
-      "timestamp": "2026-07-21T22:42:15+00:00",
-      "timestamp_display": "21/07/2026 16:42 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079974758230171819#m",
+      "timestamp": "2026-07-22T17:00:01+00:00",
+      "timestamp_display": "22/07/2026 11:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 85, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 85,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079973674828915117#m",
+      "timestamp": "2026-07-22T16:55:42+00:00",
+      "timestamp_display": "22/07/2026 10:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 90, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 90,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079973612518281414#m",
+      "timestamp": "2026-07-22T16:55:27+00:00",
+      "timestamp_display": "22/07/2026 10:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 123, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 123,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079973558092972078#m",
+      "timestamp": "2026-07-22T16:55:14+00:00",
+      "timestamp_display": "22/07/2026 10:55 CST",
       "segment": null
     },
     {
@@ -490,71 +577,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079944568725025223#m",
       "timestamp": "2026-07-22T15:00:03+00:00",
       "timestamp_display": "22/07/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "El fentanilo puede estar presente en muchas drogas sin que lo sepas. Una sola exposición puede tener consecuencias graves o incluso fatales. Infórmate, protege tu salud y busca ayuda si la necesitas. #AléjateDeLasDrogas #EligeSerFeliz #ElFentaniloTeMata",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079944558700601542#m",
-      "timestamp": "2026-07-22T15:00:00+00:00",
-      "timestamp_display": "22/07/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079938853230477726#m",
-      "timestamp": "2026-07-22T14:37:20+00:00",
-      "timestamp_display": "22/07/2026 08:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 85, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 85,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079934812098302385#m",
-      "timestamp": "2026-07-22T14:21:17+00:00",
-      "timestamp_display": "22/07/2026 08:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 90, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 90,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079934666790875248#m",
-      "timestamp": "2026-07-22T14:20:42+00:00",
-      "timestamp_display": "22/07/2026 08:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 123, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 123,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079934583303295343#m",
-      "timestamp": "2026-07-22T14:20:22+00:00",
-      "timestamp_display": "22/07/2026 08:20 CST",
       "segment": null
     }
   ]
