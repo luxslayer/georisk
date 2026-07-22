@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-22T17:31:15.941216",
+  "last_update": "2026-07-22T18:09:17.304308",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca km. 275+200 de la autopista Puebla - Córdoba, con dirección Veracruz. Atienda indicación vial.",
@@ -305,6 +305,61 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Registra cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones, vagonetas y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/HxVfHCRv29ZhgU129",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 125,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079954166831608017#m",
+      "timestamp": "2026-07-22T15:38:11+00:00",
+      "timestamp_display": "22/07/2026 09:38 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 125, dirección Querétaro. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas y las labores de limpieza. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 125,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079970690149785677#m",
+      "timestamp": "2026-07-22T16:43:51+00:00",
+      "timestamp_display": "22/07/2026 10:43 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 125, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 125,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2079989323869372441#m",
+      "timestamp": "2026-07-22T17:57:53+00:00",
+      "timestamp_display": "22/07/2026 11:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 27, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.81319390913748,
+      "lng": -96.66532536210065,
+      "road": 150,
+      "km": 27,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2079984834668040401#m",
+      "timestamp": "2026-07-22T17:40:03+00:00",
+      "timestamp_display": "22/07/2026 11:40 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 93, dirección Puebla. Registra cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/67HpREtmToaBH88o8",
       "type": "twitter",
       "lat": 19.26352634113564,
@@ -370,32 +425,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079973558092972078#m",
       "timestamp": "2026-07-22T16:55:14+00:00",
       "timestamp_display": "22/07/2026 10:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 125, dirección Querétaro. Registra cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones, vagonetas y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/HxVfHCRv29ZhgU129",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 125,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079954166831608017#m",
-      "timestamp": "2026-07-22T15:38:11+00:00",
-      "timestamp_display": "22/07/2026 09:38 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 125, dirección Querétaro. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas y las labores de limpieza. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 125,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079970690149785677#m",
-      "timestamp": "2026-07-22T16:43:51+00:00",
-      "timestamp_display": "22/07/2026 10:43 CST",
       "segment": null
     },
     {
@@ -548,35 +577,6 @@
       "url": "https://nitter.net/CAPUFE/status/2079951538290581872#m",
       "timestamp": "2026-07-22T15:27:45+00:00",
       "timestamp_display": "22/07/2026 09:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 27, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.81319390913748,
-      "lng": -96.66532536210065,
-      "road": 150,
-      "km": 27,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2079945513407803565#m",
-      "timestamp": "2026-07-22T15:03:48+00:00",
-      "timestamp_display": "22/07/2026 09:03 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 286, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2079944568725025223#m",
-      "timestamp": "2026-07-22T15:00:03+00:00",
-      "timestamp_display": "22/07/2026 09:00 CST",
       "segment": null
     }
   ]
