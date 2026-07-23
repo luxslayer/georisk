@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-23T12:14:45.058476",
+  "last_update": "2026-07-23T12:51:11.272715",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 005+200 de la carretera Libramiento Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080270294988550451#m",
+      "timestamp": "2026-07-23T12:34:22+00:00",
+      "timestamp_display": "23/07/2026 06:34 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 000+100 Atienda indicación casarte sin flores. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +262,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 022+500 de la carretera Libramiento de Xalapa. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registras carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 180,
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080082710094086214#m",
-      "timestamp": "2026-07-23T00:08:58+00:00",
-      "timestamp_display": "22/07/2026 18:08 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080267737725538679#m",
+      "timestamp": "2026-07-23T12:24:12+00:00",
+      "timestamp_display": "23/07/2026 06:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080266444726567093#m",
+      "timestamp": "2026-07-23T12:19:04+00:00",
+      "timestamp_display": "23/07/2026 06:19 CST",
       "segment": null
     },
     {
@@ -502,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080129030787887456#m",
       "timestamp": "2026-07-23T03:13:02+00:00",
       "timestamp_display": "22/07/2026 21:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 281, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para retiro de unidad siniestrada).",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 281,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080128500351029305#m",
-      "timestamp": "2026-07-23T03:10:56+00:00",
-      "timestamp_display": "22/07/2026 21:10 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080121483636904314#m",
-      "timestamp": "2026-07-23T02:43:03+00:00",
-      "timestamp_display": "22/07/2026 20:43 CST",
       "segment": null
     }
   ]
