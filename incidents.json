@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-23T17:32:30.085469",
+  "last_update": "2026-07-23T18:10:12.990357",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 127+000 de la carretera Acatlán de Juárez-Colima, a la altura del Municipio de Ciudad Guzmán, Jal. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080349939431838068#m",
+      "timestamp": "2026-07-23T17:50:51+00:00",
+      "timestamp_display": "23/07/2026 11:50 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Zacatecas continúa cierre parcial de circulación tras conclusión de maniobtras tras accidente cerca del km. 207+000 de la carretera Zacatecas-Saltillo, a la altura del municipio de Mazapil, con dirección a Saltillo, Coah. Atienda indicación vial.",
       "type": "twitter",
@@ -249,16 +262,58 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 125+500 de la carretera Querétaro - León, a la altura de la localidad Loma de Juárez, Gto. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Chamapa - Lechería, km 17, dirección Chamapa. El accidente en la gasa de salida hacia la Plaza de Cobro Lomas Verdes, ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 17,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080173848528290164#m",
-      "timestamp": "2026-07-23T06:11:07+00:00",
-      "timestamp_display": "23/07/2026 00:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2080353565650907376#m",
+      "timestamp": "2026-07-23T18:05:15+00:00",
+      "timestamp_display": "23/07/2026 12:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 270, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 270,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080350268282077238#m",
+      "timestamp": "2026-07-23T17:52:09+00:00",
+      "timestamp_display": "23/07/2026 11:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acayucan - Cosoleacaque, km 2, dirección Acayucan. Registra cierre a la circulación por atención de choque por alcance múltiple entre tracto camion, pick up y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/BSALPxca1mryXxzy7",
+      "type": "twitter",
+      "lat": 17.911000953726194,
+      "lng": -94.92081864354964,
+      "road": 145,
+      "km": 2,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080349272721985746#m",
+      "timestamp": "2026-07-23T17:48:12+00:00",
+      "timestamp_display": "23/07/2026 11:48 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Reducción de carriles en la gasa de salida hacia la Plaza de Cobro Lomas Verdes por atención de accidente (salida de neumático). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 17,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080346393990791523#m",
+      "timestamp": "2026-07-23T17:36:45+00:00",
+      "timestamp_display": "23/07/2026 11:36 CST",
       "segment": null
     },
     {
@@ -457,71 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080306947618660816#m",
       "timestamp": "2026-07-23T15:00:01+00:00",
       "timestamp_display": "23/07/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ⚠️ 𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘 ⚠️ Se informa a las personas usuarias que, a partir del 15 de julio de 2026, 𝗖𝗔𝗣𝗨𝗙𝗘 𝗶𝗺𝗽𝘂𝗹𝘀𝗮 𝗲𝗹 𝗽𝗮𝗴𝗼 𝗲𝗹𝗲𝗰𝘁𝗿ó𝗻𝗶𝗰𝗼 en las plazas de cobro siguientes: 🔘𝗔𝘂𝘁𝗼𝗽𝗶𝘀𝘁𝗮 𝗠é𝘅𝗶𝗰𝗼 - 𝗖𝘂𝗲𝗿𝗻𝗮𝘃𝗮𝗰𝗮 Tlalpan 🔘𝗔𝘂𝘁𝗼𝗽𝗶𝘀𝘁𝗮 𝗖𝘂𝗲𝗿𝗻𝗮𝘃𝗮𝗰𝗮 - 𝗔𝗰𝗮𝗽𝘂𝗹𝗰𝗼 Ing. Francisco Velasco Durán Paso Morelos Palo Blanco La Venta Recuerda que puedes adquirir tu TAG IAVE en los puntos de venta de las plazas de cobro o en la siguiente página: https://iave.capufe.gob.mx 🚘🛣️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080291853589516781#m",
-      "timestamp": "2026-07-23T14:00:02+00:00",
-      "timestamp_display": "23/07/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 86, dirección La Tinaja. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 86,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080285777511043513#m",
-      "timestamp": "2026-07-23T13:35:53+00:00",
-      "timestamp_display": "23/07/2026 07:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registras carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080267737725538679#m",
-      "timestamp": "2026-07-23T12:24:12+00:00",
-      "timestamp_display": "23/07/2026 06:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080266444726567093#m",
-      "timestamp": "2026-07-23T12:19:04+00:00",
-      "timestamp_display": "23/07/2026 06:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 100, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 100,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080253225219899433#m",
-      "timestamp": "2026-07-23T11:26:32+00:00",
-      "timestamp_display": "23/07/2026 05:26 CST",
       "segment": null
     }
   ]
