@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-23T10:56:50.218207",
+  "last_update": "2026-07-23T11:41:00.277262",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 000+100 Atienda indicación casarte sin flores. Atienda indicación vial.",
@@ -262,6 +262,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 100, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 100,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080253225219899433#m",
+      "timestamp": "2026-07-23T11:26:32+00:00",
+      "timestamp_display": "23/07/2026 05:26 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 73 dirección CDMX. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.33905663544507,
@@ -516,22 +529,6 @@
       "timestamp": "2026-07-23T02:43:03+00:00",
       "timestamp_display": "22/07/2026 20:43 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 73 dirección CDMX. Reducción de carriles por atención de incidente (unidad con falla mecánica). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.33905663544507,
-      "lng": -98.58664046523603,
-      "road": 150,
-      "km": 55,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080119644896010666#m",
-      "timestamp": "2026-07-23T02:35:44+00:00",
-      "timestamp_display": "22/07/2026 20:35 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
