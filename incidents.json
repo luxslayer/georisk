@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-23T00:39:32.010727",
+  "last_update": "2026-07-23T01:15:32.620304",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 009+500 de la carretera Puebla - Huajuapan de León, con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080090418302111761#m",
+      "timestamp": "2026-07-23T00:39:36+00:00",
+      "timestamp_display": "22/07/2026 18:39 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 020+500 de la autopista Ent. La tinaja - Cosoleacaque. Atienda indicación vial.",
       "type": "twitter",
@@ -280,6 +293,32 @@
       "segment": null
     },
     {
+      "title": "🚫⚽ #CartonRougeÀLaTraite Informez-vous, identifiez les signes d'alerte et contribuez à la prévention. 📢 Dénoncez!",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080095553443033396#m",
+      "timestamp": "2026-07-23T01:00:00+00:00",
+      "timestamp_display": "22/07/2026 19:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080095234818478419#m",
+      "timestamp": "2026-07-23T00:58:44+00:00",
+      "timestamp_display": "22/07/2026 18:58 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Chamapa - Lechería, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -549,35 +588,6 @@
       "timestamp": "2026-07-22T22:09:54+00:00",
       "timestamp_display": "22/07/2026 16:09 CST",
       "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, del km 281 al 282, dirección Córdoba. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 281,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080052497838653678#m",
-      "timestamp": "2026-07-22T22:08:55+00:00",
-      "timestamp_display": "22/07/2026 16:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Continúa circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080052274085179608#m",
-      "timestamp": "2026-07-22T22:08:02+00:00",
-      "timestamp_display": "22/07/2026 16:08 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
