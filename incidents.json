@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-23T04:54:55.103312",
+  "last_update": "2026-07-23T06:01:43.915772",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 008+900 de la carretera Tihuatlán (T.C. Alazan Canoas), con dirección Álamo. Atienda indicación vial.",
@@ -268,6 +268,48 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 100, dirección La Tinaja. Continúa circulación intermitente por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 100,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080166223657017732#m",
+      "timestamp": "2026-07-23T05:40:49+00:00",
+      "timestamp_display": "22/07/2026 23:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Obregón - Guaymas, km 51, dirección Cd. Obregón. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 51,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080158916114096557#m",
+      "timestamp": "2026-07-23T05:11:47+00:00",
+      "timestamp_display": "22/07/2026 23:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en dirección Veracruz, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080155479146184967#m",
+      "timestamp": "2026-07-23T04:58:08+00:00",
+      "timestamp_display": "22/07/2026 22:58 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 281, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.8885,
@@ -479,32 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080119527807779171#m",
       "timestamp": "2026-07-23T02:35:16+00:00",
       "timestamp_display": "22/07/2026 20:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 51, dirección Cd. Obregón. Continúa reducción de carriles por atención de accidente (maniobras para retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 51,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080115741001400544#m",
-      "timestamp": "2026-07-23T02:20:13+00:00",
-      "timestamp_display": "22/07/2026 20:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 281, dirección Córdoba. Cierre de circulación por atención de accidente (tracto camión con falla mecánica). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 281,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080110918344589800#m",
-      "timestamp": "2026-07-23T02:01:04+00:00",
-      "timestamp_display": "22/07/2026 20:01 CST",
       "segment": null
     }
   ]
