@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-07-23T18:10:12.990357",
+  "last_update": "2026-07-23T18:41:37.791280",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 218+000 de la carretera Puebla-Córdoba, a la altura del Municipio La Esperanza, Pue., con dirección a Puebla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080360028188364898#m",
+      "timestamp": "2026-07-23T18:30:56+00:00",
+      "timestamp_display": "23/07/2026 12:30 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 127+000 de la carretera Acatlán de Juárez-Colima, a la altura del Municipio de Ciudad Guzmán, Jal. Maneje con precaución.",
       "type": "twitter",
@@ -249,16 +265,103 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chiapas continua cierre de circulación por #AccidenteVial cerca del km. 029+500 de la carretera Villahermosa - Escopetazo. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 39, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/qRv6vLX4c7eFGAsr8",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 39,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080342810054602999#m",
+      "timestamp": "2026-07-23T17:22:31+00:00",
+      "timestamp_display": "23/07/2026 11:22 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Querétaro - Irapuato, km 39, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 39,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080356614519890156#m",
+      "timestamp": "2026-07-23T18:17:22+00:00",
+      "timestamp_display": "23/07/2026 12:17 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 39, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 39,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080361841994199137#m",
+      "timestamp": "2026-07-23T18:38:09+00:00",
+      "timestamp_display": "23/07/2026 12:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acayucan - Cosoleacaque, km 2, dirección Acayucan. Registra cierre a la circulación por atención de choque por alcance múltiple entre tracto camion, pick up y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/BSALPxca1mryXxzy7",
+      "type": "twitter",
+      "lat": 17.911000953726194,
+      "lng": -94.92081864354964,
+      "road": 145,
+      "km": 2,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080349272721985746#m",
+      "timestamp": "2026-07-23T17:48:12+00:00",
+      "timestamp_display": "23/07/2026 11:48 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acayucan - Cosoleacaque, km 2, dirección Acayucan. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.911000953726194,
+      "lng": -94.92081864354964,
+      "road": 145,
+      "km": 2,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080357125541249387#m",
+      "timestamp": "2026-07-23T18:19:24+00:00",
+      "timestamp_display": "23/07/2026 12:19 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acayucan - Cosoleacaque, km 2, dirección Acayucan. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.911000953726194,
+      "lng": -94.92081864354964,
+      "road": 145,
+      "km": 2,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080361553107304538#m",
+      "timestamp": "2026-07-23T18:37:00+00:00",
+      "timestamp_display": "23/07/2026 12:37 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080175665085604043#m",
-      "timestamp": "2026-07-23T06:18:21+00:00",
-      "timestamp_display": "23/07/2026 00:18 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080358284586819879#m",
+      "timestamp": "2026-07-23T18:24:00+00:00",
+      "timestamp_display": "23/07/2026 12:24 CST",
       "segment": null
     },
     {
@@ -288,22 +391,6 @@
       "segment": null
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acayucan - Cosoleacaque, km 2, dirección Acayucan. Registra cierre a la circulación por atención de choque por alcance múltiple entre tracto camion, pick up y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/BSALPxca1mryXxzy7",
-      "type": "twitter",
-      "lat": 17.911000953726194,
-      "lng": -94.92081864354964,
-      "road": 145,
-      "km": 2,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080349272721985746#m",
-      "timestamp": "2026-07-23T17:48:12+00:00",
-      "timestamp_display": "23/07/2026 11:48 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 17, dirección Chamapa. Reducción de carriles en la gasa de salida hacia la Plaza de Cobro Lomas Verdes por atención de accidente (salida de neumático). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -314,19 +401,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080346393990791523#m",
       "timestamp": "2026-07-23T17:36:45+00:00",
       "timestamp_display": "23/07/2026 11:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 39, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/qRv6vLX4c7eFGAsr8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 39,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080342810054602999#m",
-      "timestamp": "2026-07-23T17:22:31+00:00",
-      "timestamp_display": "23/07/2026 11:22 CST",
       "segment": null
     },
     {
@@ -460,58 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080321040668836112#m",
       "timestamp": "2026-07-23T15:56:01+00:00",
       "timestamp_display": "23/07/2026 09:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080319065491468716#m",
-      "timestamp": "2026-07-23T15:48:10+00:00",
-      "timestamp_display": "23/07/2026 09:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 114, dirección La Tinaja. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 114,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080318676402638918#m",
-      "timestamp": "2026-07-23T15:46:37+00:00",
-      "timestamp_display": "23/07/2026 09:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 86, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 86,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080317326843342880#m",
-      "timestamp": "2026-07-23T15:41:15+00:00",
-      "timestamp_display": "23/07/2026 09:41 CST",
-      "segment": null
-    },
-    {
-      "title": "🚗 Un simple clic puede marcar la diferencia. Antes de iniciar tu viaje, asegúrate de que todas las personas que viajan en el vehículo, utilicen correctamente el cinturón de seguridad. #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080306947618660816#m",
-      "timestamp": "2026-07-23T15:00:01+00:00",
-      "timestamp_display": "23/07/2026 09:00 CST",
       "segment": null
     }
   ]
