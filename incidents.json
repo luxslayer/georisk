@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-07-24T18:11:20.015812",
+  "last_update": "2026-07-24T18:47:27.683506",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación tras #AccidenteVial cerca del km 057+100, de la carretera Pachuca - Tuxpan, a inmediaciones de la comunidad de Tepalcingo, con dirección en ambos sentidos. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.066668520305313,
+      "lng": -98.42451161301065,
+      "road": 130,
+      "km": 57.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080725951885799753#m",
+      "timestamp": "2026-07-24T18:44:59+00:00",
+      "timestamp_display": "24/07/2026 12:44 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se orienta a la población a tomar la ruta alterna por la carretera 132 D Tulancingo - Huauchinango.",
+      "type": "twitter",
+      "lat": 20.0529,
+      "lng": -99.3408,
+      "road": 132,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2080725953810985174#m",
+      "timestamp": "2026-07-24T18:45:00+00:00",
+      "timestamp_display": "24/07/2026 12:45 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación tras #AccidenteVial cerca del km 260+000, de la carretera Uruapan-Lázaro Cárdenas, a la altura del poblado La Compuerta, Mpio. Coyuca, con dirección a Uruapan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 260.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080723368068702245#m",
+      "timestamp": "2026-07-24T18:34:43+00:00",
+      "timestamp_display": "24/07/2026 12:34 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación tras #AccidenteVial cerca del km 257+300, de la carretera Coatzacoalcos - Salina Cruz, a la altura del Mpio. de Juchitán de Zaragoza, con dirección a Coatzacoalcos. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 257.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080721159000129700#m",
+      "timestamp": "2026-07-24T18:25:56+00:00",
+      "timestamp_display": "24/07/2026 12:25 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 251+800, de la carretera Puebla-Córdoba (directo), a la altura del Mpio. de Paseo Nuevo, con dirección a Córdoba. Atienda indicación vial.",
       "type": "twitter",
@@ -222,59 +274,30 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 046+500 de la carretera Teziutlán-Nautla, a la altura de la localidad La Palmilla, Ver., con dirección a Nautla, Ver. Atienda indicación vial.",
+      "title": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 57, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080632490285285782#m",
-      "timestamp": "2026-07-24T12:33:36+00:00",
-      "timestamp_display": "24/07/2026 06:33 CST",
+      "km": 57,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080725509076316629#m",
+      "timestamp": "2026-07-24T18:43:14+00:00",
+      "timestamp_display": "24/07/2026 12:43 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #CDMX continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 028+400 de la carretera México-Cuernavaca, a la altura de la Caseta de Tlalpan, CDMX., con dirección a Cuernavaca, Mor. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 211, dirección Hermosillo. Registra circulación con cierres intermitentes por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
+      "lat": 29.07,
+      "lng": -110.96,
       "road": null,
-      "km": null,
+      "km": 211,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080631706378264626#m",
-      "timestamp": "2026-07-24T12:30:29+00:00",
-      "timestamp_display": "24/07/2026 06:30 CST",
+      "url": "https://nitter.net/CAPUFE/status/2080722258624946329#m",
+      "timestamp": "2026-07-24T18:30:19+00:00",
+      "timestamp_display": "24/07/2026 12:30 CST",
       "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Jalisco continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 085+000 de la carretera Zapotlanejo-El Desperdicioa, a la altura del Mpio. Jolostotitlán, Jal., con dirección a El Desperdicio, Jal. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080541909571760172#m",
-      "timestamp": "2026-07-24T06:33:40+00:00",
-      "timestamp_display": "24/07/2026 00:33 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Aguascalientes continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 011+000 de la carretera León-Aguascalientes. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": 45,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080540064518455321#m",
-      "timestamp": "2026-07-24T06:26:20+00:00",
-      "timestamp_display": "24/07/2026 00:26 CST",
-      "segment": [
-        "leon",
-        "aguascalientes"
-      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 2, dirección Nuevo Teapa. Reducción de carriles por atención de accidente (salida del camino de pick up). Maneja con precaución.",
@@ -539,32 +562,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080664037340123593#m",
       "timestamp": "2026-07-24T14:38:58+00:00",
       "timestamp_display": "24/07/2026 08:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. La Carbonera - Puerto México, km 208, dirección Puerto México. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del incidente (choque de tracto camión contra talud). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 208,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080663202577146012#m",
-      "timestamp": "2026-07-24T14:35:39+00:00",
-      "timestamp_display": "24/07/2026 08:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 211, dirección Hermosillo. Reducción de carriles por atención de accidente (salida del camino e incendio de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 211,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080661242658554286#m",
-      "timestamp": "2026-07-24T14:27:51+00:00",
-      "timestamp_display": "24/07/2026 08:27 CST",
       "segment": null
     }
   ]
