@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-24T18:47:27.683506",
+  "last_update": "2026-07-24T19:31:51.658004",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación tras #AccidenteVial cerca del km 057+100, de la carretera Pachuca - Tuxpan, a inmediaciones de la comunidad de Tepalcingo, con dirección en ambos sentidos. Atienda indicación vial.",
@@ -274,6 +274,48 @@
       ]
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8392230465513,
+      "lng": -96.74484002007885,
+      "road": 150,
+      "km": 18,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080734834465423390#m",
+      "timestamp": "2026-07-24T19:20:17+00:00",
+      "timestamp_display": "24/07/2026 13:20 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 23, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 23,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080732046926709208#m",
+      "timestamp": "2026-07-24T19:09:12+00:00",
+      "timestamp_display": "24/07/2026 13:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🤝En #CAPUFE queremos escucharte. Tus comentarios y sugerencias son una oportunidad para mejorar y brindarte una mejor experiencia en cada viaje. #EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080729732409422300#m",
+      "timestamp": "2026-07-24T19:00:00+00:00",
+      "timestamp_display": "24/07/2026 13:00 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 57, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -523,45 +565,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080671163575840843#m",
       "timestamp": "2026-07-24T15:07:17+00:00",
       "timestamp_display": "24/07/2026 09:07 CST",
-      "segment": null
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ Maneja con calma y disfruta el trayecto. Bajar la velocidad también es proteger a quienes más quieres. 🚙💛 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080669332497895731#m",
-      "timestamp": "2026-07-24T15:00:00+00:00",
-      "timestamp_display": "24/07/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 50, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080665295752999014#m",
-      "timestamp": "2026-07-24T14:43:58+00:00",
-      "timestamp_display": "24/07/2026 08:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 134, dirección Querétaro. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 134,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080664037340123593#m",
-      "timestamp": "2026-07-24T14:38:58+00:00",
-      "timestamp_display": "24/07/2026 08:38 CST",
       "segment": null
     }
   ]
