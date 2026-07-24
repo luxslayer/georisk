@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-24T20:11:12.901678",
+  "last_update": "2026-07-24T20:43:09.877218",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Oaxaca tras #AccidenteVial cerca del km 257+300, de la carretera Coatzacoalcos - Salina Cruz, a la altura del Mpio. de Juchitán de Zaragoza. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 257.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080750785973846487#m",
+      "timestamp": "2026-07-24T20:23:40+00:00",
+      "timestamp_display": "24/07/2026 14:23 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre total de circulación tras #AccidenteVial cerca del km 057+100, de la carretera Pachuca - Tuxpan, a inmediaciones de la comunidad de Tepalcingo, con dirección en ambos sentidos. Atienda indicación vial.",
       "type": "twitter",
@@ -258,19 +271,19 @@
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Veracruz continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 029+200 de la carretera Nuevo Teapa-Cosoleacaque, a la altura del Mpio. Cosoleacaque, Ver., con dirección a Cosoleacaque, Ver. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 30, dirección San Luis Potosí. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": 180,
-      "km": null,
+      "lat": 20.82496600637746,
+      "lng": -100.44546281459407,
+      "road": 57,
+      "km": 30,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080633612358008892#m",
-      "timestamp": "2026-07-24T12:38:04+00:00",
-      "timestamp_display": "24/07/2026 06:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2080754657203253751#m",
+      "timestamp": "2026-07-24T20:39:03+00:00",
+      "timestamp_display": "24/07/2026 14:39 CST",
       "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
+        "queretaro",
+        "san luis potosi"
       ]
     },
     {
@@ -559,19 +572,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 68, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 68,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080674349460160666#m",
-      "timestamp": "2026-07-24T15:19:56+00:00",
-      "timestamp_display": "24/07/2026 09:19 CST",
-      "segment": null
     }
   ]
 }
