@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-24T08:37:45.492885",
+  "last_update": "2026-07-24T09:32:43.962164",
   "incidents": [
     {
       "title": "#PrecauciónVial en #Jalisco continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 085+000 de la carretera Zapotlanejo-El Desperdicioa, a la altura del Mpio. Jolostotitlán, Jal., con dirección a El Desperdicio, Jal. Atienda indicación vial.",
@@ -274,6 +274,64 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 39, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.313022793196463,
+      "lng": -98.82413683783133,
+      "road": 150,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080581451427221841#m",
+      "timestamp": "2026-07-24T09:10:48+00:00",
+      "timestamp_display": "24/07/2026 03:10 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 80, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 80,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080577609721610410#m",
+      "timestamp": "2026-07-24T08:55:32+00:00",
+      "timestamp_display": "24/07/2026 02:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠CIERREE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 39, dirección CDMX. Continúa la reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.313022793196463,
+      "lng": -98.82413683783133,
+      "road": 150,
+      "km": 21,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080576425032052737#m",
+      "timestamp": "2026-07-24T08:50:49+00:00",
+      "timestamp_display": "24/07/2026 02:50 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Tampico, km 12, dirección Altamira. Reducción de carriles por atención de accidente (salida del camino y volcadura). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080575681902116925#m",
+      "timestamp": "2026-07-24T08:47:52+00:00",
+      "timestamp_display": "24/07/2026 02:47 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Hermosillo - Magdalena, km 124, dirección Magdalena. Continúa el cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣",
       "type": "twitter",
       "lat": 29.07,
@@ -450,61 +508,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 86, dirección La Tinaja. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 86,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080516242373283991#m",
-      "timestamp": "2026-07-24T04:51:40+00:00",
-      "timestamp_display": "23/07/2026 22:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 39, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.001940116284366,
-      "lng": -94.59592146227482,
-      "road": 145,
-      "km": 39,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080510552724410766#m",
-      "timestamp": "2026-07-24T04:29:04+00:00",
-      "timestamp_display": "23/07/2026 22:29 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 80, dirección Querétaro. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 80,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080508451222880577#m",
-      "timestamp": "2026-07-24T04:20:43+00:00",
-      "timestamp_display": "23/07/2026 22:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 223, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura sobre carpeta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 223,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080505039081050445#m",
-      "timestamp": "2026-07-24T04:07:09+00:00",
-      "timestamp_display": "23/07/2026 22:07 CST",
-      "segment": null
     }
   ]
 }
