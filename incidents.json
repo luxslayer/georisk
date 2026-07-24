@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-24T22:37:04.836908",
+  "last_update": "2026-07-24T23:08:25.674399",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 179+400, de la carretera Poza Rica - Veracruz, a la altura del Mpio. de Actopan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 179.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080789175792468282#m",
+      "timestamp": "2026-07-24T22:56:13+00:00",
+      "timestamp_display": "24/07/2026 16:56 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación tras #AccidenteVial cerca del km 018+500, de la carretera Córdoba Ent. La Tinaja (directo), a la altura del Mpio. de Cuitláhuac, con dirección a Córdoba. Atienda indicación vial.",
       "type": "twitter",
@@ -258,17 +271,62 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre total de circulación tras #AccidenteVial cerca del km 037+200, de la carretera Ent. La Tinaja - Santa Cruz, a la altura del Mpio. de Tierra Blanca, con dirección en ambos sentidos. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
-      "km": 37.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080685156226994397#m",
-      "timestamp": "2026-07-24T16:02:53+00:00",
-      "timestamp_display": "24/07/2026 10:02 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080788550782509141#m",
+      "timestamp": "2026-07-24T22:53:44+00:00",
+      "timestamp_display": "24/07/2026 16:53 CST",
       "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Noreste de Querétaro (Chichimequillas), km 30, dirección San Luis Potosí. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.82496600637746,
+      "lng": -100.44546281459407,
+      "road": 57,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080788339263713650#m",
+      "timestamp": "2026-07-24T22:52:53+00:00",
+      "timestamp_display": "24/07/2026 16:52 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56. Registra carga vehicular en ambos sentidos a la altura de la salida al Poblado de Jorobas, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080784710255387013#m",
+      "timestamp": "2026-07-24T22:38:28+00:00",
+      "timestamp_display": "24/07/2026 16:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 78, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.96760077098226,
+      "lng": -96.28149980181378,
+      "road": 150,
+      "km": 78,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080784366985269662#m",
+      "timestamp": "2026-07-24T22:37:06+00:00",
+      "timestamp_display": "24/07/2026 16:37 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
@@ -500,96 +558,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080722258624946329#m",
       "timestamp": "2026-07-24T18:30:19+00:00",
       "timestamp_display": "24/07/2026 12:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 2, dirección Nuevo Teapa. Reducción de carriles por atención de accidente (salida del camino de pick up). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.05671425232329,
-      "lng": -94.33024657540051,
-      "road": 180,
-      "km": 2,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080711007773540636#m",
-      "timestamp": "2026-07-24T17:45:36+00:00",
-      "timestamp_display": "24/07/2026 11:45 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 90, dirección CDMX. Cierre de carriles centrales por labores de mantenimiento. Circulación por carriles laterales. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 90,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080708100483428837#m",
-      "timestamp": "2026-07-24T17:34:03+00:00",
-      "timestamp_display": "24/07/2026 11:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que se registra cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóvil. Circulación por carriles laterales. Toma tus precauciones. ➡️ Dirección CDMX registra reducción de carriles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/aqLM34RJW4R8cVSp6",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080612017006641261#m",
-      "timestamp": "2026-07-24T11:12:15+00:00",
-      "timestamp_display": "24/07/2026 05:12 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que continúa el cierre a la circulación en carriles centrales. El personal se encuentra realizando las labores de limpieza. En la zona se da vialidad por los carriles laterales. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080697247050707074#m",
-      "timestamp": "2026-07-24T16:50:55+00:00",
-      "timestamp_display": "24/07/2026 10:50 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080705844962865602#m",
-      "timestamp": "2026-07-24T17:25:05+00:00",
-      "timestamp_display": "24/07/2026 11:25 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚫⚽ #TarjetaRojaALaTrata Infórmate, identifica las señales y contribuye a su prevención. 📢 ¡Denuncia!",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080699538432811070#m",
-      "timestamp": "2026-07-24T17:00:02+00:00",
-      "timestamp_display": "24/07/2026 11:00 CST",
       "segment": null
     }
   ]
