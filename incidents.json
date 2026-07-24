@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-24T16:51:21.723310",
+  "last_update": "2026-07-24T17:33:33.750547",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 029+900, de la carretera Cuacnopalan - Oaxaca, a la altura del Mpio. Santiago Miahuatlán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 29.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080697843312975951#m",
+      "timestamp": "2026-07-24T16:53:17+00:00",
+      "timestamp_display": "24/07/2026 10:53 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación tras #AccidenteVial cerca del km 127+500, de la carretera Tepic - Puerto Vallarta, a la altura del Mpio. de Palmarito, con dirección a Pto. Vallarta. Atienda indicación vial.",
       "type": "twitter",
@@ -258,22 +271,6 @@
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Puebla continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 199+900 de la carretera Puebla-Córdoba, a la altura del Mpio. La Esperanza, con dirección a Puebla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080524034626695264#m",
-      "timestamp": "2026-07-24T05:22:38+00:00",
-      "timestamp_display": "23/07/2026 23:22 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que se registra cierre a la circulación por atención de choque por alcance múltiple entre tracto camiones y automóvil. Circulación por carriles laterales. Toma tus precauciones. ➡️ Dirección CDMX registra reducción de carriles. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/aqLM34RJW4R8cVSp6",
       "type": "twitter",
       "lat": 19.3560041,
@@ -284,22 +281,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080612017006641261#m",
       "timestamp": "2026-07-24T11:12:15+00:00",
       "timestamp_display": "24/07/2026 05:12 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que continúa el cierre a la circulación en carriles centrales. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se da vialidad por los carriles laterales. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080658001594081633#m",
-      "timestamp": "2026-07-24T14:14:58+00:00",
-      "timestamp_display": "24/07/2026 08:14 CST",
       "segment": [
         "mexico",
         "puebla"
@@ -320,6 +301,35 @@
         "mexico",
         "puebla"
       ]
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 18, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080705844962865602#m",
+      "timestamp": "2026-07-24T17:25:05+00:00",
+      "timestamp_display": "24/07/2026 11:25 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🚫⚽ #TarjetaRojaALaTrata Infórmate, identifica las señales y contribuye a su prevención. 📢 ¡Denuncia!",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080699538432811070#m",
+      "timestamp": "2026-07-24T17:00:02+00:00",
+      "timestamp_display": "24/07/2026 11:00 CST",
+      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, km 143, dirección Acatzingo. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Toma tus precauciones.",
@@ -537,32 +547,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 50, dirección Isla. El accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080654827642613832#m",
-      "timestamp": "2026-07-24T14:02:22+00:00",
-      "timestamp_display": "24/07/2026 08:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Acapulco. El personal continúa con la atención del accidente (choque por alcance entre tracto camiones), por el momento sin afectación a los carriles de rodamiento. Sin embargo, continúa la reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080654531172372630#m",
-      "timestamp": "2026-07-24T14:01:11+00:00",
-      "timestamp_display": "24/07/2026 08:01 CST",
-      "segment": null
     }
   ]
 }
