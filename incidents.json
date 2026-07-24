@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-24T21:40:25.043367",
+  "last_update": "2026-07-24T22:08:59.329484",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Veracruz tras presencia de personas, en el km 048+100, de la carretera Alazán - Canoas, a la altura de la Localidad de San Sebastián. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 48.1,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2080777273175650535#m",
+      "timestamp": "2026-07-24T22:08:55+00:00",
+      "timestamp_display": "24/07/2026 16:08 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de circulación tras #AccidenteVial cerca del km 069+600, de la carretera Tampico - Cd. Mante, a la altura del Mpio. de Altamira, con dirección a Tampico. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 69.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080775719412466003#m",
+      "timestamp": "2026-07-24T22:02:45+00:00",
+      "timestamp_display": "24/07/2026 16:02 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre total de circulación tras #AccidenteVial cerca del km 002+600, de la carretera Guadalajara - Tepic, a la altura del Mpio. de Tequila, con dirección al centro de Tequila. Atienda indicación vial.",
       "type": "twitter",
@@ -239,32 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2080673075436151283#m",
       "timestamp": "2026-07-24T15:14:52+00:00",
       "timestamp_display": "24/07/2026 09:14 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #CDMX se registra cierre parcial de circulación por #AccidenteVial cerca del km. 022+700 de la carretera México-Cuernavaca, a la altura del Heroico Colegio Militar, CDMX., con dirección a CDMX. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080658141104968106#m",
-      "timestamp": "2026-07-24T14:15:32+00:00",
-      "timestamp_display": "24/07/2026 08:15 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Jalisco continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 085+000 de la carretera Zapotlanejo-El Desperdicioa, a la altura del Mpio. Jolostotitlán, Jal., con dirección a El Desperdicio, Jal. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080650968685801899#m",
-      "timestamp": "2026-07-24T13:47:02+00:00",
-      "timestamp_display": "24/07/2026 07:47 CST",
       "segment": null
     }
   ]
