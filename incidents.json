@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-24T23:08:25.674399",
+  "last_update": "2026-07-24T23:36:25.036210",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 179+400, de la carretera Poza Rica - Veracruz, a la altura del Mpio. de Actopan. Atienda indicación vial.",
@@ -271,6 +271,45 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, KM 42, dirección CDMX. Se retiran los peregrinos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080798159752622169#m",
+      "timestamp": "2026-07-24T23:31:55+00:00",
+      "timestamp_display": "24/07/2026 17:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Barranca Larga - Ventanilla, km 49. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura sobre carpeta). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 49,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080796955064631508#m",
+      "timestamp": "2026-07-24T23:27:08+00:00",
+      "timestamp_display": "24/07/2026 17:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️CONDICIONES CLIMÁTICAS🌧️🌩️ Aut. Barranca Larga - Ventanilla, registra #lluvia y #neblina del km 43. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 43,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080794159875518940#m",
+      "timestamp": "2026-07-24T23:16:01+00:00",
+      "timestamp_display": "24/07/2026 17:16 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 19.0414,
@@ -519,45 +558,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080732046926709208#m",
       "timestamp": "2026-07-24T19:09:12+00:00",
       "timestamp_display": "24/07/2026 13:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🤝En #CAPUFE queremos escucharte. Tus comentarios y sugerencias son una oportunidad para mejorar y brindarte una mejor experiencia en cada viaje. #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080729732409422300#m",
-      "timestamp": "2026-07-24T19:00:00+00:00",
-      "timestamp_display": "24/07/2026 13:00 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️ #AutMéxicoQuerétaro, km 57, dirección CDMX. Se informa a las personas usuarias que continúa la reducción de carriles por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 57,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080725509076316629#m",
-      "timestamp": "2026-07-24T18:43:14+00:00",
-      "timestamp_display": "24/07/2026 12:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guaymas - Hermosillo, km 211, dirección Hermosillo. Registra circulación con cierres intermitentes por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 29.07,
-      "lng": -110.96,
-      "road": null,
-      "km": 211,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080722258624946329#m",
-      "timestamp": "2026-07-24T18:30:19+00:00",
-      "timestamp_display": "24/07/2026 12:30 CST",
       "segment": null
     }
   ]
