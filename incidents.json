@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-07-24T20:43:09.877218",
+  "last_update": "2026-07-24T21:12:35.908130",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 077+500, de la carretera Ent. La Tinaja - Veracruz (directo), a la altura del Mpio. San Antonio. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 77.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080758701288214706#m",
+      "timestamp": "2026-07-24T20:55:07+00:00",
+      "timestamp_display": "24/07/2026 14:55 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 119+400, de la carretera Paso del Toro - Acayucan, a la altura del Mpio. de Santiago Tuxtla, con dirección a Minatitlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 119.4,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080757074938462718#m",
+      "timestamp": "2026-07-24T20:48:39+00:00",
+      "timestamp_display": "24/07/2026 14:48 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km.043+200 de la carretera Tuxpan-Tampico, con dirección a Tampico, Tamps. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080755825979629579#m",
+      "timestamp": "2026-07-24T20:43:42+00:00",
+      "timestamp_display": "24/07/2026 14:43 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Oaxaca tras #AccidenteVial cerca del km 257+300, de la carretera Coatzacoalcos - Salina Cruz, a la altura del Mpio. de Juchitán de Zaragoza. Maneje con precaución.",
       "type": "twitter",
@@ -232,43 +271,20 @@
       "segment": null
     },
     {
-      "title": "#PrecauciónVial en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km.043+200 de la carretera Tuxpan-Tampico, con dirección a Tampico, Tamps. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 25, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": null,
+      "lat": 19.3119922148227,
+      "lng": -98.94480859435687,
+      "road": 150,
+      "km": 7,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080646324425220378#m",
-      "timestamp": "2026-07-24T13:28:34+00:00",
-      "timestamp_display": "24/07/2026 07:28 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Veracruz continúa cierre parcial de circulación tras #AccidenteVial cerca del km. 050+100 de la carretera Ent. La Tinaja-Cosoleacaque, a la altura de la localidad Xochimilco, Ver. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080642443448287315#m",
-      "timestamp": "2026-07-24T13:13:09+00:00",
-      "timestamp_display": "24/07/2026 07:13 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Chiapas continúa cierre parcial de circulación tras accidente en el km. 254+200 de la carretera Tapanatepec-Talismán Con Ramales a unión Juárez y Cd. Hidalgo, a la altura de la localidad Xochiltepec, con dirección a Tapanatepec, Chis. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.3708,
-      "lng": -94.1936,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080634382503604243#m",
-      "timestamp": "2026-07-24T12:41:07+00:00",
-      "timestamp_display": "24/07/2026 06:41 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2080759962570052066#m",
+      "timestamp": "2026-07-24T21:00:08+00:00",
+      "timestamp_display": "24/07/2026 15:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Noreste de Querétaro (Chichimequillas), km 30, dirección San Luis Potosí. Reducción de carriles por atención de accidente (choque contra objeto). Maneja con precaución.",
@@ -556,22 +572,6 @@
       "timestamp": "2026-07-24T15:26:05+00:00",
       "timestamp_display": "24/07/2026 09:26 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 78, dirección Veracruz. Continúa reducción de carriles por atención de accidente (salida del camino y choque contra barreras metálicas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.96760077098226,
-      "lng": -96.28149980181378,
-      "road": 150,
-      "km": 78,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080675751460839511#m",
-      "timestamp": "2026-07-24T15:25:30+00:00",
-      "timestamp_display": "24/07/2026 09:25 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
