@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-25T16:21:09.847229",
+  "last_update": "2026-07-25T16:48:32.704305",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 044+000 de la carretera Lagos de Moreno-San Luis Potosí, con dirección a Lagos de Moreno, a la altura de la localidad de José María Morelos, Jal. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081057098377363792#m",
+      "timestamp": "2026-07-25T16:40:51+00:00",
+      "timestamp_display": "25/07/2026 10:40 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Queretaro continua cierre intermitente de circulación, por vehículo con falla mecánica, cerca del km. 158+100 de la carretera México-Querétaro, con dirección Cd. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -267,16 +280,29 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Jalisco tras #AccidenteVial cerca del km 002+600, de la carretera Guadalajara - Tepic, a la altura del Mpio. de Tequila, con dirección al centro de Tequila. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 172, dirección Acayucan. Se restablece la circulación de manera intermitente por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
+      "lat": 17.94,
+      "lng": -94.91,
       "road": null,
-      "km": 2.6,
+      "km": 172,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080821063341019391#m",
-      "timestamp": "2026-07-25T01:02:55+00:00",
-      "timestamp_display": "24/07/2026 19:02 CST",
+      "url": "https://nitter.net/CAPUFE/status/2081058206038548851#m",
+      "timestamp": "2026-07-25T16:45:15+00:00",
+      "timestamp_display": "25/07/2026 10:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 172, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 172,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081056495102234686#m",
+      "timestamp": "2026-07-25T16:38:27+00:00",
+      "timestamp_display": "25/07/2026 10:38 CST",
       "segment": null
     },
     {
@@ -526,22 +552,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080960000512426062#m",
       "timestamp": "2026-07-25T10:15:01+00:00",
       "timestamp_display": "25/07/2026 04:15 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 30, dirección Córdoba. Continúa la reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.807768456752747,
-      "lng": -96.63741170156025,
-      "road": 150,
-      "km": 30,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080935946917220353#m",
-      "timestamp": "2026-07-25T08:39:26+00:00",
-      "timestamp_display": "25/07/2026 02:39 CST",
       "segment": [
         "cordoba",
         "veracruz"
