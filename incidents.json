@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-25T07:02:27.222716",
+  "last_update": "2026-07-25T07:55:40.217767",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 237+300, de la carretera Cordoba - Puebla (directo), a la altura del Mpio. de Magueyes, con dirección a Puebla. Atienda indicación vial.",
@@ -290,6 +290,45 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 237, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 237,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080923748002058299#m",
+      "timestamp": "2026-07-25T07:50:57+00:00",
+      "timestamp_display": "25/07/2026 01:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Guaymas - Hermosillo, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080918685288370342#m",
+      "timestamp": "2026-07-25T07:30:50+00:00",
+      "timestamp_display": "25/07/2026 01:30 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Obregón - Guaymas, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2080918202800918973#m",
+      "timestamp": "2026-07-25T07:28:55+00:00",
+      "timestamp_display": "25/07/2026 01:28 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 237, dirección Acatzingo. Continúa la reducción de carriles por atención de accidente (labores de limpieza). En la zona se registra circulación lenta. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -511,48 +550,6 @@
       "timestamp": "2026-07-25T03:03:55+00:00",
       "timestamp_display": "24/07/2026 21:03 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Barranca Larga - Ventanilla, km 49. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080846782968238461#m",
-      "timestamp": "2026-07-25T02:45:07+00:00",
-      "timestamp_display": "24/07/2026 20:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Barranca Larga - Ventanilla, km 49. Se restablece la circulación de manera intermitente para ambos sentidos. El personal continúa realizando las labores de atención del accidente. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 49,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080840589298335947#m",
-      "timestamp": "2026-07-25T02:20:31+00:00",
-      "timestamp_display": "24/07/2026 20:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 30, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.807768456752747,
-      "lng": -96.63741170156025,
-      "road": 150,
-      "km": 30,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080837288519413876#m",
-      "timestamp": "2026-07-25T02:07:24+00:00",
-      "timestamp_display": "24/07/2026 20:07 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
