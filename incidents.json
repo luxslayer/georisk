@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-25T21:19:33.600383",
+  "last_update": "2026-07-25T21:48:11.107147",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 001+100 de la carretera Altamira-Puerto industrial, a la altura de la zona industrial Altamira, Tamps. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081127360519078281#m",
+      "timestamp": "2026-07-25T21:20:02+00:00",
+      "timestamp_display": "25/07/2026 15:20 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Oaxaca se habilita la vía, por culminación de trabajos de mantenimiento en la carpeta asfáltica, cerca del km. 234+600 de la carretera Pinotepa Nacional-Salina Cruz. Maneje con precaución.",
       "type": "twitter",
@@ -252,19 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2081041121745023153#m",
       "timestamp": "2026-07-25T15:37:21+00:00",
       "timestamp_display": "25/07/2026 09:37 CST",
-      "segment": null
-    },
-    {
-      "title": "En #Oaxaca se registra cierre de circulación por trabajos de mantenimiento en la carpeta asfáltica, cerca del km. 233+000 de la carretera Pinotepa Nacional-Salina Cruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081040510953648160#m",
-      "timestamp": "2026-07-25T15:34:56+00:00",
-      "timestamp_display": "25/07/2026 09:34 CST",
       "segment": null
     },
     {
