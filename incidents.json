@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-07-25T22:48:14.112167",
+  "last_update": "2026-07-25T23:21:38.695519",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 225+000 de la autopista Puebla-Córdoba, con dirección Orizaba. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081150779931435321#m",
+      "timestamp": "2026-07-25T22:53:06+00:00",
+      "timestamp_display": "25/07/2026 16:53 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "En #Oaxaca continua cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 259+900 de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. Juchitán de Zaragoza, Oax. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +271,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 008+900 de la carretera Libramiento Guadalupe, a la altura del Municipio Rio Grande, Zac. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 225, dirección Cd. Mendoza. Circulación intermitente por atención de accidente (maniobras para el retiro de unidad siniestrada). Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 225,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081072250107683208#m",
-      "timestamp": "2026-07-25T17:41:03+00:00",
-      "timestamp_display": "25/07/2026 11:41 CST",
+      "url": "https://nitter.net/CAPUFE/status/2081155827482660903#m",
+      "timestamp": "2026-07-25T23:13:09+00:00",
+      "timestamp_display": "25/07/2026 17:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 68, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 68,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081152224671981984#m",
+      "timestamp": "2026-07-25T22:58:50+00:00",
+      "timestamp_display": "25/07/2026 16:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 280, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 280,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081151347986923956#m",
+      "timestamp": "2026-07-25T22:55:21+00:00",
+      "timestamp_display": "25/07/2026 16:55 CST",
       "segment": null
     },
     {
@@ -498,58 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081110913457803279#m",
       "timestamp": "2026-07-25T20:14:41+00:00",
       "timestamp_display": "25/07/2026 14:14 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 24. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081064505044312139#m",
-      "timestamp": "2026-07-25T17:10:16+00:00",
-      "timestamp_display": "25/07/2026 11:10 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 24. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos por labores de limpieza. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 24,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081102878811283697#m",
-      "timestamp": "2026-07-25T19:42:45+00:00",
-      "timestamp_display": "25/07/2026 13:42 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 24. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081106173445431484#m",
-      "timestamp": "2026-07-25T19:55:51+00:00",
-      "timestamp_display": "25/07/2026 13:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 56,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081103879463211296#m",
-      "timestamp": "2026-07-25T19:46:44+00:00",
-      "timestamp_display": "25/07/2026 13:46 CST",
       "segment": null
     }
   ]
