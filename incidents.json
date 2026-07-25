@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-07-25T17:22:44.703070",
+  "last_update": "2026-07-25T17:49:02.286216",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 100+500 de la carretera Querétaro-San Luis Potosí, a inmediaciones de la localidad de El Arenal, Gto. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": 57,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081073719363928459#m",
+      "timestamp": "2026-07-25T17:46:53+00:00",
+      "timestamp_display": "25/07/2026 11:46 CST",
+      "segment": [
+        "queretaro",
+        "san luis potosi"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 203+000 de la carretera Durango-Torreón, a la altura de la localidad El Chocolate, Dgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081072920416198815#m",
+      "timestamp": "2026-07-25T17:43:43+00:00",
+      "timestamp_display": "25/07/2026 11:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 008+900 de la carretera Libramiento Guadalupe, a la altura del Municipio Rio Grande, Zac. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081072250107683208#m",
+      "timestamp": "2026-07-25T17:41:03+00:00",
+      "timestamp_display": "25/07/2026 11:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #BCS continua cierre parcial de circulación por #AccidenteVial cerca del km. 079+500 de la carretera Ciudad Insurgentes-Loreto, con dirección a Ciudad Insurgentes, a la altura de la Localidad Ensenada Blanca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081070475107529021#m",
+      "timestamp": "2026-07-25T17:34:00+00:00",
+      "timestamp_display": "25/07/2026 11:34 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 022+050 de la carretera Cuacnopalan-Oaxaca, atienda indicación vial.",
       "type": "twitter",
@@ -219,61 +274,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 275+000, de la carretera Cordoba - Puebla (directo), a la altura del Mpio. de Palma Sola, con dirección a Puebla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 24. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.902945644221226,
-      "lng": -97.0335943345079,
-      "road": 150,
-      "km": 166.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080876255402918314#m",
-      "timestamp": "2026-07-25T04:42:14+00:00",
-      "timestamp_display": "24/07/2026 22:42 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Hidalgo se registra cierre parcial de circulación tras #AccidenteVial cerca del km 070+000, de la carretera Libramiento Norte de la Cd. de México, a la altura del Mpio. de El Crestón, con dirección a Puebla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.347290945503214,
-      "lng": -98.61211543345522,
-      "road": 150,
-      "km": 52.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080867202161348828#m",
-      "timestamp": "2026-07-25T04:06:16+00:00",
-      "timestamp_display": "24/07/2026 22:06 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de circulación tras #AccidenteVial cerca del km 048+250, de la carretera Oaxaca-Puerto Ángel, a la altura del Mpio. de San Francisco Coatlán, con dirección a Oaxaca. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.24,
+      "lng": -106.41,
       "road": null,
-      "km": 48.25,
+      "km": 24,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080861669903770038#m",
-      "timestamp": "2026-07-25T03:44:17+00:00",
-      "timestamp_display": "24/07/2026 21:44 CST",
+      "url": "https://nitter.net/CAPUFE/status/2081064505044312139#m",
+      "timestamp": "2026-07-25T17:10:16+00:00",
+      "timestamp_display": "25/07/2026 11:10 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guerrero se registra cierre parcial de circulación tras #AccidenteVial cerca del km 131+100, de la carretera Acapulco-Zihuatanejo, a la altura del poblado San Luis de la Loma, Mpio. Técpan de Galeana, con dirección a Zihuatanejo. Atienda indicación vial.",
+      "title": "R to @CAPUFE: 🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 24. Circulación intermitente en ambos sentidos por atención de choque lateral y salida del camino entre automóvil y camioneta. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/R294F7JXmLAUryfeA",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 23.24,
+      "lng": -106.41,
       "road": null,
-      "km": 131.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080856195204612384#m",
-      "timestamp": "2026-07-25T03:22:32+00:00",
-      "timestamp_display": "24/07/2026 21:22 CST",
+      "km": 24,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081072235071037750#m",
+      "timestamp": "2026-07-25T17:40:59+00:00",
+      "timestamp_display": "25/07/2026 11:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Continúa carga vehicular a la altura de la salida al Poblado de Jorobas, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081068629144035424#m",
+      "timestamp": "2026-07-25T17:26:40+00:00",
+      "timestamp_display": "25/07/2026 11:26 CST",
       "segment": null
     },
     {
@@ -287,19 +323,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081065421709406294#m",
       "timestamp": "2026-07-25T17:13:55+00:00",
       "timestamp_display": "25/07/2026 11:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Durango - Mazatlán, km 24. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081064505044312139#m",
-      "timestamp": "2026-07-25T17:10:16+00:00",
-      "timestamp_display": "25/07/2026 11:10 CST",
       "segment": null
     },
     {
@@ -514,35 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081007439189594495#m",
       "timestamp": "2026-07-25T13:23:31+00:00",
       "timestamp_display": "25/07/2026 07:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoPuebla, Plaza de Cobro San Marcos, dirección Puebla. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081005417858011361#m",
-      "timestamp": "2026-07-25T13:15:29+00:00",
-      "timestamp_display": "25/07/2026 07:15 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 30, dirección La Tinaja. Reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080989813453279245#m",
-      "timestamp": "2026-07-25T12:13:29+00:00",
-      "timestamp_display": "25/07/2026 06:13 CST",
       "segment": null
     }
   ]
