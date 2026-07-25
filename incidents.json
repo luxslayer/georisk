@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-07-25T05:05:55.784848",
+  "last_update": "2026-07-25T06:04:12.063164",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 237+300, de la carretera Cordoba - Puebla (directo), a la altura del Mpio. de Magueyes, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.854664983654196,
+      "lng": -97.27631029810404,
+      "road": 150,
+      "km": 128.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080892638895468878#m",
+      "timestamp": "2026-07-25T05:47:20+00:00",
+      "timestamp_display": "24/07/2026 23:47 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#VíaLibre en #Oaxaca tras #AccidenteVial cerca del km 048+250, de la carretera Oaxaca-Puerto Ángel, a la altura del Mpio. de San Francisco Coatlán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 48.25,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2080882606405456160#m",
+      "timestamp": "2026-07-25T05:07:28+00:00",
+      "timestamp_display": "24/07/2026 23:07 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial cerca del km 275+000, de la carretera Cordoba - Puebla (directo), a la altura del Mpio. de Palma Sola, con dirección a Puebla. Atienda indicación vial.",
       "type": "twitter",
@@ -261,16 +290,55 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 077+500, de la carretera Ent. La Tinaja - Veracruz (directo), a la altura del Mpio. San Antonio. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 237, dirección Acatzingo. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. En la zona se registra circulación lenta. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 77.5,
+      "km": 237,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2080758701288214706#m",
-      "timestamp": "2026-07-24T20:55:07+00:00",
-      "timestamp_display": "24/07/2026 14:55 CST",
+      "url": "https://nitter.net/CAPUFE/status/2080893543808192902#m",
+      "timestamp": "2026-07-25T05:50:56+00:00",
+      "timestamp_display": "24/07/2026 23:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 237, dirección Acatzingo. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 237,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080891768816521632#m",
+      "timestamp": "2026-07-25T05:43:53+00:00",
+      "timestamp_display": "24/07/2026 23:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080885948632506644#m",
+      "timestamp": "2026-07-25T05:20:45+00:00",
+      "timestamp_display": "24/07/2026 23:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 237, dirección Acatzingo. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 237,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2080885227241541698#m",
+      "timestamp": "2026-07-25T05:17:53+00:00",
+      "timestamp_display": "24/07/2026 23:17 CST",
       "segment": null
     },
     {
@@ -478,61 +546,6 @@
       "url": "https://nitter.net/CAPUFE/status/2080826572114714774#m",
       "timestamp": "2026-07-25T01:24:49+00:00",
       "timestamp_display": "24/07/2026 19:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080826360415588697#m",
-      "timestamp": "2026-07-25T01:23:58+00:00",
-      "timestamp_display": "24/07/2026 19:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🚫⚽ #CartonRougeÀLaTraite Informez-vous, identifiez les signes d'alerte et contribuez à la prévention. 📢 Dénoncez!",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080820326926025122#m",
-      "timestamp": "2026-07-25T01:00:00+00:00",
-      "timestamp_display": "24/07/2026 19:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Córdoba - Veracruz registra #lluvia a la altura de la Plaza de Cobro Cuitláhuac. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2080818248749105515#m",
-      "timestamp": "2026-07-25T00:51:44+00:00",
-      "timestamp_display": "24/07/2026 18:51 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 94, dirección Isla. Se registra cierre a la circulación por atención de accidente (maniobras para retiro de la unidadades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2080817427521118213#m",
-      "timestamp": "2026-07-25T00:48:29+00:00",
-      "timestamp_display": "24/07/2026 18:48 CST",
       "segment": null
     }
   ]
