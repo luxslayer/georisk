@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-26T13:32:19.385228",
+  "last_update": "2026-07-26T14:16:27.374285",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 031+560 de la carretera México (Ecatepec)-Ent. Tizayuca, en dirección a la Ciudad de México, a la altura de la localidad Ojo de Agua, Edo. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081374861612458296#m",
+      "timestamp": "2026-07-26T13:43:31+00:00",
+      "timestamp_display": "26/07/2026 07:43 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Queretaro continua cierre parcial de circulación por #AccidenteVial cerca del km. 210+100 de la carretera México-Querétaro, con dirección a San Juan del Rio, a la altura de la localidad de Lomas de Casa Blanca, Qro. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +277,32 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 198+800 de la carretera Pachuca-Tuxpan, a la altura del merendero las hamacas. Atienda indicación vial.",
+      "title": "🚧 #AVISO a las personas usuarias de la #AutopistaMéxicoPuebla 🚧 Del 27 de julio al 7 de agosto habrá cierres parciales por trabajos de mantenimiento en las gazas de entrada y salida al Arco Norte. Anticipe sus tiempos de traslado y maneje con precaución. #CAPUFEInforma",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 130,
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081183798880846055#m",
-      "timestamp": "2026-07-26T01:04:18+00:00",
-      "timestamp_display": "25/07/2026 19:04 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081380725677232639#m",
+      "timestamp": "2026-07-26T14:06:49+00:00",
+      "timestamp_display": "26/07/2026 08:06 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ La velocidad inadecuada incrementa el riesgo en carretera. 👉 Conduce con precaución y respeta los límites. 🚙 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081379008898650359#m",
+      "timestamp": "2026-07-26T14:00:00+00:00",
+      "timestamp_display": "26/07/2026 08:00 CST",
       "segment": null
     },
     {
@@ -511,32 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081271447712866420#m",
       "timestamp": "2026-07-26T06:52:35+00:00",
       "timestamp_display": "26/07/2026 00:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 297, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 297,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081262030653194688#m",
-      "timestamp": "2026-07-26T06:15:10+00:00",
-      "timestamp_display": "26/07/2026 00:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, dirección Cuernavaca. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 111,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081256795645919465#m",
-      "timestamp": "2026-07-26T05:54:22+00:00",
-      "timestamp_display": "25/07/2026 23:54 CST",
       "segment": null
     }
   ]
