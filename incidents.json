@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-26T16:22:50.450039",
+  "last_update": "2026-07-26T16:48:45.244353",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por presencia de personas, cerca del km. 047+500 de la autopista Siglo XXI, con dirección a Puebla, a la altura de la Unidad Habitacional Emiliano Zapata, Mor. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2081415201706946800#m",
+      "timestamp": "2026-07-26T16:23:49+00:00",
+      "timestamp_display": "26/07/2026 10:23 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera estatal Jojutla–Chinameca.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2081415203300749799#m",
+      "timestamp": "2026-07-26T16:23:49+00:00",
+      "timestamp_display": "26/07/2026 10:23 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 104+200 de la carretera Xalapa-Veracruz, atienda indicación vial.",
       "type": "twitter",
@@ -242,35 +268,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2081213638807863370#m",
       "timestamp": "2026-07-26T03:02:53+00:00",
       "timestamp_display": "25/07/2026 21:02 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 272+600 de la autopista Puebla-Córdoba, con dirección Puebla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081211257298829325#m",
-      "timestamp": "2026-07-26T02:53:25+00:00",
-      "timestamp_display": "25/07/2026 20:53 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km. 260+000 de la carretera Pinotepa Nacional-Salina Cruz, atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.34,
-      "lng": -98.05,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081207972831588665#m",
-      "timestamp": "2026-07-26T02:40:22+00:00",
-      "timestamp_display": "25/07/2026 20:40 CST",
       "segment": null
     },
     {
