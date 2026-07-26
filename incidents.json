@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-26T22:49:01.381398",
+  "last_update": "2026-07-26T23:21:57.787174",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 294+700 de la carretera Guadalajara-Atlacomulco, con dirección a Guadalajara, a la altura de la localidad de El Zapote, Mich. Atienda indicación vial.",
@@ -265,6 +265,45 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 167, dirección Cd. Obregón. Reducción de carriles por atención de choque de tracto camión contra barrera metálica. En la zona se registra derrame de combustible. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/2JEkm4KKFMtSda7j8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 167,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081499641510527106#m",
+      "timestamp": "2026-07-26T21:59:21+00:00",
+      "timestamp_display": "26/07/2026 15:59 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Navojoa - Cd. Obregón, km 167, dirección Cd. Obregón. Continúa reducción de carriles, el personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 167,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081516273653932327#m",
+      "timestamp": "2026-07-26T23:05:26+00:00",
+      "timestamp_display": "26/07/2026 17:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, Plaza de Cobro Seybaplaya, dirección Champotón. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081513912504037595#m",
+      "timestamp": "2026-07-26T22:56:04+00:00",
+      "timestamp_display": "26/07/2026 16:56 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca. Registra carga vehicular en dirección CDMX por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -353,19 +392,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081499803998163410#m",
       "timestamp": "2026-07-26T22:00:00+00:00",
       "timestamp_display": "26/07/2026 16:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 167, dirección Cd. Obregón. Reducción de carriles por atención de choque de tracto camión contra barrera metálica. En la zona se registra derrame de combustible. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/2JEkm4KKFMtSda7j8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 167,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081499641510527106#m",
-      "timestamp": "2026-07-26T21:59:21+00:00",
-      "timestamp_display": "26/07/2026 15:59 CST",
       "segment": null
     },
     {
@@ -496,32 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081482297841168584#m",
       "timestamp": "2026-07-26T20:50:26+00:00",
       "timestamp_display": "26/07/2026 14:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081480943227818263#m",
-      "timestamp": "2026-07-26T20:45:03+00:00",
-      "timestamp_display": "26/07/2026 14:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 20, dirección CDMX. Se restablece la circulación. El personal continúa en la atención del accidente, sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. ➡️ Se recomienda a la ciudadanía tomar como vía alterna el Viaducto Elevado Tlalpan. Atiende indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081480064915406938#m",
-      "timestamp": "2026-07-26T20:41:34+00:00",
-      "timestamp_display": "26/07/2026 14:41 CST",
       "segment": null
     }
   ]
