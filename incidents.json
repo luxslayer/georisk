@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-26T19:28:48.210758",
+  "last_update": "2026-07-26T19:57:23.856686",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #AccidenteVial cerca del km. 195+340 de la carretera Acapulco-Zihuatanejo, a la altura del Mpio. Petatlán, Gro. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registras carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081466585550598159#m",
+      "timestamp": "2026-07-26T19:48:00+00:00",
+      "timestamp_display": "26/07/2026 13:48 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 84, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.01152409664326,
@@ -505,19 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081355696252092502#m",
       "timestamp": "2026-07-26T12:27:22+00:00",
       "timestamp_display": "26/07/2026 06:27 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 104, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 104,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081348473018794031#m",
-      "timestamp": "2026-07-26T11:58:40+00:00",
-      "timestamp_display": "26/07/2026 05:58 CST",
       "segment": null
     }
   ]
