@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-26T10:11:03.149650",
+  "last_update": "2026-07-26T10:50:42.205182",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 110+950 de la autopista Cuernavaca-Chilpancingo en dirección a Cuernavaca, a la altura de la localidad Campo Ameyalco, Mor. Atienda indicación vial.",
@@ -290,6 +290,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 84, dirección Guaymas. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 84,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081326805340807320#m",
+      "timestamp": "2026-07-26T10:32:34+00:00",
+      "timestamp_display": "26/07/2026 04:32 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -524,19 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081224448376442888#m",
       "timestamp": "2026-07-26T03:45:50+00:00",
       "timestamp_display": "25/07/2026 21:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 111, dirección Cuernavaca. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 111,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081222889328591017#m",
-      "timestamp": "2026-07-26T03:39:38+00:00",
-      "timestamp_display": "25/07/2026 21:39 CST",
       "segment": null
     }
   ]
