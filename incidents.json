@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-26T07:23:24.239028",
+  "last_update": "2026-07-26T08:17:59.090902",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 110+950 de la autopista Cuernavaca-Chilpancingo en dirección a Cuernavaca, a la altura de la localidad Campo Ameyalco, Mor. Atienda indicación vial.",
@@ -290,6 +290,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Reducción de carriles por atención de accidente (caída de motociclista). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081286710588063947#m",
+      "timestamp": "2026-07-26T07:53:14+00:00",
+      "timestamp_display": "26/07/2026 01:53 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gtz. Zamora - Tihuatlán, km 216. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -537,19 +550,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081205604928917724#m",
       "timestamp": "2026-07-26T02:30:57+00:00",
       "timestamp_display": "25/07/2026 20:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 2, dirección Irapuato. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 2,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081201294555979904#m",
-      "timestamp": "2026-07-26T02:13:50+00:00",
-      "timestamp_display": "25/07/2026 20:13 CST",
       "segment": null
     }
   ]
