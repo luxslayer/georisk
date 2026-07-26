@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-26T20:25:58.850456",
+  "last_update": "2026-07-26T20:49:22.770421",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #AccidenteVial cerca del km. 195+340 de la carretera Acapulco-Zihuatanejo, a la altura del Mpio. Petatlán, Gro. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081480943227818263#m",
+      "timestamp": "2026-07-26T20:45:03+00:00",
+      "timestamp_display": "26/07/2026 14:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoCuernavaca, km 20, dirección CDMX. Se restablece la circulación. El personal continúa en la atención del accidente, sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. ➡️ Se recomienda a la ciudadanía tomar como vía alterna el Viaducto Elevado Tlalpan. Atiende indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 20,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081480064915406938#m",
+      "timestamp": "2026-07-26T20:41:34+00:00",
+      "timestamp_display": "26/07/2026 14:41 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección CDMX. Cierre a la circulación en carriles centrales por atención de incidente (autobús con falla mecánica). En la zona se da paso por los carriles laterales. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -489,35 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081389028750839843#m",
       "timestamp": "2026-07-26T14:39:49+00:00",
       "timestamp_display": "26/07/2026 08:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la #AutopistaMéxicoPuebla 🚧 Del 27 de julio al 7 de agosto habrá cierres parciales por trabajos de mantenimiento en las gazas de entrada y salida al Arco Norte. Anticipe sus tiempos de traslado y maneje con precaución. #CAPUFEInforma",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081380725677232639#m",
-      "timestamp": "2026-07-26T14:06:49+00:00",
-      "timestamp_display": "26/07/2026 08:06 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ La velocidad inadecuada incrementa el riesgo en carretera. 👉 Conduce con precaución y respeta los límites. 🚙 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081379008898650359#m",
-      "timestamp": "2026-07-26T14:00:00+00:00",
-      "timestamp_display": "26/07/2026 08:00 CST",
       "segment": null
     }
   ]
