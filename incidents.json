@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-26T14:52:09.267335",
+  "last_update": "2026-07-26T15:25:49.586920",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 139+500 de la carretera Tulancingo-Tihuatlán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081393653532987875#m",
+      "timestamp": "2026-07-26T14:58:12+00:00",
+      "timestamp_display": "26/07/2026 08:58 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 101+200 de la carretera Lagos de Moreno-Zapotlanejo, con dirección a Zapotlanejo, a la altura de la localidad de Marielena, Jal. Atienda indicación vial.",
       "type": "twitter",
@@ -264,16 +277,16 @@
       ]
     },
     {
-      "title": "#TomePrecauciones en #Chihuahua continua cierre parcial de circulación por #AccidenteVial cerca del km. 264+800 de la carretera Chihuahua-Cd. Juárez, a la altura del Mpio. de Villa Ahumada, Chih. Atienda indicación vial.",
+      "title": "🚗 El mejor camino es el que recorres con seguridad. Si tienes sueño, detente y descansa antes de continuar tu viaje. #seguridadvial #conduceseguro",
       "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": 45,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081192624774434854#m",
-      "timestamp": "2026-07-26T01:39:23+00:00",
-      "timestamp_display": "25/07/2026 19:39 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081394108736696360#m",
+      "timestamp": "2026-07-26T15:00:00+00:00",
+      "timestamp_display": "26/07/2026 09:00 CST",
       "segment": null
     },
     {
@@ -524,19 +537,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081278472316465632#m",
       "timestamp": "2026-07-26T07:20:30+00:00",
       "timestamp_display": "26/07/2026 01:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gtz. Zamora - Tihuatlán, km 216. Circulación intermitente en ambos sentidos por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 216,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081272925127123407#m",
-      "timestamp": "2026-07-26T06:58:28+00:00",
-      "timestamp_display": "26/07/2026 00:58 CST",
       "segment": null
     }
   ]
