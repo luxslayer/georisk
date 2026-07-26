@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-26T11:55:04.523990",
+  "last_update": "2026-07-26T12:27:18.564302",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos continua cierre parcial de circulación por #AccidenteVial cerca del km. 110+950 de la autopista Cuernavaca-Chilpancingo en dirección a Cuernavaca, a la altura de la localidad Campo Ameyalco, Mor. Atienda indicación vial.",
@@ -287,6 +287,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2081181080229396865#m",
       "timestamp": "2026-07-26T00:53:30+00:00",
       "timestamp_display": "25/07/2026 18:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 104, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 104,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081348473018794031#m",
+      "timestamp": "2026-07-26T11:58:40+00:00",
+      "timestamp_display": "26/07/2026 05:58 CST",
       "segment": null
     },
     {
