@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-27T22:36:42.646884",
+  "last_update": "2026-07-27T23:08:40.228513",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 000+500 de la carretera Poza Rica-Veracruz, a la altura del Mpio. Veracruz, Ver., con dirección a Veracruz, Ver. Atienda indicación vial.",
@@ -271,6 +271,74 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081874981768548528#m",
+      "timestamp": "2026-07-27T22:50:49+00:00",
+      "timestamp_display": "27/07/2026 16:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista La Tinaja - Isla, del km 9 al 10, dirección Isla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081874041745375716#m",
+      "timestamp": "2026-07-27T22:47:05+00:00",
+      "timestamp_display": "27/07/2026 16:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 282, dirección Cd. Mendoza. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 282,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081873240427757687#m",
+      "timestamp": "2026-07-27T22:43:54+00:00",
+      "timestamp_display": "27/07/2026 16:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMexicoPuebla, km 74, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.334887283663218,
+      "lng": -98.5789849310534,
+      "road": 150,
+      "km": 56,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081872929193603409#m",
+      "timestamp": "2026-07-27T22:42:40+00:00",
+      "timestamp_display": "27/07/2026 16:42 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 153,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081872302547812784#m",
+      "timestamp": "2026-07-27T22:40:10+00:00",
+      "timestamp_display": "27/07/2026 16:40 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 52, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.93,
@@ -437,103 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081830176762044571#m",
       "timestamp": "2026-07-27T19:52:47+00:00",
       "timestamp_display": "27/07/2026 13:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081815249305448888#m",
-      "timestamp": "2026-07-27T18:53:28+00:00",
-      "timestamp_display": "27/07/2026 12:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 52. El incidente ha sido atendido. Sin embargo, en la zona continúa la circulación en contraflujo por labores de mantenimiento del km 48 al 55. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.787183569613852,
-      "lng": -96.43325747888326,
-      "road": 150,
-      "km": 52,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081801055763939705#m",
-      "timestamp": "2026-07-27T17:57:04+00:00",
-      "timestamp_display": "27/07/2026 11:57 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 52. Registra circulación intermitente en ambos sentidos, por atención de incidente en la zona de obras (tracto camión con falla mecánica). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.787183569613852,
-      "lng": -96.43325747888326,
-      "road": 150,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081797887898321077#m",
-      "timestamp": "2026-07-27T17:44:29+00:00",
-      "timestamp_display": "27/07/2026 11:44 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoCuernavaca, km 62, dirección Cuernavaca. Registra reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 62,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081791459540279404#m",
-      "timestamp": "2026-07-27T17:18:56+00:00",
-      "timestamp_display": "27/07/2026 11:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🚫⚽ #TarjetaRojaALaTrata Infórmate, identifica las señales y contribuye a su prevención. 📢 ¡Denuncia!",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081786693871697924#m",
-      "timestamp": "2026-07-27T17:00:00+00:00",
-      "timestamp_display": "27/07/2026 11:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guamúchil - Guasave, Puente Sinaloa. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ctCbjbjGqLB1XLiM8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081770913956024400#m",
-      "timestamp": "2026-07-27T15:57:17+00:00",
-      "timestamp_display": "27/07/2026 09:57 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que se restablece la circulación en ambos sentidos. Sin embargo, los manifestantes continúan replegados en el lugar, sin afectar los carriles de rodamiento. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081784525647184179#m",
-      "timestamp": "2026-07-27T16:51:23+00:00",
-      "timestamp_display": "27/07/2026 10:51 CST",
       "segment": null
     }
   ]
