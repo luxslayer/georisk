@@ -1,6 +1,77 @@
 {
-  "last_update": "2026-07-27T19:11:28.870576",
+  "last_update": "2026-07-27T19:50:52.827158",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sonora continua cierre parcial de circulación por #AccidenteVial cerca del km. 148+500 de la carretera Ímuris-Agua Prieta, a la altura del Mpio. Ímuris, Son., con dirección a Ímuris, Son. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.3177,
+      "lng": -109.5504,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081826992362529099#m",
+      "timestamp": "2026-07-27T19:40:08+00:00",
+      "timestamp_display": "27/07/2026 13:40 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Sinaloa continúa cierre parcial de circulación tras presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2081824879402209323#m",
+      "timestamp": "2026-07-27T19:31:44+00:00",
+      "timestamp_display": "27/07/2026 13:31 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 083+000 de la carretera Teziutlán-Tlapacoyan, con dirección a Felipe Carillo Puerto, a la altura de la localidad de la Chancla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081824283911704788#m",
+      "timestamp": "2026-07-27T19:29:22+00:00",
+      "timestamp_display": "27/07/2026 13:29 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Nayarit tras accidente cerca del km. 121+000 de la carretera Tepic - Mazatlán, la altura del Municipio Acaponeta, Nay. Atienda indicación vial",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": 15,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081821376155980088#m",
+      "timestamp": "2026-07-27T19:17:49+00:00",
+      "timestamp_display": "27/07/2026 13:17 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
+    {
+      "title": "#PrecauciónVial en #NL se registra cierre parcial de circulación por #AccidenteVial cerca del km.098+000 de la carretera Monterrey-Nuevo Laredo, a la altura del Mpio. Sabinas de Hidalgo, N.L., con dirección a Monterrey, N.L. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 27.4779,
+      "lng": -99.5496,
+      "road": 85,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081820492084724152#m",
+      "timestamp": "2026-07-27T19:14:18+00:00",
+      "timestamp_display": "27/07/2026 13:14 CST",
+      "segment": [
+        "monterrey",
+        "nuevo laredo"
+      ]
+    },
     {
       "title": "#VialidadLibre en #Chihuahua tras accidente cerca del km. 095+500 de la carretera Chihuahua-Ciudad Juárez, la altura de la localidad El Navegante, Chih. Atienda indicación vial.",
       "type": "twitter",
@@ -203,74 +274,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2081763913624899928#m",
       "timestamp": "2026-07-27T15:29:28+00:00",
       "timestamp_display": "27/07/2026 09:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 113+200 Ocozocoautla-Tuxtla Gutiérrez, a la altura del poblado Los Sabinos, Mpio. Berriozábal, Chis. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081757955158843433#m",
-      "timestamp": "2026-07-27T15:05:48+00:00",
-      "timestamp_display": "27/07/2026 09:05 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #Sinaloa continua cierre parcial de circulación tras presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081756310228386043#m",
-      "timestamp": "2026-07-27T14:59:16+00:00",
-      "timestamp_display": "27/07/2026 08:59 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz continua cierre total de circulación por #AccidenteVial cerca del km. 083+000 de la carretera Teziutlán-Tlapacoyan, con dirección a Felipe Carillo Puerto, a la altura de la localidad de la chancla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081737489715175518#m",
-      "timestamp": "2026-07-27T13:44:29+00:00",
-      "timestamp_display": "27/07/2026 07:44 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 007+500 de la carretera Córdoba-Boticaria, con dirección Córdoba. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081728516668727762#m",
-      "timestamp": "2026-07-27T13:08:49+00:00",
-      "timestamp_display": "27/07/2026 07:08 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 048+500 de la carretera Villahermosa-Francisco Escárcega, maneje con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081666153731019059#m",
-      "timestamp": "2026-07-27T09:01:01+00:00",
-      "timestamp_display": "27/07/2026 03:01 CST",
       "segment": null
     },
     {
