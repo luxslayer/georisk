@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-27T10:46:13.501193",
+  "last_update": "2026-07-27T12:04:51.893150",
   "incidents": [
     {
       "title": "#VialidadLibre en #Tabasco tras retiro de personas, cerca del km. 048+500 de la carretera Villahermosa-Francisco Escárcega, maneje con precaución.",
@@ -265,6 +265,74 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuernavaca - Acapulco, km 219, dirección Acapulco. Cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081711316402585831#m",
+      "timestamp": "2026-07-27T12:00:28+00:00",
+      "timestamp_display": "27/07/2026 06:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081707959105597947#m",
+      "timestamp": "2026-07-27T11:47:08+00:00",
+      "timestamp_display": "27/07/2026 05:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 219, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 219,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081705348713357592#m",
+      "timestamp": "2026-07-27T11:36:46+00:00",
+      "timestamp_display": "27/07/2026 05:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acayucan - Cosoleacaque, km 19, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.92587965936017,
+      "lng": -94.76173555179093,
+      "road": 145,
+      "km": 19,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081703606210691247#m",
+      "timestamp": "2026-07-27T11:29:50+00:00",
+      "timestamp_display": "27/07/2026 05:29 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 27, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 27,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081699985872003246#m",
+      "timestamp": "2026-07-27T11:15:27+00:00",
+      "timestamp_display": "27/07/2026 05:15 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -460,74 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081606858121347284#m",
       "timestamp": "2026-07-27T05:05:24+00:00",
       "timestamp_display": "26/07/2026 23:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 19, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.92587965936017,
-      "lng": -94.76173555179093,
-      "road": 145,
-      "km": 19,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081603009029501218#m",
-      "timestamp": "2026-07-27T04:50:06+00:00",
-      "timestamp_display": "26/07/2026 22:50 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081602083489255547#m",
-      "timestamp": "2026-07-27T04:46:25+00:00",
-      "timestamp_display": "26/07/2026 22:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 96, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 96,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081594897258143856#m",
-      "timestamp": "2026-07-27T04:17:52+00:00",
-      "timestamp_display": "26/07/2026 22:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque de costado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081592245329776695#m",
-      "timestamp": "2026-07-27T04:07:20+00:00",
-      "timestamp_display": "26/07/2026 22:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 30, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081589437180367346#m",
-      "timestamp": "2026-07-27T03:56:10+00:00",
-      "timestamp_display": "26/07/2026 21:56 CST",
       "segment": null
     }
   ]
