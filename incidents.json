@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-27T20:32:56.234410",
+  "last_update": "2026-07-27T21:09:32.703842",
   "incidents": [
     {
       "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 128+500 de la carretera Acatlán de Juárez-Colima, a la altura del Municipio Tonila, Jal. Atienda indicación vial",
@@ -277,6 +277,19 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ #AutMéxicoCuernavaca, registra #lluvia del km 42 al 74. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081845123755704710#m",
+      "timestamp": "2026-07-27T20:52:10+00:00",
+      "timestamp_display": "27/07/2026 14:52 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular y #lluvia. Enciende tus luces, disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -510,19 +523,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081762059549557235#m",
       "timestamp": "2026-07-27T15:22:06+00:00",
       "timestamp_display": "27/07/2026 09:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista La Tinaja - Isla, del km 9 al 10, dirección Isla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 9,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081756506089820341#m",
-      "timestamp": "2026-07-27T15:00:02+00:00",
-      "timestamp_display": "27/07/2026 09:00 CST",
       "segment": null
     }
   ]
