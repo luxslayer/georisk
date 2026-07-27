@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-07-27T18:35:15.289709",
+  "last_update": "2026-07-27T19:11:28.870576",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Chihuahua tras accidente cerca del km. 095+500 de la carretera Chihuahua-Ciudad Juárez, la altura de la localidad El Navegante, Chih. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.6776,
+      "lng": -106.4304,
+      "road": 45,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081818152061517982#m",
+      "timestamp": "2026-07-27T19:05:00+00:00",
+      "timestamp_display": "27/07/2026 13:05 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 128+500 de la carretera Acatlán de Juárez-Colima, a la altura del Mpio. del Municipio Homónimo, Jal., con dirección a Colima, Col. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081817466213188007#m",
+      "timestamp": "2026-07-27T19:02:16+00:00",
+      "timestamp_display": "27/07/2026 13:02 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 054+500 de la carretera Amozoc-Perote, a la altura del municipio de la Caseta de Cobro \"Cantona\", Pue. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081816566065164407#m",
+      "timestamp": "2026-07-27T18:58:42+00:00",
+      "timestamp_display": "27/07/2026 12:58 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km.025+700 de la carretera Guadalajara -Tepic, a la altura del Municipio Amatitán, Jal., con dirección a Tepic, Nay. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081810719083794475#m",
+      "timestamp": "2026-07-27T18:35:28+00:00",
+      "timestamp_display": "27/07/2026 12:35 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km. 061+800 de la carretera Querétaro-Irapuato, a la altura de la localidad de Santiago de Cuenda. Atienda indicación vial.",
       "type": "twitter",
@@ -222,55 +274,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tabasco se registra cierre intermitente en ambos sentidos de circulación, por presencia de personas, cerca del km. 048+500 de la carretera Villahermosa-Francisco Escárcega, atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081648279549333694#m",
-      "timestamp": "2026-07-27T07:49:59+00:00",
-      "timestamp_display": "27/07/2026 01:49 CST",
-      "segment": null
-    },
-    {
-      "title": "#VialidadLibre en #Oaxaca tras accidente cerca del km. 206+100 Cuacnopalan-Oaxaca, Maneje con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081628730049331578#m",
-      "timestamp": "2026-07-27T06:32:18+00:00",
-      "timestamp_display": "27/07/2026 00:32 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 060+000 de la carretera México–Tuxpan, a la altura de la localidad Santa María Asunción, Hgo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081628159217184957#m",
-      "timestamp": "2026-07-27T06:30:02+00:00",
-      "timestamp_display": "27/07/2026 00:30 CST",
-      "segment": null
-    },
-    {
-      "title": "#VialidadLibre en #Guanajuato tras accidente cerca del km. 016+800 de la carretera Irapuato-Zapotlanejo, a la altura de la localidad Vista Hermosa, Gto. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081616937528807777#m",
-      "timestamp": "2026-07-27T05:45:27+00:00",
-      "timestamp_display": "26/07/2026 23:45 CST",
+      "url": "https://nitter.net/CAPUFE/status/2081815249305448888#m",
+      "timestamp": "2026-07-27T18:53:28+00:00",
+      "timestamp_display": "27/07/2026 12:53 CST",
       "segment": null
     },
     {
@@ -510,19 +523,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081755986159599739#m",
       "timestamp": "2026-07-27T14:57:58+00:00",
       "timestamp_display": "27/07/2026 08:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 97, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino y volcadura de pick up). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 97,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081745243108470921#m",
-      "timestamp": "2026-07-27T14:15:17+00:00",
-      "timestamp_display": "27/07/2026 08:15 CST",
       "segment": null
     }
   ]
