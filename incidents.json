@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-27T17:50:53.652295",
+  "last_update": "2026-07-27T18:35:15.289709",
   "incidents": [
+    {
+      "title": "#PrecauciónVial en #Guanajuato se registra cierre parcial de circulación por #AccidenteVial cerca del km. 061+800 de la carretera Querétaro-Irapuato, a la altura de la localidad de Santiago de Cuenda. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081810077774729507#m",
+      "timestamp": "2026-07-27T18:32:55+00:00",
+      "timestamp_display": "27/07/2026 12:32 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecaucionVial en #Oaxaca continua cierre total de circulación por presencia de personas, cerca del km. 182+500 de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Mogoñé Viejo, Mpio. San Juan Guichicovi, Oax. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2081807106022179192#m",
+      "timestamp": "2026-07-27T18:21:06+00:00",
+      "timestamp_display": "27/07/2026 12:21 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #NL se registra cierre parcial de circulación por #VehículoIncendiado por falla mecánica, cerca del km 051+000, de la carretera Monterrey-Nuevo Laredo, a la altura del Mpio. de Salinas Victoria, N.L., con dirección a Monterrey, N.L. Atienda indicación vial.",
       "type": "twitter",
@@ -248,30 +274,33 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km. 221+000 Cuacnopalan-Oaxaca, Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 111, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con pre",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081606222491308384#m",
-      "timestamp": "2026-07-27T05:02:52+00:00",
-      "timestamp_display": "26/07/2026 23:02 CST",
+      "km": 111,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081807524420870452#m",
+      "timestamp": "2026-07-27T18:22:46+00:00",
+      "timestamp_display": "27/07/2026 12:22 CST",
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 034+500 de la autopista Cuacnopalan-Oaxaca, maneje con precaución.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 52. El incidente ha sido atendido. Sin embargo, en la zona continúa la circulación en contraflujo por labores de mantenimiento del km 48 al 55. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081605194744254961#m",
-      "timestamp": "2026-07-27T04:58:47+00:00",
-      "timestamp_display": "26/07/2026 22:58 CST",
-      "segment": null
+      "lat": 18.787183569613852,
+      "lng": -96.43325747888326,
+      "road": 150,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081801055763939705#m",
+      "timestamp": "2026-07-27T17:57:04+00:00",
+      "timestamp_display": "27/07/2026 11:57 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 52. Registra circulación intermitente en ambos sentidos, por atención de incidente en la zona de obras (tracto camión con falla mecánica). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
@@ -494,32 +523,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081745243108470921#m",
       "timestamp": "2026-07-27T14:15:17+00:00",
       "timestamp_display": "27/07/2026 08:15 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Carretera Guamúchil - Guasave, Puente Sinaloa. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081736273451000007#m",
-      "timestamp": "2026-07-27T13:39:39+00:00",
-      "timestamp_display": "27/07/2026 07:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 111, dirección La Tinaja. Reducción de carriles por atención de incidente (autobús con ponchadura de neumático). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 111,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081734832057360662#m",
-      "timestamp": "2026-07-27T13:33:55+00:00",
-      "timestamp_display": "27/07/2026 07:33 CST",
       "segment": null
     }
   ]
