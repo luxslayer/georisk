@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-27T22:09:17.470949",
+  "last_update": "2026-07-27T22:36:42.646884",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 000+500 de la carretera Poza Rica-Veracruz, a la altura del Mpio. Veracruz, Ver., con dirección a Veracruz, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081865739393265962#m",
+      "timestamp": "2026-07-27T22:14:06+00:00",
+      "timestamp_display": "27/07/2026 16:14 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 046+500 de la carretera Tierra Blanca-Sayula de Alemán, a la altura e la localidad Los Macuiles, Ver., con dirección a Sayula de Alemán, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081864899106328778#m",
+      "timestamp": "2026-07-27T22:10:45+00:00",
+      "timestamp_display": "27/07/2026 16:10 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km. 063+300 de la carretera Tepic - Puerto Vallarta, a la altura del Municipio Tepic, Nay., con dirección a Puerto Vallarta, Jal. Atienda indicación vial.",
       "type": "twitter",
@@ -245,32 +271,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #NL se registra cierre parcial de circulación por #VehículoIncendiado por falla mecánica, cerca del km 051+000, de la carretera Monterrey-Nuevo Laredo, a la altura del Mpio. de Salinas Victoria, N.L., con dirección a Monterrey, N.L. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 52, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 26.111081365935387,
-      "lng": -100.15988903206747,
-      "road": 85,
-      "km": 31.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081796956473446836#m",
-      "timestamp": "2026-07-27T17:40:46+00:00",
-      "timestamp_display": "27/07/2026 11:40 CST",
-      "segment": [
-        "monterrey",
-        "nuevo laredo"
-      ]
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081870268171989246#m",
+      "timestamp": "2026-07-27T22:32:05+00:00",
+      "timestamp_display": "27/07/2026 16:32 CST",
+      "segment": null
     },
     {
-      "title": "#VialidadLibre en #Hidalgo tras retiro de personas, cerca del km. 001+000 de la carretera Alamo-Temazunchale, a la altura del Mpio. San Felipe Orizatlan, Hgo. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección CDMX. Reducción de carriles por atención de accidente (choque contra muro central y volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081795453587197985#m",
-      "timestamp": "2026-07-27T17:34:48+00:00",
-      "timestamp_display": "27/07/2026 11:34 CST",
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2081869557451420079#m",
+      "timestamp": "2026-07-27T22:29:16+00:00",
+      "timestamp_display": "27/07/2026 16:29 CST",
       "segment": null
     },
     {
@@ -512,38 +535,6 @@
       "timestamp": "2026-07-27T16:51:23+00:00",
       "timestamp_display": "27/07/2026 10:51 CST",
       "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 93, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.26352634113564,
-      "lng": -98.4197034514841,
-      "road": 150,
-      "km": 75,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081775522174877735#m",
-      "timestamp": "2026-07-27T16:15:36+00:00",
-      "timestamp_display": "27/07/2026 10:15 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 93, dirección CDMX. Continúa la reducción de carriles por atención de accidente (maniobras para retiro de la unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.26352634113564,
-      "lng": -98.4197034514841,
-      "road": 150,
-      "km": 75,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081772327507767566#m",
-      "timestamp": "2026-07-27T16:02:54+00:00",
-      "timestamp_display": "27/07/2026 10:02 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
