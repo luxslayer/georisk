@@ -1,6 +1,316 @@
 {
-  "last_update": "2026-07-28T21:39:26.591863",
+  "last_update": "2026-07-28T22:09:01.776370",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 025+500. de la carretera Gómez Palacio-Jiménez, con dirección al Municipio de Jiménez, a la altura de la localidad Venustiano Carranza. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082226641472737443#m",
+      "timestamp": "2026-07-28T22:08:11+00:00",
+      "timestamp_display": "28/07/2026 16:08 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Coahuila continua cierre parcial de circulación por #AccidenteVial cerca del km. 058+900 de la carretera Monclova-Piedras Negras, a la altura de la Tienda de quesos Los Aldape, Coah. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 28.6945,
+      "lng": -100.5387,
+      "road": 57,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082223472772546878#m",
+      "timestamp": "2026-07-28T21:55:36+00:00",
+      "timestamp_display": "28/07/2026 15:55 CST",
+      "segment": [
+        "monclova",
+        "piedras negras"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 236+500 de la carretera Tapanatepec-Talismán con Ramales a Unión Juárez-Cd. Hidalgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082220607144378452#m",
+      "timestamp": "2026-07-28T21:44:13+00:00",
+      "timestamp_display": "28/07/2026 15:44 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del km. 027+420 de la autopista Ent. (Aut. México-Puebla) - Ocotoxco, con dirección a Apizaco, a la altura del Mpio. Tizatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082214435871961588#m",
+      "timestamp": "2026-07-28T21:19:41+00:00",
+      "timestamp_display": "28/07/2026 15:19 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 043+500 de la carretera México-Querétaro, en dirección a la Ciudad de México, a la altura de la plaza de cobro No. 4 Tepotzotlán, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082213071515230474#m",
+      "timestamp": "2026-07-28T21:14:16+00:00",
+      "timestamp_display": "28/07/2026 15:14 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Chihuahua continua cierre parcial de circulación por conclusión de maniobras tras #AccidenteVial en la carretera Janos-Agua Prieta, a inmediaciones del Rancho el Palmar, Chih. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 31.3177,
+      "lng": -109.5504,
+      "road": 2,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082207514074988630#m",
+      "timestamp": "2026-07-28T20:52:11+00:00",
+      "timestamp_display": "28/07/2026 14:52 CST",
+      "segment": [
+        "janos",
+        "agua prieta"
+      ]
+    },
+    {
+      "title": "#TomeloEnCuenta en #Hidalgo se habilita un carril de circulación por deslave de talud, cerca del km. 171+100 de la carretera México-Tampico, dirección a Pachuca, a la altura de la localidad de Santa María Catzotipan, Hgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.11,
+      "lng": -98.73,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082204513692172403#m",
+      "timestamp": "2026-07-28T20:40:16+00:00",
+      "timestamp_display": "28/07/2026 14:40 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 189+300 de la carretera Tuxpan–Tampico, a la altura de ciudad Cuauhtémoc, Ver. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082203344957850084#m",
+      "timestamp": "2026-07-28T20:35:37+00:00",
+      "timestamp_display": "28/07/2026 14:35 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 035+200 de la carretera Apizaco-Tejocotal, cerca del Mpio. Chignahuapan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082192615181619429#m",
+      "timestamp": "2026-07-28T19:52:59+00:00",
+      "timestamp_display": "28/07/2026 13:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 136+800 de la carretera Autlán de Navarro-Unión de Tula, maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.0529,
+      "lng": -99.3408,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082173390622806380#m",
+      "timestamp": "2026-07-28T18:36:35+00:00",
+      "timestamp_display": "28/07/2026 12:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del km. 026+400 de la autopista Ent. Aut. México-Puebla (Ocotoxco), con dirección a Tlaxcala, a la altura del Mpio. de Totolac, Tlax. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082171056765173994#m",
+      "timestamp": "2026-07-28T18:27:19+00:00",
+      "timestamp_display": "28/07/2026 12:27 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 181+500 de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Mogoñé Viejo, Mpio. San Juan Guichicovi, Oax. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082170164162781196#m",
+      "timestamp": "2026-07-28T18:23:46+00:00",
+      "timestamp_display": "28/07/2026 12:23 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 076+800 de la carretera México-Puebla, con dirección a CDMX. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082169465756668363#m",
+      "timestamp": "2026-07-28T18:21:00+00:00",
+      "timestamp_display": "28/07/2026 12:21 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 167+000 de la carretera Puebla-Cordoba. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082169019260457071#m",
+      "timestamp": "2026-07-28T18:19:13+00:00",
+      "timestamp_display": "28/07/2026 12:19 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 078+200 de la autopista Amozoc-Perote, maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082164864030482523#m",
+      "timestamp": "2026-07-28T18:02:42+00:00",
+      "timestamp_display": "28/07/2026 12:02 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por #AccidenteVial cerca del km. 083+000 de la autopista México-Puebla, con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082164399175881179#m",
+      "timestamp": "2026-07-28T18:00:52+00:00",
+      "timestamp_display": "28/07/2026 12:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 181+500 de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Mogoñé Viejo, Mpio. San Juan Guichicovi, Oax. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082158033669365773#m",
+      "timestamp": "2026-07-28T17:35:34+00:00",
+      "timestamp_display": "28/07/2026 11:35 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 091+000 de la carretera Guadalajara-Colima, a la altura de la localidad de Ciudad Guzmán, Jal. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082155265844039789#m",
+      "timestamp": "2026-07-28T17:24:34+00:00",
+      "timestamp_display": "28/07/2026 11:24 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Hidalgo continua cierre total en ambos sentidos de circulación por deslave de talud, cerca del km. 171+100 de la carretera México-Tampico, a la altura de la localidad de Santa María Catzotipan, Hgo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082149487951143233#m",
+      "timestamp": "2026-07-28T17:01:37+00:00",
+      "timestamp_display": "28/07/2026 11:01 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 112+700 de la carretera México-Puebla, a la altura del Mpio. de San Francisco Ocotlán, Pue. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082138871165255843#m",
+      "timestamp": "2026-07-28T16:19:25+00:00",
+      "timestamp_display": "28/07/2026 10:19 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Magdalena - Nogales, km 210, dirección Magdalena. Continúa la reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 210,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082224655868244327#m",
+      "timestamp": "2026-07-28T22:00:18+00:00",
+      "timestamp_display": "28/07/2026 16:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Barranca Larga - Ventanilla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082219800898461709#m",
+      "timestamp": "2026-07-28T21:41:00+00:00",
+      "timestamp_display": "28/07/2026 15:41 CST",
+      "segment": null
+    },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
@@ -220,32 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082165525451321780#m",
       "timestamp": "2026-07-28T18:05:20+00:00",
       "timestamp_display": "28/07/2026 12:05 CST",
-      "segment": null
-    },
-    {
-      "title": "Image",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082163842163868029#m",
-      "timestamp": "2026-07-28T17:58:39+00:00",
-      "timestamp_display": "28/07/2026 11:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Puente de Ixtla - Iguala, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082163156395167985#m",
-      "timestamp": "2026-07-28T17:55:55+00:00",
-      "timestamp_display": "28/07/2026 11:55 CST",
       "segment": null
     }
   ]
