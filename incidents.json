@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-07-28T17:32:57.988692",
+  "last_update": "2026-07-28T18:10:22.071897",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 078+200 de la autopista Amozoc-Perote, maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082164864030482523#m",
+      "timestamp": "2026-07-28T18:02:42+00:00",
+      "timestamp_display": "28/07/2026 12:02 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla continua cierre intermitente de circulación por #AccidenteVial cerca del km. 083+000 de la autopista México-Puebla, con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082164399175881179#m",
+      "timestamp": "2026-07-28T18:00:52+00:00",
+      "timestamp_display": "28/07/2026 12:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Oaxaca se registra cierre total en ambos sentidos de circulación por presencia de personas, cerca del km. 181+500 de la carretera Coatzacoalcos-Salina Cruz, a la altura del poblado Mogoñé Viejo, Mpio. San Juan Guichicovi, Oax. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082158033669365773#m",
+      "timestamp": "2026-07-28T17:35:34+00:00",
+      "timestamp_display": "28/07/2026 11:35 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 091+000 de la carretera Guadalajara-Colima, a la altura de la localidad de Ciudad Guzmán, Jal. Atienda indicación vial.",
       "type": "twitter",
@@ -235,45 +277,68 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 207+300 de la carretera Puebla-Córdoba, a la altura del Mpio. La Esperanza, Pue., con dirección a Orizaba, Ver. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 230, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081997993037758489#m",
-      "timestamp": "2026-07-28T06:59:37+00:00",
-      "timestamp_display": "28/07/2026 00:59 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#EviteLaZona en #Sinaloa continua cierre parcial de circulación tras presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 24.8,
-      "lng": -107.39,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 230,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081974739417894965#m",
-      "timestamp": "2026-07-28T05:27:13+00:00",
-      "timestamp_display": "27/07/2026 23:27 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082165525451321780#m",
+      "timestamp": "2026-07-28T18:05:20+00:00",
+      "timestamp_display": "28/07/2026 12:05 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán continua cierre parcial de circulación por #AccidenteVial cerca del km. 011+100 de la carretera Pátzcuaro-Copándaro, a la altura del Municipio Morelia, Mich., con dirección a Copándaro. Atienda indicación vial.",
+      "title": "Image",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": 14,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081970293325648259#m",
-      "timestamp": "2026-07-28T05:09:33+00:00",
-      "timestamp_display": "27/07/2026 23:09 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082163842163868029#m",
+      "timestamp": "2026-07-28T17:58:39+00:00",
+      "timestamp_display": "28/07/2026 11:58 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Puente de Ixtla - Iguala, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082163156395167985#m",
+      "timestamp": "2026-07-28T17:55:55+00:00",
+      "timestamp_display": "28/07/2026 11:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 51, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del incidente (caída de árbol). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 51,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082160491837734924#m",
+      "timestamp": "2026-07-28T17:45:20+00:00",
+      "timestamp_display": "28/07/2026 11:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoCuernavaca, km 51, dirección CDMX. Registra cierre a la circulación por atención de incidente (caída de árbol). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 51,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082158302083866868#m",
+      "timestamp": "2026-07-28T17:36:38+00:00",
+      "timestamp_display": "28/07/2026 11:36 CST",
       "segment": null
     },
     {
@@ -468,6 +533,19 @@
       "road": null,
       "km": null,
       "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082043713627226272#m",
+      "timestamp": "2026-07-28T10:01:18+00:00",
+      "timestamp_display": "28/07/2026 04:01 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
       "url": "https://nitter.net/CAPUFE/status/2082140032358392036#m",
       "timestamp": "2026-07-28T16:24:02+00:00",
       "timestamp_display": "28/07/2026 10:24 CST",
@@ -485,77 +563,6 @@
       "timestamp": "2026-07-28T16:19:54+00:00",
       "timestamp_display": "28/07/2026 10:19 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección Magdalena. Continúa la reducción de carriles por atención de accidente (choque de tracto camiones contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 210,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082137089857015886#m",
-      "timestamp": "2026-07-28T16:12:21+00:00",
-      "timestamp_display": "28/07/2026 10:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 83 al 84, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.31165197107703,
-      "lng": -98.49995892103097,
-      "road": 150,
-      "km": 65,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082130633606705388#m",
-      "timestamp": "2026-07-28T15:46:41+00:00",
-      "timestamp_display": "28/07/2026 09:46 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 126 al 127, dirección Querétaro. Reducción de carriles por labores de mantenimiento. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 126,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082130287719285196#m",
-      "timestamp": "2026-07-28T15:45:19+00:00",
-      "timestamp_display": "28/07/2026 09:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 194 al 207, dirección Querétaro. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 194,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082130217280160167#m",
-      "timestamp": "2026-07-28T15:45:02+00:00",
-      "timestamp_display": "28/07/2026 09:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082130105913012232#m",
-      "timestamp": "2026-07-28T15:44:36+00:00",
-      "timestamp_display": "28/07/2026 09:44 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
