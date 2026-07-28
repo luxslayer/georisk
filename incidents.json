@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-28T09:12:14.371318",
+  "last_update": "2026-07-28T10:10:35.961393",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca continúa cierre parcial de circulación tras #Deslave_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con direccion a Tehuantepec. Atienda indicación vial.",
@@ -271,6 +271,58 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guamúchil - Guasave, Puente Sinaloa. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ctCbjbjGqLB1XLiM8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081770913956024400#m",
+      "timestamp": "2026-07-27T15:57:17+00:00",
+      "timestamp_display": "27/07/2026 09:57 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2081882468345332038#m",
+      "timestamp": "2026-07-27T23:20:34+00:00",
+      "timestamp_display": "27/07/2026 17:20 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082043713627226272#m",
+      "timestamp": "2026-07-28T10:01:18+00:00",
+      "timestamp_display": "28/07/2026 04:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Carbonera - Puerto México, km 209, dirección Puerto México. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 209,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082041413898846704#m",
+      "timestamp": "2026-07-28T09:52:10+00:00",
+      "timestamp_display": "28/07/2026 03:52 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 41, dirección CDMX. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/reNqnrmqSM38wbSs6",
       "type": "twitter",
       "lat": 19.317466269442534,
@@ -518,58 +570,6 @@
         "mexico",
         "puebla"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 159, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre vagoneta, autobús y camión de carga. En la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/LCSM8pMzQqqdXyLQ8",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 159,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081914990865289430#m",
-      "timestamp": "2026-07-28T01:29:48+00:00",
-      "timestamp_display": "27/07/2026 19:29 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 159, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular y #lluvia. Disminuye tu velocidad y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 159,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081924441626361994#m",
-      "timestamp": "2026-07-28T02:07:21+00:00",
-      "timestamp_display": "27/07/2026 20:07 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 159, dirección Querétaro. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 159,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2081942170529833291#m",
-      "timestamp": "2026-07-28T03:17:48+00:00",
-      "timestamp_display": "27/07/2026 21:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Salina Cruz - La Ventosa, registra #lluvia y tormenta eléctrica a la altura de la Plaza de Cobro Ixtepec. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081939124278206831#m",
-      "timestamp": "2026-07-28T03:05:42+00:00",
-      "timestamp_display": "27/07/2026 21:05 CST",
-      "segment": null
     }
   ]
 }
