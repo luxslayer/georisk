@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-28T05:05:49.795757",
+  "last_update": "2026-07-28T06:08:52.008648",
   "incidents": [
+    {
+      "title": "#EviteLaZona en #Sinaloa continua cierre parcial de circulación tras presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2081974739417894965#m",
+      "timestamp": "2026-07-28T05:27:13+00:00",
+      "timestamp_display": "27/07/2026 23:27 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacán continua cierre parcial de circulación por #AccidenteVial cerca del km. 011+100 de la carretera Pátzcuaro-Copándaro, a la altura del Municipio Morelia, Mich., con dirección a Copándaro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": 14,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2081970293325648259#m",
+      "timestamp": "2026-07-28T05:09:33+00:00",
+      "timestamp_display": "27/07/2026 23:09 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 127+200 de la carretera San Hipolito-Xalapa. Atienda indicación vial.",
       "type": "twitter",
@@ -242,29 +268,16 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 128+500 de la carretera Acatlán de Juárez-Colima, a la altura del Municipio Tonila, Jal. Atienda indicación vial",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 94, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.246,
-      "lng": -103.724,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": null,
+      "km": 94,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081833632168067291#m",
-      "timestamp": "2026-07-27T20:06:31+00:00",
-      "timestamp_display": "27/07/2026 14:06 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #EdoMéx continua cierre parcial de circulación por presencia de personas, cerca del km. 013+100 de la carretera Toluca-Ixtlahuaca de Rayón, a la altura de la Plaza de Cobro El Dorado, Toluca, Edo. Méx. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2081832967710589090#m",
-      "timestamp": "2026-07-27T20:03:52+00:00",
-      "timestamp_display": "27/07/2026 14:03 CST",
+      "url": "https://nitter.net/CAPUFE/status/2081978070014017890#m",
+      "timestamp": "2026-07-28T05:40:27+00:00",
+      "timestamp_display": "27/07/2026 23:40 CST",
       "segment": null
     },
     {
