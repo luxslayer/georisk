@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-28T11:02:23.695750",
+  "last_update": "2026-07-28T11:55:14.407920",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Oaxaca continúa cierre parcial de circulación tras #Deslave_y_Socavón cerca del km 066+200, de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. San Dionisio Ocotepec, con direccion a Tehuantepec. Atienda indicación vial.",
@@ -269,6 +269,22 @@
       "timestamp": "2026-07-27T22:14:06+00:00",
       "timestamp_display": "27/07/2026 16:14 CST",
       "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 18, dirección CDMX. Continúa reducción de carriles por atención de accidente (servicios periciales). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082066706785010062#m",
+      "timestamp": "2026-07-28T11:32:40+00:00",
+      "timestamp_display": "28/07/2026 05:32 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección Magdalena. Continúa reducción de carriles por atención de accidente (choque de tracto camiones contra muro central). Dir. Nogales, opera de manera normal. Maneja con precaución.",
@@ -553,19 +569,6 @@
       "url": "https://nitter.net/CAPUFE/status/2081953327974076587#m",
       "timestamp": "2026-07-28T04:02:08+00:00",
       "timestamp_display": "27/07/2026 22:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Obregón - Guaymas, registra #lluvia y tormenta eléctrica. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081949696130506834#m",
-      "timestamp": "2026-07-28T03:47:42+00:00",
-      "timestamp_display": "27/07/2026 21:47 CST",
       "segment": null
     }
   ]
