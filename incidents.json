@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-28T22:37:00.611978",
+  "last_update": "2026-07-28T23:08:10.519911",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 025+500. de la carretera Gómez Palacio-Jiménez, con dirección al Municipio de Jiménez, a la altura de la localidad Venustiano Carranza. Atienda indicación vial.",
@@ -286,6 +286,48 @@
       ]
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Tepotzotlán. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082236962916675650#m",
+      "timestamp": "2026-07-28T22:49:12+00:00",
+      "timestamp_display": "28/07/2026 16:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Carga vehicular en dirección Isla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082236353987719252#m",
+      "timestamp": "2026-07-28T22:46:47+00:00",
+      "timestamp_display": "28/07/2026 16:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Continúa circulación en contraflujo por labores de mantenimiento. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.78185944503198,
+      "lng": -96.4699562751055,
+      "road": 150,
+      "km": 48,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082234682330992651#m",
+      "timestamp": "2026-07-28T22:40:08+00:00",
+      "timestamp_display": "28/07/2026 16:40 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -507,45 +549,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082180031304835331#m",
       "timestamp": "2026-07-28T19:02:59+00:00",
       "timestamp_display": "28/07/2026 13:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gtz. Zamora - Tihuatlán, km 194. Continúa circulación intermitente en ambos sentidos por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 194,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082179346228203824#m",
-      "timestamp": "2026-07-28T19:00:15+00:00",
-      "timestamp_display": "28/07/2026 13:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50. Registra circulación intermitente en ambos sentidos por atención de accidente (salida del camino de vagoneta y choque contra defensas metálicas). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082177835389866413#m",
-      "timestamp": "2026-07-28T18:54:15+00:00",
-      "timestamp_display": "28/07/2026 12:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Salina Cruz - La Ventosa, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082173499389403549#m",
-      "timestamp": "2026-07-28T18:37:01+00:00",
-      "timestamp_display": "28/07/2026 12:37 CST",
       "segment": null
     }
   ]
