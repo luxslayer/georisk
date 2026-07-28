@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-28T14:16:40.316071",
+  "last_update": "2026-07-28T15:17:46.187479",
   "incidents": [
+    {
+      "title": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 275+500 de la carretera Tapanatepec-Talismán con Ramales a Unión y Cd. Hidalgo, con dirección Arriaga, a la altura del poblado Coapantes, Mpio. Tapachula, Chis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.3708,
+      "lng": -94.1936,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082119819906666604#m",
+      "timestamp": "2026-07-28T15:03:43+00:00",
+      "timestamp_display": "28/07/2026 09:03 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 078+200 de la autopista Amozoc-Perote, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082118781636059423#m",
+      "timestamp": "2026-07-28T14:59:36+00:00",
+      "timestamp_display": "28/07/2026 08:59 CST",
+      "segment": null
+    },
     {
       "title": "#PrecauciónVial en #Michoacán continúa cierre parcial de la circulación tras accidente en el km. 011+100 de la carretera La Rinconada-La Piedad, a la altura del Municipio Ecuandureo, Mich., con dirección a La Piedad, Mich. Atienda indicación vial.",
       "type": "twitter",
@@ -248,30 +274,104 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #AccidenteVial cerca del km. 025+000 de la carretera Acapulco-Zihuatanejo, a la altura de la localidad Rancho el Santo, con dirección a Coyuca de Benítez, Gro. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 101, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 101,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082123274511654939#m",
+      "timestamp": "2026-07-28T15:17:27+00:00",
+      "timestamp_display": "28/07/2026 09:17 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 286,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082118893733126557#m",
+      "timestamp": "2026-07-28T15:00:02+00:00",
+      "timestamp_display": "28/07/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 280, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 280,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082118889706766806#m",
+      "timestamp": "2026-07-28T15:00:01+00:00",
+      "timestamp_display": "28/07/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gtz. Zamora - Tihuatlán, km 194. Circulación intermitente en ambos sentidos por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081911615595679802#m",
-      "timestamp": "2026-07-28T01:16:23+00:00",
-      "timestamp_display": "27/07/2026 19:16 CST",
+      "km": 194,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082110867852685791#m",
+      "timestamp": "2026-07-28T14:28:09+00:00",
+      "timestamp_display": "28/07/2026 08:28 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 112+400 de la carretera Cd. Victoria-Matamoros, a la altura de la localidad Benito Juárez, Tamps., con dirección a Matamoros, Tamps. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 41, dirección CDMX. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/reNqnrmqSM38wbSs6",
       "type": "twitter",
-      "lat": 31.69,
-      "lng": -106.42,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2081910832036778374#m",
-      "timestamp": "2026-07-28T01:13:17+00:00",
-      "timestamp_display": "27/07/2026 19:13 CST",
-      "segment": null
+      "lat": 19.317466269442534,
+      "lng": -98.80654585806539,
+      "road": 150,
+      "km": 23,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082027241484034262#m",
+      "timestamp": "2026-07-28T08:55:51+00:00",
+      "timestamp_display": "28/07/2026 02:55 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 41, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal se encuentra realizando las labores de limpieza. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.317466269442534,
+      "lng": -98.80654585806539,
+      "road": 150,
+      "km": 23,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082076092588834982#m",
+      "timestamp": "2026-07-28T12:09:58+00:00",
+      "timestamp_display": "28/07/2026 06:09 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 41, dirección CDMX. Se informa a las personas usuarias que continúa la circulación con reducción de carriles. El personal se encuentra realizando las labores de limpieza. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.317466269442534,
+      "lng": -98.80654585806539,
+      "road": 150,
+      "km": 23,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082108718351536334#m",
+      "timestamp": "2026-07-28T14:19:36+00:00",
+      "timestamp_display": "28/07/2026 08:19 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección Magdalena. Continúa reducción de carriles por atención de accidente (maniobras para retiro de las unidades siniestradas). 🔘 Dirección Nogale, se restablece la circulación de manera normal. Maneja con precaución.",
@@ -387,54 +487,6 @@
       ]
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoPuebla, km 41, dirección CDMX. Cierre a la circulación por atención de choque por alcance múltiple entre tracto camión y automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/reNqnrmqSM38wbSs6",
-      "type": "twitter",
-      "lat": 19.317466269442534,
-      "lng": -98.80654585806539,
-      "road": 150,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082027241484034262#m",
-      "timestamp": "2026-07-28T08:55:51+00:00",
-      "timestamp_display": "28/07/2026 02:55 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 41, dirección CDMX. Se informa a las personas usuarias que continúa cierre a la circulación por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.317466269442534,
-      "lng": -98.80654585806539,
-      "road": 150,
-      "km": 23,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082050464099545514#m",
-      "timestamp": "2026-07-28T10:28:07+00:00",
-      "timestamp_display": "28/07/2026 04:28 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoPuebla, km 41, dirección CDMX. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal se encuentra realizando las labores de limpieza. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.317466269442534,
-      "lng": -98.80654585806539,
-      "road": 150,
-      "km": 23,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082076092588834982#m",
-      "timestamp": "2026-07-28T12:09:58+00:00",
-      "timestamp_display": "28/07/2026 06:09 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 167, dirección Acatzingo. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -488,90 +540,6 @@
       "timestamp": "2026-07-28T10:56:32+00:00",
       "timestamp_display": "28/07/2026 04:56 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Guamúchil - Guasave, Puente Sinaloa. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/ctCbjbjGqLB1XLiM8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081770913956024400#m",
-      "timestamp": "2026-07-27T15:57:17+00:00",
-      "timestamp_display": "27/07/2026 09:57 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2081882468345332038#m",
-      "timestamp": "2026-07-27T23:20:34+00:00",
-      "timestamp_display": "27/07/2026 17:20 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082043713627226272#m",
-      "timestamp": "2026-07-28T10:01:18+00:00",
-      "timestamp_display": "28/07/2026 04:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Carbonera - Puerto México, km 209, dirección Puerto México. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 209,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082041413898846704#m",
-      "timestamp": "2026-07-28T09:52:10+00:00",
-      "timestamp_display": "28/07/2026 03:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Nuevo Teapa - Cosoleacaque, km 16. Se restablece la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.013764470675966,
-      "lng": -94.44283904508849,
-      "road": 180,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082012921719353727#m",
-      "timestamp": "2026-07-28T07:58:57+00:00",
-      "timestamp_display": "28/07/2026 01:58 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 18, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de vagoneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082011175621935172#m",
-      "timestamp": "2026-07-28T07:52:00+00:00",
-      "timestamp_display": "28/07/2026 01:52 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
