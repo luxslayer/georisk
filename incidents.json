@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-28T18:46:31.816254",
+  "last_update": "2026-07-28T19:32:50.101068",
   "incidents": [
     {
       "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 136+800 de la carretera Autlán de Navarro-Unión de Tula, maneje con precaución.",
@@ -286,6 +286,58 @@
       ]
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección Magdalena. Continúa la reducción de carriles por atención de accidente (choque de tracto camiones contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 210,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082182773243007101#m",
+      "timestamp": "2026-07-28T19:13:52+00:00",
+      "timestamp_display": "28/07/2026 13:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 50. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 50,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082180031304835331#m",
+      "timestamp": "2026-07-28T19:02:59+00:00",
+      "timestamp_display": "28/07/2026 13:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gtz. Zamora - Tihuatlán, km 194. Continúa circulación intermitente en ambos sentidos por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 194,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082179346228203824#m",
+      "timestamp": "2026-07-28T19:00:15+00:00",
+      "timestamp_display": "28/07/2026 13:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50. Registra circulación intermitente en ambos sentidos por atención de accidente (salida del camino de vagoneta y choque contra defensas metálicas). Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 50,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082177835389866413#m",
+      "timestamp": "2026-07-28T18:54:15+00:00",
+      "timestamp_display": "28/07/2026 12:54 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Salina Cruz - La Ventosa, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 16.17,
@@ -296,19 +348,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082173499389403549#m",
       "timestamp": "2026-07-28T18:37:01+00:00",
       "timestamp_display": "28/07/2026 12:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50. Registra circulación intermitente en ambos sentidos por atención de accidente (salida del camino de vagoneta y choque contra defensas metálicas). Atiende las indicaciones viales y maneja con precaución. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082172344672424097#m",
-      "timestamp": "2026-07-28T18:32:26+00:00",
-      "timestamp_display": "28/07/2026 12:32 CST",
       "segment": null
     },
     {
@@ -468,61 +507,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082146325609480683#m",
       "timestamp": "2026-07-28T16:49:03+00:00",
       "timestamp_display": "28/07/2026 10:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 101, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 101,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082146076434256060#m",
-      "timestamp": "2026-07-28T16:48:03+00:00",
-      "timestamp_display": "28/07/2026 10:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 76, dirección CDMX. Reducción de carriles por atención de accidente (maniobras para retiro de las unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.336837657936986,
-      "lng": -98.56065935520853,
-      "road": 150,
-      "km": 58,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082145548237148559#m",
-      "timestamp": "2026-07-28T16:45:57+00:00",
-      "timestamp_display": "28/07/2026 10:45 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 34, dirección Cuernavaca. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 34,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082143117365354974#m",
-      "timestamp": "2026-07-28T16:36:18+00:00",
-      "timestamp_display": "28/07/2026 10:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 167, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 167,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082142935986962729#m",
-      "timestamp": "2026-07-28T16:35:34+00:00",
-      "timestamp_display": "28/07/2026 10:35 CST",
       "segment": null
     }
   ]
