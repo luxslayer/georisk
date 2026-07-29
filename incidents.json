@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-29T06:11:34.498205",
+  "last_update": "2026-07-29T07:13:12.648982",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente, cerca del km. 071+500 de la carretera Amozoc-Teziutlán, maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082351316291006551#m",
+      "timestamp": "2026-07-29T06:23:36+00:00",
+      "timestamp_display": "29/07/2026 00:23 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 251+000 de la autopista Puebla-Cordoba, con dirección Puebla. Maneje con precaución.",
       "type": "twitter",
@@ -273,16 +286,45 @@
       ]
     },
     {
-      "title": "#TomeloEnCuenta en #Hidalgo se habilita un carril de circulación por deslave de talud, cerca del km. 171+100 de la carretera México-Tampico, dirección a Pachuca, a la altura de la localidad de Santa María Catzotipan, Hgo. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 3, dirección Veracruz. Cierre a la circulación por atención de accidente (choque por alcance). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
+      "lat": 18.859727444106394,
+      "lng": -96.88237816597955,
+      "road": 150,
+      "km": 3,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082360656385183928#m",
+      "timestamp": "2026-07-29T07:00:43+00:00",
+      "timestamp_display": "29/07/2026 01:00 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Pera - Cuautla, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2082204513692172403#m",
-      "timestamp": "2026-07-28T20:40:16+00:00",
-      "timestamp_display": "28/07/2026 14:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082349627534090414#m",
+      "timestamp": "2026-07-29T06:16:54+00:00",
+      "timestamp_display": "29/07/2026 00:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082348481071522285#m",
+      "timestamp": "2026-07-29T06:12:20+00:00",
+      "timestamp_display": "29/07/2026 00:12 CST",
       "segment": null
     },
     {
@@ -500,48 +542,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082285443198943663#m",
       "timestamp": "2026-07-29T02:01:51+00:00",
       "timestamp_display": "28/07/2026 20:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia a la altura de la Plaza de Cobro San Marcos. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082284599938269273#m",
-      "timestamp": "2026-07-29T01:58:30+00:00",
-      "timestamp_display": "28/07/2026 19:58 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 28, dirección Cuautla. Reducción de carriles por atención de accidente (salida del camino de vagoneta). En la zona se registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 28,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082281263306616897#m",
-      "timestamp": "2026-07-29T01:45:14+00:00",
-      "timestamp_display": "28/07/2026 19:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Pera - Cuautla, registra #lluvia y #vientos fuertes. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082280586740134016#m",
-      "timestamp": "2026-07-29T01:42:33+00:00",
-      "timestamp_display": "28/07/2026 19:42 CST",
       "segment": null
     }
   ]
