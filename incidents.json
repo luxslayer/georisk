@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-29T15:25:58.510366",
+  "last_update": "2026-07-29T16:02:43.099298",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 046+200 de la carretera Libramiento Norte de la CDMX., con dirección a Acambay, a la altura del Mpio. Jilotepec, Edo. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.9539,
+      "lng": -99.5345,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082489917947417044#m",
+      "timestamp": "2026-07-29T15:34:21+00:00",
+      "timestamp_display": "29/07/2026 09:34 CST",
+      "segment": null
+    },
     {
       "title": "En #Morelos continua cierre total de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 069+700 de la autopista México-Cuernavaca. Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Libre Morelos Tres Marías-Cuernavaca.",
       "type": "twitter",
@@ -264,16 +277,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 144+300 de la carretera Amozoc-Teziutlan, cerca del Mpio. Atempan, Pue. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular hacia carretera libre en los siguientes puntos: ➡️ Dirección CDMX, a la altura del km 80 (Glorieta de La Paloma de la Paz). ➡️ Dirección Cuernavaca, a la altura del km 53 (Poblado de Tres Marías). La carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": null,
+      "km": 70,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082305411340734860#m",
-      "timestamp": "2026-07-29T03:21:12+00:00",
-      "timestamp_display": "28/07/2026 21:21 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082485076525191368#m",
+      "timestamp": "2026-07-29T15:15:07+00:00",
+      "timestamp_display": "29/07/2026 09:15 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga, vagoneta y automóviles. En la zona se registra carga vehicular. Disminuye tu velocidad y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/khhSAu6Zk5Qb76JYA",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082460704615879054#m",
+      "timestamp": "2026-07-29T13:38:16+00:00",
+      "timestamp_display": "29/07/2026 07:38 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente. El personal se encuentra laborando en el lugar. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082492149313003646#m",
+      "timestamp": "2026-07-29T15:43:13+00:00",
+      "timestamp_display": "29/07/2026 09:43 CST",
       "segment": null
     },
     {
@@ -287,19 +326,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082487171701772325#m",
       "timestamp": "2026-07-29T15:23:27+00:00",
       "timestamp_display": "29/07/2026 09:23 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular hacia carretera libre en los siguientes puntos: ➡️ Dirección CDMX, a la altura del km 80 (Glorieta de La Paloma de la Paz). ➡️ Dirección Cuernavaca, a la altura del km 53 (Poblado de Tres Marías). La carretera libre no es administrada por CAPUFE, para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082485076525191368#m",
-      "timestamp": "2026-07-29T15:15:07+00:00",
-      "timestamp_display": "29/07/2026 09:15 CST",
       "segment": null
     },
     {
@@ -365,19 +391,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082472435840913828#m",
       "timestamp": "2026-07-29T14:24:53+00:00",
       "timestamp_display": "29/07/2026 08:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga, vagoneta y automóviles. En la zona se registra carga vehicular. Disminuye tu velocidad y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/khhSAu6Zk5Qb76JYA",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082460704615879054#m",
-      "timestamp": "2026-07-29T13:38:16+00:00",
-      "timestamp_display": "29/07/2026 07:38 CST",
       "segment": null
     },
     {
