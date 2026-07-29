@@ -1,6 +1,67 @@
 {
-  "last_update": "2026-07-29T05:07:12.517497",
+  "last_update": "2026-07-29T06:11:34.498205",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 251+000 de la autopista Puebla-Cordoba, con dirección Puebla. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082346161453650154#m",
+      "timestamp": "2026-07-29T06:03:07+00:00",
+      "timestamp_display": "29/07/2026 00:03 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomeloEnCuenta en #Sinaloa continúa cierre parcial de circulación por presencia de personas, cerca del km. 132+500 de la carretera Culiacán-Los Mochis. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 24.8,
+      "lng": -107.39,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082345298966261895#m",
+      "timestamp": "2026-07-29T05:59:42+00:00",
+      "timestamp_display": "28/07/2026 23:59 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 047+500 de la carretera León-Aguascalientes, a la altura de la localidad de Las Aguilillas, Jal. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 21.8841,
+      "lng": -102.2918,
+      "road": 45,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082340383506243682#m",
+      "timestamp": "2026-07-29T05:40:10+00:00",
+      "timestamp_display": "28/07/2026 23:40 CST",
+      "segment": [
+        "leon",
+        "aguascalientes"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 251+000 de la autopista Puebla-Cordoba, con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082338456399646743#m",
+      "timestamp": "2026-07-29T05:32:30+00:00",
+      "timestamp_display": "28/07/2026 23:32 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Zacatecas continua cierre parcial de circulación por #AccidenteVial cerca del km. 008+500 de la carretera Fresnillo-Valparaíso, a la altura de la localidad Juan Manuel Sanchéz, Zac. Atienda indicación vial.",
       "type": "twitter",
@@ -225,59 +286,30 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 189+300 de la carretera Tuxpan–Tampico, a la altura de ciudad Cuauhtémoc, Ver. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 210, dirección Magdalena. Continúa la reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 210,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082203344957850084#m",
-      "timestamp": "2026-07-28T20:35:37+00:00",
-      "timestamp_display": "28/07/2026 14:35 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082344273039540237#m",
+      "timestamp": "2026-07-29T05:55:37+00:00",
+      "timestamp_display": "28/07/2026 23:55 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 035+200 de la carretera Apizaco-Tejocotal, cerca del Mpio. Chignahuapan. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082192615181619429#m",
-      "timestamp": "2026-07-28T19:52:59+00:00",
-      "timestamp_display": "28/07/2026 13:52 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082343186362470531#m",
+      "timestamp": "2026-07-29T05:51:18+00:00",
+      "timestamp_display": "28/07/2026 23:51 CST",
       "segment": null
-    },
-    {
-      "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 136+800 de la carretera Autlán de Navarro-Unión de Tula, maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.0529,
-      "lng": -99.3408,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082173390622806380#m",
-      "timestamp": "2026-07-28T18:36:35+00:00",
-      "timestamp_display": "28/07/2026 12:36 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tlaxcala continua cierre parcial de circulación por #AccidenteVial cerca del km. 026+400 de la autopista Ent. Aut. México-Puebla (Ocotoxco), con dirección a Tlaxcala, a la altura del Mpio. de Totolac, Tlax. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082171056765173994#m",
-      "timestamp": "2026-07-28T18:27:19+00:00",
-      "timestamp_display": "28/07/2026 12:27 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 13, dirección Veracruz. Cierre a la circulación por atención de accidente (choque por alcance múltiple y volcadura). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -510,19 +542,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082280586740134016#m",
       "timestamp": "2026-07-29T01:42:33+00:00",
       "timestamp_display": "28/07/2026 19:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 252, dirección Acatzingo. Reducción de carriles por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 252,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082279953651966073#m",
-      "timestamp": "2026-07-29T01:40:02+00:00",
-      "timestamp_display": "28/07/2026 19:40 CST",
       "segment": null
     }
   ]
