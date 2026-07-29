@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-07-29T19:10:20.455761",
+  "last_update": "2026-07-29T19:45:50.176707",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 127+200 de la autopista Uruapan-Lázaro cárdenas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082552172059754838#m",
+      "timestamp": "2026-07-29T19:41:44+00:00",
+      "timestamp_display": "29/07/2026 13:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 246+100 de la carretera Oaxaca-Tehuantepec, a la altura del Mpio. Santo Domingo Tehuantepec, Oax. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082547003620254102#m",
+      "timestamp": "2026-07-29T19:21:12+00:00",
+      "timestamp_display": "29/07/2026 13:21 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 086+100 de la carretera Amozoc-Teziutlán, maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082545812194705584#m",
+      "timestamp": "2026-07-29T19:16:28+00:00",
+      "timestamp_display": "29/07/2026 13:16 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por incidente, cerca del km. 245+000 de la autopista Pachuca-Tuxpan, dirección Tuxpan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 130,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082545345997734219#m",
+      "timestamp": "2026-07-29T19:14:36+00:00",
+      "timestamp_display": "29/07/2026 13:14 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Campeche continua cierre parcial de circulación por #AccidenteVial cerca del km. 069+000 de la carretera Ciudad del Carmen-Campeche. Atienda indicación vial.",
       "type": "twitter",
@@ -210,56 +262,20 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Campeche continua cierre parcial de circulación por conclusión de maniobras tras un vehículo incendiado, cerca del km. 130+100 de la carretera Villahermosa-Ciudad del Carmen. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "road": 150,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082485025455390828#m",
-      "timestamp": "2026-07-29T15:14:55+00:00",
-      "timestamp_display": "29/07/2026 09:14 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco continua cierre parcial de circulación por #AccidenteVial cerca del km. 034+500 de la carretera Villahermosa-Fco. Escárcega, a la altura de la granja de pollos Jimmy, Tab. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082477783171670372#m",
-      "timestamp": "2026-07-29T14:46:08+00:00",
-      "timestamp_display": "29/07/2026 08:46 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tabasco continua cierre parcial de circulación por #AccidenteVial cerca del km. 046+100 de la carretera Coatzacoalcos-Villahermosa. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082469316541243599#m",
-      "timestamp": "2026-07-29T14:12:30+00:00",
-      "timestamp_display": "29/07/2026 08:12 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Sonora continua cierre parcial de circulación por #AccidenteVial cerca del km. 014+500 de la carretera Altar-Sonoyta, a la altura de la Localidad Costa Rica, Son. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 31.862,
-      "lng": -112.8512,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082465646948839790#m",
-      "timestamp": "2026-07-29T13:57:55+00:00",
-      "timestamp_display": "29/07/2026 07:57 CST",
-      "segment": null
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082548287593144801#m",
+      "timestamp": "2026-07-29T19:26:18+00:00",
+      "timestamp_display": "29/07/2026 13:26 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia del km 19 al 27. Disminuye tu velocidad y maneja con precaución.",
