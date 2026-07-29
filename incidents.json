@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-29T17:12:55.562224",
+  "last_update": "2026-07-29T17:45:15.043727",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #Michoacan tras accidente cerca del km. 201+700 de la carretera Maravatío-Zapotlanejo, con dirección a Zinapécuaro. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": 15,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082516966862917833#m",
+      "timestamp": "2026-07-29T17:21:50+00:00",
+      "timestamp_display": "29/07/2026 11:21 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 283+800 de la carretera Coatzacoalcos-Tehuantepec, maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.32,
+      "lng": -95.24,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2082516389538009249#m",
+      "timestamp": "2026-07-29T17:19:33+00:00",
+      "timestamp_display": "29/07/2026 11:19 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla continua cierre parcial de circulación por #AccidenteVial cerca del km. 141+400 de la carretera Tulancingo-Tihuatlán. Atienda indicación vial.",
       "type": "twitter",
@@ -239,33 +265,69 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Morelos se registra cierre total de circulación por #AccidenteVial cerca del km. 069+700 de la autopista México-Cuernavaca. Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Libre Morelos Tres Marías-Cuernavaca.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en ambos sentidos, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082519671828328709#m",
+      "timestamp": "2026-07-29T17:32:35+00:00",
+      "timestamp_display": "29/07/2026 11:32 CST",
+      "segment": null
+    },
+    {
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular en los siguientes puntos: ➡️ Dirección Cuernavaca, a la altura del km 38 (Parador Parres) y km 53 (Poblado de Tres Marías) hacia carretera libre. ➡️ Dirección CDMX, unidades de Guardia Nacional y CAPUFE, coordinan la vialidad desde el km 80 hasta tomar la desviación de la Autopista La Pera - Cuautla. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
       "lat": 18.93,
       "lng": -99.22,
       "road": null,
-      "km": null,
+      "km": 70,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082386779550720314#m",
-      "timestamp": "2026-07-29T08:44:31+00:00",
-      "timestamp_display": "29/07/2026 02:44 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082510605206896977#m",
+      "timestamp": "2026-07-29T16:56:34+00:00",
+      "timestamp_display": "29/07/2026 10:56 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km. 013+500 de la autopista Córdoba-Ent. La Tinaja, con dirección a Veracruz, a la altura de la localidad de Corral de Piedra. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga, vagoneta y automóviles. En la zona se registra carga vehicular. Disminuye tu velocidad y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/khhSAu6Zk5Qb76JYA",
       "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": 150,
-      "km": null,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082460704615879054#m",
+      "timestamp": "2026-07-29T13:38:16+00:00",
+      "timestamp_display": "29/07/2026 07:38 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente. El personal se encuentra laborando en el lugar. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082374735267025109#m",
-      "timestamp": "2026-07-29T07:56:40+00:00",
-      "timestamp_display": "29/07/2026 01:56 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2082492149313003646#m",
+      "timestamp": "2026-07-29T15:43:13+00:00",
+      "timestamp_display": "29/07/2026 09:43 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que se registra cierre a la circulación debido a que el personal se encuentra realizando los servicios periciales. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 52,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082517096718557641#m",
+      "timestamp": "2026-07-29T17:22:21+00:00",
+      "timestamp_display": "29/07/2026 11:22 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 46, dirección Agua Dulce. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
@@ -294,19 +356,6 @@
       "segment": null
     },
     {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular en los siguientes puntos: ➡️ Dirección Cuernavaca, a la altura del km 38 (Parador Parres) y km 53 (Poblado de Tres Marías) hacia carretera libre. ➡️ Dirección CDMX, unidades de Guardia Nacional y CAPUFE, coordinan la vialidad desde el km 80 hasta tomar la desviación de la Autopista La Pera - Cuautla. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082510605206896977#m",
-      "timestamp": "2026-07-29T16:56:34+00:00",
-      "timestamp_display": "29/07/2026 10:56 CST",
-      "segment": null
-    },
-    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Reducción de carriles por atención de volcadura de tracto camión. En la zona se registra derrame de líquido. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ffUHNWVAq29ST3aL8",
       "type": "twitter",
       "lat": 18.93,
@@ -330,32 +379,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082504271505850488#m",
       "timestamp": "2026-07-29T16:31:24+00:00",
       "timestamp_display": "29/07/2026 10:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga, vagoneta y automóviles. En la zona se registra carga vehicular. Disminuye tu velocidad y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/khhSAu6Zk5Qb76JYA",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082460704615879054#m",
-      "timestamp": "2026-07-29T13:38:16+00:00",
-      "timestamp_display": "29/07/2026 07:38 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 52, dirección Cuernavaca. Se informa a las personas usuarias que continúa la reducción de carriles por atención del accidente. El personal se encuentra laborando en el lugar. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082492149313003646#m",
-      "timestamp": "2026-07-29T15:43:13+00:00",
-      "timestamp_display": "29/07/2026 09:43 CST",
       "segment": null
     },
     {
@@ -534,19 +557,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082441321105490094#m",
       "timestamp": "2026-07-29T12:21:15+00:00",
       "timestamp_display": "29/07/2026 06:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 35. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082441222547701874#m",
-      "timestamp": "2026-07-29T12:20:51+00:00",
-      "timestamp_display": "29/07/2026 06:20 CST",
       "segment": null
     }
   ]
