@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-29T17:45:15.043727",
+  "last_update": "2026-07-29T18:13:30.716203",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por #AccidenteVial cerca del km. 172+400 de la carretera Tuxtepec-Oaxaca, con dirección a Oaxaca, a la altura del Mpio. Santa Catarina Ixtepeji, Oax. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082524553939505608#m",
+      "timestamp": "2026-07-29T17:51:59+00:00",
+      "timestamp_display": "29/07/2026 11:51 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Michoacan tras accidente cerca del km. 201+700 de la carretera Maravatío-Zapotlanejo, con dirección a Zinapécuaro. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +265,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Hgo continua cierre parcial de circulación por #AccidenteVial cerca del km. 044+500 de la carretera Pachuca-Tuxpan, en dirección a Tulancingo, a la altura del Mpio. de Tulancingo. Atienda indicación vial.",
+      "title": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular en los siguientes puntos: ➡️ Dirección Cuernavaca, a la altura del km 38 (Parador Parres) y km 53 (Poblado de Tres Marías) hacia carretera libre. ➡️ Dirección CDMX, unidades de Guardia Nacional y CAPUFE, coordinan la vialidad desde el km 80 hasta tomar la desviación de la Autopista La Pera - Cuautla. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
       "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
-      "road": 130,
-      "km": null,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 70,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082440809480114327#m",
-      "timestamp": "2026-07-29T12:19:13+00:00",
-      "timestamp_display": "29/07/2026 06:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082529569836335545#m",
+      "timestamp": "2026-07-29T18:11:55+00:00",
+      "timestamp_display": "29/07/2026 12:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Reducción de carriles por atención de volcadura de tracto camión. En la zona se registra derrame de líquido. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ffUHNWVAq29ST3aL8",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 70,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082366661886120243#m",
+      "timestamp": "2026-07-29T07:24:35+00:00",
+      "timestamp_display": "29/07/2026 01:24 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular en los siguientes puntos: ➡️ Dirección Cuernavaca, a la altura del km 38 (Parador Parres) y km 53 (Poblado de Tres Marías) hacia carretera libre. ➡️ Dirección CDMX, unidades de Guardia Nacional y CAPUFE, coordinan la vialidad desde el km 80 hasta tomar la desviación de la Autopista La Pera - Cuautla. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 70,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082510605206896977#m",
+      "timestamp": "2026-07-29T16:56:34+00:00",
+      "timestamp_display": "29/07/2026 10:56 CST",
       "segment": null
     },
     {
@@ -275,19 +314,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082519671828328709#m",
       "timestamp": "2026-07-29T17:32:35+00:00",
       "timestamp_display": "29/07/2026 11:32 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular en los siguientes puntos: ➡️ Dirección Cuernavaca, a la altura del km 38 (Parador Parres) y km 53 (Poblado de Tres Marías) hacia carretera libre. ➡️ Dirección CDMX, unidades de Guardia Nacional y CAPUFE, coordinan la vialidad desde el km 80 hasta tomar la desviación de la Autopista La Pera - Cuautla. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082510605206896977#m",
-      "timestamp": "2026-07-29T16:56:34+00:00",
-      "timestamp_display": "29/07/2026 10:56 CST",
       "segment": null
     },
     {
@@ -353,32 +379,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082511475026076127#m",
       "timestamp": "2026-07-29T17:00:01+00:00",
       "timestamp_display": "29/07/2026 11:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Reducción de carriles por atención de volcadura de tracto camión. En la zona se registra derrame de líquido. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/ffUHNWVAq29ST3aL8",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082366661886120243#m",
-      "timestamp": "2026-07-29T07:24:35+00:00",
-      "timestamp_display": "29/07/2026 01:24 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentran laborando en el lugar. Por seguridad, se desvía el tránsito vehicular en los siguientes puntos: ➡️ Dirección Cuernavaca, a la altura del km 53 hacia carretera libre (Poblado de Tres Marías). ➡️ Dirección CDMX, unidades de Guardia Nacional y CAPUFE, coordinan la vialidad desde el km 80 hasta tomar la desviación de la Autopista La Pera - Cuautla. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082504271505850488#m",
-      "timestamp": "2026-07-29T16:31:24+00:00",
-      "timestamp_display": "29/07/2026 10:31 CST",
       "segment": null
     },
     {
@@ -545,19 +545,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, continúa #neblina. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082441321105490094#m",
-      "timestamp": "2026-07-29T12:21:15+00:00",
-      "timestamp_display": "29/07/2026 06:21 CST",
-      "segment": null
     }
   ]
 }
