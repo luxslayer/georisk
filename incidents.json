@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-30T05:26:39.767972",
+  "last_update": "2026-07-30T06:20:33.372072",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+600, de la carretera México-Querétaro, a la altura del Mpio. de Ojo de Agua, con dirección a Querétaro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 82.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082700233364910451#m",
+      "timestamp": "2026-07-30T05:30:04+00:00",
+      "timestamp_display": "29/07/2026 23:30 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Querétaro tras #AccidenteVial cerca del km 145+200, de la carretera México-Querétaro, a la altura del Mpio. de San Antonio Escobedo. Maneje con precaución.",
       "type": "twitter",
@@ -249,17 +262,20 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 155+300, de la carretera Paso del Toro-Acayucan, a la altura del Mpio. de Catemaco, con dirección a Catemaco. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 18. Reducción de carriles en ambos sentidos por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.02,
-      "lng": -96.13,
-      "road": null,
-      "km": 155.3,
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082586527624732722#m",
-      "timestamp": "2026-07-29T21:58:15+00:00",
-      "timestamp_display": "29/07/2026 15:58 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2082709797669880110#m",
+      "timestamp": "2026-07-30T06:08:05+00:00",
+      "timestamp_display": "30/07/2026 00:08 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 83, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución.",
