@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-30T00:35:59.434175",
+  "last_update": "2026-07-30T01:12:01.435469",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 202+200, de la carretera Guadalajara-Atlacomulco, a la altura de la Plaza de cobro Zinapécuaro. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.8002,
+      "lng": -99.8759,
+      "road": null,
+      "km": 202.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082627300202295355#m",
+      "timestamp": "2026-07-30T00:40:16+00:00",
+      "timestamp_display": "29/07/2026 18:40 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Campeche tras #AccidenteVial cerca del km 069+000, de la carretera Cd. del Carmen-Campeche, a la altura del Mpio. de Champotón. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 69.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082626224854028384#m",
+      "timestamp": "2026-07-30T00:35:59+00:00",
+      "timestamp_display": "29/07/2026 18:35 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Oaxaca tras presencia de personas, cerca del km 182+500, de la carr. Coatzacoalcos-Salina Cruz, a la altura del poblado Mogoñé Viejo, Mpio. de San Juan Guichicovi. Maneje con precaución.",
       "type": "twitter",
@@ -236,29 +262,68 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Oaxaca tras #AccidenteVial cerca del km. 172+400 de la carretera Tuxtepec-Oaxaca, con dirección a Oaxaca, a la altura del Mpio. Santa Catarina Ixtepeji, Oax. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 125. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
       "lng": -96.72,
       "road": null,
-      "km": null,
+      "km": 125,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082555606150312006#m",
-      "timestamp": "2026-07-29T19:55:23+00:00",
-      "timestamp_display": "29/07/2026 13:55 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082634537683628055#m",
+      "timestamp": "2026-07-30T01:09:01+00:00",
+      "timestamp_display": "29/07/2026 19:09 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 127+200 de la autopista Uruapan-Lázaro cárdenas. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 145, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 145,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082633942205616247#m",
+      "timestamp": "2026-07-30T01:06:39+00:00",
+      "timestamp_display": "29/07/2026 19:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Libramiento Noreste de Querétaro (Chichimequillas), registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082633499274555691#m",
+      "timestamp": "2026-07-30T01:04:54+00:00",
+      "timestamp_display": "29/07/2026 19:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🚫⚽ #CartonRougeÀLaTraite Informez-vous, identifiez les signes d'alerte et contribuez à la prévention. 📢 Dénoncez!",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082552172059754838#m",
-      "timestamp": "2026-07-29T19:41:44+00:00",
-      "timestamp_display": "29/07/2026 13:41 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082632265549402127#m",
+      "timestamp": "2026-07-30T01:00:00+00:00",
+      "timestamp_display": "29/07/2026 19:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Cd. Mendoza - Córdoba, registra #lluvia a la altura del poblado de Fortín. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082628317589475765#m",
+      "timestamp": "2026-07-30T00:44:18+00:00",
+      "timestamp_display": "29/07/2026 18:44 CST",
       "segment": null
     },
     {
@@ -327,19 +392,6 @@
       "segment": null
     },
     {
-      "title": "Pinned: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082615954979070004#m",
-      "timestamp": "2026-07-29T23:55:11+00:00",
-      "timestamp_display": "29/07/2026 17:55 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 18.93,
@@ -350,6 +402,19 @@
       "url": "https://nitter.net/CAPUFE/status/2082602548188586257#m",
       "timestamp": "2026-07-29T23:01:55+00:00",
       "timestamp_display": "29/07/2026 17:01 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 70,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082615954979070004#m",
+      "timestamp": "2026-07-29T23:55:11+00:00",
+      "timestamp_display": "29/07/2026 17:55 CST",
       "segment": null
     },
     {
@@ -421,6 +486,19 @@
       "segment": null
     },
     {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de limpieza. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 70,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082584352840425625#m",
+      "timestamp": "2026-07-29T21:49:36+00:00",
+      "timestamp_display": "29/07/2026 15:49 CST",
+      "segment": null
+    },
+    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las labores de limpieza. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.93,
@@ -470,87 +548,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082592523097112994#m",
       "timestamp": "2026-07-29T22:22:04+00:00",
       "timestamp_display": "29/07/2026 16:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. Continúa reducción de carriles por atención de accidente (tracto camión siniestrado). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082591032986780063#m",
-      "timestamp": "2026-07-29T22:16:09+00:00",
-      "timestamp_display": "29/07/2026 16:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 286, dirección Córdoba. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 286,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082590004266631239#m",
-      "timestamp": "2026-07-29T22:12:04+00:00",
-      "timestamp_display": "29/07/2026 16:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082589847886172412#m",
-      "timestamp": "2026-07-29T22:11:27+00:00",
-      "timestamp_display": "29/07/2026 16:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 125. Continúa cierre a la circulación en ambos sentidos por atención de accidente (choque de frente e incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 125,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082588519025750128#m",
-      "timestamp": "2026-07-29T22:06:10+00:00",
-      "timestamp_display": "29/07/2026 16:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Córdoba - Veracruz, del km 48 al 55. Continúa circulación en contraflujo por labores de mantenimiento. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082587472614068460#m",
-      "timestamp": "2026-07-29T22:02:00+00:00",
-      "timestamp_display": "29/07/2026 16:02 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de limpieza. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082584352840425625#m",
-      "timestamp": "2026-07-29T21:49:36+00:00",
-      "timestamp_display": "29/07/2026 15:49 CST",
       "segment": null
     }
   ]
