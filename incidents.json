@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-30T09:21:22.238037",
+  "last_update": "2026-07-30T10:18:16.238584",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Veracruz tras #Incendio cerca del km 013+950, de la carretera La Tinaja-Tierra Blanca, a la altura de el Mpio. de La Tinaja. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 13.95,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082760383140405599#m",
+      "timestamp": "2026-07-30T09:29:05+00:00",
+      "timestamp_display": "30/07/2026 03:29 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 018+920, de la carretera México-Puebla, a la altura de la localidad de Emiliano Zapata, con dirección a Cd. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -258,17 +271,46 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre total de circulación por #Incendio cerca del km 130+800, de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. de San Mateo Tlapiltepec, con dirección a Oaxaca. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264, dirección Córdoba. Continúa reducción de carriles por atención de accidente (labores de limpieza). En la zona se registra carga vehicular. Dir. Cd. Mendoza, opera de manera normal. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 18.8885,
+      "lng": -96.9369,
       "road": null,
-      "km": 130.8,
+      "km": 264,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082606975313977511#m",
-      "timestamp": "2026-07-29T23:19:30+00:00",
-      "timestamp_display": "29/07/2026 17:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082770664910430289#m",
+      "timestamp": "2026-07-30T10:09:57+00:00",
+      "timestamp_display": "30/07/2026 04:09 CST",
       "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 83, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 83,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082768738177225107#m",
+      "timestamp": "2026-07-30T10:02:17+00:00",
+      "timestamp_display": "30/07/2026 04:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 12, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.852973281521233,
+      "lng": -96.79983785257589,
+      "road": 150,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082766863197421599#m",
+      "timestamp": "2026-07-30T09:54:50+00:00",
+      "timestamp_display": "30/07/2026 03:54 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Querétaro - Irapuato, km 28, dirección Irapuato. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
@@ -527,48 +569,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082688745040494699#m",
       "timestamp": "2026-07-30T04:44:25+00:00",
       "timestamp_display": "29/07/2026 22:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 12, dirección Veracruz. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (incendio de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.852973281521233,
-      "lng": -96.79983785257589,
-      "road": 150,
-      "km": 12,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082687114861261223#m",
-      "timestamp": "2026-07-30T04:37:57+00:00",
-      "timestamp_display": "29/07/2026 22:37 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 77, dirección Querétaro. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 77,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082685579825697081#m",
-      "timestamp": "2026-07-30T04:31:51+00:00",
-      "timestamp_display": "29/07/2026 22:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 145, dirección CDMX. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 145,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082685273335353821#m",
-      "timestamp": "2026-07-30T04:30:38+00:00",
-      "timestamp_display": "29/07/2026 22:30 CST",
       "segment": null
     }
   ]
