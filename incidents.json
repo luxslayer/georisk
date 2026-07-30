@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-30T01:12:01.435469",
+  "last_update": "2026-07-30T01:58:17.813718",
   "incidents": [
     {
       "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 202+200, de la carretera Guadalajara-Atlacomulco, a la altura de la Plaza de cobro Zinapécuaro. Maneje con precaución.",
@@ -262,6 +262,71 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 123, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/YBofSjcom4zkNLmz6",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 123,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082624538387394854#m",
+      "timestamp": "2026-07-30T00:29:17+00:00",
+      "timestamp_display": "29/07/2026 18:29 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 123, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles. El personal se encuentra laborando en la atención del accidente. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 123,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082640975688564969#m",
+      "timestamp": "2026-07-30T01:34:36+00:00",
+      "timestamp_display": "29/07/2026 19:34 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 123, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular intensa. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 123,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082645445046579281#m",
+      "timestamp": "2026-07-30T01:52:22+00:00",
+      "timestamp_display": "29/07/2026 19:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 50, dirección Puente de Ixtla. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 50,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082641259886153917#m",
+      "timestamp": "2026-07-30T01:35:44+00:00",
+      "timestamp_display": "29/07/2026 19:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 169, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 169,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082639202802377118#m",
+      "timestamp": "2026-07-30T01:27:34+00:00",
+      "timestamp_display": "29/07/2026 19:27 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 125. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.072,
@@ -324,19 +389,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082628317589475765#m",
       "timestamp": "2026-07-30T00:44:18+00:00",
       "timestamp_display": "29/07/2026 18:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 123, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/YBofSjcom4zkNLmz6",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 123,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082624538387394854#m",
-      "timestamp": "2026-07-30T00:29:17+00:00",
-      "timestamp_display": "29/07/2026 18:29 CST",
       "segment": null
     },
     {
@@ -470,84 +522,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082610513406492821#m",
       "timestamp": "2026-07-29T23:33:34+00:00",
       "timestamp_display": "29/07/2026 17:33 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que continúa el cierre a la circulación por atención del accidente. Personal de CAPUFE, Protección Civil y Guardia Nacional, se encuentra laborando en el lugar. ➡ Por seguridad, se desvía el tránsito vehicular hacia carretera libre a la altura del km 53 (Poblado de Tres Marías). 🔘 En la Plaza de Cobro Tlalpan, se restablece el tránsito con operativo de vialidad. La carretera libre no es administrada por CAPUFE. Para más información llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082581635237916754#m",
-      "timestamp": "2026-07-29T21:38:48+00:00",
-      "timestamp_display": "29/07/2026 15:38 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las labores de limpieza. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082584352840425625#m",
-      "timestamp": "2026-07-29T21:49:36+00:00",
-      "timestamp_display": "29/07/2026 15:49 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoCuernavaca, km 70, dirección Cuernavaca. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las labores de limpieza. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional, realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 70,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082599515178070430#m",
-      "timestamp": "2026-07-29T22:49:51+00:00",
-      "timestamp_display": "29/07/2026 16:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 153 al 158, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 153,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082593586026029516#m",
-      "timestamp": "2026-07-29T22:26:18+00:00",
-      "timestamp_display": "29/07/2026 16:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 43, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 43,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082593305603231949#m",
-      "timestamp": "2026-07-29T22:25:11+00:00",
-      "timestamp_display": "29/07/2026 16:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 126 al 127, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 126,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082592523097112994#m",
-      "timestamp": "2026-07-29T22:22:04+00:00",
-      "timestamp_display": "29/07/2026 16:22 CST",
       "segment": null
     }
   ]
