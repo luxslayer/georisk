@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-30T10:18:16.238584",
+  "last_update": "2026-07-30T11:15:55.701225",
   "incidents": [
     {
       "title": "#VíaLibre en #Veracruz tras #Incendio cerca del km 013+950, de la carretera La Tinaja-Tierra Blanca, a la altura de el Mpio. de La Tinaja. Maneje con precaución.",
@@ -269,6 +269,35 @@
       "timestamp": "2026-07-29T23:28:05+00:00",
       "timestamp_display": "29/07/2026 17:28 CST",
       "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 264, dirección Córdoba. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 264,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082777915767312569#m",
+      "timestamp": "2026-07-30T10:38:45+00:00",
+      "timestamp_display": "30/07/2026 04:38 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 18. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082777150348747148#m",
+      "timestamp": "2026-07-30T10:35:43+00:00",
+      "timestamp_display": "30/07/2026 04:35 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264, dirección Córdoba. Continúa reducción de carriles por atención de accidente (labores de limpieza). En la zona se registra carga vehicular. Dir. Cd. Mendoza, opera de manera normal. Maneja con precaución.",
@@ -543,32 +572,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082691509086781500#m",
       "timestamp": "2026-07-30T04:55:24+00:00",
       "timestamp_display": "29/07/2026 22:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 169, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 169,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082689859374678120#m",
-      "timestamp": "2026-07-30T04:48:51+00:00",
-      "timestamp_display": "29/07/2026 22:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 125. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 125,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082688745040494699#m",
-      "timestamp": "2026-07-30T04:44:25+00:00",
-      "timestamp_display": "29/07/2026 22:44 CST",
       "segment": null
     }
   ]
