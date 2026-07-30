@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-07-30T21:41:41.845394",
+  "last_update": "2026-07-30T22:10:53.931908",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 149+000 de la carretera Poza rica-Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082951894981353569#m",
+      "timestamp": "2026-07-30T22:10:05+00:00",
+      "timestamp_display": "30/07/2026 16:10 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Oaxaca tras retiro de personas, cerca del km. 113+200 de la carretera Buena Vista-Tuxtepec, en la caseta de cobro No.29 \"Caracol\". Maneje con precaución.",
       "type": "twitter",
@@ -258,20 +271,82 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 007+600 de la autopista Córdoba-Ent. La Tinaja, con dirección a puebla. Atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Barranca Larga - Ventanilla, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": 150,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
       "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082950415537103087#m",
+      "timestamp": "2026-07-30T22:04:13+00:00",
+      "timestamp_display": "30/07/2026 16:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Cuernavaca - Acapulco, del km 218 al 219, dirección Cuernavaca. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 218,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082835109212725425#m",
-      "timestamp": "2026-07-30T14:26:01+00:00",
-      "timestamp_display": "30/07/2026 08:26 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
+      "url": "https://nitter.net/CAPUFE/status/2082950033549189587#m",
+      "timestamp": "2026-07-30T22:02:41+00:00",
+      "timestamp_display": "30/07/2026 16:02 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 22, dirección Cuernavaca. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 22,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082948605808111825#m",
+      "timestamp": "2026-07-30T21:57:01+00:00",
+      "timestamp_display": "30/07/2026 15:57 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 263, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y volcadura de vagoneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 263,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082948346478539101#m",
+      "timestamp": "2026-07-30T21:55:59+00:00",
+      "timestamp_display": "30/07/2026 15:55 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Querétaro - Irapuato, registra #lluvia a la altura de la Plaza de Cobro Salamanca. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082947237907227061#m",
+      "timestamp": "2026-07-30T21:51:35+00:00",
+      "timestamp_display": "30/07/2026 15:51 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 20, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 20,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082947025390170269#m",
+      "timestamp": "2026-07-30T21:50:44+00:00",
+      "timestamp_display": "30/07/2026 15:50 CST",
+      "segment": null
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 45, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
@@ -485,74 +560,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082906826513760418#m",
       "timestamp": "2026-07-30T19:11:00+00:00",
       "timestamp_display": "30/07/2026 13:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 340, dirección Acapulco. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 340,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082906159158112396#m",
-      "timestamp": "2026-07-30T19:08:21+00:00",
-      "timestamp_display": "30/07/2026 13:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 53, dirección Puebla. Reducción de carriles por atención de accidente (desenganche de remolque). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.316535689276865,
-      "lng": -98.7352781152541,
-      "road": 150,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082904193392574597#m",
-      "timestamp": "2026-07-30T19:00:32+00:00",
-      "timestamp_display": "30/07/2026 13:00 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección Querétaro, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082900676963713360#m",
-      "timestamp": "2026-07-30T18:46:34+00:00",
-      "timestamp_display": "30/07/2026 12:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 43, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 43,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082900490166149297#m",
-      "timestamp": "2026-07-30T18:45:49+00:00",
-      "timestamp_display": "30/07/2026 12:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Registra carga vehicular en dirección Acatzingo, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082899760810258809#m",
-      "timestamp": "2026-07-30T18:42:56+00:00",
-      "timestamp_display": "30/07/2026 12:42 CST",
       "segment": null
     }
   ]
