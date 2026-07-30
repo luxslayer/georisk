@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-07-30T11:15:55.701225",
+  "last_update": "2026-07-30T12:07:15.118005",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 131+600, de la carretera Paso del Toro-Acayucan, a la altura del Mpio. de San Andrés Tuxtla, con dirección a Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.02,
+      "lng": -96.13,
+      "road": null,
+      "km": 131.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082795075185090629#m",
+      "timestamp": "2026-07-30T11:46:57+00:00",
+      "timestamp_display": "30/07/2026 05:46 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Veracruz trasa #AccidenteVial cerca del km 000+500, de la carretera Tuxpan-Tampico, a la altura de la localidad de Tierra Blanca en el Mpio. de Tuxpan. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 0.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2082793248523751809#m",
+      "timestamp": "2026-07-30T11:39:41+00:00",
+      "timestamp_display": "30/07/2026 05:39 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Veracruz tras #Incendio cerca del km 013+950, de la carretera La Tinaja-Tierra Blanca, a la altura de el Mpio. de La Tinaja. Maneje con precaución.",
       "type": "twitter",
@@ -245,29 +271,81 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 004+350 de la carr. La Piedad-Sahuayo, con direccion al Mpio. El Venado. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264, dirección Córdoba. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 264,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2082796595381203414#m",
+      "timestamp": "2026-07-30T11:52:59+00:00",
+      "timestamp_display": "30/07/2026 05:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 4.35,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082613282242699518#m",
-      "timestamp": "2026-07-29T23:44:34+00:00",
-      "timestamp_display": "29/07/2026 17:44 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082662669656408494#m",
+      "timestamp": "2026-07-30T03:00:49+00:00",
+      "timestamp_display": "29/07/2026 21:00 CST",
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Morelos tras #AccidenteVial cerca del km 069+700, de la autopista México-Cuernavaca, con dirección a Cuernavaca. Maneje con precaución.",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Guamúchil - Guasave, Puente Sinaloa. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 69.7,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082795834203054521#m",
+      "timestamp": "2026-07-30T11:49:58+00:00",
+      "timestamp_display": "30/07/2026 05:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082795585824821398#m",
+      "timestamp": "2026-07-30T11:48:58+00:00",
+      "timestamp_display": "30/07/2026 05:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 75, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tEqxCxp8McsStBuAA",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 75,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2082751989444743315#m",
+      "timestamp": "2026-07-30T08:55:44+00:00",
+      "timestamp_display": "30/07/2026 02:55 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, km 75, dirección Querétaro. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 75,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2082609136643056088#m",
-      "timestamp": "2026-07-29T23:28:05+00:00",
-      "timestamp_display": "29/07/2026 17:28 CST",
+      "url": "https://nitter.net/CAPUFE/status/2082794810646098098#m",
+      "timestamp": "2026-07-30T11:45:53+00:00",
+      "timestamp_display": "30/07/2026 05:45 CST",
       "segment": null
     },
     {
@@ -352,19 +430,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082756093445353556#m",
       "timestamp": "2026-07-30T09:12:03+00:00",
       "timestamp_display": "30/07/2026 03:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 75, dirección Querétaro. Reducción de carriles por atención de choque por alcance múltiple entre tracto camiones. En la zona se registra carga vehicular. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/tEqxCxp8McsStBuAA",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 75,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082751989444743315#m",
-      "timestamp": "2026-07-30T08:55:44+00:00",
-      "timestamp_display": "30/07/2026 02:55 CST",
       "segment": null
     },
     {
@@ -517,61 +582,6 @@
       "url": "https://nitter.net/CAPUFE/status/2082722828852367600#m",
       "timestamp": "2026-07-30T06:59:52+00:00",
       "timestamp_display": "30/07/2026 00:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082722284272329102#m",
-      "timestamp": "2026-07-30T06:57:42+00:00",
-      "timestamp_display": "30/07/2026 00:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 18. Reducción de carriles en ambos sentidos por atención de accidente (choque de tracto camión contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082709797669880110#m",
-      "timestamp": "2026-07-30T06:08:05+00:00",
-      "timestamp_display": "30/07/2026 00:08 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 83, dirección Querétaro. Continúa reducción de carriles por atención de accidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 83,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2082695152649289938#m",
-      "timestamp": "2026-07-30T05:09:53+00:00",
-      "timestamp_display": "29/07/2026 23:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2082691509086781500#m",
-      "timestamp": "2026-07-30T04:55:24+00:00",
-      "timestamp_display": "29/07/2026 22:55 CST",
       "segment": null
     }
   ]
