@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-01T16:34:29.690901",
+  "last_update": "2026-08-01T17:08:14.253333",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Coahuila se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 018+077, de la carretera Libramiento Norponiente, a inmediaciones del Mpio. de Saltillo, con dirección a Saltillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 18.077,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083593380840300803#m",
+      "timestamp": "2026-08-01T16:39:07+00:00",
+      "timestamp_display": "01/08/2026 10:39 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 009+500, de la carretera Xalapa- Veracruz, a inmediaciones del Mpio. de Tres Pasos, con dirección a Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -252,17 +265,20 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 167+300, de la carretera Tuxtla Gutiérrez-Ciudad Cuauhtémoc, a la altura de le Comitán de Domínguez, Chis. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acayucan - Cosoleacaque, km 16, dirección Cosoleacaque. Reducción de carriles por incidente fuera de la cobertura de CAPUFE. Maneja con precaución.",
       "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
-      "road": null,
-      "km": 167.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083415075554033738#m",
-      "timestamp": "2026-08-01T04:50:36+00:00",
-      "timestamp_display": "31/07/2026 22:50 CST",
-      "segment": null
+      "lat": 17.92654168920675,
+      "lng": -94.79008143012109,
+      "road": 145,
+      "km": 16,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2083600621051978036#m",
+      "timestamp": "2026-08-01T17:07:54+00:00",
+      "timestamp_display": "01/08/2026 11:07 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducción de carriles por atención de accidente (choque de costado y volcadura). Maneja con precaución.",
@@ -518,19 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083449729908645992#m",
       "timestamp": "2026-08-01T07:08:18+00:00",
       "timestamp_display": "01/08/2026 01:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 0, dirección Cuautla. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083447409644851448#m",
-      "timestamp": "2026-08-01T06:59:05+00:00",
-      "timestamp_display": "01/08/2026 00:59 CST",
       "segment": null
     }
   ]
