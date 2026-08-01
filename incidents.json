@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-08-01T05:10:52.281519",
+  "last_update": "2026-08-01T06:12:29.649055",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 046+050, de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": 46.05,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083432585053487456#m",
+      "timestamp": "2026-08-01T06:00:11+00:00",
+      "timestamp_display": "01/08/2026 00:00 CST",
+      "segment": null
+    },
+    {
+      "title": "#PrecauciónVial en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 238+300, de la carretera Puebla-Córdoba, con dirección a Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.851672725276263,
+      "lng": -97.26951452809604,
+      "road": 150,
+      "km": 129.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083428450489053197#m",
+      "timestamp": "2026-08-01T05:43:45+00:00",
+      "timestamp_display": "31/07/2026 23:43 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#VialidadLibre en #Veracruz tras accidente cerca del km. 045+050, de la carretera Coatzacoalcos-Salina Cruz, con dirección a Acayucan, Ver. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.17,
+      "lng": -95.2,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083426511567102184#m",
+      "timestamp": "2026-08-01T05:36:03+00:00",
+      "timestamp_display": "31/07/2026 23:36 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Michoacán tras accidente cerca del km. 059+100, de la carretera Pátzcuaro-Uruapan. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083422497983115273#m",
+      "timestamp": "2026-08-01T05:20:06+00:00",
+      "timestamp_display": "31/07/2026 23:20 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Michoacán tras accidente cerca del km. 093+100, de la carretera Uruapan-Lázaro Cárdenas. Maneje con precaución.",
       "type": "twitter",
@@ -213,58 +268,55 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre total de la circulación tras #AccidenteVial cerca del km 242+800, de la carretera Puebla-Cordoba, a la altural municipio de Maltrata, Ver. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 94, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.827858594392108,
-      "lng": -97.25405537559435,
-      "road": 150,
-      "km": 133.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083292872028115180#m",
-      "timestamp": "2026-07-31T20:45:01+00:00",
-      "timestamp_display": "31/07/2026 14:45 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#PrecauciónVial en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 014+900, de la carretera Teziutlán-Nautla, a la altura del Mpio. Coxtoc, Pue. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 14.9,
+      "km": 94,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083277761452384418#m",
-      "timestamp": "2026-07-31T19:44:58+00:00",
-      "timestamp_display": "31/07/2026 13:44 CST",
+      "url": "https://nitter.net/CAPUFE/status/2083432172313047304#m",
+      "timestamp": "2026-08-01T05:58:32+00:00",
+      "timestamp_display": "31/07/2026 23:58 CST",
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Hidalgo tras accidente cerca del km. 105+650, de la carretera Libramiento Norte de la Ciudad de México, con dirección a Querétaro, Qro. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gtz. Zamora - Tihuatlán, km 211. Circulación intermitente en ambos sentidos por atención de accidente (choque por alcance). Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 211,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083276696795423001#m",
-      "timestamp": "2026-07-31T19:40:44+00:00",
-      "timestamp_display": "31/07/2026 13:40 CST",
+      "url": "https://nitter.net/CAPUFE/status/2083427879862276141#m",
+      "timestamp": "2026-08-01T05:41:29+00:00",
+      "timestamp_display": "31/07/2026 23:41 CST",
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 000+200, de la carretera Sayula de Alemán-Veracruz, a la altura de la localidad Rancho Pimiango, Ver., con dirección a Veracruz, Ver. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 177, dirección Acatzingo. Reducción de carriles por atención de incidente (desenganche de remolque). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 0.2,
+      "km": 177,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2083424661581226028#m",
+      "timestamp": "2026-08-01T05:28:42+00:00",
+      "timestamp_display": "31/07/2026 23:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cuauhtémoc - Osiris, km 75. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 75,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083276002982035628#m",
-      "timestamp": "2026-07-31T19:37:59+00:00",
-      "timestamp_display": "31/07/2026 13:37 CST",
+      "url": "https://nitter.net/CAPUFE/status/2083422758017310832#m",
+      "timestamp": "2026-08-01T05:21:08+00:00",
+      "timestamp_display": "31/07/2026 23:21 CST",
       "segment": null
     },
     {
@@ -482,77 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083394636538634328#m",
       "timestamp": "2026-08-01T03:29:23+00:00",
       "timestamp_display": "31/07/2026 21:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 127, dirección Acayucan. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). 🔘 Dirección Isla, se restablece la vialidad con reducción de carriles y carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 127,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083393120872313076#m",
-      "timestamp": "2026-08-01T03:23:22+00:00",
-      "timestamp_display": "31/07/2026 21:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 127, dirección Isla. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 127,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083390704852558270#m",
-      "timestamp": "2026-08-01T03:13:46+00:00",
-      "timestamp_display": "31/07/2026 21:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 18, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8392230465513,
-      "lng": -96.74484002007885,
-      "road": 150,
-      "km": 18,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2083390220146188457#m",
-      "timestamp": "2026-08-01T03:11:50+00:00",
-      "timestamp_display": "31/07/2026 21:11 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 9, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.861131694276807,
-      "lng": -96.82694197387126,
-      "road": 150,
-      "km": 9,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2083390149447033200#m",
-      "timestamp": "2026-08-01T03:11:33+00:00",
-      "timestamp_display": "31/07/2026 21:11 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. Durango - Mazatlán, registra #lluvia a la altura de la Plaza de Cobro Coscomate. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2083389005245136982#m",
-      "timestamp": "2026-08-01T03:07:01+00:00",
-      "timestamp_display": "31/07/2026 21:07 CST",
       "segment": null
     }
   ]
