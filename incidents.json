@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-01T21:05:53.408153",
+  "last_update": "2026-08-01T21:33:56.192929",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 154+000, de la carretera Villahermosa-Cd. del Carmen, a la altura de el Mpio. de Cd. del Carmen, con dirección a Villahermosa, Tab. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 154.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083662497005936809#m",
+      "timestamp": "2026-08-01T21:13:46+00:00",
+      "timestamp_display": "01/08/2026 15:13 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Campeche se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 028+900, de la carretera Cd. del Carmen-Campeche, a la altura de el Mpio. de Cd. del Carmen, con dirección a Cd. del Carmen. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 28.9,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083661939339632824#m",
+      "timestamp": "2026-08-01T21:11:33+00:00",
+      "timestamp_display": "01/08/2026 15:11 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 138+800, de la carretera Poza Rica-Veracruz, a la altura de el Mpio. de Vega de Alatorre, con dirección a Poza Rica. Atienda indicación vial.",
       "type": "twitter",
@@ -239,29 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre total de circulación tras #AccidenteVial cerca del km 081+700, de la carretera Pátzcuaro - Uruapan, a inmediaciones del Mpio. de El Tarascón, con dirección a Uruapan. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 105, dirección La Tinaja. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 81.7,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083575834518970871#m",
-      "timestamp": "2026-08-01T15:29:24+00:00",
-      "timestamp_display": "01/08/2026 09:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Guadalajara se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 172+500, de la carretera Lagos de Moreno-Guadalajara, a inmediaciones del municipio Guadalajara, con dirección a Guadalajara. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": 172.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083573276228387047#m",
-      "timestamp": "2026-08-01T15:19:14+00:00",
-      "timestamp_display": "01/08/2026 09:19 CST",
+      "km": 105,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2083662051587567876#m",
+      "timestamp": "2026-08-01T21:12:00+00:00",
+      "timestamp_display": "01/08/2026 15:12 CST",
       "segment": null
     },
     {
@@ -515,19 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083559159379657003#m",
       "timestamp": "2026-08-01T14:23:08+00:00",
       "timestamp_display": "01/08/2026 08:23 CST",
-      "segment": null
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ Respetar los límites de velocidad también es cuidar de las demás personas. 👉 Reduce la velocidad y conduce con responsabilidad. 🚙 Para auxilio vial, marca 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2083553343771971845#m",
-      "timestamp": "2026-08-01T14:00:02+00:00",
-      "timestamp_display": "01/08/2026 08:00 CST",
       "segment": null
     }
   ]
