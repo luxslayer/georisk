@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-01T15:08:04.515777",
+  "last_update": "2026-08-01T15:38:07.475494",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacán se registra cierre total de circulación tras #AccidenteVial cerca del km 081+700, de la carretera Pátzcuaro - Uruapan, a inmediaciones del Mpio. de El Tarascón, con dirección a Uruapan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 81.7,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083575834518970871#m",
+      "timestamp": "2026-08-01T15:29:24+00:00",
+      "timestamp_display": "01/08/2026 09:29 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Guadalajara se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 172+500, de la carretera Lagos de Moreno-Guadalajara, a inmediaciones del municipio Guadalajara, con dirección a Guadalajara. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 172.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083573276228387047#m",
+      "timestamp": "2026-08-01T15:19:14+00:00",
+      "timestamp_display": "01/08/2026 09:19 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 060+100, de la carretera Pátzcuaro-Uruapan, con dirección a Uruapan, Mich. Atienda indicación vial.",
       "type": "twitter",
@@ -236,35 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2083345829125816407#m",
       "timestamp": "2026-08-01T00:15:27+00:00",
       "timestamp_display": "31/07/2026 18:15 CST",
-      "segment": null
-    },
-    {
-      "title": "#VialidadLibre en #Puebla tras accidente cerca del km. 165+000, de la carretera Puebla-Córdoba. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": 150,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083343792250196343#m",
-      "timestamp": "2026-08-01T00:07:21+00:00",
-      "timestamp_display": "31/07/2026 18:07 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#PrecauciónVial en #Tabasco se registra cierre parcial de la circulación tras accidente cerca del km 007+000 de la carretera Coatzacoalcos-Villahermosa, a la altura de la Plaza de Cobro No. 176 Sánchez Magallanes, Tab., con dirección a Villahermosa, Tab. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 7.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083312397251445117#m",
-      "timestamp": "2026-07-31T22:02:36+00:00",
-      "timestamp_display": "31/07/2026 16:02 CST",
       "segment": null
     },
     {
