@@ -1,6 +1,58 @@
 {
-  "last_update": "2026-08-01T22:06:12.179426",
+  "last_update": "2026-08-01T22:34:06.209569",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 077+500, de la carretera Ent. La Tinaja-Cosoleacaque (directo), a la altura de el Mpio. de Cosamaloapan. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 77.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083680503895314510#m",
+      "timestamp": "2026-08-01T22:25:19+00:00",
+      "timestamp_display": "01/08/2026 16:25 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #SLP se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 008+800, de la carr. Cd. Valles - San Luis Potosí, a la altura del Ent. Ejido de la Pitahaya, con dirección a Cd. Valles. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 8.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083679936565408113#m",
+      "timestamp": "2026-08-01T22:23:04+00:00",
+      "timestamp_display": "01/08/2026 16:23 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tlaxacala se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 021+100, de la carretera Los Reyes-Zacatepec, a inmediaciones del Mpio. de Cuapiaxtla, con dirección a Zacatepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 21.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083678597059850257#m",
+      "timestamp": "2026-08-01T22:17:45+00:00",
+      "timestamp_display": "01/08/2026 16:17 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #EdoMex se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 001+180, de la carretera Peñon-Texcoco, a inmediaciones del Mpio. de Texcoco, con dirección a Texcoco. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 1.18,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083675826495619322#m",
+      "timestamp": "2026-08-01T22:06:44+00:00",
+      "timestamp_display": "01/08/2026 16:06 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 187+200, de la carretera Puebla-Córdoba (directo), a la altura de el Mpio. de Quecholac, con dirección a Orizaba. Atienda indicación vial.",
       "type": "twitter",
@@ -216,55 +268,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 117+200, de la carretera Poza Rica - Veracruz, a inmediaciones del Mpio. de Vega de a La Torre, con dirección a Poza Rica. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en ambos sentidos, sin reporte de incidente. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
-      "km": 117.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083587421740978313#m",
-      "timestamp": "2026-08-01T16:15:27+00:00",
-      "timestamp_display": "01/08/2026 10:15 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre intermitente de la circulación tras #AccidenteVial cerca del km 179+800, de la carretera Tuxpan - Tampico, a inmediaciones del Mpio. de Tampico Alto, con dirección a Tuxpan. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 179.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083586985919218050#m",
-      "timestamp": "2026-08-01T16:13:43+00:00",
-      "timestamp_display": "01/08/2026 10:13 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 199+000, de la carr. Atlacomulco - Maravatío, a inmediaciones del Mpio. San Miguel Las Palomas, con dirección a la plaza de cobro de Zinapécuaro. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.8002,
-      "lng": -99.8759,
-      "road": null,
-      "km": 199.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083582103229259786#m",
-      "timestamp": "2026-08-01T15:54:19+00:00",
-      "timestamp_display": "01/08/2026 09:54 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Yucatán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 201+600, de la carr. Kantunil-Pto. Juárez (Ent. Carr. Reforma Agraria-Pto. Juárez), a la altura del Poblado Santa Cruz, con dirección a Kantunil. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 31.69,
-      "lng": -106.42,
-      "road": null,
-      "km": 201.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083580152810729531#m",
-      "timestamp": "2026-08-01T15:46:34+00:00",
-      "timestamp_display": "01/08/2026 09:46 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2083682368582218139#m",
+      "timestamp": "2026-08-01T22:32:44+00:00",
+      "timestamp_display": "01/08/2026 16:32 CST",
       "segment": null
     },
     {
@@ -519,19 +532,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 134, dirección Isla. Reducción de carriles por atención de accidente (choque de costado y volcadura). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 134,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083581610780209268#m",
-      "timestamp": "2026-08-01T15:52:21+00:00",
-      "timestamp_display": "01/08/2026 09:52 CST",
-      "segment": null
     }
   ]
 }
