@@ -1,6 +1,61 @@
 {
-  "last_update": "2026-08-01T19:40:42.323505",
+  "last_update": "2026-08-01T20:10:01.708082",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 138+800, de la carretera Poza Rica-Veracruz, a la altura de el Mpio. de Vega de Alatorre, con dirección a Poza Rica. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 138.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083645375722725390#m",
+      "timestamp": "2026-08-01T20:05:44+00:00",
+      "timestamp_display": "01/08/2026 14:05 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 171+000, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura de el Mpio. de Sayula de Alemán, con dirección a Acayucan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.951639553704897,
+      "lng": -95.10110105158026,
+      "road": 145,
+      "km": 171.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083644200944357537#m",
+      "timestamp": "2026-08-01T20:01:04+00:00",
+      "timestamp_display": "01/08/2026 14:01 CST",
+      "segment": [
+        "la tinaja",
+        "acayucan"
+      ]
+    },
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 117+200, de la carretera Poza Rica - Veracruz, a inmediaciones del Mpio. de Vega de a La Torre. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 117.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083643234987712645#m",
+      "timestamp": "2026-08-01T19:57:14+00:00",
+      "timestamp_display": "01/08/2026 13:57 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Vaeracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 077+500, de la carretera Ent. La Tinaja-Cosoleacaque (directo), a la altura de el Mpio. de Cosamaloapan, con dirección a Ent. La Tinaja. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 77.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083642438418083963#m",
+      "timestamp": "2026-08-01T19:54:04+00:00",
+      "timestamp_display": "01/08/2026 13:54 CST",
+      "segment": null
+    },
     {
       "title": "#VíaLibre en #Michoacán tras #AccidenteVial cerca del km 081+700, de la carretera Pátzcuaro - Uruapan, a inmediaciones del Mpio. de El Tarascón. Maneje con precaución.",
       "type": "twitter",
@@ -210,55 +265,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 060+100, de la carretera Pátzcuaro-Uruapan, con dirección a Uruapan, Mich. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 78, dirección Isla. Continúa reducción de carriles por atención de accidente (incendio de camión de carga). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 60.1,
+      "km": 78,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083544010795155705#m",
-      "timestamp": "2026-08-01T13:22:57+00:00",
-      "timestamp_display": "01/08/2026 07:22 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 118+600, de la carretera Las Choapas-Ocozocoautla, con dirección a Ocozocoautla, Chis. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 118.6,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083530462501159045#m",
-      "timestamp": "2026-08-01T12:29:07+00:00",
-      "timestamp_display": "01/08/2026 06:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca continúa cierre parcial de la circulación tras #AccidenteVial cerca del km 177+500, de la carretera Coatzacoalcos-Salina Cruz. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 177.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083528797098246575#m",
-      "timestamp": "2026-08-01T12:22:29+00:00",
-      "timestamp_display": "01/08/2026 06:22 CST",
-      "segment": null
-    },
-    {
-      "title": "#VialidadLibre en #Zacatecas tras accidente cerca del km. 077+000 de la carretera Aguascalientes-Zacatecas, con dirección a Aguascalientes. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 21.8841,
-      "lng": -102.2918,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083527647825436801#m",
-      "timestamp": "2026-08-01T12:17:55+00:00",
-      "timestamp_display": "01/08/2026 06:17 CST",
+      "url": "https://nitter.net/CAPUFE/status/2083643182227628525#m",
+      "timestamp": "2026-08-01T19:57:01+00:00",
+      "timestamp_display": "01/08/2026 13:57 CST",
       "segment": null
     },
     {
@@ -509,19 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083549381299409209#m",
       "timestamp": "2026-08-01T13:44:17+00:00",
       "timestamp_display": "01/08/2026 07:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083543888392753276#m",
-      "timestamp": "2026-08-01T13:22:28+00:00",
-      "timestamp_display": "01/08/2026 07:22 CST",
       "segment": null
     }
   ]
