@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-08-01T16:07:41.004045",
+  "last_update": "2026-08-01T16:34:29.690901",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 009+500, de la carretera Xalapa- Veracruz, a inmediaciones del Mpio. de Tres Pasos, con dirección a Veracruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.3574,
+      "lng": -96.5341,
+      "road": 180,
+      "km": 9.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083591962666344523#m",
+      "timestamp": "2026-08-01T16:33:29+00:00",
+      "timestamp_display": "01/08/2026 10:33 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 117+200, de la carretera Poza Rica - Veracruz, a inmediaciones del Mpio. de Vega de a La Torre, con dirección a Poza Rica. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 117.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083587421740978313#m",
+      "timestamp": "2026-08-01T16:15:27+00:00",
+      "timestamp_display": "01/08/2026 10:15 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz se registra cierre intermitente de la circulación tras #AccidenteVial cerca del km 179+800, de la carretera Tuxpan - Tampico, a inmediaciones del Mpio. de Tampico Alto, con dirección a Tuxpan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 179.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083586985919218050#m",
+      "timestamp": "2026-08-01T16:13:43+00:00",
+      "timestamp_display": "01/08/2026 10:13 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 199+000, de la carr. Atlacomulco - Maravatío, a inmediaciones del Mpio. San Miguel Las Palomas, con dirección a la plaza de cobro de Zinapécuaro. Atienda indicación vial.",
       "type": "twitter",
@@ -223,45 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2083415075554033738#m",
       "timestamp": "2026-08-01T04:50:36+00:00",
       "timestamp_display": "31/07/2026 22:50 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 127+100, de la carretera La Tinaja-Cosoleacaque, a la altura de la localidad La Unión, Ver., con dirección a Cosoleacaque, Ver. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 127.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083407655603753105#m",
-      "timestamp": "2026-08-01T04:21:07+00:00",
-      "timestamp_display": "31/07/2026 22:21 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 032+400, de la carretera Pátzcuaro-Morelia, a la altura del municipio Pátzcuaro, Mich., con direccion a Morelia, Mich. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": 14,
-      "km": 32.4,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083366394880479638#m",
-      "timestamp": "2026-08-01T01:37:10+00:00",
-      "timestamp_display": "31/07/2026 19:37 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial de la circulacion tras #AccidenteVial cerca del km 100+550, de la carretera Tehuacán-Huajuapan de León, con dirección a Huajuapan de León, Oax. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 100.55,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083364870846587234#m",
-      "timestamp": "2026-08-01T01:31:06+00:00",
-      "timestamp_display": "31/07/2026 19:31 CST",
       "segment": null
     },
     {
