@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-02T12:08:43.256904",
+  "last_update": "2026-08-02T12:37:29.749937",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Chiapas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 106+500, de la carretera Villahermosa-Francisco Escárcega, a la altura de poblado Emilio Rabasa, con dirección a Villahermosa. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 106.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083893440694165997#m",
+      "timestamp": "2026-08-02T12:31:27+00:00",
+      "timestamp_display": "02/08/2026 06:31 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 065+500, de la carretera Celaya - Ojuelos, a inmediaciones de la localidad Los Magueyes, con dirección a Ojuelos. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 015+300, de la carretera Puebla-Tehuacán, a la altura de el Mpio. de Acajete, con dirección a Puebla. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 115, dirección Acapulco. Continúa reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 15.3,
+      "km": 115,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083718639555846338#m",
-      "timestamp": "2026-08-02T00:56:51+00:00",
-      "timestamp_display": "01/08/2026 18:56 CST",
+      "url": "https://nitter.net/CAPUFE/status/2083894446391787828#m",
+      "timestamp": "2026-08-02T12:35:27+00:00",
+      "timestamp_display": "02/08/2026 06:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 30, dirección CDMX. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 30,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083890138883453351#m",
+      "timestamp": "2026-08-02T12:18:20+00:00",
+      "timestamp_display": "02/08/2026 06:18 CST",
       "segment": null
     },
     {
@@ -486,32 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083800986687050221#m",
       "timestamp": "2026-08-02T06:24:05+00:00",
       "timestamp_display": "02/08/2026 00:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Navojoa - Cd. Obregón, km 211. Circulación en contraflujo por atención de accidente (volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 211,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083796015685964171#m",
-      "timestamp": "2026-08-02T06:04:19+00:00",
-      "timestamp_display": "02/08/2026 00:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 46, dirección Querétaro. Continúa reducción de carriles por atención de accidente (caída de motociclista). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083788817035563345#m",
-      "timestamp": "2026-08-02T05:35:43+00:00",
-      "timestamp_display": "01/08/2026 23:35 CST",
       "segment": null
     }
   ]
