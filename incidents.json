@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-02T21:34:02.010697",
+  "last_update": "2026-08-02T22:05:30.184733",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Hidalgo se registra cierre total en el retorno a Pachuca, Hgo., tras #AccidenteVial cerca del km 093+000, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Santa María el Chico, con dirección a Cd. Méx. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.09953010871264,
+      "lng": -98.71691919365544,
+      "road": 130,
+      "km": 93.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2084037847548596614#m",
+      "timestamp": "2026-08-02T22:05:17+00:00",
+      "timestamp_display": "02/08/2026 16:05 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 051+210, de la carretera Aut. Cardel-Poza Rica, a la altura del Mpio. de Las Paguas, con dirección a Poza Rica. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 052+400, de la carretera Coatzacoalcos-Salina Cruz, a inmediaciones del Mpio. Texistepec, con dirección a Jáltipan. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuauhtémoc - Osiris, km 90. Circulación intermitente en ambos sentidos por atención de accidente (choque de frente). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 52.4,
+      "km": 90,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083784671750496511#m",
-      "timestamp": "2026-08-02T05:19:15+00:00",
-      "timestamp_display": "01/08/2026 23:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2084037306365645147#m",
+      "timestamp": "2026-08-02T22:03:08+00:00",
+      "timestamp_display": "02/08/2026 16:03 CST",
       "segment": null
     },
     {
@@ -509,19 +522,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 115, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 115,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083946791200866472#m",
-      "timestamp": "2026-08-02T16:03:27+00:00",
-      "timestamp_display": "02/08/2026 10:03 CST",
-      "segment": null
     }
   ]
 }
