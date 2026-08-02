@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-02T17:08:15.650529",
+  "last_update": "2026-08-02T17:37:12.679721",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tamaulipas se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 031+500, de la carretera Tampico-Cd. Mante, a la altura del Mpio. de Altamira, con dirección a Altamira. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 31.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2083968003650072689#m",
+      "timestamp": "2026-08-02T17:27:44+00:00",
+      "timestamp_display": "02/08/2026 11:27 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 136+200, de la carretera México-Querétaro, a inmediaciones de la localidad de San Martín Tuchicuitlapilco, con dirección a Querétaro. Atienda indicación vial.",
       "type": "twitter",
@@ -252,19 +265,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2083748779044299236#m",
       "timestamp": "2026-08-02T02:56:37+00:00",
       "timestamp_display": "01/08/2026 20:56 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 015+300, de la carretera Puebla-Tehuacán, a la altura de el Mpio. de Acajete. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 15.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083748229812789412#m",
-      "timestamp": "2026-08-02T02:54:26+00:00",
-      "timestamp_display": "01/08/2026 20:54 CST",
       "segment": null
     },
     {
