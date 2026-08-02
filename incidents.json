@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-02T10:19:33.400888",
+  "last_update": "2026-08-02T11:01:13.368628",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 065+500, de la carretera Celaya - Ojuelos, a inmediaciones de la localidad Los Magueyes, con dirección a Ojuelos. Atienda indicación vial.",
@@ -268,6 +268,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 115, dirección Acapulco. Continúa reducción de carriles por atención de accidente (salida del camino de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 115,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083866166515163550#m",
+      "timestamp": "2026-08-02T10:43:05+00:00",
+      "timestamp_display": "02/08/2026 04:43 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 177, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance entre automóvil y autobús). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 177,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083865859265638422#m",
+      "timestamp": "2026-08-02T10:41:51+00:00",
+      "timestamp_display": "02/08/2026 04:41 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 106, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.93,
@@ -486,32 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083778894511923631#m",
       "timestamp": "2026-08-02T04:56:17+00:00",
       "timestamp_display": "01/08/2026 22:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 48, dirección CDMX. Reducción de carriles por atención de accidente (salida del camino de tracto camión y choque contra barreras metálicas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083773342998261849#m",
-      "timestamp": "2026-08-02T04:34:14+00:00",
-      "timestamp_display": "01/08/2026 22:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2083765103346762007#m",
-      "timestamp": "2026-08-02T04:01:29+00:00",
-      "timestamp_display": "01/08/2026 22:01 CST",
       "segment": null
     }
   ]
