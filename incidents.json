@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-02T11:40:25.496415",
+  "last_update": "2026-08-02T12:08:43.256904",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 065+500, de la carretera Celaya - Ojuelos, a inmediaciones de la localidad Los Magueyes, con dirección a Ojuelos. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Tampico, km 12. Circulación intermitente en ambos sentidos por atención de accidente (choque de costado entre automóviles). Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 12,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083882697420579121#m",
+      "timestamp": "2026-08-02T11:48:46+00:00",
+      "timestamp_display": "02/08/2026 05:48 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 113, dirección Querétaro. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -499,19 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083788817035563345#m",
       "timestamp": "2026-08-02T05:35:43+00:00",
       "timestamp_display": "01/08/2026 23:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 48, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083784827463987218#m",
-      "timestamp": "2026-08-02T05:19:52+00:00",
-      "timestamp_display": "01/08/2026 23:19 CST",
       "segment": null
     }
   ]
