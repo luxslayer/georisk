@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-08-02T22:05:30.184733",
+  "last_update": "2026-08-02T22:34:21.549026",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 096+600, de la carretera México - Puebla, a la altura del Mpio. de San Martin Texmelucan. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.24682847831197,
+      "lng": -98.39132842766678,
+      "road": 150,
+      "km": 78.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2084038407001706698#m",
+      "timestamp": "2026-08-02T22:07:30+00:00",
+      "timestamp_display": "02/08/2026 16:07 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Hidalgo se registra cierre total en el retorno a Pachuca, Hgo., tras #AccidenteVial cerca del km 093+000, de la carretera Pachuca - Tuxpan, a la altura del Mpio. de Santa María el Chico, con dirección a Cd. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +271,32 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Guanajuato se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 030+100, de la carretera Noria-Acámbaro, a inmediaciones de la localidad El Cerro Prieto, con dirección a Jerécuaro. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Isla - Cosoleacaque, Plaza de Cobro Acayucan, dirección Cosoleacaque. Registra carga vehicular, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": 145,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084043342703210754#m",
+      "timestamp": "2026-08-02T22:27:07+00:00",
+      "timestamp_display": "02/08/2026 16:27 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 100 al 98, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 30.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2083785644401156278#m",
-      "timestamp": "2026-08-02T05:23:07+00:00",
-      "timestamp_display": "01/08/2026 23:23 CST",
+      "km": 100,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084039116568559937#m",
+      "timestamp": "2026-08-02T22:10:19+00:00",
+      "timestamp_display": "02/08/2026 16:10 CST",
       "segment": null
     },
     {
@@ -502,22 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083954394094018917#m",
       "timestamp": "2026-08-02T16:33:40+00:00",
       "timestamp_display": "02/08/2026 10:33 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Nuevo Teapa - Cosoleacaque, km 17. Circulación intermitente en ambos sentidos, por atención de incidente, (tracto camión con falla mecánica). En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.014957284594626,
-      "lng": -94.45221223111746,
-      "road": 180,
-      "km": 17,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2083951424484839655#m",
-      "timestamp": "2026-08-02T16:21:52+00:00",
-      "timestamp_display": "02/08/2026 10:21 CST",
       "segment": [
         "nuevo teapa",
         "cosoleacaque"
