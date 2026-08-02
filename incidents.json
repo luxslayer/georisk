@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-02T16:34:19.275867",
+  "last_update": "2026-08-02T17:08:15.650529",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 136+200, de la carretera México-Querétaro, a inmediaciones de la localidad de San Martín Tuchicuitlapilco, con dirección a Querétaro. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 113, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 113,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083958480612811134#m",
+      "timestamp": "2026-08-02T16:49:54+00:00",
+      "timestamp_display": "02/08/2026 10:49 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Nuevo Teapa - Cosoleacaque, km 17. El incidente ha sido atendido. Sin embargo, continúa la circulación en contraflujo por labores de mantenimiento sobre el Puente Ing. Antonio Dovalí Jaime. En la zona se registra carga vehicular. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.014957284594626,
@@ -479,19 +492,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083882697420579121#m",
       "timestamp": "2026-08-02T11:48:46+00:00",
       "timestamp_display": "02/08/2026 05:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 113, dirección Querétaro. Continúa reducción de carriles por atención de accidente (trasvase de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 113,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083876897914532349#m",
-      "timestamp": "2026-08-02T11:25:43+00:00",
-      "timestamp_display": "02/08/2026 05:25 CST",
       "segment": null
     }
   ]
