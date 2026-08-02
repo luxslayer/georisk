@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-02T08:54:24.591727",
+  "last_update": "2026-08-02T09:41:45.034899",
   "incidents": [
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 113+800, de la carretera México - Querétaro, a inmediaciones del Mpio. El Rosal, con dirección a Querétaro. Atienda indicación vial.",
@@ -268,6 +268,45 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 106, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 106,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083849146243395883#m",
+      "timestamp": "2026-08-02T09:35:27+00:00",
+      "timestamp_display": "02/08/2026 03:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 28, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083847577661767924#m",
+      "timestamp": "2026-08-02T09:29:13+00:00",
+      "timestamp_display": "02/08/2026 03:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 106, dirección Acapulco. Reducción de carriles por atención de accidente (salida del camino y choque contra muro central de automóvil). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 106,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2083842578697359615#m",
+      "timestamp": "2026-08-02T09:09:21+00:00",
+      "timestamp_display": "02/08/2026 03:09 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Durango - Mazatlán, km 200. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.24,
@@ -473,58 +512,6 @@
       "url": "https://nitter.net/CAPUFE/status/2083765103346762007#m",
       "timestamp": "2026-08-02T04:01:29+00:00",
       "timestamp_display": "01/08/2026 22:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Rumorosa - Tecate, km 78, dirección La Rumorosa. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 78,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083764626357977116#m",
-      "timestamp": "2026-08-02T03:59:36+00:00",
-      "timestamp_display": "01/08/2026 21:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 45, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083762890926866593#m",
-      "timestamp": "2026-08-02T03:52:42+00:00",
-      "timestamp_display": "01/08/2026 21:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 200. Continúa cierre a la circulación en ambos sentidos por atención de incidente. 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Mesillas y Coscomate permanecerán cerradas. Para más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 200,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2083762595471781905#m",
-      "timestamp": "2026-08-02T03:51:31+00:00",
-      "timestamp_display": "01/08/2026 21:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Rumorosa - Tecate, km 78, dirección La Rumorosa. Continúa reducción de carriles por atención de accidente (choque contra muro central). Dirección Tecate, opera de manera normal. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 78,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2083760769099800866#m",
-      "timestamp": "2026-08-02T03:44:16+00:00",
-      "timestamp_display": "01/08/2026 21:44 CST",
       "segment": null
     }
   ]
