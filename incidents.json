@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T10:29:28.012879",
+  "last_update": "2026-08-03T11:45:02.532732",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 011+800, de la carretera Tehuacán-Córdoba, a la altura del Mpio. de Santa Ana, con dirección a Tehuacán. Atienda indicación vial.",
@@ -277,6 +277,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 94, dirección Veracruz. Reducción de carriles por atención de accidente (choque contra semoviente). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.086167217775806,
+      "lng": -96.19533051684003,
+      "road": 150,
+      "km": 94,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084225791781392755#m",
+      "timestamp": "2026-08-03T10:32:06+00:00",
+      "timestamp_display": "03/08/2026 04:32 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -514,19 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084127947942764915#m",
       "timestamp": "2026-08-03T04:03:18+00:00",
       "timestamp_display": "02/08/2026 22:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 37, dirección Cuernavaca. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 37,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084118769580822706#m",
-      "timestamp": "2026-08-03T03:26:50+00:00",
-      "timestamp_display": "02/08/2026 21:26 CST",
       "segment": null
     }
   ]
