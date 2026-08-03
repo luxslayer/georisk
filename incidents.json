@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T22:09:13.573684",
+  "last_update": "2026-08-03T22:36:08.277907",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Puebla se registra cierre total de circulación tras presencia de personas cerca del Km 096+200 de la carretera Puebla-Tehuacán. Se orienta a la ciudadanía #Rutaalterna por la carretera Tecamachalco-Cañada Morelos, con dirección Tehuacán.",
@@ -274,6 +274,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cd. Mendoza - Córdoba, km 264, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 264,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084402161270607957#m",
+      "timestamp": "2026-08-03T22:12:56+00:00",
+      "timestamp_display": "03/08/2026 16:12 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chamapa - Lechería, km 8, dirección Lechería. Continúa reducción de carriles por atención de incidente (caída de carga). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -514,45 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084368438990876740#m",
       "timestamp": "2026-08-03T19:58:56+00:00",
       "timestamp_display": "03/08/2026 13:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Poniente Tampico, km 6. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/2GqUJwY5Vr6f8496A",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 6,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084337612559360026#m",
-      "timestamp": "2026-08-03T17:56:26+00:00",
-      "timestamp_display": "03/08/2026 11:56 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Poniente Tampico, km 6. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución. Para más información, llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 6,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084349921818231205#m",
-      "timestamp": "2026-08-03T18:45:21+00:00",
-      "timestamp_display": "03/08/2026 12:45 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Libramiento Poniente Tampico, km 6. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 6,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084367134998639035#m",
-      "timestamp": "2026-08-03T19:53:45+00:00",
-      "timestamp_display": "03/08/2026 13:53 CST",
       "segment": null
     }
   ]
