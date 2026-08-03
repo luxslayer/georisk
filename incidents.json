@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T20:32:42.855358",
+  "last_update": "2026-08-03T21:08:50.464080",
   "incidents": [
     {
       "title": "#Tomeprecaciones en #Tlaxcala se registra cierre parcial de la circulación tras #AccidenteVial cerca del Km 028+900 de la carretera México - Puebla a la altura del Mpio. San Esteban Tizatlán, Tlax. Atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 54, dirección CDMX. Concluyen labores de mantenimiento, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 54,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084385835319808430#m",
+      "timestamp": "2026-08-03T21:08:03+00:00",
+      "timestamp_display": "03/08/2026 15:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 54, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento (poda de árboles). Circulación lenta en la zona. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 54,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084379535294804142#m",
+      "timestamp": "2026-08-03T20:43:01+00:00",
+      "timestamp_display": "03/08/2026 14:43 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264. Reducción de carriles en ambos sentidos por atención de incidente (caída de carga). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.8885,
@@ -479,32 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084312732250087866#m",
       "timestamp": "2026-08-03T16:17:34+00:00",
       "timestamp_display": "03/08/2026 10:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧🚑 En autopistas de #CAPUFE, los servicios de apoyo son gratuitos. No permitas abusos. Si alguien solicita dinero por brindarte asistencia, denuncia de inmediato. 👉 800 990 2900 📩 quejas@capufe.gob.mx #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084311762501874048#m",
-      "timestamp": "2026-08-03T16:13:43+00:00",
-      "timestamp_display": "03/08/2026 10:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Querétaro - Irapuato, km 37, dirección Querétaro. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084311331709091889#m",
-      "timestamp": "2026-08-03T16:12:00+00:00",
-      "timestamp_display": "03/08/2026 10:12 CST",
       "segment": null
     }
   ]
