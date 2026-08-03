@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T09:12:18.088395",
+  "last_update": "2026-08-03T10:29:28.012879",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 011+800, de la carretera Tehuacán-Córdoba, a la altura del Mpio. de Santa Ana, con dirección a Tehuacán. Atienda indicación vial.",
@@ -277,6 +277,45 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084220677192610013#m",
+      "timestamp": "2026-08-03T10:11:47+00:00",
+      "timestamp_display": "03/08/2026 04:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 34. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084213427224916243#m",
+      "timestamp": "2026-08-03T09:42:58+00:00",
+      "timestamp_display": "03/08/2026 03:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 34. Circulación en contraflujo por atención de accidente (choque de costado entre tracto camión y automóvil). Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084210460564328565#m",
+      "timestamp": "2026-08-03T09:31:11+00:00",
+      "timestamp_display": "03/08/2026 03:31 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -488,45 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084118769580822706#m",
       "timestamp": "2026-08-03T03:26:50+00:00",
       "timestamp_display": "02/08/2026 21:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Magdalena - Nogales, km 217, dirección Nogales. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 217,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084118349189960112#m",
-      "timestamp": "2026-08-03T03:25:10+00:00",
-      "timestamp_display": "02/08/2026 21:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 37, dirección Cuernavaca. Reducción de carriles por atención de incidente (autobús con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 37,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084116300251439123#m",
-      "timestamp": "2026-08-03T03:17:01+00:00",
-      "timestamp_display": "02/08/2026 21:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Magdalena - Nogales, km 217, dirección Nogales. Cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 217,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084111713926820056#m",
-      "timestamp": "2026-08-03T02:58:48+00:00",
-      "timestamp_display": "02/08/2026 20:58 CST",
       "segment": null
     }
   ]
