@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-03T23:08:47.349389",
+  "last_update": "2026-08-03T23:38:27.017994",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Michoacán se registra cierre total de circulación en ambos sentidos cerca del Km 080+000 de la carretera Uruapan-Pátzcuaro con dirección Uruapan Pátzcuaro, Mich. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": null,
+      "km": 80.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2084418107381080163#m",
+      "timestamp": "2026-08-03T23:16:18+00:00",
+      "timestamp_display": "03/08/2026 17:16 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación cerca del Km 080+000 de la carretera Zihuatanejo-La Mira con dirección a Petacalco Gro. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 80.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2084417188476117271#m",
+      "timestamp": "2026-08-03T23:12:38+00:00",
+      "timestamp_display": "03/08/2026 17:12 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Querétaro tras cierre parcial a la circulación por #AccidenteVial cerca del km 047+800, de la carretera Macrolibramiento-Querétaro. Maneje con precaución.",
       "type": "twitter",
@@ -245,32 +271,16 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 144+820, de la carretera Puebla - Córdoba, a la altura de la localidad de Puebla. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al 98, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.045472604286253,
-      "lng": -98.01716514655968,
-      "road": 150,
-      "km": 35.81999999999999,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2084138913015517576#m",
-      "timestamp": "2026-08-03T04:46:52+00:00",
-      "timestamp_display": "02/08/2026 22:46 CST",
-      "segment": [
-        "puebla",
-        "cordoba"
-      ]
-    },
-    {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 209+500, de la carretera Pachuca Tuxpan, a la altura del Mpio. de Buena Vista, con dirección a Poza Rica. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.54,
-      "lng": -98.07,
-      "road": 130,
-      "km": 209.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2084137928884924670#m",
-      "timestamp": "2026-08-03T04:42:58+00:00",
-      "timestamp_display": "02/08/2026 22:42 CST",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 99,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084423044861231519#m",
+      "timestamp": "2026-08-03T23:35:55+00:00",
+      "timestamp_display": "03/08/2026 17:35 CST",
       "segment": null
     },
     {
@@ -514,19 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084374225658241327#m",
       "timestamp": "2026-08-03T20:21:55+00:00",
       "timestamp_display": "03/08/2026 14:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Querétaro - Irapuato, km 37, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 37,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084371931248185380#m",
-      "timestamp": "2026-08-03T20:12:48+00:00",
-      "timestamp_display": "03/08/2026 14:12 CST",
       "segment": null
     }
   ]
