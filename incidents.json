@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-08-03T07:55:26.037087",
+  "last_update": "2026-08-03T09:12:18.088395",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Puebla se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 011+800, de la carretera Tehuacán-Córdoba, a la altura del Mpio. de Santa Ana, con dirección a Tehuacán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.1747523,
+      "lng": -98.3074135,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2084201803839848878#m",
+      "timestamp": "2026-08-03T08:56:47+00:00",
+      "timestamp_display": "03/08/2026 02:56 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 057+500, de la carretera Tuxpan-Tampico, a inmediaciones de la localidad de La Ceiba, a la altura del Mpio. de Cerro Azul, con dirección a Tampico. Atienda indicación vial.",
       "type": "twitter",
@@ -261,16 +277,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Querétaro se registra cierre parcial de la circulación tras #AccidenteVial cerca del km 153+200, de la carretera México - Querétaro, a la altura de Portezuelo Palmillas, con direccion a Huichapan. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 88, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
+      "lat": 18.7603,
+      "lng": -96.4616,
       "road": null,
-      "km": 153.2,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2084054601603396018#m",
-      "timestamp": "2026-08-02T23:11:51+00:00",
-      "timestamp_display": "02/08/2026 17:11 CST",
+      "km": 88,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084190079245861210#m",
+      "timestamp": "2026-08-03T08:10:11+00:00",
+      "timestamp_display": "03/08/2026 02:10 CST",
       "segment": null
     },
     {
@@ -511,19 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084111713926820056#m",
       "timestamp": "2026-08-03T02:58:48+00:00",
       "timestamp_display": "02/08/2026 20:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084110870401982668#m",
-      "timestamp": "2026-08-03T02:55:27+00:00",
-      "timestamp_display": "02/08/2026 20:55 CST",
       "segment": null
     }
   ]
