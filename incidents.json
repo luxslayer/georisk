@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T11:08:19.851019",
+  "last_update": "2026-08-04T11:56:35.964298",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 016+800 de la autopista Libramiento Norte. Atienda indicación vial.",
@@ -271,6 +271,61 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Córdoba - Veracruz, km 58, dirección Veracruz. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.81904512737901,
+      "lng": -96.38780460000115,
+      "road": 150,
+      "km": 58,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084607388842082685#m",
+      "timestamp": "2026-08-04T11:48:26+00:00",
+      "timestamp_display": "04/08/2026 05:48 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 129, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino y choque de costado entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 129,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084602729536557479#m",
+      "timestamp": "2026-08-04T11:29:55+00:00",
+      "timestamp_display": "04/08/2026 05:29 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Isla - Acayucan, km 128, dirección Isla. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084602246285717640#m",
+      "timestamp": "2026-08-04T11:28:00+00:00",
+      "timestamp_display": "04/08/2026 05:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 87, dirección Isla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084600246286332325#m",
+      "timestamp": "2026-08-04T11:20:03+00:00",
+      "timestamp_display": "04/08/2026 05:20 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Reducción de carriles por atención de choque por alcance entre tracto camión y autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/vmA4RNtw51UnAdwNA",
       "type": "twitter",
       "lat": 23.5,
@@ -450,45 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084501021313675519#m",
       "timestamp": "2026-08-04T04:45:46+00:00",
       "timestamp_display": "03/08/2026 22:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de tracto camión tipo pipa). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 87,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084497121663652278#m",
-      "timestamp": "2026-08-04T04:30:16+00:00",
-      "timestamp_display": "03/08/2026 22:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 83, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 83,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084494029916364861#m",
-      "timestamp": "2026-08-04T04:17:59+00:00",
-      "timestamp_display": "03/08/2026 22:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #CuernavacaAcapulco 🚧 Del 4 de agosto al 3 de septiembre se realizarán trabajos para la construcción de un muro monolítico del kilómetro 328 al 329, dirección Cuernavaca. Anticipe sus tiempos de traslado y maneje con precaución. #CAPUFEInforma",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084493446539010050#m",
-      "timestamp": "2026-08-04T04:15:40+00:00",
-      "timestamp_display": "03/08/2026 22:15 CST",
       "segment": null
     }
   ]
