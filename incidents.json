@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T09:14:12.285327",
+  "last_update": "2026-08-04T10:13:37.307116",
   "incidents": [
     {
       "title": "#ViaLibre en #Tamaulipas tras cierre total de circulación por presencia de personas cerca del Km 011+600 de la carretera Matamoros-Reynosa. Maneje con precaución.",
@@ -271,6 +271,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Reducción de carriles por atención de choque por alcance entre tracto camión y autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/vmA4RNtw51UnAdwNA",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 94,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084539159222358515#m",
+      "timestamp": "2026-08-04T07:17:19+00:00",
+      "timestamp_display": "04/08/2026 01:17 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Se informa a las personas usuarias que se registra circulación a contraflujo. El personal continúa laborando en la atención del accidente (atención de lesionados). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 94,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084546882018136526#m",
+      "timestamp": "2026-08-04T07:48:00+00:00",
+      "timestamp_display": "04/08/2026 01:48 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Se informa a las personas usuarias que continúa circulación a contraflujo. El personal de CAPUFE y Bomberos continúan en la zona realizando las labores de atención del accidente. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 94,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084578312957891018#m",
+      "timestamp": "2026-08-04T09:52:54+00:00",
+      "timestamp_display": "04/08/2026 03:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 87, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084575266400018527#m",
+      "timestamp": "2026-08-04T09:40:47+00:00",
+      "timestamp_display": "04/08/2026 03:40 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Isla - Acayucan, km 128, dirección Isla. Cierre de circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 17.94,
@@ -320,32 +372,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084553259138568595#m",
       "timestamp": "2026-08-04T08:13:20+00:00",
       "timestamp_display": "04/08/2026 02:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Reducción de carriles por atención de choque por alcance entre tracto camión y autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/vmA4RNtw51UnAdwNA",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 94,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084539159222358515#m",
-      "timestamp": "2026-08-04T07:17:19+00:00",
-      "timestamp_display": "04/08/2026 01:17 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Se informa a las personas usuarias que se registra circulación a contraflujo. El personal continúa laborando en la atención del accidente (atención de lesionados). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084546882018136526#m",
-      "timestamp": "2026-08-04T07:48:00+00:00",
-      "timestamp_display": "04/08/2026 01:48 CST",
       "segment": null
     },
     {
@@ -476,35 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084491133162344660#m",
       "timestamp": "2026-08-04T04:06:28+00:00",
       "timestamp_display": "03/08/2026 22:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 91, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.06400718925105,
-      "lng": -96.21161187026554,
-      "road": 150,
-      "km": 91,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084481401517216117#m",
-      "timestamp": "2026-08-04T03:27:48+00:00",
-      "timestamp_display": "03/08/2026 21:27 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Chamapa - Lechería, Plaza de Cobro Chamapa, dirección Chamapa. La incidencia ha sido atendida. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084476851238363345#m",
-      "timestamp": "2026-08-04T03:09:43+00:00",
-      "timestamp_display": "03/08/2026 21:09 CST",
       "segment": null
     }
   ]
