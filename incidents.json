@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T12:47:26.239359",
+  "last_update": "2026-08-04T13:36:11.466320",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 129+100 de la carretera La Tinaja-Cosoleacaque a la altura del Mpio. La Unión. Atienda indicación vial.",
@@ -271,6 +271,32 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Acayucan, km 129, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 129,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084634087050899463#m",
+      "timestamp": "2026-08-04T13:34:31+00:00",
+      "timestamp_display": "04/08/2026 07:34 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 162, dirección Acapulco. Reducción de carriles por atención de incidente (unidad con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 162,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084623628419653907#m",
+      "timestamp": "2026-08-04T12:52:58+00:00",
+      "timestamp_display": "04/08/2026 06:52 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 298, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -492,19 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084524602416316575#m",
       "timestamp": "2026-08-04T06:19:28+00:00",
       "timestamp_display": "04/08/2026 00:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #MéxicoCuernavaca, km 21. Registra circulación en contraflujo por labores de mantenimiento. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 21,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084524021266202891#m",
-      "timestamp": "2026-08-04T06:17:09+00:00",
-      "timestamp_display": "04/08/2026 00:17 CST",
       "segment": null
     }
   ]
