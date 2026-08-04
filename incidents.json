@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T07:10:14.880663",
+  "last_update": "2026-08-04T08:05:04.803350",
   "incidents": [
     {
       "title": "#ViaLibre en #Tamaulipas tras cierre total de circulación por presencia de personas cerca del Km 011+600 de la carretera Matamoros-Reynosa. Maneje con precaución.",
@@ -271,29 +271,29 @@
       "segment": null
     },
     {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 41, dirección Guaymas. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y autobús). Maneja con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Reducción de carriles por atención de choque por alcance entre tracto camión y autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/vmA4RNtw51UnAdwNA",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 41,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084530124611858727#m",
-      "timestamp": "2026-08-04T06:41:25+00:00",
-      "timestamp_display": "04/08/2026 00:41 CST",
+      "km": 94,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084539159222358515#m",
+      "timestamp": "2026-08-04T07:17:19+00:00",
+      "timestamp_display": "04/08/2026 01:17 CST",
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 41, dirección Guaymas. Se informa a las personas usuarias que continúa reducción de carriles por atención de accidente. (choque por alcance entre tracto camión y autobús). 🔘 Personal de emergencia de distintas dependencias, realizan las labores de atención a lesionados en la zona. Atiende las indicaciones viales y maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/vmA4RNtw51UnAdwNA",
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Se informa a las personas usuarias que se registra circulación a contraflujo. El personal continúa laborando en la atención del accidente (atención de lesionados). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 41,
+      "km": 94,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084536521873408312#m",
-      "timestamp": "2026-08-04T07:06:50+00:00",
-      "timestamp_display": "04/08/2026 01:06 CST",
+      "url": "https://nitter.net/CAPUFE/status/2084546882018136526#m",
+      "timestamp": "2026-08-04T07:48:00+00:00",
+      "timestamp_display": "04/08/2026 01:48 CST",
       "segment": null
     },
     {
