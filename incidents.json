@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T08:05:04.803350",
+  "last_update": "2026-08-04T09:14:12.285327",
   "incidents": [
     {
       "title": "#ViaLibre en #Tamaulipas tras cierre total de circulación por presencia de personas cerca del Km 011+600 de la carretera Matamoros-Reynosa. Maneje con precaución.",
@@ -271,6 +271,58 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Isla - Acayucan, km 128, dirección Isla. Cierre de circulación por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 128,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084566268292526457#m",
+      "timestamp": "2026-08-04T09:05:02+00:00",
+      "timestamp_display": "04/08/2026 03:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 129, dirección Isla. Reducción de carriles por atención de accidente (salida del camino y choque de costado entre tracto camiones). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 129,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084562677221732645#m",
+      "timestamp": "2026-08-04T08:50:46+00:00",
+      "timestamp_display": "04/08/2026 02:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 96, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 96,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084560214657753243#m",
+      "timestamp": "2026-08-04T08:40:59+00:00",
+      "timestamp_display": "04/08/2026 02:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 87, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión tipo pipa). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 87,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084553259138568595#m",
+      "timestamp": "2026-08-04T08:13:20+00:00",
+      "timestamp_display": "04/08/2026 02:13 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Obregón - Guaymas, km 94, dirección Guaymas. Reducción de carriles por atención de choque por alcance entre tracto camión y autobús. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/vmA4RNtw51UnAdwNA",
       "type": "twitter",
       "lat": 23.5,
@@ -453,61 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084476851238363345#m",
       "timestamp": "2026-08-04T03:09:43+00:00",
       "timestamp_display": "03/08/2026 21:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 91, dirección Córdoba. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.06400718925105,
-      "lng": -96.21161187026554,
-      "road": 150,
-      "km": 91,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084475816734257290#m",
-      "timestamp": "2026-08-04T03:05:37+00:00",
-      "timestamp_display": "03/08/2026 21:05 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 83, dirección La Tinaja. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 83,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084473983731187988#m",
-      "timestamp": "2026-08-04T02:58:20+00:00",
-      "timestamp_display": "03/08/2026 20:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Cosoleacaque, km 35, dirección Isla. Reducción de carriles por atención de accidente (salida del camino de tracto camión y choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084473205364789417#m",
-      "timestamp": "2026-08-04T02:55:14+00:00",
-      "timestamp_display": "03/08/2026 20:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 64, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 64,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084469493036671145#m",
-      "timestamp": "2026-08-04T02:40:29+00:00",
-      "timestamp_display": "03/08/2026 20:40 CST",
       "segment": null
     }
   ]
