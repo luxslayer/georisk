@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T23:38:27.017994",
+  "last_update": "2026-08-04T00:09:19.647573",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Michoacán se registra cierre total de circulación en ambos sentidos cerca del Km 080+000 de la carretera Uruapan-Pátzcuaro con dirección Uruapan Pátzcuaro, Mich. Atienda indicación vial.",
@@ -271,6 +271,32 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoQuerétaro, registra #lluvia a la altura de la Plaza de Cobro Palmillas. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084431142057284015#m",
+      "timestamp": "2026-08-04T00:08:05+00:00",
+      "timestamp_display": "03/08/2026 18:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Aut. Chamapa - Lechería, km 8, dirección Lechería. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 8,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084429447092933092#m",
+      "timestamp": "2026-08-04T00:01:21+00:00",
+      "timestamp_display": "03/08/2026 18:01 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al 98, sin reporte de incidentes. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -498,32 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084385835319808430#m",
       "timestamp": "2026-08-03T21:08:03+00:00",
       "timestamp_display": "03/08/2026 15:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 54, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento (poda de árboles). Circulación lenta en la zona. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 54,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084379535294804142#m",
-      "timestamp": "2026-08-03T20:43:01+00:00",
-      "timestamp_display": "03/08/2026 14:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 264. Reducción de carriles en ambos sentidos por atención de incidente (caída de carga). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 264,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084374225658241327#m",
-      "timestamp": "2026-08-03T20:21:55+00:00",
-      "timestamp_display": "03/08/2026 14:21 CST",
       "segment": null
     }
   ]
