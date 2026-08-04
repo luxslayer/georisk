@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-04T19:12:57.687773",
+  "last_update": "2026-08-04T19:53:14.214673",
   "incidents": [
+    {
+      "title": "#VíaLibre en #EdoMéx tras retiro de personas, cerca del Km 083+900, de la carretera México-Querétaro, a la altura de la localidad de Ojo de Agua. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 83.9,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2084723753045332009#m",
+      "timestamp": "2026-08-04T19:30:49+00:00",
+      "timestamp_display": "04/08/2026 13:30 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomeloEnCuenta en #Coahuila se registra cierre total de la circulación por deslave de talud, cerca del km 042+000, de la carretera Saltillo Torreón, a la altura de la localidad de San Juan del Cohetero, con dirección a Saltillo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 42.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2084722891225010435#m",
+      "timestamp": "2026-08-04T19:27:24+00:00",
+      "timestamp_display": "04/08/2026 13:27 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del Km 015+300, de la carretera México-Tizayuca, a inmediaciones del Mpio. de Ecatepec de Morelos, con dirección a Cd. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -242,33 +268,46 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del Km 028+900 de la carretera México - Puebla. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.290489989133228,
-      "lng": -98.91626219713672,
-      "road": 150,
-      "km": 10.899999999999999,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2084488852941459653#m",
-      "timestamp": "2026-08-04T03:57:25+00:00",
-      "timestamp_display": "03/08/2026 21:57 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "#Tomeprecauciones en #Queretaro se registran fuertes lluvias a la altura de la caseta de cobro No. 5 Palmillas Maneje con precaución.",
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, km 35, dirección CDMX. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
       "lng": -100.3899,
       "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2084483477106196700#m",
-      "timestamp": "2026-08-04T03:36:03+00:00",
-      "timestamp_display": "03/08/2026 21:36 CST",
+      "km": 35,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084728382088937631#m",
+      "timestamp": "2026-08-04T19:49:13+00:00",
+      "timestamp_display": "04/08/2026 13:49 CST",
       "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 246, dirección Cd. Mendoza. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 246,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084727917448143258#m",
+      "timestamp": "2026-08-04T19:47:22+00:00",
+      "timestamp_display": "04/08/2026 13:47 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, km 86, dirección Puebla. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.296573827757868,
+      "lng": -98.47626643910377,
+      "road": 150,
+      "km": 68,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084720946217136226#m",
+      "timestamp": "2026-08-04T19:19:40+00:00",
+      "timestamp_display": "04/08/2026 13:19 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 60, dirección Irapuato. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
@@ -502,48 +541,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084672610483183756#m",
       "timestamp": "2026-08-04T16:07:36+00:00",
       "timestamp_display": "04/08/2026 10:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 60, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino de tracto camión). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084670286339719666#m",
-      "timestamp": "2026-08-04T15:58:22+00:00",
-      "timestamp_display": "04/08/2026 09:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 58, dirección Veracruz. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.81904512737901,
-      "lng": -96.38780460000115,
-      "road": 150,
-      "km": 58,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084668656902950993#m",
-      "timestamp": "2026-08-04T15:51:53+00:00",
-      "timestamp_display": "04/08/2026 09:51 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 66, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 66,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084667986531516533#m",
-      "timestamp": "2026-08-04T15:49:13+00:00",
-      "timestamp_display": "04/08/2026 09:49 CST",
       "segment": null
     }
   ]
