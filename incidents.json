@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-04T11:56:35.964298",
+  "last_update": "2026-08-04T12:47:26.239359",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 129+100 de la carretera La Tinaja-Cosoleacaque a la altura del Mpio. La Unión. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 129.1,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2084612282189832339#m",
+      "timestamp": "2026-08-04T12:07:52+00:00",
+      "timestamp_display": "04/08/2026 06:07 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Hidalgo se registra cierre parcial de circulación tras #AccidenteVial cerca del Km 016+800 de la autopista Libramiento Norte. Atienda indicación vial.",
       "type": "twitter",
@@ -258,16 +271,29 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Veracruz tras cierre total de la circulación por presencia de personas cerca del Km 048+500 de la carretera Buena Vista - Tuxtepec. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 298, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 48.5,
+      "km": 298,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084621717377282459#m",
+      "timestamp": "2026-08-04T12:45:22+00:00",
+      "timestamp_display": "04/08/2026 06:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Acatzingo, sin reporte de incidente. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2084354427574505914#m",
-      "timestamp": "2026-08-03T19:03:15+00:00",
-      "timestamp_display": "03/08/2026 13:03 CST",
+      "url": "https://nitter.net/CAPUFE/status/2084611666591814026#m",
+      "timestamp": "2026-08-04T12:05:26+00:00",
+      "timestamp_display": "04/08/2026 06:05 CST",
       "segment": null
     },
     {
@@ -479,32 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084524021266202891#m",
       "timestamp": "2026-08-04T06:17:09+00:00",
       "timestamp_display": "04/08/2026 00:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Cosoleacaque, km 35, dirección Isla. Se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084509497024762266#m",
-      "timestamp": "2026-08-04T05:19:27+00:00",
-      "timestamp_display": "03/08/2026 23:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Cosoleacaque, km 35, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 35,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084501021313675519#m",
-      "timestamp": "2026-08-04T04:45:46+00:00",
-      "timestamp_display": "03/08/2026 22:45 CST",
       "segment": null
     }
   ]
