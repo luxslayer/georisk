@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-04T05:06:07.196159",
+  "last_update": "2026-08-04T06:09:52.634936",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Puebla tras cierre total de circulación por presencia de personas cerca del Km 096+200 de la carretera Puebla-Tehuacán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 96.2,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2084507687191036318#m",
+      "timestamp": "2026-08-04T05:12:15+00:00",
+      "timestamp_display": "03/08/2026 23:12 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del Km 028+900 de la carretera México - Puebla. Maneje con precaución.",
       "type": "twitter",
@@ -258,16 +271,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Oaxaca se registra cierre parcial a la circulación tras #AccidenteVial cerca del km 284+000, de la carr. Ventosa - Tehuantepec, a la altura del Mpio. Tehuantepec, con dirección a Tehuantepec. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Cosoleacaque, km 35, dirección Isla. Se restablece la circulación de manera intermitente. El personal continúa laborando en la atención del accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 16.32,
-      "lng": -95.24,
+      "lat": 18.0,
+      "lng": -94.63,
       "road": null,
-      "km": 284.0,
+      "km": 35,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2084272614608863423#m",
-      "timestamp": "2026-08-03T13:38:09+00:00",
-      "timestamp_display": "03/08/2026 07:38 CST",
+      "url": "https://nitter.net/CAPUFE/status/2084509497024762266#m",
+      "timestamp": "2026-08-04T05:19:27+00:00",
+      "timestamp_display": "03/08/2026 23:19 CST",
       "segment": null
     },
     {
@@ -512,19 +525,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Chamapa - Lechería, Plaza de Cobro Chamapa, dirección Chamapa. Registra reducción de carriles por atención de incidencia. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084442819499110825#m",
-      "timestamp": "2026-08-04T00:54:29+00:00",
-      "timestamp_display": "03/08/2026 18:54 CST",
-      "segment": null
     }
   ]
 }
