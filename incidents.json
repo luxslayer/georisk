@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-05T19:55:21.875810",
+  "last_update": "2026-08-05T21:09:01.042843",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Guanajuato continua cierre parcial de circulación por #AccidenteVial cerca del km. 054+500 de la carretera a inmediaciones de San Miguel de Allende. Atienda indicación vial.",
@@ -277,6 +277,74 @@
       ]
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 36, dirección Querétaro. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 36,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085104949730349170#m",
+      "timestamp": "2026-08-05T20:45:34+00:00",
+      "timestamp_display": "05/08/2026 14:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Carga vehicular en dirección Veracruz, sin reporte de incidente. En la zona se registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085102854616867093#m",
+      "timestamp": "2026-08-05T20:37:14+00:00",
+      "timestamp_display": "05/08/2026 14:37 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 36, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 36,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085100600367194500#m",
+      "timestamp": "2026-08-05T20:28:17+00:00",
+      "timestamp_display": "05/08/2026 14:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Puebla - Acatzingo, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085097660445241538#m",
+      "timestamp": "2026-08-05T20:16:36+00:00",
+      "timestamp_display": "05/08/2026 14:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 36, dirección Querétaro. Reducción de carriles por atención de accidente (choque de costado). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 36,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085094222802133085#m",
+      "timestamp": "2026-08-05T20:02:56+00:00",
+      "timestamp_display": "05/08/2026 14:02 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Tampico, km 5. Se restablece la circulación de manera intermitente en ambos sentidos. El personal continúa laborando en la atención del accidente (choque por alcance). 🔘 Se apertura la vialidad en la Plaza de Cobro Tampico en dirección Moralillo. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -475,74 +543,6 @@
       "url": "https://nitter.net/CAPUFE/status/2085041518226632886#m",
       "timestamp": "2026-08-05T16:33:30+00:00",
       "timestamp_display": "05/08/2026 10:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro La Venta, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085038737835143400#m",
-      "timestamp": "2026-08-05T16:22:27+00:00",
-      "timestamp_display": "05/08/2026 10:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 134, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 134,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085037955228266887#m",
-      "timestamp": "2026-08-05T16:19:21+00:00",
-      "timestamp_display": "05/08/2026 10:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Puebla - Acatzingo, del km 132 al 136, dirección Acatzingo. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 132,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085037118544400433#m",
-      "timestamp": "2026-08-05T16:16:01+00:00",
-      "timestamp_display": "05/08/2026 10:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 7, dirección Córdoba. Reducción de carriles por atención de incidente (camión de carga con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.86571926773676,
-      "lng": -96.84532047138298,
-      "road": 150,
-      "km": 7,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2085034761555218898#m",
-      "timestamp": "2026-08-05T16:06:39+00:00",
-      "timestamp_display": "05/08/2026 10:06 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🚗 En autopista, los imprevistos pueden ocurrir. Si un deslave ocasiona daños a tu vehículo en una autopista operada por #CAPUFE, cuentas con el Seguro del Usuario.* 👉 Infórmate: segurodelusuario@capufe.gob.mx 📞 074 | @CAPUFE",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2085033091387548013#m",
-      "timestamp": "2026-08-05T16:00:01+00:00",
-      "timestamp_display": "05/08/2026 10:00 CST",
       "segment": null
     }
   ]
