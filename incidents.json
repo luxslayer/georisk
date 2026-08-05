@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-05T07:18:03.390399",
+  "last_update": "2026-08-05T10:07:01.280163",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación tras #AccidenteVial, cerca del Km 094+500, de la carretera Alazán - Canoas, a inmediaciones del Mpio de Tempoal, con dirección a Canoas. Atienda indicación vial.",
@@ -268,6 +268,110 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura del km 289. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 289,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084929463570047336#m",
+      "timestamp": "2026-08-05T09:08:14+00:00",
+      "timestamp_display": "05/08/2026 03:08 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Plan de Ayala - El Porvenir, km 42, dirección Saltillo. Cierre a la circulación por atención de derrumbe de Talud. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/jDdGxVTW9t5piEvG6",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084663673834922055#m",
+      "timestamp": "2026-08-04T15:32:05+00:00",
+      "timestamp_display": "04/08/2026 09:32 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Plan de Ayala - El Porvenir, km 42, dirección Plan de Ayala. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del derrumbe de talud. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084876739486863615#m",
+      "timestamp": "2026-08-05T05:38:44+00:00",
+      "timestamp_display": "04/08/2026 23:38 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Plan de Ayala - El Porvenir, km 42, dirección Plan de Ayala. Se informa a las personas usuarias que continúa la circulación con reducción de carriles. El personal se encuentra laborando en la atención del derrumbe de talud. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084925790043488566#m",
+      "timestamp": "2026-08-05T08:53:39+00:00",
+      "timestamp_display": "05/08/2026 02:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 77, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 77,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2084923500335100117#m",
+      "timestamp": "2026-08-05T08:44:33+00:00",
+      "timestamp_display": "05/08/2026 02:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 1. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple e incendio de tracto camión. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/h8WRVsjf8XJxjwKCA",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084780135228592451#m",
+      "timestamp": "2026-08-04T23:14:52+00:00",
+      "timestamp_display": "04/08/2026 17:14 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 1, dirección La Tinaja. Continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084892164757033397#m",
+      "timestamp": "2026-08-05T06:40:02+00:00",
+      "timestamp_display": "05/08/2026 00:40 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 1, dirección La Tinaja. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2084920856954720522#m",
+      "timestamp": "2026-08-05T08:34:02+00:00",
+      "timestamp_display": "05/08/2026 02:34 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 172, dirección Acayucan. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 17.94,
@@ -291,45 +395,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084893343855652998#m",
       "timestamp": "2026-08-05T06:44:43+00:00",
       "timestamp_display": "05/08/2026 00:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 1. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple e incendio de tracto camión. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/h8WRVsjf8XJxjwKCA",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 1,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084780135228592451#m",
-      "timestamp": "2026-08-04T23:14:52+00:00",
-      "timestamp_display": "04/08/2026 17:14 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 1, dirección La Tinaja. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 1,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084847779596124348#m",
-      "timestamp": "2026-08-05T03:43:39+00:00",
-      "timestamp_display": "04/08/2026 21:43 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista La Tinaja - Isla, km 1, dirección La Tinaja. Continúa reducción de carriles por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 1,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084892164757033397#m",
-      "timestamp": "2026-08-05T06:40:02+00:00",
-      "timestamp_display": "05/08/2026 00:40 CST",
       "segment": null
     },
     {
@@ -369,45 +434,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084881777949102558#m",
       "timestamp": "2026-08-05T05:58:45+00:00",
       "timestamp_display": "04/08/2026 23:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Plan de Ayala - El Porvenir, km 42, dirección Saltillo. Cierre a la circulación por atención de derrumbe de Talud. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/jDdGxVTW9t5piEvG6",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": 42,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084663673834922055#m",
-      "timestamp": "2026-08-04T15:32:05+00:00",
-      "timestamp_display": "04/08/2026 09:32 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Plan de Ayala - El Porvenir, km 42, dirección Plan de Ayala. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del derrumbe de talud. ➡ Dirección El Porvenir, opera de manera normal. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 42,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084840289596772537#m",
-      "timestamp": "2026-08-05T03:13:54+00:00",
-      "timestamp_display": "04/08/2026 21:13 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Plan de Ayala - El Porvenir, km 42, dirección Plan de Ayala. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del derrumbe de talud. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 42,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084876739486863615#m",
-      "timestamp": "2026-08-05T05:38:44+00:00",
-      "timestamp_display": "04/08/2026 23:38 CST",
       "segment": null
     },
     {
@@ -499,58 +525,6 @@
       "url": "https://nitter.net/CAPUFE/status/2084822333957505160#m",
       "timestamp": "2026-08-05T02:02:33+00:00",
       "timestamp_display": "04/08/2026 20:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidente. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2084819322350756024#m",
-      "timestamp": "2026-08-05T01:50:35+00:00",
-      "timestamp_display": "04/08/2026 19:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 50, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 50,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084819009657073751#m",
-      "timestamp": "2026-08-05T01:49:20+00:00",
-      "timestamp_display": "04/08/2026 19:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puente de Ixtla - Iguala, km 48. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084818638532452470#m",
-      "timestamp": "2026-08-05T01:47:52+00:00",
-      "timestamp_display": "04/08/2026 19:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 52, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 52,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2084818527140114773#m",
-      "timestamp": "2026-08-05T01:47:25+00:00",
-      "timestamp_display": "04/08/2026 19:47 CST",
       "segment": null
     }
   ]
