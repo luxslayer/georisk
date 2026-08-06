@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-06T09:39:25.610980",
+  "last_update": "2026-08-06T11:50:57.985251",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 118+500 de la carretera Jiquilpan - Guadalajara, a inmediaciones del Municipio Acatlán de Juárez, con dirección a Guadalajara. Atienda indicación vial.",
@@ -265,6 +265,58 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 212, dirección Cd. Mendoza. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 212,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085326735613010386#m",
+      "timestamp": "2026-08-06T11:26:51+00:00",
+      "timestamp_display": "06/08/2026 05:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 73. Registra cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 73,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085326283097964916#m",
+      "timestamp": "2026-08-06T11:25:04+00:00",
+      "timestamp_display": "06/08/2026 05:25 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 212, dirección Cd. Mendoza. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 212,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085317619633033320#m",
+      "timestamp": "2026-08-06T10:50:38+00:00",
+      "timestamp_display": "06/08/2026 04:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 126, dirección Acayucan. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 126,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085301768984908036#m",
+      "timestamp": "2026-08-06T09:47:39+00:00",
+      "timestamp_display": "06/08/2026 03:47 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 335, dirección Acapulco. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -489,32 +541,6 @@
       "url": "https://nitter.net/CAPUFE/status/2085230407541260521#m",
       "timestamp": "2026-08-06T05:04:05+00:00",
       "timestamp_display": "05/08/2026 23:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2085227408198668382#m",
-      "timestamp": "2026-08-06T04:52:10+00:00",
-      "timestamp_display": "05/08/2026 22:52 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Rumorosa - Tecate, km 81, dirección La Rumorosa. Reducción de carriles por atención de accidente (incendio tracto camión tipo madrina). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 81,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085226078239424917#m",
-      "timestamp": "2026-08-06T04:46:53+00:00",
-      "timestamp_display": "05/08/2026 22:46 CST",
       "segment": null
     }
   ]
