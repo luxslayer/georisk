@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-07T19:34:03.123154",
+  "last_update": "2026-08-07T20:21:58.883559",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #SLP se registra cierre total de circulación por presencia de personas cerca del Km 069+400 de la Super Carretera, a la altura de la Caseta de cobro Cerritos. Se orienta a la ciudadanía #Rutaalterna carretera Tepetates-Cerritos. Atienda indicación vial.",
@@ -274,6 +274,74 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085822133125414994#m",
+      "timestamp": "2026-08-07T20:15:23+00:00",
+      "timestamp_display": "07/08/2026 14:15 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 244, dirección Acatzingo. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 244,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085820182484631652#m",
+      "timestamp": "2026-08-07T20:07:38+00:00",
+      "timestamp_display": "07/08/2026 14:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 95,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085818361229848857#m",
+      "timestamp": "2026-08-07T20:00:24+00:00",
+      "timestamp_display": "07/08/2026 14:00 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Plan de Ayala - El Porvenir, km 42. Se informa a las personas usuarias que se restablece la circulación en ambos sentidos. El personal continúa laborando en la atención del derrumbe de talud, sin afectar los carriles de rodamiento. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085530591747862718#m",
+      "timestamp": "2026-08-07T00:56:55+00:00",
+      "timestamp_display": "06/08/2026 18:56 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Plan de Ayala - El Porvenir, km 42, dirección Saltillo. Se informa a las personas usuarias que el incidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 25.4267,
+      "lng": -101.0053,
+      "road": null,
+      "km": 42,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085814902938071548#m",
+      "timestamp": "2026-08-07T19:46:40+00:00",
+      "timestamp_display": "07/08/2026 13:46 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
       "lat": 19.0414,
@@ -517,58 +585,6 @@
       "url": "https://nitter.net/CAPUFE/status/2085775933869363265#m",
       "timestamp": "2026-08-07T17:11:49+00:00",
       "timestamp_display": "07/08/2026 11:11 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 254, dirección Acapulco. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 254,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085774285713338418#m",
-      "timestamp": "2026-08-07T17:05:16+00:00",
-      "timestamp_display": "07/08/2026 11:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 94, dirección Acapulco. El accidente ha sido atendido. Se restablece la circulación en el Distribuidor Vial Palmira. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 94,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085773955080626222#m",
-      "timestamp": "2026-08-07T17:03:57+00:00",
-      "timestamp_display": "07/08/2026 11:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 68, dirección Isla. Continúa reducción de carriles por atención de accidente (salida del camino de automóvil). 🔘 Dirección La Tinaja, se restablece la vialidad con carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 68,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085772613620519229#m",
-      "timestamp": "2026-08-07T16:58:37+00:00",
-      "timestamp_display": "07/08/2026 10:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes, dirección Cárdenas. Reducción de carriles por atención de incidencia. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2085769320013910295#m",
-      "timestamp": "2026-08-07T16:45:32+00:00",
-      "timestamp_display": "07/08/2026 10:45 CST",
       "segment": null
     }
   ]
