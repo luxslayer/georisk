@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-07T20:21:58.883559",
+  "last_update": "2026-08-07T21:10:23.182034",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #SLP se registra cierre total de circulación por presencia de personas cerca del Km 069+400 de la Super Carretera, a la altura de la Caseta de cobro Cerritos. Se orienta a la ciudadanía #Rutaalterna carretera Tepetates-Cerritos. Atienda indicación vial.",
@@ -274,6 +274,110 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. La Carbonera - Puerto México, km 227, dirección La Carbonera. Cierre a la circulación por atención de accidente (choque de costado). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 227,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085830544701509658#m",
+      "timestamp": "2026-08-07T20:48:49+00:00",
+      "timestamp_display": "07/08/2026 14:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR🟠 Autopista Tijuana - Ensenada, Plaza de Cobro Playas de Tijuana, dirección Ensenada. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 32.5127,
+      "lng": -116.9301,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085830081474089141#m",
+      "timestamp": "2026-08-07T20:46:58+00:00",
+      "timestamp_display": "07/08/2026 14:46 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro, Plaza de Cobro Chichimequillas. Registra carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085829396019937328#m",
+      "timestamp": "2026-08-07T20:44:15+00:00",
+      "timestamp_display": "07/08/2026 14:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco, dirección Acapulco. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085828922185224391#m",
+      "timestamp": "2026-08-07T20:42:22+00:00",
+      "timestamp_display": "07/08/2026 14:42 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 224,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085825035722277297#m",
+      "timestamp": "2026-08-07T20:26:55+00:00",
+      "timestamp_display": "07/08/2026 14:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Cosoleacaque, km 180. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/Za9vgdCZiVnpzJZE8",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 180,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2085559434776826177#m",
+      "timestamp": "2026-08-07T02:51:31+00:00",
+      "timestamp_display": "06/08/2026 20:51 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa reducción reducción de carriles por atención de accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 180,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085788354365235318#m",
+      "timestamp": "2026-08-07T18:01:10+00:00",
+      "timestamp_display": "07/08/2026 12:01 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa reducción reducción de carriles por atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 180,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085824688463241239#m",
+      "timestamp": "2026-08-07T20:25:33+00:00",
+      "timestamp_display": "07/08/2026 14:25 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Registra carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
       "lat": 19.1748,
@@ -288,19 +392,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, km 244, dirección Acatzingo. Cierre a la circulación por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 244,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085820182484631652#m",
-      "timestamp": "2026-08-07T20:07:38+00:00",
-      "timestamp_display": "07/08/2026 14:07 CST",
-      "segment": null
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 95, dirección Cuernavaca. Registra carga vehicular por periodo vacacional. Maneja con precaución.",
@@ -494,97 +585,6 @@
       "url": "https://nitter.net/CAPUFE/status/2085789770580414660#m",
       "timestamp": "2026-08-07T18:06:48+00:00",
       "timestamp_display": "07/08/2026 12:06 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Isla - Cosoleacaque, km 180. Cierre a la circulación en ambos sentidos por atención de salida del camino y volcadura de tracto camión tipo pipa que transporta material peligroso. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/Za9vgdCZiVnpzJZE8",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 180,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2085559434776826177#m",
-      "timestamp": "2026-08-07T02:51:31+00:00",
-      "timestamp_display": "06/08/2026 20:51 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa la circulación con reducción de carriles. El personal se encuentra laborando en la atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 180,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085706886146388192#m",
-      "timestamp": "2026-08-07T12:37:26+00:00",
-      "timestamp_display": "07/08/2026 06:37 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa reducción reducción de carriles por atención de accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 180,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085788354365235318#m",
-      "timestamp": "2026-08-07T18:01:10+00:00",
-      "timestamp_display": "07/08/2026 12:01 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 68, dirección Isla. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 68,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085787673487171755#m",
-      "timestamp": "2026-08-07T17:58:28+00:00",
-      "timestamp_display": "07/08/2026 11:58 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 254, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 254,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085786418429780177#m",
-      "timestamp": "2026-08-07T17:53:28+00:00",
-      "timestamp_display": "07/08/2026 11:53 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, Plaza de Cobro Cosamaloapan. Registra carga vehicular en dirección La Tinaja, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2085783942867669183#m",
-      "timestamp": "2026-08-07T17:43:38+00:00",
-      "timestamp_display": "07/08/2026 11:43 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Cuernavaca - Acapulco, Plaza de Cobro Palo Blanco, dirección Acapulco. Presencia de manifestantes, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2085775933869363265#m",
-      "timestamp": "2026-08-07T17:11:49+00:00",
-      "timestamp_display": "07/08/2026 11:11 CST",
       "segment": null
     }
   ]
