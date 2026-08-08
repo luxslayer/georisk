@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-08T20:29:34.301031",
+  "last_update": "2026-08-08T21:00:48.486306",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Guerrero continua cierre parcial de circulación por #AccidenteVial cerca del km. 199+000 de la carretera Iguala - Chilpancingo, a la altura del poblado Rancho Escondido, Mpio. Eduardo Neri, con dirección a Chilpancingo de los Bravo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086194963885236468#m",
+      "timestamp": "2026-08-08T20:56:53+00:00",
+      "timestamp_display": "08/08/2026 14:56 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Sonora continua cierre parcial de circulación por #AccidenteVial cerca del km. 205+900 de la carretera Hermosillo-Nogales, a inmediaciones del Mpio. Ímuris, atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,55 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del Km 224+200 de la carretera Toluca - Cd. Altamirano con dirección Toluca. Se orienta a la ciudadanía #Rutaalterna carretera libre Temascaltepec. Atienda indicación vial.",
+      "title": "Pinned: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutCuernavacaAcapulco, Plaza de Cobro Paso Morelos. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 224.2,
+      "km": null,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2085979981755126074#m",
-      "timestamp": "2026-08-08T06:42:37+00:00",
-      "timestamp_display": "08/08/2026 00:42 CST",
+      "url": "https://nitter.net/CAPUFE/status/2086194788345237916#m",
+      "timestamp": "2026-08-08T20:56:11+00:00",
+      "timestamp_display": "08/08/2026 14:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Reducción de carriles en ambos sentidos por atención de choque por alcance y contra cabina, entre un tracto camión y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/5tvSwwLNsJ89Qtwc7",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086017301162148341#m",
+      "timestamp": "2026-08-08T09:10:55+00:00",
+      "timestamp_display": "08/08/2026 03:10 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, Plaza de Cobro Paso Morelos. Se restablece la circulación con reducción de carriles en ambos sentidos. El personal se encuentra realizando las labores de limpieza. 𝗦𝗲 𝗿𝗲𝗰𝗼𝗺𝗶𝗲𝗻𝗱𝗮 𝗮𝗻𝘁𝗶𝗰𝗶𝗽𝗮𝗿 𝘀𝘂𝘀 𝘁𝗶𝗲𝗺𝗽𝗼𝘀 𝗱𝗲 𝘁𝗿𝗮𝘀𝗹𝗮𝗱𝗼, 𝗺𝗮𝗻𝗲𝗷𝗮𝗿 𝗰𝗼𝗻 𝗽𝗿𝗲𝗰𝗮𝘂𝗰𝗶ó𝗻 𝘆 𝗿𝗲𝗱𝘂𝗰𝗶𝗿 𝗹𝗮 𝘃𝗲𝗹𝗼𝗰𝗶𝗱𝗮𝗱 𝗮𝗹 𝗮𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝗿𝘀𝗲 𝗮 𝗲𝘀𝘁𝗮 𝘇𝗼𝗻𝗮. Agradecemos su comprensión ante las molestias que estos trabajos pudieran ocasionar. Para más información llame al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086184145034563797#m",
+      "timestamp": "2026-08-08T20:13:54+00:00",
+      "timestamp_display": "08/08/2026 14:13 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Aut. La Carbonera - Puerto México, registra #lluvia en el km 228. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 25.1685,
+      "lng": -100.7189,
+      "road": null,
+      "km": 228,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086193144408727836#m",
+      "timestamp": "2026-08-08T20:49:39+00:00",
+      "timestamp_display": "08/08/2026 14:49 CST",
       "segment": null
     },
     {
@@ -304,45 +356,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086185345163444395#m",
       "timestamp": "2026-08-08T20:18:40+00:00",
       "timestamp_display": "08/08/2026 14:18 CST",
-      "segment": null
-    },
-    {
-      "title": "Pinned: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, Plaza de Cobro Paso Morelos. Se restablece la circulación con reducción de carriles en ambos sentidos. El personal se encuentra realizando las labores de limpieza. 𝗦𝗲 𝗿𝗲𝗰𝗼𝗺𝗶𝗲𝗻𝗱𝗮 𝗮𝗻𝘁𝗶𝗰𝗶𝗽𝗮𝗿 𝘀𝘂𝘀 𝘁𝗶𝗲𝗺𝗽𝗼𝘀 𝗱𝗲 𝘁𝗿𝗮𝘀𝗹𝗮𝗱𝗼, 𝗺𝗮𝗻𝗲𝗷𝗮𝗿 𝗰𝗼𝗻 𝗽𝗿𝗲𝗰𝗮𝘂𝗰𝗶ó𝗻 𝘆 𝗿𝗲𝗱𝘂𝗰𝗶𝗿 𝗹𝗮 𝘃𝗲𝗹𝗼𝗰𝗶𝗱𝗮𝗱 𝗮𝗹 𝗮𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝗿𝘀𝗲 𝗮 𝗲𝘀𝘁𝗮 𝘇𝗼𝗻𝗮. Agradecemos su comprensión ante las molestias que estos trabajos pudieran ocasionar. Para más información llame al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086184145034563797#m",
-      "timestamp": "2026-08-08T20:13:54+00:00",
-      "timestamp_display": "08/08/2026 14:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Reducción de carriles en ambos sentidos por atención de choque por alcance y contra cabina, entre un tracto camión y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/5tvSwwLNsJ89Qtwc7",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086017301162148341#m",
-      "timestamp": "2026-08-08T09:10:55+00:00",
-      "timestamp_display": "08/08/2026 03:10 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de unidades siniestradas. ➡️ Dirección Cuernavaca, registra reducción de carriles. 𝗦𝗲 𝗿𝗲𝗰𝗼𝗺𝗶𝗲𝗻𝗱𝗮 𝗮𝗻𝘁𝗶𝗰𝗶𝗽𝗮𝗿 𝘀𝘂𝘀 𝘁𝗶𝗲𝗺𝗽𝗼𝘀 𝗱𝗲 𝘁𝗿𝗮𝘀𝗹𝗮𝗱𝗼, 𝗺𝗮𝗻𝗲𝗷𝗮𝗿 𝗰𝗼𝗻 𝗽𝗿𝗲𝗰𝗮𝘂𝗰𝗶ó𝗻 𝘆 𝗿𝗲𝗱𝘂𝗰𝗶𝗿 𝗹𝗮 𝘃𝗲𝗹𝗼𝗰𝗶𝗱𝗮𝗱 𝗮𝗹 𝗮𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝗿𝘀𝗲 𝗮 𝗲𝘀𝘁𝗮 𝘇𝗼𝗻𝗮. Agradecemos su comprensión ante las molestias que estos trabajos pudieran ocasionar. Para más información llame al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 178,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086159772508721360#m",
-      "timestamp": "2026-08-08T18:37:03+00:00",
-      "timestamp_display": "08/08/2026 12:37 CST",
       "segment": null
     },
     {
@@ -514,32 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086129479881986366#m",
       "timestamp": "2026-08-08T16:36:41+00:00",
       "timestamp_display": "08/08/2026 10:36 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Magdalena - Nogales, km 206, dirección Nogales. Reducción de carriles por atención de accidente (salida del camino a camellón central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 206,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086121319964324037#m",
-      "timestamp": "2026-08-08T16:04:15+00:00",
-      "timestamp_display": "08/08/2026 10:04 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 45, dirección Gómez Palacio. Registra reducción de carriles por atención de accidente (salida del camino). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086118463358013850#m",
-      "timestamp": "2026-08-08T15:52:54+00:00",
-      "timestamp_display": "08/08/2026 09:52 CST",
       "segment": null
     }
   ]
