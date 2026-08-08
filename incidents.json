@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-08T08:02:28.425076",
+  "last_update": "2026-08-08T08:59:46.476011",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del Km 224+200 de la carretera Toluca - Cd. Altamirano con dirección Toluca. Se orienta a la ciudadanía #Rutaalterna carretera libre Temascaltepec. Atienda indicación vial.",
@@ -268,6 +268,48 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 224,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086004587400474862#m",
+      "timestamp": "2026-08-08T08:20:24+00:00",
+      "timestamp_display": "08/08/2026 02:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Gómez Palacio - Corralitos, km 67, dirección Gómez Palacio. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 67,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086003623520006616#m",
+      "timestamp": "2026-08-08T08:16:34+00:00",
+      "timestamp_display": "08/08/2026 02:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Cosoleacaque. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.020739999683713,
+      "lng": -94.55471145861748,
+      "road": 180,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086001638121128441#m",
+      "timestamp": "2026-08-08T08:08:41+00:00",
+      "timestamp_display": "08/08/2026 02:08 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Cosoleacaque. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). ➡ Dirección Nuevo Teapa, opera de manera normal. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.020739999683713,
@@ -488,45 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2085921934496190954#m",
       "timestamp": "2026-08-08T02:51:58+00:00",
       "timestamp_display": "07/08/2026 20:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 61, dirección Querétaro. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 61,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085920964877988131#m",
-      "timestamp": "2026-08-08T02:48:07+00:00",
-      "timestamp_display": "07/08/2026 20:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 224, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 224,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085920122141618536#m",
-      "timestamp": "2026-08-08T02:44:46+00:00",
-      "timestamp_display": "07/08/2026 20:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 229, dirección La Carbonera. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 229,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085915375389000048#m",
-      "timestamp": "2026-08-08T02:25:54+00:00",
-      "timestamp_display": "07/08/2026 20:25 CST",
       "segment": null
     }
   ]
