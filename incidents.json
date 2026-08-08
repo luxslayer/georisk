@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-08T06:06:54.485947",
+  "last_update": "2026-08-08T07:14:55.125790",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por #AccidenteVial cerca del Km 224+200 de la carretera Toluca - Cd. Altamirano con dirección Toluca. Se orienta a la ciudadanía #Rutaalterna carretera libre Temascaltepec. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.2826,
+      "lng": -99.6557,
+      "road": null,
+      "km": 224.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2085979981755126074#m",
+      "timestamp": "2026-08-08T06:42:37+00:00",
+      "timestamp_display": "08/08/2026 00:42 CST",
+      "segment": null
+    },
     {
       "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 041+900 de la carretera Acapulco - Zihuatanejo con dirección a Acapulco. Atienda indicación vial.",
       "type": "twitter",
@@ -255,17 +268,36 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del km 234+500, de la carretera Uruapan-Lázaro Cárdenas (directo)-Ent. (Aut. Pátzcuaro-Uruapan). Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Cosoleacaque. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). ➡ Dirección Nuevo Teapa, opera de manera normal. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 234.5,
+      "lat": 18.020739999683713,
+      "lng": -94.55471145861748,
+      "road": 180,
+      "km": 28,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2085757036424200253#m",
-      "timestamp": "2026-08-07T15:56:43+00:00",
-      "timestamp_display": "07/08/2026 09:56 CST",
-      "segment": null
+      "url": "https://nitter.net/CAPUFE/status/2085985895476277268#m",
+      "timestamp": "2026-08-08T07:06:07+00:00",
+      "timestamp_display": "08/08/2026 01:06 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.020739999683713,
+      "lng": -94.55471145861748,
+      "road": 180,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2085980926782136403#m",
+      "timestamp": "2026-08-08T06:46:23+00:00",
+      "timestamp_display": "08/08/2026 00:46 CST",
+      "segment": [
+        "nuevo teapa",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 67, dirección Gómez Palacio. Registra reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
@@ -495,32 +527,6 @@
       "url": "https://nitter.net/CAPUFE/status/2085915375389000048#m",
       "timestamp": "2026-08-08T02:25:54+00:00",
       "timestamp_display": "07/08/2026 20:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro La Venta, dirección Acapulco. Reducción de carriles por atención de accidente (choque de camioneta en las inmediaciones de la plaza de cobro). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085914986895798753#m",
-      "timestamp": "2026-08-08T02:24:21+00:00",
-      "timestamp_display": "07/08/2026 20:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Carbonera - Puerto México, km 229, dirección La Carbonera. Reducción de carriles por atención de accidente (volcadura de camión de carga). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 229,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085912481021469126#m",
-      "timestamp": "2026-08-08T02:14:24+00:00",
-      "timestamp_display": "07/08/2026 20:14 CST",
       "segment": null
     }
   ]
