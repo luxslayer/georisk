@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-08T11:05:51.524915",
+  "last_update": "2026-08-08T11:42:49.563361",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del Km 187+000 de la autopista Libramiento Norte con dirección Puebla. Atienda indicación vial.",
@@ -268,6 +268,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Reducción de carriles en ambos sentidos por atención de choque por alcance y contra cabina, entre un tracto camión y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/5tvSwwLNsJ89Qtwc7",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086017301162148341#m",
+      "timestamp": "2026-08-08T09:10:55+00:00",
+      "timestamp_display": "08/08/2026 03:10 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por atención de choque por alcance múltiple y contra cabina, entre un tracto camión y dos automóviles. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086046709520519558#m",
+      "timestamp": "2026-08-08T11:07:47+00:00",
+      "timestamp_display": "08/08/2026 05:07 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Querétaro - Irapuato, km 104, dirección Querétaro. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 20.5888,
@@ -291,19 +317,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086019106537394631#m",
       "timestamp": "2026-08-08T09:18:06+00:00",
       "timestamp_display": "08/08/2026 03:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Reducción de carriles en ambos sentidos por atención de choque por alcance y contra cabina, entre un tracto camión y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/5tvSwwLNsJ89Qtwc7",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086017301162148341#m",
-      "timestamp": "2026-08-08T09:10:55+00:00",
-      "timestamp_display": "08/08/2026 03:10 CST",
       "segment": null
     },
     {
@@ -517,19 +530,6 @@
       "url": "https://nitter.net/CAPUFE/status/2085930067796820375#m",
       "timestamp": "2026-08-08T03:24:17+00:00",
       "timestamp_display": "07/08/2026 21:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, Plaza de Cobro La Venta, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085929969381777649#m",
-      "timestamp": "2026-08-08T03:23:54+00:00",
-      "timestamp_display": "07/08/2026 21:23 CST",
       "segment": null
     }
   ]
