@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-08T17:12:20.004675",
+  "last_update": "2026-08-08T17:46:51.729427",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Coahuila continua cierre parcial de circulación por #AccidenteVial cerca del km. 077+300 de la carretera Saltillo-Monclova, a la altura del Mpio. Ramos Arizpe, con dirección a Saltillo, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 26.9101,
+      "lng": -101.4194,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086141968980033940#m",
+      "timestamp": "2026-08-08T17:26:18+00:00",
+      "timestamp_display": "08/08/2026 11:26 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 061+500 de la carretera Colima-Manzanillo, a inmediaciones de la localidad de Cuyutlán, con dirección a Colima. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.246,
+      "lng": -103.724,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086141138239385887#m",
+      "timestamp": "2026-08-08T17:23:00+00:00",
+      "timestamp_display": "08/08/2026 11:23 CST",
+      "segment": null
+    },
     {
       "title": "#VialidadLibre en #Tamaulipas tras retiro de personas, cerca del km. 040+000 de la carretera Ciudad Victoria-Monterrey, a la altura de la localidad Barretal, con dirección a Cd. Victoria. Maneje con precaución.",
       "type": "twitter",
@@ -242,42 +268,29 @@
       "segment": null
     },
     {
-      "title": "#ViaLibre en #SLP tras presencia de personas cerca del Km 069+400 de la Super Carretera, a la altura de la Caseta de cobro Cerritos. Maneje con precaución.",
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 69.4,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2085916382202339819#m",
-      "timestamp": "2026-08-08T02:29:54+00:00",
-      "timestamp_display": "07/08/2026 20:29 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Michoacan se registra cierre parcial de circulación por #AccidenteVial cerca del Km 272+800 de la carretera Zinapécuaro-Guadalajara con dirección a Guadalajara. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": 272.8,
+      "km": 55,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2085913745109201192#m",
-      "timestamp": "2026-08-08T02:19:25+00:00",
-      "timestamp_display": "07/08/2026 20:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2086141784795566257#m",
+      "timestamp": "2026-08-08T17:25:34+00:00",
+      "timestamp_display": "08/08/2026 11:25 CST",
       "segment": null
     },
     {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Registra carga vehicular por cierre a la circulación en el km 47, de la Autopista Córdoba - Veracruz, dir. Veracruz, debido a la atención de un accidente (choque por alcance múltiple). Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, km 47, dirección Veracruz. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.8602298,
-      "lng": -96.9105266,
+      "lat": 18.782125964804735,
+      "lng": -96.47943961718346,
       "road": 150,
-      "km": 0,
+      "km": 47,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086136759906165000#m",
-      "timestamp": "2026-08-08T17:05:36+00:00",
-      "timestamp_display": "08/08/2026 11:05 CST",
+      "url": "https://nitter.net/CAPUFE/status/2086141402996462034#m",
+      "timestamp": "2026-08-08T17:24:03+00:00",
+      "timestamp_display": "08/08/2026 11:24 CST",
       "segment": [
         "cordoba",
         "veracruz"
@@ -297,19 +310,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": null,
-      "km": 180,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086098764415025514#m",
-      "timestamp": "2026-08-08T14:34:37+00:00",
-      "timestamp_display": "08/08/2026 08:34 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa realizando las maniobras de grúa para el retiro de unidades siniestradas. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.0,
@@ -321,6 +321,35 @@
       "timestamp": "2026-08-08T16:54:56+00:00",
       "timestamp_display": "08/08/2026 10:54 CST",
       "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Sin embargo, en la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": null,
+      "km": 180,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086140584041775434#m",
+      "timestamp": "2026-08-08T17:20:48+00:00",
+      "timestamp_display": "08/08/2026 11:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Registra carga vehicular por cierre a la circulación en el km 47, de la Autopista Córdoba - Veracruz, dir. Veracruz, debido a la atención de un accidente (choque por alcance múltiple). Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.8602298,
+      "lng": -96.9105266,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086136759906165000#m",
+      "timestamp": "2026-08-08T17:05:36+00:00",
+      "timestamp_display": "08/08/2026 11:05 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
     },
     {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 47, dirección Veracruz. Cierre a la circulación por atención de accidente (choque por alcance múltiple). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
@@ -492,19 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086072656600662250#m",
       "timestamp": "2026-08-08T12:50:53+00:00",
       "timestamp_display": "08/08/2026 06:50 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 63, dirección CDMX. Reducción de carriles por atención de accidente (choque contra defensa metálica y volcadura de camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086070101023797710#m",
-      "timestamp": "2026-08-08T12:40:44+00:00",
-      "timestamp_display": "08/08/2026 06:40 CST",
       "segment": null
     }
   ]
