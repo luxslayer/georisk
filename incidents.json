@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-08T15:04:18.865376",
+  "last_update": "2026-08-08T15:46:01.775858",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 178+000 de la carretera Cuernavaca - Chilpancingo con dirección a Cuernavaca. Atienda indicación vial.",
@@ -268,6 +268,45 @@
       "segment": null
     },
     {
+      "title": "Pinned: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se llevan a cabo las acciones para la reparación de los daños ocasionados por el siniestro registrado el día de hoy. En la zona hay reducción de carriles y más carga vehicular de lo habitual. 𝗦𝗲 𝗿𝗲𝗰𝗼𝗺𝗶𝗲𝗻𝗱𝗮 𝗮𝗻𝘁𝗶𝗰𝗶𝗽𝗮𝗿 𝘀𝘂𝘀 𝘁𝗶𝗲𝗺𝗽𝗼𝘀 𝗱𝗲 𝘁𝗿𝗮𝘀𝗹𝗮𝗱𝗼, 𝗺𝗮𝗻𝗲𝗷𝗮𝗿 𝗰𝗼𝗻 𝗽𝗿𝗲𝗰𝗮𝘂𝗰𝗶ó𝗻 𝘆 𝗿𝗲𝗱𝘂𝗰𝗶𝗿 𝗹𝗮 𝘃𝗲𝗹𝗼𝗰𝗶𝗱𝗮𝗱 𝗮𝗹 𝗮𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝗿𝘀𝗲 𝗮 𝗲𝘀𝘁𝗮 𝘇𝗼𝗻𝗮. Agradecemos su comprensión ante las molestias que estos trabajos pudieran ocasionar. Para más información llame al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 178,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086096845181231579#m",
+      "timestamp": "2026-08-08T14:27:00+00:00",
+      "timestamp_display": "08/08/2026 08:27 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Reducción de carriles en ambos sentidos por atención de choque por alcance y contra cabina, entre un tracto camión y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/5tvSwwLNsJ89Qtwc7",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086017301162148341#m",
+      "timestamp": "2026-08-08T09:10:55+00:00",
+      "timestamp_display": "08/08/2026 03:10 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de unidades siniestradas. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086115460672573812#m",
+      "timestamp": "2026-08-08T15:40:58+00:00",
+      "timestamp_display": "08/08/2026 09:40 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -294,19 +333,6 @@
       "segment": null
     },
     {
-      "title": "Pinned: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se llevan a cabo las acciones para la reparación de los daños ocasionados por el siniestro registrado el día de hoy. En la zona hay reducción de carriles y más carga vehicular de lo habitual. 𝗦𝗲 𝗿𝗲𝗰𝗼𝗺𝗶𝗲𝗻𝗱𝗮 𝗮𝗻𝘁𝗶𝗰𝗶𝗽𝗮𝗿 𝘀𝘂𝘀 𝘁𝗶𝗲𝗺𝗽𝗼𝘀 𝗱𝗲 𝘁𝗿𝗮𝘀𝗹𝗮𝗱𝗼, 𝗺𝗮𝗻𝗲𝗷𝗮𝗿 𝗰𝗼𝗻 𝗽𝗿𝗲𝗰𝗮𝘂𝗰𝗶ó𝗻 𝘆 𝗿𝗲𝗱𝘂𝗰𝗶𝗿 𝗹𝗮 𝘃𝗲𝗹𝗼𝗰𝗶𝗱𝗮𝗱 𝗮𝗹 𝗮𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝗿𝘀𝗲 𝗮 𝗲𝘀𝘁𝗮 𝘇𝗼𝗻𝗮. Agradecemos su comprensión ante las molestias que estos trabajos pudieran ocasionar. Para más información llame al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 178,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086096845181231579#m",
-      "timestamp": "2026-08-08T14:27:00+00:00",
-      "timestamp_display": "08/08/2026 08:27 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Isla - Cosoleacaque, km 180, dirección Cosoleacaque. Se informa a las personas usuarias que continúa reducción de carriles por atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 18.0,
@@ -330,32 +356,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086098764415025514#m",
       "timestamp": "2026-08-08T14:34:37+00:00",
       "timestamp_display": "08/08/2026 08:34 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Reducción de carriles en ambos sentidos por atención de choque por alcance y contra cabina, entre un tracto camión y automóvil. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/5tvSwwLNsJ89Qtwc7",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086017301162148341#m",
-      "timestamp": "2026-08-08T09:10:55+00:00",
-      "timestamp_display": "08/08/2026 03:10 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Cuernavaca - Acapulco, Plaza de Cobro Paso Morelos. Se informa a las personas usuarias que continúa reducción de carriles en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de unidades siniestradas. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086085477581365458#m",
-      "timestamp": "2026-08-08T13:41:50+00:00",
-      "timestamp_display": "08/08/2026 07:41 CST",
       "segment": null
     },
     {
@@ -486,22 +486,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086001638121128441#m",
       "timestamp": "2026-08-08T08:08:41+00:00",
       "timestamp_display": "08/08/2026 02:08 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28, dirección Cosoleacaque. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). ➡ Dirección Nuevo Teapa, opera de manera normal. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.020739999683713,
-      "lng": -94.55471145861748,
-      "road": 180,
-      "km": 28,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085985895476277268#m",
-      "timestamp": "2026-08-08T07:06:07+00:00",
-      "timestamp_display": "08/08/2026 01:06 CST",
       "segment": [
         "nuevo teapa",
         "cosoleacaque"
