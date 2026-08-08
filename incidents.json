@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-08T18:37:14.392781",
+  "last_update": "2026-08-08T19:16:21.771234",
   "incidents": [
     {
       "title": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 024+300 de la carretera Catazajá - Rancho Nuevo (Ent. Ashupa) Laguna de Montebello, a la altura del poblado La Cascada, Mpio. Palenque, con dirección a Laguna de Montebello, Chis.",
@@ -265,6 +265,38 @@
       "segment": [
         "puerto mexico",
         "ojo caliente"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 47, dirección Veracruz. El accidente ha sido atendido. Sin embargo, continúa la carga vehicular por zona de obras. Maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.782125964804735,
+      "lng": -96.47943961718346,
+      "road": 150,
+      "km": 47,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086166983700021636#m",
+      "timestamp": "2026-08-08T19:05:42+00:00",
+      "timestamp_display": "08/08/2026 13:05 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Isla - Cosoleacaque, Plaza de Cobro Acayucan, dirección Cosoleacaque. Registra carga vehicular en ambos sentidos, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": 145,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086165552808989133#m",
+      "timestamp": "2026-08-08T19:00:01+00:00",
+      "timestamp_display": "08/08/2026 13:00 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
       ]
     },
     {
