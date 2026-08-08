@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-08T22:29:28.077044",
+  "last_update": "2026-08-08T22:59:53.132645",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 033+400 de la carretera Ent. La Tinaja- Santa Cruz, a la altura del Mpio. Tierra Blanca. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086223095371530723#m",
+      "timestamp": "2026-08-08T22:48:40+00:00",
+      "timestamp_display": "08/08/2026 16:48 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Tabasco continua cierre parcial de circulación por #AccidenteVial cerca del km. 008+500 de la carretera Villahermosa-Chetumal, a la altura de la localidad La Manga 2da. Secc., con dirección a Chetumal. Atienda indicación vial.",
       "type": "twitter",
@@ -255,17 +268,33 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 178+000 de la carretera Cuernavaca - Chilpancingo con dirección a Cuernavaca. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puebla - Acatzingo, km 132, dirección Puebla. Reducción de carriles por atención de accidente (choque por alcance entre tracto camiones). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
+      "lat": 19.0414,
+      "lng": -98.2063,
       "road": null,
-      "km": 178.0,
+      "km": 132,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2086094899397398663#m",
-      "timestamp": "2026-08-08T14:19:16+00:00",
-      "timestamp_display": "08/08/2026 08:19 CST",
+      "url": "https://nitter.net/CAPUFE/status/2086222270939189570#m",
+      "timestamp": "2026-08-08T22:45:24+00:00",
+      "timestamp_display": "08/08/2026 16:45 CST",
       "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Isla - Cosoleacaque, Plaza de Cobro Acayucan. Registra carga vehicular en dirección Isla, por periodo vacacional. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.0,
+      "lng": -94.63,
+      "road": 145,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086218800261714165#m",
+      "timestamp": "2026-08-08T22:31:36+00:00",
+      "timestamp_display": "08/08/2026 16:31 CST",
+      "segment": [
+        "acayucan",
+        "cosoleacaque"
+      ]
     },
     {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, km 98, dirección Cuernavaca. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
@@ -519,19 +548,6 @@
         "acayucan",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Gómez Palacio - Corralitos, km 45, dirección Gómez Palacio. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 45,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086158110855463136#m",
-      "timestamp": "2026-08-08T18:30:27+00:00",
-      "timestamp_display": "08/08/2026 12:30 CST",
-      "segment": null
     }
   ]
 }
