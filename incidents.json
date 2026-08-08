@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-08-08T19:16:21.771234",
+  "last_update": "2026-08-08T19:53:37.201164",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Sonora continua cierre parcial de circulación por #AccidenteVial cerca del km. 205+900 de la carretera Hermosillo-Nogales, a inmediaciones del Mpio. Ímuris, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 29.07,
+      "lng": -110.96,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086178719891124452#m",
+      "timestamp": "2026-08-08T19:52:20+00:00",
+      "timestamp_display": "08/08/2026 13:52 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Durango tras accidente cerca del km. 104+500 de la carretera Guadalupe Aguilera - Guanaceví, a la altura del Mpio Santa Teresa del llano, maneje con precaución.",
+      "type": "twitter",
+      "lat": 24.03,
+      "lng": -104.67,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086176094223323636#m",
+      "timestamp": "2026-08-08T19:41:54+00:00",
+      "timestamp_display": "08/08/2026 13:41 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Nayarit continua cierre parcial de circulación por #AccidenteVial cerca del km. 042+200 de la carretera Tepic - Mazatlán, a inmediaciones de la localidad de Tepic, con dirección a Mazatlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": 15,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086174760652710224#m",
+      "timestamp": "2026-08-08T19:36:36+00:00",
+      "timestamp_display": "08/08/2026 13:36 CST",
+      "segment": [
+        "tepic",
+        "mazatlan"
+      ]
+    },
     {
       "title": "En #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 024+300 de la carretera Catazajá - Rancho Nuevo (Ent. Ashupa) Laguna de Montebello, a la altura del poblado La Cascada, Mpio. Palenque, con dirección a Laguna de Montebello, Chis.",
       "type": "twitter",
@@ -224,48 +266,6 @@
       "timestamp": "2026-08-08T06:42:37+00:00",
       "timestamp_display": "08/08/2026 00:42 CST",
       "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 041+900 de la carretera Acapulco - Zihuatanejo con dirección a Acapulco. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 41.9,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2085952074739577297#m",
-      "timestamp": "2026-08-08T04:51:44+00:00",
-      "timestamp_display": "07/08/2026 22:51 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 081+000 de la carretera México-Querétaro con dirección a Querétaro. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 81.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2085951200097075258#m",
-      "timestamp": "2026-08-08T04:48:15+00:00",
-      "timestamp_display": "07/08/2026 22:48 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del Km 228+500 de la carretera Puerto México-Ojo Caliente con dirección a Saltillo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 25.38458261119721,
-      "lng": -100.79111732763731,
-      "road": 57,
-      "km": 28.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2085937792333312295#m",
-      "timestamp": "2026-08-08T03:54:59+00:00",
-      "timestamp_display": "07/08/2026 21:54 CST",
-      "segment": [
-        "puerto mexico",
-        "ojo caliente"
-      ]
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 47, dirección Veracruz. El accidente ha sido atendido. Sin embargo, continúa la carga vehicular por zona de obras. Maneja con precaución. 🚌🚙🚗🏍️.",
