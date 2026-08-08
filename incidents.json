@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-08T14:38:31.814618",
+  "last_update": "2026-08-08T15:04:18.865376",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Guerrero se registra cierre parcial de circulación por #AccidenteVial cerca del Km 178+000 de la carretera Cuernavaca - Chilpancingo con dirección a Cuernavaca. Atienda indicación vial.",
@@ -268,6 +268,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 55, dirección Querétaro. Reducción de carriles por atención de accidente (maniobras para el retiro de las unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 55,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086106023782154460#m",
+      "timestamp": "2026-08-08T15:03:28+00:00",
+      "timestamp_display": "08/08/2026 09:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🛣️ Planea tu recorrido y evita contratiempos. Revisa tu combustible antes de iniciar el viaje. #seguridadvial #conduceseguro",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086105151455080495#m",
+      "timestamp": "2026-08-08T15:00:00+00:00",
+      "timestamp_display": "08/08/2026 09:00 CST",
+      "segment": null
+    },
+    {
       "title": "Pinned: ⚠️𝗔𝗩𝗜𝗦𝗢 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧𝗘⚠️ #AutCuernavacaAcapulco, km 178, dirección Acapulco. Se informa a las personas usuarias que en la Plaza de cobro Paso Morelos, se llevan a cabo las acciones para la reparación de los daños ocasionados por el siniestro registrado el día de hoy. En la zona hay reducción de carriles y más carga vehicular de lo habitual. 𝗦𝗲 𝗿𝗲𝗰𝗼𝗺𝗶𝗲𝗻𝗱𝗮 𝗮𝗻𝘁𝗶𝗰𝗶𝗽𝗮𝗿 𝘀𝘂𝘀 𝘁𝗶𝗲𝗺𝗽𝗼𝘀 𝗱𝗲 𝘁𝗿𝗮𝘀𝗹𝗮𝗱𝗼, 𝗺𝗮𝗻𝗲𝗷𝗮𝗿 𝗰𝗼𝗻 𝗽𝗿𝗲𝗰𝗮𝘂𝗰𝗶ó𝗻 𝘆 𝗿𝗲𝗱𝘂𝗰𝗶𝗿 𝗹𝗮 𝘃𝗲𝗹𝗼𝗰𝗶𝗱𝗮𝗱 𝗮𝗹 𝗮𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝗿𝘀𝗲 𝗮 𝗲𝘀𝘁𝗮 𝘇𝗼𝗻𝗮. Agradecemos su comprensión ante las molestias que estos trabajos pudieran ocasionar. Para más información llame al 0️⃣7️⃣4️⃣.",
       "type": "twitter",
       "lat": 18.93,
@@ -480,35 +506,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Nuevo Teapa - Cosoleacaque, km 28. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.020739999683713,
-      "lng": -94.55471145861748,
-      "road": 180,
-      "km": 28,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085980926782136403#m",
-      "timestamp": "2026-08-08T06:46:23+00:00",
-      "timestamp_display": "08/08/2026 00:46 CST",
-      "segment": [
-        "nuevo teapa",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 67, dirección Gómez Palacio. Registra reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 67,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2085969295545147601#m",
-      "timestamp": "2026-08-08T06:00:10+00:00",
-      "timestamp_display": "08/08/2026 00:00 CST",
-      "segment": null
     }
   ]
 }
