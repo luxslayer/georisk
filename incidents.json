@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T06:07:54.870058",
+  "last_update": "2026-08-09T07:15:47.836339",
   "incidents": [
     {
       "title": "#TomePrecauciones en #CdMéx continua cierre parcial de circulación por deslave de Talud cerca del km. 027+000 de la carretera México-Cuernavaca, a la altura del Mpio. San Mateo Xalpa, con dirección a Cuernavaca. Atienda indicación vial.",
@@ -271,6 +271,84 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 42, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086345339301183753#m",
+      "timestamp": "2026-08-09T06:54:25+00:00",
+      "timestamp_display": "09/08/2026 00:54 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086345134384230515#m",
+      "timestamp": "2026-08-09T06:53:37+00:00",
+      "timestamp_display": "09/08/2026 00:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Pánuco - Canoas, Pte. Pánuco, km 160. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/JJPL2pdfDcMAa78Z8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 160,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086269995734987133#m",
+      "timestamp": "2026-08-09T01:55:02+00:00",
+      "timestamp_display": "08/08/2026 19:55 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Pánuco - Canoas, Pte. Pánuco, km 160. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 160,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086303832225575176#m",
+      "timestamp": "2026-08-09T04:09:29+00:00",
+      "timestamp_display": "08/08/2026 22:09 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Carretera Pánuco - Canoas, Pte. Pánuco, km 160. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 160,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086344770876588429#m",
+      "timestamp": "2026-08-09T06:52:10+00:00",
+      "timestamp_display": "09/08/2026 00:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 42, dirección CDMX. Reducción de carriles por atención de accidente (volcadura de camioneta). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 42,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086336972302291228#m",
+      "timestamp": "2026-08-09T06:21:11+00:00",
+      "timestamp_display": "09/08/2026 00:21 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, continúa #lluvia del km 19 al 22. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -388,32 +466,6 @@
       "segment": null
     },
     {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Carretera Pánuco - Canoas, Pte. Pánuco, km 160. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/JJPL2pdfDcMAa78Z8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 160,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086269995734987133#m",
-      "timestamp": "2026-08-09T01:55:02+00:00",
-      "timestamp_display": "08/08/2026 19:55 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Carretera Pánuco - Canoas, Pte. Pánuco, km 160. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 160,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086303832225575176#m",
-      "timestamp": "2026-08-09T04:09:29+00:00",
-      "timestamp_display": "08/08/2026 22:09 CST",
-      "segment": null
-    },
-    {
       "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 245, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -489,58 +541,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086277788391104935#m",
       "timestamp": "2026-08-09T02:26:00+00:00",
       "timestamp_display": "08/08/2026 20:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Libramiento Guaymas, continúa #lluvia ligera. Disminuye la velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086276829468307668#m",
-      "timestamp": "2026-08-09T02:22:11+00:00",
-      "timestamp_display": "08/08/2026 20:22 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cd. Obregón - Guaymas, continúa #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086276779040219248#m",
-      "timestamp": "2026-08-09T02:21:59+00:00",
-      "timestamp_display": "08/08/2026 20:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Navojoa - Cd. Obregón, continúa #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086276721158840361#m",
-      "timestamp": "2026-08-09T02:21:46+00:00",
-      "timestamp_display": "08/08/2026 20:21 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Estación Don - Navojoa, continúa #lluvia ligera. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086276657027923972#m",
-      "timestamp": "2026-08-09T02:21:30+00:00",
-      "timestamp_display": "08/08/2026 20:21 CST",
       "segment": null
     }
   ]
