@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T09:56:23.748242",
+  "last_update": "2026-08-09T10:37:36.021815",
   "incidents": [
     {
       "title": "#TomePrecauciones en #CdMéx continua cierre parcial de circulación por deslave de Talud cerca del km. 027+000 de la carretera México-Cuernavaca, a la altura del Mpio. San Mateo Xalpa, con dirección a Cuernavaca. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2086273700282679356#m",
       "timestamp": "2026-08-09T02:09:45+00:00",
       "timestamp_display": "08/08/2026 20:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 137. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 137,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086394078464225523#m",
+      "timestamp": "2026-08-09T10:08:06+00:00",
+      "timestamp_display": "09/08/2026 04:08 CST",
       "segment": null
     },
     {
@@ -541,19 +554,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086297093950316773#m",
       "timestamp": "2026-08-09T03:42:43+00:00",
       "timestamp_display": "08/08/2026 21:42 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, continúa #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2086294379786875232#m",
-      "timestamp": "2026-08-09T03:31:56+00:00",
-      "timestamp_display": "08/08/2026 21:31 CST",
       "segment": null
     }
   ]
