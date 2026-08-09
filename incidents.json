@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T14:34:14.284940",
+  "last_update": "2026-08-09T15:12:06.071687",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Chiapas continua cierre parcial de circulación por #AccidenteVial cerca del km. 176+000 de la carretera Tuxtla Gutiérrez-Ciudad Cuauhtémoc, a la altura del entronque a Tzimol, Mpio. Comitán de Domínguez, atienda indicación vial.",
@@ -274,6 +274,32 @@
       "segment": null
     },
     {
+      "title": "🚗☀️ Estas vacaciones: ¡Haz lo tuyo! 🛣️ ⚠️ Cada decisión al volante puede hacer la diferencia. 🚦 Respeta las señales, 🧷 usa el cinturón de seguridad, 📵 evita distracciones y conduce con responsabilidad. 🤝 ¡Tú me cuidas, yo te cuido! 💛 #EnCAPUFEEstamosParaServirte #SeguridadVial #ConduceSeguro #CAPUFE",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086467549445951633#m",
+      "timestamp": "2026-08-09T15:00:03+00:00",
+      "timestamp_display": "09/08/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086461136212197844#m",
+      "timestamp": "2026-08-09T14:34:34+00:00",
+      "timestamp_display": "09/08/2026 08:34 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 43, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -525,38 +551,6 @@
       "timestamp": "2026-08-09T13:19:15+00:00",
       "timestamp_display": "09/08/2026 07:19 CST",
       "segment": null
-    },
-    {
-      "title": "🟠CIERRE PARCIAL DE CIRCULACIÓN🟠 Libramiento Oriente de Saltillo, km 11, dirección Monterrey. Reducción de carriles por atención de accidente (choque contra barrera metálica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 25.4586852,
-      "lng": -101.0608546,
-      "road": 40,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086441485273035008#m",
-      "timestamp": "2026-08-09T13:16:28+00:00",
-      "timestamp_display": "09/08/2026 07:16 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 26, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.305994762966986,
-      "lng": -98.93770779833072,
-      "road": 150,
-      "km": 8,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086436789854593438#m",
-      "timestamp": "2026-08-09T12:57:49+00:00",
-      "timestamp_display": "09/08/2026 06:57 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
