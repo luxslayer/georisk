@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T08:07:53.786102",
+  "last_update": "2026-08-09T09:01:57.583609",
   "incidents": [
     {
       "title": "#TomePrecauciones en #CdMéx continua cierre parcial de circulación por deslave de Talud cerca del km. 027+000 de la carretera México-Cuernavaca, a la altura del Mpio. San Mateo Xalpa, con dirección a Cuernavaca. Atienda indicación vial.",
@@ -268,6 +268,19 @@
       "url": "https://nitter.net/GN_Carreteras/status/2086273700282679356#m",
       "timestamp": "2026-08-09T02:09:45+00:00",
       "timestamp_display": "08/08/2026 20:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086375500973318342#m",
+      "timestamp": "2026-08-09T08:54:17+00:00",
+      "timestamp_display": "09/08/2026 02:54 CST",
       "segment": null
     },
     {
@@ -541,19 +554,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086294379786875232#m",
       "timestamp": "2026-08-09T03:31:56+00:00",
       "timestamp_display": "08/08/2026 21:31 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 0, dirección La Tinaja. Cierre a la circulación por atención de accidente (maniobras para el retiro de la unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086293421203898548#m",
-      "timestamp": "2026-08-09T03:28:07+00:00",
-      "timestamp_display": "08/08/2026 21:28 CST",
       "segment": null
     }
   ]
