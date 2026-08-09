@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T10:37:36.021815",
+  "last_update": "2026-08-09T11:12:24.152891",
   "incidents": [
     {
       "title": "#TomePrecauciones en #CdMéx continua cierre parcial de circulación por deslave de Talud cerca del km. 027+000 de la carretera México-Cuernavaca, a la altura del Mpio. San Mateo Xalpa, con dirección a Cuernavaca. Atienda indicación vial.",
@@ -268,6 +268,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2086273700282679356#m",
       "timestamp": "2026-08-09T02:09:45+00:00",
       "timestamp_display": "08/08/2026 20:09 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 137. Se restablece la circulación de manera intermitente por atención de accidente (maniobras para el retiro de las unidades siniestradas). Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 137,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2086404653957132418#m",
+      "timestamp": "2026-08-09T10:50:07+00:00",
+      "timestamp_display": "09/08/2026 04:50 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce - Cárdenas, Plaza de Cobro Sánchez Magallanes. Presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086402686279114987#m",
+      "timestamp": "2026-08-09T10:42:18+00:00",
+      "timestamp_display": "09/08/2026 04:42 CST",
       "segment": null
     },
     {
@@ -541,19 +567,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086310765091238391#m",
       "timestamp": "2026-08-09T04:37:02+00:00",
       "timestamp_display": "08/08/2026 22:37 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 245, dirección Acatzingo. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 245,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086297093950316773#m",
-      "timestamp": "2026-08-09T03:42:43+00:00",
-      "timestamp_display": "08/08/2026 21:42 CST",
       "segment": null
     }
   ]
