@@ -1,6 +1,35 @@
 {
-  "last_update": "2026-08-09T21:12:53.190271",
+  "last_update": "2026-08-09T21:49:30.222382",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 014+000 de la carretera Cordoba-Ent. La Tinaja, con dirección Puebla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": 150,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086568062057144362#m",
+      "timestamp": "2026-08-09T21:39:27+00:00",
+      "timestamp_display": "09/08/2026 15:39 CST",
+      "segment": [
+        "puebla",
+        "cordoba"
+      ]
+    },
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 046+500 de la carretera Ent. La Tinaja-Veracruz, con dirección La tinaja. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086567114425401720#m",
+      "timestamp": "2026-08-09T21:35:41+00:00",
+      "timestamp_display": "09/08/2026 15:35 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla continua cierre total de circulación por #AccidenteVial cerca del km. 137+400 de la carretera Tulancingo-Tihuatlán, con dirección Tuxpan, atienda indicación vial.",
       "type": "twitter",
@@ -248,29 +277,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Puebla se registra cierre total de circulación por #AccidenteVial cerca del km. 137+400 de la carretera Tulancingo-Tihuatlán, con dirección Tuxpan, atienda indicación vial.",
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista La Carbonera - Puerto México, registra #lluvia intensa. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
+      "lat": 25.1685,
+      "lng": -100.7189,
       "road": null,
       "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2086452209898705214#m",
-      "timestamp": "2026-08-09T13:59:05+00:00",
-      "timestamp_display": "09/08/2026 07:59 CST",
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2086568348788166763#m",
+      "timestamp": "2026-08-09T21:40:35+00:00",
+      "timestamp_display": "09/08/2026 15:40 CST",
       "segment": null
     },
     {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en kilómetro 140+000 para incorporarse a la carretera federal Pachuca-Tuxpan.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 100 al 98, por periodo vacacional. Maneja con precaución.",
       "type": "twitter",
-      "lat": 20.11,
-      "lng": -98.73,
-      "road": 130,
-      "km": null,
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 100,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2086452211781890516#m",
-      "timestamp": "2026-08-09T13:59:06+00:00",
-      "timestamp_display": "09/08/2026 07:59 CST",
+      "url": "https://nitter.net/CAPUFE/status/2086564611747201240#m",
+      "timestamp": "2026-08-09T21:25:44+00:00",
+      "timestamp_display": "09/08/2026 15:25 CST",
       "segment": null
     },
     {
@@ -537,19 +566,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086497089022800226#m",
       "timestamp": "2026-08-09T16:57:25+00:00",
       "timestamp_display": "09/08/2026 10:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 171, dirección Acapulco. Reducción de carriles por atención de accidente (volcadura de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 171,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086496427128045913#m",
-      "timestamp": "2026-08-09T16:54:48+00:00",
-      "timestamp_display": "09/08/2026 10:54 CST",
       "segment": null
     }
   ]
