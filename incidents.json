@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-09T18:40:11.578550",
+  "last_update": "2026-08-09T19:19:57.475831",
   "incidents": [
+    {
+      "title": "#VialidadLibre en #CdMéx tras accidente cerca del km. 028+500 de la carretera México-Cuernavaca, a la altura del Mpio. San Miguel Topilejo, con dirección a Cd. Méx. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086532145661592042#m",
+      "timestamp": "2026-08-09T19:16:44+00:00",
+      "timestamp_display": "09/08/2026 13:16 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Durango continua cierre parcial de circulación por #AccidenteVial cerca del km. 040+700 de la carretera Durango-Yerbanís, a la altura de la localidad El Chorro, Dgo. Atienda indicación vial.",
       "type": "twitter",
@@ -258,19 +271,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2086328806529171863#m",
       "timestamp": "2026-08-09T05:48:44+00:00",
       "timestamp_display": "08/08/2026 23:48 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 018+900 de la carretera México-Tuxpan, a la altura del Mpio. San Lorenzo Tlalmimilolpan, con dirección a Ecatepec. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2086326679891226905#m",
-      "timestamp": "2026-08-09T05:40:17+00:00",
-      "timestamp_display": "08/08/2026 23:40 CST",
       "segment": null
     },
     {
