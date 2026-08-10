@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-10T09:57:58.310926",
+  "last_update": "2026-08-10T11:14:40.965130",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Veracruz continua cierre parcial de circulación por #AccidenteVial cerca del km. 017+600 de la carretera Coatzacoalcos - Minatitlán, a la altura del Mpio. Coatzacoalcos, con dirección a Minatitlán. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 17.9969,
+      "lng": -94.561,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086761942387978625#m",
+      "timestamp": "2026-08-10T10:29:51+00:00",
+      "timestamp_display": "10/08/2026 04:29 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tamaulipas continua cierre parcial de circulación por #AccidenteVial cerca del km. 012+300 de la carretera González - Llera de Canales, a la altura de la localidad San Antonio. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2086760911289589905#m",
+      "timestamp": "2026-08-10T10:25:46+00:00",
+      "timestamp_display": "10/08/2026 04:25 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 062+000 de la carretera México-Querétaro, a la altura del Mpio. Tepeji del Río, con dirección a Cd. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -236,29 +262,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Jalisco continua cierre parcial de circulación por #AccidenteVial cerca del km. 111+100 de la carretera Lagos de Moreno-Zapotlanejo, a inmediaciones del Mpio. San Juan de los Lagos, con dirección a Lagos de Moreno. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 58. Cierre a la circulación en ambos sentidos por atención de accidente (volcadura de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": null,
+      "km": 58,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2086623453583487013#m",
-      "timestamp": "2026-08-10T01:19:33+00:00",
-      "timestamp_display": "09/08/2026 19:19 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 123+540 de la carretera Atlacomulco-Maravatío, con dirección a Maravatio. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.8002,
-      "lng": -99.8759,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2086618158190780818#m",
-      "timestamp": "2026-08-10T00:58:31+00:00",
-      "timestamp_display": "09/08/2026 18:58 CST",
+      "url": "https://nitter.net/CAPUFE/status/2086763031904571601#m",
+      "timestamp": "2026-08-10T10:34:11+00:00",
+      "timestamp_display": "10/08/2026 04:34 CST",
       "segment": null
     },
     {
@@ -506,19 +519,6 @@
       "url": "https://nitter.net/CAPUFE/status/2086663289950343511#m",
       "timestamp": "2026-08-10T03:57:51+00:00",
       "timestamp_display": "09/08/2026 21:57 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 60, dirección Tijuana. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 60,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2086662931555430403#m",
-      "timestamp": "2026-08-10T03:56:25+00:00",
-      "timestamp_display": "09/08/2026 21:56 CST",
       "segment": null
     }
   ]
