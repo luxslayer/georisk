@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-11T11:04:46.858564",
+  "last_update": "2026-08-11T11:56:20.249641",
   "incidents": [
     {
       "title": "#VíaLibre en #EdoMéx tras #AccidenteVial cerca del km 003+950, de la carretera Toluca-Palmillas, a la altura del Mpio. de Acambay. Maneje con precaución.",
@@ -268,6 +268,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 133, dirección Cuernavaca. Reducción de carriles por atención de accidente (salida del camino y choque contra talud). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 133,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087133568585613439#m",
+      "timestamp": "2026-08-11T11:06:34+00:00",
+      "timestamp_display": "11/08/2026 05:06 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Gtz. Zamora - Tihuatlán, registra #neblina densa. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -518,19 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087000961436848334#m",
       "timestamp": "2026-08-11T02:19:38+00:00",
       "timestamp_display": "10/08/2026 20:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, dirección Querétaro. Registra carga vehicular muy intensa, en los siguientes puntos de la autopista. 🔘 Km 42, a la altura de la salida al poblado de Teoloyucan (zona industrial), sin reporte de incidentes. 🔘 Km 62, el accidente ha sido atendido. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 42,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087000601037099420#m",
-      "timestamp": "2026-08-11T02:18:12+00:00",
-      "timestamp_display": "10/08/2026 20:18 CST",
       "segment": null
     }
   ]
