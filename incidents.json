@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-08-11T20:43:46.353707",
+  "last_update": "2026-08-11T21:29:53.599639",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del Km 086+500 de la autopista Saltillo-Monterrey dirección Monterrey. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.556649999999998,
+      "lng": -100.6607,
+      "road": 40,
+      "km": 66.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2087289042878468292#m",
+      "timestamp": "2026-08-11T21:24:22+00:00",
+      "timestamp_display": "11/08/2026 15:24 CST",
+      "segment": [
+        "saltillo",
+        "monterrey"
+      ]
+    },
     {
       "title": "#Tomeprecauciones en #Colima se registra cierre parcial de circulación por #AccidenteVial cerca del Km 281+000 de la carretera Acalpican-Manzanillo. Atienda indicación vial.",
       "type": "twitter",
@@ -274,6 +290,19 @@
       "segment": null
     },
     {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoQuerétaro, km 127, dirección Querétaro. El accidente ha sido atendido. Se restablece la circulación en la zona. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 127,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087281022366777777#m",
+      "timestamp": "2026-08-11T20:52:30+00:00",
+      "timestamp_display": "11/08/2026 14:52 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Tecate - La Rumorosa, registra #lluvia y tormenta eléctrica. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -527,19 +556,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087209758352658575#m",
       "timestamp": "2026-08-11T16:09:19+00:00",
       "timestamp_display": "11/08/2026 10:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🛞 Un imprevisto en el camino no tiene por qué detener tu viaje. Si necesitas apoyo para el cambio de neumático, comunícate al 074 o escribe en @CAPUFE. #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087207415158538557#m",
-      "timestamp": "2026-08-11T16:00:00+00:00",
-      "timestamp_display": "11/08/2026 10:00 CST",
       "segment": null
     }
   ]
