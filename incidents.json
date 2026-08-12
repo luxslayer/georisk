@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-08-12T14:43:42.314045",
+  "last_update": "2026-08-12T15:41:13.224152",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Oaxaca se registra cierre total de circulación por presencia de personas cerca del Km 359+500 de la carretera Pinotepa Nacional - Salina Cruz. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.34,
+      "lng": -98.05,
+      "road": null,
+      "km": 359.5,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2087563612395061435#m",
+      "timestamp": "2026-08-12T15:35:24+00:00",
+      "timestamp_display": "12/08/2026 09:35 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Gto se registra cierre parcial de circulación por #AccidenteVial cerca del Km 058+600 de la carretera Lagos de Moreno-Villa de Arriaga con dirección a Querétaro. Se orienta a la ciudadanía que se activo la circulación a contra flujo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 58.6,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2087562089191653503#m",
+      "timestamp": "2026-08-12T15:29:21+00:00",
+      "timestamp_display": "12/08/2026 09:29 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del Km 138+000 de la autopista Saltillo-Monterrey con dirección Monterrey NL. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 25.556649999999998,
+      "lng": -100.6607,
+      "road": 40,
+      "km": 118.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2087558858570916301#m",
+      "timestamp": "2026-08-12T15:16:31+00:00",
+      "timestamp_display": "12/08/2026 09:16 CST",
+      "segment": [
+        "saltillo",
+        "monterrey"
+      ]
+    },
     {
       "title": "#VialidadLibre en #CdMéx tras accidente cerca del km. 040+900 de la carretera México-Cuernavaca, a la altura del Mpio. Parrales, maneje con precaución.",
       "type": "twitter",
@@ -235,45 +277,81 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Aguascalientes se registra cierre parcial de circulación por #AccidenteVial cerca del Km 010+300 de la carretera León - Aguascalientes dirección León. Atienda indicación vial.",
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 87, dirección Acapulco. El accidente ha sido atendido. Se restablece la circulación en carriles centrales. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
-      "lat": 21.065273609163572,
-      "lng": -101.66910028040687,
-      "road": 45,
-      "km": 10.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2087307701894152614#m",
-      "timestamp": "2026-08-11T22:38:31+00:00",
-      "timestamp_display": "11/08/2026 16:38 CST",
-      "segment": [
-        "leon",
-        "aguascalientes"
-      ]
-    },
-    {
-      "title": "#Tomeprecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del Km 006+300 de la carretera Poza Rica- Veracruz dirección Papantla, Ver. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 6.3,
+      "km": 87,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2087306429124211003#m",
-      "timestamp": "2026-08-11T22:33:27+00:00",
-      "timestamp_display": "11/08/2026 16:33 CST",
+      "url": "https://nitter.net/CAPUFE/status/2087562003929874555#m",
+      "timestamp": "2026-08-12T15:29:01+00:00",
+      "timestamp_display": "12/08/2026 09:29 CST",
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 184+000 de la carretera Zinapécuaro - Maravatío dirección Maravatío. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Libramiento Cuernavaca, km 86, dirección Acapulco. El accidente ha sido atendido. Se restablece la circulación en carriles laterales. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 19.9,
-      "lng": -100.45,
+      "lat": 18.93,
+      "lng": -99.22,
       "road": null,
-      "km": 184.0,
+      "km": 86,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2087305869511860701#m",
-      "timestamp": "2026-08-11T22:31:14+00:00",
-      "timestamp_display": "11/08/2026 16:31 CST",
+      "url": "https://nitter.net/CAPUFE/status/2087560905202467089#m",
+      "timestamp": "2026-08-12T15:24:39+00:00",
+      "timestamp_display": "12/08/2026 09:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Durango - Mazatlán, km 28, dirección Durango. Se atiende volcadura de tracto camión tipo pipa. Por el momento, sin afectación en los carriles de circulación. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/iLtb1wWcRFi4JtAS7",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 28,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087517138856681728#m",
+      "timestamp": "2026-08-12T12:30:44+00:00",
+      "timestamp_display": "12/08/2026 06:30 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 28. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087543140509003887#m",
+      "timestamp": "2026-08-12T14:14:04+00:00",
+      "timestamp_display": "12/08/2026 08:14 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Durango - Mazatlán, km 28. Se informa a las personas usuarias que se restablece la circulación en ambos sentidos. El personal continúa con la atención del accidente, al momento sin afectación a los carriles de rodamiento. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 28,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087557333987491953#m",
+      "timestamp": "2026-08-12T15:10:28+00:00",
+      "timestamp_display": "12/08/2026 09:10 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 86, dirección Acapulco. Reducción de carriles laterales por atención de accidente (choque por alcance). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087554860291891550#m",
+      "timestamp": "2026-08-12T15:00:38+00:00",
+      "timestamp_display": "12/08/2026 09:00 CST",
       "segment": null
     },
     {
@@ -313,32 +391,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087543928190828780#m",
       "timestamp": "2026-08-12T14:17:11+00:00",
       "timestamp_display": "12/08/2026 08:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Durango - Mazatlán, km 28, dirección Durango. Se atiende volcadura de tracto camión tipo pipa. Por el momento, sin afectación en los carriles de circulación. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/iLtb1wWcRFi4JtAS7",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 28,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087517138856681728#m",
-      "timestamp": "2026-08-12T12:30:44+00:00",
-      "timestamp_display": "12/08/2026 06:30 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 28. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 28,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087543140509003887#m",
-      "timestamp": "2026-08-12T14:14:04+00:00",
-      "timestamp_display": "12/08/2026 08:14 CST",
       "segment": null
     },
     {
@@ -469,45 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087510101342990733#m",
       "timestamp": "2026-08-12T12:02:46+00:00",
       "timestamp_display": "12/08/2026 06:02 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Las Choapas - Ocozocoautla, km 172. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 172,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087505598443147411#m",
-      "timestamp": "2026-08-12T11:44:53+00:00",
-      "timestamp_display": "12/08/2026 05:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza, dirección Acatzingo. Reducción de carriles por atención de accidente (choque de tracto camión en las inmediaciones de la plaza de cobro). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087505125426266496#m",
-      "timestamp": "2026-08-12T11:43:00+00:00",
-      "timestamp_display": "12/08/2026 05:43 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Lagos de Moreno - San Luis Potosí, km 57. Registra cierre a la circulación en ambos sentidos por atención de accidente (choque por alcance entre tracto camiones). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
-      "road": null,
-      "km": 57,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087504275039453369#m",
-      "timestamp": "2026-08-12T11:39:37+00:00",
-      "timestamp_display": "12/08/2026 05:39 CST",
       "segment": null
     }
   ]
