@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-12T21:29:51.374261",
+  "last_update": "2026-08-12T22:20:51.707211",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del Km 079+900 de la carretera Saltillo-Monterrey con dirección Santa Catarina. Atienda indicación vial.",
@@ -280,6 +280,129 @@
       ]
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 10. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y vehículos particulares. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/qtRF44PEv5eSZ1Pg7",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 10,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087598224852881531#m",
+      "timestamp": "2026-08-12T17:52:57+00:00",
+      "timestamp_display": "12/08/2026 11:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos. El personal se encuentra realizando las maniobras de grúa para el retiro de unidades siniestradas. ➡ Por seguridad de las personas usuarias se cierra la vialidad desde la Plaza de cobro Tehuacán en dirección Cuacnopalan, con desvío hacia carretera libre. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 10,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087644053680566331#m",
+      "timestamp": "2026-08-12T20:55:03+00:00",
+      "timestamp_display": "12/08/2026 14:55 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 10,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087663300209177027#m",
+      "timestamp": "2026-08-12T22:11:32+00:00",
+      "timestamp_display": "12/08/2026 16:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 148 al 158, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 148,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087661258610782380#m",
+      "timestamp": "2026-08-12T22:03:25+00:00",
+      "timestamp_display": "12/08/2026 16:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoQuerétaro, del km 127 al 129, dirección Querétaro. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 127,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087660405157962181#m",
+      "timestamp": "2026-08-12T22:00:02+00:00",
+      "timestamp_display": "12/08/2026 16:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 89 al 91, dirección Puebla. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.282409700124656,
+      "lng": -98.45193857164863,
+      "road": 150,
+      "km": 71,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087660402457153561#m",
+      "timestamp": "2026-08-12T22:00:01+00:00",
+      "timestamp_display": "12/08/2026 16:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 #AutMéxicoPuebla, del km 70 al 71, dirección CDMX. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.347290945503214,
+      "lng": -98.61211543345522,
+      "road": 150,
+      "km": 52,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087660400816894216#m",
+      "timestamp": "2026-08-12T22:00:01+00:00",
+      "timestamp_display": "12/08/2026 16:00 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 278, dirección Córdoba. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 278,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087660397105123498#m",
+      "timestamp": "2026-08-12T22:00:00+00:00",
+      "timestamp_display": "12/08/2026 16:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. Reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 46,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087656943611527380#m",
+      "timestamp": "2026-08-12T21:46:16+00:00",
+      "timestamp_display": "12/08/2026 15:46 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Salina Cruz - La Ventosa, km 10. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/mtR8cEfacHasrYn78",
       "type": "twitter",
       "lat": 16.17,
@@ -329,45 +452,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087648525634986035#m",
       "timestamp": "2026-08-12T21:12:49+00:00",
       "timestamp_display": "12/08/2026 15:12 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 10. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y vehículos particulares. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/qtRF44PEv5eSZ1Pg7",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087598224852881531#m",
-      "timestamp": "2026-08-12T17:52:57+00:00",
-      "timestamp_display": "12/08/2026 11:52 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos. El personal se encuentra laborando en la atención del accidente. ➡ Por seguridad de las personas usuarias se cierra la vialidad desde la Plaza de cobro Tehuacán en dirección Cuacnopalan, con desvío hacia carretera libre. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 10,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087639087628820558#m",
-      "timestamp": "2026-08-12T20:35:19+00:00",
-      "timestamp_display": "12/08/2026 14:35 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Aut. Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que continúa el cierre a la circulación en ambos sentidos. El personal se encuentra realizando las maniobras de grúa para el retiro de unidades siniestradas. ➡ Por seguridad de las personas usuarias se cierra la vialidad desde la Plaza de cobro Tehuacán en dirección Cuacnopalan, con desvío hacia carretera libre. La carretera libre no es operada por CAPUFE. Para más información de la ruta alterna llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 10,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087644053680566331#m",
-      "timestamp": "2026-08-12T20:55:03+00:00",
-      "timestamp_display": "12/08/2026 14:55 CST",
       "segment": null
     },
     {
@@ -462,58 +546,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087612905965384030#m",
       "timestamp": "2026-08-12T18:51:17+00:00",
       "timestamp_display": "12/08/2026 12:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Aut. Cd. Mendoza - Córdoba, km 294. Cierre a la circulación en ambos sentidos por atención del accidente (maniobras para el retiro de unidad siniestrada y reacomodo de muro central). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 294,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087607505404699120#m",
-      "timestamp": "2026-08-12T18:29:49+00:00",
-      "timestamp_display": "12/08/2026 12:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Cd. Mendoza - Córdoba, km 294, dirección Córdoba. Cierre a la circulación por atención de accidente (choque contra muro central). 🔘 Dirección Cd. Mendoza, registra reducción de carriles. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 294,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087605154744881637#m",
-      "timestamp": "2026-08-12T18:20:29+00:00",
-      "timestamp_display": "12/08/2026 12:20 CST",
-      "segment": null
-    },
-    {
-      "title": "📞 Si presencias un accidente en alguna autopista operada por CAPUFE, repórtalo de inmediato al 074. Tu llamada puede hacer la diferencia para una atención oportuna. #EnCAPUFEEstamosParaServirte",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087599999974785264#m",
-      "timestamp": "2026-08-12T18:00:00+00:00",
-      "timestamp_display": "12/08/2026 12:00 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ AVISO IMPORTANTE⚠️ Aut. Querétaro - Irapuato, km 78, dirección Irapuato. Se informa a las personas usuarias que continúa carga vehicular por caravana de peregrinos avanzando. Se recomienda atender las indicaciones viales y manejar con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 78,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087599812375879730#m",
-      "timestamp": "2026-08-12T17:59:15+00:00",
-      "timestamp_display": "12/08/2026 11:59 CST",
       "segment": null
     }
   ]
