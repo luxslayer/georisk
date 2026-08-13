@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13T10:28:52.953325",
+  "last_update": "2026-08-13T11:22:41.018572",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Hidalgo continua presencia personas cerca del Km 058+000 de la carretera Actopan-Ixmiquilpan dirección Actopan. Maneje con precaución.",
@@ -277,6 +277,74 @@
       "segment": null
     },
     {
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087860963173175729#m",
+      "timestamp": "2026-08-13T11:16:58+00:00",
+      "timestamp_display": "13/08/2026 05:16 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087858017605750786#m",
+      "timestamp": "2026-08-13T11:05:16+00:00",
+      "timestamp_display": "13/08/2026 05:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Agua Dulce - Cárdenas, km 86, dirección Agua Dulce. Cierre a la circulación por atención de accidente (incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087857899372523850#m",
+      "timestamp": "2026-08-13T11:04:48+00:00",
+      "timestamp_display": "13/08/2026 05:04 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.8885,
+      "lng": -96.9369,
+      "road": null,
+      "km": 288,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087850835686416441#m",
+      "timestamp": "2026-08-13T10:36:44+00:00",
+      "timestamp_display": "13/08/2026 04:36 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 57, dirección Córdoba. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.812753677613703,
+      "lng": -96.3945219682711,
+      "road": 150,
+      "km": 57,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087850123564826681#m",
+      "timestamp": "2026-08-13T10:33:54+00:00",
+      "timestamp_display": "13/08/2026 04:33 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 105, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -472,58 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087740762955919772#m",
       "timestamp": "2026-08-13T03:19:20+00:00",
       "timestamp_display": "12/08/2026 21:19 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087737782244438042#m",
-      "timestamp": "2026-08-13T03:07:30+00:00",
-      "timestamp_display": "12/08/2026 21:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cd. Mendoza - Córdoba, km 285, dirección Córdoba. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 285,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087728998528713182#m",
-      "timestamp": "2026-08-13T02:32:36+00:00",
-      "timestamp_display": "12/08/2026 20:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 46. Continúa cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Ozumba permanecerá cerrada en dirección Amecameca. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087722986820207005#m",
-      "timestamp": "2026-08-13T02:08:42+00:00",
-      "timestamp_display": "12/08/2026 20:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 285, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance entre tracto camión y camioneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 285,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087722303211573718#m",
-      "timestamp": "2026-08-13T02:05:59+00:00",
-      "timestamp_display": "12/08/2026 20:05 CST",
       "segment": null
     }
   ]
