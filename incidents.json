@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-08-13T04:29:36.200784",
+  "last_update": "2026-08-13T06:00:24.986279",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Puebla tras presencia de personas cerca del Km 184+340 de la autopista Tulancingo-Tihuatlán a la altura de la caseta de cobro \"El Piñal\". Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 184.34,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2087769565862191269#m",
+      "timestamp": "2026-08-13T05:13:48+00:00",
+      "timestamp_display": "12/08/2026 23:13 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #Hidalgo se registra presencia personas cerca del Km 058+000 de la carretera Actopan-Ixmiquilpan dirección Actopan. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 58.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2087768297051652406#m",
+      "timestamp": "2026-08-13T05:08:45+00:00",
+      "timestamp_display": "12/08/2026 23:08 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomeprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 046+200 de la carretera Santa Bárbara-Izúcar de Matamoros con dirección Cuautla Mor. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 46.2,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2087762036667142201#m",
+      "timestamp": "2026-08-13T04:43:52+00:00",
+      "timestamp_display": "12/08/2026 22:43 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #NuevoLeón tras #AccidenteVial cerca del Km 079+900 de la carretera Saltillo-Monterrey. Maneje con precaución.",
       "type": "twitter",
@@ -232,45 +271,16 @@
       "segment": null
     },
     {
-      "title": "#Tomeprecauciones en #NuevoLeón se registra cierre parcial de circulación por #AccidenteVial cerca del Km 079+900 de la carretera Saltillo-Monterrey con dirección Santa Catarina. Atienda indicación vial.",
+      "title": "🟠 CARGA VEHICULAR 🟠 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. El accidente ha sido atendido. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
-      "lat": 25.6961307,
-      "lng": -100.5784111,
-      "road": 40,
-      "km": 59.900000000000006,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2087632018519601654#m",
-      "timestamp": "2026-08-12T20:07:14+00:00",
-      "timestamp_display": "12/08/2026 14:07 CST",
-      "segment": [
-        "saltillo",
-        "monterrey"
-      ]
-    },
-    {
-      "title": "#Tomeprecauciones en #Puebla se registra cierre total de circulación por #AccidenteVial cerca del Km 009+800 de la carretera Cuacnopalan-Oaxaca con dirección Puebla. Se orienta a la ciudadanía #Rutaalterna por carretera Tehuacán-Puebla. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 23.5,
+      "lng": -102.0,
       "road": null,
-      "km": 9.8,
+      "km": 46,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2087629616043139474#m",
-      "timestamp": "2026-08-12T19:57:41+00:00",
-      "timestamp_display": "12/08/2026 13:57 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomeprecauciones en #Sonora se registra cierre parcial de circulación por #AccidenteVial cerca del Km 052+000 de la carretera Imuris-Agua Prieta con dirección Agua Prieta, Son. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 31.3177,
-      "lng": -109.5504,
-      "road": null,
-      "km": 52.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2087617976283361538#m",
-      "timestamp": "2026-08-12T19:11:26+00:00",
-      "timestamp_display": "12/08/2026 13:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2087766481371091390#m",
+      "timestamp": "2026-08-13T05:01:32+00:00",
+      "timestamp_display": "12/08/2026 23:01 CST",
       "segment": null
     },
     {
@@ -297,6 +307,32 @@
       "url": "https://nitter.net/CAPUFE/status/2087742933885706685#m",
       "timestamp": "2026-08-13T03:27:58+00:00",
       "timestamp_display": "12/08/2026 21:27 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Puebla - Acatzingo, km 136, dirección Puebla. Se informa a las personas usuarias que se registra circulación intermitente por maniobras de grúa para el retiro de las unidades siniestradas. Carga vehicular intensa en la zona. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 136,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087763126494069075#m",
+      "timestamp": "2026-08-13T04:48:12+00:00",
+      "timestamp_display": "12/08/2026 22:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 250,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087758604665319627#m",
+      "timestamp": "2026-08-13T04:30:14+00:00",
+      "timestamp_display": "12/08/2026 22:30 CST",
       "segment": null
     },
     {
@@ -493,61 +529,6 @@
       "timestamp": "2026-08-12T23:53:18+00:00",
       "timestamp_display": "12/08/2026 17:53 CST",
       "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Salina Cruz - La Ventosa, km 10. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/mtR8cEfacHasrYn78",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087579634732839187#m",
-      "timestamp": "2026-08-12T16:39:04+00:00",
-      "timestamp_display": "12/08/2026 10:39 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Salina Cruz - La Ventosa, km 10. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución. Para más información, llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087682108051402859#m",
-      "timestamp": "2026-08-12T23:26:16+00:00",
-      "timestamp_display": "12/08/2026 17:26 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Salina Cruz - La Ventosa, km 10. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 16.17,
-      "lng": -95.2,
-      "road": null,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087685449984733503#m",
-      "timestamp": "2026-08-12T23:39:33+00:00",
-      "timestamp_display": "12/08/2026 17:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Aut. Córdoba - Veracruz, del km 48 al 55. Continúa circulación en contraflujo por labores de mantenimiento. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.78185944503198,
-      "lng": -96.4699562751055,
-      "road": 150,
-      "km": 48,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087681160025448534#m",
-      "timestamp": "2026-08-12T23:22:30+00:00",
-      "timestamp_display": "12/08/2026 17:22 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
