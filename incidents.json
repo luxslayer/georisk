@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13T11:22:41.018572",
+  "last_update": "2026-08-13T12:09:08.715130",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Hidalgo continua presencia personas cerca del Km 058+000 de la carretera Actopan-Ixmiquilpan dirección Actopan. Maneje con precaución.",
@@ -277,6 +277,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección Isla. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 106,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087871018152997080#m",
+      "timestamp": "2026-08-13T11:56:56+00:00",
+      "timestamp_display": "13/08/2026 05:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Agua Dulce - Cárdenas, km 86, dirección Agua Dulce. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (incendio de tracto camión). Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 86,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087863324906000789#m",
+      "timestamp": "2026-08-13T11:26:21+00:00",
+      "timestamp_display": "13/08/2026 05:26 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -514,32 +540,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087758604665319627#m",
       "timestamp": "2026-08-13T04:30:14+00:00",
       "timestamp_display": "12/08/2026 22:30 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. Continúa cierre a la circulación desde la Plaza de Cobro Ozumba, por atención de accidente (maniobras para el retiro de la unidad siniestrada). ➡ Dirección Amecameca, se restablece la circulación de manera normal. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087742376391422236#m",
-      "timestamp": "2026-08-13T03:25:45+00:00",
-      "timestamp_display": "12/08/2026 21:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 250, dirección Acatzingo. Reducción de carriles por atención de accidente (volcadura de camioneta). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 250,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087740762955919772#m",
-      "timestamp": "2026-08-13T03:19:20+00:00",
-      "timestamp_display": "12/08/2026 21:19 CST",
       "segment": null
     }
   ]
