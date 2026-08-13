@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13T07:52:40.250662",
+  "last_update": "2026-08-13T09:11:57.476255",
   "incidents": [
     {
       "title": "#ViaLibre en #Puebla tras presencia de personas cerca del Km 184+340 de la autopista Tulancingo-Tihuatlán a la altura de la caseta de cobro \"El Piñal\". Maneje con precaución.",
@@ -271,6 +271,22 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 57, dirección Córdoba. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.812753677613703,
+      "lng": -96.3945219682711,
+      "road": 150,
+      "km": 57,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087812256323035448#m",
+      "timestamp": "2026-08-13T08:03:26+00:00",
+      "timestamp_display": "13/08/2026 02:03 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 105, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -489,19 +505,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087713125596287167#m",
       "timestamp": "2026-08-13T01:29:31+00:00",
       "timestamp_display": "12/08/2026 19:29 CST",
-      "segment": null
-    },
-    {
-      "title": "🚗 Antes de salir, consulta nuestros canales oficiales. Síguenos y recibe información útil para planear tu viaje. #EnCAPUFEEstamosParaServirte #CAPUFEInforma",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087705701300797622#m",
-      "timestamp": "2026-08-13T01:00:01+00:00",
-      "timestamp_display": "12/08/2026 19:00 CST",
       "segment": null
     }
   ]
