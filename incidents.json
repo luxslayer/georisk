@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13T06:00:24.986279",
+  "last_update": "2026-08-13T07:52:40.250662",
   "incidents": [
     {
       "title": "#ViaLibre en #Puebla tras presencia de personas cerca del Km 184+340 de la autopista Tulancingo-Tihuatlán a la altura de la caseta de cobro \"El Piñal\". Maneje con precaución.",
@@ -271,16 +271,55 @@
       "segment": null
     },
     {
-      "title": "🟠 CARGA VEHICULAR 🟠 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. El accidente ha sido atendido. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 105, dirección La Tinaja. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de la unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 105,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087807731545608463#m",
+      "timestamp": "2026-08-13T07:45:27+00:00",
+      "timestamp_display": "13/08/2026 01:45 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 105, dirección La Tinaja. Registra cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 105,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087804097881608567#m",
+      "timestamp": "2026-08-13T07:31:01+00:00",
+      "timestamp_display": "13/08/2026 01:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
       "km": 46,
       "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087766481371091390#m",
-      "timestamp": "2026-08-13T05:01:32+00:00",
-      "timestamp_display": "12/08/2026 23:01 CST",
+      "url": "https://nitter.net/CAPUFE/status/2087801708772462682#m",
+      "timestamp": "2026-08-13T07:21:31+00:00",
+      "timestamp_display": "13/08/2026 01:21 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087797796543897701#m",
+      "timestamp": "2026-08-13T07:05:58+00:00",
+      "timestamp_display": "13/08/2026 01:05 CST",
       "segment": null
     },
     {
@@ -297,19 +336,6 @@
       "segment": null
     },
     {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Puebla - Acatzingo, km 136, dirección Puebla. Se informa a las personas usuarias que continúa reducción de carriles por atención de choque por alcance múltiple entre tracto camiones y automóviles. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": 136,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087742933885706685#m",
-      "timestamp": "2026-08-13T03:27:58+00:00",
-      "timestamp_display": "12/08/2026 21:27 CST",
-      "segment": null
-    },
-    {
       "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Puebla - Acatzingo, km 136, dirección Puebla. Se informa a las personas usuarias que se registra circulación intermitente por maniobras de grúa para el retiro de las unidades siniestradas. Carga vehicular intensa en la zona. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
       "lat": 19.0414,
@@ -320,6 +346,45 @@
       "url": "https://nitter.net/CAPUFE/status/2087763126494069075#m",
       "timestamp": "2026-08-13T04:48:12+00:00",
       "timestamp_display": "12/08/2026 22:48 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Puebla - Acatzingo, km 136, dirección Puebla. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 136,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087797219243995558#m",
+      "timestamp": "2026-08-13T07:03:41+00:00",
+      "timestamp_display": "13/08/2026 01:03 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 106,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2087788344486875462#m",
+      "timestamp": "2026-08-13T06:28:25+00:00",
+      "timestamp_display": "13/08/2026 00:28 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. El accidente ha sido atendido. En la zona se registra carga vehicular. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 46,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2087766481371091390#m",
+      "timestamp": "2026-08-13T05:01:32+00:00",
+      "timestamp_display": "12/08/2026 23:01 CST",
       "segment": null
     },
     {
@@ -437,97 +502,6 @@
       "url": "https://nitter.net/CAPUFE/status/2087705701300797622#m",
       "timestamp": "2026-08-13T01:00:01+00:00",
       "timestamp_display": "12/08/2026 19:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, km 10. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camión y vehículos particulares. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/qtRF44PEv5eSZ1Pg7",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 10,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087598224852881531#m",
-      "timestamp": "2026-08-12T17:52:57+00:00",
-      "timestamp_display": "12/08/2026 11:52 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular intensa. Unidades de CAPUFE realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 10,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087663300209177027#m",
-      "timestamp": "2026-08-12T22:11:32+00:00",
-      "timestamp_display": "12/08/2026 16:11 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tehuacán - Oaxaca, km 10. Se informa a las personas usuarias que el accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 10,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087704651328065633#m",
-      "timestamp": "2026-08-13T00:55:51+00:00",
-      "timestamp_display": "12/08/2026 18:55 CST",
-      "segment": null
-    },
-    {
-      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087701840041283940#m",
-      "timestamp": "2026-08-13T00:44:40+00:00",
-      "timestamp_display": "12/08/2026 18:44 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Registra carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2087698875607830868#m",
-      "timestamp": "2026-08-13T00:32:54+00:00",
-      "timestamp_display": "12/08/2026 18:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Amecameca - Nepantla, km 46. Cierre a la circulación en ambos sentidos por atención de accidente (maniobras para el retiro de la unidad siniestrada). 🔘 Por seguridad de las personas usuarias, la Plaza de Cobro Ozumba permanecerá cerrada en dirección Amecameca. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087697253301428474#m",
-      "timestamp": "2026-08-13T00:26:27+00:00",
-      "timestamp_display": "12/08/2026 18:26 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 46, dirección Nepantla. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 46,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2087688910503543183#m",
-      "timestamp": "2026-08-12T23:53:18+00:00",
-      "timestamp_display": "12/08/2026 17:53 CST",
       "segment": null
     }
   ]
