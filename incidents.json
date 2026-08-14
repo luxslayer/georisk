@@ -1,6 +1,48 @@
 {
-  "last_update": "2026-08-14T22:49:42.274469",
+  "last_update": "2026-08-14T23:21:20.898082",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones del Mpio. de Tehuacán. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": 24.8,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088402067668750562#m",
+      "timestamp": "2026-08-14T23:07:08+00:00",
+      "timestamp_display": "14/08/2026 17:07 CST",
+      "segment": null
+    },
+    {
+      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 135+500, de la carretera Amozoc-Teziutlán, a inmediaciones del Mpio. de Tlatlauquitepec. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": 135.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088400980010217853#m",
+      "timestamp": "2026-08-14T23:02:48+00:00",
+      "timestamp_display": "14/08/2026 17:02 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 030+300, de la carretera México-Puebla, a inmediaciones del Mpio. San Matías Tepetomatitlán, con dirección a Tlaxcala. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 19.291434473967144,
+      "lng": -98.90296060970326,
+      "road": 150,
+      "km": 12.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088398922473517092#m",
+      "timestamp": "2026-08-14T22:54:38+00:00",
+      "timestamp_display": "14/08/2026 16:54 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
     {
       "title": "#TomePrecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del km 121+700, de la carretera Tepic-Puerto Vallarta, a inmediaciones de la localidad de San Pancho y Sayulita, con dirección a Tepic. Atienda indicación vial.",
       "type": "twitter",
@@ -229,42 +271,16 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km. 069+600 de la carretera Amozoc-Teziutlan. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088315769914323080#m",
-      "timestamp": "2026-08-14T17:24:13+00:00",
-      "timestamp_display": "14/08/2026 11:24 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomeloEnCuenta en #SLP se registra presencia de personas, cerca del km 064+000, de la carretera Aut. Ventura - Peyote, a la altura del Mpio. Villa Hidalgo, S.L.P. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Aut. Puente de Ixtla - Iguala, km 20. Continúa circulación en contraflujo por atención de incidente (tracto camión con falla mecánica). Atiende las indicaciones viales y maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
       "road": null,
-      "km": 64.0,
+      "km": 20,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2088312128851575043#m",
-      "timestamp": "2026-08-14T17:09:45+00:00",
-      "timestamp_display": "14/08/2026 11:09 CST",
-      "segment": null
-    },
-    {
-      "title": "#PrecauciónVial en #EdoMéx se registra presencia de personas, cerca del km 013+100, de la carretera Toluca-Palmillas, a la altura de la Plaza de Cobro El Dorado, Toluca, Edo. Méx. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.2826,
-      "lng": -99.6557,
-      "road": null,
-      "km": 13.1,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2088309353694523748#m",
-      "timestamp": "2026-08-14T16:58:43+00:00",
-      "timestamp_display": "14/08/2026 10:58 CST",
+      "url": "https://nitter.net/CAPUFE/status/2088401670564917315#m",
+      "timestamp": "2026-08-14T23:05:33+00:00",
+      "timestamp_display": "14/08/2026 17:05 CST",
       "segment": null
     },
     {
@@ -519,19 +535,6 @@
         "queretaro",
         "san luis potosi"
       ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cd. Mendoza - Córdoba, km 283, dirección Córdoba. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.8885,
-      "lng": -96.9369,
-      "road": null,
-      "km": 283,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088329199052550465#m",
-      "timestamp": "2026-08-14T18:17:34+00:00",
-      "timestamp_display": "14/08/2026 12:17 CST",
-      "segment": null
     }
   ]
 }
