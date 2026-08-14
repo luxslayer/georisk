@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-14T20:48:25.970459",
+  "last_update": "2026-08-14T21:24:46.548666",
   "incidents": [
+    {
+      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahualulco. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": null,
+      "km": 104.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088372333878939925#m",
+      "timestamp": "2026-08-14T21:08:59+00:00",
+      "timestamp_display": "14/08/2026 15:08 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Puebla se registra cierre parcial de circulación por #AccidenteVial cerca del km 065+500, de la carretera Amozoc - Teziutlan, a la altura de la localidad Oriental, con dirección a Amozoc. Atienda indicación vial.",
       "type": "twitter",
@@ -255,16 +268,29 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 248+900, de la carretera Maravatío-Zapotlanejo, a inmediaciones del municipio El Nispo, con dirección a Zapotlanejo. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Ent. San José - Ent. Corral de Piedra, km 13. Cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de unidad siniestrada que trasporta combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/Wy8XvAkRm9MFtPmP8",
       "type": "twitter",
-      "lat": 20.57,
-      "lng": -103.25,
-      "road": 15,
-      "km": 248.9,
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 13,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088283136098533697#m",
-      "timestamp": "2026-08-14T15:14:32+00:00",
-      "timestamp_display": "14/08/2026 09:14 CST",
+      "url": "https://nitter.net/CAPUFE/status/2088371382153302052#m",
+      "timestamp": "2026-08-14T21:05:12+00:00",
+      "timestamp_display": "14/08/2026 15:05 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Ent. San José - Ent. Corral de Piedra, km 13. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 13,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088375871648244146#m",
+      "timestamp": "2026-08-14T21:23:02+00:00",
+      "timestamp_display": "14/08/2026 15:23 CST",
       "segment": null
     },
     {
@@ -502,32 +528,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088319391565820284#m",
       "timestamp": "2026-08-14T17:38:36+00:00",
       "timestamp_display": "14/08/2026 11:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tehuacán - Oaxaca, km 24. Continúa reducción de carriles en ambos sentidos por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": 24,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088318718526783645#m",
-      "timestamp": "2026-08-14T17:35:56+00:00",
-      "timestamp_display": "14/08/2026 11:35 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Carga vehicular en ambos sentidos por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088317885764497427#m",
-      "timestamp": "2026-08-14T17:32:37+00:00",
-      "timestamp_display": "14/08/2026 11:32 CST",
       "segment": null
     }
   ]
