@@ -1,6 +1,71 @@
 {
-  "last_update": "2026-08-14T11:57:12.153594",
+  "last_update": "2026-08-14T13:17:27.507135",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 248+900 de la carretera Maravatío-Zapotlanejo, a inmediaciones del Municipio Morelia, con dirección a Ecuandureo. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.57,
+      "lng": -103.25,
+      "road": 15,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088249335779602514#m",
+      "timestamp": "2026-08-14T13:00:14+00:00",
+      "timestamp_display": "14/08/2026 07:00 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Jalisco con circulación por #AccidenteVial cerca del km. 463+000 de la carretera Maravatío-Zapotlanejo, a inmediaciones del municipio Guadalajara, con dirección a Guadalajara. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": 15,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088248611628871780#m",
+      "timestamp": "2026-08-14T12:57:21+00:00",
+      "timestamp_display": "14/08/2026 06:57 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Michoacan continua cierre de circulación por #AccidenteVial y incendio de un vehículo, cerca del km. 045+800 de la carretera Morelia-Pátzcuaro, en desviación a Macrolibramiento de Morelia , con dirección a Morelia, Mich.",
+      "type": "twitter",
+      "lat": 19.51,
+      "lng": -101.61,
+      "road": 14,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088239388278894896#m",
+      "timestamp": "2026-08-14T12:20:42+00:00",
+      "timestamp_display": "14/08/2026 06:20 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por la #RutaAlterna en la carretera Libre Morelia-Uruapan.",
+      "type": "twitter",
+      "lat": 19.7,
+      "lng": -101.18,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2088239389717508565#m",
+      "timestamp": "2026-08-14T12:20:42+00:00",
+      "timestamp_display": "14/08/2026 06:20 CST",
+      "segment": null
+    },
+    {
+      "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 029+900 de la carretera Libramiento Guadalajara Sur, a inmediaciones del municipio Guadalajara, con dirección a Guadalajara. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088238104289095735#m",
+      "timestamp": "2026-08-14T12:15:36+00:00",
+      "timestamp_display": "14/08/2026 06:15 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 281+000 de la carretera Acalpican-Manzanillo, a inmediaciones del municipio Manzanillo, con dirección a Manzanillo, atienda indicación vial.",
       "type": "twitter",
@@ -200,68 +265,55 @@
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #SLP tras accidente cerca del km. 118+800 de la carretera San Luis Potosí-Matehuala, a la altura de la localidad El Refugio, con dirección SLP. Maneje con precaución.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 153, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidad siniestrada). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
       "type": "twitter",
-      "lat": 22.15,
-      "lng": -100.98,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": null,
+      "km": 153,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088076404713722005#m",
-      "timestamp": "2026-08-14T01:33:04+00:00",
-      "timestamp_display": "13/08/2026 19:33 CST",
+      "url": "https://nitter.net/CAPUFE/status/2088251985283702999#m",
+      "timestamp": "2026-08-14T13:10:45+00:00",
+      "timestamp_display": "14/08/2026 07:10 CST",
       "segment": null
     },
     {
-      "title": "#VialidadLibre en #Jalisco tras accidente cerca del km. 018+700 de la carretera Guadalajara-Juchipila, a inmediaciones del municipio Guadalajara, maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088062780733530378#m",
-      "timestamp": "2026-08-14T00:38:55+00:00",
-      "timestamp_display": "13/08/2026 18:38 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Campeche continua cierre parcial de circulación por #AccidenteVial cerca del km. 110+100 de la carretera Villahermosa-Cd. Carmen, a la altura del Mpio. Carmen, con dirección a Cd. del Carmen. Atienda indicación vial.",
+      "title": "🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
       "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088057087074934847#m",
-      "timestamp": "2026-08-14T00:16:18+00:00",
-      "timestamp_display": "13/08/2026 18:16 CST",
-      "segment": null
-    },
-    {
-      "title": "#EviteLaZona en #Chiapas continua cierre total de circulación por conclusión de maniobras tras #AccidenteVial cerca del Km 026+000 de la autopista Ocozocoautla-Arriaga. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 26.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088054297992839652#m",
-      "timestamp": "2026-08-14T00:05:13+00:00",
-      "timestamp_display": "13/08/2026 18:05 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @GN_Carreteras: Se brinda orientación a la ciudadanía para continuar por las #RutasAlternas * Con dirección Arriaga, Chis., desviación en Km. 071+000 a la Carr. Libre. * Con dirección Tuxtla Gutiérrez, Chis., desviación en Km. 020+300 a la Carr. Libre.",
-      "type": "twitter",
-      "lat": 16.75,
-      "lng": -93.12,
       "road": null,
       "km": null,
       "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2088054299750187199#m",
-      "timestamp": "2026-08-14T00:05:13+00:00",
-      "timestamp_display": "13/08/2026 18:05 CST",
+      "url": "https://nitter.net/CAPUFE/status/2088237136134733986#m",
+      "timestamp": "2026-08-14T12:11:45+00:00",
+      "timestamp_display": "14/08/2026 06:11 CST",
+      "segment": null
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088234159495905419#m",
+      "timestamp": "2026-08-14T11:59:55+00:00",
+      "timestamp_display": "14/08/2026 05:59 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Acatzingo - Cd. Mendoza, km 228, dirección Acatzingo. Reducción de carriles por atención de accidente (salida del camino y choque contra barrera metálica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 228,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088233620808892792#m",
+      "timestamp": "2026-08-14T11:57:47+00:00",
+      "timestamp_display": "14/08/2026 05:57 CST",
       "segment": null
     },
     {
@@ -483,51 +535,6 @@
       "timestamp": "2026-08-14T05:58:18+00:00",
       "timestamp_display": "13/08/2026 23:58 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 18, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.3560041,
-      "lng": -98.9921932,
-      "road": 150,
-      "km": 0,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088134383530115318#m",
-      "timestamp": "2026-08-14T05:23:27+00:00",
-      "timestamp_display": "13/08/2026 23:23 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🚧 #AVISO a las personas usuarias de la autopista #ChamapaLechería 🚧 A partir del 14 de agosto, permanecerá inhabilitado el acceso del km 16, dirección Chamapa (Centro Ford), debido a trabajos de mantenimiento y reparación. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 16,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088133553607385475#m",
-      "timestamp": "2026-08-14T05:20:09+00:00",
-      "timestamp_display": "13/08/2026 23:20 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Aut. Córdoba - Veracruz, km 85, dirección Veracruz. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 19.019122388315687,
-      "lng": -96.24326717555853,
-      "road": 150,
-      "km": 85,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088125523771674664#m",
-      "timestamp": "2026-08-14T04:48:15+00:00",
-      "timestamp_display": "13/08/2026 22:48 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
