@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-14T07:44:00.434551",
+  "last_update": "2026-08-14T08:49:11.469313",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 281+000 de la carretera Acalpican-Manzanillo, a inmediaciones del municipio Manzanillo, con dirección a Manzanillo, atienda indicación vial.",
@@ -265,6 +265,77 @@
       "segment": null
     },
     {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Circulación intermitente por labores de mantenimiento. En la zona se registra circulación lenta. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088182285740786122#m",
+      "timestamp": "2026-08-14T08:33:48+00:00",
+      "timestamp_display": "14/08/2026 02:33 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 18, dirección CDMX. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 19.3560041,
+      "lng": -98.9921932,
+      "road": 150,
+      "km": 0,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088180122394189830#m",
+      "timestamp": "2026-08-14T08:25:12+00:00",
+      "timestamp_display": "14/08/2026 02:25 CST",
+      "segment": [
+        "mexico",
+        "puebla"
+      ]
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 48. El incidente ha sido atendido. Sin embargo, continúa circulación en contraflujo por labores de mantenimiento. Atiende las indicaciones viales y maneja con precaución. 🚌🚙🚗🏍️.",
+      "type": "twitter",
+      "lat": 18.78185944503198,
+      "lng": -96.4699562751055,
+      "road": 150,
+      "km": 48,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088177791023874162#m",
+      "timestamp": "2026-08-14T08:15:56+00:00",
+      "timestamp_display": "14/08/2026 02:15 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088175066131427595#m",
+      "timestamp": "2026-08-14T08:05:06+00:00",
+      "timestamp_display": "14/08/2026 02:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088171990263713925#m",
+      "timestamp": "2026-08-14T07:52:53+00:00",
+      "timestamp_display": "14/08/2026 01:52 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra circulación lenta. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -460,74 +531,6 @@
       "timestamp": "2026-08-14T04:33:01+00:00",
       "timestamp_display": "13/08/2026 22:33 CST",
       "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Puente de Ixtla - Iguala, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088117211009315214#m",
-      "timestamp": "2026-08-14T04:15:13+00:00",
-      "timestamp_display": "13/08/2026 22:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoCuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088115848498028861#m",
-      "timestamp": "2026-08-14T04:09:48+00:00",
-      "timestamp_display": "13/08/2026 22:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Libramiento Cuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088115635628740831#m",
-      "timestamp": "2026-08-14T04:08:57+00:00",
-      "timestamp_display": "13/08/2026 22:08 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Autopista Cuernavaca - Acapulco, registra #lluvia del km 120 al 114. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 120,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088110557912092886#m",
-      "timestamp": "2026-08-14T03:48:46+00:00",
-      "timestamp_display": "13/08/2026 21:48 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Libramiento Noreste de Querétaro, km 7, Plaza de Cobro Chichimequillas, dirección San Luis Potosí. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.623606750651142,
-      "lng": -100.42318608481123,
-      "road": 57,
-      "km": 7,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088104558597718023#m",
-      "timestamp": "2026-08-14T03:24:56+00:00",
-      "timestamp_display": "13/08/2026 21:24 CST",
-      "segment": [
-        "queretaro",
-        "san luis potosi"
-      ]
     }
   ]
 }
