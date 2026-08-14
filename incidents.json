@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-14T11:07:42.349235",
+  "last_update": "2026-08-14T11:57:12.153594",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 281+000 de la carretera Acalpican-Manzanillo, a inmediaciones del municipio Manzanillo, con dirección a Manzanillo, atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 153, dirección CDMX. Reducción de carriles por atención de accidente en la zona de obras (salida del camino y volcadura de camión de carga). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 153,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088224731551904169#m",
+      "timestamp": "2026-08-14T11:22:27+00:00",
+      "timestamp_display": "14/08/2026 05:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Concluyen labores de mantenimiento, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 98,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088222832480194704#m",
+      "timestamp": "2026-08-14T11:14:55+00:00",
+      "timestamp_display": "14/08/2026 05:14 CST",
+      "segment": null
+    },
+    {
       "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -498,35 +524,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088125523771674664#m",
       "timestamp": "2026-08-14T04:48:15+00:00",
       "timestamp_display": "13/08/2026 22:48 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Reducción de carriles por atención de incidente (camioneta siniestrada). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 34,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088125054139720107#m",
-      "timestamp": "2026-08-14T04:46:23+00:00",
-      "timestamp_display": "13/08/2026 22:46 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 85, dirección Veracruz. Continúa la reducción de carriles por atención de accidente (maniobras para retiro de las unidades siniestradas). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.019122388315687,
-      "lng": -96.24326717555853,
-      "road": 150,
-      "km": 85,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088122824204419539#m",
-      "timestamp": "2026-08-14T04:37:31+00:00",
-      "timestamp_display": "13/08/2026 22:37 CST",
       "segment": [
         "cordoba",
         "veracruz"
