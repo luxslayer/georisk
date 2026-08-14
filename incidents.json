@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-14T08:49:11.469313",
+  "last_update": "2026-08-14T10:02:06.100625",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Colima continua cierre parcial de circulación por #AccidenteVial cerca del km. 281+000 de la carretera Acalpican-Manzanillo, a inmediaciones del municipio Manzanillo, con dirección a Manzanillo, atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088203713345171552#m",
+      "timestamp": "2026-08-14T09:58:56+00:00",
+      "timestamp_display": "14/08/2026 03:58 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Circulación intermitente por labores de mantenimiento. En la zona se registra circulación lenta. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -518,19 +531,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cuernavaca - Acapulco, km 98, dirección Acapulco. Reducción de carriles por labores de mantenimiento. En la zona se registra circulación lenta. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 98,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088121690991563144#m",
-      "timestamp": "2026-08-14T04:33:01+00:00",
-      "timestamp_display": "13/08/2026 22:33 CST",
-      "segment": null
     }
   ]
 }
