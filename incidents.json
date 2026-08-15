@@ -1,6 +1,45 @@
 {
-  "last_update": "2026-08-15T21:20:29.298275",
+  "last_update": "2026-08-15T21:45:33.056141",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #EdoMex se registra cierre total de circulación por presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. Jorobas. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 57.0,
+      "risk": "normal",
+      "url": "https://nitter.net/GN_Carreteras/status/2088743432470896772#m",
+      "timestamp": "2026-08-15T21:43:35+00:00",
+      "timestamp_display": "15/08/2026 15:43 CST",
+      "segment": null
+    },
+    {
+      "title": "En #Chiapas tras cierre total de circulación por #AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec. Se orienta a la ciudadanía continuar por #Rutaalterna autopista Ocozocoautla-Arriaga. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 90.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088741113108808190#m",
+      "timestamp": "2026-08-15T21:34:22+00:00",
+      "timestamp_display": "15/08/2026 15:34 CST",
+      "segment": null
+    },
+    {
+      "title": "#Tomesusprecauciones en #Chiapas se registra cierre total de circulación por #AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 90.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088739617277350197#m",
+      "timestamp": "2026-08-15T21:28:26+00:00",
+      "timestamp_display": "15/08/2026 15:28 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Sinaloa se registra cierre parcial de circulación por #AccidenteVial cerca del km 164+100, de la carretera Durango - Villa Unión con dirección Durango. Atienda indicación vial.",
       "type": "twitter",
@@ -213,42 +252,16 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 079+800, de la carretera Pátzcuaro - Uruapan (directo), a la altura del Mpio. de Jujúcato, con dirección a Morelia. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, Plaza de Cobro Jorobas, dirección CDMX. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/tUV2xSLBNT74TdH77",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": 14,
-      "km": 79.8,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088456747929231418#m",
-      "timestamp": "2026-08-15T02:44:25+00:00",
-      "timestamp_display": "14/08/2026 20:44 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Tlaxcala se registra cierre parcial de circulación por #AccidenteVial cerca del km 039+100, de la carretera Amozoc - Perote, a la altura del poblado José María Morelos, con dirección a Amozoc. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 39.1,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088442108331819505#m",
-      "timestamp": "2026-08-15T01:46:14+00:00",
-      "timestamp_display": "14/08/2026 19:46 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 052+000, de la carretera Pátzcuaro - Uruapan (Libre), a la altura del Mpio. San Andrés Coru, con dirección a Uruapan. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 52.0,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088434847706435858#m",
-      "timestamp": "2026-08-15T01:17:23+00:00",
-      "timestamp_display": "14/08/2026 19:17 CST",
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088738486056861756#m",
+      "timestamp": "2026-08-15T21:23:56+00:00",
+      "timestamp_display": "15/08/2026 15:23 CST",
       "segment": null
     },
     {
@@ -531,19 +544,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088683961505431821#m",
       "timestamp": "2026-08-15T17:47:16+00:00",
       "timestamp_display": "15/08/2026 11:47 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 67, dirección CDMX. Reducción de carriles por atención de incidente (falla mecánica de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 67,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088682059405369556#m",
-      "timestamp": "2026-08-15T17:39:43+00:00",
-      "timestamp_display": "15/08/2026 11:39 CST",
       "segment": null
     }
   ]
