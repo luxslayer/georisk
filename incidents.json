@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-15T15:45:21.021018",
+  "last_update": "2026-08-15T16:23:47.802912",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del Km 002+500 de la carretera Puente de Ixtla-Iguala con dirección Puente de Ixtla. A tienda Indicación vial.",
@@ -265,6 +265,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Cierres intermitentes por atención de accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 69,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088658483658784921#m",
+      "timestamp": "2026-08-15T16:06:02+00:00",
+      "timestamp_display": "15/08/2026 10:06 CST",
+      "segment": null
+    },
+    {
+      "title": "🚑 En #CAPUFE estamos para apoyarte. Al circular por nuestras autopistas, cuentas con Atención Médica Prehospitalaria en los tramos operados por el organismo. #EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088656964075033017#m",
+      "timestamp": "2026-08-15T16:00:00+00:00",
+      "timestamp_display": "15/08/2026 10:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 163. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/vgX6CaiueqzjecsR8",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088655104563921050#m",
+      "timestamp": "2026-08-15T15:52:36+00:00",
+      "timestamp_display": "15/08/2026 09:52 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoCuernavaca, km 64, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 64,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088654235428651216#m",
+      "timestamp": "2026-08-15T15:49:09+00:00",
+      "timestamp_display": "15/08/2026 09:49 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Registra reducción de carriles por atención de choque de tracto camión tipo pipa contra la barrera metálica. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/GnkXtDPkosYj4aLe8",
       "type": "twitter",
       "lat": 18.931987896860026,
@@ -493,35 +545,6 @@
       "timestamp": "2026-08-15T12:27:01+00:00",
       "timestamp_display": "15/08/2026 06:27 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088585667630490077#m",
-      "timestamp": "2026-08-15T11:16:41+00:00",
-      "timestamp_display": "15/08/2026 05:16 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumáticos). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.98955480355397,
-      "lng": -96.26491681452083,
-      "road": 150,
-      "km": 81,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088585028628300263#m",
-      "timestamp": "2026-08-15T11:14:09+00:00",
-      "timestamp_display": "15/08/2026 05:14 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
