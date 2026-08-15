@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-15T10:58:30.457906",
+  "last_update": "2026-08-15T11:27:16.172200",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Sta. Barbara - Izúcar de Matamoros, a la altura del Mpio. de El Mirador, con dirección a Cuautla. Atienda indicación vial.",
@@ -265,6 +265,35 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 54,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088585667630490077#m",
+      "timestamp": "2026-08-15T11:16:41+00:00",
+      "timestamp_display": "15/08/2026 05:16 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 81, dirección Veracruz. Reducción de carriles por atención de incidente (tracto camión con ponchadura de neumáticos). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.98955480355397,
+      "lng": -96.26491681452083,
+      "road": 150,
+      "km": 81,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088585028628300263#m",
+      "timestamp": "2026-08-15T11:14:09+00:00",
+      "timestamp_display": "15/08/2026 05:14 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoPuebla, km 48, dirección Puebla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 19.3050639396973,
@@ -502,32 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088473616685862977#m",
       "timestamp": "2026-08-15T03:51:26+00:00",
       "timestamp_display": "14/08/2026 21:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Amecameca - Nepantla, km 44. Continúa reducción de carriles en ambos sentidos por atención de accidente (reacomodo de muros). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088472137698885640#m",
-      "timestamp": "2026-08-15T03:45:34+00:00",
-      "timestamp_display": "14/08/2026 21:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Registra carga vehicular en ambos sentidos por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088467351637303649#m",
-      "timestamp": "2026-08-15T03:26:33+00:00",
-      "timestamp_display": "14/08/2026 21:26 CST",
       "segment": null
     }
   ]
