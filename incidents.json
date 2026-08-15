@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-15T14:48:27.626733",
+  "last_update": "2026-08-15T15:20:06.521956",
   "incidents": [
+    {
+      "title": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del Km 002+500 de la carretera Puente de Ixtla-Iguala con dirección Puente de Ixtla. A tienda Indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 2.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088639322719170853#m",
+      "timestamp": "2026-08-15T14:49:54+00:00",
+      "timestamp_display": "15/08/2026 08:49 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 071+000, de la carretera Ent. La Tinaja - Veracruz, a la altura del Mpio. de San Antonio, con dirección a Veracruz. Atienda indicación vial.",
       "type": "twitter",
@@ -252,16 +265,42 @@
       "segment": null
     },
     {
-      "title": "#VíaLibre en #Puebla tras #AccidenteVial cerca del km 024+800, de la carretera Cuacnopalan - Oaxaca, a inmediaciones del Mpio. de Tehuacán. Maneje con precaución.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
+      "lat": 20.5888,
+      "lng": -100.3899,
       "road": null,
-      "km": 24.8,
+      "km": 54,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088402067668750562#m",
-      "timestamp": "2026-08-14T23:07:08+00:00",
-      "timestamp_display": "14/08/2026 17:07 CST",
+      "url": "https://nitter.net/CAPUFE/status/2088646453270925656#m",
+      "timestamp": "2026-08-15T15:18:14+00:00",
+      "timestamp_display": "15/08/2026 09:18 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠CARGA VEHICULAR🟠 #AutMéxicoQuerétaro, km 56, dirección Querétaro. Carga vehicular a la altura de la salida al Poblado de Jorobas por atención de incidente fuera de la jurisdicción a cargo de CAPUFE. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 56,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088642018188701954#m",
+      "timestamp": "2026-08-15T15:00:36+00:00",
+      "timestamp_display": "15/08/2026 09:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 69,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088640640372416990#m",
+      "timestamp": "2026-08-15T14:55:08+00:00",
+      "timestamp_display": "15/08/2026 08:55 CST",
       "segment": null
     },
     {
@@ -482,48 +521,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088557294581633049#m",
       "timestamp": "2026-08-15T09:23:57+00:00",
       "timestamp_display": "15/08/2026 03:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 48, dirección Puebla. Reducción de carriles por atención de accidente (conato de incendio de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.3050639396973,
-      "lng": -98.75919078168621,
-      "road": 150,
-      "km": 30,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088555210008318178#m",
-      "timestamp": "2026-08-15T09:15:40+00:00",
-      "timestamp_display": "15/08/2026 03:15 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 106,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088541981089620385#m",
-      "timestamp": "2026-08-15T08:23:06+00:00",
-      "timestamp_display": "15/08/2026 02:23 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 44. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 44,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088509413283819904#m",
-      "timestamp": "2026-08-15T06:13:41+00:00",
-      "timestamp_display": "15/08/2026 00:13 CST",
       "segment": null
     }
   ]
