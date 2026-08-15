@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-15T07:52:20.242978",
+  "last_update": "2026-08-15T08:28:56.133713",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Sta. Barbara - Izúcar de Matamoros, a la altura del Mpio. de El Mirador, con dirección a Cuautla. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 106,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088541981089620385#m",
+      "timestamp": "2026-08-15T08:23:06+00:00",
+      "timestamp_display": "15/08/2026 02:23 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Amecameca - Nepantla, km 44. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -511,19 +524,6 @@
       "risk": "high",
       "url": "https://nitter.net/CAPUFE/status/2088462025022169147#m",
       "timestamp": "2026-08-15T03:05:23+00:00",
-      "timestamp_display": "14/08/2026 21:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 63, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 63,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088461928830001312#m",
-      "timestamp": "2026-08-15T03:05:00+00:00",
       "timestamp_display": "14/08/2026 21:05 CST",
       "segment": null
     }
