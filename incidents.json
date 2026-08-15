@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-15T17:45:39.679111",
+  "last_update": "2026-08-15T18:29:37.391917",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Tabasco se registra cierre parcial de circulación por #AccidenteVial cerca del km 160+000, de la carretera Coatzacoalcos-Villahermosa, con dirección a Coatzacoalcos. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 160.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088683827925582282#m",
+      "timestamp": "2026-08-15T17:46:45+00:00",
+      "timestamp_display": "15/08/2026 11:46 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Veracruz tras #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +265,64 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del km 059+800, de la carretera Pátzcuaro-Uruapan, a la altura del Mpio. Las Trojes del Durazno, con dirección a Pátzcuaro. Atienda indicación vial.",
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Registra reducción de carriles por atención de choque de tracto camión tipo pipa contra la barrera metálica. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/GnkXtDPkosYj4aLe8",
       "type": "twitter",
-      "lat": 19.51,
-      "lng": -101.61,
-      "road": null,
-      "km": 59.8,
+      "lat": 18.931987896860026,
+      "lng": -96.31049608782175,
+      "road": 150,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088601596456223120#m",
+      "timestamp": "2026-08-15T12:19:59+00:00",
+      "timestamp_display": "15/08/2026 06:19 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.931987896860026,
+      "lng": -96.31049608782175,
+      "road": 150,
+      "km": 73,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088427487982129205#m",
-      "timestamp": "2026-08-15T00:48:08+00:00",
-      "timestamp_display": "14/08/2026 18:48 CST",
+      "url": "https://nitter.net/CAPUFE/status/2088679195996246450#m",
+      "timestamp": "2026-08-15T17:28:20+00:00",
+      "timestamp_display": "15/08/2026 11:28 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.931987896860026,
+      "lng": -96.31049608782175,
+      "road": 150,
+      "km": 73,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088689894512267367#m",
+      "timestamp": "2026-08-15T18:10:51+00:00",
+      "timestamp_display": "15/08/2026 12:10 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 69,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088683961505431821#m",
+      "timestamp": "2026-08-15T17:47:16+00:00",
+      "timestamp_display": "15/08/2026 11:47 CST",
       "segment": null
     },
     {
@@ -302,54 +363,6 @@
       "timestamp": "2026-08-15T17:34:37+00:00",
       "timestamp_display": "15/08/2026 11:34 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Registra reducción de carriles por atención de choque de tracto camión tipo pipa contra la barrera metálica. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/GnkXtDPkosYj4aLe8",
-      "type": "twitter",
-      "lat": 18.931987896860026,
-      "lng": -96.31049608782175,
-      "road": 150,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088601596456223120#m",
-      "timestamp": "2026-08-15T12:19:59+00:00",
-      "timestamp_display": "15/08/2026 06:19 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se registra cierre a la circulación por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de la unidad siniestrada. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.931987896860026,
-      "lng": -96.31049608782175,
-      "road": 150,
-      "km": 73,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088664924163833890#m",
-      "timestamp": "2026-08-15T16:31:38+00:00",
-      "timestamp_display": "15/08/2026 10:31 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.931987896860026,
-      "lng": -96.31049608782175,
-      "road": 150,
-      "km": 73,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088679195996246450#m",
-      "timestamp": "2026-08-15T17:28:20+00:00",
-      "timestamp_display": "15/08/2026 11:28 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
@@ -505,32 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088642018188701954#m",
       "timestamp": "2026-08-15T15:00:36+00:00",
       "timestamp_display": "15/08/2026 09:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (maniobras para el retiro de unidades siniestradas). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 69,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088640640372416990#m",
-      "timestamp": "2026-08-15T14:55:08+00:00",
-      "timestamp_display": "15/08/2026 08:55 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 69, dirección CDMX. Cierre a la circulación por atención de accidente (maniobras para el retiro de unidades siniestradas). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 69,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088636930707599735#m",
-      "timestamp": "2026-08-15T14:40:23+00:00",
-      "timestamp_display": "15/08/2026 08:40 CST",
       "segment": null
     }
   ]
