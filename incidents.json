@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-15T11:27:16.172200",
+  "last_update": "2026-08-15T11:47:17.168246",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Sta. Barbara - Izúcar de Matamoros, a la altura del Mpio. de El Mirador, con dirección a Cuautla. Atienda indicación vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 106, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino y volcadura de autobús). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 106,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088589999230906588#m",
+      "timestamp": "2026-08-15T11:33:54+00:00",
+      "timestamp_display": "15/08/2026 05:33 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Irapuato. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 20.5888,
@@ -518,19 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088477157030781298#m",
       "timestamp": "2026-08-15T04:05:30+00:00",
       "timestamp_display": "14/08/2026 22:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 84, dirección Acapulco. Reducción de carriles por atención de accidente (volcadura de vagoneta). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 84,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088473616685862977#m",
-      "timestamp": "2026-08-15T03:51:26+00:00",
-      "timestamp_display": "14/08/2026 21:51 CST",
       "segment": null
     }
   ]
