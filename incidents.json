@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-15T16:50:22.754167",
+  "last_update": "2026-08-15T17:20:10.456330",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del km 044+000, de la carretera Guadalajara-Colima con dirección a Guadalajara. Atienda indicación vial.",
@@ -265,6 +265,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente (labores de limpieza). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 69,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088674875842187296#m",
+      "timestamp": "2026-08-15T17:11:10+00:00",
+      "timestamp_display": "15/08/2026 11:11 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 84, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 84,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088674008828961257#m",
+      "timestamp": "2026-08-15T17:07:44+00:00",
+      "timestamp_display": "15/08/2026 11:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista La Tinaja - Isla, km 117, dirección Isla. El accidente ha sido atendido. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 117,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088673559958650916#m",
+      "timestamp": "2026-08-15T17:05:57+00:00",
+      "timestamp_display": "15/08/2026 11:05 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). 🔘 Dirección Irapuato, se restablece la circulación. En la zona se registra carga vehicular en ambos sentidos. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 54,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088670092724977825#m",
+      "timestamp": "2026-08-15T16:52:10+00:00",
+      "timestamp_display": "15/08/2026 10:52 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Registra reducción de carriles por atención de choque de tracto camión tipo pipa contra la barrera metálica. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/GnkXtDPkosYj4aLe8",
       "type": "twitter",
       "lat": 18.931987896860026,
@@ -521,45 +573,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088629110452977692#m",
       "timestamp": "2026-08-15T14:09:19+00:00",
       "timestamp_display": "15/08/2026 08:09 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3. Continúa circulación en contraflujo por atención de accidente (servicios periciales). Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 3,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088627869761032365#m",
-      "timestamp": "2026-08-15T14:04:23+00:00",
-      "timestamp_display": "15/08/2026 08:04 CST",
-      "segment": null
-    },
-    {
-      "title": "Todos los domingos #HazLoTuyo en la #MéxicoCuernavaca. 🛣️ El exceso de velocidad aumenta los riesgos. 👉 Mantén el control y viaja con seguridad. 🚙 Si requieres apoyo, comunícate al 074. Más información en: https://www.gob.mx/capufe/articulos/seguridad-vial-responsabilidad-compartida?idiom=esstate=draft #seguridadvial #conduceseguro",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088626769985249771#m",
-      "timestamp": "2026-08-15T14:00:01+00:00",
-      "timestamp_display": "15/08/2026 08:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoQuerétaro, km 69, dirección CDMX. Continúa reducción de carriles por atención de accidente (choque por alcance y salida del camino). En la zona se registra carga vehicular. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 69,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088604234824425977#m",
-      "timestamp": "2026-08-15T12:30:28+00:00",
-      "timestamp_display": "15/08/2026 06:30 CST",
       "segment": null
     }
   ]
