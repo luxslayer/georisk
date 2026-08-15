@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-15T05:23:58.878754",
+  "last_update": "2026-08-15T05:50:45.315585",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del km 082+500, de la carretera Sta. Barbara - Izúcar de Matamoros, a la altura del Mpio. de El Mirador, con dirección a Cuautla. Atienda indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 82.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088501248345469160#m",
+      "timestamp": "2026-08-15T05:41:14+00:00",
+      "timestamp_display": "14/08/2026 23:41 CST",
+      "segment": null
+    },
     {
       "title": "#TomePrecauciones en #EdoMéx se registra cierre parcial de circulación por #AccidenteVial cerca del km 128+300, de la carretera México - Querétaro, a la altura de la localidad El Cazadero, con dirección a Cd. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -249,19 +262,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2088385964184162419#m",
       "timestamp": "2026-08-14T22:03:08+00:00",
       "timestamp_display": "14/08/2026 16:03 CST",
-      "segment": null
-    },
-    {
-      "title": "#VíaLibre en #Veracruz tras #AccidenteVial cerca del km 104+500 de la carretera Alazán-Canoas, a inmediaciones del Mpio. Ahualulco. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": null,
-      "km": 104.5,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088372333878939925#m",
-      "timestamp": "2026-08-14T21:08:59+00:00",
-      "timestamp_display": "14/08/2026 15:08 CST",
       "segment": null
     },
     {
