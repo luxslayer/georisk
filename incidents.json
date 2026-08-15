@@ -1,6 +1,22 @@
 {
-  "last_update": "2026-08-15T23:19:51.733617",
+  "last_update": "2026-08-15T23:44:50.833951",
   "incidents": [
+    {
+      "title": "#Tomesusprecauciones en #Coahuila se registra cierre parcial de circulación por #AccidenteVial cerca del Km 232+500 de la autopista Puerto México-Ojo Caliente con dirección a Matehuala, SLP. Atienda indicación Vial.",
+      "type": "twitter",
+      "lat": 25.416072525111765,
+      "lng": -100.80483512679457,
+      "road": 57,
+      "km": 32.5,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2088770497949425769#m",
+      "timestamp": "2026-08-15T23:31:08+00:00",
+      "timestamp_display": "15/08/2026 17:31 CST",
+      "segment": [
+        "puerto mexico",
+        "ojo caliente"
+      ]
+    },
     {
       "title": "#ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. Jorobas. Maneje con precaución.",
       "type": "twitter",
@@ -252,16 +268,42 @@
       "segment": null
     },
     {
-      "title": "#TomePrecauciones en #Veracruz se registra cierre parcial de circulación por #AccidenteVial cerca del km 106+500, de la carretera Ent. La Tinaja-Cosoleacaque, a la altura del Mpio. de Cosamaloapan, con dirección a Cosamaloapan. Atienda indicación vial.",
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 163. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/vgX6CaiueqzjecsR8",
       "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
+      "lat": 23.24,
+      "lng": -106.41,
       "road": null,
-      "km": 106.5,
+      "km": 163,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088655104563921050#m",
+      "timestamp": "2026-08-15T15:52:36+00:00",
+      "timestamp_display": "15/08/2026 09:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088769166455021989#m",
+      "timestamp": "2026-08-15T23:25:51+00:00",
+      "timestamp_display": "15/08/2026 17:25 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
       "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088599354269483377#m",
-      "timestamp": "2026-08-15T12:11:05+00:00",
-      "timestamp_display": "15/08/2026 06:11 CST",
+      "url": "https://nitter.net/CAPUFE/status/2088772337046835542#m",
+      "timestamp": "2026-08-15T23:38:27+00:00",
+      "timestamp_display": "15/08/2026 17:38 CST",
       "segment": null
     },
     {
@@ -356,45 +398,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088754012132921652#m",
       "timestamp": "2026-08-15T22:25:38+00:00",
       "timestamp_display": "15/08/2026 16:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 163. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/vgX6CaiueqzjecsR8",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088655104563921050#m",
-      "timestamp": "2026-08-15T15:52:36+00:00",
-      "timestamp_display": "15/08/2026 09:52 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que continúa circulación intermitente en ambos sentidos. El personal se encuentra realizando los servicios periciales en el lugar. Guardia Nacional coordina la vialidad. En la zona se registra carga vehicular. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088728316052111421#m",
-      "timestamp": "2026-08-15T20:43:31+00:00",
-      "timestamp_display": "15/08/2026 14:43 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando los servicios periciales en la zona. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088737549540016439#m",
-      "timestamp": "2026-08-15T21:20:13+00:00",
-      "timestamp_display": "15/08/2026 15:20 CST",
       "segment": null
     },
     {
@@ -512,32 +515,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088708674693005643#m",
       "timestamp": "2026-08-15T19:25:29+00:00",
       "timestamp_display": "15/08/2026 13:25 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Querétaro - Irapuato, km 54, dirección Querétaro. Continúa reducción de carriles por atención de accidente (maniobras para el retiro de unidad siniestrada). En la zona se registra carga vehicular en ambos sentidos. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 54,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088708348296446412#m",
-      "timestamp": "2026-08-15T19:24:11+00:00",
-      "timestamp_display": "15/08/2026 13:24 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 231, dir. La Carbonera. Continúa cierre a la circulación por atención de accidente (reacomodo de muros). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. 🔘 Dirección Puerto México, se restablece la circulación con reducción de carriles. En la zona se registra carga vehicular. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 231,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088707794413461543#m",
-      "timestamp": "2026-08-15T19:21:59+00:00",
-      "timestamp_display": "15/08/2026 13:21 CST",
       "segment": null
     }
   ]
