@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-15T22:21:12.349010",
+  "last_update": "2026-08-15T22:47:21.104604",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por trabajos de repavimentación. Se orienta a la ciudadanía flujo vehicular lento. Atienda indicación vial.",
@@ -265,6 +265,35 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Oriente de Saltillo, km 5, dirección Matehuala. Cierre a la circulación por atención de choque por alcance entre tracto camiones. En la zona se registra derrame de combustible. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/Lwtu7b2cfVpWGcA67",
+      "type": "twitter",
+      "lat": 23.62243825065969,
+      "lng": -100.60270407171258,
+      "road": 57,
+      "km": 5,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088756402626199759#m",
+      "timestamp": "2026-08-15T22:35:08+00:00",
+      "timestamp_display": "15/08/2026 16:35 CST",
+      "segment": [
+        "matehuala",
+        "saltillo"
+      ]
+    },
+    {
+      "title": "⚠️ PRESENCIA DE MANIFESTANTES ⚠️ Autopista Agua Dulce – Cárdenas, Plaza de Cobro Sánchez Magallanes. Registra presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088754012132921652#m",
+      "timestamp": "2026-08-15T22:25:38+00:00",
+      "timestamp_display": "15/08/2026 16:25 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, Plaza de Cobro Jorobas, dirección CDMX. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/tUV2xSLBNT74TdH77",
       "type": "twitter",
       "lat": 20.5888,
@@ -510,54 +539,6 @@
       "timestamp": "2026-08-15T18:48:54+00:00",
       "timestamp_display": "15/08/2026 12:48 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Registra reducción de carriles por atención de choque de tracto camión tipo pipa contra la barrera metálica. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/GnkXtDPkosYj4aLe8",
-      "type": "twitter",
-      "lat": 18.931987896860026,
-      "lng": -96.31049608782175,
-      "road": 150,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088601596456223120#m",
-      "timestamp": "2026-08-15T12:19:59+00:00",
-      "timestamp_display": "15/08/2026 06:19 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que se restablece la circulación con reducción de carriles. El personal continúa laborando en la atención del accidente. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.931987896860026,
-      "lng": -96.31049608782175,
-      "road": 150,
-      "km": 73,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088679195996246450#m",
-      "timestamp": "2026-08-15T17:28:20+00:00",
-      "timestamp_display": "15/08/2026 11:28 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Córdoba - Veracruz, km 73, dirección Veracruz. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.931987896860026,
-      "lng": -96.31049608782175,
-      "road": 150,
-      "km": 73,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088689894512267367#m",
-      "timestamp": "2026-08-15T18:10:51+00:00",
-      "timestamp_display": "15/08/2026 12:10 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     }
   ]
 }
