@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T05:42:55.216462",
+  "last_update": "2026-08-16T06:02:59.499073",
   "incidents": [
     {
       "title": "#TomePrecauciones en #Sinaloa continua cierre parcial de circulación por #AccidenteVial cerca del km 164+100, de la carretera Durango - Villa Unión con dirección Durango. Atienda indicación vial.",
@@ -274,6 +274,45 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 73, dirección Gómez Palacio. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 73,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088868474550407360#m",
+      "timestamp": "2026-08-16T06:00:28+00:00",
+      "timestamp_display": "16/08/2026 00:00 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Pera - Cuautla, km 1, dirección Cuautla. Cierre a la circulación por atención de accidente (servicios periciales). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088866634014363854#m",
+      "timestamp": "2026-08-16T05:53:09+00:00",
+      "timestamp_display": "15/08/2026 23:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 182, dirección Champotón. Reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 182,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088865719228264867#m",
+      "timestamp": "2026-08-16T05:49:31+00:00",
+      "timestamp_display": "15/08/2026 23:49 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 112, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 18.7603,
@@ -537,35 +576,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088818112296550458#m",
       "timestamp": "2026-08-16T02:40:20+00:00",
       "timestamp_display": "15/08/2026 20:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Córdoba - Veracruz, km 55. Cierre a la circulación en ambos sentidos por atención de accidente (salida del camino y volcadura de camión de carga). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 18.801297532982517,
-      "lng": -96.40916523931679,
-      "road": 150,
-      "km": 55,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088812228740866191#m",
-      "timestamp": "2026-08-16T02:16:58+00:00",
-      "timestamp_display": "15/08/2026 20:16 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Cuernavaca - Acapulco, dirección Cuernavaca. Registra carga vehicular del km 99 al 98, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 99,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088808374355861823#m",
-      "timestamp": "2026-08-16T02:01:39+00:00",
-      "timestamp_display": "15/08/2026 20:01 CST",
       "segment": null
     }
   ]
