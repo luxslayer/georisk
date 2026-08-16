@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T19:02:32.631814",
+  "last_update": "2026-08-16T19:33:17.347049",
   "incidents": [
     {
       "title": "#Tomesusprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del Km 003+150 de la carretera Puente de Ixtla - Iguala. Atienda indicación Vial.",
@@ -274,6 +274,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Puente de Ixtla - Iguala, km 3, dirección Iguala. Continúa reducción de carriles por atención de accidente (servicios periciales). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 3,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089071798595846606#m",
+      "timestamp": "2026-08-16T19:28:24+00:00",
+      "timestamp_display": "16/08/2026 13:28 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Se restablece la circulación con reducción de carriles por atención del accidente (maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -505,19 +518,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088985607208837145#m",
       "timestamp": "2026-08-16T13:45:54+00:00",
       "timestamp_display": "16/08/2026 07:45 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 83,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088971232687313044#m",
-      "timestamp": "2026-08-16T12:48:47+00:00",
-      "timestamp_display": "16/08/2026 06:48 CST",
       "segment": null
     }
   ]
