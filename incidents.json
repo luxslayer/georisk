@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T03:54:15.882077",
+  "last_update": "2026-08-16T04:35:23.618673",
   "incidents": [
     {
       "title": "#Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 382+000 de la carretera Guadalajara-Atlacomulco con dirección a Zapotlanejo. Atienda indicación Vial.",
@@ -271,6 +271,87 @@
       "segment": null
     },
     {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/2qYJeRjxkkHkQTst8",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088792571665359195#m",
+      "timestamp": "2026-08-16T00:58:51+00:00",
+      "timestamp_display": "15/08/2026 18:58 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, por el momento sin cierre a la circulación. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088816419651584061#m",
+      "timestamp": "2026-08-16T02:33:37+00:00",
+      "timestamp_display": "15/08/2026 20:33 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088846002803642441#m",
+      "timestamp": "2026-08-16T04:31:10+00:00",
+      "timestamp_display": "15/08/2026 22:31 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 1, dirección Cuautla. Reducción de carriles por atención de accidente (persona atropellada). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 1,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088843277860839543#m",
+      "timestamp": "2026-08-16T04:20:20+00:00",
+      "timestamp_display": "15/08/2026 22:20 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Se restablece la circulación en ambos sentidos, sin embargo, Guardia Nacional continúa con la atención del incidente, por el momento sin afectar los carriles de rodamiento. En la zona se registra carga vehicular. Para más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
+      "type": "twitter",
+      "lat": 19.1748,
+      "lng": -96.1482,
+      "road": 150,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088842422939955245#m",
+      "timestamp": "2026-08-16T04:16:57+00:00",
+      "timestamp_display": "15/08/2026 22:16 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "#CAPUFEInforme CAPUFE incorpora a su red la Autopista Guadalajara-Colima, asumiendo las labores de operación, conservación y mantenimiento de esta importante vía de comunicación a partir del día de hoy. Con esto fortalecemos la atención a las personas usuarias y contribuimos a mantener una infraestructura carretera segura, eficiente y en condiciones adecuadas para la movilidad de todas y todos. #EnCAPUFEEstamosParaServirte",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088841748042895860#m",
+      "timestamp": "2026-08-16T04:14:16+00:00",
+      "timestamp_display": "15/08/2026 22:14 CST",
+      "segment": null
+    },
+    {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️​ Libramiento Cuernavaca, registra #lluvia. Disminuye tu velocidad y maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -295,22 +376,6 @@
       "timestamp": "2026-08-16T03:23:26+00:00",
       "timestamp_display": "15/08/2026 21:23 CST",
       "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, Plaza de Cobro Cuitláhuac. Se restablece la circulación en ambos sentidos. Guardia Nacional continúa con la atención del incidente, por el momento sin afectar los carriles de rodamiento. Sin embargo, en la zona se registra carga vehicular. Para más información, llama al 088 de @GN_Carreteras. Toma tus precauciones.",
-      "type": "twitter",
-      "lat": 19.1748,
-      "lng": -96.1482,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088828730412077562#m",
-      "timestamp": "2026-08-16T03:22:32+00:00",
-      "timestamp_display": "15/08/2026 21:22 CST",
-      "segment": [
-        "cordoba",
-        "veracruz"
-      ]
     },
     {
       "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Gómez Palacio- Corralitos, registra #lluvia a la altura de la Plaza de Cobro Ceballos. Disminuye tu velocidad y maneja con precaución.",
@@ -349,32 +414,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088818112296550458#m",
       "timestamp": "2026-08-16T02:40:20+00:00",
       "timestamp_display": "15/08/2026 20:40 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/2qYJeRjxkkHkQTst8",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088792571665359195#m",
-      "timestamp": "2026-08-16T00:58:51+00:00",
-      "timestamp_display": "15/08/2026 18:58 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, por el momento sin cierre a la circulación. En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088816419651584061#m",
-      "timestamp": "2026-08-16T02:33:37+00:00",
-      "timestamp_display": "15/08/2026 20:33 CST",
       "segment": null
     },
     {
@@ -533,71 +572,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088790705258778925#m",
       "timestamp": "2026-08-16T00:51:26+00:00",
       "timestamp_display": "15/08/2026 18:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Tijuana - Ensenada, km 27, dirección Ensenada. Reducción de carriles por atención de accidente (choque contra muro central). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088776905575010484#m",
-      "timestamp": "2026-08-15T23:56:36+00:00",
-      "timestamp_display": "15/08/2026 17:56 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 #AutMéxicoQuerétaro, Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088775586009251861#m",
-      "timestamp": "2026-08-15T23:51:21+00:00",
-      "timestamp_display": "15/08/2026 17:51 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, Plaza de Cobro Jorobas, dirección CDMX. Cierre a la circulación por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/tUV2xSLBNT74TdH77",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088738486056861756#m",
-      "timestamp": "2026-08-15T21:23:56+00:00",
-      "timestamp_display": "15/08/2026 15:23 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. #AutMéxicoQuerétaro, Plaza de Cobro Jorobas, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes, por lo que se restablece la circulación. En la zona se registra carga vehicular intensa. Toma tus precauciones. Para más información, llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088762187120853169#m",
-      "timestamp": "2026-08-15T22:58:07+00:00",
-      "timestamp_display": "15/08/2026 16:58 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 SE RETIRAN MANIFESTANTES 🟢 #AutMéxicoQuerétaro, Plaza de Cobro Jorobas, dirección CDMX. Se informa a las personas usuarias que se retiran los manifestantes. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088775283956392319#m",
-      "timestamp": "2026-08-15T23:50:09+00:00",
-      "timestamp_display": "15/08/2026 17:50 CST",
       "segment": null
     }
   ]
