@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T11:20:00.016606",
+  "last_update": "2026-08-16T11:45:05.417551",
   "incidents": [
     {
       "title": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del Km 041+500 de la carretera Amozoc - Perote con dirección a Puebla. Maneje con precaución.",
@@ -277,6 +277,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088952936076304664#m",
+      "timestamp": "2026-08-16T11:36:05+00:00",
+      "timestamp_display": "16/08/2026 05:36 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Acatzingo - Cd. Mendoza, km 249, dirección Acatzingo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 23.5,
@@ -550,19 +563,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088886750902980626#m",
       "timestamp": "2026-08-16T07:13:05+00:00",
       "timestamp_display": "16/08/2026 01:13 CST",
-      "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088878231982158168#m",
-      "timestamp": "2026-08-16T06:39:14+00:00",
-      "timestamp_display": "16/08/2026 00:39 CST",
       "segment": null
     }
   ]
