@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-16T15:29:11.710612",
+  "last_update": "2026-08-16T15:50:07.297433",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Michoacán tras #AccidenteVial cerca del Km 008+300 de la carretera La Rinconada-Ecuandureo. Maneje con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 8.3,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2089015506061689269#m",
+      "timestamp": "2026-08-16T15:44:43+00:00",
+      "timestamp_display": "16/08/2026 09:44 CST",
+      "segment": null
+    },
     {
       "title": "#ViaLibre en #Chiapas tras AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec.Maneje con precaución.",
       "type": "twitter",
@@ -262,19 +275,6 @@
         "puerto mexico",
         "ojo caliente"
       ]
-    },
-    {
-      "title": "#ViaLibre en #EdoMex tras presencia de personas cerca del Km 057+000 de la carretera México-Querétaro a la altura del Mpio. Jorobas. Maneje con precaución.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": 57.0,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2088763846592737343#m",
-      "timestamp": "2026-08-15T23:04:43+00:00",
-      "timestamp_display": "15/08/2026 17:04 CST",
-      "segment": null
     },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Cuernavaca, km 83, dirección Acapulco. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
