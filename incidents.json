@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T04:35:23.618673",
+  "last_update": "2026-08-16T05:05:59.298659",
   "incidents": [
     {
       "title": "#Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 382+000 de la carretera Guadalajara-Atlacomulco con dirección a Zapotlanejo. Atienda indicación Vial.",
@@ -271,6 +271,87 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 112, dirección Isla. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 112,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088853529196659181#m",
+      "timestamp": "2026-08-16T05:01:05+00:00",
+      "timestamp_display": "15/08/2026 23:01 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 163. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/vgX6CaiueqzjecsR8",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088655104563921050#m",
+      "timestamp": "2026-08-15T15:52:36+00:00",
+      "timestamp_display": "15/08/2026 09:52 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088792993088049587#m",
+      "timestamp": "2026-08-16T01:00:32+00:00",
+      "timestamp_display": "15/08/2026 19:00 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que continúa circulación de manera intermitente en ambos sentidos. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Atiende las indicaciones viales y maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.24,
+      "lng": -106.41,
+      "road": null,
+      "km": 163,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088851502118916427#m",
+      "timestamp": "2026-08-16T04:53:01+00:00",
+      "timestamp_display": "15/08/2026 22:53 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Córdoba - Veracruz, km 55. El accidente ha sido atendido, por lo que se restablece la circulación en ambos sentidos. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.801297532982517,
+      "lng": -96.40916523931679,
+      "road": 150,
+      "km": 55,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088850609856258147#m",
+      "timestamp": "2026-08-16T04:49:29+00:00",
+      "timestamp_display": "15/08/2026 22:49 CST",
+      "segment": [
+        "cordoba",
+        "veracruz"
+      ]
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, registra #lluvia a la altura de la Plaza de Cobro Palo Blanco. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088848100643217647#m",
+      "timestamp": "2026-08-16T04:39:30+00:00",
+      "timestamp_display": "15/08/2026 22:39 CST",
+      "segment": null
+    },
+    {
       "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Acatzingo - Cd. Mendoza, Plaza de Cobro Esperanza. Cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/2qYJeRjxkkHkQTst8",
       "type": "twitter",
       "lat": 23.5,
@@ -521,58 +602,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Durango - Mazatlán, km 163. Cierre a la circulación en ambos sentidos por atención de choque por alcance múltiple entre tracto camiones y automóvil. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/vgX6CaiueqzjecsR8",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088655104563921050#m",
-      "timestamp": "2026-08-15T15:52:36+00:00",
-      "timestamp_display": "15/08/2026 09:52 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por atención del accidente. El personal se encuentra realizando las maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088772337046835542#m",
-      "timestamp": "2026-08-15T23:38:27+00:00",
-      "timestamp_display": "15/08/2026 17:38 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Durango - Mazatlán, km 163. Se informa a las personas usuarias que se restablece la circulación de manera intermitente en ambos sentidos. En la zona se registra carga vehicular. Unidades de CAPUFE y Guardia Nacional realizan operativo de vialidad. Atiende las indicaciones viales y maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.24,
-      "lng": -106.41,
-      "road": null,
-      "km": 163,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088792993088049587#m",
-      "timestamp": "2026-08-16T01:00:32+00:00",
-      "timestamp_display": "15/08/2026 19:00 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Tijuana - Ensenada, km 27, dirección Ensenada. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 32.5127,
-      "lng": -116.9301,
-      "road": null,
-      "km": 27,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088790705258778925#m",
-      "timestamp": "2026-08-16T00:51:26+00:00",
-      "timestamp_display": "15/08/2026 18:51 CST",
-      "segment": null
     }
   ]
 }
