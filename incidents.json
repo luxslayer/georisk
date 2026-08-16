@@ -1,6 +1,19 @@
 {
-  "last_update": "2026-08-16T14:58:55.275632",
+  "last_update": "2026-08-16T15:29:11.710612",
   "incidents": [
+    {
+      "title": "#ViaLibre en #Chiapas tras AccidenteVial cerca del Km 090+000 de la carretera Tuxtla Gutiérrez-San Pedro Tepanatepec.Maneje con precaución.",
+      "type": "twitter",
+      "lat": 16.75,
+      "lng": -93.12,
+      "road": null,
+      "km": 90.0,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2089008333147554158#m",
+      "timestamp": "2026-08-16T15:16:13+00:00",
+      "timestamp_display": "16/08/2026 09:16 CST",
+      "segment": null
+    },
     {
       "title": "#Tomesusprecauciones en #Nayarit se registra cierre parcial de circulación por #AccidenteVial cerca del Km 152+200 de la carretera Guadalajara-Tepic a la altura de la caseta de cobro Santa Maria del Oro con dirección Guadalajara. Atienda indicación Vial.",
       "type": "twitter",
@@ -261,19 +274,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2088763846592737343#m",
       "timestamp": "2026-08-15T23:04:43+00:00",
       "timestamp_display": "15/08/2026 17:04 CST",
-      "segment": null
-    },
-    {
-      "title": "#Tomesusprecauciones en #Michoacán se registra cierre parcial de circulación por #AccidenteVial cerca del Km 008+300 de la carretera La Rinconada-Ecuandureo. Atienda indicación Vial.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 8.3,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2088763301081547017#m",
-      "timestamp": "2026-08-15T23:02:32+00:00",
-      "timestamp_display": "15/08/2026 17:02 CST",
       "segment": null
     },
     {
