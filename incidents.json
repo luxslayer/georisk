@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T09:51:57.144802",
+  "last_update": "2026-08-16T10:22:36.355296",
   "incidents": [
     {
       "title": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del Km 041+500 de la carretera Amozoc - Perote con dirección a Puebla. Maneje con precaución.",
@@ -277,6 +277,32 @@
       "segment": null
     },
     {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Cuernavaca - Acapulco, continúa #lluvia a la altura de la Plaza de Cobro La Venta. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2088931778929033361#m",
+      "timestamp": "2026-08-16T10:12:01+00:00",
+      "timestamp_display": "16/08/2026 04:12 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Cuernavaca - Acapulco, km 142. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 142,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088931515791020049#m",
+      "timestamp": "2026-08-16T10:10:58+00:00",
+      "timestamp_display": "16/08/2026 04:10 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 142. Continúa reducción de carriles en ambos sentidos por atención de accidente (reacomodo de muros). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -541,32 +567,6 @@
         "cordoba",
         "veracruz"
       ]
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 #AutMéxicoCuernavaca, km 75, dirección Cuernavaca. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 75,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088869773807427883#m",
-      "timestamp": "2026-08-16T06:05:38+00:00",
-      "timestamp_display": "16/08/2026 00:05 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Gómez Palacio - Corralitos, km 73, dirección Gómez Palacio. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 73,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088868474550407360#m",
-      "timestamp": "2026-08-16T06:00:28+00:00",
-      "timestamp_display": "16/08/2026 00:00 CST",
-      "segment": null
     }
   ]
 }
