@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T12:00:13.507432",
+  "last_update": "2026-08-16T12:55:03.296732",
   "incidents": [
     {
       "title": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del Km 041+500 de la carretera Amozoc - Perote con dirección a Puebla. Maneje con precaución.",
@@ -277,6 +277,58 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 83,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088971232687313044#m",
+      "timestamp": "2026-08-16T12:48:47+00:00",
+      "timestamp_display": "16/08/2026 06:48 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Se restablece la circulación con reducción de carriles por atención de accidente (incendio de autobús). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088969228221034741#m",
+      "timestamp": "2026-08-16T12:40:49+00:00",
+      "timestamp_display": "16/08/2026 06:40 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 83,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088962603729006645#m",
+      "timestamp": "2026-08-16T12:14:30+00:00",
+      "timestamp_display": "16/08/2026 06:14 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Tinaja - Isla, km 34, dirección La Tinaja. Cierre a la circulación por atención de accidente. El personal de CAPUFE continúa realizando las labores para sofocar el incendio. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 34,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088961417688883519#m",
+      "timestamp": "2026-08-16T12:09:47+00:00",
+      "timestamp_display": "16/08/2026 06:09 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.7603,
@@ -511,58 +563,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088891883758006333#m",
       "timestamp": "2026-08-16T07:33:29+00:00",
       "timestamp_display": "16/08/2026 01:33 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, km 142. Reducción de carriles en ambos sentidos por atención de accidente (choque contra muro central de automóvil). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": 142,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088891551292301407#m",
-      "timestamp": "2026-08-16T07:32:10+00:00",
-      "timestamp_display": "16/08/2026 01:32 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 44, dirección Isla. Reducción de carriles por atención de incidencia. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 44,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088888089645056363#m",
-      "timestamp": "2026-08-16T07:18:24+00:00",
-      "timestamp_display": "16/08/2026 01:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Champotón - Campeche, km 182, dirección Champotón. Continúa reducción de carriles por atención de incidente (caída de árbol). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 182,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088887399153643614#m",
-      "timestamp": "2026-08-16T07:15:40+00:00",
-      "timestamp_display": "16/08/2026 01:15 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Pera - Cuautla, km 1, dirección Cuautla. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 1,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2088887018268786780#m",
-      "timestamp": "2026-08-16T07:14:09+00:00",
-      "timestamp_display": "16/08/2026 01:14 CST",
       "segment": null
     }
   ]
