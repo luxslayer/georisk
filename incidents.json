@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T13:31:05.362826",
+  "last_update": "2026-08-16T13:59:39.175792",
   "incidents": [
     {
       "title": "#ViaLibre en #Tlaxcala tras #AccidenteVial cerca del Km 041+500 de la carretera Amozoc - Perote con dirección a Puebla. Maneje con precaución.",
@@ -277,6 +277,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Tinaja - Isla, km 92, dirección La Tinaja. Continúa reducción de carriles por atención de accidente (salida del camino de tracto camión). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 92,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088986653465493996#m",
+      "timestamp": "2026-08-16T13:50:04+00:00",
+      "timestamp_display": "16/08/2026 07:50 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.93,
+      "lng": -99.22,
+      "road": null,
+      "km": 83,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2088985607208837145#m",
+      "timestamp": "2026-08-16T13:45:54+00:00",
+      "timestamp_display": "16/08/2026 07:45 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Cuernavaca, km 83, dirección Acapulco. Continúa reducción de carriles por atención de accidente (choque por alcance múltiple). Maneja con precaución.",
       "type": "twitter",
       "lat": 18.93,
@@ -537,32 +563,6 @@
       "url": "https://nitter.net/CAPUFE/status/2088900553531150730#m",
       "timestamp": "2026-08-16T08:07:56+00:00",
       "timestamp_display": "16/08/2026 02:07 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista La Tinaja - Isla, km 44, dirección Isla. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 18.7603,
-      "lng": -96.4616,
-      "road": null,
-      "km": 44,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088899463750283499#m",
-      "timestamp": "2026-08-16T08:03:36+00:00",
-      "timestamp_display": "16/08/2026 02:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Champotón - Campeche, km 182, dirección Champotón. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 182,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2088891883758006333#m",
-      "timestamp": "2026-08-16T07:33:29+00:00",
-      "timestamp_display": "16/08/2026 01:33 CST",
       "segment": null
     }
   ]
