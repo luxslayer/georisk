@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-17T09:57:08.246089",
+  "last_update": "2026-08-17T10:36:47.744913",
   "incidents": [
     {
       "title": "#Tomesusprecauciones en #EdoMex se registra cierre parcial de circulación por #AccidenteVial cerca del Km 029+300 de la carretera Texcoco-Ecatepec. Atienda indicación Vial.",
@@ -265,6 +265,19 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Guadalajara - Colima, km 125, dirección Guadalajara. El accidente ha sido atendido, por lo que se restablece la circulación desde la Plaza de Cobro San Marcos. Sin embargo, en la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 125,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089296921114382442#m",
+      "timestamp": "2026-08-17T10:22:57+00:00",
+      "timestamp_display": "17/08/2026 04:22 CST",
+      "segment": null
+    },
+    {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guaymas - Hermosillo, km 171, dirección Hermosillo. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
       "lat": 29.07,
@@ -503,35 +516,6 @@
         "nuevo teapa",
         "cosoleacaque"
       ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Isla - Cosoleacaque, Plaza de Cobro Acayucan. Continúa carga vehicular en dirección Cosoleacaque, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.0,
-      "lng": -94.63,
-      "road": 145,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089211963125453087#m",
-      "timestamp": "2026-08-17T04:45:22+00:00",
-      "timestamp_display": "16/08/2026 22:45 CST",
-      "segment": [
-        "acayucan",
-        "cosoleacaque"
-      ]
-    },
-    {
-      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Continúa carga vehicular en dirección Puebla, por periodo vacacional. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.0414,
-      "lng": -98.2063,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089211695306514581#m",
-      "timestamp": "2026-08-17T04:44:18+00:00",
-      "timestamp_display": "16/08/2026 22:44 CST",
-      "segment": null
     }
   ]
 }
