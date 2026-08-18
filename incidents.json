@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T16:31:20.382104",
+  "last_update": "2026-08-18T17:04:12.056135",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Colima se registra cierre parcial de circulación cerca del Km 097+000 de la carretera Puerto Vallarta-Manzanillo. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Acatzingo - Cd. Mendoza, km 243, dirección Cd. Mendoza. El accidente ha sido atendido. En la zona se registra carga vehicular intensa. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 243,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089756571072868830#m",
+      "timestamp": "2026-08-18T16:49:27+00:00",
+      "timestamp_display": "18/08/2026 10:49 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Guadalajara - Colima, Plaza de Cobro Sayula, dirección Guadalajara. Reducción de carriles por atención de choque contra cabina. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/eftmvD9dNVLTbF6P6",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089754477179904267#m",
+      "timestamp": "2026-08-18T16:41:07+00:00",
+      "timestamp_display": "18/08/2026 10:41 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 265, dirección Córdoba. Continúa reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.8885,
@@ -505,32 +531,6 @@
       "url": "https://nitter.net/CAPUFE/status/2089654464915419489#m",
       "timestamp": "2026-08-18T10:03:42+00:00",
       "timestamp_display": "18/08/2026 04:03 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 224, dirección La Carbonera. Continúa cierre a la circulación por atención de accidente (maniobras para el retiro de las unidades siniestradas). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 224,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089648254195560529#m",
-      "timestamp": "2026-08-18T09:39:02+00:00",
-      "timestamp_display": "18/08/2026 03:39 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista La Carbonera - Puerto México, km 224, dirección La Carbonera. Registra cierre a la circulación por atención de accidente (choque por alcance entre tracto camiones). 🔘 Por seguridad de las personas usuarias, las Plazas de Cobro Los Chorros y Huachichil permanecerán cerradas en esa dirección. Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 25.1685,
-      "lng": -100.7189,
-      "road": null,
-      "km": 224,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089637362930250228#m",
-      "timestamp": "2026-08-18T08:55:45+00:00",
-      "timestamp_display": "18/08/2026 02:55 CST",
       "segment": null
     }
   ]
