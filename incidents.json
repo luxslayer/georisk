@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-18T04:51:57.997853",
+  "last_update": "2026-08-18T05:29:09.912558",
   "incidents": [
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 37, dirección Guadalajara. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 37,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089583053454578170#m",
+      "timestamp": "2026-08-18T05:19:57+00:00",
+      "timestamp_display": "17/08/2026 23:19 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Guadalajara - Colima, km 37, dirección Colima. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 37,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089578361848754601#m",
+      "timestamp": "2026-08-18T05:01:18+00:00",
+      "timestamp_display": "17/08/2026 23:01 CST",
+      "segment": null
+    },
     {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Hermosillo - Magdalena, km 158, dirección Magdalena. Reducción de carriles por atención de choque por alcance múltiple entre camión de carga y automóviles. Maneja con precaución. Consulta la ubicación aquí: https://maps.app.goo.gl/QJtdeW1TNyNtqMsv6",
       "type": "twitter",
@@ -234,22 +260,6 @@
       "timestamp": "2026-08-18T00:44:24+00:00",
       "timestamp_display": "17/08/2026 18:44 CST",
       "segment": null
-    },
-    {
-      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ #AutMéxicoPuebla, registra #lluvia a la altura de la Plaza de Cobro San Martín. Disminuye tu velocidad y maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.4326,
-      "lng": -99.1332,
-      "road": 150,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089507236833853623#m",
-      "timestamp": "2026-08-18T00:18:41+00:00",
-      "timestamp_display": "17/08/2026 18:18 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
     }
   ]
 }
