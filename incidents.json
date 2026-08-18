@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T22:23:29.417463",
+  "last_update": "2026-08-18T22:51:14.187653",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 055+500 de la carretera León-Aguascalientes. Atienda Indicación vial.",
@@ -271,6 +271,32 @@
       "url": "https://nitter.net/GN_Carreteras/status/2089568475236745416#m",
       "timestamp": "2026-08-18T04:22:01+00:00",
       "timestamp_display": "17/08/2026 22:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CARGA VEHICULAR 🟠 Autopista Puebla - Acatzingo, Plaza de Cobro Amozoc. Carga vehicular en dirección Puebla, sin reporte de incidentes. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 19.0414,
+      "lng": -98.2063,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089845854337142829#m",
+      "timestamp": "2026-08-18T22:44:13+00:00",
+      "timestamp_display": "18/08/2026 16:44 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 #AutMéxicoQuerétaro, km 127, dirección Querétaro. Cierre a la circulación por atención de accidente (maniobras para el retiro de tracto camión siniestrado). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 20.5888,
+      "lng": -100.3899,
+      "road": null,
+      "km": 127,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089841808805134669#m",
+      "timestamp": "2026-08-18T22:28:09+00:00",
+      "timestamp_display": "18/08/2026 16:28 CST",
       "segment": null
     },
     {
@@ -549,32 +575,6 @@
       "url": "https://nitter.net/CAPUFE/status/2089820040686190814#m",
       "timestamp": "2026-08-18T21:01:39+00:00",
       "timestamp_display": "18/08/2026 15:01 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: 🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 5, dirección Colima. Se informa a las personas usuarias que el accidente ha sido atendido, por lo que se restablece la circulación desde el km 0. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 20.6597,
-      "lng": -103.3496,
-      "road": null,
-      "km": 5,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089819520710164900#m",
-      "timestamp": "2026-08-18T20:59:35+00:00",
-      "timestamp_display": "18/08/2026 14:59 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Cuernavaca - Acapulco, Plaza de Cobro Ing. Francisco Velasco Durán, dirección Cuernavaca. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 18.93,
-      "lng": -99.22,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089818415091335488#m",
-      "timestamp": "2026-08-18T20:55:11+00:00",
-      "timestamp_display": "18/08/2026 14:55 CST",
       "segment": null
     }
   ]
