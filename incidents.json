@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T17:42:55.013448",
+  "last_update": "2026-08-18T18:03:47.917603",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Colima se registra cierre parcial de circulación cerca del Km 097+000 de la carretera Puerto Vallarta-Manzanillo. Atienda indicación vial.",
@@ -265,6 +265,32 @@
       "segment": null
     },
     {
+      "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista La Tinaja - Isla, del km 66 al 69, dirección La Tinaja. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 18.7603,
+      "lng": -96.4616,
+      "road": null,
+      "km": 66,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089773545177911798#m",
+      "timestamp": "2026-08-18T17:56:53+00:00",
+      "timestamp_display": "18/08/2026 11:56 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Lagos de Moreno - San Luis Potosí, km 58. Continúa circulación intermitente en ambos sentidos por atención de accidente (maniobras para el retiro de las unidades siniestradas). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 22.15,
+      "lng": -100.98,
+      "road": null,
+      "km": 58,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089772188094075332#m",
+      "timestamp": "2026-08-18T17:51:30+00:00",
+      "timestamp_display": "18/08/2026 11:51 CST",
+      "segment": null
+    },
+    {
       "title": "🚧 OBRAS Y LABORES DE MANTENIMIENTO 🚧 Autopista Cd. Mendoza - Córdoba, km 288, dirección Cd. Mendoza. Reducción de carriles por labores de mantenimiento. En la zona se registra carga vehicular. Maneja con precaución.",
       "type": "twitter",
       "lat": 18.8885,
@@ -508,35 +534,6 @@
       "url": "https://nitter.net/CAPUFE/status/2089723627810001287#m",
       "timestamp": "2026-08-18T14:38:32+00:00",
       "timestamp_display": "18/08/2026 08:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 #AutMéxicoPuebla, km 24, dirección CDMX. Reducción de carriles por atención de accidente (choque por alcance). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 19.31797826812674,
-      "lng": -98.95192020412802,
-      "road": 150,
-      "km": 6,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089705204044173632#m",
-      "timestamp": "2026-08-18T13:25:20+00:00",
-      "timestamp_display": "18/08/2026 07:25 CST",
-      "segment": [
-        "mexico",
-        "puebla"
-      ]
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Plan de Ayala - El Porvenir, km 20, dirección Saltillo. Reducción de carriles por atención de accidente (choque de tracto camión contra barrera metálica).",
-      "type": "twitter",
-      "lat": 25.4267,
-      "lng": -101.0053,
-      "road": null,
-      "km": 20,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089703662410932410#m",
-      "timestamp": "2026-08-18T13:19:12+00:00",
-      "timestamp_display": "18/08/2026 07:19 CST",
       "segment": null
     }
   ]
