@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-18T10:03:30.709822",
+  "last_update": "2026-08-18T10:46:28.506116",
   "incidents": [
+    {
+      "title": "#TomePrecauciones en #Michoacan continua cierre parcial de circulación por #AccidenteVial cerca del km. 376+000 de la carretera Zinapécuaro-Guadalajara, a inmediaciones del municipio Tanhuato, con dirección a Morelia, atienda indicación vial.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2089664426332786805#m",
+      "timestamp": "2026-08-18T10:43:17+00:00",
+      "timestamp_display": "18/08/2026 04:43 CST",
+      "segment": null
+    },
+    {
+      "title": "#TomePrecauciones en #Tlaxcala continua cierre parcial de circulación por conclusión de maniobras tras #AccidenteVial cerca del km. 006+500 de la carretera Los Reyes – Zacatepec, a la altura del Mpio. Apizaco, atiende indicación vial.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": null,
+      "risk": "high",
+      "url": "https://nitter.net/GN_Carreteras/status/2089663301160452305#m",
+      "timestamp": "2026-08-18T10:38:49+00:00",
+      "timestamp_display": "18/08/2026 04:38 CST",
+      "segment": null
+    },
     {
       "title": "En #EdoMéx continua presencia de personas, cerca del km 013+100, de la carretera Toluca-Palmillas, a la altura de la Plaza de Cobro El Dorado, Toluca, Edo. Méx. Atienda indicación vial.",
       "type": "twitter",
@@ -233,32 +259,6 @@
       "url": "https://nitter.net/GN_Carreteras/status/2089506944318861526#m",
       "timestamp": "2026-08-18T00:17:31+00:00",
       "timestamp_display": "17/08/2026 18:17 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #EdoMéx continua cierre parcial de circulación por #AccidenteVial cerca del km. 136+800 de la carretera México-Querétaro, a la altura del Mpio. Polotitlán, con dirección a Polotitlán. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 20.5888,
-      "lng": -100.3899,
-      "road": null,
-      "km": null,
-      "risk": "high",
-      "url": "https://nitter.net/GN_Carreteras/status/2089476405071417722#m",
-      "timestamp": "2026-08-17T22:16:10+00:00",
-      "timestamp_display": "17/08/2026 16:16 CST",
-      "segment": null
-    },
-    {
-      "title": "#TomePrecauciones en #Oaxaca continua cierre parcial de circulación por presencia de personas, cerca del km. 220+000 de la carretera Cuacnopalan-Oaxaca, a la altura del Mpio. San Pablo Huitzo. Atienda indicación vial.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/GN_Carreteras/status/2089473712172965942#m",
-      "timestamp": "2026-08-17T22:05:28+00:00",
-      "timestamp_display": "17/08/2026 16:05 CST",
       "segment": null
     }
   ]
