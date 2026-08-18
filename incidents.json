@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T23:21:45.822079",
+  "last_update": "2026-08-18T23:47:10.057971",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Jalisco se registra cierre parcial de circulación por #AccidenteVial cerca del Km 055+500 de la carretera León-Aguascalientes. Atienda Indicación vial.",
@@ -271,6 +271,58 @@
       "url": "https://nitter.net/GN_Carreteras/status/2089568475236745416#m",
       "timestamp": "2026-08-18T04:22:01+00:00",
       "timestamp_display": "17/08/2026 22:22 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣. Consulta la ubicación aquí: https://maps.app.goo.gl/boAkbByjgCkLMo3j9",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089711091127337248#m",
+      "timestamp": "2026-08-18T13:48:43+00:00",
+      "timestamp_display": "18/08/2026 07:48 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089821932615041119#m",
+      "timestamp": "2026-08-18T21:09:10+00:00",
+      "timestamp_display": "18/08/2026 15:09 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089858657965973517#m",
+      "timestamp": "2026-08-18T23:35:06+00:00",
+      "timestamp_display": "18/08/2026 17:35 CST",
+      "segment": null
+    },
+    {
+      "title": "🌧️🌩️ CONDICIONES CLIMÁTICAS 🌧️🌩️ Autopista Guadalajara - Colima, registra #lluvia del km 83 al 87. Disminuye tu velocidad y maneja con precaución.",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 83,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089856455721586922#m",
+      "timestamp": "2026-08-18T23:26:21+00:00",
+      "timestamp_display": "18/08/2026 17:26 CST",
       "segment": null
     },
     {
