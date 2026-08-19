@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-19T09:57:51.879547",
+  "last_update": "2026-08-19T10:36:12.604168",
   "incidents": [
     {
       "title": "#Tomeprecauciones en #Morelos se registra cierre parcial de circulación por #AccidenteVial cerca del Km 110+000 de la carretera Tepoztlán - Cuautla con dirección Cuautla. Atienda Indicación vial.",
@@ -280,6 +280,84 @@
       "segment": null
     },
     {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Chamapa - Lechería, km 16, dirección Lechería. Continúa reducción de carriles por atención de accidente (trasvase de carga y maniobras para retiro de unidad siniestrada). En la zona se registra carga vehicular. Maneja con precaución.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 16,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2090022470354964879#m",
+      "timestamp": "2026-08-19T10:26:02+00:00",
+      "timestamp_display": "19/08/2026 04:26 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Libramiento Poniente Acapulco, km 9, dirección La Venta. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 9,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2090022142368694414#m",
+      "timestamp": "2026-08-19T10:24:44+00:00",
+      "timestamp_display": "19/08/2026 04:24 CST",
+      "segment": null
+    },
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣. Consulta la ubicación aquí: https://maps.app.goo.gl/boAkbByjgCkLMo3j9",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089711091127337248#m",
+      "timestamp": "2026-08-18T13:48:43+00:00",
+      "timestamp_display": "18/08/2026 07:48 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2089960029793538179#m",
+      "timestamp": "2026-08-19T06:17:55+00:00",
+      "timestamp_display": "19/08/2026 00:17 CST",
+      "segment": null
+    },
+    {
+      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 17.072,
+      "lng": -96.72,
+      "road": null,
+      "km": null,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2090017804132950151#m",
+      "timestamp": "2026-08-19T10:07:29+00:00",
+      "timestamp_display": "19/08/2026 04:07 CST",
+      "segment": null
+    },
+    {
+      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Isla - Acayucan, km 164, dirección Acayucan. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
+      "type": "twitter",
+      "lat": 17.94,
+      "lng": -94.91,
+      "road": null,
+      "km": 164,
+      "risk": "normal",
+      "url": "https://nitter.net/CAPUFE/status/2090016847395537208#m",
+      "timestamp": "2026-08-19T10:03:41+00:00",
+      "timestamp_display": "19/08/2026 04:03 CST",
+      "segment": null
+    },
+    {
       "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Acapulco, km 9, dirección La Venta. Continúa reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
       "type": "twitter",
       "lat": 23.5,
@@ -488,84 +566,6 @@
       "url": "https://nitter.net/CAPUFE/status/2089965089394725254#m",
       "timestamp": "2026-08-19T06:38:01+00:00",
       "timestamp_display": "19/08/2026 00:38 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Libramiento Poniente Acapulco, km 9, dirección La Venta. Reducción de carriles por atención de incidente (tracto camión con falla mecánica). Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 9,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089962754618609694#m",
-      "timestamp": "2026-08-19T06:28:44+00:00",
-      "timestamp_display": "19/08/2026 00:28 CST",
-      "segment": null
-    },
-    {
-      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Isla - Acayucan, km 139, dirección Acayucan. El incidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
-      "type": "twitter",
-      "lat": 17.94,
-      "lng": -94.91,
-      "road": null,
-      "km": 139,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089960219778666839#m",
-      "timestamp": "2026-08-19T06:18:40+00:00",
-      "timestamp_display": "19/08/2026 00:18 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que se registra cierre a la circulación en ambos sentidos por presencia de manifestantes. Toma tus precauciones. Para más información, llama al 0️⃣7️⃣4️⃣. Consulta la ubicación aquí: https://maps.app.goo.gl/boAkbByjgCkLMo3j9",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089711091127337248#m",
-      "timestamp": "2026-08-18T13:48:43+00:00",
-      "timestamp_display": "18/08/2026 07:48 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089915669118672920#m",
-      "timestamp": "2026-08-19T03:21:38+00:00",
-      "timestamp_display": "18/08/2026 21:21 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Autopista Tehuacán - Oaxaca, Plaza de Cobro Huitzo. Se informa a las personas usuarias que continúa presencia de manifestantes en ambos sentidos, sin cierre a la circulación. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 17.072,
-      "lng": -96.72,
-      "road": null,
-      "km": null,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089960029793538179#m",
-      "timestamp": "2026-08-19T06:17:55+00:00",
-      "timestamp_display": "19/08/2026 00:17 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista La Pera - Cuautla, km 33, dirección Cuautla. Continúa cierre a la circulación en carriles centrales por atención de accidente (choque por alcance múltiple). Circulación por carriles laterales. Maneja con precaución.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 33,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089959657309884441#m",
-      "timestamp": "2026-08-19T06:16:26+00:00",
-      "timestamp_display": "19/08/2026 00:16 CST",
       "segment": null
     }
   ]
