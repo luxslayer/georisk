@@ -1,6 +1,32 @@
 {
-  "last_update": "2026-08-19T08:36:57.362511",
+  "last_update": "2026-08-19T09:18:57.976565",
   "incidents": [
+    {
+      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Autopista Gómez Palacio - Corralitos, km 157, dirección Gómez Palacio. Cierre a la circulación por atención de accidente (choque por alcance e incendio de tracto camión). Toma tus precauciones. Para más información llama al 0⃣7⃣4⃣.",
+      "type": "twitter",
+      "lat": 23.5,
+      "lng": -102.0,
+      "road": null,
+      "km": 157,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2090004530876301425#m",
+      "timestamp": "2026-08-19T09:14:45+00:00",
+      "timestamp_display": "19/08/2026 03:14 CST",
+      "segment": null
+    },
+    {
+      "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Guadalajara - Colima, km 117, dirección Colima. El accidente ha sido atendido. Tramo opera de manera normal. Maneja con precaución. 🚌🚙🚗🏍️",
+      "type": "twitter",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "road": null,
+      "km": 117,
+      "risk": "high",
+      "url": "https://nitter.net/CAPUFE/status/2089998619667554472#m",
+      "timestamp": "2026-08-19T08:51:15+00:00",
+      "timestamp_display": "19/08/2026 02:51 CST",
+      "segment": null
+    },
     {
       "title": "🟢 RESTABLECIMIENTO DE CIRCULACIÓN 🟢 Autopista Las Choapas - Ocozocoautla, km 148. El accidente ha sido atendido. Tramo opera de manera normal en ambos sentidos. Maneja con precaución. 🚌🚙🚗🏍️",
       "type": "twitter",
@@ -288,58 +314,6 @@
       "url": "https://nitter.net/CAPUFE/status/2089954225300078735#m",
       "timestamp": "2026-08-19T05:54:51+00:00",
       "timestamp_display": "18/08/2026 23:54 CST",
-      "segment": null
-    },
-    {
-      "title": "🟠 CIERRE PARCIAL DE CIRCULACIÓN 🟠 Autopista Las Choapas - Ocozocoautla, km 148. Se restablece la circulación de manera intermitente para ambos sentidos. El personal continúa laborando en la atención del accidente (maniobras para el retiro de tracto camión siniestrado). En la zona se registra carga vehicular. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 23.5,
-      "lng": -102.0,
-      "road": null,
-      "km": 148,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089952775014609310#m",
-      "timestamp": "2026-08-19T05:49:05+00:00",
-      "timestamp_display": "18/08/2026 23:49 CST",
-      "segment": null
-    },
-    {
-      "title": "🔴 CIERRE DE CIRCULACIÓN 🔴 Libramiento Oriente de Chihuahua, km 40. Cierre a la circulación en ambos sentidos por atención de choque de frente entre automóviles. Toma tus precauciones. Consulta la ubicación aquí: https://maps.app.goo.gl/nNsUMm4ZJjVVSMSH9",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 40,
-      "risk": "normal",
-      "url": "https://nitter.net/CAPUFE/status/2089910233887871190#m",
-      "timestamp": "2026-08-19T03:00:03+00:00",
-      "timestamp_display": "18/08/2026 21:00 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Oriente de Chihuahua, km 40. Se informa a las personas usuarias que continúa cierre a la circulación en ambos sentidos por maniobras de grúa para el retiro de las unidades siniestradas. Toma tus precauciones. Para más información llama al 0️⃣7️⃣4️⃣.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089927050798698714#m",
-      "timestamp": "2026-08-19T04:06:52+00:00",
-      "timestamp_display": "18/08/2026 22:06 CST",
-      "segment": null
-    },
-    {
-      "title": "R to @CAPUFE: ☑️ ACTUALIZACIÓN. Libramiento Oriente de Chihuahua, km 40. Se informa a las personas usuarias que el accidente ha sido atendido. Sin embargo, en la zona se registra carga vehicular en ambos sentidos. Maneja con precaución. Para más información llama al 0⃣7⃣4⃣.",
-      "type": "twitter",
-      "lat": 28.63,
-      "lng": -106.08,
-      "road": null,
-      "km": 40,
-      "risk": "high",
-      "url": "https://nitter.net/CAPUFE/status/2089951206001053706#m",
-      "timestamp": "2026-08-19T05:42:51+00:00",
-      "timestamp_display": "18/08/2026 23:42 CST",
       "segment": null
     }
   ]
